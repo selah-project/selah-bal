@@ -5,8 +5,85 @@
   "book": "ecclesiastes",
   "lang": "bal",
   "chapter": 8,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-24T23:54:41.857844099Z",
+  "translation": "کہ گنہکار سد رند شر کنیت ءُ آییءَ پہ دراز کنیت، کیچہ من ہم زانت کہ ایلوہیمءِ ڈریوکانی پہ چنگ بیت، کہ آییءِ پیشءَ چہ ڈرنت.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گنہکار"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سد رند"
+    },
+    {
+      "surface": "ומאריך",
+      "gloss": "ءُ دراز کنیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "ڈریوکانی پہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "ڈرنت"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "آییءِ پیشءَ چہ"
+    }
+  ],
+  "timestamp": "2026-09-25T15:37:25.696424958Z",
   "model": "glm-5.3"
 }

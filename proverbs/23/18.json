@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "bal",
   "chapter": 23,
-  "translation": "پرچا کہ یقیناً یک رندءِ انجامءِ ⟨هست⟩، ءُ تُئے امید نہ دریت۔",
+  "translation": "چرا کہ یک آخرت ہست، ءُ تیری امید نہ کپیت۔",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "پرچا کہ"
+      "gloss": "چرا کہ"
     },
     {
       "surface": "אם",
-      "gloss": "یقیناً"
+      "gloss": "<یقیناں>"
     },
     {
-      "surface": "יש",
-      "gloss": "هست"
+      "surface": "יֵשׁ",
+      "gloss": "ہست"
     },
     {
-      "surface": "אחרית",
-      "gloss": "رندءِ انجام"
+      "surface": "אַחֲרִית",
+      "gloss": "آخرت"
     },
     {
       "surface": "ותקותך",
-      "gloss": "ءُ تُئے امید"
+      "gloss": "ءُ تیری امید"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "نہ"
     },
     {
-      "surface": "תכרת",
-      "gloss": "دریت"
+      "surface": "תִכָּרֵת",
+      "gloss": "کپیت"
     }
   ],
-  "timestamp": "2026-09-24T23:28:44.351493736Z",
+  "timestamp": "2026-09-25T20:17:45.544962228Z",
   "model": "glm-5.3"
 }

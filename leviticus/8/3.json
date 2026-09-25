@@ -5,42 +5,42 @@
   "book": "leviticus",
   "lang": "bal",
   "chapter": 8,
-  "translation": "ءُ ⟨את⟩ تمام قومءَ ملاقاتءِ گدانءِ پیشاگرءَ جمع کن۔",
+  "translation": "ءُ ⟨את⟩ گیش مجمعءَ جمع کن ملاقاتءِ گدانی دروازئَ۔",
   "tokens": [
     {
-      "surface": "ואת",
+      "surface": "וְאֵ֥ת",
       "gloss": "ءُ ⟨את⟩",
-      "marks": "تمام قوم"
+      "marks": "گیش مجمع"
     },
     {
-      "surface": "כל",
-      "gloss": "تمام"
+      "surface": "כָּל",
+      "gloss": "گیش"
     },
     {
-      "surface": "העדה",
-      "gloss": "قوم"
+      "surface": "הָעֵדָ֖ה",
+      "gloss": "مجمع"
     },
     {
-      "surface": "הקהל",
+      "surface": "הַקְהֵ֑ל",
       "gloss": "جمع کن"
     },
     {
-      "surface": "אל",
-      "gloss": "ءَ"
+      "surface": "אֶל",
+      "gloss": "تہ"
     },
     {
-      "surface": "פתח",
-      "gloss": "پیشاگرءَ"
+      "surface": "פֶּ֖תַח",
+      "gloss": "دروازہ"
     },
     {
-      "surface": "אהל",
-      "gloss": "گadanءِ"
+      "surface": "אֹ֥הֶל",
+      "gloss": "گدان"
     },
     {
-      "surface": "מועד",
-      "gloss": "ملاقاتءِ"
+      "surface": "מוֹעֵֽד",
+      "gloss": "ملاقات"
     }
   ],
-  "timestamp": "2026-09-24T19:14:08.544079608Z",
+  "timestamp": "2026-09-25T19:27:45.249005454Z",
   "model": "glm-5.3"
 }

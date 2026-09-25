@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "bal",
   "chapter": 55,
-  "translation": "من <رضا>؟ نه:",
-  "tokens": [],
-  "timestamp": "2026-09-24T22:58:55.715249097Z",
+  "translation": "من ایلوہیمءَ بانگ کنیت، ءُ یاہوہ منءَ نجات دیت۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "بانگ کنیت"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "منءَ نجات دیت"
+    }
+  ],
+  "timestamp": "2026-09-25T20:41:52.386937842Z",
   "model": "glm-5.3"
 }

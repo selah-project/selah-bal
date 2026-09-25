@@ -5,43 +5,43 @@
   "book": "ruth",
   "lang": "bal",
   "chapter": 4,
-  "translation": "ءُ حصرون ⟨את⟩ رامءَ پیدا کت، ءُ رام ⟨את⟩ عمینادابءَ پیدا کت.",
+  "translation": "ءُ حصرون ⟨את⟩ رامءَ گندیت، ءُ رام ⟨את⟩ عمینادبءَ گندیت،",
   "tokens": [
     {
-      "surface": "וחצרון",
+      "surface": "וְחֶצְרוֹן",
       "gloss": "ءُ حصرون"
     },
     {
-      "surface": "הוליד",
-      "gloss": "پیدا کت"
+      "surface": "הוֹלִיד",
+      "gloss": "گندیت"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "رامءَ"
     },
     {
-      "surface": "רם",
-      "gloss": "رامءَ"
+      "surface": "רָם",
+      "gloss": "رام"
     },
     {
-      "surface": "ורם",
+      "surface": "וְרָם",
       "gloss": "ءُ رام"
     },
     {
-      "surface": "הוליד",
-      "gloss": "پیدا کت"
+      "surface": "הוֹלִיד",
+      "gloss": "گندیت"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "عمینادابءَ"
+      "marks": "عمینادبءَ"
     },
     {
-      "surface": "עמינדב",
-      "gloss": "عمینادابءَ"
+      "surface": "עַמִּינָדָב",
+      "gloss": "عمینادب"
     }
   ],
-  "timestamp": "2026-09-24T23:48:15.571401338Z",
+  "timestamp": "2026-09-25T20:52:06.306099596Z",
   "model": "glm-5.3"
 }

@@ -5,12 +5,12 @@
   "book": "2-chronicles",
   "lang": "bal",
   "chapter": 11,
-  "translation": "ءُ ⟨את⟩ بیت صُور ءُ ⟨את⟩ سوکو ءُ ⟨את⟩ عدلام،",
+  "translation": "ءُ ⟨את⟩ بیت سور ءُ ⟨את⟩ سوکو ءُ ⟨את⟩ عدلم",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
-      "marks": "بیت صُور"
+      "marks": "بیت سور"
     },
     {
       "surface": "בית",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "צור",
-      "gloss": "صُور"
+      "gloss": "سور"
     },
     {
       "surface": "ואת",
@@ -32,13 +32,13 @@
     {
       "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
-      "marks": "عدلام"
+      "marks": "عدلم"
     },
     {
       "surface": "עדלם",
-      "gloss": "عدلام"
+      "gloss": "عدلم"
     }
   ],
-  "timestamp": "2026-09-25T00:35:34.187826616Z",
+  "timestamp": "2026-09-25T13:38:12.620156397Z",
   "model": "glm-5.3"
 }

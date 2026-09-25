@@ -5,8 +5,69 @@
   "book": "ezekiel",
   "lang": "bal",
   "chapter": 17,
-  "translation": "…",
-  "tokens": [],
-  "timestamp": "2026-09-24T22:14:18.229830902Z",
+  "translation": "تہ یک چنگ مزرعءَ، تہ گیشتریں آپانءَ، آ شند بوتگ، کہ شاخان درا کنت ءُ کہ پھل گپت کنت، کہ یک شکوہتیں انگور بیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "مزرع"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیشتریں"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "شند بوتگ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کہ درا کنت"
+    },
+    {
+      "surface": "ענף",
+      "gloss": "شاخان"
+    },
+    {
+      "surface": "ולשאת",
+      "gloss": "ءُ کہ گپت کنت"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "کہ بیت"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "پہ انگور"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "شکوہتیں"
+    }
+  ],
+  "timestamp": "2026-09-25T16:09:43.995986505Z",
   "model": "glm-5.3"
 }

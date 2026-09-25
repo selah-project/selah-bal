@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "bal",
   "chapter": 8,
-  "translation": "ءُ بوت بیست سالءِ پچءَ، کہ شلومہءَ یاہوہءِ گadan ⟨את⟩ ءُ ءُ ⟨את⟩ آییءِ گadan جوڑ کت اَت.",
+  "translation": "ءُ اِشے بیت چہ آخرِ بیست سالءَ کہ شلوموہ یاہوہءِ گدان ءُ ⟨את⟩ وتی گدان جوڑ کتگ.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "بوت"
+      "gloss": "ءُ اِشے بیت"
     },
     {
       "surface": "מקץ",
-      "gloss": "پچ"
+      "gloss": "چہ آخر"
     },
     {
       "surface": "עשרים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שנה",
-      "gloss": "سال"
+      "gloss": "سالءَ"
     },
     {
       "surface": "אשר",
@@ -29,35 +29,35 @@
     },
     {
       "surface": "בנה",
-      "gloss": "جوڑ کت"
+      "gloss": "جوڑ کتگ"
     },
     {
       "surface": "שלמה",
-      "gloss": "شلومہ"
+      "gloss": "شلوموہ ⟨سلیمان⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "یاہوہءِ گadan"
+      "marks": "یاہوہءِ گدان"
     },
     {
       "surface": "בית",
-      "gloss": "گadan"
+      "gloss": "گدان"
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہ"
+      "gloss": "یاہوہءِ"
     },
     {
       "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
-      "marks": "آییءِ گadan"
+      "marks": "وتی گدان"
     },
     {
       "surface": "ביתו",
-      "gloss": "آییءِ گadan"
+      "gloss": "وتی گدان"
     }
   ],
-  "timestamp": "2026-09-25T00:36:04.352142594Z",
+  "timestamp": "2026-09-25T13:59:17.329102695Z",
   "model": "glm-5.3"
 }

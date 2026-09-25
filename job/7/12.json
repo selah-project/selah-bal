@@ -5,45 +5,41 @@
   "book": "job",
   "lang": "bal",
   "chapter": 7,
-  "translation": "آیا من دَریا اَنت، یا اَژدَہا، کہ منی سرءَ پَہدارءِ گَنت؟",
+  "translation": "آیا من یک سمندر اَم، یا کہ تنین، کہ تُو منی سرا نگاہبانی گشتی؟",
   "tokens": [
     {
-      "surface": "הים",
-      "gloss": "دَریا"
+      "surface": "הֲֽיָם",
+      "gloss": "آیا سمندر"
     },
     {
-      "surface": "آیا",
-      "gloss": "آیا"
+      "surface": "אָ֭נִי",
+      "gloss": "من اَم"
     },
     {
-      "surface": "אני",
-      "gloss": "من"
+      "surface": "אִם",
+      "gloss": "یا کہ"
     },
     {
-      "surface": "אם",
-      "gloss": "یا"
+      "surface": "תַּנִּ֑ין",
+      "gloss": "تنین"
     },
     {
-      "surface": "תנין",
-      "gloss": "اَژدَہا"
-    },
-    {
-      "surface": "כי",
+      "surface": "כִּֽי",
       "gloss": "کہ"
     },
     {
-      "surface": "תשים",
-      "gloss": "گَنت"
+      "surface": "תָּשִׂ֖ים",
+      "gloss": "تُو گشتی"
     },
     {
-      "surface": "עלי",
-      "gloss": "منی سرءَ"
+      "surface": "עָלַ֣י",
+      "gloss": "منی سرا"
     },
     {
-      "surface": "משמר",
-      "gloss": "پَہدارءِ"
+      "surface": "מִשְׁמָֽר",
+      "gloss": "نگاہبانی"
     }
   ],
-  "timestamp": "2026-09-24T23:32:47.031427555Z",
+  "timestamp": "2026-09-25T18:33:34.889205639Z",
   "model": "glm-5.3"
 }

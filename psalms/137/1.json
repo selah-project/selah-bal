@@ -5,50 +5,50 @@
   "book": "psalms",
   "lang": "bal",
   "chapter": 137,
-  "translation": "بابلءِ روچانی سرءَ آما شت ءُ ہم گریان بوت، چہ آیہ ⟨את⟩ صیونءَ یاد کت۔",
+  "translation": "بابلءِ ڈراوانی سرءَ اودا مہ گیشت ءُ روئے کت، چہ زکری ءَ ⟨את⟩ صییونءَ.",
   "tokens": [
     {
-      "surface": "על",
+      "surface": "עַ֥ל",
       "gloss": "سرءَ"
     },
     {
-      "surface": "נהרות",
-      "gloss": "روچان"
+      "surface": "נַהֲר֨וֹת",
+      "gloss": "ڈراوانی"
     },
     {
-      "surface": "בבל",
-      "gloss": "بابل"
+      "surface": "בָּבֶ֗ל",
+      "gloss": "بابلءِ"
     },
     {
-      "surface": "שם",
-      "gloss": "آما"
+      "surface": "שָׁ֣ם",
+      "gloss": "اودا"
     },
     {
-      "surface": "ישבנו",
-      "gloss": "شت"
+      "surface": "יָ֭שַׁבְנוּ",
+      "gloss": "مہ گیشت"
     },
     {
-      "surface": "גם",
-      "gloss": "ہم"
+      "surface": "גַּ֣ם",
+      "gloss": "ءُ"
     },
     {
-      "surface": "בכינו",
-      "gloss": "گریان بوت"
+      "surface": "בָּכִ֑ינוּ",
+      "gloss": "روئے کت"
     },
     {
-      "surface": "בזכרנו",
-      "gloss": "چہ آیہ یاد کت"
+      "surface": "בְּזָכְרֵ֗נוּ",
+      "gloss": "چہ زکری ءَ"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "صیون"
+      "marks": "صییونءَ"
     },
     {
-      "surface": "ציון",
-      "gloss": "صیون"
+      "surface": "צִיּֽוֹן",
+      "gloss": "صییون"
     }
   ],
-  "timestamp": "2026-09-24T23:19:11.590730057Z",
+  "timestamp": "2026-09-25T20:31:27.061629371Z",
   "model": "glm-5.3"
 }

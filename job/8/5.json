@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "bal",
   "chapter": 8,
-  "translation": "اے کہ تو سحرءِ وہدءَ ایلءَ گشیت ءُ ایل شدّایءَ لوطار کنیت،",
+  "translation": "اگر تو چڑی ایلءَ ڈوژیں ءُ ایل شدّایءَ پہ رحمت لوٹیں،",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "اے کہ"
+      "gloss": "اگر"
     },
     {
       "surface": "אתה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "תשחר",
-      "gloss": "سحرءِ وہدءَ گشیت"
+      "gloss": "چڑی ڈوژیں"
     },
     {
       "surface": "אל",
-      "gloss": "پہ"
+      "gloss": "ءَ (preposition introduced by verb) — marked object: ایل"
     },
     {
       "surface": "אל",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ءُ پہ"
+      "gloss": "ءُ ءَ — marked object: ایل شدّای"
     },
     {
       "surface": "שדי",
-      "gloss": "ایل شدّای"
+      "gloss": "شدّای"
     },
     {
       "surface": "תתחנן",
-      "gloss": "لوطار کنیت"
+      "gloss": "پہ رحمت لوٹیں"
     }
   ],
-  "timestamp": "2026-09-24T23:32:52.154062468Z",
+  "timestamp": "2026-09-25T18:34:07.829611709Z",
   "model": "glm-5.3"
 }

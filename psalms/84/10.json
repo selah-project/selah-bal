@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "bal",
   "chapter": 84,
-  "translation": "م翰 ساݪی spear وت side هیچ کچھ نہ ہے",
-  "tokens": [],
-  "timestamp": "2026-09-25T01:09:03.899438541Z",
+  "translation": "اسپئین ڈھال، گند اے ایلوہیم، ءُ تئین ماشیاحءِ دیمءَ شۆر کت",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "اسپئین ڈھال"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گند"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "ءُ شۆر کت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دیمءَ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "تئین ماشیاح"
+    }
+  ],
+  "timestamp": "2026-09-25T20:48:06.710409128Z",
   "model": "glm-5.3"
 }

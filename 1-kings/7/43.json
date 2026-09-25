@@ -5,43 +5,43 @@
   "book": "1-kings",
   "lang": "bal",
   "chapter": 7,
-  "translation": "ءُ ⟨את⟩ پایہاں دہ، ءُ ⟨את⟩ حوضان دہ پایہانی سرءَ.",
+  "translation": "ءُ ⟨את⟩ دہ بنیادان، ءُ ⟨את⟩ دہ حوضان بنیادانءِ سرءَ؛",
   "tokens": [
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "ءُ ⟨את⟩",
-      "marks": "پایہاں"
+      "marks": "دہ بنیادان"
     },
     {
-      "surface": "המכנות",
-      "gloss": "پایہاں"
+      "surface": "הַמְּכֹנֹת",
+      "gloss": "بنیادان"
     },
     {
-      "surface": "עשר",
+      "surface": "עָשֶׂר",
       "gloss": "دہ"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "ءُ ⟨את⟩",
-      "marks": "حوضان"
+      "marks": "دہ حوضان"
     },
     {
-      "surface": "הכירת",
+      "surface": "הַכִּיֹּרֹת",
       "gloss": "حوضان"
     },
     {
-      "surface": "עשרה",
+      "surface": "עֲשָׂרָה",
       "gloss": "دہ"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "سرءَ"
     },
     {
-      "surface": "המכנות",
-      "gloss": "پایہانی"
+      "surface": "הַמְּכֹנֹת",
+      "gloss": "بنیادان"
     }
   ],
-  "timestamp": "2026-09-24T20:55:42.147965784Z",
+  "timestamp": "2026-09-25T13:04:56.255066148Z",
   "model": "glm-5.3"
 }

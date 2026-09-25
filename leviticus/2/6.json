@@ -5,42 +5,42 @@
   "book": "leviticus",
   "lang": "bal",
   "chapter": 2,
-  "translation": "آیاءَ ٹُک ٹُک کن، ءُ آییءِ سرءَ تیل چاڑ — اے پیشک اِنت۔",
+  "translation": "⟨את⟩ آییءَ ٹکڑیں ٹکڑیں پٹیت، ءُ آییءِ سرا تیل ریت: آ مِنچها اِنت۔",
   "tokens": [
     {
-      "surface": "פתות",
-      "gloss": "ٹُک ٹُک کن"
+      "surface": "פָּת֤וֹת",
+      "gloss": "پٹیت"
     },
     {
-      "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "آیاءَ"
+      "surface": "אֹתָהּ֙",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "ٹکڑے (پٹیmania ٹکڑے)"
     },
     {
-      "surface": "פתים",
-      "gloss": "ٹُک ٹُک"
+      "surface": "פִּתִּ֔ים",
+      "gloss": "ٹکڑیں ٹکڑیں"
     },
     {
-      "surface": "ויצקת",
-      "gloss": "ءُ چاڑ"
+      "surface": "וְיָצַקְתָּ֥",
+      "gloss": "ءُ ریت"
     },
     {
-      "surface": "עליה",
-      "gloss": "آییءِ سرءَ"
+      "surface": "עָלֶ֖יהָ",
+      "gloss": "آییءِ سرا"
     },
     {
-      "surface": "שמן",
+      "surface": "שָׁ֑מֶן",
       "gloss": "تیل"
     },
     {
-      "surface": "מנחה",
-      "gloss": "پیشک"
+      "surface": "מִנְחָ֖ה",
+      "gloss": "مِنچها"
     },
     {
-      "surface": "הוא",
+      "surface": "הִֽוא",
       "gloss": "اِنت"
     }
   ],
-  "timestamp": "2026-09-24T19:11:21.486914130Z",
+  "timestamp": "2026-09-25T19:21:28.978451490Z",
   "model": "glm-5.3"
 }
