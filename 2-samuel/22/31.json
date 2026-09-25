@@ -1,57 +1,57 @@
 {
-  "book": "2-samuel",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T14:35:06.311459411Z",
+  "tier": "glm-5.2",
   "verse": 31,
   "ref": "2-samuel 22:31",
-  "tier": "glm-5.2",
+  "book": "2-samuel",
+  "lang": "bal",
   "chapter": 22,
-  "translation": "ایل — آییءِ رست پورءِ اِنت؛ یاہوہءِ اِمرہ رپیتگءِ اِنت؛ آیی پہ ہمگ چوکARءِ پہ یک ڈل اِنت۔",
+  "translation": "ایل ⟨اِنت⟩ پوریں آییءِ راہءَ ؛ یاہوہءِ اِمرہ پاک‌کاریتگ ؛ آیی یک ڈال پہ ہمگ چوکان اِنت کہ آییءَ سہ پناہ گنت۔",
   "tokens": [
     {
-      "surface": "האל",
+      "surface": "הָאֵל",
       "gloss": "ایل"
     },
     {
-      "surface": "תמים",
-      "gloss": "پور"
+      "surface": "תָּמִים",
+      "gloss": "پوریں"
     },
     {
-      "surface": "דרכו",
-      "gloss": "آییءِ رست"
+      "surface": "דַרְכּוֹ",
+      "gloss": "آییءِ راہءَ"
     },
     {
-      "surface": "אמרת",
+      "surface": "אִמְרַת",
       "gloss": "اِمرہ"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "צרופה",
-      "gloss": "رپیتگ"
+      "surface": "צְרוּפָה",
+      "gloss": "پاک‌کاریتگ"
     },
     {
-      "surface": "מגן",
-      "gloss": "ڈل"
+      "surface": "מָגֵן",
+      "gloss": "یک ڈال"
     },
     {
-      "surface": "הוא",
+      "surface": "הוּא",
       "gloss": "آیی"
     },
     {
-      "surface": "לכל",
-      "gloss": "پہ ہمگ"
+      "surface": "לְכֹל",
+      "gloss": "پہ ہمگ چوکان"
     },
     {
-      "surface": "החסים",
-      "gloss": "چوکAR"
+      "surface": "הַחֹסִים",
+      "gloss": "کہ سہ پناہ گنت"
     },
     {
-      "surface": "בו",
+      "surface": "בּוֹ",
       "gloss": "آییءَ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T21:44:35.853068585Z",
+  "model": "glm-5.3"
 }

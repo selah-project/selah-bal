@@ -1,98 +1,98 @@
 {
-  "book": "deuteronomy",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T15:25:22.635262863Z",
+  "tier": "glm-5.2",
   "verse": 4,
   "ref": "deuteronomy 3:4",
-  "tier": "glm-5.2",
+  "book": "deuteronomy",
+  "lang": "bal",
   "chapter": 3,
-  "translation": "ءُ ما اے وہدءَ ⟨את⟩ آییءِ پوریں شہر گپت، اے وہدءَ ہچ یک شہر نہ بیت کہ ما آ چہ اِشاں نہ گپتگ بیت — شست شہر، پوریں ناگہ آربگ، اوگءِ شاہی، تہ بشانءَ۔",
+  "translation": "ءُ ما آ وہدءَ ⟨את⟩ آییءِ گچین شہران گپت — شہری نہ بوت کہ ما چہ ⟨את⟩ اِشاں نہ گپی بی — شست شہر، گچین خطہءِ اَرگُب، شاہیءِ اُوگ، تہ بُشان۔",
   "tokens": [
     {
-      "surface": "ונלכד",
+      "surface": "וַנִּלְכֹּד",
       "gloss": "ءُ ما گپت"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "آییءِ پوریں شہر"
+      "marks": "آییءِ گچین شہران"
     },
     {
-      "surface": "כל",
-      "gloss": "پوریں"
+      "surface": "כֹּל",
+      "gloss": "گچین"
     },
     {
-      "surface": "עריו",
-      "gloss": "آییءِ شہر"
+      "surface": "עָרָיו",
+      "gloss": "آییءِ شہران"
     },
     {
-      "surface": "בעת",
-      "gloss": "اے وہدءَ"
+      "surface": "בָּעֵת",
+      "gloss": "آ وہدءَ"
     },
     {
-      "surface": "ההוא",
-      "gloss": "اے وہد"
+      "surface": "הַהוּא",
+      "gloss": "آ"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "نہ"
     },
     {
-      "surface": "היתה",
-      "gloss": "بیت"
+      "surface": "הָיְתָה",
+      "gloss": "بوت"
     },
     {
-      "surface": "קריה",
-      "gloss": "شہر"
+      "surface": "קִרְיָה",
+      "gloss": "شہری"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר",
       "gloss": "کہ"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "نہ"
     },
     {
-      "surface": "לקחנו",
-      "gloss": "ما گپتگ"
+      "surface": "לָקַחְנוּ",
+      "gloss": "ما گپت"
     },
     {
-      "surface": "מאתם",
+      "surface": "מֵאִתָּם",
       "gloss": "چہ ⟨את⟩ اِشاں"
     },
     {
-      "surface": "ששים",
+      "surface": "שִׁשִּׁים",
       "gloss": "شست"
     },
     {
-      "surface": "עיר",
+      "surface": "עִיר",
       "gloss": "شہر"
     },
     {
-      "surface": "כל",
-      "gloss": "پوریں"
+      "surface": "כֹּל",
+      "gloss": "گچین"
     },
     {
-      "surface": "חבל",
-      "gloss": "ناگہ"
+      "surface": "חֶבֶל",
+      "gloss": "خطہ"
     },
     {
-      "surface": "ארגב",
-      "gloss": "آربگ"
+      "surface": "אַרְגֹּב",
+      "gloss": "اَرگُب"
     },
     {
-      "surface": "ממלכת",
+      "surface": "מַמְלֶכֶת",
       "gloss": "شاہی"
     },
     {
-      "surface": "עוג",
-      "gloss": "اوگ"
+      "surface": "עוֹג",
+      "gloss": "اُوگ"
     },
     {
-      "surface": "בבשן",
-      "gloss": "تہ بشانءَ"
+      "surface": "בַּבָּשָׁן",
+      "gloss": "تہ بُشان"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T21:49:27.584023743Z",
+  "model": "glm-5.3"
 }

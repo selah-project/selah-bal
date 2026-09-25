@@ -1,74 +1,74 @@
 {
-  "book": "genesis",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T17:01:35.883184485Z",
+  "tier": "glm-5.2",
   "verse": 11,
   "ref": "genesis 45:11",
-  "tier": "glm-5.2",
+  "book": "genesis",
+  "lang": "bal",
   "chapter": 45,
-  "translation": "ءُ من ⟨את⟩ تُہءَ اُدا روزی دیم، پرچا کہ ہنڈے پنچ سال کال اِنت، کہ نہ تُو غریب بیت، ءُ تُئی گadan ءُ ہمگ آ کہ تُئی اِنت",
+  "translation": "ءُ مان اُتا ⟨את⟩ تُہءَ چرینت کنت، پرچا کہ ہنچ پنچ سالءِ کالگ اِنت — نہ کہ تُو ءُ تُءِ گُدان ءُ گچ کہ تُءِ اِنت، مہتاب بیت.",
   "tokens": [
     {
-      "surface": "וכלכלתי",
-      "gloss": "ءُ من روزی دیم"
+      "surface": "וְכִלְכַּלְתִּ֤י",
+      "gloss": "ءُ مان چرینت کنت"
     },
     {
-      "surface": "אתך",
+      "surface": "אֹֽתְךָ֙",
       "gloss": "⟨את⟩ تُہءَ",
-      "marks": "تُہءَ"
+      "marks": "اُتا (تُہ)"
     },
     {
-      "surface": "שם",
-      "gloss": "اُدا"
+      "surface": "שָׁ֔ם",
+      "gloss": "اُتا"
     },
     {
-      "surface": "כי",
+      "surface": "כִּ֥י",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "עוד",
-      "gloss": "ہنڈے"
+      "surface": "ע֛וֹד",
+      "gloss": "ہنچ"
     },
     {
-      "surface": "חמש",
+      "surface": "חָמֵ֥שׁ",
       "gloss": "پنچ"
     },
     {
-      "surface": "שנים",
+      "surface": "שָׁנִ֖ים",
       "gloss": "سال"
     },
     {
-      "surface": "רעב",
-      "gloss": "کال"
+      "surface": "רָעָ֑ב",
+      "gloss": "کالگ"
     },
     {
-      "surface": "פן",
-      "gloss": "کہ نہ"
+      "surface": "פֶּן֩",
+      "gloss": "نہ کہ"
     },
     {
-      "surface": "תורש",
-      "gloss": "غریب بیت"
+      "surface": "תִּוָּרֵ֛שׁ",
+      "gloss": "مہتاب بیت"
     },
     {
-      "surface": "אתה",
+      "surface": "אַתָּ֥ה",
       "gloss": "تُو"
     },
     {
-      "surface": "וביתך",
-      "gloss": "ءُ تُئی گadan"
+      "surface": "וּבֵֽיתְךָ֖",
+      "gloss": "ءُ تُءِ گُدان"
     },
     {
-      "surface": "וכל",
-      "gloss": "ءُ ہمگ"
+      "surface": "וְכָל",
+      "gloss": "ءُ گچ"
     },
     {
-      "surface": "אשר",
-      "gloss": "آ"
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "کہ"
     },
     {
-      "surface": "לך",
-      "gloss": "تُئی"
+      "surface": "לָֽךְ",
+      "gloss": "تُءِ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:03:18.480984319Z",
+  "model": "glm-5.3"
 }

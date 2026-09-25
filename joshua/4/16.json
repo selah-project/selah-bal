@@ -1,50 +1,50 @@
 {
-  "book": "joshua",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T18:52:21.472260459Z",
+  "tier": "glm-5.2",
   "verse": 16,
   "ref": "joshua 4:16",
-  "tier": "glm-5.2",
+  "book": "joshua",
+  "lang": "bal",
   "chapter": 4,
-  "translation": "حکم کن ⟨את⟩ کوهنانی را کہ گواہیءِ صندوقءِ بلند کور ءُ آ چہ یردانءَ اُٹتنت،",
+  "translation": "«کاهناناني کہ گواہیءِ صندوقءَ چک انت، آمانءَ حکم کن کہ یرددنءَ چہ اُٹنت۔»",
   "tokens": [
     {
-      "surface": "צוה",
+      "surface": "צַוֵּה֙",
       "gloss": "حکم کن"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "کوهنان"
+      "marks": "کاهنانان"
     },
     {
-      "surface": "הכהנים",
-      "gloss": "کوهنان"
+      "surface": "הַכֹּהֲנִים",
+      "gloss": "کاهنانان"
     },
     {
-      "surface": "נשאי",
-      "gloss": "بلند کور"
+      "surface": "נֹשְׂאֵי",
+      "gloss": "چک انتءِ"
     },
     {
-      "surface": "ארון",
-      "gloss": "صندوق"
+      "surface": "אֲרוֹן",
+      "gloss": "صندوقءَ"
     },
     {
-      "surface": "העדות",
+      "surface": "הָעֵדוּת",
       "gloss": "گواہیءِ"
     },
     {
-      "surface": "ויעלו",
-      "gloss": "ءُ آ اُٹتنت"
+      "surface": "וְיַעֲלוּ",
+      "gloss": "ءُ کہ اُٹنت"
     },
     {
-      "surface": "מן",
+      "surface": "מִן",
       "gloss": "چہ"
     },
     {
-      "surface": "הירדן",
-      "gloss": "یردانءَ"
+      "surface": "הַיַּרְדֵּן",
+      "gloss": "یرددنءَ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:18:03.409564200Z",
+  "model": "glm-5.3"
 }

@@ -1,30 +1,28 @@
 {
-  "book": "exodus",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T16:01:46.267016557Z",
+  "tier": "glm-5.2",
   "verse": 34,
   "ref": "exodus 40:34",
-  "tier": "glm-5.2",
+  "book": "exodus",
+  "lang": "bal",
   "chapter": 40,
-  "translation": "ءُ اَبر اِشتی ⟨את⟩ ملاقاتءِ گدان، ءُ یاہوہءِ شکوہتی پوری چوکِت ⟨את⟩ مِشکانءَ۔",
+  "translation": "ءُ ابرءَ ملاقاتءِ ⟨את⟩ گadan پُوشیت، ءُ یاہوہءِ شان ⟨את⟩ مِشکانءَ پُر کت.",
   "tokens": [
     {
       "surface": "ויכס",
-      "gloss": "ءُ اِشتی"
+      "gloss": "ءُ پُوشیت"
     },
     {
       "surface": "הענן",
-      "gloss": "اَبر"
+      "gloss": "ابرءَ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ملاقاتءِ گدان"
+      "marks": "ملاقاتءِ گadan"
     },
     {
       "surface": "אהל",
-      "gloss": "گadanءِ"
+      "gloss": "گadan"
     },
     {
       "surface": "מועד",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "וכבוד",
-      "gloss": "ءُ یاہوہءِ شکوہتی"
+      "gloss": "ءُ شان"
     },
     {
       "surface": "יהוה",
@@ -40,7 +38,7 @@
     },
     {
       "surface": "מלא",
-      "gloss": "پوری چوکِت"
+      "gloss": "پُر کت"
     },
     {
       "surface": "את",
@@ -51,5 +49,7 @@
       "surface": "המשכן",
       "gloss": "مِشکانءَ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T21:55:59.673259565Z",
+  "model": "glm-5.3"
 }

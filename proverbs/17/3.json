@@ -1,41 +1,41 @@
 {
-  "book": "proverbs",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T20:14:55.638814184Z",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "proverbs 17:3",
-  "tier": "glm-5.2",
+  "book": "proverbs",
+  "lang": "bal",
   "chapter": 17,
-  "translation": "مصفaye نقرہءِ پہ ءُ کور زرءِ پہ، ءُ یاہوہ دلاںءَ آزمایت۔",
+  "translation": "کورہ پہ چاندی ءُ بوتائی پہ سونا، ءُ یاہوہ دلاںءِ بچاروک اِنت.",
   "tokens": [
     {
-      "surface": "מצרף",
-      "gloss": "مصفaye (پگارنیں برتن)"
+      "surface": "מַצְרֵף",
+      "gloss": "کورہ"
     },
     {
-      "surface": "לכסף",
-      "gloss": "نقرءِ پہ"
+      "surface": "לַכֶּסֶף",
+      "gloss": "پہ چاندی"
     },
     {
-      "surface": "וכור",
-      "gloss": "ءُ کور"
+      "surface": "וְכוּר",
+      "gloss": "ءُ بوتائی"
     },
     {
-      "surface": "לזהב",
-      "gloss": "زرءِ پہ"
+      "surface": "לַזָּהָב",
+      "gloss": "پہ سونا"
     },
     {
-      "surface": "ובחן",
-      "gloss": "ءُ آزمائوک"
+      "surface": "וּבֹחֵן",
+      "gloss": "ءُ بچاروک"
     },
     {
-      "surface": "לבות",
-      "gloss": "دلان"
+      "surface": "לִבּוֹת",
+      "gloss": "دلاںءِ"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "یاہوہ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:30:44.989347655Z",
+  "model": "glm-5.3"
 }

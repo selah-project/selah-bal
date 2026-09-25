@@ -1,37 +1,37 @@
 {
-  "book": "proverbs",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T20:20:50.313003084Z",
+  "tier": "glm-5.2",
   "verse": 20,
   "ref": "proverbs 8:20",
-  "tier": "glm-5.2",
+  "book": "proverbs",
+  "lang": "bal",
   "chapter": 8,
-  "translation": "تہ راستیءِ رگءَ گم اِنت، تہ انصافءِ رہاناں میانءَ؛",
+  "translation": "تہ راستیءِ رہءَ روں، تہ انصافءِ رہانی نیمگءَ",
   "tokens": [
     {
-      "surface": "בארח",
-      "gloss": "رگءَ تہ"
+      "surface": "בְּאֹֽרַח",
+      "gloss": "تہ … رہءَ"
     },
     {
-      "surface": "צדקה",
-      "gloss": "رastiءِ"
+      "surface": "צְדָקָ֥ה",
+      "gloss": "راستیءِ"
     },
     {
-      "surface": "אהלך",
-      "gloss": "گم اِنت"
+      "surface": "אֲהַלֵּ֑ךְ",
+      "gloss": "روں"
     },
     {
-      "surface": "בתוך",
-      "gloss": "تہ میانءَ"
+      "surface": "בְּ֝ת֗וֹךְ",
+      "gloss": "تہ … نیمگءَ"
     },
     {
-      "surface": "נתיבות",
-      "gloss": "رہاناں"
+      "surface": "נְתִיב֥וֹת",
+      "gloss": "رہانی"
     },
     {
-      "surface": "משפט",
+      "surface": "מִשְׁפָּֽט",
       "gloss": "انصافءِ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:30:26.352228038Z",
+  "model": "glm-5.3"
 }

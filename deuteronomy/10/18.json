@@ -1,53 +1,53 @@
 {
-  "book": "deuteronomy",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T15:03:50.398788894Z",
+  "tier": "glm-5.2",
   "verse": 18,
   "ref": "deuteronomy 10:18",
-  "tier": "glm-5.2",
+  "book": "deuteronomy",
+  "lang": "bal",
   "chapter": 10,
-  "translation": "راستیءِ فیصلہ یتیمءِ ءُ بی‌شوہ جنکءِ پہ کنیت، ءُ مسافرءَ پیار کنیت، آییءَ نان ءُ جاپ داتگ بیت۔",
+  "translation": "یتیم ءُ بیواءِ پہ راستی کنیت، ءُ پرانتءَ چاہیت آییءَ نان ءُ جما دنگ پہ۔",
   "tokens": [
     {
-      "surface": "עשה",
+      "surface": "עֹשֶׂ֛ה",
       "gloss": "کنیت"
     },
     {
-      "surface": "משפט",
-      "gloss": "راستیءِ فیصلہ"
+      "surface": "מִשְׁפַּ֥ט",
+      "gloss": "راستی"
     },
     {
-      "surface": "יתום",
-      "gloss": "یتیمءِ"
+      "surface": "יָת֖וֹם",
+      "gloss": "یتیم"
     },
     {
-      "surface": "ואלמנה",
-      "gloss": "ءُ بی‌شوہ جنکءِ پہ"
+      "surface": "וְאַלְמָנָ֑ה",
+      "gloss": "ءُ بیوا"
     },
     {
-      "surface": "ואהב",
-      "gloss": "ءُ پیار کنیت"
+      "surface": "וְאֹהֵ֣ב",
+      "gloss": "ءُ چاہیت"
     },
     {
-      "surface": "גר",
-      "gloss": "مسافرءَ"
+      "surface": "גֵּ֔ר",
+      "gloss": "پرانت"
     },
     {
-      "surface": "לתת",
-      "gloss": "datگ بیت"
+      "surface": "לָ֥תֶת",
+      "gloss": "دنگ پہ"
     },
     {
-      "surface": "לו",
+      "surface": "ל֖וֹ",
       "gloss": "آییءَ"
     },
     {
-      "surface": "לחם",
+      "surface": "לֶ֥חֶם",
       "gloss": "نان"
     },
     {
-      "surface": "ושמלה",
-      "gloss": "ءُ جاپ"
+      "surface": "וְשִׂמְלָֽה",
+      "gloss": "ءُ جما"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T21:47:55.307635757Z",
+  "model": "glm-5.3"
 }

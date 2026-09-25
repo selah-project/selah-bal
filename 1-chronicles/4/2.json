@@ -1,76 +1,76 @@
 {
-  "book": "1-chronicles",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T12:43:15.794415880Z",
+  "tier": "glm-5.2",
   "verse": 2,
   "ref": "1-chronicles 4:2",
-  "tier": "glm-5.2",
+  "book": "1-chronicles",
+  "lang": "bal",
   "chapter": 4,
-  "translation": "ءُ رِئایا، شوبلءِ زہگ، یَحَتءَ گندیت؛ ءُ یَحَتءَ اَحُومَیءَ ءُ ⟨את⟩ لَہَدءَ گندیت؛ اِشاں صُرعاتیاںءِ ٹولیاں اَنت۔",
+  "translation": "ءُ رِعایاہ شوبلءِ زہگ یاحتءَ پیدا کت، ءُ یاحتءَ ⟨את⟩ اہومای ءُ ⟨את⟩ لاہد پیدا کت — اے صیوراتیانی ٹولیاں اَنت۔",
   "tokens": [
     {
-      "surface": "וראיה",
-      "gloss": "ءُ رِئایا"
+      "surface": "וּרְאָיָ֤ה",
+      "gloss": "ءُ رِعایاہ"
     },
     {
-      "surface": "בן",
+      "surface": "בֶּן",
       "gloss": "زہگ"
     },
     {
-      "surface": "שובל",
+      "surface": "שׁוֹבָל֙",
       "gloss": "شوبلءِ"
     },
     {
-      "surface": "הוליד",
-      "gloss": "گندیت"
+      "surface": "הוֹלִ֣יד",
+      "gloss": "پیدا کت"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "یَحَت"
+      "marks": "یاحت"
     },
     {
-      "surface": "יחת",
-      "gloss": "یَحَتءَ"
+      "surface": "יַ֔חַת",
+      "gloss": "یاحتءَ"
     },
     {
-      "surface": "ויחת",
-      "gloss": "ءُ یَحَتءَ"
+      "surface": "וְיַ֣חַת",
+      "gloss": "ءُ یاحتءَ"
     },
     {
-      "surface": "הליד",
-      "gloss": "گندیت"
+      "surface": "הוֹלִ֔יד",
+      "gloss": "پیدا کت"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "اَحُومَی"
+      "marks": "اہومای"
     },
     {
-      "surface": "אחומי",
-      "gloss": "اَحُومَیءَ"
+      "surface": "אֲחוּמַ֖י",
+      "gloss": "اہومای"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "ءُ ⟨את⟩",
-      "marks": "لَہَد"
+      "marks": "لاہد"
     },
     {
-      "surface": "להד",
-      "gloss": "لَہَدءَ"
+      "surface": "לָ֑הַד",
+      "gloss": "لاہد"
     },
     {
-      "surface": "אלה",
-      "gloss": "اِشاں"
+      "surface": "אֵ֖לֶּה",
+      "gloss": "اے"
     },
     {
-      "surface": "משפחות",
+      "surface": "מִשְׁפְּח֥וֹת",
       "gloss": "ٹولیاں"
     },
     {
-      "surface": "הצרעתי",
-      "gloss": "صُرعاتیاںءِ"
+      "surface": "הַצָּֽרְעָתִֽי",
+      "gloss": "صیوراتیانی"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T21:32:03.694775581Z",
+  "model": "glm-5.3"
 }

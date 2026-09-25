@@ -1,13 +1,11 @@
 {
-  "book": "leviticus",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T19:28:16.032740388Z",
+  "tier": "glm-5.2",
   "verse": 6,
   "ref": "leviticus 8:6",
-  "tier": "glm-5.2",
+  "book": "leviticus",
+  "lang": "bal",
   "chapter": 8,
-  "translation": "ءُ موشہءَ اہارون ءُ ⟨את⟩ آییءِ زہگان پیش کت، ءُ آیانءَ ⟨את⟩ گوں آپءَ وشیت.",
+  "translation": "ءُ موشہ ⟨את⟩ ہارون ءُ ءُ ⟨את⟩ آییءِ زہگان پیش کت ءُ ⟨את⟩ آیانءَ گوں آپءَ شوست",
   "tokens": [
     {
       "surface": "ויקרב",
@@ -15,16 +13,16 @@
     },
     {
       "surface": "משה",
-      "gloss": "موشہءَ"
+      "gloss": "موشہ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "اہارون"
+      "marks": "ہارون"
     },
     {
       "surface": "אהרן",
-      "gloss": "اہارون"
+      "gloss": "ہارون"
     },
     {
       "surface": "ואת",
@@ -37,16 +35,18 @@
     },
     {
       "surface": "וירחץ",
-      "gloss": "ءُ وشیت"
+      "gloss": "ءُ شوست"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
-      "marks": "آیانءَ گوں آپ"
+      "marks": "آیانءَ"
     },
     {
       "surface": "במים",
       "gloss": "گوں آپءَ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:23:09.679968096Z",
+  "model": "glm-5.3"
 }

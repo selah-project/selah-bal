@@ -1,41 +1,41 @@
 {
-  "book": "proverbs",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T20:22:05.616202054Z",
+  "tier": "glm-5.2",
   "verse": 9,
   "ref": "proverbs 31:9",
-  "tier": "glm-5.2",
+  "book": "proverbs",
+  "lang": "bal",
   "chapter": 31,
-  "translation": "تُہ ءُ بُز ءُ شاہِ رَوَنْگ کُر — اَزِیل ءُ کَسَاب ءِ کَار کُر.",
+  "translation": "پت کن وتیں مُچھءَ، راستیءَ فیصلہ دہ، ءُ داد مسکینءَ ءُ گریبانءَ۔",
   "tokens": [
     {
-      "surface": "פתח",
-      "gloss": "کھول"
+      "surface": "פְּתַח",
+      "gloss": "پت کن"
     },
     {
-      "surface": "פיך",
-      "gloss": "تیری زبان"
+      "surface": "פִּ֥יךָ",
+      "gloss": "وتیں مُچھءَ"
     },
     {
-      "surface": "שפט",
-      "gloss": "انصاف کا فیصلہ دے"
+      "surface": "שְׁפָט",
+      "gloss": "فیصلہ دہ"
     },
     {
-      "surface": "צדק",
-      "gloss": "راستی"
+      "surface": "צֶ֑דֶק",
+      "gloss": "راستیءَ"
     },
     {
-      "surface": "ודין",
-      "gloss": "ءُ راست فیصلہ"
+      "surface": "וְ֝דִ֗ין",
+      "gloss": "ءُ داد"
     },
     {
-      "surface": "עני",
-      "gloss": "غریب ءِ"
+      "surface": "עָנִ֥י",
+      "gloss": "مسکینءَ"
     },
     {
-      "surface": "ואביון",
-      "gloss": "ءُ مسکین ءِ"
+      "surface": "וְאֶבְיֽוֹן",
+      "gloss": "ءُ گریبانءَ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:30:37.229339789Z",
+  "model": "glm-5.3"
 }

@@ -1,41 +1,41 @@
 {
-  "book": "ezekiel",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T16:07:55.800147015Z",
+  "tier": "glm-5.2",
   "verse": 5,
   "ref": "ezekiel 18:5",
-  "tier": "glm-5.2",
+  "book": "ezekiel",
+  "lang": "bal",
   "chapter": 18,
-  "translation": "And if a man ⟨is⟩ righteous, and does justice and righteousness,",
+  "translation": "ءُ اگر یک مرد راست بیت ءُ انصاف ءُ راستی کنیت",
   "tokens": [
     {
-      "surface": "ואיש",
-      "gloss": "ءُ یک مردم"
+      "surface": "וְאִישׁ",
+      "gloss": "ءُ مرد"
     },
     {
-      "surface": "כי",
-      "gloss": "اگہ"
+      "surface": "כִּי",
+      "gloss": "اگر"
     },
     {
-      "surface": "יהיה",
+      "surface": "יִהְיֶה",
       "gloss": "بیت"
     },
     {
-      "surface": "צדיק",
-      "gloss": "راستیں"
+      "surface": "צַדִּיק",
+      "gloss": "راست"
     },
     {
-      "surface": "ועשה",
-      "gloss": "ءُ کنت"
+      "surface": "וְעָשָׂה",
+      "gloss": "ءُ کنیت"
     },
     {
-      "surface": "משפט",
+      "surface": "מִשְׁפָּט",
       "gloss": "انصاف"
     },
     {
-      "surface": "וצדקה",
+      "surface": "וּצְדָקָה",
       "gloss": "ءُ راستی"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T21:55:36.418549826Z",
+  "model": "glm-5.3"
 }

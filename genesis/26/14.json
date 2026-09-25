@@ -1,58 +1,58 @@
 {
-  "book": "genesis",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T21:09:51.539925595Z",
+  "tier": "glm-5.2",
   "verse": 14,
   "ref": "genesis 26:14",
-  "tier": "glm-5.2",
+  "book": "genesis",
+  "lang": "bal",
   "chapter": 26,
-  "translation": "ءُ آییءَ مالءِ گلہ ءُ گاوانی مال ءُ گیش服务工作 گوںے ءُ پلشتانیں آییءَ ⟨את⟩ وتیءِ جاگہءَ حسد کت.",
+  "translation": "ءُ آییءَ مالِ گوان ءُ مالِ گانؤکان بوت، ءُ گیشیں گدان، ءُ فلستانیاں آییءَ ہسد کت ⟨את⟩.",
   "tokens": [
     {
-      "surface": "ויהי",
+      "surface": "וַֽיְהִי",
       "gloss": "ءُ بوت"
     },
     {
-      "surface": "לו",
-      "gloss": "آییءَ پہ"
+      "surface": "ל֤וֹ",
+      "gloss": "آییءَ"
     },
     {
-      "surface": "מקנה",
-      "gloss": "مالءِ گلہ"
+      "surface": "מִקְנֵה",
+      "gloss": "مال"
     },
     {
-      "surface": "צאן",
-      "gloss": "رئڑ"
+      "surface": "צֹאן֙",
+      "gloss": "گوان"
     },
     {
-      "surface": "ומקנה",
+      "surface": "וּמִקְנֵ֣ה",
       "gloss": "ءُ مال"
     },
     {
-      "surface": "בקר",
-      "gloss": "گاوان"
+      "surface": "בָקָ֔ר",
+      "gloss": "گانؤکان"
     },
     {
-      "surface": "ועבדה",
-      "gloss": "ءُ خدمتگار"
+      "surface": "וַעֲבֻדָּ֖ה",
+      "gloss": "ءُ گدان"
     },
     {
-      "surface": "רבה",
-      "gloss": "گیش"
+      "surface": "רַבָּ֑ה",
+      "gloss": "گیشیں"
     },
     {
-      "surface": "ויקנאו",
-      "gloss": "ءُ حسد کت"
+      "surface": "וַיְקַנְא֥וּ",
+      "gloss": "ءُ ہسد کت"
     },
     {
-      "surface": "אתו",
+      "surface": "אֹת֖וֹ",
       "gloss": "⟨את⟩",
-      "marks": "آییءَ (پلشتانیں)"
+      "marks": "آییءَ"
     },
     {
-      "surface": "פלשתים",
-      "gloss": "پلشتانیں"
+      "surface": "פְּלִשְׁתִּֽים",
+      "gloss": "فلستانیاں"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:01:40.435093262Z",
+  "model": "glm-5.3"
 }

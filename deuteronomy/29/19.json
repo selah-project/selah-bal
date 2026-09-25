@@ -1,118 +1,118 @@
 {
-  "book": "deuteronomy",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T15:23:47.452199932Z",
+  "tier": "glm-5.2",
   "verse": 19,
   "ref": "deuteronomy 29:19",
-  "tier": "glm-5.2",
+  "book": "deuteronomy",
+  "lang": "bal",
   "chapter": 29,
-  "translation": "یاہوہ ریتی نہ کنیت کہ آییءَ ببخشت، چون اَز یاہوہءِ غصہ ءُ آییءِ غیرت اے مردمءَcmb دھوک بنت، ءُcmb ہمگ ہلہ کہ اے کتابءَcmb نبشتگcmb اِنتcmb آییءَcmb سرcmb ڈہcmb بنت، ءُcmb یاہوہ آییءِ نام cmb چہcmb آسمانانیcmb تہاریءَcmb پاکcmb کنت.",
+  "translation": "یہوہ آییءَ بخشنتءَ رضایت نہ کنت، پرچا کہ اودا یہوہءِ زور ءُ آییءِ غصہ اے مَردءَ سر دھوں بیت، ءُ اے کتابءِ تہءَ نبشتگیں پوریں لعنت آییءَ سر منزل کنت، ءُ یہوہ ⟨את⟩ آییءِ نام چہ آسمانانی تلءَ پاک کنت۔",
   "tokens": [
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "نہ"
     },
     {
-      "surface": "יאבה",
-      "gloss": "ریتی کنیت"
+      "surface": "יֹאבֶה",
+      "gloss": "رضایت کنت"
     },
     {
-      "surface": "יהוה",
-      "gloss": "یاہوہ"
+      "surface": "יְהוָה",
+      "gloss": "یہوہ"
     },
     {
-      "surface": "סלח",
-      "gloss": "ببخشت"
+      "surface": "סְלֹחַ",
+      "gloss": "بخشنت"
     },
     {
-      "surface": "לו",
+      "surface": "לוֹ",
       "gloss": "آییءَ"
     },
     {
-      "surface": "כי",
-      "gloss": "چون"
+      "surface": "כִּי",
+      "gloss": "پرچا کہ"
     },
     {
-      "surface": "אז",
-      "gloss": "اَز"
+      "surface": "אָז",
+      "gloss": "اودا"
     },
     {
-      "surface": "יעשן",
-      "gloss": "دھوکcmb بنت"
+      "surface": "یֶעְשַׁן",
+      "gloss": "دھوں بیت"
     },
     {
-      "surface": "אף",
-      "gloss": "غصہ"
+      "surface": "אַף",
+      "gloss": "زور"
     },
     {
-      "surface": "יהוה",
-      "gloss": "یاہوہ"
+      "surface": "יְהוָה",
+      "gloss": "یہوہءِ"
     },
     {
-      "surface": "וקנאתו",
-      "gloss": "ءُcmb آییءِcmb غیرت"
+      "surface": "וְקִנְאָתוֹ",
+      "gloss": "ءُ آییءِ غصہ"
     },
     {
-      "surface": "באיש",
-      "gloss": "اے مردمءَcmb"
+      "surface": "בָּאִישׁ",
+      "gloss": "اے مَردءَ سر"
     },
     {
-      "surface": "ההוא",
-      "gloss": ""
+      "surface": "הַהוּא",
+      "gloss": "ہمے"
     },
     {
-      "surface": "ורבצה",
-      "gloss": "ڈہcmb بنت"
+      "surface": "וְרָבְצָה",
+      "gloss": "ءُ منزل کنت"
     },
     {
-      "surface": "בו",
-      "gloss": "آییءَcmb سرcmb"
+      "surface": "בּוֹ",
+      "gloss": "آییءَ سر"
     },
     {
-      "surface": "כל",
-      "gloss": "ہمگ"
+      "surface": "כָּל",
+      "gloss": "پوریں"
     },
     {
-      "surface": "האלה",
-      "gloss": "ہلہ"
+      "surface": "הָאָלָה",
+      "gloss": "لعنت"
     },
     {
-      "surface": "הכתובה",
-      "gloss": "نبشتگcmb"
+      "surface": "הַכְּתוּבָה",
+      "gloss": "نبشتگیں"
     },
     {
-      "surface": "בספר",
-      "gloss": "اے کتابءَcmb"
+      "surface": "בַּסֵּפֶר",
+      "gloss": "کتابءِ تہءَ"
     },
     {
-      "surface": "הזה",
-      "gloss": ""
+      "surface": "הַזֶּה",
+      "gloss": "اے"
     },
     {
-      "surface": "ומחה",
-      "gloss": "ءُcmb پاکcmb کنت"
+      "surface": "וּמָחָה",
+      "gloss": "ءُ پاک کنت"
     },
     {
-      "surface": "יהוה",
-      "gloss": "یاہوہ"
+      "surface": "יְהוָה",
+      "gloss": "یہوہ"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "آییءِ نامcmb"
+      "marks": "آییءِ نام"
     },
     {
-      "surface": "שמו",
-      "gloss": "آییءِ نامcmb"
+      "surface": "שְׁמוֹ",
+      "gloss": "آییءِ نام"
     },
     {
-      "surface": "מתחת",
-      "gloss": "تہاریءَcmb"
+      "surface": "מִתַּחַת",
+      "gloss": "چہ تلءَ"
     },
     {
-      "surface": "השמים",
-      "gloss": "آسمانانcmb"
+      "surface": "הַשָּׁמָיִם",
+      "gloss": "آسمانانی"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T21:50:36.802721372Z",
+  "model": "glm-5.3"
 }

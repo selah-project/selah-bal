@@ -1,59 +1,59 @@
 {
-  "book": "1-samuel",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T13:28:22.975324290Z",
+  "tier": "glm-5.2",
   "verse": 11,
   "ref": "1-samuel 28:11",
-  "tier": "glm-5.2",
+  "book": "1-samuel",
+  "lang": "bal",
   "chapter": 28,
-  "translation": "ءُ زنک گوَشت: ⟨את⟩ کءَ تءَ پہ تیں اُوپڑ کنت؟ ءُ آئی گوَشت: شموئیلءَ مءَ اُوپڑ کن۔",
+  "translation": "ءُ زنکءَ گوَشت: ⟨את⟩ کِہءَ تہ رَہ بند کنم؟ ءُ آءُ گوَشت: شمُوایلءَ مہ رَہ بند کن.",
   "tokens": [
     {
-      "surface": "ותאמר",
-      "gloss": "ءُ زنک گوَشت"
+      "surface": "וְתֹ֨אמֶר֙",
+      "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "האשה",
-      "gloss": "زنک"
+      "surface": "הָאִשָּׁ֔ה",
+      "gloss": "زنکءَ"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "ک"
+      "marks": "کِہ"
     },
     {
-      "surface": "מי",
-      "gloss": "ک"
+      "surface": "מִי",
+      "gloss": "کِہءَ"
     },
     {
-      "surface": "אעלה",
-      "gloss": "اُوپڑ کنت"
+      "surface": "אַֽעֲלֶה",
+      "gloss": "تہ رَہ بند کنم"
     },
     {
-      "surface": "לך",
-      "gloss": "پہ تیں"
+      "surface": "לָּ֑ךְ",
+      "gloss": "پہ تُئے"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "ءُ آئی گوَشت"
+      "surface": "וַיֹּ֕אמֶר",
+      "gloss": "ءُ آءُ گوَشت"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "شموئیل"
+      "marks": "شمُوایل"
     },
     {
-      "surface": "שמואל",
-      "gloss": "شموئیل"
+      "surface": "שְׁמוּאֵ֖ל",
+      "gloss": "شمُوایل"
     },
     {
-      "surface": "העלי",
-      "gloss": "اُوپڑ کن"
+      "surface": "הַעֲלִי",
+      "gloss": "رَہ بند کن"
     },
     {
-      "surface": "לי",
-      "gloss": "مءَ"
+      "surface": "לִֽי",
+      "gloss": "پہ مہ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T21:37:12.735746655Z",
+  "model": "glm-5.3"
 }

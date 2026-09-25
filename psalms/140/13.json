@@ -1,17 +1,15 @@
 {
-  "book": "psalms",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T20:32:13.149018024Z",
+  "tier": "glm-5.2",
   "verse": 13,
   "ref": "psalms 140:13",
-  "tier": "glm-5.2",
+  "book": "psalms",
+  "lang": "bal",
   "chapter": 140,
-  "translation": "زانیں کہ یاہوہ بیچارگیں گوَست انت، دین ⟨دِ⟩ نیازواران۔",
+  "translation": "زانتاں کہ یاہوہ کمزاریں مردمءِ حقءَ کاریت، ءُ گراناںءِ انصافءَ کاریت۔",
   "tokens": [
     {
       "surface": "ידעת",
-      "gloss": "زانیں"
+      "gloss": "زانتاں"
     },
     {
       "surface": "כי",
@@ -19,27 +17,29 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "یَظعَم"
+      "gloss": "کاریت"
     },
     {
       "surface": "יהוה",
-      "gloss": "یہود"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "דין",
-      "gloss": "دیں"
+      "gloss": "حقءَ"
     },
     {
       "surface": "עני",
-      "gloss": "بیچارگی"
+      "gloss": "کمزاریں مردمءِ"
     },
     {
       "surface": "משפט",
-      "gloss": "مشبت"
+      "gloss": "انصافءَ"
     },
     {
       "surface": "אבינים",
-      "gloss": "نیازواران"
+      "gloss": "گراناںءِ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:32:13.594049420Z",
+  "model": "glm-5.3"
 }

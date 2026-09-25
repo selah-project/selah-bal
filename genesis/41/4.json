@@ -1,69 +1,70 @@
 {
-  "book": "genesis",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T16:56:51.258144031Z",
+  "tier": "glm-5.2",
   "verse": 4,
   "ref": "genesis 41:4",
-  "tier": "glm-5.2",
+  "book": "genesis",
+  "lang": "bal",
   "chapter": 41,
-  "translation": "ءُ گندنگں دیمءِ مالِن ماہیں گوشتءَ ⟨את⟩ ہپت گندنگں دیمءِ ءُ چرب مالِن چاک کت ءُ پیراؤ جاگ بیت.",
+  "translation": "ءُ گاوان بدءِ چهرہ ءُ کمگوشتءَ ⟨את⟩ ہپت گاوان سوہنءِ چهرہ ءُ ٹُلیں⟨…⟩ خور کت — ءُ پھرعوہ چون اُستات.",
   "tokens": [
     {
-      "surface": "ותאכלנה",
-      "gloss": ""
+      "surface": "וַתֹּאכַ֣לְנָה",
+      "gloss": "ءُ خور کت"
     },
     {
-      "surface": "הפרות",
-      "gloss": ""
+      "surface": "הַפָּר֗וֹת",
+      "gloss": "گاوان"
     },
     {
-      "surface": "רעות",
-      "gloss": ""
+      "surface": "רָע֤וֹת",
+      "gloss": "بد"
     },
     {
-      "surface": "המראה",
-      "gloss": ""
+      "surface": "הַמַּרְאֶה֙",
+      "gloss": "ءِ چهرہ"
     },
     {
-      "surface": "ודקת",
-      "gloss": ""
+      "surface": "וְדַקֹּ֣ת",
+      "gloss": "ءُ کمگوشت"
     },
     {
-      "surface": "הבשר",
-      "gloss": ""
+      "surface": "הַבָּשָׂ֔ר",
+      "gloss": "گوشتءِ"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩"
+      "surface": "אֵ֚ת",
+      "gloss": "⟨את⟩",
+      "marks": "ہپت گاوان سوہنءِ چهرہ ءُ ٹُلیں"
     },
     {
-      "surface": "שבע",
-      "gloss": ""
+      "surface": "שֶׁ֣בַע",
+      "gloss": "ہپت"
     },
     {
-      "surface": "הפרות",
-      "gloss": ""
+      "surface": "הַפָּר֔וֹת",
+      "gloss": "گاوان"
     },
     {
-      "surface": "יפת",
-      "gloss": ""
+      "surface": "יְפֹ֥ת",
+      "gloss": "سوہن"
     },
     {
-      "surface": "המראה",
-      "gloss": ""
+      "surface": "הַמַּרְאֶ֖ה",
+      "gloss": "ءِ چهرہ"
     },
     {
-      "surface": "והבריאת",
-      "gloss": ""
+      "surface": "וְהַבְּרִיאֹ֑ת",
+      "gloss": "ءُ ٹُلیں"
     },
     {
-      "surface": "וייקץ",
-      "gloss": ""
+      "surface": "וַיִּיקַ֖ץ",
+      "gloss": "ءُ چون اُستات"
     },
     {
-      "surface": "פרעה",
-      "gloss": ""
+      "surface": "פַּרְעֹֽה",
+      "gloss": "پھرعوہ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:04:06.822046228Z",
+  "model": "glm-5.3"
 }

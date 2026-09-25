@@ -1,67 +1,67 @@
 {
-  "book": "leviticus",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T19:27:45.988755885Z",
+  "tier": "glm-5.2",
   "verse": 33,
   "ref": "leviticus 7:33",
-  "tier": "glm-5.2",
+  "book": "leviticus",
+  "lang": "bal",
   "chapter": 7,
-  "translation": "آ کہ چہ اہارونءِ زہگانان شلامیانی قربانیانی خون ءُ چربیءَ پیش کنت، آییءَ پہ آیی رستئین ران بھشءَ بیت۔",
+  "translation": "آ کہ چہ اہارونءِ زہگانانءَ شلماںءِ آپءَ ⟨את⟩ ءُ چربیءَ ⟨את⟩ پیش کنت، آییءَ پہ بَشءِ راست سوقءِ اِنت پہ حصہ",
   "tokens": [
     {
-      "surface": "המקריב",
-      "gloss": "آ کہ پیش کنت"
+      "surface": "הַמַּקְרִ֞יב",
+      "gloss": "پیش کنوک"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "خون"
+      "marks": "آپءَ"
     },
     {
-      "surface": "דם",
-      "gloss": "خون"
+      "surface": "דַּ֧ם",
+      "gloss": "آپءَ"
     },
     {
-      "surface": "השלמים",
-      "gloss": "شلامیانی قربانیانی"
+      "surface": "הַשְּׁלָמִ֛ים",
+      "gloss": "شلماںءِ"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "ءُ ⟨את⟩",
-      "marks": "چربی"
+      "marks": "چربیءَ"
     },
     {
-      "surface": "החלב",
-      "gloss": "چربی"
+      "surface": "הַחֵ֖לֶב",
+      "gloss": "چربیءَ"
     },
     {
-      "surface": "מבני",
-      "gloss": "چہ زہگانان"
+      "surface": "מִבְּנֵ֣י",
+      "gloss": "زہگانانءَ چہ"
     },
     {
-      "surface": "אהרן",
-      "gloss": "اہارونءِ"
+      "surface": "אַהֲרֹ֑ן",
+      "gloss": "اہارون"
     },
     {
-      "surface": "לו",
-      "gloss": "آییءَ پہ آیی"
+      "surface": "ל֧וֹ",
+      "gloss": "آییءَ پہ"
     },
     {
-      "surface": "תהיה",
+      "surface": "תִהְיֶ֛ה",
       "gloss": "بیت"
     },
     {
-      "surface": "שוק",
-      "gloss": "ران"
+      "surface": "שׁ֥וֹק",
+      "gloss": "سوق"
     },
     {
-      "surface": "הימין",
-      "gloss": "رستئین"
+      "surface": "הַיָּמִ֖ין",
+      "gloss": "راستءِ"
     },
     {
-      "surface": "למנה",
-      "gloss": "بھشءَ"
+      "surface": "לְמָנָֽה",
+      "gloss": "حصہءِ پہ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:24:18.895411099Z",
+  "model": "glm-5.3"
 }

@@ -1,45 +1,45 @@
 {
-  "book": "proverbs",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T21:16:24.522934133Z",
+  "tier": "glm-5.2",
   "verse": 29,
   "ref": "proverbs 1:29",
-  "tier": "glm-5.2",
+  "book": "proverbs",
+  "lang": "bal",
   "chapter": 1,
-  "translation": "پرچا کہ اِشاں دانائیءَ بغاوت کت ءُ یاہوہءِ ڈرءَ نہ چُنیاوُنت،",
+  "translation": "چوش کہ اِشاں شناختءَ چُت کت ءُ یاہوہءِ درشکیءَ نہ چنیت،",
   "tokens": [
     {
       "surface": "תחת",
-      "gloss": "پرچا کہ"
+      "gloss": "چوش کہ"
     },
     {
       "surface": "כי",
-      "gloss": "کہ"
+      "gloss": "کی"
     },
     {
       "surface": "שנאו",
-      "gloss": "بغاوت کت"
+      "gloss": "چُت کت"
     },
     {
       "surface": "דעת",
-      "gloss": "دانائیءَ"
+      "gloss": "شناختءَ"
     },
     {
-      "surface": "ויראת",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יהוה",
-      "gloss": "ڈرءَ"
-    },
-    {
-      "surface": "לא",
-      "gloss": "نہ"
-    },
-    {
       "surface": "בחרו",
-      "gloss": "چُنیاوُنت"
+      "gloss": "چنیت"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "درشکیءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:30:59.240925098Z",
+  "model": "glm-5.3"
 }

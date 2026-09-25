@@ -1,50 +1,50 @@
 {
-  "book": "genesis",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T16:51:31.820570738Z",
+  "tier": "glm-5.2",
   "verse": 4,
   "ref": "genesis 30:4",
-  "tier": "glm-5.2",
+  "book": "genesis",
+  "lang": "bal",
   "chapter": 30,
-  "translation": "ءُ آیی ءُچہ آییءَ یعقوب",
+  "translation": "ءُ آیءَ آییءَ ⟨את⟩ بیلہا وتی کنیز پہ زنانءَ دات، ءُ یعقوب آییءَ رَوَتگ.",
   "tokens": [
     {
-      "surface": "ותתן",
+      "surface": "וַתִּתֶּן",
       "gloss": "ءُ دات"
     },
     {
-      "surface": "לו",
+      "surface": "לוֹ",
       "gloss": "آییءَ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "بلہا"
+      "marks": "بیلہا"
     },
     {
-      "surface": "בלהה",
-      "gloss": "بلہا"
+      "surface": "בִּלְהָה",
+      "gloss": "بیلہا"
     },
     {
-      "surface": "שפחתה",
-      "gloss": "آییءِ کنیز"
+      "surface": "שִׁפְחָתָהּ",
+      "gloss": "وتی کنیز"
     },
     {
-      "surface": "לאשה",
-      "gloss": "پہ زال"
+      "surface": "לְאִשָּׁה",
+      "gloss": "پہ زنانءَ"
     },
     {
-      "surface": "ויבא",
-      "gloss": "ءُ درا کت"
+      "surface": "וַיָּבֹא",
+      "gloss": "ءُ رَوَتگ"
     },
     {
-      "surface": "אליה",
-      "gloss": "آییءَ یعقوب"
+      "surface": "אֵלֶיהָ",
+      "gloss": "آییءَ"
     },
     {
-      "surface": "יעקב",
-      "gloss": ""
+      "surface": "יַעֲקֹב",
+      "gloss": "یعقوب"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:02:57.903451119Z",
+  "model": "glm-5.3"
 }

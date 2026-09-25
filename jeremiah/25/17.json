@@ -1,67 +1,67 @@
 {
-  "book": "jeremiah",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T17:50:14.678799575Z",
+  "tier": "glm-5.2",
   "verse": 17,
   "ref": "jeremiah 25:17",
-  "tier": "glm-5.2",
+  "book": "jeremiah",
+  "lang": "bal",
   "chapter": 25,
-  "translation": "ءُ من کوسءَ چہ یاہوہءِ دستءَ گرت، ءُ ⟨את⟩ سئے قوماںءَ چکاندم — جنکاں یاہوہ منءَ آیانی وتی لاءِ شلت ءُ آیانی وتی لاءِ گشت.",
+  "translation": "ءُ من گواس ⟨את⟩ کوس چہ یاہوہءِ دستءَ گپت ءُ ⟨את⟩ ہچ قوماںءَ نہ چوشیت کہ یاہوہ مءُ آیانی چیراں شولیءَ اِنت.",
   "tokens": [
     {
-      "surface": "ואקח",
-      "gloss": "ءُ گرتم"
+      "surface": "וָאֶקַּח",
+      "gloss": "ءُ من گپت"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "کوسءَ"
+      "marks": "کوس"
     },
     {
-      "surface": "הכוס",
+      "surface": "הַכּוֹס",
       "gloss": "کوس"
     },
     {
-      "surface": "מיד",
+      "surface": "מִיַּד",
       "gloss": "چہ دستءَ"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "ואשקה",
-      "gloss": "ءُ چکاندُم"
+      "surface": "וָאַשְׁקֶה",
+      "gloss": "ءُ نہ چوشیت"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "سئے قوماں"
+      "marks": "ہچ قوماں"
     },
     {
-      "surface": "כל",
-      "gloss": "سئے"
+      "surface": "כָּל",
+      "gloss": "ہچ"
     },
     {
-      "surface": "הגוים",
-      "gloss": "قوم"
+      "surface": "הַגּוֹיִם",
+      "gloss": "قوماںءَ"
     },
     {
-      "surface": "אשר",
-      "gloss": "جنکاں"
+      "surface": "אֲשֶׁר",
+      "gloss": "کہ"
     },
     {
-      "surface": "שלחני",
-      "gloss": "شلت"
+      "surface": "שְׁלָחַנִי",
+      "gloss": "مءُ شولیءَ"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אליהם",
-      "gloss": "آیانی وتی لاءِ"
+      "surface": "אֲלֵיהֶם",
+      "gloss": "آیانی چیراں"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:35:19.768391939Z",
+  "model": "glm-5.3"
 }

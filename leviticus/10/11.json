@@ -1,67 +1,67 @@
 {
-  "book": "leviticus",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T19:15:57.669184389Z",
+  "tier": "glm-5.2",
   "verse": 11,
   "ref": "leviticus 10:11",
-  "tier": "glm-5.2",
+  "book": "leviticus",
+  "lang": "bal",
   "chapter": 10,
-  "translation": "ءُ پہ آیانءَ بنی‌ئے اسرائیلءَ ⟨את⟩ گچ چیں حکمانی کہ یاہوہ آیانءَ گوں موشہءِ دستءَ ھشت گوَشت۔",
+  "translation": "ءُ پہ آیانءَ گوَنستیں اسرائیلءِ ⟨את⟩ زہگانءَ ⟨את⟩ پوریں حکمان کہ یاہوہءَ چہ موشہءِ دستءَ آیانءَ گوَشتگ.",
   "tokens": [
     {
-      "surface": "ולהורת",
-      "gloss": "ءُ پہ آیانءَ بچار کتگ"
+      "surface": "וּלְהוֹרֹ֖ת",
+      "gloss": "ءُ پہ گوَنستیں"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "اسرائیلانی زہگان"
+      "marks": "اسرائیلءِ زہگانءَ"
     },
     {
-      "surface": "בני",
-      "gloss": "زہگان"
+      "surface": "בְּנֵ֣י",
+      "gloss": "زہگانءَ"
     },
     {
-      "surface": "ישראל",
-      "gloss": "اسرائیل"
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "اسرائیلءِ"
     },
     {
-      "surface": "את",
+      "surface": "אֵ֚ת",
       "gloss": "⟨את⟩",
-      "marks": "گچ حکم"
+      "marks": "پوریں حکمان"
     },
     {
-      "surface": "כל",
-      "gloss": "گچ"
+      "surface": "כָּל",
+      "gloss": "پوریں"
     },
     {
-      "surface": "החקים",
-      "gloss": "حکم"
+      "surface": "הַ֣חֻקִּ֔ים",
+      "gloss": "حکمان"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֨ר",
       "gloss": "کہ"
     },
     {
-      "surface": "דבר",
-      "gloss": "گوَشت"
+      "surface": "דִּבֶּ֧ר",
+      "gloss": "گوَشتگ"
     },
     {
-      "surface": "יהוה",
-      "gloss": "یاہوہ"
+      "surface": "יְהוָ֛ה",
+      "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אליהם",
+      "surface": "אֲלֵיהֶ֖ם",
       "gloss": "آیانءَ"
     },
     {
-      "surface": "ביד",
-      "gloss": "دستءَ"
+      "surface": "בְּיַ֣ד",
+      "gloss": "چہ … دستءَ"
     },
     {
-      "surface": "משה",
-      "gloss": "موشہ"
+      "surface": "מֹשֶֽׁה",
+      "gloss": "موشہءِ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:22:12.091654372Z",
+  "model": "glm-5.3"
 }

@@ -1,75 +1,75 @@
 {
-  "book": "joshua",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T18:52:43.212852424Z",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "joshua 6:3",
-  "tier": "glm-5.2",
+  "book": "joshua",
+  "lang": "bal",
   "chapter": 6,
-  "translation": "ءُ شما ⟨את⟩ شہرءَ گش کنیں، سارے جنگءِ مردمان، شہرءَ یک وارءِ چمءَ گپتہ بگرِنت — اے وش شش روچ کَنٹ۔",
+  "translation": "ءُ شما ⟨את⟩ شہرءَ بگیریت، سئے جنگءِ مردمان، شہرءِ گردی یک وہد پہ یک روچ گرپتگ؛ چوش ءُ شما شش روچ کار کنیت۔",
   "tokens": [
     {
-      "surface": "וסבתם",
-      "gloss": "ءُ شما گش کنیں"
+      "surface": "וְסַבֹּתֶם",
+      "gloss": "ءُ شما … بگیریت"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "شہر"
+      "marks": "شہرءَ"
     },
     {
-      "surface": "העיר",
+      "surface": "הָעִיר",
       "gloss": "شہرءَ"
     },
     {
-      "surface": "כל",
-      "gloss": "سارے"
+      "surface": "כֹּל",
+      "gloss": "سئے"
     },
     {
-      "surface": "אנשי",
+      "surface": "אַנְשֵׁי",
       "gloss": "مردمان"
     },
     {
-      "surface": "המלחמה",
+      "surface": "הַמִּלְחָמָה",
       "gloss": "جنگءِ"
     },
     {
-      "surface": "הקיף",
-      "gloss": "گپتہ بگرِنت"
+      "surface": "הַקֵּיף",
+      "gloss": "گرپتگ"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "شہر"
+      "marks": "شہرءَ"
     },
     {
-      "surface": "העיר",
+      "surface": "הָעִיר",
       "gloss": "شہرءَ"
     },
     {
-      "surface": "פעם",
-      "gloss": "وار"
+      "surface": "פַּעַם",
+      "gloss": "وہد"
     },
     {
-      "surface": "אחת",
+      "surface": "אַחַת",
       "gloss": "یک"
     },
     {
-      "surface": "כה",
-      "gloss": "اے وش"
+      "surface": "כֹּה",
+      "gloss": "چوش"
     },
     {
-      "surface": "תעשה",
-      "gloss": "کَنٹ"
+      "surface": "תַּעֲשֶׂה",
+      "gloss": "کار کنیت"
     },
     {
-      "surface": "ששת",
+      "surface": "שֵׁשֶׁת",
       "gloss": "شش"
     },
     {
-      "surface": "ימים",
+      "surface": "יָמִים",
       "gloss": "روچ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:15:32.279278079Z",
+  "model": "glm-5.3"
 }
