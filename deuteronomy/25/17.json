@@ -1,50 +1,50 @@
 {
-  "book": "deuteronomy",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T21:48:59.035645632Z",
+  "tier": "glm-5.2",
   "verse": 17,
   "ref": "deuteronomy 25:17",
-  "tier": "glm-5.2",
+  "book": "deuteronomy",
+  "lang": "bal",
   "chapter": 25,
-  "translation": "یاد دار کہ عمالقءَ چہ چهارتءَ تہ روچءَ روگاہءَ کت، اودا کہ تمان چہ مِتسرایمءَ دراتیںءَ اُتے،",
+  "translation": "یاد دار کہ عمالقءَ چہ راہءَ تہ ⟨את⟩ آ کت، وہدے کہ تُں چہ مِتسرایمءَ درآت.",
   "tokens": [
     {
-      "surface": "זכור",
+      "surface": "זָכ֕וֹר",
       "gloss": "یاد دار"
     },
     {
-      "surface": "את",
+      "surface": "אֵ֛ת",
       "gloss": "⟨את⟩",
-      "marks": "کہ عمالقءَ چہ چهارتءَ کت"
+      "marks": "آ کت"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר",
       "gloss": "کہ"
     },
     {
-      "surface": "עשה",
+      "surface": "עָשָׂ֥ה",
       "gloss": "کت"
     },
     {
-      "surface": "לך",
-      "gloss": "تہ … ءَ"
+      "surface": "לְךָ֖",
+      "gloss": "تہ"
     },
     {
-      "surface": "עמלק",
-      "gloss": "عمالق"
+      "surface": "עֲמָלֵ֑ק",
+      "gloss": "عمالقءَ"
     },
     {
-      "surface": "בדרך",
-      "gloss": "چہ چهارتءَ تہ روچءِ روگاہءَ"
+      "surface": "בַּדֶּ֖רֶךְ",
+      "gloss": "چہ راہءَ"
     },
     {
-      "surface": "בצאתכם",
-      "gloss": "اودا کہ تمان دراتیںءَ"
+      "surface": "בְּצֵאתְכֶ֥ם",
+      "gloss": "وہدے کہ تُں درآت"
     },
     {
-      "surface": "ממצרים",
-      "gloss": "چہ مِتسرایم"
+      "surface": "מִמִּצְרָֽיִם",
+      "gloss": "چہ مِتسرایمءَ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:45:27.805074195Z",
+  "model": "glm-5.3"
 }

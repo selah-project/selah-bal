@@ -1,74 +1,74 @@
 {
-  "book": "1-chronicles",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T21:31:57.542078590Z",
+  "tier": "glm-5.2",
   "verse": 13,
   "ref": "1-chronicles 13:13",
-  "tier": "glm-5.2",
+  "book": "1-chronicles",
+  "lang": "bal",
   "chapter": 13,
-  "translation": "ءُ داؤد صندوقءَ نہ پرچایت وتیءَ کیت، داؤدءِ شہرءَ، بلے آیءَ پرچایت گھرءِ عوبیدءِ ایدومءِ گتیءِ ءَ۔",
+  "translation": "ءُ داود ⟨את⟩ صندوقءَ گوں وتی نہ زوت، نہ داودءِ شہرءَ، بلے آیءَ زوت آ خانگءَ کہ عوبید ءِ اِدومءِ، گِتیءِ مردمءَ۔",
   "tokens": [
     {
-      "surface": "ולא",
+      "surface": "וְלֹֽא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "הסיר",
-      "gloss": "پرچایت"
+      "surface": "הֵסִ֨יר",
+      "gloss": "زوت"
     },
     {
-      "surface": "דויד",
-      "gloss": "داؤد"
+      "surface": "דָּוִ֧יד",
+      "gloss": "داود"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "صندوق"
     },
     {
-      "surface": "הארון",
-      "gloss": "صندوق"
+      "surface": "הָאָר֛וֹן",
+      "gloss": "صندوقءَ"
     },
     {
-      "surface": "אליו",
-      "gloss": "وتیءَ"
+      "surface": "אֵלָ֖יו",
+      "gloss": "گوں وتی"
     },
     {
-      "surface": "אל",
-      "gloss": "پہ"
+      "surface": "אֶל",
+      "gloss": "تہ"
     },
     {
-      "surface": "עיר",
-      "gloss": "شہر"
+      "surface": "עִ֣יר",
+      "gloss": "شہرءَ"
     },
     {
-      "surface": "דויד",
-      "gloss": "داؤدءِ"
+      "surface": "דָּוִ֑יד",
+      "gloss": "داودءِ"
     },
     {
-      "surface": "ויטהו",
-      "gloss": "ءُ آیءَ پرچایت"
+      "surface": "וַיַּטֵּ֕הוּ",
+      "gloss": "ءُ آیءَ زوت"
     },
     {
-      "surface": "אל",
-      "gloss": "پہ"
+      "surface": "אֶל",
+      "gloss": "تہ"
     },
     {
-      "surface": "בית",
-      "gloss": "گھرءِ"
+      "surface": "בֵּ֥ית",
+      "gloss": "خانگءَ"
     },
     {
-      "surface": "עבד",
-      "gloss": "عوبید"
+      "surface": "עֹבֵֽד",
+      "gloss": "عوبید ءِ"
     },
     {
-      "surface": "אדם",
-      "gloss": "ایدومءِ"
+      "surface": "אֱדֹ֖ם",
+      "gloss": "اِدومءِ"
     },
     {
-      "surface": "הגתי",
-      "gloss": "گتیءِ"
+      "surface": "הַגִּתִּֽי",
+      "gloss": "گِتیءِ مردمءَ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:40:25.585008969Z",
+  "model": "glm-5.3"
 }

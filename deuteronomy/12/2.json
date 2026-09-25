@@ -1,112 +1,112 @@
 {
-  "book": "deuteronomy",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T21:50:18.577963235Z",
+  "tier": "glm-5.2",
   "verse": 2,
   "ref": "deuteronomy 12:2",
-  "tier": "glm-5.2",
+  "book": "deuteronomy",
+  "lang": "bal",
   "chapter": 12,
-  "translation": "مکام کن سُہ مکام کنیں ⟨את⟩ همه جاگاہاں کہ اودا قوم کہ تُماں اِشانی جاگہ گیرنت ⟨את⟩ اِشانی ہدایانءَ پرستنت، بلندیں کوہانی سرءَ ءُ ٹکریانی سرءَ ءُ ہر شاد دارءِ تہءَ",
+  "translation": "بوشت کتنءَ بوشت کتن ⟨את⟩ گل جاگہاں کہ ادا قومان کہ اے ⟨את⟩ آیانءَ وتی کننت اِشانی ہدایانءَ خدمت کت — بلندیں کُئانی سرءَ ءُ ٹکریانی سرءَ ءُ گل شینہ دارءِ تہءَ.",
   "tokens": [
     {
-      "surface": "אבד",
-      "gloss": "مکام کن"
+      "surface": "אַבֵּד",
+      "gloss": "بوشت کتنءَ"
     },
     {
-      "surface": "תאבדון",
-      "gloss": "سُہ مکام کنیں"
+      "surface": "תְּאַבְּדוּן",
+      "gloss": "بوشت کتن"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "همه جاگاہاں"
+      "marks": "گل جاگہاں"
     },
     {
-      "surface": "כל",
-      "gloss": "همه"
+      "surface": "כָּל",
+      "gloss": "گل"
     },
     {
-      "surface": "המקמות",
-      "gloss": "جاگاہاں"
+      "surface": "הַמְּקֹמוֹת",
+      "gloss": "جاگہاں"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר",
       "gloss": "کہ"
     },
     {
-      "surface": "עבדו",
-      "gloss": "پرستنت"
+      "surface": "עָבְדוּ",
+      "gloss": "خدمت کت"
     },
     {
-      "surface": "שם",
-      "gloss": "اودا"
+      "surface": "שָׁם",
+      "gloss": "ادا"
     },
     {
-      "surface": "הגוים",
-      "gloss": "قوم"
+      "surface": "הַגּוֹיִם",
+      "gloss": "قومان"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר",
       "gloss": "کہ"
     },
     {
-      "surface": "אתם",
-      "gloss": "تُماں"
+      "surface": "אַתֶּם",
+      "gloss": "اے"
     },
     {
-      "surface": "ירשים",
-      "gloss": "گیرنت"
+      "surface": "יֹרְשִׁים",
+      "gloss": "وتی کننت"
     },
     {
-      "surface": "אתם",
-      "gloss": "⟨את⟩ اِشانی",
-      "marks": "قوم"
-    },
-    {
-      "surface": "את",
+      "surface": "אֹתָם",
       "gloss": "⟨את⟩",
-      "marks": "اِشانی ہدایان"
+      "marks": "آیانءَ (قومان)"
     },
     {
-      "surface": "אלהיהם",
-      "gloss": "اِشانی ہدایان"
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ہدایانءَ"
     },
     {
-      "surface": "על",
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "ہدایانءَ"
+    },
+    {
+      "surface": "עַל",
       "gloss": "سرءَ"
     },
     {
-      "surface": "ההרים",
-      "gloss": "کوہانی"
+      "surface": "הֶהָרִים",
+      "gloss": "کُئان"
     },
     {
-      "surface": "הרמים",
+      "surface": "הָרָמִים",
       "gloss": "بلندیں"
     },
     {
-      "surface": "ועל",
-      "gloss": "ءُ ٹکریانی سرءَ"
+      "surface": "וְעַל",
+      "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "הגבעות",
-      "gloss": "ٹکریانی"
+      "surface": "הַגְּבָעוֹת",
+      "gloss": "ٹکریان"
     },
     {
-      "surface": "ותחת",
+      "surface": "וְתַחַת",
       "gloss": "ءُ تہءَ"
     },
     {
-      "surface": "כל",
-      "gloss": "ہر"
+      "surface": "כָּל",
+      "gloss": "گل"
     },
     {
-      "surface": "עץ",
+      "surface": "עֵץ",
       "gloss": "دار"
     },
     {
-      "surface": "רענן",
-      "gloss": "شاد"
+      "surface": "רַעֲנָן",
+      "gloss": "شینہ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:44:39.340373499Z",
+  "model": "glm-5.3"
 }

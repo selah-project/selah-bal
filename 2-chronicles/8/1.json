@@ -1,29 +1,27 @@
 {
-  "book": "2-chronicles",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T21:41:22.052899122Z",
+  "tier": "glm-5.2",
   "verse": 1,
   "ref": "2-chronicles 8:1",
-  "tier": "glm-5.2",
+  "book": "2-chronicles",
+  "lang": "bal",
   "chapter": 8,
-  "translation": "ءُ آ بوت چہ آخرِ بیست سالءَ کہ شلومہءَ یاہوہءِ گدان ءُ ⟨את⟩ وتی گدان جوڑ کت",
+  "translation": "ءُ ات بوت چہ کیتءِ دہ سالءِ پہ کہ شلومہءَ یاہوہءِ گدان ءُ ⟨את⟩ آییءِ گدان جوڑ کت۔",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ءُ آ بوت"
+      "gloss": "ءُ ات بوت"
     },
     {
       "surface": "מקץ",
-      "gloss": "چہ آخرِ"
+      "gloss": "چہ کیتءِ"
     },
     {
       "surface": "עשרים",
-      "gloss": "بیست"
+      "gloss": "دہ"
     },
     {
       "surface": "שנה",
-      "gloss": "سالءَ"
+      "gloss": "سالءِ"
     },
     {
       "surface": "אשר",
@@ -48,16 +46,18 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہءِ"
+      "gloss": "یاهوہءِ"
     },
     {
       "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
-      "marks": "وتی گدان"
+      "marks": "آییءِ گدان"
     },
     {
       "surface": "ביתו",
-      "gloss": "وتی گدان"
+      "gloss": "آییءِ گدان"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:43:50.239535888Z",
+  "model": "glm-5.3"
 }

@@ -1,69 +1,69 @@
 {
-  "book": "isaiah",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T22:05:12.880781379Z",
+  "tier": "glm-5.2",
   "verse": 11,
   "ref": "isaiah 38:11",
-  "tier": "glm-5.2",
+  "book": "isaiah",
+  "lang": "bal",
   "chapter": 38,
-  "translation": "ما گوَشتُم: یاہءَ نہ گندیت، یاہءَ، تہ زندگیانی زمینءَ؛ ءُ ئے آدمءَ نہ رُوت، ہچ نہ، گوں چہ پُشتیر ءُ بُوَزگر۔",
+  "translation": "من گوَشت: یاہ، یاہءَ نہ گندِت تہ زندگیں ڈگارءَ؛ ادمءَ نہ واندِت ہنڈے، گوں رہندوکانی چُڈالءَ۔",
   "tokens": [
     {
-      "surface": "אמרתי",
-      "gloss": "ما گوَشتُم"
+      "surface": "אָמַ֨רְתִּי֙",
+      "gloss": "من گوَشت"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "نہ"
     },
     {
-      "surface": "אראה",
-      "gloss": "گندیت"
+      "surface": "אֶרְאֶ֣ה",
+      "gloss": "گندِت"
     },
     {
-      "surface": "יה",
+      "surface": "יָ֔הּ",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "יָ֖הּ",
       "gloss": "یاہءَ"
     },
     {
-      "surface": "יה",
-      "gloss": "یاہءَ"
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "تہ ڈگارءَ"
     },
     {
-      "surface": "בארץ",
-      "gloss": "تہ زمینءَ"
+      "surface": "הַחַיִּ֑ים",
+      "gloss": "زندگیں"
     },
     {
-      "surface": "החיים",
-      "gloss": "زندگیانی"
-    },
-    {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "نہ"
     },
     {
-      "surface": "אביט",
-      "gloss": "روت"
+      "surface": "אַבִּ֥יט",
+      "gloss": "واندِت"
     },
     {
-      "surface": "אדם",
-      "gloss": "آدمءَ"
+      "surface": "אָדָ֛ם",
+      "gloss": "ادمءَ"
     },
     {
-      "surface": "עוד",
-      "gloss": "ہچ نہ"
+      "surface": "ע֖וֹד",
+      "gloss": "ہنڈے"
     },
     {
-      "surface": "עם",
+      "surface": "עִם",
       "gloss": "گوں"
     },
     {
-      "surface": "יושבי",
-      "gloss": "چہ پُشتیر ءُ بُوَزگر"
+      "surface": "יֹשְׁבֵ֣י",
+      "gloss": "رہندوکانی"
     },
     {
-      "surface": "חדל",
-      "gloss": ""
+      "surface": "חָֽדֶל",
+      "gloss": "چُڈال"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:53:48.351745745Z",
+  "model": "glm-5.3"
 }

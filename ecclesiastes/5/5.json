@@ -1,108 +1,108 @@
 {
-  "book": "ecclesiastes",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T21:52:41.213198801Z",
+  "tier": "glm-5.2",
   "verse": 5,
   "ref": "ecclesiastes 5:5",
-  "tier": "glm-5.2",
+  "book": "ecclesiastes",
+  "lang": "bal",
   "chapter": 5,
-  "translation": "تئے زبانءَ نہ دی کہ ⟨את⟩ تئے گوشت گنہ کنی؛ ءُ پیغامروکءِ پیشءَ نہ گو کہ اے چُک اِنت — چرا ایلوہیم تئے آوازءَ سر غش کنت ءُ ⟨את⟩ تئے دستانی کار بربیت؟",
+  "translation": "آپءِ دہن نہ دئے کہ آپءِ گوشتءَ گنہے، ءُ فرشتہءِ پیشءَ نہ گوشیت کہ اے چوک اِنت؛ چرا ایلوہیم آپءِ آوازءَ سر غضب بکنت ءُ آپءِ دستاںءِ کارءَ نیست بکنت؟",
   "tokens": [
     {
-      "surface": "אל",
+      "surface": "אַל",
       "gloss": "نہ"
     },
     {
-      "surface": "תתן",
-      "gloss": "دی"
+      "surface": "תִּתֵּן",
+      "gloss": "دئے"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "تئے زبان"
+      "marks": "آپءِ دہن"
     },
     {
-      "surface": "פיך",
-      "gloss": "تئے زبان"
+      "surface": "פִּיךָ",
+      "gloss": "آپءِ دہن"
     },
     {
-      "surface": "לחטיא",
-      "gloss": "پہ گنہ کنگ"
+      "surface": "לַחֲטִיא",
+      "gloss": "پہ گنہ گرگ"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "تئے گوشت"
+      "marks": "آپءِ گوشت"
     },
     {
-      "surface": "בשרך",
-      "gloss": "تئے گوشت"
+      "surface": "בְּשָׂרֶךָ",
+      "gloss": "آپءِ گوشت"
     },
     {
-      "surface": "ואל",
+      "surface": "וְאַל",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "תאמר",
-      "gloss": "گو"
+      "surface": "תֹּאמַר",
+      "gloss": "گوشیت"
     },
     {
-      "surface": "לפני",
+      "surface": "לִפְנֵי",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "המלאך",
-      "gloss": "پیغامروک"
+      "surface": "הַמַּלְאָךְ",
+      "gloss": "فرشتہءِ"
     },
     {
-      "surface": "כי",
+      "surface": "כִּי",
       "gloss": "کہ"
     },
     {
-      "surface": "שגגה",
-      "gloss": "چُک"
+      "surface": "שְׁגָגָה",
+      "gloss": "چوک"
     },
     {
-      "surface": "היא",
-      "gloss": "اے اِنت"
+      "surface": "הִיא",
+      "gloss": "اے"
     },
     {
-      "surface": "למה",
+      "surface": "לָמָּה",
       "gloss": "چرا"
     },
     {
-      "surface": "יקצף",
-      "gloss": "غش کنت"
+      "surface": "יִקְצֹף",
+      "gloss": "غضب بکنت"
     },
     {
-      "surface": "האלהים",
+      "surface": "הָאֱלֹהִים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "سر"
     },
     {
-      "surface": "קולך",
-      "gloss": "تئے آواز"
+      "surface": "קוֹלֶךָ",
+      "gloss": "آپءِ آواز"
     },
     {
-      "surface": "וחבל",
-      "gloss": "ءُ بربیت"
+      "surface": "וְחִבֵּל",
+      "gloss": "ءُ نیست بکنت"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "تئے دستانی کار"
+      "marks": "کار"
     },
     {
-      "surface": "מעשה",
+      "surface": "מַעֲשֶׂה",
       "gloss": "کار"
     },
     {
-      "surface": "ידיך",
-      "gloss": "تئے دستان"
+      "surface": "יָדֶיךָ",
+      "gloss": "آپءِ دستاںءِ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:48:34.003814067Z",
+  "model": "glm-5.3"
 }

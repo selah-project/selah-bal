@@ -1,70 +1,70 @@
 {
-  "book": "joshua",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T22:17:09.728006151Z",
+  "tier": "glm-5.2",
   "verse": 20,
   "ref": "joshua 9:20",
-  "tier": "glm-5.2",
+  "book": "joshua",
+  "lang": "bal",
   "chapter": 9,
-  "translation": "اے آیانءَ کنیں ءُ آیانءَ زندگ بکنیں، ءُ ماءِ سرءَ قہر نہ بیت، پہ آ قسمءِ کہ ما آیانءَ گس کنت۔",
+  "translation": "اے ما آیانءَ کنیں ءُ آیانءَ زنده داریں، تا کین ماءِ سرءَ نہ بیت، اے قسمءِ پہ کہ ما چے آیانءَ قسم کتگ۔",
   "tokens": [
     {
-      "surface": "זאת",
+      "surface": "זֹ֛את",
       "gloss": "اے"
     },
     {
-      "surface": "נעשה",
-      "gloss": "کونیں"
+      "surface": "נַעֲשֶׂ֥ה",
+      "gloss": "کنیں"
     },
     {
-      "surface": "להם",
+      "surface": "לָהֶ֖ם",
       "gloss": "آیانءَ"
     },
     {
-      "surface": "והחיה",
-      "gloss": "ءُ زندگ بکونیں"
+      "surface": "וְהַחֲיֵ֣ה",
+      "gloss": "ءُ زنده داریں"
     },
     {
-      "surface": "אותם",
-      "gloss": "⟨את⟩",
+      "surface": "אוֹתָ֑ם",
+      "gloss": "⟨את⟩ آیانءَ",
       "marks": "آیانءَ"
     },
     {
-      "surface": "ולא",
+      "surface": "וְלֹֽא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יהיה",
+      "surface": "יִֽהְיֶ֤ה",
       "gloss": "بیت"
     },
     {
-      "surface": "עלינו",
+      "surface": "עָלֵ֨ינוּ֙",
       "gloss": "ماءِ سرءَ"
     },
     {
-      "surface": "קצף",
-      "gloss": "قہر"
+      "surface": "קֶ֔צֶף",
+      "gloss": "کین"
     },
     {
-      "surface": "על",
-      "gloss": "پہ"
+      "surface": "עַל",
+      "gloss": "اے"
     },
     {
-      "surface": "השבועה",
-      "gloss": "قسم"
+      "surface": "הַשְּׁבוּעָ֖ה",
+      "gloss": "قسمءِ"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֥ר",
       "gloss": "کہ"
     },
     {
-      "surface": "נשבענו",
-      "gloss": "گس کنت"
+      "surface": "נִשְׁבַּ֥עְנוּ",
+      "gloss": "قسم کتگ"
     },
     {
-      "surface": "להם",
-      "gloss": "آیانءَ"
+      "surface": "לָהֶֽם",
+      "gloss": "چے آیانءَ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T22:55:12.641023006Z",
+  "model": "glm-5.3"
 }
