@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ یاہوہ موشہءَ ءُ اَہروںءَ گوَشت کہ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ ءَ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَہروں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:06:26.307144523Z",
+  "model": "glm-5.3"
+}

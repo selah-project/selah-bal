@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ یاہوہءَ موشہءَ گال گوَشت سیناہءِ بیابانءَ، آ کہ گوَش:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گال گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابانءَ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سیناہءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ گوَش"
+    }
+  ],
+  "timestamp": "2026-09-25T03:06:06.440141954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "کی اگر تو منءِ قومءَ ⟨את⟩ شال بڈ کرےءَ انکار کنیں، اینا من کل تہءِ سرحدءَ آرپہ آنیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انکار کنیں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "شال بڈ کرےءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منءِ قومءَ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منءِ قومءَ"
+    },
+    {
+      "surface": "הננی",
+      "gloss": "اینا من"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "آنیت"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "کل"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "آرپہءَ"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "تہءِ سرحدءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:06:48.599750767Z",
+  "model": "glm-5.3"
+}

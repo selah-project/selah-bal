@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "یک چیز هست کہ آییءَ بگوشن: گند، اے نوک اِنت؟ آ چہ پہینت، پہ زمانگانی اَت، کہ ماءِ پیشی اَت.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "کہ بگوشن"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گند"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "چہ پہینت"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "لעלמים",
+      "gloss": "پہ زمانگانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "مלפננو",
+      "gloss": "ماءِ پیشی"
+    }
+  ],
+  "timestamp": "2026-09-25T03:06:41.632453862Z",
+  "model": "glm-5.3"
+}

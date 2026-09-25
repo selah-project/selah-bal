@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "مِراریءِ زہگان: مَحلی، لِبنی آییءِ زہگ، شِمئی آییءِ زہگ، عُزا آییءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراریءِ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحلی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبنی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمئی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عُزا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:06:23.998203240Z",
+  "model": "glm-5.3"
+}

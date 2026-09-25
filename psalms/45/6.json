@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "تُئی تیر تیز اِنت — قومان تُئیءِ تلءَ ڈگنت — دلءَ، پادشاہءِ دشمنانی۔",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "تُئی تیر"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "تیز"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "تُئیءِ تلءَ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈگنت"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "دشمنانی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:06:46.500748418Z",
+  "model": "glm-5.3"
+}

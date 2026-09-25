@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "آں کہ بوتگ اِنت، آیی اِنت کہ بیت؛ ءُ آں کہ کنتگ اِنت، آیی اِنت کہ کنت بیت؛ ءُ تہ آفتابءِ تلے ہچ نوکین چیز نیست.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کچیت"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "کہ بوتگ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آیی اِنت"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "کہ بیت"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ کچیت"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "کہ کنتگ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آیی اِنت"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "کہ کنت بیت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہچ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوکین"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ … تلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "آفتاب"
+    }
+  ],
+  "timestamp": "2026-09-25T03:06:41.631928612Z",
+  "model": "glm-5.3"
+}

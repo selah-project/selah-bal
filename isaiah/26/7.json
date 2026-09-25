@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "رستءِ راہ رستی اِنت؛ اے رستءَ، رستءِ راہ ہموار کنت.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "رستءِ پہ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "رستی"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "اے رستءَ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "رست"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ہموار کنت"
+    }
+  ],
+  "timestamp": "2026-09-25T03:06:30.355818944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ اے گال ایلوہیمءِ چشمانءَ تہ گندگ بوت، ءُ ایلوہیمءَ ⟨את⟩ اسرائیل زرب کت.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ءُ گندگ بوت"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشمانءَ تہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے گال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ءُ زرب کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائیلءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:06:24.096793468Z",
+  "model": "glm-5.3"
+}
