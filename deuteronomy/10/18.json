@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "deuteronomy 10:18",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:47:55.307635757Z",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "یتیم ءُ بیواءِ پہ راستی کنیت، ءُ پرانتءَ چاہیت آییءَ نان ءُ جما دنگ پہ۔",
   "tokens": [
     {
-      "surface": "עֹשֶׂ֛ה",
+      "surface": "עשה",
       "gloss": "کنیت"
     },
     {
-      "surface": "מִשְׁפַּ֥ט",
+      "surface": "משפט",
       "gloss": "راستی"
     },
     {
-      "surface": "יָת֖וֹם",
+      "surface": "יתום",
       "gloss": "یتیم"
     },
     {
-      "surface": "וְאַלְמָנָ֑ה",
+      "surface": "ואלמנה",
       "gloss": "ءُ بیوا"
     },
     {
-      "surface": "וְאֹהֵ֣ב",
+      "surface": "ואהב",
       "gloss": "ءُ چاہیت"
     },
     {
-      "surface": "גֵּ֔ר",
+      "surface": "גר",
       "gloss": "پرانت"
     },
     {
-      "surface": "לָ֥תֶת",
+      "surface": "לתת",
       "gloss": "دنگ پہ"
     },
     {
-      "surface": "ל֖וֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "לֶ֥חֶם",
+      "surface": "לחם",
       "gloss": "نان"
     },
     {
-      "surface": "וְשִׂמְלָֽה",
+      "surface": "ושמלה",
       "gloss": "ءُ جما"
     }
-  ],
-  "timestamp": "2026-09-25T21:47:55.307635757Z",
-  "model": "glm-5.3"
+  ]
 }

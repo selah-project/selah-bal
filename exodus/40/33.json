@@ -1,76 +1,76 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "exodus 40:33",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:55:14.094372479Z",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "tier": "glm-5.2",
   "chapter": 40,
   "translation": "ءُ آییءَ ⟨את⟩ حصار مِشکانءِ چوگرد ءُ قربانگاہءَ اُچ کت، ءُ حصارءِ دروازہءِ پردہءَ رچا کت؛ ءُ موشہ ⟨את⟩ کار پورہ کت۔",
   "tokens": [
     {
-      "surface": "וַיָּ֣קֶם",
+      "surface": "ויקם",
       "gloss": "ءُ آییءَ اُچ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "حصار"
     },
     {
-      "surface": "הֶחָצֵ֗ר",
+      "surface": "החצר",
       "gloss": "حصار"
     },
     {
-      "surface": "סָבִיב֙",
+      "surface": "סביב",
       "gloss": "چوگرد"
     },
     {
-      "surface": "לַמִּשְׁכָּ֣ן",
+      "surface": "למשכן",
       "gloss": "مِشکانءِ پہ"
     },
     {
-      "surface": "וְלַמִּזְבֵּ֔חַ",
+      "surface": "ולמזבח",
       "gloss": "ءُ قربانگاہءِ پہ"
     },
     {
-      "surface": "וַיִּתֵּ֕ן",
+      "surface": "ויתן",
       "gloss": "ءُ رچا کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پردہ"
     },
     {
-      "surface": "מָסַ֖ךְ",
+      "surface": "מסך",
       "gloss": "پردہ"
     },
     {
-      "surface": "שַׁ֣עַר",
+      "surface": "שער",
       "gloss": "دروازہءِ"
     },
     {
-      "surface": "הֶחָצֵ֑ר",
+      "surface": "החצר",
       "gloss": "حصارءِ"
     },
     {
-      "surface": "וַיְכַ֥ל",
+      "surface": "ויכל",
       "gloss": "ءُ پورہ کت"
     },
     {
-      "surface": "מֹשֶׁ֖ה",
+      "surface": "משה",
       "gloss": "موشہ ⟨موسیٰ⟩"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کار"
     },
     {
-      "surface": "הַמְּלָאכָֽה",
+      "surface": "המלאכה",
       "gloss": "کار"
     }
-  ],
-  "timestamp": "2026-09-25T21:55:14.094372479Z",
-  "model": "glm-5.3"
+  ]
 }

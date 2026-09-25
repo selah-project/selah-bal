@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "2-samuel 19:11",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:44:58.201995231Z",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ اَوشالَم، کہ آییءَ ما آتماںءِ سرءَ مسح کت، جنگءَ مُوت اَت؛ ءُ اِشا کنی چرو شما چُپ اَنت ⟨את⟩ بادشاہءَ واپس گرنءَ پہ؟",
   "tokens": [
     {
-      "surface": "וְאַבְשָׁלוֹם",
+      "surface": "ואבשלום",
       "gloss": "ءُ اَوشالَم"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "מָשַׁחְנוּ",
+      "surface": "משחנו",
       "gloss": "مسح کت"
     },
     {
-      "surface": "עָלֵינוּ",
+      "surface": "עלינו",
       "gloss": "آتماںءِ سرءَ"
     },
     {
-      "surface": "מֵת",
+      "surface": "מת",
       "gloss": "مُوت اَت"
     },
     {
-      "surface": "בַּמִּלְחָמָה",
+      "surface": "במלחמה",
       "gloss": "جنگءَ"
     },
     {
-      "surface": "וְעַתָּה",
+      "surface": "ועתה",
       "gloss": "ءُ اِشا کنی"
     },
     {
-      "surface": "לָמָּה",
+      "surface": "למה",
       "gloss": "چرو"
     },
     {
-      "surface": "אַתֶּם",
+      "surface": "אתם",
       "gloss": "شما"
     },
     {
-      "surface": "מַחֲרִישִׁים",
+      "surface": "מחרשים",
       "gloss": "چُپ اَنت"
     },
     {
-      "surface": "לְהָשִׁיב",
+      "surface": "להשיב",
       "gloss": "واپس گرنءَ پہ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "بادشاہ"
     },
     {
-      "surface": "הַמֶּֽלֶךְ",
+      "surface": "המלך",
       "gloss": "بادشاہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:44:58.201995231Z",
-  "model": "glm-5.3"
+  ]
 }

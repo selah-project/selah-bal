@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 70,
-  "ref": "nehemiah 7:70",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:25:06.186176905Z",
+  "verse": 70,
+  "ref": "nehemiah 7:70",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ پدرانءِ سرداراں کارءِ گنجءَ سونءِ درم دو دہ ہزار ءُ سیمءِ منا دو ہزار ءُ دو سد دنت۔",
   "tokens": [
     {
-      "surface": "וּמֵֽרָאשֵׁ֣י",
+      "surface": "ומראשי",
       "gloss": "ءُ چہ سردار"
     },
     {
-      "surface": "הָֽאָב֗וֹת",
+      "surface": "האבות",
       "gloss": "پدرانءِ"
     },
     {
-      "surface": "נָֽתְנ֖וּ֙",
+      "surface": "נתנו",
       "gloss": "دنت"
     },
     {
-      "surface": "לְאוֹצַ֣ר",
+      "surface": "לאוצר",
       "gloss": "گنجءَ"
     },
     {
-      "surface": "הַמְּלָאכָ֔ה",
+      "surface": "המלאכה",
       "gloss": "کارءِ"
     },
     {
-      "surface": "זָהָ֕ב",
+      "surface": "זהב",
       "gloss": "سونءِ"
     },
     {
-      "surface": "דַּרְכְּמֹנִ֖ים",
+      "surface": "דרכמונים",
       "gloss": "درم"
     },
     {
-      "surface": "שְׁתֵּ֣י",
+      "surface": "שתי",
       "gloss": "دو"
     },
     {
-      "surface": "רִבּ֑וֹת",
+      "surface": "רבות",
       "gloss": "دہ ہزار"
     },
     {
-      "surface": "וְכֶ֕סֶף",
+      "surface": "וכסף",
       "gloss": "ءُ سیمءِ"
     },
     {
-      "surface": "מָנִ֖ים",
+      "surface": "מנים",
       "gloss": "منا"
     },
     {
-      "surface": "אַלְפַּ֥יִם",
+      "surface": "אלפים",
       "gloss": "دو ہزار"
     },
     {
-      "surface": "וּמָאתַֽֽיִם",
+      "surface": "ומאתים",
       "gloss": "ءُ دو سد"
     }
-  ],
-  "timestamp": "2026-09-25T22:25:06.186176905Z",
-  "model": "glm-5.3"
+  ]
 }

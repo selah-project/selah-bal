@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "numbers 7:5",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:30:14.102866452Z",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "چہ اِشاںءَ گپ، ءُ بنت پہ ملاقاتءِ گدانءِ خدمتءَ کار گرگ، ءُ تُر اِشاںءَ ⟨את⟩ لویانءَ دِنت، ہر کس وتی خدمتءِ پیمائءَ سرءَ۔",
   "tokens": [
     {
-      "surface": "קַ֚ח",
+      "surface": "קח",
       "gloss": "گپ"
     },
     {
-      "surface": "מֵֽאִתָּ֔ם",
+      "surface": "מאתם",
       "gloss": "چہ ⟨את⟩ اِشاںءَ"
     },
     {
-      "surface": "וְהָי֕וּ",
+      "surface": "והיו",
       "gloss": "ءُ بنت"
     },
     {
-      "surface": "לַעֲבֹ֕ד",
+      "surface": "לעבד",
       "gloss": "پہ کار گرگءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "خدمتءَ"
     },
     {
-      "surface": "עֲבֹדַ֖ת",
+      "surface": "עבדת",
       "gloss": "خدمتءَ"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵ֑ד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וְנָתַתָּ֤ה",
+      "surface": "ונתתה",
       "gloss": "ءُ تُر دِنت"
     },
     {
-      "surface": "אוֹתָם֙",
+      "surface": "אותם",
       "gloss": "⟨את⟩ اِشاںءَ",
       "marks": "لویانءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءُ ۔ . . آیانءَ رہ‌ءَ لویانءَ دِنتءَ جاگہ"
     },
     {
-      "surface": "הַלְוִיִּ֔ם",
+      "surface": "הלוים",
       "gloss": "لویانءَ"
     },
     {
-      "surface": "אִ֖ישׁ",
+      "surface": "איש",
       "gloss": "ہر کس"
     },
     {
-      "surface": "כְּפִ֥י",
+      "surface": "כפי",
       "gloss": "وتی پیمائءَ سرءَ"
     },
     {
-      "surface": "עֲבֹדָתֽוֹ",
+      "surface": "עבדתו",
       "gloss": "خدمتءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:30:14.102866452Z",
-  "model": "glm-5.3"
+  ]
 }

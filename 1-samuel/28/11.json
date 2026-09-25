@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "1-samuel 28:11",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:37:12.735746655Z",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ زنکءَ گوَشت: ⟨את⟩ کِہءَ تہ رَہ بند کنم؟ ءُ آءُ گوَشت: شمُوایلءَ مہ رَہ بند کن.",
   "tokens": [
     {
-      "surface": "וְתֹ֨אמֶר֙",
+      "surface": "ותאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "הָאִשָּׁ֔ה",
+      "surface": "האשה",
       "gloss": "زنکءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کِہ"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کِہءَ"
     },
     {
-      "surface": "אַֽעֲלֶה",
+      "surface": "אעלה",
       "gloss": "تہ رَہ بند کنم"
     },
     {
-      "surface": "לָּ֑ךְ",
+      "surface": "לך",
       "gloss": "پہ تُئے"
     },
     {
-      "surface": "וַיֹּ֕אמֶר",
+      "surface": "ויאמר",
       "gloss": "ءُ آءُ گوَشت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شمُوایل"
     },
     {
-      "surface": "שְׁמוּאֵ֖ל",
+      "surface": "שמואל",
       "gloss": "شمُوایل"
     },
     {
-      "surface": "הַעֲלִי",
+      "surface": "העלי",
       "gloss": "رَہ بند کن"
     },
     {
-      "surface": "לִֽי",
+      "surface": "לי",
       "gloss": "پہ مہ"
     }
-  ],
-  "timestamp": "2026-09-25T21:37:12.735746655Z",
-  "model": "glm-5.3"
+  ]
 }

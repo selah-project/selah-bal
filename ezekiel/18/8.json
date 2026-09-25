@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "ezekiel 18:8",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:55:43.792504073Z",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "سودءَ نہ دیت ءُ زیادتی نہ گرنت، چہ زیانتے وتی دست پسہ گرنت، راستیں راست آدمءَ گوں آدمءَ بیت کرت۔",
   "tokens": [
     {
-      "surface": "בַּנֶּ֣שֶׁךְ",
+      "surface": "בנשך",
       "gloss": "سودءَ"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִתֵּ֗ן",
+      "surface": "יתן",
       "gloss": "دیت"
     },
     {
-      "surface": "וְתַרְבִּית֙",
+      "surface": "ותרבית",
       "gloss": "ءُ زیادتی"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִקָּ֔ח",
+      "surface": "יקח",
       "gloss": "گرنت"
     },
     {
-      "surface": "מֵעָ֖וֶל",
+      "surface": "מעול",
       "gloss": "چہ زیانتے"
     },
     {
-      "surface": "יָשִׁ֣יב",
+      "surface": "ישיב",
       "gloss": "پسہ گرنت"
     },
     {
-      "surface": "יָד֑וֹ",
+      "surface": "ידו",
       "gloss": "وتی دست"
     },
     {
-      "surface": "מִשְׁפַּ֤ט",
+      "surface": "משפט",
       "gloss": "راستیں راست"
     },
     {
-      "surface": "אֱמֶת֙",
+      "surface": "אמת",
       "gloss": "راستی"
     },
     {
-      "surface": "יַֽעֲשֶׂ֔ה",
+      "surface": "יעשה",
       "gloss": "بیت کرت"
     },
     {
-      "surface": "בֵּ֥ין",
+      "surface": "בין",
       "gloss": "گوں"
     },
     {
-      "surface": "אִ֖ישׁ",
+      "surface": "איש",
       "gloss": "آدمءَ"
     },
     {
-      "surface": "לְאִֽישׁ",
+      "surface": "לאיש",
       "gloss": "آدمءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:55:43.792504073Z",
-  "model": "glm-5.3"
+  ]
 }

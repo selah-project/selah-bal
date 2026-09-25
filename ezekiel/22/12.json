@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "ezekiel 22:12",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:55:54.411028980Z",
+  "verse": 12,
+  "ref": "ezekiel 22:12",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "تہ چہ تَوَن رشوت گپتگ کیتگ پہ اے کہ خون رِنجنت؛ سود ءُ وہبش تو گپتگ، ءُ تو وتی یارانءَ گوں ظلم پُرت گپتگ، ءُ ⟨את⟩ مِنّاں تو یاد کتنگ کت، اے گال ادونای یاہوہءِءَ اِنت۔",
   "tokens": [
     {
-      "surface": "שֹׁ֥חַד",
+      "surface": "שחד",
       "gloss": "رشوت"
     },
     {
-      "surface": "לָֽקְחוּ",
+      "surface": "לקחו",
       "gloss": "گپتگ کیتگ"
     },
     {
-      "surface": "בָ֖ךְ",
+      "surface": "בך",
       "gloss": "تہ چہ تَوَن"
     },
     {
-      "surface": "לְמַ֣עַן",
+      "surface": "למען",
       "gloss": "پہ اے کہ"
     },
     {
-      "surface": "שְׁפָךְ",
+      "surface": "שפך",
       "gloss": "رِنجنت"
     },
     {
-      "surface": "דָּ֑ם",
+      "surface": "דם",
       "gloss": "خون"
     },
     {
-      "surface": "נֶ֧שֶׁךְ",
+      "surface": "נשך",
       "gloss": "سود"
     },
     {
-      "surface": "וְתַרְבִּ֣ית",
+      "surface": "ותרבית",
       "gloss": "ءُ وہبش"
     },
     {
-      "surface": "לָקַ֗חַתְּ",
+      "surface": "לקחת",
       "gloss": "تو گپتگ"
     },
     {
-      "surface": "וַתְּבַצְּעִ֤י",
+      "surface": "ותבצעי",
       "gloss": "ءُ تو پُرت گپتگ"
     },
     {
-      "surface": "רֵעֲיִךְ֙",
+      "surface": "רעיך",
       "gloss": "وتی یارانءَ"
     },
     {
-      "surface": "בְּעֹ֔שֶׁק",
+      "surface": "בעשק",
       "gloss": "گوں ظلم"
     },
     {
-      "surface": "וְאֹתִ֣י",
+      "surface": "ואתי",
       "gloss": "ءُ ⟨את⟩",
       "marks": "مِنّاں (من)"
     },
     {
-      "surface": "שָׁכַ֔חַתְּ",
+      "surface": "שכחת",
       "gloss": "تو یاد کتنگ کت"
     },
     {
-      "surface": "נְאֻ֖ם",
+      "surface": "נאם",
       "gloss": "اے گال"
     },
     {
-      "surface": "אֲדֹנָ֥י",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T21:55:54.411028980Z",
-  "model": "glm-5.3"
+  ]
 }

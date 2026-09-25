@@ -1,96 +1,96 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "leviticus 4:4",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:24:34.537633373Z",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ ⟨את⟩ گاڡءَ ملاقاتءِ گدانءِ دروازءَ آوریت، یاہوہءِ پیشءَ؛ ءُ وتی دست ⟨את⟩ گاڡءِ سرءَ لنڈیت ءُ ⟨את⟩ گاڡءَ یاہوہءِ پیشءَ جڑیت۔",
   "tokens": [
     {
-      "surface": "וְהֵבִ֣יא",
+      "surface": "והביא",
       "gloss": "ءُ … آوریت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گاڡءَ"
     },
     {
-      "surface": "הַפָּ֗ר",
+      "surface": "הפר",
       "gloss": "گاڡءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ"
     },
     {
-      "surface": "פֶּ֛תַח",
+      "surface": "פתח",
       "gloss": "درواز"
     },
     {
-      "surface": "אֹ֥הֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵ֖ד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "לִפְנֵ֣י",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וְסָמַ֤ךְ",
+      "surface": "וסמך",
       "gloss": "ءُ لنڈیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی دست"
     },
     {
-      "surface": "יָדוֹ֙",
+      "surface": "ידו",
       "gloss": "وتی دستءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "רֹ֣אשׁ",
+      "surface": "ראש",
       "gloss": "سر"
     },
     {
-      "surface": "הַפָּ֔ר",
+      "surface": "הפר",
       "gloss": "گاڡءِ"
     },
     {
-      "surface": "וְשָׁחַ֥ט",
+      "surface": "ושחט",
       "gloss": "ءُ جڑیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گاڡءَ"
     },
     {
-      "surface": "הַפָּ֖ר",
+      "surface": "הפר",
       "gloss": "گاڡءَ"
     },
     {
-      "surface": "לִפְנֵ֥י",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:24:34.537633373Z",
-  "model": "glm-5.3"
+  ]
 }

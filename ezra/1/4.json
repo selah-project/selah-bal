@@ -1,97 +1,97 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "ezra 1:4",
   "book": "ezra",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:58:01.223390297Z",
+  "verse": 4,
+  "ref": "ezra 1:4",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ ہر کس کہ چہ ہر جاگہاں رند بیت کہ آ اودا مہمان اِنت، اے جاگہءِ مردمان آییءَ گوں چاندی ءُ گوں زر ءُ گوں رکوشت ءُ گوں مال، گوں رضا کاریءِ پیشکش ءُ، پہ ایلوہیمءِ گدان کہ یرشلمءَ اِنت، برچیت۔",
   "tokens": [
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ ہر کس"
     },
     {
-      "surface": "הַנִּשְׁאָר",
+      "surface": "הנשאר",
       "gloss": "کہ رند بیت"
     },
     {
-      "surface": "מִכָּל",
+      "surface": "מכל",
       "gloss": "چہ ہر"
     },
     {
-      "surface": "הַמְּקֹמוֹת",
+      "surface": "המקמות",
       "gloss": "جاگہاں"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "גָּר",
+      "surface": "גר",
       "gloss": "مہمان اِنت"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "יְנַשְּׂאֻהוּ",
+      "surface": "ינשאוהו",
       "gloss": "آییءَ برچیت"
     },
     {
-      "surface": "אַנְשֵׁי",
+      "surface": "אנשי",
       "gloss": "مردمان"
     },
     {
-      "surface": "מְקֹמוֹ",
+      "surface": "מקמו",
       "gloss": "اے جاگہءِ"
     },
     {
-      "surface": "בְּכֶסֶף",
+      "surface": "בכסף",
       "gloss": "گوں چاندی"
     },
     {
-      "surface": "וּבְזָהָב",
+      "surface": "ובזהב",
       "gloss": "ءُ گوں زر"
     },
     {
-      "surface": "וּבְרְכוּשׁ",
+      "surface": "וברכוש",
       "gloss": "ءُ گوں رکوشت"
     },
     {
-      "surface": "וּבִבְהֵמָה",
+      "surface": "ובבהמה",
       "gloss": "ءُ گوں مال"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "הַנְּדָבָה",
+      "surface": "הנדבה",
       "gloss": "رضا کاریءِ پیشکش"
     },
     {
-      "surface": "לְבֵית",
+      "surface": "לבית",
       "gloss": "پہ گدان"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בִּירוּשָׁלִָם",
+      "surface": "בירושלם",
       "gloss": "یرشلمءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:58:01.223390297Z",
-  "model": "glm-5.3"
+  ]
 }

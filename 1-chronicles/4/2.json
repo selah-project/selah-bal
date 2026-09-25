@@ -1,76 +1,76 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "1-chronicles 4:2",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:32:03.694775581Z",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ رِعایاہ شوبلءِ زہگ یاحتءَ پیدا کت، ءُ یاحتءَ ⟨את⟩ اہومای ءُ ⟨את⟩ لاہد پیدا کت — اے صیوراتیانی ٹولیاں اَنت۔",
   "tokens": [
     {
-      "surface": "וּרְאָיָ֤ה",
+      "surface": "וראיה",
       "gloss": "ءُ رِعایاہ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "שׁוֹבָל֙",
+      "surface": "שובל",
       "gloss": "شوبلءِ"
     },
     {
-      "surface": "הוֹלִ֣יד",
+      "surface": "הוליד",
       "gloss": "پیدا کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاحت"
     },
     {
-      "surface": "יַ֔חַת",
+      "surface": "יחת",
       "gloss": "یاحتءَ"
     },
     {
-      "surface": "וְיַ֣חַת",
+      "surface": "ויחת",
       "gloss": "ءُ یاحتءَ"
     },
     {
-      "surface": "הוֹלִ֔יד",
+      "surface": "הליד",
       "gloss": "پیدا کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اہومای"
     },
     {
-      "surface": "אֲחוּמַ֖י",
+      "surface": "אחומי",
       "gloss": "اہومای"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "لاہد"
     },
     {
-      "surface": "לָ֑הַד",
+      "surface": "להד",
       "gloss": "لاہد"
     },
     {
-      "surface": "אֵ֖לֶּה",
+      "surface": "אלה",
       "gloss": "اے"
     },
     {
-      "surface": "מִשְׁפְּח֥וֹת",
+      "surface": "משפחות",
       "gloss": "ٹولیاں"
     },
     {
-      "surface": "הַצָּֽרְעָתִֽי",
+      "surface": "הצרעתי",
       "gloss": "صیوراتیانی"
     }
-  ],
-  "timestamp": "2026-09-25T21:32:03.694775581Z",
-  "model": "glm-5.3"
+  ]
 }

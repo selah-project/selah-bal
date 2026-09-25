@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "numbers 6:20",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:29:05.567113137Z",
+  "verse": 20,
+  "ref": "numbers 6:20",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ کُہنءَ آیانی ⟨את⟩ تُرومباز نبشت یاہوہءِ پیشءَ؛ آ کُہنءِ پہ مقدس اِنت، تینوپھاہءِ سینہءَ گوَں ءُ ترومبہءِ رانءَ گوَں؛ ءُ آیانی پشتءَ نذیر شراب نوشیت.",
   "tokens": [
     {
-      "surface": "וְהֵנִיף֩",
+      "surface": "והניף",
       "gloss": "ءُ تُرومباز نبشت"
     },
     {
-      "surface": "אוֹתָ֨ם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ آیانی",
       "marks": "کُہن (הַכֹּהֵן)"
     },
     {
-      "surface": "הַכֹּהֵ֥ן",
+      "surface": "הכהן",
       "gloss": "کُہنءَ"
     },
     {
-      "surface": "תְּנוּפָה֮",
+      "surface": "תנופה",
       "gloss": "تینوپھاہ"
     },
     {
-      "surface": "לִפְנֵ֣י",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "יְהוָה֒",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "קֹ֣דֶשׁ",
+      "surface": "קדש",
       "gloss": "مقدس"
     },
     {
-      "surface": "הוּא֙",
+      "surface": "הוא",
       "gloss": "اِنت"
     },
     {
-      "surface": "לַכֹּהֵ֔ן",
+      "surface": "לכהן",
       "gloss": "کُہنءِ پہ"
     },
     {
-      "surface": "עַ֚ל",
+      "surface": "על",
       "gloss": "گوَں"
     },
     {
-      "surface": "חֲזֵ֣ה",
+      "surface": "חזה",
       "gloss": "سینہ"
     },
     {
-      "surface": "הַתְּנוּפָ֔ה",
+      "surface": "התנופה",
       "gloss": "تینوپھاہءِ"
     },
     {
-      "surface": "וְעַ֖ל",
+      "surface": "ועל",
       "gloss": "ءُ گوَں"
     },
     {
-      "surface": "שׁ֣וֹק",
+      "surface": "שוק",
       "gloss": "ران"
     },
     {
-      "surface": "הַתְּרוּמָ֑ה",
+      "surface": "התרומה",
       "gloss": "ترومبہءِ"
     },
     {
-      "surface": "וְאַחַ֛ר",
+      "surface": "ואחר",
       "gloss": "ءُ آیانی پشتءَ"
     },
     {
-      "surface": "יִשְׁתֶּ֥ה",
+      "surface": "ישתה",
       "gloss": "نوشیت"
     },
     {
-      "surface": "הַנָּזִ֖יר",
+      "surface": "הנזיר",
       "gloss": "نذیر"
     },
     {
-      "surface": "יָֽיִן",
+      "surface": "יין",
       "gloss": "شراب"
     }
-  ],
-  "timestamp": "2026-09-25T22:29:05.567113137Z",
-  "model": "glm-5.3"
+  ]
 }

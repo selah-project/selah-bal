@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 79:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:32:21.495395393Z",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "tier": "glm-5.2",
   "chapter": 79,
   "translation": "سوچگیں زبور اَور، پہ اَسپءَ۔ اے ایلوہیم، قوماں تُہءِ میراثءَ آتگنت، تُہءِ پاکcourtyard ہیکلءَ پاک کتنت گند، ءُ یروشلمءَ ⟨את⟩ چیر کتنت ڈھیراںءَ۔",
   "tokens": [
     {
-      "surface": "מִזְמוֹר",
+      "surface": "מזמור",
       "gloss": "سوچگیں زبور"
     },
     {
-      "surface": "לְאָ֫סָ֥ף",
+      "surface": "לאסף",
       "gloss": "پہ اَسپءَ"
     },
     {
-      "surface": "אֱֽלֹהִ֡ים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "בָּ֤אוּ",
+      "surface": "באו",
       "gloss": "آتگنت"
     },
     {
-      "surface": "גּוֹיִ֨ם",
+      "surface": "גוים",
       "gloss": "قوماں"
     },
     {
-      "surface": "בְּֽנַחֲלָתֶ֗ךָ",
+      "surface": "בנחלתך",
       "gloss": "تُہءِ میراثءَ"
     },
     {
-      "surface": "טִ֭מְּאוּ",
+      "surface": "טמאו",
       "gloss": "گند کتنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُہءِ ہیکلءِ پاک"
     },
     {
-      "surface": "הֵיכַ֣ל",
+      "surface": "היכל",
       "gloss": "ہیکل"
     },
     {
-      "surface": "קָֽדְשֶֽׁךָ",
+      "surface": "קדשך",
       "gloss": "تُہءِ پاک"
     },
     {
-      "surface": "שָׂ֖מוּ",
+      "surface": "שמו",
       "gloss": "چیر کتنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یروشلمءَ"
     },
     {
-      "surface": "יְרוּשָׁלִַ֣͏ם",
+      "surface": "ירושלם",
       "gloss": "یروشلم"
     },
     {
-      "surface": "לְעִיָּֽים",
+      "surface": "לעיים",
       "gloss": "ڈھیراںءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:32:21.495395393Z",
-  "model": "glm-5.3"
+  ]
 }

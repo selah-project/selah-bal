@@ -1,123 +1,123 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "2-chronicles 13:9",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:40:13.578155758Z",
+  "verse": 9,
+  "ref": "2-chronicles 13:9",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "مگنت شمایے یاہوہءِ کاهنانءَ ⟨את⟩ اَہارونءِ زہگان ءُ ⟨את⟩ لویان دور نہ کتگ؟ ءُ شمئے وتءَ کاهنان جوڑ کتگایت چوش کہ زمینانی قومانءِ چوں — ہر کہ گوں یک گاو، مالءِ زہگ، ءُ ہپت مہانݔہ آیے ءُ آییءِ دست پُر کنت، آ کاهن بیت پہ وانگان کہ ایلوہیم نیستنت.",
   "tokens": [
     {
-      "surface": "הֲלֹא",
+      "surface": "הלא",
       "gloss": "مگنت نہ"
     },
     {
-      "surface": "הִדַּחְתֶּם",
+      "surface": "הדחתם",
       "gloss": "دور کتگایت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءِ کاهنانءَ"
     },
     {
-      "surface": "כֹּהֲנֵי",
+      "surface": "כהני",
       "gloss": "کاهنان"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَہارونءِ زہگان"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "אַהֲרֹן",
+      "surface": "אהרן",
       "gloss": "اَہارونءِ"
     },
     {
-      "surface": "וְהַלְוִיִּם",
+      "surface": "והלוים",
       "gloss": "ءُ لویان"
     },
     {
-      "surface": "וַתַּעֲשׂוּ",
+      "surface": "ותעשו",
       "gloss": "ءُ جوڑ کتگایت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "شمئے وتءَ پہ"
     },
     {
-      "surface": "כֹּהֲנִים",
+      "surface": "כהנים",
       "gloss": "کاهنان"
     },
     {
-      "surface": "כְּעַמֵּי",
+      "surface": "כעמי",
       "gloss": "چوش کہ قومانءِ"
     },
     {
-      "surface": "הָאֲרָצוֹת",
+      "surface": "הארצות",
       "gloss": "زمینانی"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "הַבָּא",
+      "surface": "הבא",
       "gloss": "کہ آیے"
     },
     {
-      "surface": "لְמַלֵּא",
+      "surface": "למלא",
       "gloss": "پُر کنت"
     },
     {
-      "surface": "יָדוֹ",
+      "surface": "ידו",
       "gloss": "آییءِ دست"
     },
     {
-      "surface": "בְּפַר",
+      "surface": "בפר",
       "gloss": "گوں یک گاو"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "בָּקָר",
+      "surface": "בקר",
       "gloss": "مالءِ"
     },
     {
-      "surface": "וְאֵילִם",
+      "surface": "ואילם",
       "gloss": "ءُ مہانݔہ"
     },
     {
-      "surface": "שִׁבְעָה",
+      "surface": "שבעה",
       "gloss": "ہپت"
     },
     {
-      "surface": "וְהָיָה",
+      "surface": "והיה",
       "gloss": "ءُ آ بیت"
     },
     {
-      "surface": "כֹּהֵן",
+      "surface": "כהן",
       "gloss": "کاهن"
     },
     {
-      "surface": "לְלֹא",
+      "surface": "ללא",
       "gloss": "پہ کہ نیست"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     }
-  ],
-  "timestamp": "2026-09-25T21:40:13.578155758Z",
-  "model": "glm-5.3"
+  ]
 }

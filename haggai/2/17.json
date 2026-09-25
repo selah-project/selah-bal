@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "haggai 2:17",
   "book": "haggai",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:07:35.446572111Z",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "مناں اِشماں ⟨את⟩ گوں شِتاپ ءُ گوں ساوکی ءُ گوں گولا ⟨את⟩ شمیاری کارءِ دستان چہ زرت کت، ءُ اِشماں چہ من نیست، یاہوہءِ اِلام.",
   "tokens": [
     {
-      "surface": "הִכֵּיתִי",
+      "surface": "הכיתי",
       "gloss": "مناں چہ زرت کت"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ اِشماں",
       "marks": "اِشماں"
     },
     {
-      "surface": "בַּשִּׁדָּפוֹן",
+      "surface": "בשדפון",
       "gloss": "گوں شِتاپ"
     },
     {
-      "surface": "וּבַיֵּרָקוֹן",
+      "surface": "ובירקון",
       "gloss": "ءُ گوں ساوکی"
     },
     {
-      "surface": "וּבַבָּרָד",
+      "surface": "ובברד",
       "gloss": "ءُ گوں گولا"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شمیاری کارءِ دستان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "شمیاری"
     },
     {
-      "surface": "מַעֲשֶׂה",
+      "surface": "מעשה",
       "gloss": "کار"
     },
     {
-      "surface": "יְדֵיכֶם",
+      "surface": "ידיכם",
       "gloss": "ءِ دستان"
     },
     {
-      "surface": "וְאֵין",
+      "surface": "ואין",
       "gloss": "ءُ نیست"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ اِشماں",
       "marks": "اِشماں"
     },
     {
-      "surface": "אֵלַי",
+      "surface": "אלי",
       "gloss": "چہ من"
     },
     {
-      "surface": "נְאֻם",
+      "surface": "נאם",
       "gloss": "اِلام"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:07:35.446572111Z",
-  "model": "glm-5.3"
+  ]
 }

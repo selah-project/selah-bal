@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "ezekiel 43:10",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:57:39.492475224Z",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "tier": "glm-5.2",
   "chapter": 43,
   "translation": "تو آدمءِ زہگ، اسرائیلءِ گدانءَ ⟨את⟩ گدانءِ بابت پدا گوَش، ءُ آ اِشانی گنہانی چشم شرم کننت، ءُ آ ⟨את⟩ نقشہءَ ماپنت.",
   "tokens": [
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בן",
       "gloss": "زہگءِ"
     },
     {
-      "surface": "אָדָם",
+      "surface": "אדם",
       "gloss": "آدم"
     },
     {
-      "surface": "הַגֵּד",
+      "surface": "הגד",
       "gloss": "پدا گوَش"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گدان"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گدانءَ"
     },
     {
-      "surface": "הַבַּיִת",
+      "surface": "הבית",
       "gloss": "گدانءَ"
     },
     {
-      "surface": "וְיִכָּלְמוּ",
+      "surface": "ויכלמו",
       "gloss": "ءُ شرم کننت"
     },
     {
-      "surface": "מֵעֲוֹנֹתֵיהֶם",
+      "surface": "מעונותיהם",
       "gloss": "اِشانی گنہانی چشم"
     },
     {
-      "surface": "וּמָדְדוּ",
+      "surface": "ומדדו",
       "gloss": "ءُ ماپنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "نقشہءَ"
     },
     {
-      "surface": "תָּכְנִית",
+      "surface": "תכנית",
       "gloss": "نقشہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:57:39.492475224Z",
-  "model": "glm-5.3"
+  ]
 }

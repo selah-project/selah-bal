@@ -1,51 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "jeremiah 39:7",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:11:32.735680196Z",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "tier": "glm-5.2",
   "chapter": 39,
   "translation": "ءُ ⟨את⟩ زِدقیاہءِ چشمان ءُ اَنداز کت، ءُ آییءَ گوں زنجیرانیِ مسیں پہ بابلءَ گیش کنت بند کت.",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "زِدقیاہءِ چشمان"
     },
     {
-      "surface": "עֵינֵי",
+      "surface": "עיני",
       "gloss": "چشمان"
     },
     {
-      "surface": "צִדְקִיָּהוּ",
+      "surface": "צדקיהו",
       "gloss": "زِدقیاہءِ"
     },
     {
-      "surface": "עִוֵּר",
+      "surface": "עור",
       "gloss": "ءُ اَنداز کت"
     },
     {
-      "surface": "וַיַּאַסְרֵהוּ",
+      "surface": "ויאסרהו",
       "gloss": "ءُ آییءَ بند کت"
     },
     {
-      "surface": "בַּנְּחֻשְׁתַּיִם",
+      "surface": "בנחשתים",
       "gloss": "گوں زنجیرانیِ مسیں"
     },
     {
-      "surface": "לָבִיא",
+      "surface": "לביא",
       "gloss": "پہ گیش کنت"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "بابلءَ"
     },
     {
-      "surface": "בָּבֶלָה",
+      "surface": "בבלה",
       "gloss": "بابلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:11:32.735680196Z",
-  "model": "glm-5.3"
+  ]
 }

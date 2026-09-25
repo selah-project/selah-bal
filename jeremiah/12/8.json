@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "jeremiah 12:8",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:07:52.123703766Z",
+  "verse": 8,
+  "ref": "jeremiah 12:8",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "میری میراث ماں شیر چوں اِنت؛ آ چو ماںءِ آوازءَ مءِ سرءَ کتیت؛ اے پہ چہ ما آییءَ بغاوت کت۔",
   "tokens": [
     {
-      "surface": "הָיְתָה",
+      "surface": "היתה",
       "gloss": "بوت اِنت"
     },
     {
-      "surface": "לִ֥י",
+      "surface": "לי",
       "gloss": "مءِ پہ"
     },
     {
-      "surface": "נַחֲלָתִ֖י",
+      "surface": "נחלתי",
       "gloss": "مءِ میراث"
     },
     {
-      "surface": "כְּאַרְיֵ֣ה",
+      "surface": "כאריה",
       "gloss": "شیر چوں"
     },
     {
-      "surface": "בַּיָּ֑עַר",
+      "surface": "ביער",
       "gloss": "ماںءَ تہ"
     },
     {
-      "surface": "נָתְנָ֥ה",
+      "surface": "נתנה",
       "gloss": "کتیت"
     },
     {
-      "surface": "עָלַ֛י",
+      "surface": "עלי",
       "gloss": "مءِ سرءَ"
     },
     {
-      "surface": "בְּקוֹלָ֖הּ",
+      "surface": "בקולה",
       "gloss": "آییءِ آوازءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "اے پہ"
     },
     {
-      "surface": "כֵּ֥ן",
+      "surface": "כן",
       "gloss": "چہ"
     },
     {
-      "surface": "שְׂנֵאתִֽיהָ",
+      "surface": "שנאתיה",
       "gloss": "آییءَ بغاوت کت"
     }
-  ],
-  "timestamp": "2026-09-25T22:07:52.123703766Z",
-  "model": "glm-5.3"
+  ]
 }

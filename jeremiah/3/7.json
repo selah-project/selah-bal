@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "jeremiah 3:7",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:08:03.988996116Z",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ منءَ گوَشت: «اے سبزی چہ آییءَ ⟨את⟩ ہمے ہمے چیزاں منءَ کت، آ منءَ پدا لرایت»، پرچا آ پدا نہ لڑیت؛ ءُ آییءِ بے وفا جنک یہودہ آءَ گندیت۔",
   "tokens": [
     {
-      "surface": "וָאֹמַר",
+      "surface": "ואמר",
       "gloss": "ءُ منءَ گوَشت"
     },
     {
-      "surface": "אַחֲרֵי",
+      "surface": "אחרי",
       "gloss": "اے سبزی چہ"
     },
     {
-      "surface": "עֲשׂוֹתָהּ",
+      "surface": "עשותה",
       "gloss": "آییءَ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہمے چیزاں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمے ہمے"
     },
     {
-      "surface": "אֵלֶּה",
+      "surface": "אלה",
       "gloss": "چیزاں"
     },
     {
-      "surface": "אֵלַי",
+      "surface": "אלי",
       "gloss": "منءَ"
     },
     {
-      "surface": "תָּשׁוּב",
+      "surface": "תשוב",
       "gloss": "آ پدا لرایت"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "پرچا آ پدا نہ"
     },
     {
-      "surface": "שָׁבָה",
+      "surface": "שבה",
       "gloss": "لڑیت"
     },
     {
-      "surface": "וַתֵּרֶא",
+      "surface": "ותראה",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "בָּגוֹדָה",
+      "surface": "בגודה",
       "gloss": "بے وفا"
     },
     {
-      "surface": "אֲחוֹתָהּ",
+      "surface": "אחותה",
       "gloss": "جنک"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہودہ"
     }
-  ],
-  "timestamp": "2026-09-25T22:08:03.988996116Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "proverbs 8:20",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:30:26.352228038Z",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "تہ راستیءِ رہءَ روں، تہ انصافءِ رہانی نیمگءَ",
   "tokens": [
     {
-      "surface": "בְּאֹֽרַח",
+      "surface": "בארח",
       "gloss": "تہ … رہءَ"
     },
     {
-      "surface": "צְדָקָ֥ה",
+      "surface": "צדקה",
       "gloss": "راستیءِ"
     },
     {
-      "surface": "אֲהַלֵּ֑ךְ",
+      "surface": "אהלך",
       "gloss": "روں"
     },
     {
-      "surface": "בְּ֝ת֗וֹךְ",
+      "surface": "בתוך",
       "gloss": "تہ … نیمگءَ"
     },
     {
-      "surface": "נְתִיב֥וֹת",
+      "surface": "נתיבות",
       "gloss": "رہانی"
     },
     {
-      "surface": "מִשְׁפָּֽט",
+      "surface": "משפט",
       "gloss": "انصافءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:30:26.352228038Z",
-  "model": "glm-5.3"
+  ]
 }

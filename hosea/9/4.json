@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "hosea 9:4",
   "book": "hosea",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:06:45.852118620Z",
+  "verse": 4,
+  "ref": "hosea 9:4",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "آشامیں یاہوہءَ مے نہ چُکیت، ءُ آیانی قربانیاں آییءَ پسند نہ بنت؛ اِشاں آشامیں گریوانءِ ڈگالی چنت — آیانی گشتگان پلید بنت، پرچا کہ آیانی ڈگال وت آیانی جانءِ پہ اِنت — یاہوہءِ گداءَ نہ روت.",
   "tokens": [
@@ -12,86 +14,84 @@
       "gloss": "نہ"
     },
     {
-      "surface": "יִסְּכוּ",
+      "surface": "יסכו",
       "gloss": "چُکیت"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "יַיִן",
+      "surface": "יין",
       "gloss": "مے"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יֶעֶרְבוּ",
+      "surface": "יערבו",
       "gloss": "پسند بنت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "זִבְחֵיהֶם",
+      "surface": "זבחיהם",
       "gloss": "آیانی قربانیاں"
     },
     {
-      "surface": "כְּלֶחֶם",
+      "surface": "כלחם",
       "gloss": "چوش ڈگالی"
     },
     {
-      "surface": "אוֹנִים",
+      "surface": "אונים",
       "gloss": "گریوانءِ"
     },
     {
-      "surface": "לָהֶם",
+      "surface": "להם",
       "gloss": "اِشاں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گشتگان"
     },
     {
-      "surface": "אֹכְלָיו",
+      "surface": "אכליו",
       "gloss": "آیانی گشتگان"
     },
     {
-      "surface": "יִטַמָּאוּ",
+      "surface": "יטמאו",
       "gloss": "پلید بنت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "לַחְמָם",
+      "surface": "לחמם",
       "gloss": "آیانی ڈگال"
     },
     {
-      "surface": "לְנַפְשָׁם",
+      "surface": "לנפשם",
       "gloss": "آیانی جانءِ پہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָבוֹא",
+      "surface": "יבוא",
       "gloss": "روت"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدا"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:06:45.852118620Z",
-  "model": "glm-5.3"
+  ]
 }

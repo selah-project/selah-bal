@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "numbers 3:7",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:27:12.457629932Z",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ اِشاں ⟨את⟩ آییءِ نگہبانی ءُ ⟨את⟩ تمام قومءِ نگہبانی ملاقاتءِ گدانی پیشءَ دارینت، پہ مِشکانءِ خدمت ⟨את⟩ خدمت کننت۔",
   "tokens": [
     {
-      "surface": "וְשָׁמְר֣וּ",
+      "surface": "ושמרו",
       "gloss": "ءُ اِشاں دارینت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ نگہبانی"
     },
     {
-      "surface": "מִשְׁמַרְתּ֗וֹ",
+      "surface": "משמרתו",
       "gloss": "آییءِ نگہبانی"
     },
     {
-      "surface": "וְאֵ֨ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "تمام قومءِ نگہبانی"
     },
     {
-      "surface": "מִשְׁמֶ֨רֶת֙",
+      "surface": "משמרת",
       "gloss": "نگہبانی"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "הָעֵדָה",
+      "surface": "העדה",
       "gloss": "قوم"
     },
     {
-      "surface": "לִפְנֵ֖י",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵ֑ד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "לַעֲבֹ֖ד",
+      "surface": "לעבד",
       "gloss": "پہ خدمت کننت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "خدمت"
     },
     {
-      "surface": "עֲבֹדַ֥ת",
+      "surface": "עבדת",
       "gloss": "خدمت"
     },
     {
-      "surface": "הַמִּשְׁכָּֽן",
+      "surface": "המשכן",
       "gloss": "مِشکانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:27:12.457629932Z",
-  "model": "glm-5.3"
+  ]
 }

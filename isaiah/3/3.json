@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "isaiah 3:3",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:07:01.975142263Z",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "پنجاهءِ سردار، ءُ رخ اٹھاوک، ءُ مشورہ دہوک، ءُ کاریگریں حکیم، ءُ سرگوشیءِ سوجاڑ",
   "tokens": [
     {
-      "surface": "שַׂר",
+      "surface": "שר",
       "gloss": "سردار"
     },
     {
-      "surface": "חֲמִשִּׁים",
+      "surface": "חמשים",
       "gloss": "پنجاهءِ"
     },
     {
-      "surface": "וּנְשׂוּא",
+      "surface": "ונשוא",
       "gloss": "ءُ اٹھاوک"
     },
     {
-      "surface": "פָנִים",
+      "surface": "פנים",
       "gloss": "رخ"
     },
     {
-      "surface": "וְיוֹעֵץ",
+      "surface": "ויועץ",
       "gloss": "ءُ مشورہ دہوک"
     },
     {
-      "surface": "וַחֲכַם",
+      "surface": "וחכם",
       "gloss": "ءُ حکیم"
     },
     {
-      "surface": "חֲרָשִׁים",
+      "surface": "חרשים",
       "gloss": "کاریگریں"
     },
     {
-      "surface": "וּנְבוֹן",
+      "surface": "ונבון",
       "gloss": "ءُ سوجاڑ"
     },
     {
-      "surface": "לָחַשׁ",
+      "surface": "לחש",
       "gloss": "سرگوشیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:07:01.975142263Z",
-  "model": "glm-5.3"
+  ]
 }

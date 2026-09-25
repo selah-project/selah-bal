@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "numbers 10:21",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:28:07.885181269Z",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ کہاتیان، پاک چیزانی لَٹوک، روتنت، ءُ تہ آیانی رسیمیءَ پیش ⟨את⟩ مِشکانءَ ودر کننت",
   "tokens": [
     {
-      "surface": "וְנָסְעוּ",
+      "surface": "ונסעו",
       "gloss": "ءُ روتنت"
     },
     {
-      "surface": "הַקְּהָתִים",
+      "surface": "הקהתים",
       "gloss": "کہاتیان"
     },
     {
-      "surface": "נֹשְׂאֵי",
+      "surface": "נשאי",
       "gloss": "لَٹوک"
     },
     {
-      "surface": "הַמִּקְדָּשׁ",
+      "surface": "המקדש",
       "gloss": "پاک چیزانی"
     },
     {
-      "surface": "וְהֵקִימוּ",
+      "surface": "והקימו",
       "gloss": "ءُ ودر کننت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِشکان"
     },
     {
-      "surface": "הַמִּשְׁכָּן",
+      "surface": "המשכן",
       "gloss": "مِشکانءَ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تہ"
     },
     {
-      "surface": "בֹאָם",
+      "surface": "באם",
       "gloss": "آیانی رسیمیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:28:07.885181269Z",
-  "model": "glm-5.3"
+  ]
 }

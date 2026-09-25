@@ -1,104 +1,104 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "exodus 25:22",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:52:02.852814620Z",
+  "verse": 22,
+  "ref": "exodus 25:22",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ من تہءَ اودا ملاقات کنیں ءُ چہ کفورتءِ سرا، چہ دو کروبانءِ وچا کہ گواہیءِ صندوقءِ سر اِنت، گوں ⟨את⟩ توءَ گپ جنڑ — ⟨את⟩ ہر چیز کہ من ⟨את⟩ توءَ بنی اسرائیلانی زہگانی بابت فرمان دیں۔",
   "tokens": [
     {
-      "surface": "וְנוֹעַדְתִּ֣י",
+      "surface": "ונועדתי",
       "gloss": "ءُ من ملاقات کنیں"
     },
     {
-      "surface": "לְךָ֮",
+      "surface": "לך",
       "gloss": "تہءَ"
     },
     {
-      "surface": "שָׁם֒",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "וְדִבַּרְתִּ֨י",
+      "surface": "ודברתי",
       "gloss": "ءُ من گپ جنڑ"
     },
     {
-      "surface": "אִתְּךָ֜",
+      "surface": "אתך",
       "gloss": "⟨את⟩ گوں تو",
       "marks": "گوں تو"
     },
     {
-      "surface": "מֵעַ֣ל",
+      "surface": "מעל",
       "gloss": "چہ سرا"
     },
     {
-      "surface": "הַכַּפֹּ֗רֶת",
+      "surface": "הכפרת",
       "gloss": "کفورت"
     },
     {
-      "surface": "מִבֵּין֙",
+      "surface": "מבין",
       "gloss": "چہ وچا"
     },
     {
-      "surface": "שְׁנֵ֣י",
+      "surface": "שני",
       "gloss": "دو"
     },
     {
-      "surface": "הַכְּרֻבִ֔ים",
+      "surface": "הכרבים",
       "gloss": "کروبان"
     },
     {
-      "surface": "אֲשֶׁ֖ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سر"
     },
     {
-      "surface": "אֲרֹ֣ן",
+      "surface": "ארן",
       "gloss": "صندوق"
     },
     {
-      "surface": "הָעֵדֻ֑ת",
+      "surface": "העדת",
       "gloss": "گواہیءِ"
     },
     {
-      "surface": "אֵ֣ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہر چیز"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر چیز"
     },
     {
-      "surface": "אֲשֶׁ֧ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אֲצַוֶּ֛ה",
+      "surface": "אצוה",
       "gloss": "من فرمان دیں"
     },
     {
-      "surface": "אוֹתְךָ֖",
+      "surface": "אותך",
       "gloss": "⟨את⟩ توءَ",
       "marks": "توءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "בְּנֵ֥י",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "بنی اسرائیل"
     }
-  ],
-  "timestamp": "2026-09-25T21:52:02.852814620Z",
-  "model": "glm-5.3"
+  ]
 }

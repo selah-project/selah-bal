@@ -1,62 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "genesis 2:11",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:00:18.329404024Z",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "اے یکمیءِ نام پشون اِنت، آ ءُ اِنت کہ ⟨את⟩ پوریں زمینءِ حوِیلہءَ گراندیت، جاگہءَ کہ اودا زر ہست اِنت۔",
   "tokens": [
     {
-      "surface": "שֵׁם",
+      "surface": "שם",
       "gloss": "نام"
     },
     {
-      "surface": "הָאֶחָד",
+      "surface": "האחד",
       "gloss": "اے یکمیءِ"
     },
     {
-      "surface": "פִּישׁוֹן",
+      "surface": "פישון",
       "gloss": "پشون"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ ءُ اِنت"
     },
     {
-      "surface": "הַסֹּבֵב",
+      "surface": "הסבב",
       "gloss": "گراندیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوریں زمینءِ حوِیلہءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "הַחֲוִילָה",
+      "surface": "החוילה",
       "gloss": "حوِیلہءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "جاگہءَ کہ"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "הַזָּהָב",
+      "surface": "הזהב",
       "gloss": "زر"
     }
-  ],
-  "timestamp": "2026-09-25T22:00:18.329404024Z",
-  "model": "glm-5.3"
+  ]
 }

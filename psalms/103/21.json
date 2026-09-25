@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "psalms 103:21",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:31:04.640027481Z",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "tier": "glm-5.2",
   "chapter": 103,
   "translation": "برکت دِنت اے یاہوہ، آییءِ سبھی سباؤت، آییءِ خدمتگار، آییءِ رضا کنوک.",
   "tokens": [
     {
-      "surface": "בָּרֲכ֣וּ",
+      "surface": "ברכו",
       "gloss": "برکت دِنت"
     },
     {
-      "surface": "יְ֭הוָה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "سبھی"
     },
     {
-      "surface": "צְבָאָ֑יו",
+      "surface": "צבאיו",
       "gloss": "آییءِ سباؤت"
     },
     {
-      "surface": "מְ֝שָׁרְתָ֗יו",
+      "surface": "משרתיו",
       "gloss": "آییءِ خدمتگار"
     },
     {
-      "surface": "עֹשֵׂ֥י",
+      "surface": "עשי",
       "gloss": "کنوک"
     },
     {
-      "surface": "רְצוֹנֽוֹ",
+      "surface": "רצונו",
       "gloss": "آییءِ رضا"
     }
-  ],
-  "timestamp": "2026-09-25T22:31:04.640027481Z",
-  "model": "glm-5.3"
+  ]
 }

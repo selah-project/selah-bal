@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "numbers 3:8",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:33:32.211971711Z",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ اِشاں ⟨את⟩ سئے کالان ءُ ⟨את⟩ ملاقاتءِ گدانءِ دیمداری — چوئیں رچائش ءُ بنی‌ءِسرائیلءِ نگہبانی — پہ مِشکانءِ خدمتءَ سرا ئے نجاریت کنت.",
   "tokens": [
     {
-      "surface": "וְשָׁמְר֗וּ",
+      "surface": "ושמרו",
       "gloss": "ءُ اِشاں نگہ بگیرنت"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سئے کالان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "سئے"
     },
     {
-      "surface": "כְּלֵי֙",
+      "surface": "כלי",
       "gloss": "کالان"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گاد"
     },
     {
-      "surface": "מוֹעֵ֔ד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "بنی‌ءِسرائیلءِ نگہبانی"
     },
     {
-      "surface": "מִשְׁמֶ֖רֶת",
+      "surface": "משמרת",
       "gloss": "نگہبانی"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "بچں"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "سرائیل"
     },
     {
-      "surface": "לַעֲבֹ֖ד",
+      "surface": "לעבד",
       "gloss": "پہ خدمتءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِشکانءِ خدمت"
     },
     {
-      "surface": "עֲבֹדַ֥ת",
+      "surface": "עבדת",
       "gloss": "خدمت"
     },
     {
-      "surface": "הַמִּשְׁכָּֽן",
+      "surface": "המשכן",
       "gloss": "مِشکان"
     }
-  ],
-  "timestamp": "2026-09-25T22:33:32.211971711Z",
-  "model": "glm-5.3"
+  ]
 }

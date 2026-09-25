@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "nehemiah 3:10",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:24:48.523741154Z",
+  "verse": 10,
+  "ref": "nehemiah 3:10",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ اِشانی لبءَ جِدایا، حَرومَپءِ زہگ، مظبوت کت، آییءِ گڈءِ روبہ روب؛ ءُ آییءِ لبءَ حَتّوش، حَشَبنیاءِ زہگ، مظبوت کت.",
   "tokens": [
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ اِشانی لبءَ"
     },
     {
-      "surface": "יָדָם",
+      "surface": "ידם",
       "gloss": "اِشانی لبءَ"
     },
     {
-      "surface": "הֶחֱזִיק",
+      "surface": "החזיק",
       "gloss": "مظبوت کت"
     },
     {
-      "surface": "יְדָיָה",
+      "surface": "ידיה",
       "gloss": "جِدایا"
     },
     {
-      "surface": "בֶן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "חֲרוּמַף",
+      "surface": "חרומף",
       "gloss": "حَرومَپ"
     },
     {
-      "surface": "וְנֶגֶד",
+      "surface": "ונגד",
       "gloss": "ءُ روبہ روب"
     },
     {
-      "surface": "בֵּיתוֹ",
+      "surface": "ביתו",
       "gloss": "آییءِ گڈ"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ آییءِ لبءَ"
     },
     {
-      "surface": "יָדוֹ",
+      "surface": "ידו",
       "gloss": "آییءِ لبءَ"
     },
     {
-      "surface": "הֶחֱזִיק",
+      "surface": "החזיק",
       "gloss": "مظبوت کت"
     },
     {
-      "surface": "חַטּוּשׁ",
+      "surface": "חטוש",
       "gloss": "حَتّوش"
     },
     {
-      "surface": "בֶן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "חֲשַׁבְנְיָה",
+      "surface": "חשבניה",
       "gloss": "حَشَبنیا"
     }
-  ],
-  "timestamp": "2026-09-25T22:24:48.523741154Z",
-  "model": "glm-5.3"
+  ]
 }

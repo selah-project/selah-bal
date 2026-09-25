@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "leviticus 16:7",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:21:03.298389084Z",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ آییءَ گرت ⟨את⟩ دوئین بزّاناں، ءُ ⟨את⟩ آیانءَ اوشتانت یاہوہءِ پیشءَ، ملاقاتءِ گدانءِ دروازہءَ۔",
   "tokens": [
     {
-      "surface": "וְלָקַח",
+      "surface": "ולקח",
       "gloss": "ءُ گرت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "دوئین بزّاناں"
     },
     {
-      "surface": "שְׁנֵי",
+      "surface": "שני",
       "gloss": "دوئین"
     },
     {
-      "surface": "הַשָּׂעִירִם",
+      "surface": "השעירם",
       "gloss": "بزّاناں"
     },
     {
-      "surface": "וְהֶעֱמִיד",
+      "surface": "והעמיד",
       "gloss": "ءُ اوشتانت"
     },
     {
-      "surface": "אֹתָם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "یہوہءِ پیش"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "פֶּתַח",
+      "surface": "פתח",
       "gloss": "دروازہءَ"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گدانءِ"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:21:03.298389084Z",
-  "model": "glm-5.3"
+  ]
 }

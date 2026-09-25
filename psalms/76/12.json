@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "psalms 76:12",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:31:37.340445660Z",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "tier": "glm-5.2",
   "chapter": 76,
   "translation": "نذر بکنت ءُ پورا کنت پہ یاہوہءَ، مہ رہ ہدایان — چہ آییءِ سار دگہ تہ ہست اِنت — تحفہ ہَل کننت پہ آیے کہ مانیت۔",
   "tokens": [
     {
-      "surface": "נִֽדֲר֣וּ",
+      "surface": "נדרו",
       "gloss": "نذر بکنت"
     },
     {
-      "surface": "וְשַׁלְּמ֥וּ",
+      "surface": "ושלמו",
       "gloss": "ءُ پورا کننت"
     },
     {
-      "surface": "לַיהוָ֪ה",
+      "surface": "ליהוה",
       "gloss": "پہ یاہوہءَ"
     },
     {
-      "surface": "אֱֽלֹהֵ֫יכֶ֥ם",
+      "surface": "אלהיכם",
       "gloss": "مہ رہ ہدایان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "سار"
     },
     {
-      "surface": "סְבִיבָ֑יו",
+      "surface": "סביביו",
       "gloss": "آییءِ دگہ تہ ہست"
     },
     {
-      "surface": "יוֹבִ֥ילוּ",
+      "surface": "יובילו",
       "gloss": "ہَل کننت"
     },
     {
-      "surface": "שַׁ֝֗י",
+      "surface": "שי",
       "gloss": "تحفہ"
     },
     {
-      "surface": "לַמּוֹרָֽא",
+      "surface": "למורא",
       "gloss": "پہ آیے کہ مانیت"
     }
-  ],
-  "timestamp": "2026-09-25T22:31:37.340445660Z",
-  "model": "glm-5.3"
+  ]
 }

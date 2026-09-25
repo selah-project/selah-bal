@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "genesis 45:11",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:03:18.480984319Z",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "tier": "glm-5.2",
   "chapter": 45,
   "translation": "ءُ مان اُتا ⟨את⟩ تُہءَ چرینت کنت، پرچا کہ ہنچ پنچ سالءِ کالگ اِنت — نہ کہ تُو ءُ تُءِ گُدان ءُ گچ کہ تُءِ اِنت، مہتاب بیت.",
   "tokens": [
     {
-      "surface": "וְכִלְכַּלְתִּ֤י",
+      "surface": "וכלכלתי",
       "gloss": "ءُ مان چرینت کنت"
     },
     {
-      "surface": "אֹֽתְךָ֙",
+      "surface": "אתך",
       "gloss": "⟨את⟩ تُہءَ",
       "marks": "اُتا (تُہ)"
     },
     {
-      "surface": "שָׁ֔ם",
+      "surface": "שם",
       "gloss": "اُتا"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "ע֛וֹד",
+      "surface": "עוד",
       "gloss": "ہنچ"
     },
     {
-      "surface": "חָמֵ֥שׁ",
+      "surface": "חמש",
       "gloss": "پنچ"
     },
     {
-      "surface": "שָׁנִ֖ים",
+      "surface": "שנים",
       "gloss": "سال"
     },
     {
-      "surface": "רָעָ֑ב",
+      "surface": "רעב",
       "gloss": "کالگ"
     },
     {
-      "surface": "פֶּן֩",
+      "surface": "פן",
       "gloss": "نہ کہ"
     },
     {
-      "surface": "תִּוָּרֵ֛שׁ",
+      "surface": "תורש",
       "gloss": "مہتاب بیت"
     },
     {
-      "surface": "אַתָּ֥ה",
+      "surface": "אתה",
       "gloss": "تُو"
     },
     {
-      "surface": "וּבֵֽיתְךָ֖",
+      "surface": "וביתך",
       "gloss": "ءُ تُءِ گُدان"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ گچ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לָֽךְ",
+      "surface": "לך",
       "gloss": "تُءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:03:18.480984319Z",
-  "model": "glm-5.3"
+  ]
 }

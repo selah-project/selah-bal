@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "deuteronomy 10:9",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:48:05.524386248Z",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "آں پہ لئویءَ بھر ءُ ورثت وتی بھرانی گوں نہ بوت؛ یاہوہ وتئے ورثت اِنت، چوش کہ یاہوہ تُءِ ایلوہیم آییءَ گوَشت۔",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "آں چہ"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "پہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "הָיָה",
+      "surface": "היה",
       "gloss": "بوت"
     },
     {
-      "surface": "לְלֵוִי",
+      "surface": "ללוי",
       "gloss": "لئویءَ"
     },
     {
-      "surface": "חֵלֶק",
+      "surface": "חלק",
       "gloss": "بھر"
     },
     {
-      "surface": "וְנַחֲלָה",
+      "surface": "ונחלה",
       "gloss": "ءُ ورثت"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "אֶחָיו",
+      "surface": "אחיו",
       "gloss": "وتی بھرانی"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "وتئے"
     },
     {
-      "surface": "נַחֲלָתוֹ",
+      "surface": "נחלתו",
       "gloss": "ورثت"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "דִּבֶּר",
+      "surface": "דבר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "تُءِ ایلوہیم"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:48:05.524386248Z",
-  "model": "glm-5.3"
+  ]
 }

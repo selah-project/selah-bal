@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "deuteronomy 29:7",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:48:45.330342051Z",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ ما ⟨את⟩ اِشانی زمین گپت ءُ آءَ میراثءِ چوں رئوبینیں ٹولیءَ ءُ گادیں ٹولیءَ ءُ منشیں ٹولیءِ نیمگءَ دات.",
   "tokens": [
     {
-      "surface": "וַנִּקַּח",
+      "surface": "ונקח",
       "gloss": "ءُ ما گپت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اِشانی زمین"
     },
     {
-      "surface": "אַרְצָם",
+      "surface": "ארצם",
       "gloss": "اِشانی زمین"
     },
     {
-      "surface": "וַנִּתְּנָהּ",
+      "surface": "ונתנה",
       "gloss": "ءُ آءَ دات"
     },
     {
-      "surface": "לְנַחֲלָה",
+      "surface": "לנחלה",
       "gloss": "میراثءِ چوں"
     },
     {
-      "surface": "לָרְאוּבֵנִי",
+      "surface": "לראובני",
       "gloss": "رئوبینیں ٹولیءَ"
     },
     {
-      "surface": "וְלַגָּדִי",
+      "surface": "ולגדי",
       "gloss": "ءُ گادیں ٹولیءَ"
     },
     {
-      "surface": "וְלַחֲצִי",
+      "surface": "ולחצי",
       "gloss": "ءُ نیمگءَ"
     },
     {
-      "surface": "שֵׁבֶט",
+      "surface": "שבט",
       "gloss": "ٹولیءِ"
     },
     {
-      "surface": "הַמְנַשִּׁי",
+      "surface": "המנשי",
       "gloss": "منشی"
     }
-  ],
-  "timestamp": "2026-09-25T21:48:45.330342051Z",
-  "model": "glm-5.3"
+  ]
 }

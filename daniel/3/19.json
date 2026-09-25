@@ -1,34 +1,36 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "daniel 3:19",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:47:30.283694011Z",
+  "verse": 19,
+  "ref": "daniel 3:19",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "اِدیں نبوکدنصر چہ غضبءَ پُر بوت ءُ آییءِ منہءِ شکل شدرک ءُ مئشک ءُ عابد نگۏءِ پیشءَ بدل بوت؛ جواب دات ءُ گوَشت کہ تنۏرءَ پہ تپائیں ہپت رند گیشتر چہ آ چیز کہ آییءَ تپیتگ ⟨اوشت⟩ تپیت بیت۔",
   "tokens": [
     {
-      "surface": "בֵּאדַ֨יִן",
+      "surface": "באדין",
       "gloss": "اِدیں"
     },
     {
-      "surface": "נְבוּכַדְנֶצַּ֜ר",
+      "surface": "נבוכדנצר",
       "gloss": "نبوکدنصر"
     },
     {
-      "surface": "הִתְמְלִ֣י",
+      "surface": "התמלי",
       "gloss": "پُر بوت"
     },
     {
-      "surface": "חֱמָ֗א",
+      "surface": "חמא",
       "gloss": "غضبءَ"
     },
     {
-      "surface": "וּצְלֵ֤ם",
+      "surface": "וצלם",
       "gloss": "ءُ شکل"
     },
     {
-      "surface": "אַנְפּ֨וֹהִי֙",
+      "surface": "אנפוהי",
       "gloss": "آییءِ منہءِ"
     },
     {
@@ -36,66 +38,64 @@
       "gloss": "بدل بوت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "שַׁדְרַ֥ךְ",
+      "surface": "שדרך",
       "gloss": "شدرک"
     },
     {
-      "surface": "מֵישַׁ֖ךְ",
+      "surface": "מישך",
       "gloss": "مئشک"
     },
     {
-      "surface": "וַעֲבֵ֣ד",
+      "surface": "ועבד",
       "gloss": "ءُ عابد"
     },
     {
-      "surface": "נְג֑וֹ",
+      "surface": "נגו",
       "gloss": "نگۏ"
     },
     {
-      "surface": "עָנֵ֤ה",
+      "surface": "ענה",
       "gloss": "جواب دات"
     },
     {
-      "surface": "וְאָמַר֙",
+      "surface": "ואמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "לְמֵזֵ֣א",
+      "surface": "למזא",
       "gloss": "پہ تپائیں"
     },
     {
-      "surface": "לְאַתּוּנָ֔א",
+      "surface": "לאתונא",
       "gloss": "تنۏرءَ"
     },
     {
-      "surface": "חַ֨ד",
+      "surface": "חד",
       "gloss": "یک"
     },
     {
-      "surface": "שִׁבְעָ֔ה",
+      "surface": "שבעה",
       "gloss": "ہپت"
     },
     {
-      "surface": "עַ֛ל",
+      "surface": "על",
       "gloss": "گیشتر چہ"
     },
     {
-      "surface": "דִּ֥י",
+      "surface": "די",
       "gloss": "چیز کہ"
     },
     {
-      "surface": "חֲזֵ֖ה",
+      "surface": "חזה",
       "gloss": "تپیتگ"
     },
     {
-      "surface": "לְמֵזְיֵֽהּ",
+      "surface": "למזיה",
       "gloss": "پہ تپائیں آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:47:30.283694011Z",
-  "model": "glm-5.3"
+  ]
 }

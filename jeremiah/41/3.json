@@ -1,93 +1,93 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "jeremiah 41:3",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:13:00.948013676Z",
+  "verse": 3,
+  "ref": "jeremiah 41:3",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "ءُ ⟨את⟩ گیش یہودیانی کہ گدلیاہءَ گوں ⟨את⟩ آ اَنت مِتسپہءَ، ءُ ⟨את⟩ کسدانی کہ اودا دست کپتگ اَنت — ⟨את⟩ جنگیں مردمانی — اِشماعیلءَ زدنت.",
   "tokens": [
     {
-      "surface": "וְאֵ֣ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گیش یہودیان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیش"
     },
     {
-      "surface": "הַיְּהוּדִ֗ים",
+      "surface": "היהודים",
       "gloss": "یہودیان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הָי֨וּ",
+      "surface": "היו",
       "gloss": "اَنت"
     },
     {
-      "surface": "אִתּ֤וֹ",
+      "surface": "אתו",
       "gloss": "گوں ⟨את⟩ آ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گدلیاہ"
     },
     {
-      "surface": "גְּדַלְיָ֨הוּ֙",
+      "surface": "גדליהו",
       "gloss": "گدلیاہ"
     },
     {
-      "surface": "בַּמִּצְפָּ֔ה",
+      "surface": "במצפה",
       "gloss": "مِتسپہءَ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "کسدانی"
     },
     {
-      "surface": "הַכַּשְׂדִּ֖ים",
+      "surface": "הכשדים",
       "gloss": "کسدانی"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נִמְצְאוּ",
+      "surface": "נמצאו",
       "gloss": "دست کپتگ اَنت"
     },
     {
-      "surface": "שָׁ֑ם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "جنگیں مردمان"
     },
     {
-      "surface": "אַנְשֵׁ֣י",
+      "surface": "אנשי",
       "gloss": "مردمانی"
     },
     {
-      "surface": "הַמִּלְחָמָ֔ה",
+      "surface": "המלחמה",
       "gloss": "جنگی"
     },
     {
-      "surface": "הִכָּ֖ה",
+      "surface": "הכה",
       "gloss": "زدنت"
     },
     {
-      "surface": "יִשְׁמָעֵֽאל",
+      "surface": "ישמעאל",
       "gloss": "اِشماعیل"
     }
-  ],
-  "timestamp": "2026-09-25T22:13:00.948013676Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "exodus 10:11",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:53:29.659433759Z",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "نہ چوش؛ اے گبور، کنیں روت ءُ ⟨את⟩ یاہوہءَ خدمت کنیں، پرچا کہ اے ⟨את⟩ آیانءَ شما گنجنت؛ ءُ ⟨את⟩ آیانءَ چہ پرعوہءِ دیمءَ دور کت.",
   "tokens": [
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "כֵ֗ן",
+      "surface": "כן",
       "gloss": "چوش"
     },
     {
-      "surface": "לְכֽוּ",
+      "surface": "לכו",
       "gloss": "روت"
     },
     {
-      "surface": "נָ֤א",
+      "surface": "נא",
       "gloss": "کنیں"
     },
     {
-      "surface": "הַגְּבָרִים֙",
+      "surface": "הגברים",
       "gloss": "گبور"
     },
     {
-      "surface": "וְעִבְד֣וּ",
+      "surface": "ועבדו",
       "gloss": "ءُ خدمت کنیں"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءَ"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֹתָ֖הּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آیانءَ"
     },
     {
-      "surface": "אַתֶּ֣ם",
+      "surface": "אתם",
       "gloss": "شما"
     },
     {
-      "surface": "מְבַקְשִׁ֑ים",
+      "surface": "מבקשים",
       "gloss": "گنجنت"
     },
     {
-      "surface": "וַיְגָ֣רֶשׁ",
+      "surface": "ויגרש",
       "gloss": "ءُ دور کت"
     },
     {
-      "surface": "אֹתָ֔ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ"
     },
     {
-      "surface": "מֵאֵ֖ת",
+      "surface": "מאת",
       "gloss": "⟨את⟩ چہ"
     },
     {
-      "surface": "פְּנֵ֥י",
+      "surface": "פני",
       "gloss": "دیم"
     },
     {
-      "surface": "פַּרְעֹֽה",
+      "surface": "פרעה",
       "gloss": "پرعوہ"
     }
-  ],
-  "timestamp": "2026-09-25T21:53:29.659433759Z",
-  "model": "glm-5.3"
+  ]
 }

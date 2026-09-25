@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "joshua 24:4",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:15:23.363896041Z",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ءُ من یزحاقءَ ہٹ کت ⟨את⟩ یعقوب ءُ ⟨את⟩ عیسو؛ ءُ من عیسوءَ ہٹ کت ⟨את⟩ سیءرءِ کوه پہ آییءِ گرتنءَ، ءُ یعقوب ءُ آئیءِ زہگان مِتسرایمءَ درات کت۔",
   "tokens": [
     {
-      "surface": "וָאֶתֵּן",
+      "surface": "ואתן",
       "gloss": "ءُ من ہٹ کت"
     },
     {
-      "surface": "לְיִצְחָק",
+      "surface": "ליצחק",
       "gloss": "یزحاقءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یعقوب"
     },
     {
-      "surface": "יַעֲקֹב",
+      "surface": "יעקב",
       "gloss": "یعقوب"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "عیسو"
     },
     {
-      "surface": "עֵשָׂו",
+      "surface": "עשו",
       "gloss": "عیسو"
     },
     {
-      "surface": "וָאֶתֵּן",
+      "surface": "ואתן",
       "gloss": "ءُ من ہٹ کت"
     },
     {
-      "surface": "לְעֵשָׂו",
+      "surface": "לעשו",
       "gloss": "عیسوءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سیءرءِ کوه"
     },
     {
-      "surface": "הַר",
+      "surface": "הר",
       "gloss": "کوه"
     },
     {
-      "surface": "שֵׂעִיר",
+      "surface": "שעיר",
       "gloss": "سیءر"
     },
     {
-      "surface": "לָרֶשֶׁת",
+      "surface": "לרשת",
       "gloss": "پہ گرتنءَ"
     },
     {
-      "surface": "אוֹתוֹ",
+      "surface": "אותו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "سیءرءِ کوه"
     },
     {
-      "surface": "וְיַעֲקֹב",
+      "surface": "ויעקב",
       "gloss": "ءُ یعقوب"
     },
     {
-      "surface": "וּבָנָיו",
+      "surface": "ובניו",
       "gloss": "ءُ آئیءِ زہگان"
     },
     {
-      "surface": "יָרְדוּ",
+      "surface": "ירדו",
       "gloss": "درات کت"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:15:23.363896041Z",
-  "model": "glm-5.3"
+  ]
 }

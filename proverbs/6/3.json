@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "proverbs 6:3",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:30:53.576504052Z",
+  "verse": 3,
+  "ref": "proverbs 6:3",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "اے کار کن، اے زہگءِ من، ءُ وتءَ رہائی بگنت، پرچا کہ تُو اے یارءِ ہتءَ گئے اِنت؛ روت، وتءَ زمینءَ بشک ءُ یارءِ پیشءَ بستگوں درخواست کن۔",
   "tokens": [
     {
-      "surface": "עֲשֵׂה",
+      "surface": "עשה",
       "gloss": "کن"
     },
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "اے کار"
     },
     {
-      "surface": "אֵפוֹא",
+      "surface": "אפוא",
       "gloss": "اِشاں"
     },
     {
-      "surface": "בְּנִי",
+      "surface": "בני",
       "gloss": "اے زہگءِ من"
     },
     {
-      "surface": "וְהִנָּצֵל",
+      "surface": "והנצל",
       "gloss": "ءُ وتءَ رہائی بگنت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "בָּאתָ",
+      "surface": "באת",
       "gloss": "تُو گئے اِنت"
     },
     {
-      "surface": "בְּכַף",
+      "surface": "בכף",
       "gloss": "ہتءَ"
     },
     {
-      "surface": "רֵעֶךָ",
+      "surface": "רעך",
       "gloss": "اے یارءِ"
     },
     {
-      "surface": "לֵךְ",
+      "surface": "לך",
       "gloss": "روت"
     },
     {
-      "surface": "הִתְרַפֵּס",
+      "surface": "התרפס",
       "gloss": "وتءَ زمینءَ بشک"
     },
     {
-      "surface": "וּרְהַב",
+      "surface": "ורהב",
       "gloss": "ءُ بستگوں درخواست کن"
     },
     {
-      "surface": "רֵעֶיךָ",
+      "surface": "רעיך",
       "gloss": "یارءِ پیشءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:30:53.576504052Z",
-  "model": "glm-5.3"
+  ]
 }

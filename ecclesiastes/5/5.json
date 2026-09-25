@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "ecclesiastes 5:5",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:52:41.213198801Z",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "تئے زبانءَ نہ دی کہ ⟨את⟩ تئے گوشت گنہ کنی؛ ءُ پیغامروکءِ پیشءَ نہ گو کہ اے چُک اِنت — چرا ایلوہیم تئے آوازءَ سر غش کنت ءُ ⟨את⟩ تئے دستانی کار بربیت؟",
   "tokens": [
@@ -46,7 +48,7 @@
       "gloss": "گو"
     },
     {
-      "surface": "לפنי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
@@ -102,7 +104,5 @@
       "surface": "ידיך",
       "gloss": "تئے دستان"
     }
-  ],
-  "timestamp": "2026-09-25T21:52:41.213198801Z",
-  "model": "glm-5.3"
+  ]
 }

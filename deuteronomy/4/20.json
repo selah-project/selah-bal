@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "deuteronomy 4:20",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:49:22.301403909Z",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ ⟨את⟩ تما یکی یاہوہءَ گپتگ، ءُ تما یکی چہ آہنءِ کوراہیءَ، چہ مِتسرایمءَ در کتگ — پہ آییءِ پہ یک قومِ میراث بیت، چوش کہ اے روچءَ اِنت۔",
   "tokens": [
     {
-      "surface": "וְאֶתְכֶם",
+      "surface": "ואתכם",
       "gloss": "ءُ ⟨את⟩ تما یکی",
       "marks": "تما یکی"
     },
     {
-      "surface": "לָקַח",
+      "surface": "לקח",
       "gloss": "گپتگ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "וַיּוֹצִא",
+      "surface": "ויוצא",
       "gloss": "ءُ در کتگ"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ تما یکی",
       "marks": "تما یکی"
     },
     {
-      "surface": "מִכּוּר",
+      "surface": "מכור",
       "gloss": "کوراہیءَ"
     },
     {
-      "surface": "הַבַּרְזֶל",
+      "surface": "הברזל",
       "gloss": "آہنءِ"
     },
     {
-      "surface": "מִמִּצְרָיִם",
+      "surface": "ממצרים",
       "gloss": "چہ مِتسرایمءَ"
     },
     {
-      "surface": "לִהְיוֹת",
+      "surface": "להיות",
       "gloss": "بیت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "پہ آییءِ پہ"
     },
     {
-      "surface": "לְעַם",
+      "surface": "לעם",
       "gloss": "یک قومِ"
     },
     {
-      "surface": "נַחֲלָה",
+      "surface": "נחלה",
       "gloss": "میراث"
     },
     {
-      "surface": "כַּיּוֹם",
+      "surface": "כיום",
       "gloss": "چوش کہ اے روچءَ"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T21:49:22.301403909Z",
-  "model": "glm-5.3"
+  ]
 }

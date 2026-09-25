@@ -1,98 +1,98 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "jeremiah 51:11",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:12:46.103246511Z",
+  "verse": 11,
+  "ref": "jeremiah 51:11",
+  "tier": "glm-5.2",
   "chapter": 51,
   "translation": "تیروں چم کنو، سپران درا کنو؛ یاہوہ مادیانی شاهانی ⟨את⟩ روحءَ جگ کت، کیہ آییءِ چُک بابلءِ سرءَ اِنت آییءَ نیست کن گہ، کیہ آ یاہوہءِ انتقام اِنت، آییءِ ہیکلءِ انتقام.",
   "tokens": [
     {
-      "surface": "הָבֵ֣רוּ",
+      "surface": "הברו",
       "gloss": "چم کنو"
     },
     {
-      "surface": "הַחִצִּים֮",
+      "surface": "החצים",
       "gloss": "تیروں"
     },
     {
-      "surface": "מִלְא֣וּ",
+      "surface": "מלאו",
       "gloss": "درا کنو"
     },
     {
-      "surface": "הַשְּׁלָטִים֒",
+      "surface": "השלטים",
       "gloss": "سپران"
     },
     {
-      "surface": "הֵעִ֣יר",
+      "surface": "העיר",
       "gloss": "جگ کت"
     },
     {
-      "surface": "יְהוָ֗ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "روح"
     },
     {
-      "surface": "ר֨וּחַ֙",
+      "surface": "רוח",
       "gloss": "روح"
     },
     {
-      "surface": "מַלְכֵ֣י",
+      "surface": "מלכי",
       "gloss": "شاهانی"
     },
     {
-      "surface": "מָדַ֔י",
+      "surface": "מדי",
       "gloss": "مادیان"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کیہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "בָּבֶ֥ל",
+      "surface": "בבל",
       "gloss": "بابل"
     },
     {
-      "surface": "מְזִמָּת֖וֹ",
+      "surface": "מזמתו",
       "gloss": "آییءِ چُک"
     },
     {
-      "surface": "לְהַשְׁחִיתָ֑הּ",
+      "surface": "להשחיתה",
       "gloss": "آییءَ نیست کن گہ"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کیہ"
     },
     {
-      "surface": "נִקְמַ֤ת",
+      "surface": "נקמת",
       "gloss": "انتقام"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "הִ֔יא",
+      "surface": "היא",
       "gloss": "آ"
     },
     {
-      "surface": "נִקְמַ֖ת",
+      "surface": "נקמת",
       "gloss": "انتقام"
     },
     {
-      "surface": "הֵיכָלֽוֹ",
+      "surface": "היכלו",
       "gloss": "آییءِ ہیکلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:12:46.103246511Z",
-  "model": "glm-5.3"
+  ]
 }

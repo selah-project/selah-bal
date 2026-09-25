@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "isaiah 38:7",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:05:25.357769588Z",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "ءُ اے پہ تئے نشان اِنت چہ یاہوہءَ، آ کہ یاہوہءَ کنیت ⟨את⟩ اے گال کہ گوَشتیت۔",
   "tokens": [
     {
-      "surface": "וְזֶה",
+      "surface": "וזה",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "לְּךָ֥",
+      "surface": "לך",
       "gloss": "پہ تئے"
     },
     {
-      "surface": "הָא֖וֹת",
+      "surface": "האות",
       "gloss": "نشان"
     },
     {
-      "surface": "מֵאֵ֣ת",
+      "surface": "מאת",
       "gloss": "چہ ⟨את⟩"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֲשֶׁר֙",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יַעֲשֶׂ֣ה",
+      "surface": "יעשה",
       "gloss": "کنیت"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے گال"
     },
     {
-      "surface": "הַדָּבָ֥ר",
+      "surface": "הדבר",
       "gloss": "اے گال"
     },
     {
-      "surface": "הַזֶּ֖ה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "דִּבֵּֽר",
+      "surface": "דבר",
       "gloss": "گوَشتیت"
     }
-  ],
-  "timestamp": "2026-09-25T22:05:25.357769588Z",
-  "model": "glm-5.3"
+  ]
 }

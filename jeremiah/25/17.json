@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "jeremiah 25:17",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:35:19.768391939Z",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ من گواس ⟨את⟩ کوس چہ یاہوہءِ دستءَ گپت ءُ ⟨את⟩ ہچ قوماںءَ نہ چوشیت کہ یاہوہ مءُ آیانی چیراں شولیءَ اِنت.",
   "tokens": [
     {
-      "surface": "וָאֶקַּח",
+      "surface": "ואקח",
       "gloss": "ءُ من گپت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کوس"
     },
     {
-      "surface": "הַכּוֹס",
+      "surface": "הכוס",
       "gloss": "کوس"
     },
     {
-      "surface": "מִיַּד",
+      "surface": "מיד",
       "gloss": "چہ دستءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וָאַשְׁקֶה",
+      "surface": "ואשקה",
       "gloss": "ءُ نہ چوشیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہچ قوماں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہچ"
     },
     {
-      "surface": "הַגּוֹיִם",
+      "surface": "הגוים",
       "gloss": "قوماںءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "שְׁלָחַנִי",
+      "surface": "שלחני",
       "gloss": "مءُ شولیءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֲלֵיהֶם",
+      "surface": "אליהם",
       "gloss": "آیانی چیراں"
     }
-  ],
-  "timestamp": "2026-09-25T22:35:19.768391939Z",
-  "model": "glm-5.3"
+  ]
 }

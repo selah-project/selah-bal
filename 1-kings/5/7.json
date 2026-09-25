@@ -1,87 +1,87 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "1-kings 5:7",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:35:31.045342942Z",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ اے اوشتیں نبشتکان بادشاہ سلیمانءَ روٹی داتنت، ءُ ⟨ءُ ⟨את⟩⟩ تمام نزدیکاناں کہ بادشاہ سلیمانءِ دسترخوانءَ آتنت، ہر یک وتی ماہءَ؛ ہچ چیزءَ رد نہ کتنت۔",
   "tokens": [
     {
-      "surface": "וְכִלְכְּלוּ",
+      "surface": "וכלכלו",
       "gloss": "ءُ روٹی داتنت"
     },
     {
-      "surface": "הַנִּצָּבִים",
+      "surface": "הנצבים",
       "gloss": "اوشتیں نبشتکان"
     },
     {
-      "surface": "הָאֵלֶּה",
+      "surface": "האלה",
       "gloss": "اے"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "بادشاہءَ"
     },
     {
-      "surface": "הַמֶּ֫לֶךְ",
+      "surface": "המלך",
       "gloss": "بادشاہ"
     },
     {
-      "surface": "שְׁלֹמֹ֗ה",
+      "surface": "שלמה",
       "gloss": "سلیمان"
     },
     {
-      "surface": "וְאֵ֫ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "تمام نزدیکاناں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "הַקָּרֵ֫ב",
+      "surface": "הקרב",
       "gloss": "نزدیکان"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "کہ … ءَ آتنت"
     },
     {
-      "surface": "שֻׁלְחָ֫ן",
+      "surface": "שלחן",
       "gloss": "دسترخوان"
     },
     {
-      "surface": "הַמֶּ֫לֶךְ",
+      "surface": "המלך",
       "gloss": "بادشاہءِ"
     },
     {
-      "surface": "שְׁלֹמֹ֖ה",
+      "surface": "שלמה",
       "gloss": "سلیمانءِ"
     },
     {
-      "surface": "אִ֣ישׁ",
+      "surface": "איש",
       "gloss": "ہر یک"
     },
     {
-      "surface": "חָדְשֽׁוֹ",
+      "surface": "חדשו",
       "gloss": "وتی ماہءَ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְעַדְּר֖וּ",
+      "surface": "יעדרו",
       "gloss": "رد کتنت"
     },
     {
-      "surface": "דָּבָֽר",
+      "surface": "דבר",
       "gloss": "ہچ چیزءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:35:31.045342942Z",
-  "model": "glm-5.3"
+  ]
 }

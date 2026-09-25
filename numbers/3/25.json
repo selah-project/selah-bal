@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "numbers 3:25",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:26:55.818755951Z",
+  "verse": 25,
+  "ref": "numbers 3:25",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ گرشونءِ زہگانی نگرانی ملاقاتءِ گدانءَ اِنت: مِشکان ءُ گدان، آییءِ پوش، ءُ ملاقاتءِ گدانءِ دروازءِ پردہ.",
   "tokens": [
     {
-      "surface": "וּמִשְׁמֶרֶת",
+      "surface": "ומשמרת",
       "gloss": "ءُ نگرانی"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "גֵרְשׁוֹן",
+      "surface": "גרשון",
       "gloss": "گرشون"
     },
     {
-      "surface": "בְּאֹהֶל",
+      "surface": "באהל",
       "gloss": "گدانءَ"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "הַמִּשְׁכָּן",
+      "surface": "המשכן",
       "gloss": "مِشکان"
     },
     {
-      "surface": "וְהָאֹהֶל",
+      "surface": "והאהל",
       "gloss": "ءُ گدان"
     },
     {
-      "surface": "מִכְסֵהוּ",
+      "surface": "מכסהו",
       "gloss": "آییءِ پوش"
     },
     {
-      "surface": "וּמָסַךְ",
+      "surface": "ומסך",
       "gloss": "ءُ پردہ"
     },
     {
-      "surface": "פֶּתַח",
+      "surface": "פתח",
       "gloss": "دروازءِ"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:26:55.818755951Z",
-  "model": "glm-5.3"
+  ]
 }

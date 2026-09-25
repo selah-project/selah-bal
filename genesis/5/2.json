@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "genesis 5:2",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:05:22.876808597Z",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "نر ءُ مادہ آیانءَ ⟨את⟩ جوڑ کت، ءُ آیانءَ برکت دات، ءُ ⟨את⟩ آیانی نام آدم گوشت، تہ روچءَ کہ آیان جوڑ بوتنت.",
   "tokens": [
     {
-      "surface": "זָכָ֥ר",
+      "surface": "זכר",
       "gloss": "نر"
     },
     {
-      "surface": "וּנְקֵבָ֖ה",
+      "surface": "ונקבה",
       "gloss": "ءُ مادہ"
     },
     {
-      "surface": "בְּרָאָ֑ם",
+      "surface": "בראם",
       "gloss": "جوڑ کت"
     },
     {
-      "surface": "וַיְבָ֣רֶךְ",
+      "surface": "ויברך",
       "gloss": "ءُ برکت دات"
     },
     {
-      "surface": "אֹתָ֗ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "آیانءَ (جوڑ بوتگ)"
     },
     {
-      "surface": "וַיִּקְרָ֤א",
+      "surface": "ויקרא",
       "gloss": "ءُ گوشت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آیانی نام"
     },
     {
-      "surface": "שְׁמָם֙",
+      "surface": "שמם",
       "gloss": "آیانی نام"
     },
     {
-      "surface": "אָדָ֔ם",
+      "surface": "אדם",
       "gloss": "آدم"
     },
     {
-      "surface": "בְּי֖וֹם",
+      "surface": "ביום",
       "gloss": "تہ روچءَ"
     },
     {
-      "surface": "הִבָּֽרְאָֽם",
+      "surface": "הבראם",
       "gloss": "کہ آیان جوڑ بوتنت"
     }
-  ],
-  "timestamp": "2026-09-25T22:05:22.876808597Z",
-  "model": "glm-5.3"
+  ]
 }

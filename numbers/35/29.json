@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "numbers 35:29",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:29:24.437459720Z",
+  "verse": 29,
+  "ref": "numbers 35:29",
+  "tier": "glm-5.2",
   "chapter": 35,
   "translation": "ءُ اِشاں تُمانی پہ یک قانونءِ راستیءِ چوں اِنت تُمانی نسلانی پہ، تُمانی ہر یک جاگہءِ نشستءَ۔",
   "tokens": [
     {
-      "surface": "וְהָי֨וּ",
+      "surface": "והיו",
       "gloss": "ءُ اِشاں … اِنت"
     },
     {
-      "surface": "אֵ֧לֶּה",
+      "surface": "אלה",
       "gloss": "اِشاں"
     },
     {
-      "surface": "לָכֶ֛ם",
+      "surface": "לכם",
       "gloss": "تُمانی پہ"
     },
     {
-      "surface": "לְחֻקַּ֥ת",
+      "surface": "לחקת",
       "gloss": "قانونءِ چوں"
     },
     {
-      "surface": "מִשְׁפָּ֖ט",
+      "surface": "משפט",
       "gloss": "راستی"
     },
     {
-      "surface": "לְדֹרֹתֵיכֶ֑ם",
+      "surface": "לדרתיכם",
       "gloss": "تُمانی نسلانی پہ"
     },
     {
-      "surface": "בְּכֹ֖ל",
+      "surface": "בכל",
       "gloss": "ہر یک"
     },
     {
-      "surface": "מוֹשְׁבֹתֵיכֶֽם",
+      "surface": "מושבתיכם",
       "gloss": "تُمانی جاگہانی نشست"
     }
-  ],
-  "timestamp": "2026-09-25T22:29:24.437459720Z",
-  "model": "glm-5.3"
+  ]
 }

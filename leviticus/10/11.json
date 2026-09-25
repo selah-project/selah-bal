@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "leviticus 10:11",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:22:12.091654372Z",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ پہ آیانءَ گوَنستیں اسرائیلءِ ⟨את⟩ زہگانءَ ⟨את⟩ پوریں حکمان کہ یاہوہءَ چہ موشہءِ دستءَ آیانءَ گوَشتگ.",
   "tokens": [
     {
-      "surface": "וּלְהוֹרֹ֖ת",
+      "surface": "ולהורת",
       "gloss": "ءُ پہ گوَنستیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اسرائیلءِ زہگانءَ"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگانءَ"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوریں حکمان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "הַ֣חֻקִּ֔ים",
+      "surface": "החקים",
       "gloss": "حکمان"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "דִּבֶּ֧ר",
+      "surface": "דבר",
       "gloss": "گوَشتگ"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֲלֵיהֶ֖ם",
+      "surface": "אליהם",
       "gloss": "آیانءَ"
     },
     {
-      "surface": "בְּיַ֣ד",
+      "surface": "ביד",
       "gloss": "چہ … دستءَ"
     },
     {
-      "surface": "מֹשֶֽׁה",
+      "surface": "משה",
       "gloss": "موشہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:22:12.091654372Z",
-  "model": "glm-5.3"
+  ]
 }

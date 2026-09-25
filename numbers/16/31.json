@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "numbers 16:31",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:26:32.481463804Z",
+  "verse": 31,
+  "ref": "numbers 16:31",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ اے کار بوت کہ چون آییءَ اے گشتانی پوری کت، آ زمین کہ اشانی تہاریں اِنت چیر بیت۔",
   "tokens": [
     {
-      "surface": "וַיְהִי֙",
+      "surface": "ויהי",
       "gloss": "ءُ اے کار بوت کہ"
     },
     {
-      "surface": "כְּכַלֹּת֔וֹ",
+      "surface": "ככלתו",
       "gloss": "چون آییءَ پوری کت"
     },
     {
-      "surface": "לְדַבֵּ֕ר",
+      "surface": "לדבר",
       "gloss": "گوَشتءَ"
     },
     {
-      "surface": "אֵ֥ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گشتان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گشتان"
     },
     {
-      "surface": "הַדְּבָרִ֖ים",
+      "surface": "הדברים",
       "gloss": "اے گشتانی"
     },
     {
-      "surface": "הָאֵ֑לֶּה",
+      "surface": "האלה",
       "gloss": "اے"
     },
     {
-      "surface": "וַתִּבָּקַ֥ע",
+      "surface": "ותבקע",
       "gloss": "ءُ چیر بیت"
     },
     {
-      "surface": "הָאֲדָמָ֖ה",
+      "surface": "האדמה",
       "gloss": "آ زمین"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "תַּחְתֵּיהֶֽם",
+      "surface": "תחתיהם",
       "gloss": "اشانی تہاریں"
     }
-  ],
-  "timestamp": "2026-09-25T22:26:32.481463804Z",
-  "model": "glm-5.3"
+  ]
 }

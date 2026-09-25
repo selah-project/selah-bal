@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "leviticus 25:3",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:24:11.556882637Z",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "شش سال توءَ وتءِ مزرا بیجیں ءُ شش سال توءَ وتءِ انگورتالار پاک کیں ءُ آییءِ حاصل ⟨את⟩ جمع کنیں۔",
   "tokens": [
     {
-      "surface": "שֵׁשׁ",
+      "surface": "שש",
       "gloss": "شش"
     },
     {
-      "surface": "שָׁנִים",
+      "surface": "שנים",
       "gloss": "سال"
     },
     {
-      "surface": "תִּזְרַע",
+      "surface": "תזרע",
       "gloss": "بیجیں"
     },
     {
-      "surface": "שָׂדֶךָ",
+      "surface": "שדך",
       "gloss": "وتءِ مزرا"
     },
     {
-      "surface": "וְשֵׁשׁ",
+      "surface": "ושש",
       "gloss": "ءُ شش"
     },
     {
-      "surface": "שָׁנִים",
+      "surface": "שנים",
       "gloss": "سال"
     },
     {
-      "surface": "תִּזְמֹר",
+      "surface": "תזמר",
       "gloss": "پاک کیں"
     },
     {
-      "surface": "כַּרְמֶךָ",
+      "surface": "כרמך",
       "gloss": "وتءِ انگورتالار"
     },
     {
-      "surface": "וְאָסַפְתָּ",
+      "surface": "ואספת",
       "gloss": "ءُ جمع کنیں"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ حاصل"
     },
     {
-      "surface": "תְּבוּאָתָהּ",
+      "surface": "תבואתה",
       "gloss": "آییءِ حاصل"
     }
-  ],
-  "timestamp": "2026-09-25T22:24:11.556882637Z",
-  "model": "glm-5.3"
+  ]
 }

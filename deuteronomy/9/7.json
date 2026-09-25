@@ -1,115 +1,115 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "deuteronomy 9:7",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:47:41.171293258Z",
+  "verse": 7,
+  "ref": "deuteronomy 9:7",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "یاد آر، نہ ونیت چہ ⟨את⟩ آ کہ تو یاہوہءَ، وتءِ ایلوہیمءَ، پہ مارئیءَ تہ گرم کت؛ چہ روچءَ کہ تو چہ مِتسرایمءِ زمینءَ در برت، تا آں روچءَ کہ تومیں آے جاگہءَ رسیت، تومیں گوں یاہوہءَ سرکش اُستنت۔",
   "tokens": [
     {
-      "surface": "זְכֹר",
+      "surface": "זכר",
       "gloss": "یاد آر"
     },
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תִּשְׁכַּח",
+      "surface": "תשכח",
       "gloss": "ونیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آ کہ تو یاہوہءَ تہ گرم کت"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "הִקְצַפְתָּ",
+      "surface": "הקצפת",
       "gloss": "تہ گرم کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "وتءِ ایلوہیمءَ"
     },
     {
-      "surface": "בַּמִּדְבָּר",
+      "surface": "במדבר",
       "gloss": "پہ مارئیءَ"
     },
     {
-      "surface": "לְמִן",
+      "surface": "למן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יָצָאתָ",
+      "surface": "יצאת",
       "gloss": "در برت"
     },
     {
-      "surface": "מֵאֶרֶץ",
+      "surface": "מארץ",
       "gloss": "چہ زمینءَ"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "בֹּאֲכֶם",
+      "surface": "באכם",
       "gloss": "آئے ئے ئے رسیت"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا آں روچءَ کہ"
     },
     {
-      "surface": "הַמָּקוֹם",
+      "surface": "המקום",
       "gloss": "جاگہءَ"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "آے"
     },
     {
-      "surface": "מַמְרִים",
+      "surface": "ממרים",
       "gloss": "سرکش"
     },
     {
-      "surface": "הֱיִיתֶם",
+      "surface": "הייתם",
       "gloss": "اُستنت"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:47:41.171293258Z",
-  "model": "glm-5.3"
+  ]
 }

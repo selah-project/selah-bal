@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "leviticus 9:4",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:22:48.212165119Z",
+  "verse": 4,
+  "ref": "leviticus 9:4",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ یک گائے ءُ یک قوچگ پہ سلامتیءِ قربانیاں، کہ یاہوہءِ پیشءَ قربان بیت؛ ءُ یک نذرانی گماش پہ تیلءَ مشگ بوتگیں، کیں کہ آییں روچ یاہوہ تماہیءَ ظاہر بیت۔",
   "tokens": [
     {
-      "surface": "וְשׁוֹר",
+      "surface": "ושור",
       "gloss": "ءُ یک گائے"
     },
     {
-      "surface": "וָאַיִל",
+      "surface": "ואיל",
       "gloss": "ءُ یک قوچگ"
     },
     {
-      "surface": "לִשְׁלָמִים",
+      "surface": "לשלמים",
       "gloss": "پہ سلامتیءِ قربانیاں"
     },
     {
-      "surface": "לִזְבֹּחַ",
+      "surface": "לזבח",
       "gloss": "قربان بیت"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וּמִנְחָה",
+      "surface": "ומנחה",
       "gloss": "ءُ یک نذرانی گماش"
     },
     {
-      "surface": "בְּלוּלָה",
+      "surface": "בלולה",
       "gloss": "مشگ بوتگیں"
     },
     {
-      "surface": "בַּשָּׁמֶן",
+      "surface": "בשמן",
       "gloss": "پہ تیلءَ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کیں کہ"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "آییں روچ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "נִרְאָה",
+      "surface": "נראה",
       "gloss": "ظاہر بیت"
     },
     {
-      "surface": "אֲלֵיכֶם",
+      "surface": "אליכם",
       "gloss": "تماہیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:22:48.212165119Z",
-  "model": "glm-5.3"
+  ]
 }

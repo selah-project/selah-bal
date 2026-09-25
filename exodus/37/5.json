@@ -1,14 +1,16 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "exodus 37:5",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:51:29.047377712Z",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "tier": "glm-5.2",
   "chapter": 37,
   "translation": "ءُ آییءَ ⟨את⟩ دارگان تہ گولکاں شت، پہ سندوقءِ پہلوءَ، پہ ⟨את⟩ سندوق چوکیتگ۔",
   "tokens": [
     {
-      "surface": "ויביא",
+      "surface": "ויבא",
       "gloss": "ءُ آییءَ شت"
     },
     {
@@ -49,7 +51,5 @@
       "surface": "הארן",
       "gloss": "سندوق"
     }
-  ],
-  "timestamp": "2026-09-25T21:51:29.047377712Z",
-  "model": "glm-5.3"
+  ]
 }

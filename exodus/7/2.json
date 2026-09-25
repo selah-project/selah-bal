@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "exodus 7:2",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:56:17.138357829Z",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "تو ⟨את⟩ جہے گپ جن کہ من توءَ فرمان دیم، ءُ اہارون تئر برات گوں فرعونءَ گپ جنت، ءُ آ ⟨את⟩ بنی یسرائلءَ چہ آییءِ ڈگارءَ شلگ۔",
   "tokens": [
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "תְדַבֵּר",
+      "surface": "תדבר",
       "gloss": "جہے گپ جن"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "جہے گپ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "جہے"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אֲצַוֶּךָּ",
+      "surface": "אצוך",
       "gloss": "من توءَ فرمان دیم"
     },
     {
-      "surface": "וְאַהֲרֹן",
+      "surface": "ואהרן",
       "gloss": "ءُ اہارون"
     },
     {
-      "surface": "אָחִיךָ",
+      "surface": "אחיך",
       "gloss": "تئر برات"
     },
     {
-      "surface": "יְדַבֵּר",
+      "surface": "ידבר",
       "gloss": "گپ جنت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "گوں"
     },
     {
-      "surface": "פַּרְעֹה",
+      "surface": "פרעה",
       "gloss": "فرعونءَ"
     },
     {
-      "surface": "וְשִׁלַּח",
+      "surface": "ושלח",
       "gloss": "ءُ آ شلگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "بنی یسرائلءَ"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "بنی"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرائل"
     },
     {
-      "surface": "מֵאַרְצוֹ",
+      "surface": "מארצו",
       "gloss": "چہ آییءِ ڈگارءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:56:17.138357829Z",
-  "model": "glm-5.3"
+  ]
 }

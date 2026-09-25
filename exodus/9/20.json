@@ -1,68 +1,68 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "exodus 9:20",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:56:43.004638476Z",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ہُو کہ یاہوہءِ ⟨את⟩ گالءَ چہ فرعونءِ غلامان ڈگریت، آیءَ وتءِ ⟨את⟩ غلامان ءُ ⟨את⟩ مال گھرانی ءَ چمک کت۔",
   "tokens": [
     {
-      "surface": "הַיָּרֵא",
+      "surface": "הירא",
       "gloss": "ہُو کہ … ڈگریت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گال"
     },
     {
-      "surface": "דְּבַר",
+      "surface": "דבר",
       "gloss": "گال"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "מֵעַבְדֵי",
+      "surface": "מעבדי",
       "gloss": "چہ … غلامان"
     },
     {
-      "surface": "פַּרְעֹה",
+      "surface": "פרעה",
       "gloss": "فرعونءِ"
     },
     {
-      "surface": "הֵנִיס",
+      "surface": "הניס",
       "gloss": "چمک کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "غلامان"
     },
     {
-      "surface": "עֲבָדָיו",
+      "surface": "עבדיו",
       "gloss": "وتءِ غلامان"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "مال"
     },
     {
-      "surface": "מִקְנֵהוּ",
+      "surface": "מקנהו",
       "gloss": "وتءِ مال"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "…ءَ"
     },
     {
-      "surface": "הַבָּתִּים",
+      "surface": "הבתים",
       "gloss": "گھرانی"
     }
-  ],
-  "timestamp": "2026-09-25T21:56:43.004638476Z",
-  "model": "glm-5.3"
+  ]
 }

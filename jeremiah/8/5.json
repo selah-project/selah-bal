@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "jeremiah 8:5",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:12:28.462009920Z",
+  "verse": 5,
+  "ref": "jeremiah 8:5",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "چر اے قوم، یروشلم، ہمیشگیں مُرگتءَ پدا لبز کیت؟ اِشاں دروغ‌ئیں گوں مضبوطی گرپتگ اِنت ءُ پدا لبزءَ اِنکاری کتگ اِنت۔",
   "tokens": [
     {
-      "surface": "מַדּ֨וּעַ",
+      "surface": "מדוע",
       "gloss": "چر"
     },
     {
-      "surface": "שׁוֹבְבָ֜ה",
+      "surface": "שובבה",
       "gloss": "پدا لبز کیت"
     },
     {
-      "surface": "הָעָ֥ם",
+      "surface": "העם",
       "gloss": "اے قوم"
     },
     {
-      "surface": "הַזֶּ֛ה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "יְרוּשָׁלִַ֖ם",
+      "surface": "ירושלם",
       "gloss": "یروشلم"
     },
     {
-      "surface": "מְשֻׁבָ֣ה",
+      "surface": "משבה",
       "gloss": "مُرگتءَ"
     },
     {
-      "surface": "נִצַּ֑חַת",
+      "surface": "נצחת",
       "gloss": "ہمیشگیں"
     },
     {
-      "surface": "הֶחֱזִ֨יקוּ֙",
+      "surface": "החזיקו",
       "gloss": "مضبوطی گرپتگ اِنت"
     },
     {
-      "surface": "בַּתַּרְמִ֔יט",
+      "surface": "בתרמית",
       "gloss": "دروغ‌ئیں گوں"
     },
     {
-      "surface": "מֵאֲנ֖וּ",
+      "surface": "מאנו",
       "gloss": "انکاری کتگ اِنت"
     },
     {
-      "surface": "לָשֽׁוּב",
+      "surface": "לשוב",
       "gloss": "پدا لبزءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:12:28.462009920Z",
-  "model": "glm-5.3"
+  ]
 }

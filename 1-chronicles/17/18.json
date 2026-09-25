@@ -1,63 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "1-chronicles 17:18",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:31:42.074252287Z",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "چ دگہ داودءَ پہ تہءِ اِشتی گوَشِتگ بیت، پہ اے کہ تُو ⟨את⟩ تُئے گلم اِشتی گرپت؟ ءُ تُو ⟨את⟩ تُئے گلماں زانتی‌اے۔",
   "tokens": [
     {
-      "surface": "מַה",
+      "surface": "מה",
       "gloss": "چ"
     },
     {
-      "surface": "יּוֹסִ֨יף",
+      "surface": "יוסיף",
       "gloss": "دگہ اِشتی بیت"
     },
     {
-      "surface": "ע֥וֹד",
+      "surface": "עוד",
       "gloss": "دگہ"
     },
     {
-      "surface": "דָּוִ֛יד",
+      "surface": "דויד",
       "gloss": "داودءَ"
     },
     {
-      "surface": "אֵלֶ֖יךָ",
+      "surface": "אליך",
       "gloss": "پہ تُئے پہ"
     },
     {
-      "surface": "לְכָב֣וֹד",
+      "surface": "לכבוד",
       "gloss": "پہ اِشتیءِ پہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُئے گلم"
     },
     {
-      "surface": "עַבְדֶּ֑ךָ",
+      "surface": "עבדך",
       "gloss": "تُئے گلم"
     },
     {
-      "surface": "וְאַתָּ֖ה",
+      "surface": "ואתה",
       "gloss": "ءُ تُو"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُئے گلم"
     },
     {
-      "surface": "עַבְדְּךָ֥",
+      "surface": "עבדך",
       "gloss": "تُئے گلم"
     },
     {
-      "surface": "יָדַ֣עְתָּ",
+      "surface": "ידעת",
       "gloss": "زانتی‌اے"
     }
-  ],
-  "timestamp": "2026-09-25T21:31:42.074252287Z",
-  "model": "glm-5.3"
+  ]
 }

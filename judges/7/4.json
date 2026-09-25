@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "judges 7:4",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:19:21.192515477Z",
+  "verse": 4,
+  "ref": "judges 7:4",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ یاہوہءَ گدعونءَ گوَشت: اَنجا مردم گیش اِنت؛ آیانءَ ⟨את⟩ آپءَ ءَ سر بوار ءُ من آیانءَ اوتے پہ تئے آزمائیتِں؛ ءُ آ بیت کہ آ کہ من تئے گوَشم، اے تئے گوں روت، آ تئے گوں روت؛ ءُ ہر کہ من تئے گوَشم، اے تئے گوں نہ روت، آ گوں نہ روت۔",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
@@ -20,27 +22,27 @@
       "gloss": "ءَ"
     },
     {
-      "surface": "גִּדְעוֹן",
+      "surface": "גדעון",
       "gloss": "گدعونءَ"
     },
     {
-      "surface": "עוֹד",
+      "surface": "עוד",
       "gloss": "اَنجا"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "مردم"
     },
     {
-      "surface": "רַב",
+      "surface": "רב",
       "gloss": "گیش"
     },
     {
-      "surface": "הוֹרֵד",
+      "surface": "הורד",
       "gloss": "بوار"
     },
     {
-      "surface": "אוֹתָם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "آیانءَ"
     },
@@ -49,7 +51,7 @@
       "gloss": "ءَ"
     },
     {
-      "surface": "הַמַּיִם",
+      "surface": "המים",
       "gloss": "آپءَ"
     },
     {
@@ -61,7 +63,7 @@
       "gloss": "پہ تئے"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "اوتے"
     },
     {
@@ -69,39 +71,39 @@
       "gloss": "ءُ آ بیت"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אֹמַר",
+      "surface": "אמר",
       "gloss": "گوَشم"
     },
     {
-      "surface": "אֵלֶיךָ",
+      "surface": "אליך",
       "gloss": "تئے"
     },
     {
-      "surface": "זֶה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "יֵלֵךְ",
+      "surface": "ילך",
       "gloss": "روت"
     },
     {
-      "surface": "אִתָּךְ",
+      "surface": "אתך",
       "gloss": "⟨את⟩ گوں تئے"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "יֵלֵךְ",
+      "surface": "ילך",
       "gloss": "روت"
     },
     {
-      "surface": "אִתָּךְ",
+      "surface": "אתך",
       "gloss": "⟨את⟩ گوں تئے"
     },
     {
@@ -109,46 +111,44 @@
       "gloss": "ءُ ہر"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אֹמַר",
+      "surface": "אמר",
       "gloss": "گوَشم"
     },
     {
-      "surface": "אֵלֶיךָ",
+      "surface": "אליך",
       "gloss": "تئے"
     },
     {
-      "surface": "זֶה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יֵלֵךְ",
+      "surface": "ילך",
       "gloss": "روت"
     },
     {
-      "surface": "עִמָּךְ",
+      "surface": "עמך",
       "gloss": "گوں تئے"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יֵלֵךְ",
+      "surface": "ילך",
       "gloss": "روت"
     }
-  ],
-  "timestamp": "2026-09-25T22:19:21.192515477Z",
-  "model": "glm-5.3"
+  ]
 }

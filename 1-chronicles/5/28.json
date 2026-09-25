@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "1-chronicles 5:28",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:32:15.897992934Z",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ کِہاتءِ زہگان: عَمرام، یِتسہار، ءُ حِبرون، ءُ عُزییل۔",
   "tokens": [
     {
-      "surface": "וּבְנֵ֖י",
+      "surface": "ובני",
       "gloss": "ءُ …ءِ زہگان"
     },
     {
-      "surface": "קְהָ֑ת",
+      "surface": "קהת",
       "gloss": "کِہات"
     },
     {
-      "surface": "עַמְרָ֣ם",
+      "surface": "עמרם",
       "gloss": "عَمرام"
     },
     {
-      "surface": "יִצְהָ֔ר",
+      "surface": "יצהר",
       "gloss": "یِتسہار"
     },
     {
-      "surface": "וְחֶבְר֖וֹן",
+      "surface": "וחברון",
       "gloss": "ءُ حِبرون"
     },
     {
-      "surface": "וְעֻזִּיאֵֽל",
+      "surface": "ועזיאל",
       "gloss": "ءُ عُزییل"
     }
-  ],
-  "timestamp": "2026-09-25T21:32:15.897992934Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "ecclesiastes 10:5",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:33:50.622656301Z",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "یک شرارت ماں تہ شمس گندیت، چوش یک لغزش کہ چہ حاکمءِ پیشءَ در کپیت۔",
   "tokens": [
@@ -16,7 +18,7 @@
       "gloss": "یک شرارت"
     },
     {
-      "surface": "ראיתיתי",
+      "surface": "ראיתי",
       "gloss": "ماں گندیت"
     },
     {
@@ -43,7 +45,5 @@
       "surface": "השליט",
       "gloss": "حاکم"
     }
-  ],
-  "timestamp": "2026-09-25T22:33:50.622656301Z",
-  "model": "glm-5.3"
+  ]
 }

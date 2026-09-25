@@ -1,91 +1,91 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "exodus 3:1",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:52:55.737371594Z",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ موشہ گوپتانیں چروک اَت — ⟨את⟩ گوپتانِ یتروءِ، آییءِ دماڑ، مِتسراینی کاہن — ءُ آیی ⟨את⟩ گوپتان ءَ مارکءِ پشتا روان کت ءُ ایلوہیمءِ ٹاکءَ رسیت، خوریبءَ۔",
   "tokens": [
     {
-      "surface": "וּמֹשֶׁ֗ה",
+      "surface": "ומשה",
       "gloss": "ءُ موشہ"
     },
     {
-      "surface": "הָיָ֥ה",
+      "surface": "היה",
       "gloss": "اَت"
     },
     {
-      "surface": "רֹעֶ֛ה",
+      "surface": "רעה",
       "gloss": "چروک"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گوپتان"
     },
     {
-      "surface": "צֹ֛אן",
+      "surface": "צאן",
       "gloss": "گوپتان"
     },
     {
-      "surface": "יִתְר֥וֹ",
+      "surface": "יתרו",
       "gloss": "یتروءِ"
     },
     {
-      "surface": "חֹתְנ֖וֹ",
+      "surface": "חתנו",
       "gloss": "آییءِ دماڑ"
     },
     {
-      "surface": "כֹּהֵ֣ן",
+      "surface": "כהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "מִדְיָ֑ן",
+      "surface": "מדין",
       "gloss": "مِتسراینی"
     },
     {
-      "surface": "וַיִּנְהַ֤ג",
+      "surface": "וינהג",
       "gloss": "ءُ روان کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گوپتان"
     },
     {
-      "surface": "הַצֹּאן֙",
+      "surface": "הצאן",
       "gloss": "گوپتان"
     },
     {
-      "surface": "אַחַ֣ר",
+      "surface": "אחר",
       "gloss": "پشتا"
     },
     {
-      "surface": "הַמִּדְבָּ֔ר",
+      "surface": "המדבר",
       "gloss": "مارکءِ"
     },
     {
-      "surface": "וַיָּבֹ֛א",
+      "surface": "ויבא",
       "gloss": "ءُ رسیت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "-ءَ"
     },
     {
-      "surface": "הַ֥ר",
+      "surface": "הר",
       "gloss": "ٹاک"
     },
     {
-      "surface": "הָאֱלֹהִ֖ים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "חֹרֵֽבָה",
+      "surface": "חרבה",
       "gloss": "خوریبءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:52:55.737371594Z",
-  "model": "glm-5.3"
+  ]
 }

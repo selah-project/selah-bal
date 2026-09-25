@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "proverbs 31:9",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:30:37.229339789Z",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "پت کن وتیں مُچھءَ، راستیءَ فیصلہ دہ، ءُ داد مسکینءَ ءُ گریبانءَ۔",
   "tokens": [
     {
-      "surface": "פְּתַח",
+      "surface": "פתח",
       "gloss": "پت کن"
     },
     {
-      "surface": "פִּ֥יךָ",
+      "surface": "פיך",
       "gloss": "وتیں مُچھءَ"
     },
     {
-      "surface": "שְׁפָט",
+      "surface": "שפט",
       "gloss": "فیصلہ دہ"
     },
     {
-      "surface": "צֶ֑דֶק",
+      "surface": "צדק",
       "gloss": "راستیءَ"
     },
     {
-      "surface": "וְ֝דִ֗ין",
+      "surface": "ודין",
       "gloss": "ءُ داد"
     },
     {
-      "surface": "עָנִ֥י",
+      "surface": "עני",
       "gloss": "مسکینءَ"
     },
     {
-      "surface": "וְאֶבְיֽוֹן",
+      "surface": "ואביון",
       "gloss": "ءُ گریبانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:30:37.229339789Z",
-  "model": "glm-5.3"
+  ]
 }

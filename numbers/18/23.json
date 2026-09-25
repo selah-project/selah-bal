@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "numbers 18:23",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:28:25.521693941Z",
+  "verse": 23,
+  "ref": "numbers 18:23",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ لوی ہم ⟨את⟩ ملاقاتءِ گدانءِ کار کنیت، ءُ اِشاں وتی گناهءَ چال کننت — یک دائمیں قانون شمائیں رجاںءِ پہ؛ ءُ بنی‌یسرائیلیانی زہگانی میاں اِشاں وتر نہ گننت۔",
   "tokens": [
     {
-      "surface": "וְעָבַ֨ד",
+      "surface": "ועבד",
       "gloss": "ءُ … کنیت"
     },
     {
-      "surface": "הַלֵּוִ֜י",
+      "surface": "הלוי",
       "gloss": "لوی"
     },
     {
-      "surface": "ה֗וּא",
+      "surface": "הוא",
       "gloss": "ہم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ملاقاتءِ گدانءِ کار"
     },
     {
-      "surface": "עֲבֹדַת֙",
+      "surface": "עבדת",
       "gloss": "کار"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵ֔ד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וְהֵ֖ם",
+      "surface": "והם",
       "gloss": "ءُ اِشاں"
     },
     {
-      "surface": "יִשְׂא֣וּ",
+      "surface": "ישאו",
       "gloss": "چال کننت"
     },
     {
-      "surface": "עֲוֺנָ֑ם",
+      "surface": "עונם",
       "gloss": "وتی گناهءَ"
     },
     {
-      "surface": "חֻקַּ֤ת",
+      "surface": "חקת",
       "gloss": "قانون"
     },
     {
-      "surface": "עוֹלָם֙",
+      "surface": "עולם",
       "gloss": "دائمیں"
     },
     {
-      "surface": "לְדֹרֹ֣תֵיכֶ֔ם",
+      "surface": "לדרתיכם",
       "gloss": "شمائیں رجاںءِ پہ"
     },
     {
-      "surface": "וּבְתוֹךְ֙",
+      "surface": "ובתוך",
       "gloss": "ءُ … میاں"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "יִשְׂרָאֵ֔ל",
+      "surface": "ישראל",
       "gloss": "بنی‌یسرائیلیانی"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִנְחֲל֖וּ",
+      "surface": "ינחלו",
       "gloss": "گننت"
     },
     {
-      "surface": "נַחֲלָֽה",
+      "surface": "נחלה",
       "gloss": "وتر"
     }
-  ],
-  "timestamp": "2026-09-25T22:28:25.521693941Z",
-  "model": "glm-5.3"
+  ]
 }

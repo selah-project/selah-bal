@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "ruth 3:2",
   "book": "ruth",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:32:39.261713859Z",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ اِشا بُز، بُعز ⟨اِنت⟩ چہ ماںءِ شناساں، گوں ⟨את⟩ آییءِ جنکان تُو بوتے؟ اِشا آ شپ جوءِ گدانءَ ⟨את⟩ پھوکیت",
   "tokens": [
     {
-      "surface": "וְעַתָּה",
+      "surface": "ועתה",
       "gloss": "ءُ اِشا"
     },
     {
-      "surface": "הֲלֹא",
+      "surface": "הלא",
       "gloss": "بُز"
     },
     {
-      "surface": "בֹעַז",
+      "surface": "בעז",
       "gloss": "بُعز ⟨بواز⟩"
     },
     {
-      "surface": "מֹדַעְתָּנוּ",
+      "surface": "מדעתנו",
       "gloss": "ماںءِ شناساں"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הָיִית",
+      "surface": "היית",
       "gloss": "تُو بوتے"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "گوں ⟨את⟩",
       "marks": "آییءِ جنکان"
     },
     {
-      "surface": "נַעֲרֹתָיו",
+      "surface": "נערותיו",
       "gloss": "آییءِ جنکان"
     },
     {
-      "surface": "הִנֵּה",
+      "surface": "הנה",
       "gloss": "اِشا"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "זֹרֶה",
+      "surface": "זרה",
       "gloss": "پھوکیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "جوءِ گدان"
     },
     {
-      "surface": "גֹּרֶן",
+      "surface": "גרן",
       "gloss": "جوءِ گدان"
     },
     {
-      "surface": "הַשְּׂעֹרִים",
+      "surface": "השערים",
       "gloss": "جوءِ"
     },
     {
-      "surface": "הַלַּיְלָה",
+      "surface": "הלילה",
       "gloss": "آ شپ"
     }
-  ],
-  "timestamp": "2026-09-25T22:32:39.261713859Z",
-  "model": "glm-5.3"
+  ]
 }

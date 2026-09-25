@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "nehemiah 13:7",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:24:44.660878452Z",
+  "verse": 7,
+  "ref": "nehemiah 13:7",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ آءُ یروشلمءَ اَم، ءُ آءُ بدکاریءَ زانتم کہ الیاشیبءَ پہ توبیہ کتگ — کہ آییءَ پہ یک کمرہ ایلوہیمءِ گدانءِ حیاطاناں تہار بکٹ.",
   "tokens": [
     {
-      "surface": "וָאָבוֹא",
+      "surface": "ואבוא",
       "gloss": "ءُ آءُ اَم"
     },
     {
-      "surface": "לִירוּשָׁלִַם",
+      "surface": "לירושלם",
       "gloss": "یروشلمءَ"
     },
     {
-      "surface": "וָאָבִינָה",
+      "surface": "ואבינה",
       "gloss": "ءُ آءُ زانتم"
     },
     {
-      "surface": "בָּרָעָה",
+      "surface": "ברעה",
       "gloss": "بدکاریءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָשָׂה",
+      "surface": "עשה",
       "gloss": "کتگ"
     },
     {
-      "surface": "אֶלְיָשִׁיב",
+      "surface": "אלישיב",
       "gloss": "الْیاشیب"
     },
     {
-      "surface": "לְטוֹבִיָּה",
+      "surface": "לטוביה",
       "gloss": "پہ توبیہ"
     },
     {
-      "surface": "לַעֲשׂוֹת",
+      "surface": "לעשות",
       "gloss": "بکاگءَ پہ"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ پہ"
     },
     {
-      "surface": "נִשְׁכָּה",
+      "surface": "נשכה",
       "gloss": "کمرہ"
     },
     {
-      "surface": "בְּחַצְרֵי",
+      "surface": "בחצרי",
       "gloss": "حیاطاناں تہ"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدانءِ"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "ایلوہیم"
     }
-  ],
-  "timestamp": "2026-09-25T22:24:44.660878452Z",
-  "model": "glm-5.3"
+  ]
 }

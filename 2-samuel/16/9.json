@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "2-samuel 16:9",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:45:06.097373101Z",
+  "verse": 9,
+  "ref": "2-samuel 16:9",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ اَبیشیءَ زرواہءِ زہگءَ شاہءَ گوَشت: چُہ پہ اے مرگتگ کُتی ⟨את⟩ میرءِ من شاہءِ دشنام دیت؟ بزن من گذریت، ءُ ⟨את⟩ آییءِ سر در کنن۔",
   "tokens": [
@@ -12,80 +14,78 @@
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אבישַׁי",
+      "surface": "אבישי",
       "gloss": "اَبیشیءَ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "צְרוּיָה",
+      "surface": "צרויה",
       "gloss": "زرواہءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "..."
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہءَ"
     },
     {
-      "surface": "לָמָּה",
+      "surface": "למה",
       "gloss": "چُہ پہ"
     },
     {
-      "surface": "יְקַלֵּל",
+      "surface": "יקלל",
       "gloss": "دشنام دیت"
     },
     {
-      "surface": "הַכֶּלֶב",
+      "surface": "הכלב",
       "gloss": "کُتی"
     },
     {
-      "surface": "הַמֵּת",
+      "surface": "המת",
       "gloss": "مرگتگ"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "میرءِ من شاہءِ"
     },
     {
-      "surface": "אֲדֹנִי",
+      "surface": "אדני",
       "gloss": "میرءِ من"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہءِ"
     },
     {
-      "surface": "אֶעְבְּרָה",
+      "surface": "אעברה",
       "gloss": "من گذریت"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
       "gloss": "بزن"
     },
     {
-      "surface": "וְאָסִירָה",
+      "surface": "ואסירה",
       "gloss": "ءُ در کنن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ سر"
     },
     {
-      "surface": "רֹאשׁוֹ",
+      "surface": "ראשו",
       "gloss": "آییءِ سر"
     }
-  ],
-  "timestamp": "2026-09-25T21:45:06.097373101Z",
-  "model": "glm-5.3"
+  ]
 }

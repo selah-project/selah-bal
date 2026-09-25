@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "leviticus 23:21",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:23:44.302926446Z",
+  "verse": 21,
+  "ref": "leviticus 23:21",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "ءُ توشمی اے روچءِ وتءَ میقراے پاک بانگ کنیت — آ توشمیءِ ⟨اِنت⟩؛ ہر کاریں خدمتءِ کار نہ کنیت — ہمیشءِ حکم ⟨اِنت⟩ تہ ہر توشمیءِ جاگہاں، توشمیءِ نسلاں پہ۔",
   "tokens": [
     {
-      "surface": "וּקְרָאתֶם",
+      "surface": "וקראתם",
       "gloss": "ءُ بانگ کنیت"
     },
     {
-      "surface": "בְּעֶצֶם",
+      "surface": "בעצם",
       "gloss": "وتءَ"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "روچءِ اے"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "מִקְרָא",
+      "surface": "מקרא",
       "gloss": "میقراے"
     },
     {
-      "surface": "קֹדֶשׁ",
+      "surface": "קדש",
       "gloss": "پاک"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "توشمیءِ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "מְלֶאכֶת",
+      "surface": "מלאכת",
       "gloss": "کاریں"
     },
     {
-      "surface": "עֲבֹדָה",
+      "surface": "עבדה",
       "gloss": "خدمتءِ کار"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תַּעֲשׂוּ",
+      "surface": "תעשו",
       "gloss": "کنیت"
     },
     {
-      "surface": "חֻקָּה",
+      "surface": "חקת",
       "gloss": "حکم"
     },
     {
-      "surface": "עוֹלָם",
+      "surface": "עולם",
       "gloss": "ہمیشءِ"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "تہ ہر"
     },
     {
-      "surface": "מוֹשְׁבֹתֵיכֶם",
+      "surface": "מושבתיכם",
       "gloss": "توشمیءِ جاگہاں"
     },
     {
-      "surface": "לְדֹרֹתֵיכֶם",
+      "surface": "לדרתיכם",
       "gloss": "توشمیءِ نسلاں پہ"
     }
-  ],
-  "timestamp": "2026-09-25T22:23:44.302926446Z",
-  "model": "glm-5.3"
+  ]
 }

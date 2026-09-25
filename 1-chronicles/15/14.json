@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "1-chronicles 15:14",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:31:17.563141423Z",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ کاہنان ءُ لویان وت ؁ مقدس کت پہ یاہوہءِ، ایلوہیمءِ یسرائیلءِ صندوقءَ چیڑنگءَ پہ۔",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "ءُ وت مقدس کت"
     },
     {
-      "surface": "ہכהנים",
+      "surface": "הכהנים",
       "gloss": "کاہنان"
     },
     {
@@ -44,7 +46,5 @@
       "surface": "ישראל",
       "gloss": "یسرائیلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T21:31:17.563141423Z",
-  "model": "glm-5.3"
+  ]
 }

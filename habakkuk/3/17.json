@@ -1,93 +1,93 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "habakkuk 3:17",
   "book": "habakkuk",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:07:32.322475418Z",
+  "verse": 17,
+  "ref": "habakkuk 3:17",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "چہ انجیرئی دار نہ گُل دیت، ءُ تہ گوپانانءَ پھڈ نیست؛ زیتونءِ کار دروغ گوَشت، ءُ شبدزاں رزق نہ جوڑ کت؛ چہ گدانءَ گۏن چینٹ بوتگ، ءُ تہ رانگہاں ہچ گاوار نیست.",
   "tokens": [
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "چہ"
     },
     {
-      "surface": "תְאֵנָ֣ה",
+      "surface": "תאנה",
       "gloss": "انجیرئی دار"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִפְרָ֗ח",
+      "surface": "תפרח",
       "gloss": "گُل دیت"
     },
     {
-      "surface": "וְאֵ֤ין",
+      "surface": "ואין",
       "gloss": "ءُ نیست"
     },
     {
-      "surface": "יְבוּל֙",
+      "surface": "יבול",
       "gloss": "پھڈ"
     },
     {
-      "surface": "בַּגְּפָנִ֔ים",
+      "surface": "בגפנים",
       "gloss": "تہ گوپانانءَ"
     },
     {
-      "surface": "כִּחֵשׁ֙",
+      "surface": "כחש",
       "gloss": "دروغ گوَشت"
     },
     {
-      "surface": "מַעֲשֵׂ֥ה",
+      "surface": "מעשה",
       "gloss": "کار"
     },
     {
-      "surface": "זַ֔יִת",
+      "surface": "זית",
       "gloss": "زیتونءِ"
     },
     {
-      "surface": "וּשְׁדֵמ֖וֹת",
+      "surface": "ושדמות",
       "gloss": "ءُ شبدزاں"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "עָשָׂ֣ה",
+      "surface": "עשה",
       "gloss": "جوڑ کت"
     },
     {
-      "surface": "אֹ֫כֶל",
+      "surface": "אכל",
       "gloss": "رزق"
     },
     {
-      "surface": "גָּזַ֤ר",
+      "surface": "גזר",
       "gloss": "چینٹ بوتگ"
     },
     {
-      "surface": "מִמִּכְלָה֙",
+      "surface": "ממכלה",
       "gloss": "چہ گدانءَ"
     },
     {
-      "surface": "צֹ֔אן",
+      "surface": "צאן",
       "gloss": "گۏن"
     },
     {
-      "surface": "וְאֵ֥ין",
+      "surface": "ואין",
       "gloss": "ءُ نیست"
     },
     {
-      "surface": "בָּקָ֖ר",
+      "surface": "בקר",
       "gloss": "گاوار"
     },
     {
-      "surface": "בָּרְפָתִֽים",
+      "surface": "ברפתים",
       "gloss": "تہ رانگہاں"
     }
-  ],
-  "timestamp": "2026-09-25T22:07:32.322475418Z",
-  "model": "glm-5.3"
+  ]
 }

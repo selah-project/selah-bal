@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "2-kings 25:12",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:41:02.341981171Z",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ چہ زمینءِ کمبشتاناں رب طباہان کتنگے دپت پہ انگوریں دار ءُ پہ زمین جوڑوک.",
   "tokens": [
     {
-      "surface": "וּמִדַּלַּת",
+      "surface": "ומדלת",
       "gloss": "ءُ چہ کمبشتاناں"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "הִשְׁאִיר",
+      "surface": "השאיר",
       "gloss": "دپت"
     },
     {
-      "surface": "רַב",
+      "surface": "רב",
       "gloss": "سردار"
     },
     {
-      "surface": "טַבָּחִים",
+      "surface": "טבחים",
       "gloss": "طباہان"
     },
     {
-      "surface": "לָכֹרְמִים",
+      "surface": "לכרמים",
       "gloss": "پہ انگوریں دار"
     },
     {
-      "surface": "וּלְיֹגְבִים",
+      "surface": "וליגבים",
       "gloss": "ءُ پہ زمین جوڑوک"
     }
-  ],
-  "timestamp": "2026-09-25T21:41:02.341981171Z",
-  "model": "glm-5.3"
+  ]
 }

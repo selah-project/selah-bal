@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "deuteronomy 5:3",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:47:52.118099018Z",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "نہ گوں ماسیں ماں یاہوہءَ ⟨את⟩ اے عہد بر کت، بلے ⟨את⟩ گوں ماں — ما، اے، اِشتی اے روچءَ، ہمگ ما زندگ اَنت۔",
   "tokens": [
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩ گوں"
     },
     {
-      "surface": "אֲבֹתֵ֔ינוּ",
+      "surface": "אבתינו",
       "gloss": "ماسیں ماں"
     },
     {
-      "surface": "כָּרַ֥ת",
+      "surface": "כרת",
       "gloss": "بر کت"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے عہد"
     },
     {
-      "surface": "הַבְּרִ֣ית",
+      "surface": "הברית",
       "gloss": "عہدءَ"
     },
     {
-      "surface": "הַזֹּ֑את",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "بلے"
     },
     {
-      "surface": "אִתָּ֗נוּ",
+      "surface": "אתנו",
       "gloss": "⟨את⟩ گوں ماں"
     },
     {
-      "surface": "אֲנַ֨חְנוּ",
+      "surface": "אנחנו",
       "gloss": "ما"
     },
     {
-      "surface": "אֵ֥לֶּה",
+      "surface": "אלה",
       "gloss": "اے"
     },
     {
-      "surface": "פֹּ֛ה",
+      "surface": "פה",
       "gloss": "اِشتی"
     },
     {
-      "surface": "הַיּ֖וֹם",
+      "surface": "היום",
       "gloss": "اے روچءَ"
     },
     {
-      "surface": "כֻּלָּ֥נוּ",
+      "surface": "כלנו",
       "gloss": "ہمگ ما"
     },
     {
-      "surface": "חַיִּֽים",
+      "surface": "חיים",
       "gloss": "زندگ"
     }
-  ],
-  "timestamp": "2026-09-25T21:47:52.118099018Z",
-  "model": "glm-5.3"
+  ]
 }

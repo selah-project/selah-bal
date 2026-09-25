@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "ezekiel 46:18",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:59:12.671900728Z",
+  "verse": 18,
+  "ref": "ezekiel 46:18",
+  "tier": "glm-5.2",
   "chapter": 46,
   "translation": "ءُ سردار قومءِ ورت نہ گرنت پہ اِشانیءَ ستم کنتگ، چہ اِشانی ملکءَ؛ چہ وتئین ملکءَ وتئین زہگانءَ ⟨את⟩ ورت دنت، پہ اے کہ منی قوم پروش نہ بنت، ہر ئے چہ وتئین ملکءَ.",
   "tokens": [
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִקָּח֨",
+      "surface": "יקח",
       "gloss": "گرنت"
     },
     {
-      "surface": "הַנָּשִׂ֜יא",
+      "surface": "הנשיא",
       "gloss": "سردار"
     },
     {
-      "surface": "מִנַּחֲלַ֣ת",
+      "surface": "מנחלת",
       "gloss": "چہ ورت"
     },
     {
-      "surface": "הָעָ֗ם",
+      "surface": "העם",
       "gloss": "قومءِ"
     },
     {
-      "surface": "לְהֽוֹנֹתָם֙",
+      "surface": "להונתם",
       "gloss": "پہ اِشانیءَ ستم کنتگ"
     },
     {
-      "surface": "מֵאֲחֻזָּתָ֔ם",
+      "surface": "מאחזתם",
       "gloss": "چہ اِشانی ملکءَ"
     },
     {
-      "surface": "מֵאֲחֻזָּת֖וֹ",
+      "surface": "מאחזתו",
       "gloss": "چہ وتئین ملکءَ"
     },
     {
-      "surface": "יַנְחִ֣ל",
+      "surface": "ינחל",
       "gloss": "ورت دنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتئین زہگان"
     },
     {
-      "surface": "בָּנָ֑יו",
+      "surface": "בניו",
       "gloss": "وتئین زہگانءَ"
     },
     {
-      "surface": "לְמַ֨עַן֙",
+      "surface": "למען",
       "gloss": "پہ اے کہ"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָפֻ֣צוּ",
+      "surface": "יפצו",
       "gloss": "پروش بنت"
     },
     {
-      "surface": "עַמִּ֔י",
+      "surface": "עמי",
       "gloss": "منی قوم"
     },
     {
-      "surface": "אִ֖ישׁ",
+      "surface": "איש",
       "gloss": "ہر ئے"
     },
     {
-      "surface": "מֵאֲחֻזָתֽוֹ",
+      "surface": "מאחזתו",
       "gloss": "چہ وتئین ملکءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:59:12.671900728Z",
-  "model": "glm-5.3"
+  ]
 }

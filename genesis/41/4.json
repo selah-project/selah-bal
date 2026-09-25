@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "genesis 41:4",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:04:06.822046228Z",
+  "verse": 4,
+  "ref": "genesis 41:4",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "ءُ گاوان بدءِ چهرہ ءُ کمگوشتءَ ⟨את⟩ ہپت گاوان سوہنءِ چهرہ ءُ ٹُلیں⟨…⟩ خور کت — ءُ پھرعوہ چون اُستات.",
   "tokens": [
     {
-      "surface": "וַתֹּאכַ֣לְנָה",
+      "surface": "ותאכלנה",
       "gloss": "ءُ خور کت"
     },
     {
-      "surface": "הַפָּר֗וֹת",
+      "surface": "הפרות",
       "gloss": "گاوان"
     },
     {
-      "surface": "רָע֤וֹת",
+      "surface": "רעות",
       "gloss": "بد"
     },
     {
-      "surface": "הַמַּרְאֶה֙",
+      "surface": "המראה",
       "gloss": "ءِ چهرہ"
     },
     {
-      "surface": "וְדַקֹּ֣ת",
+      "surface": "ודקת",
       "gloss": "ءُ کمگوشت"
     },
     {
-      "surface": "הַבָּשָׂ֔ר",
+      "surface": "הבשר",
       "gloss": "گوشتءِ"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہپت گاوان سوہنءِ چهرہ ءُ ٹُلیں"
     },
     {
-      "surface": "שֶׁ֣בַע",
+      "surface": "שבע",
       "gloss": "ہپت"
     },
     {
-      "surface": "הַפָּר֔וֹת",
+      "surface": "הפרות",
       "gloss": "گاوان"
     },
     {
-      "surface": "יְפֹ֥ת",
+      "surface": "יפת",
       "gloss": "سوہن"
     },
     {
-      "surface": "הַמַּרְאֶ֖ה",
+      "surface": "המראה",
       "gloss": "ءِ چهرہ"
     },
     {
-      "surface": "וְהַבְּרִיאֹ֑ת",
+      "surface": "והבריאת",
       "gloss": "ءُ ٹُلیں"
     },
     {
-      "surface": "וַיִּיקַ֖ץ",
+      "surface": "וייקץ",
       "gloss": "ءُ چون اُستات"
     },
     {
-      "surface": "פַּרְעֹֽה",
+      "surface": "פרעה",
       "gloss": "پھرعوہ"
     }
-  ],
-  "timestamp": "2026-09-25T22:04:06.822046228Z",
-  "model": "glm-5.3"
+  ]
 }

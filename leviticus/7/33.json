@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "leviticus 7:33",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:24:18.895411099Z",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "آ کہ چہ اہارونءِ زہگانانءَ شلماںءِ آپءَ ⟨את⟩ ءُ چربیءَ ⟨את⟩ پیش کنت، آییءَ پہ بَشءِ راست سوقءِ اِنت پہ حصہ",
   "tokens": [
     {
-      "surface": "הַמַּקְרִ֞יב",
+      "surface": "המקריב",
       "gloss": "پیش کنوک"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آپءَ"
     },
     {
-      "surface": "דַּ֧ם",
+      "surface": "דם",
       "gloss": "آپءَ"
     },
     {
-      "surface": "הַשְּׁלָמִ֛ים",
+      "surface": "השלמים",
       "gloss": "شلماںءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "چربیءَ"
     },
     {
-      "surface": "הַחֵ֖לֶב",
+      "surface": "החלב",
       "gloss": "چربیءَ"
     },
     {
-      "surface": "מִבְּנֵ֣י",
+      "surface": "מבני",
       "gloss": "زہگانانءَ چہ"
     },
     {
-      "surface": "אַהֲרֹ֑ן",
+      "surface": "אהרן",
       "gloss": "اہارون"
     },
     {
-      "surface": "ל֧וֹ",
+      "surface": "לו",
       "gloss": "آییءَ پہ"
     },
     {
-      "surface": "תִהְיֶ֛ה",
+      "surface": "תהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "שׁ֥וֹק",
+      "surface": "שוק",
       "gloss": "سوق"
     },
     {
-      "surface": "הַיָּמִ֖ין",
+      "surface": "הימין",
       "gloss": "راستءِ"
     },
     {
-      "surface": "לְמָנָֽה",
+      "surface": "למנה",
       "gloss": "حصہءِ پہ"
     }
-  ],
-  "timestamp": "2026-09-25T22:24:18.895411099Z",
-  "model": "glm-5.3"
+  ]
 }

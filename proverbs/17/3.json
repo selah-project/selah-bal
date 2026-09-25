@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "proverbs 17:3",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:30:44.989347655Z",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "کورہ پہ چاندی ءُ بوتائی پہ سونا، ءُ یاہوہ دلاںءِ بچاروک اِنت.",
   "tokens": [
     {
-      "surface": "מַצְרֵף",
+      "surface": "מצרף",
       "gloss": "کورہ"
     },
     {
-      "surface": "לַכֶּסֶף",
+      "surface": "לכסף",
       "gloss": "پہ چاندی"
     },
     {
-      "surface": "וְכוּר",
+      "surface": "וכור",
       "gloss": "ءُ بوتائی"
     },
     {
-      "surface": "לַזָּהָב",
+      "surface": "לזהב",
       "gloss": "پہ سونا"
     },
     {
-      "surface": "וּבֹחֵן",
+      "surface": "ובחן",
       "gloss": "ءُ بچاروک"
     },
     {
-      "surface": "לִבּוֹת",
+      "surface": "לבות",
       "gloss": "دلاںءِ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T22:30:44.989347655Z",
-  "model": "glm-5.3"
+  ]
 }

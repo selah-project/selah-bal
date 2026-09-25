@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "isaiah 10:26",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:04:45.997030243Z",
+  "verse": 26,
+  "ref": "isaiah 10:26",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ یاہوہ سباؤت آییءِ سرءَ چابُک اَڑانگ کت، چوش کہ مارگءِ مِدیان بٹِ عورِبءَ؛ ءُ آییءِ عصا سمندرءِ سرءَ اِنت، ءُ آییءَ مِتسرایمءِ رہءَ اُچ کت۔",
   "tokens": [
     {
-      "surface": "וְעוֹרֵר",
+      "surface": "ועורר",
       "gloss": "ءُ اَڑانگ کت"
     },
     {
-      "surface": "עָלָיו",
+      "surface": "עליו",
       "gloss": "آییءِ سرءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "צְבָאוֹת",
+      "surface": "צבאות",
       "gloss": "سباؤت"
     },
     {
-      "surface": "שׁוֹט",
+      "surface": "שוט",
       "gloss": "چابُک"
     },
     {
-      "surface": "כְּמַכַּת",
+      "surface": "כמכת",
       "gloss": "چوش کہ مارگ"
     },
     {
-      "surface": "מִדְיָן",
+      "surface": "מדין",
       "gloss": "مِدیانءِ"
     },
     {
-      "surface": "בְּצוּר",
+      "surface": "בצור",
       "gloss": "بٹءَ"
     },
     {
-      "surface": "עֹרֵב",
+      "surface": "עורב",
       "gloss": "عورِب"
     },
     {
-      "surface": "וּמַטֵּהוּ",
+      "surface": "ומטהו",
       "gloss": "ءُ آییءِ عصا"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "…ءِ سرءَ"
     },
     {
-      "surface": "הַיָּם",
+      "surface": "הים",
       "gloss": "سمندر"
     },
     {
-      "surface": "וּנְשָׂאָוּ",
+      "surface": "ונשאו",
       "gloss": "ءُ آییءَ اُچ کت"
     },
     {
-      "surface": "בְּדֶרֶךְ",
+      "surface": "בדרך",
       "gloss": "رہءَ"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایم"
     }
-  ],
-  "timestamp": "2026-09-25T22:04:45.997030243Z",
-  "model": "glm-5.3"
+  ]
 }

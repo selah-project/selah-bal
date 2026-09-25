@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "job 24:25",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:13:35.230020754Z",
+  "verse": 25,
+  "ref": "job 24:25",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ءُ اگر نہ اِنت اَنت، کے منءَ دروگگو شہ دیت ءُ منی گال ⟨هیچ⟩ءَ شہ دیت؟",
   "tokens": [
@@ -20,7 +22,7 @@
       "gloss": "اَنت"
     },
     {
-      "surface": "مי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
@@ -39,7 +41,5 @@
       "surface": "מלתי",
       "gloss": "منی گال"
     }
-  ],
-  "timestamp": "2026-09-25T22:13:35.230020754Z",
-  "model": "glm-5.3"
+  ]
 }

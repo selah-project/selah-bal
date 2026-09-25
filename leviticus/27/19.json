@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "leviticus 27:19",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:24:07.097870390Z",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ اگر زرءَ پاک کنوک بی‌شک آییءَ گاؤل کنت — ⟨את⟩ زر کہ آییءَ پاک کتگ — ءُ ⟨את⟩ آییءَ واپس گرچنت، ءُ چہ تُہءِ اندازہ ءُ رُپہءِ پنجمی حصہ آییءِ سرءَ زیاد کنت، ءُ آ زر آییءِ پہ اٹکیت۔",
   "tokens": [
     {
-      "surface": "וְאִם",
+      "surface": "ואם",
       "gloss": "ءُ اگر"
     },
     {
-      "surface": "גָּאֹל",
+      "surface": "גאל",
       "gloss": "بی‌شک گاؤل گرگ"
     },
     {
-      "surface": "יִגְאַל",
+      "surface": "יגאל",
       "gloss": "گرچنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زر"
     },
     {
-      "surface": "הַשָּׂדֶה",
+      "surface": "השדה",
       "gloss": "زر"
     },
     {
-      "surface": "הַמַּקְדִּישׁ",
+      "surface": "המקדיש",
       "gloss": "پاک کنوک"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ (زر)"
     },
     {
-      "surface": "וְיָסַף",
+      "surface": "ויסף",
       "gloss": "ءُ زیاد کنت"
     },
     {
-      "surface": "חֲמִשִׁית",
+      "surface": "חמשית",
       "gloss": "پنجمی حصہ"
     },
     {
-      "surface": "כֶּסֶף",
+      "surface": "כסף",
       "gloss": "رُپہ"
     },
     {
-      "surface": "עֶרְכְּךָ",
+      "surface": "ערכך",
       "gloss": "تُہءِ اندازہ"
     },
     {
-      "surface": "עָלָיו",
+      "surface": "עליו",
       "gloss": "آییءِ سرءَ"
     },
     {
-      "surface": "וְקָם",
+      "surface": "וקם",
       "gloss": "ءُ اٹکیت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءِ پہ"
     }
-  ],
-  "timestamp": "2026-09-25T22:24:07.097870390Z",
-  "model": "glm-5.3"
+  ]
 }

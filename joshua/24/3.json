@@ -1,94 +1,94 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "joshua 24:3",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:16:03.164890188Z",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ءُ من ⟨את⟩ شمایانی پت — ⟨את⟩ اَوراہامءَ — دریا ءِ سرئیں گوشءَ چہ گپت، ءُ ⟨את⟩ آءَ سراسر کِنآنءِ زمینءَ لیت، ءُ ⟨את⟩ آییءِ نسلءَ ہش کتم، ءُ آءَ ⟨את⟩ اِسحاقءَ دتم.",
   "tokens": [
     {
-      "surface": "וָאֶקַּח",
+      "surface": "ואקח",
       "gloss": "ءُ من گپت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شمایانی پت"
     },
     {
-      "surface": "אֲבִיכֶם",
+      "surface": "אביכם",
       "gloss": "شمایانی پت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَوراہامءَ"
     },
     {
-      "surface": "אַבְרָהָם",
+      "surface": "אברהם",
       "gloss": "اَوراہام"
     },
     {
-      "surface": "מֵעֵבֶר",
+      "surface": "מעבר",
       "gloss": "دریا ءِ سرئیں گوشءَ چہ"
     },
     {
-      "surface": "הַנָּהָר",
+      "surface": "הנהר",
       "gloss": "دریا"
     },
     {
-      "surface": "וָאוֹלֵךְ",
+      "surface": "ואולך",
       "gloss": "ءُ لیت"
     },
     {
-      "surface": "אוֹתוֹ",
+      "surface": "אותו",
       "gloss": "⟨את⟩ آءَ",
       "marks": "سراسر کِنآنءِ زمین"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "سراسر"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "כְּנָעַן",
+      "surface": "כנען",
       "gloss": "کِنآنءِ"
     },
     {
-      "surface": "וָאַרְבֶּה",
+      "surface": "וארב",
       "gloss": "ءُ ہش کتم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ نسلءَ"
     },
     {
-      "surface": "זַרְעוֹ",
+      "surface": "זרעו",
       "gloss": "آییءِ نسل"
     },
     {
-      "surface": "וָאֶתֵּן",
+      "surface": "ואתן",
       "gloss": "ءُ دتم"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اِسحاقءَ"
     },
     {
-      "surface": "יִצְחָק",
+      "surface": "יצחק",
       "gloss": "اِسحاق"
     }
-  ],
-  "timestamp": "2026-09-25T22:16:03.164890188Z",
-  "model": "glm-5.3"
+  ]
 }

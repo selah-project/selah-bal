@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "leviticus 13:5",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:21:39.174865942Z",
+  "verse": 5,
+  "ref": "leviticus 13:5",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ کاہن آییءَ ہپتمی روچءَ گندیت، ءُ ایں که نگرانی آییءِ چشمانءَ تہ اِشکت بیت، نگرانی پوستءَ پروش نہ کپیت — ءُ کاہن آییءَ ہپت روچءَ پدا بند کیت،",
   "tokens": [
     {
-      "surface": "וְרָאָ֣הוּ",
+      "surface": "וראהו",
       "gloss": "ءُ گندیت آییءَ"
     },
     {
-      "surface": "הַכֹּהֵ֔ן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "בַּיּ֣וֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "הַשְּׁבִיעִ֑י",
+      "surface": "השביעי",
       "gloss": "ہپتمی"
     },
     {
-      "surface": "וְהִנֵּ֤ה",
+      "surface": "והנה",
       "gloss": "ءُ ایں که"
     },
     {
-      "surface": "הַנֶּ֖גַע",
+      "surface": "הנגע",
       "gloss": "نگرانی"
     },
     {
-      "surface": "עָמַ֣ד",
+      "surface": "עמד",
       "gloss": "اِشکت بیت"
     },
     {
-      "surface": "בְּעֵינָ֔יו",
+      "surface": "בעיניו",
       "gloss": "آییءِ چشمانءَ تہ"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "פָשָׂ֥ה",
+      "surface": "פשה",
       "gloss": "پروش کپیت"
     },
     {
-      "surface": "הַנֶּ֖גַע",
+      "surface": "הנגע",
       "gloss": "نگرانی"
     },
     {
-      "surface": "בָּע֑וֹר",
+      "surface": "בעור",
       "gloss": "پوستءَ تہ"
     },
     {
-      "surface": "וְהִסְגִּיר֧וֹ",
+      "surface": "והסגירו",
       "gloss": "ءُ بند کیت آییءَ"
     },
     {
-      "surface": "הַכֹּהֵ֔ן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "שִׁבְעַ֥ת",
+      "surface": "שבעת",
       "gloss": "ہپت"
     },
     {
-      "surface": "יָמִ֖ים",
+      "surface": "ימים",
       "gloss": "روچ"
     },
     {
-      "surface": "שֵׁנִֽית",
+      "surface": "שנית",
       "gloss": "پدا (دومی رند)"
     }
-  ],
-  "timestamp": "2026-09-25T22:21:39.174865942Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "isaiah 38:11",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:05:12.880781379Z",
+  "verse": 11,
+  "ref": "isaiah 38:11",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "ما گوَشتُم: یاہءَ نہ گندیت، یاہءَ، تہ زندگیانی زمینءَ؛ ءُ ئے آدمءَ نہ رُوت، ہچ نہ، گوں چہ پُشتیر ءُ بُوَزگر۔",
   "tokens": [
     {
-      "surface": "אָמַ֨רְתִּי֙",
+      "surface": "אמרתי",
       "gloss": "ما گوَشتُم"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אֶרְאֶ֣ה",
+      "surface": "אראה",
       "gloss": "گندیت"
     },
     {
-      "surface": "יָ֔הּ",
+      "surface": "יה",
       "gloss": "یاہءَ"
     },
     {
-      "surface": "יָ֖הּ",
+      "surface": "יה",
       "gloss": "یاہءَ"
     },
     {
-      "surface": "בְּאֶ֣רֶץ",
+      "surface": "בארץ",
       "gloss": "تہ زمینءَ"
     },
     {
-      "surface": "הַחַיִּ֑ים",
+      "surface": "החיים",
       "gloss": "زندگیانی"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אַבִּ֥יט",
+      "surface": "אביט",
       "gloss": "روت"
     },
     {
-      "surface": "אָדָ֛ם",
+      "surface": "אדם",
       "gloss": "آدمءَ"
     },
     {
-      "surface": "ע֖וֹד",
+      "surface": "עוד",
       "gloss": "ہچ نہ"
     },
     {
-      "surface": "עִ֥ם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "יֹשְׁבֵ֥י",
+      "surface": "יושבי",
       "gloss": "چہ پُشتیر ءُ بُوَزگر"
     },
     {
-      "surface": "חָֽדֶל",
+      "surface": "חדל",
       "gloss": ""
     }
-  ],
-  "timestamp": "2026-09-25T22:05:12.880781379Z",
-  "model": "glm-5.3"
+  ]
 }

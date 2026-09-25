@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "ezra 7:20",
   "book": "ezra",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:58:08.415266572Z",
+  "verse": 20,
+  "ref": "ezra 7:20",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ دگہ لوڑانی چیزاں کہ تُہءِ ہداءِ گدانءَ پہ ضرورت اِنت ءُ تُہءَ آییانءَ داتنءِ بابت اِنت، چہ شاہءِ گنجانی گدانءَ آیانءَ بدہ۔",
   "tokens": [
     {
-      "surface": "וְשָׁאר",
+      "surface": "ושאר",
       "gloss": "ءُ دگہ لوڑانی چیزاں"
     },
     {
-      "surface": "חַשְׁחוּת",
+      "surface": "חשחות",
       "gloss": "ضرورت"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدانءَ"
     },
     {
-      "surface": "אֱלָהָךְ",
+      "surface": "אלהך",
       "gloss": "تُہءِ ہداءِ"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "יִפַּל",
+      "surface": "יפל",
       "gloss": "بابت اِنت"
     },
     {
-      "surface": "לָךְ",
+      "surface": "לך",
       "gloss": "تُہءَ"
     },
     {
-      "surface": "לְמִנְתַּן",
+      "surface": "למנתן",
       "gloss": "داتنءِ"
     },
     {
-      "surface": "תִּנְתֵּן",
+      "surface": "תנתן",
       "gloss": "بدہ"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدانءَ"
     },
     {
-      "surface": "גִּנְזֵי",
+      "surface": "גנזי",
       "gloss": "گنجانی"
     },
     {
-      "surface": "מַלְכָּא",
+      "surface": "מלכא",
       "gloss": "شاہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T21:58:08.415266572Z",
-  "model": "glm-5.3"
+  ]
 }

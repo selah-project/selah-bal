@@ -1,29 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "1-chronicles 26:23",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:31:57.002588299Z",
+  "verse": 23,
+  "ref": "1-chronicles 26:23",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "پہ عمرامی، پہ یصہاری، پہ حبرونی، پہ عزیئیلی۔",
   "tokens": [
     {
-      "surface": "לַֽעַמְרָמִי֙",
+      "surface": "לעמרמי",
       "gloss": "پہ عمرامی"
     },
     {
-      "surface": "לַיִּצְהָרִ֔י",
+      "surface": "ליצהרי",
       "gloss": "پہ یصہاری"
     },
     {
-      "surface": "לַֽחֶבְרוֹנִ֖י",
+      "surface": "לחברוני",
       "gloss": "پہ حبرونی"
     },
     {
-      "surface": "לָֽעָזִּיאֵלִֽי",
+      "surface": "לעזיאלי",
       "gloss": "پہ عزیئیلی"
     }
-  ],
-  "timestamp": "2026-09-25T21:31:57.002588299Z",
-  "model": "glm-5.3"
+  ]
 }

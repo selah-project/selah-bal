@@ -1,127 +1,127 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "jeremiah 26:19",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:08:35.221187175Z",
+  "verse": 19,
+  "ref": "jeremiah 26:19",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "آیا حزقیاہو، یہوداہءِ شاہ، ءُ گش یہوداہ ⟨את⟩ آیءَ کشت کت؟ آیا آ یاہوہءَ نہ ترسیت ءُ ⟨את⟩ یاہوہءِ منہءَ منگ کت، ءُ یاہوہ چہ او شرءَ چوٹ کت کہ آیانءِ بارت گوَشتگ اَت؟ ءُ ما گش گیش شر آں جانیںءَ کؤں۔",
   "tokens": [
     {
-      "surface": "הֶהָמֵת",
+      "surface": "ההמת",
       "gloss": "آیا … کشت"
     },
     {
-      "surface": "הֱמִתֻהוּ",
+      "surface": "המתהו",
       "gloss": "آیءَ کشت کت"
     },
     {
-      "surface": "חִזְקִיָּהוּ",
+      "surface": "חזקיהו",
       "gloss": "حزقیاہو"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہءِ"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ گش"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہ"
     },
     {
-      "surface": "הֲלֹא",
+      "surface": "הלא",
       "gloss": "آیا نہ"
     },
     {
-      "surface": "יָרֵא",
+      "surface": "ירא",
       "gloss": "ترسیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "וַיְחַל",
+      "surface": "ויחל",
       "gloss": "ءُ منگ کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منہءِ"
     },
     {
-      "surface": "פְּנֵי",
+      "surface": "פני",
       "gloss": "منہءِ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וַיִּנָּחֶם",
+      "surface": "וינחם",
       "gloss": "ءُ چوٹ کت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "چہ"
     },
     {
-      "surface": "הָרָעָה",
+      "surface": "הרעה",
       "gloss": "او شرءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "דִּבֶּר",
+      "surface": "דבר",
       "gloss": "گوَشتگ"
     },
     {
-      "surface": "עֲלֵיהֶם",
+      "surface": "עליהם",
       "gloss": "آیانءِ بارت"
     },
     {
-      "surface": "וַאֲנַחְנוּ",
+      "surface": "ואנחנו",
       "gloss": "ءُ ما"
     },
     {
-      "surface": "עֹשִׂים",
+      "surface": "עשים",
       "gloss": "کؤں"
     },
     {
-      "surface": "רָעָה",
+      "surface": "רעה",
       "gloss": "شر"
     },
     {
-      "surface": "גְדוֹלָה",
+      "surface": "גדולה",
       "gloss": "گیش"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "آں … ءَ"
     },
     {
-      "surface": "נַפְשׁוֹתֵינוּ",
+      "surface": "נפשותינו",
       "gloss": "جانیںءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:08:35.221187175Z",
-  "model": "glm-5.3"
+  ]
 }

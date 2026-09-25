@@ -1,42 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "proverbs 3:9",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:30:45.294026576Z",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "یاہوہءَ چہ تُئیں مالءَ ⟨את⟩ شان بدار، ءُ چہ تمام تُئیں حاصلءِ اولی چیزانءَ شان بدار۔",
   "tokens": [
     {
-      "surface": "כַּבֵּ֣ד",
+      "surface": "כבד",
       "gloss": "شان بدار"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوהءَ"
     },
     {
-      "surface": "מֵהוֹנֶ֑ךָ",
+      "surface": "מהונך",
       "gloss": "چہ تُئیں مالءَ"
     },
     {
-      "surface": "וּ֝מֵרֵאשִׁ֗ית",
+      "surface": "ומראשית",
       "gloss": "ءُ چہ اولی چیزانءَ"
     },
     {
-      "surface": "כָל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "תְּבוּאָתֶֽךָ",
+      "surface": "תבואתך",
       "gloss": "تُئیں حاصلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:30:45.294026576Z",
-  "model": "glm-5.3"
+  ]
 }

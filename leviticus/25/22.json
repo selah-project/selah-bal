@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "leviticus 25:22",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:23:52.922612181Z",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ ئے ⟨את⟩ ہشتمی سالءَ پیش کنیں ءُ چہ پرانیں فصلءَ چنگیں، تا نہمی سالءَ، تا کہ آییءِ فصلءِ رُوتگ ئے پرانیںءَ چنگیں۔",
   "tokens": [
     {
-      "surface": "וּזְרַעְתֶּ֗ם",
+      "surface": "וזרעתם",
       "gloss": "ءُ ئے پیش کنیں"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہشتمی سالءَ"
     },
     {
-      "surface": "הַשָּׁנָ֣ה",
+      "surface": "השנה",
       "gloss": "سالءَ"
     },
     {
-      "surface": "הַשְּׁמִינִ֔ת",
+      "surface": "השמינת",
       "gloss": "ہشتمی"
     },
     {
-      "surface": "וַאֲכַלְתֶּ֖ם",
+      "surface": "ואכלתם",
       "gloss": "ءُ چنگیں"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַתְּבוּאָ֣ה",
+      "surface": "התבואה",
       "gloss": "فصلءَ"
     },
     {
-      "surface": "יָשָׁ֑ן",
+      "surface": "ישן",
       "gloss": "پرانیں"
     },
     {
-      "surface": "עַ֣ד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "הַשָּׁנָ֣ה",
+      "surface": "השנה",
       "gloss": "سالءَ"
     },
     {
-      "surface": "הַתְּשִׁיעִ֗ת",
+      "surface": "התשיעת",
       "gloss": "نہمی"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا کہ"
     },
     {
-      "surface": "בּוֹא֙",
+      "surface": "בוא",
       "gloss": "رُوتگ"
     },
     {
-      "surface": "תְּבוּאָתָ֔הּ",
+      "surface": "תבואתה",
       "gloss": "آییءِ فصلءِ"
     },
     {
-      "surface": "תֹּאכְל֖וּ",
+      "surface": "תאכלו",
       "gloss": "ئے چنگیں"
     },
     {
-      "surface": "יָשָֽׁן",
+      "surface": "ישן",
       "gloss": "پرانیںءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:23:52.922612181Z",
-  "model": "glm-5.3"
+  ]
 }

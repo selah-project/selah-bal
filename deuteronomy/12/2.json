@@ -1,112 +1,112 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "deuteronomy 12:2",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:50:18.577963235Z",
+  "verse": 2,
+  "ref": "deuteronomy 12:2",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "مکام کن سُہ مکام کنیں ⟨את⟩ همه جاگاہاں کہ اودا قوم کہ تُماں اِشانی جاگہ گیرنت ⟨את⟩ اِشانی ہدایانءَ پرستنت، بلندیں کوہانی سرءَ ءُ ٹکریانی سرءَ ءُ ہر شاد دارءِ تہءَ",
   "tokens": [
     {
-      "surface": "אַבֵ֣ד",
+      "surface": "אבד",
       "gloss": "مکام کن"
     },
     {
-      "surface": "תְּאַבְּדוּן",
+      "surface": "תאבדון",
       "gloss": "سُہ مکام کنیں"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "همه جاگاہاں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "همه"
     },
     {
-      "surface": "הַמְּקֹמ֞וֹת",
+      "surface": "המקמות",
       "gloss": "جاگاہاں"
     },
     {
-      "surface": "אֲשֶׁ֧ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָֽבְדוּ",
+      "surface": "עבדו",
       "gloss": "پرستنت"
     },
     {
-      "surface": "שָׁ֣ם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "הַגּוֹיִ֗ם",
+      "surface": "הגוים",
       "gloss": "قوم"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אַתֶּ֛ם",
+      "surface": "אתם",
       "gloss": "تُماں"
     },
     {
-      "surface": "יֹרְשִׁ֥ים",
+      "surface": "ירשים",
       "gloss": "گیرنت"
     },
     {
-      "surface": "אֹתָ֖ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ اِشانی",
       "marks": "قوم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اِشانی ہدایان"
     },
     {
-      "surface": "אֱלֹהֵיהֶ֑ם",
+      "surface": "אלהיהם",
       "gloss": "اِشانی ہدایان"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הֶהָרִ֤ים",
+      "surface": "ההרים",
       "gloss": "کوہانی"
     },
     {
-      "surface": "הָֽרָמִים֙",
+      "surface": "הרמים",
       "gloss": "بلندیں"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ ٹکریانی سرءَ"
     },
     {
-      "surface": "הַגְּבָע֔וֹת",
+      "surface": "הגבעות",
       "gloss": "ٹکریانی"
     },
     {
-      "surface": "וְתַ֖חַת",
+      "surface": "ותחת",
       "gloss": "ءُ تہءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "עֵ֥ץ",
+      "surface": "עץ",
       "gloss": "دار"
     },
     {
-      "surface": "רַעֲנָן",
+      "surface": "רענן",
       "gloss": "شاد"
     }
-  ],
-  "timestamp": "2026-09-25T21:50:18.577963235Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "ecclesiastes 2:17",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:51:40.000849816Z",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ منءَ ⟨את⟩ زندگی چیت کت، پرچا کہ کار کہ گوچءِ تلءَ گپتگ بوتگ ⟨اِنت⟩ منءَ پہ زار — پرچا کہ ہمگ ہبل اِنت ءُ روحءِ رنج۔",
   "tokens": [
     {
-      "surface": "וְשָׂנֵ֨אתִי֙",
+      "surface": "ושנאתי",
       "gloss": "ءُ منءَ چیت کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زندگی"
     },
     {
-      "surface": "הַחַיִּ֔ים",
+      "surface": "החיים",
       "gloss": "زندگی"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "רַ֣ע",
+      "surface": "רע",
       "gloss": "زار"
     },
     {
-      "surface": "עָלַי֙",
+      "surface": "עלי",
       "gloss": "منءَ پہ"
     },
     {
-      "surface": "הַמַּעֲשֶׂ֔ה",
+      "surface": "המעשה",
       "gloss": "کار"
     },
     {
-      "surface": "שֶׁנַּעֲשָׂ֖ה",
+      "surface": "שנעשה",
       "gloss": "گپتگ بوتگیں"
     },
     {
-      "surface": "תַּ֣חַת",
+      "surface": "תחת",
       "gloss": "تلءَ"
     },
     {
-      "surface": "הַשָּׁ֑מֶשׁ",
+      "surface": "השמש",
       "gloss": "گوچ"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "הַכֹּ֥ל",
+      "surface": "הכל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "הֶ֖בֶל",
+      "surface": "הבל",
       "gloss": "ہبل"
     },
     {
-      "surface": "וּרְע֥וּת",
+      "surface": "ורעות",
       "gloss": "ءُ رنج"
     },
     {
-      "surface": "ר֖וּחַ",
+      "surface": "רוח",
       "gloss": "روح"
     }
-  ],
-  "timestamp": "2026-09-25T21:51:40.000849816Z",
-  "model": "glm-5.3"
+  ]
 }

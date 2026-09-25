@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "jeremiah 2:9",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:09:22.461125626Z",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "پس یک دگہ گوں ⟨את⟩ شماں دعوا کنیت، یاہوہءِ فرمایش اِنت، ءُ گوں ⟨את⟩ شماں ءُ گوں شماں ءُ گوں شماں دعوا کنیت۔",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "پس"
     },
     {
-      "surface": "עוד",
+      "surface": "עד",
       "gloss": "یک دگہ"
     },
     {
@@ -49,7 +51,5 @@
       "surface": "אריב",
       "gloss": "دعوا کنیت"
     }
-  ],
-  "timestamp": "2026-09-25T22:09:22.461125626Z",
-  "model": "glm-5.3"
+  ]
 }

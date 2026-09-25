@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "joshua 1:6",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:14:48.263613530Z",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "سختیں بیت ءُ جراتیں بیت، پرچا کہ تُوے کہ آے قومءَ ⟨את⟩ آے زمینءِ میراث دئیں، آ زمین کہ من چہ اِشانی پدرانءَ سوگند گپتگءَم کہ آیانءَ دئم۔",
   "tokens": [
     {
-      "surface": "חֲזַ֖ק",
+      "surface": "חזק",
       "gloss": "سختیں بیت"
     },
     {
-      "surface": "וֶאֱמָ֑ץ",
+      "surface": "ואמץ",
       "gloss": "ءُ جراتیں بیت"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אַתָּ֗ה",
+      "surface": "אתה",
       "gloss": "تُوے کہ"
     },
     {
-      "surface": "תַּנְחִיל֙",
+      "surface": "תנחיל",
       "gloss": "میراث دئیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آے قومءَ"
     },
     {
-      "surface": "הָעָ֣ם",
+      "surface": "העם",
       "gloss": "آے قومءَ"
     },
     {
-      "surface": "הַזֶּ֔ה",
+      "surface": "הזה",
       "gloss": "آے"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آے زمینءَ"
     },
     {
-      "surface": "הָאָ֕רֶץ",
+      "surface": "הארץ",
       "gloss": "آے زمینءَ"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נִשְׁבַּ֥עְתִּי",
+      "surface": "נשבעתי",
       "gloss": "سوگند گپتگءَم"
     },
     {
-      "surface": "לַאֲבוֹתָ֖ם",
+      "surface": "לאבותם",
       "gloss": "چہ اِشانی پدرانءَ"
     },
     {
-      "surface": "לָתֵ֥ת",
+      "surface": "לתת",
       "gloss": "کہ دئم"
     },
     {
-      "surface": "לָהֶֽם",
+      "surface": "להם",
       "gloss": "آیانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:14:48.263613530Z",
-  "model": "glm-5.3"
+  ]
 }

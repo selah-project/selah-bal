@@ -1,76 +1,76 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "exodus 39:33",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:53:05.079769055Z",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "tier": "glm-5.2",
   "chapter": 39,
   "translation": "ءُ اِشاں ⟨את⟩ مِشکان موشہءَ لٹیت، ⟨את⟩ گدان ءُ ⟨את⟩ آییءِ پوریں بریکاں — آییءِ کُنڈال، آییءِ تخته‌ءان، آییءِ میخت، ءُ آییءِ ستون، ءُ آییءِ پڑے۔",
   "tokens": [
     {
-      "surface": "וַיָּבִיאוּ",
+      "surface": "ויביאו",
       "gloss": "ءُ اِشاں لٹیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِشکان"
     },
     {
-      "surface": "הַמִּשְׁכָּן",
+      "surface": "המשכן",
       "gloss": "مِشکان"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "موشہءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گدان"
     },
     {
-      "surface": "הָאֹהֶל",
+      "surface": "האהל",
       "gloss": "گدان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ پوریں بریکاں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "כֵּלָיו",
+      "surface": "כליו",
       "gloss": "بریکاں"
     },
     {
-      "surface": "קְרָסָיו",
+      "surface": "קרסיו",
       "gloss": "کُنڈال"
     },
     {
-      "surface": "קְרָשָׁיו",
+      "surface": "קרשיו",
       "gloss": "تخته‌ءان"
     },
     {
-      "surface": "בְּרִיחַיו",
+      "surface": "בריחו",
       "gloss": "میخت"
     },
     {
-      "surface": "וְעַמֻּדָיו",
+      "surface": "ועמדיו",
       "gloss": "ءُ ستون"
     },
     {
-      "surface": "וְאֲדָנָיו",
+      "surface": "ואדניו",
       "gloss": "ءُ پڑے"
     }
-  ],
-  "timestamp": "2026-09-25T21:53:05.079769055Z",
-  "model": "glm-5.3"
+  ]
 }

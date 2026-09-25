@@ -1,98 +1,98 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "2-kings 4:25",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:46:55.750137373Z",
+  "verse": 25,
+  "ref": "2-kings 4:25",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ آ روت ءُ آییءَ رَسِت ایلوہیمءِ مَردءَ پہ کرملءِ کوهءَ؛ ءُ بوت کہ ایلوہیمءِ مَرد آییءَ ⟨את⟩ چہ رُوبرُو گندیت، ءُ گوَشت گیحزیءَ، وتی نوجوانءَ: اے! اے شونمیءِ جنک اے۔",
   "tokens": [
     {
-      "surface": "וַתֵּ֗לֶךְ",
+      "surface": "ותלך",
       "gloss": "ءُ آ روت"
     },
     {
-      "surface": "וַתָּב֛וֹא",
+      "surface": "ותבוא",
       "gloss": "ءُ آییءَ رَسِت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "אִ֥ישׁ",
+      "surface": "איש",
       "gloss": "مَرد"
     },
     {
-      "surface": "הָאֱלֹהִ֖ים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "הַ֣ר",
+      "surface": "הר",
       "gloss": "کوه"
     },
     {
-      "surface": "הַכַּרְמֶ֑ל",
+      "surface": "הכרמל",
       "gloss": "کرملءِ"
     },
     {
-      "surface": "וַ֠יְהִי",
+      "surface": "ויהי",
       "gloss": "ءُ بوت کہ"
     },
     {
-      "surface": "כִּרְא֨וֹת",
+      "surface": "כראות",
       "gloss": "کہ گندیت"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "مَرد"
     },
     {
-      "surface": "הָאֱלֹהִ֤ים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "אֹתָהּ֙",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ (چہ رُوبرُوءَ)"
     },
     {
-      "surface": "מִנֶּ֔גֶד",
+      "surface": "מנגד",
       "gloss": "چہ رُوبرُو"
     },
     {
-      "surface": "וַיֹּ֨אמֶר֙",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "גֵּיחֲזִ֣י",
+      "surface": "גיחזי",
       "gloss": "گیحزیءَ"
     },
     {
-      "surface": "נַעֲר֔וֹ",
+      "surface": "נערו",
       "gloss": "وتی نوجوانءَ"
     },
     {
-      "surface": "הִנֵּ֖ה",
+      "surface": "הנה",
       "gloss": "اے!"
     },
     {
-      "surface": "הַשּׁוּנַמִּ֥ית",
+      "surface": "השונמית",
       "gloss": "شونمیءِ جنک"
     },
     {
-      "surface": "הַלָּֽז",
+      "surface": "הלז",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T21:46:55.750137373Z",
-  "model": "glm-5.3"
+  ]
 }

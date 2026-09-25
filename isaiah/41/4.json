@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "isaiah 41:4",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:04:32.087813778Z",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "کے کار کت ءُ چوں کت، چہ بنگیجءَ دوریانءَ بانگ کت؟ من یاہوہ اِم، اولمی، ءُ گوں ⟨את⟩ آخریانی من آ اِم.",
   "tokens": [
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "פָעַ֣ל",
+      "surface": "פעל",
       "gloss": "کار کت"
     },
     {
-      "surface": "וְעָשָׂ֔ה",
+      "surface": "ועשה",
       "gloss": "ءُ چوں کت"
     },
     {
-      "surface": "קֹרֵ֥א",
+      "surface": "קרא",
       "gloss": "بانگ کت"
     },
     {
-      "surface": "הַדֹּר֖וֹת",
+      "surface": "הדרות",
       "gloss": "دوریانءَ"
     },
     {
-      "surface": "מֵרֹ֑אשׁ",
+      "surface": "מראש",
       "gloss": "چہ بنگیجءَ"
     },
     {
-      "surface": "אֲנִ֤י",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "רִאשׁ֔וֹן",
+      "surface": "ראשון",
       "gloss": "اولمی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آخریانی"
     },
     {
-      "surface": "אַחֲרֹנִ֖ים",
+      "surface": "אחרנים",
       "gloss": "آخریانی"
     },
     {
-      "surface": "אֲנִ֤י",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "הֽוּא",
+      "surface": "הוא",
       "gloss": "آ اِم"
     }
-  ],
-  "timestamp": "2026-09-25T22:04:32.087813778Z",
-  "model": "glm-5.3"
+  ]
 }

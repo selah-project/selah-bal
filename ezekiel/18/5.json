@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "ezekiel 18:5",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:55:36.418549826Z",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ اگر یک مرد راست بیت ءُ انصاف ءُ راستی کنیت",
   "tokens": [
     {
-      "surface": "וְאִישׁ",
+      "surface": "ואיש",
       "gloss": "ءُ مرد"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "اگر"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "צַדִּיק",
+      "surface": "צדיק",
       "gloss": "راست"
     },
     {
-      "surface": "וְעָשָׂה",
+      "surface": "ועשה",
       "gloss": "ءُ کنیت"
     },
     {
-      "surface": "מִשְׁפָּט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "וּצְדָקָה",
+      "surface": "וצדקה",
       "gloss": "ءُ راستی"
     }
-  ],
-  "timestamp": "2026-09-25T21:55:36.418549826Z",
-  "model": "glm-5.3"
+  ]
 }

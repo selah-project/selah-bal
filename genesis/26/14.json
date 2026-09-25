@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "genesis 26:14",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:01:40.435093262Z",
+  "verse": 14,
+  "ref": "genesis 26:14",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ آییءَ مالِ گوان ءُ مالِ گانؤکان بوت، ءُ گیشیں گدان، ءُ فلستانیاں آییءَ ہسد کت ⟨את⟩.",
   "tokens": [
     {
-      "surface": "וַֽיְהִי",
+      "surface": "ויהי",
       "gloss": "ءُ بوت"
     },
     {
-      "surface": "ל֤וֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "מִקְנֵה",
+      "surface": "מקנה",
       "gloss": "مال"
     },
     {
-      "surface": "צֹאן֙",
+      "surface": "צאן",
       "gloss": "گوان"
     },
     {
-      "surface": "וּמִקְנֵ֣ה",
+      "surface": "ומקנה",
       "gloss": "ءُ مال"
     },
     {
-      "surface": "בָקָ֔ר",
+      "surface": "בקר",
       "gloss": "گانؤکان"
     },
     {
-      "surface": "וַעֲבֻדָּ֖ה",
+      "surface": "ועבדה",
       "gloss": "ءُ گدان"
     },
     {
-      "surface": "רַבָּ֑ה",
+      "surface": "רבה",
       "gloss": "گیشیں"
     },
     {
-      "surface": "וַיְקַנְא֥וּ",
+      "surface": "ויקנאו",
       "gloss": "ءُ ہسد کت"
     },
     {
-      "surface": "אֹת֖וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩",
       "marks": "آییءَ"
     },
     {
-      "surface": "פְּלִשְׁתִּֽים",
+      "surface": "פלשתים",
       "gloss": "فلستانیاں"
     }
-  ],
-  "timestamp": "2026-09-25T22:01:40.435093262Z",
-  "model": "glm-5.3"
+  ]
 }

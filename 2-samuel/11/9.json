@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "2-samuel 11:9",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:44:36.538995655Z",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ اوریہ شاہءِ گادءِ دہلزءَ سپت گوں ⟨את⟩ ھمگ آییءِ آقاءیں غلامان، ءُ آییءِ گادءَ نہ دات۔",
   "tokens": [
@@ -57,10 +59,8 @@
       "gloss": "ہا"
     },
     {
-      "surface": "ביתو",
+      "surface": "ביתו",
       "gloss": "آییءِ گادءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:44:36.538995655Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "isaiah 40:31",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:06:58.578529029Z",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "tier": "glm-5.2",
   "chapter": 40,
   "translation": "ءُ آں کہ یاہوہءِ چشمی کننت زور نوییں کننت، پر اُچڑ کننت چوش شہاناں، دوڑنت ءُ نہ تھکاننت، رونت ءُ نہ کمزور بنت۔",
   "tokens": [
     {
-      "surface": "וְקוֹיֵ֤",
+      "surface": "וקוי",
       "gloss": "ءُ چشمی کنوک"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "יַחֲלִ֣יפוּ",
+      "surface": "יחליפו",
       "gloss": "نوییں کننت"
     },
     {
-      "surface": "כֹ֔חַ",
+      "surface": "כח",
       "gloss": "زور"
     },
     {
-      "surface": "יַעֲל֥וּ",
+      "surface": "יעלו",
       "gloss": "اُچڑ کننت"
     },
     {
-      "surface": "אֵ֖בֶר",
+      "surface": "אבר",
       "gloss": "پر"
     },
     {
-      "surface": "כַּנְּשָׁרִ֑ים",
+      "surface": "כנשרים",
       "gloss": "چوش شہاناں"
     },
     {
-      "surface": "יָר֨וּצוּ֙",
+      "surface": "ירוצו",
       "gloss": "دوڑنت"
     },
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִיגָ֔עוּ",
+      "surface": "ייגעו",
       "gloss": "تھکاننت"
     },
     {
-      "surface": "יֵלְכ֖וּ",
+      "surface": "ילכו",
       "gloss": "رونت"
     },
     {
-      "surface": "וְלֹ֥א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִיעָֽפוּ",
+      "surface": "ייעפו",
       "gloss": "کمزور بنت"
     }
-  ],
-  "timestamp": "2026-09-25T22:06:58.578529029Z",
-  "model": "glm-5.3"
+  ]
 }

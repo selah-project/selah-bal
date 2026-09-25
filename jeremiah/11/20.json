@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "jeremiah 11:20",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:08:09.791231733Z",
+  "verse": 20,
+  "ref": "jeremiah 11:20",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ اے یاہوہِ سباؤت کہ راستیءَ فیصلہ کنءِ ءُ گُڑیان ءُ دلءَ آزما، من آییءِ انتقام چہ اِشاں گندیت‌اِنت، پرچا کہ تہءَ پیش من ءُ مءِ جھیڑا ⟨את⟩ گشیتگ کت۔",
   "tokens": [
     {
-      "surface": "וֽיהוָ֤ה",
+      "surface": "ויהוה",
       "gloss": "ءُ اے یاہوہِ سباؤت"
     },
     {
-      "surface": "צְבָאוֹת֙",
+      "surface": "צבאות",
       "gloss": ""
     },
     {
-      "surface": "שֹׁפֵ֣ט",
+      "surface": "שפט",
       "gloss": "فیصلہ کنءِ"
     },
     {
-      "surface": "צֶ֔דֶק",
+      "surface": "צדק",
       "gloss": "راستیءَ"
     },
     {
-      "surface": "בֹּחֵ֥ן",
+      "surface": "בחן",
       "gloss": "آزما"
     },
     {
-      "surface": "כְּלָי֖וֹת",
+      "surface": "כליות",
       "gloss": "گُڑیان"
     },
     {
-      "surface": "וָלֵ֑ב",
+      "surface": "ולב",
       "gloss": "ءُ دلءَ"
     },
     {
-      "surface": "אֶרְאֶ֤ה",
+      "surface": "אראה",
       "gloss": "من گندیت‌اِنت"
     },
     {
-      "surface": "נִקְמָֽתְךָ֙",
+      "surface": "נקמתך",
       "gloss": "آییءِ انتقام"
     },
     {
-      "surface": "מֵהֶ֔ם",
+      "surface": "מהם",
       "gloss": "چہ اِشاں"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֵלֶ֖יךָ",
+      "surface": "אליך",
       "gloss": "تہءَ پیش"
     },
     {
-      "surface": "גִּלִּ֥יתִי",
+      "surface": "גליתי",
       "gloss": "من گشیتگ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مءِ جھیڑا"
     },
     {
-      "surface": "רִיבִֽי",
+      "surface": "ריבי",
       "gloss": "مءِ جھیڑا"
     }
-  ],
-  "timestamp": "2026-09-25T22:08:09.791231733Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "deuteronomy 25:17",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:48:59.035645632Z",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "یاد دار کہ عمالقءَ چہ چهارتءَ تہ روچءَ روگاہءَ کت، اودا کہ تمان چہ مِتسرایمءَ دراتیںءَ اُتے،",
   "tokens": [
     {
-      "surface": "זָכ֕וֹר",
+      "surface": "זכור",
       "gloss": "یاد دار"
     },
     {
-      "surface": "אֵ֛ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کہ عمالقءَ چہ چهارتءَ کت"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָשָׂ֥ה",
+      "surface": "עשה",
       "gloss": "کت"
     },
     {
-      "surface": "לְךָ֖",
+      "surface": "לך",
       "gloss": "تہ … ءَ"
     },
     {
-      "surface": "עֲמָלֵ֑ק",
+      "surface": "עמלק",
       "gloss": "عمالق"
     },
     {
-      "surface": "בַּדֶּ֖רֶךְ",
+      "surface": "בדרך",
       "gloss": "چہ چهارتءَ تہ روچءِ روگاہءَ"
     },
     {
-      "surface": "בְּצֵאתְכֶ֥ם",
+      "surface": "בצאתכם",
       "gloss": "اودا کہ تمان دراتیںءَ"
     },
     {
-      "surface": "מִמִּצְרָֽיִם",
+      "surface": "ממצרים",
       "gloss": "چہ مِتسرایم"
     }
-  ],
-  "timestamp": "2026-09-25T21:48:59.035645632Z",
-  "model": "glm-5.3"
+  ]
 }

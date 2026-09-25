@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "proverbs 1:29",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:30:59.240925098Z",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "چوش کہ اِشاں شناختءَ چُت کت ءُ یاہوہءِ درشکیءَ نہ چنیت،",
   "tokens": [
@@ -24,22 +26,20 @@
       "gloss": "شناختءَ"
     },
     {
-      "surface": "ולא",
+      "surface": "ויראת",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "בחרו",
+      "surface": "יהוה",
       "gloss": "چنیت"
     },
     {
-      "surface": "ביראת",
+      "surface": "לא",
       "gloss": "درشکیءَ"
     },
     {
-      "surface": "יהוה",
+      "surface": "בחרו",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:30:59.240925098Z",
-  "model": "glm-5.3"
+  ]
 }
