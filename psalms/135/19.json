@@ -1,55 +1,55 @@
 {
-  "book": "psalms",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T22:59:02.245011423Z",
+  "tier": "glm-5.2",
   "verse": 19,
   "ref": "psalms 135:19",
-  "tier": "glm-5.2",
+  "book": "psalms",
+  "lang": "bal",
   "chapter": 135,
-  "translation": "اے یسرائیلءِ خاندان، یاہوہءَ برکت دہ؛ اے اہارونءِ خاندان، یاہوہءَ برکت دہ۔",
+  "translation": "اے یِسرایلءِ خانوادہ، یاہوہءَ برکت دیں؛ اے اَہارونءِ خانوادہ، یاہوہءَ برکت دیں۔",
   "tokens": [
     {
-      "surface": "בית",
-      "gloss": "خاندان"
+      "surface": "בֵּית",
+      "gloss": "خانوادہ"
     },
     {
-      "surface": "ישראל",
-      "gloss": "یسرائیلءِ"
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "یِسرایل"
     },
     {
-      "surface": "ברכו",
-      "gloss": "برکت دہ"
+      "surface": "בָּרֲכוּ",
+      "gloss": "برکت دیں"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "یاہوہءَ"
+      "marks": "یاہوہ"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "בית",
-      "gloss": "خاندان"
+      "surface": "בֵּית",
+      "gloss": "خانوادہ"
     },
     {
-      "surface": "אהרן",
-      "gloss": "اہارونءِ"
+      "surface": "אַהֲרֹן",
+      "gloss": "اَہارون"
     },
     {
-      "surface": "ברכו",
-      "gloss": "برکت دہ"
+      "surface": "בָּרֲכוּ",
+      "gloss": "برکت دیں"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "یاہوہءَ"
+      "marks": "یاہوہ"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "یاہوہ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T23:26:01.392413130Z",
+  "model": "glm-5.3"
 }

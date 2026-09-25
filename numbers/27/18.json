@@ -1,13 +1,11 @@
 {
-  "book": "numbers",
-  "lang": "bal",
-  "model": "glm-5.3",
-  "timestamp": "2026-09-25T22:58:00.765826273Z",
+  "tier": "glm-5.2",
   "verse": 18,
   "ref": "numbers 27:18",
-  "tier": "glm-5.2",
+  "book": "numbers",
+  "lang": "bal",
   "chapter": 27,
-  "translation": "ءُ یاہوہءَ موشہءَ گوَشت: آءِ ⟨את⟩ یہوشعءَ، نونءِ زہگءَ، یک مرد کہ آییءَ تہ روح اِنت، ءُ تئی دست آءِ سرءَ بدہ۔",
+  "translation": "ءُ یاہوہءَ موشہءَ گوَشت: آءُ زہگِ نون، یکے کہ تہ آیی روح اِنت، گپ — ءُ وتِ دست آءُ آییءِ سرءَ دگر.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,44 +13,44 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہءَ"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "אל",
-      "gloss": "آءِ"
+      "gloss": "ءَ"
     },
     {
       "surface": "משה",
-      "gloss": "موشہءَ"
+      "gloss": "موشہ"
     },
     {
       "surface": "קח",
-      "gloss": "گرپت"
+      "gloss": "گپ"
     },
     {
       "surface": "לך",
-      "gloss": "توءِ پہ"
+      "gloss": "آءُ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "یہوشعءَ"
+      "marks": "یہوشوع"
     },
     {
       "surface": "יהושע",
-      "gloss": "یہوشعءَ"
+      "gloss": "یہوشوع"
     },
     {
       "surface": "בן",
-      "gloss": "زہگ"
+      "gloss": "زہگِ"
     },
     {
-      "surface": "נון",
-      "gloss": "نونءِ"
+      "surface": "نון",
+      "gloss": "نون"
     },
     {
       "surface": "איש",
-      "gloss": "مرد"
+      "gloss": "یکے"
     },
     {
       "surface": "אשר",
@@ -64,24 +62,26 @@
     },
     {
       "surface": "בו",
-      "gloss": "آییءَ تہ"
+      "gloss": "تہ آیی"
     },
     {
       "surface": "וסמכת",
-      "gloss": "ءُ بدہ"
+      "gloss": "ءُ دگر"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "تئی دستءَ"
+      "marks": "وتِ دست"
     },
     {
       "surface": "ידך",
-      "gloss": "تئی دستءَ"
+      "gloss": "وتِ دست"
     },
     {
       "surface": "עליו",
-      "gloss": "آءِ سرءَ"
+      "gloss": "آییءِ سرءَ"
     }
-  ]
+  ],
+  "timestamp": "2026-09-25T23:26:46.336207037Z",
+  "model": "glm-5.3"
 }
