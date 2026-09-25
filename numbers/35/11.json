@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "numbers 35:11",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:02:58.708002642Z",
+  "verse": 11,
+  "ref": "numbers 35:11",
+  "tier": "glm-5.2",
   "chapter": 35,
   "translation": "ءُ تسیں پہ وتے شہر چُنیں — پناہءِ شہر تسیں پہ بنت — ءُ کُشٹکار، کہ بے قصد جان ہلاک کت، آءُ آجا دم بیت.",
   "tokens": [
@@ -56,10 +58,8 @@
       "gloss": "جان"
     },
     {
-      "surface": "بשגגה",
+      "surface": "בשגגה",
       "gloss": "بے قصد"
     }
-  ],
-  "timestamp": "2026-09-25T20:02:58.708002642Z",
-  "model": "glm-5.3"
+  ]
 }

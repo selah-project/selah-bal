@@ -1,46 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "exodus 26:34",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:53:47.017127512Z",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ توں کفورتءَ گاہ بیت ⟨את⟩ کفورتءِ سرءَ، گشکیں گواہیءِ گدانءِ دیمءَ، پاکانی پاک تہ.",
   "tokens": [
     {
-      "surface": "וְנָתַתָּ֙",
+      "surface": "ונתת",
       "gloss": "ءُ توں ... گاہ بیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کفورتءَ"
     },
     {
-      "surface": "הַכַּפֹּ֔רֶת",
+      "surface": "הכפרת",
       "gloss": "کفورتءَ"
     },
     {
-      "surface": "עַ֖ל",
+      "surface": "על",
       "gloss": "ءِ سرءَ"
     },
     {
-      "surface": "אֲר֥וֹן",
+      "surface": "ארון",
       "gloss": "گشکیں"
     },
     {
-      "surface": "הָעֵדֻ֑ת",
+      "surface": "העדת",
       "gloss": "گواہیءِ"
     },
     {
-      "surface": "בְּקֹ֖דֶשׁ",
+      "surface": "בקדש",
       "gloss": "تہ ... پاکانی پاک"
     },
     {
-      "surface": "הַקָּדָשִֽׁים",
+      "surface": "הקדשים",
       "gloss": "پاکانی پاک"
     }
-  ],
-  "timestamp": "2026-09-25T15:53:47.017127512Z",
-  "model": "glm-5.3"
+  ]
 }

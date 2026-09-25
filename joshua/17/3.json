@@ -1,109 +1,109 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "joshua 17:3",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:42:23.027996728Z",
+  "verse": 3,
+  "ref": "joshua 17:3",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "ءُ پہ تسلفہادءَ، ہیپرءِ زہگ، گلعادءِ زہگ، ماکیرءِ زہگ، منشہءِ زہگ، زہگ نہ اَتنت، بلے جنکان اَتنت؛ ءُ اے اِشانیءِ جنکانءِ نامان اِنت: ماہلاہ ءُ نواع، حوگلاہ، ملکاہ ءُ تیرزاہ۔",
   "tokens": [
     {
-      "surface": "וְלִצְלָפְחָד",
+      "surface": "ולצלפחד",
       "gloss": "ءُ پہ تسلفہادءَ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "חֵ֨פֶר",
+      "surface": "חפר",
       "gloss": "ہیپر"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "גִּלְעָ֜ד",
+      "surface": "גלעד",
       "gloss": "گلعاد"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "מָכִ֣יר",
+      "surface": "מכיר",
       "gloss": "ماکیر"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "מְנַשֶּׁ֗ה",
+      "surface": "מנשה",
       "gloss": "منشہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "הָ֥יוּ",
+      "surface": "היו",
       "gloss": "اَتنت"
     },
     {
-      "surface": "ל֛וֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "בָּנִ֖ים",
+      "surface": "בנים",
       "gloss": "زہگ"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "بلے"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "ہچ"
     },
     {
-      "surface": "בָּנ֑וֹת",
+      "surface": "בנות",
       "gloss": "جنکان"
     },
     {
-      "surface": "וְאֵ֨לֶּה֙",
+      "surface": "ואלה",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "שְׁמ֣וֹת",
+      "surface": "שמות",
       "gloss": "نامان"
     },
     {
-      "surface": "בְּנֹתָ֔יו",
+      "surface": "בנתיו",
       "gloss": "آییءِ جنکانءِ"
     },
     {
-      "surface": "מַחְלָ֣ה",
+      "surface": "מחלה",
       "gloss": "ماہلاہ"
     },
     {
-      "surface": "וְנֹעָ֔ה",
+      "surface": "ונעה",
       "gloss": "ءُ نواع"
     },
     {
-      "surface": "חָגְלָ֥ה",
+      "surface": "חגלה",
       "gloss": "حوگلاہ"
     },
     {
-      "surface": "מִלְכָּ֖ה",
+      "surface": "מלכה",
       "gloss": "ملکاہ"
     },
     {
-      "surface": "וְתִרְצָֽה",
+      "surface": "ותרצה",
       "gloss": "ءُ تیرزاہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:42:23.027996728Z",
-  "model": "glm-5.3"
+  ]
 }

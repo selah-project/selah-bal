@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "judges 16:15",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:02:14.881833323Z",
+  "verse": 15,
+  "ref": "judges 16:15",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ آیی آءَ گوَشت: چءُگ تو گوشیت کہ من تءَ دوست دارں، ءُ تءِ دل ⟨את⟩ گوں من نیست؟ اے سئے رند تو منءَ ٹھگ کت ءُ منءَ نہ گوَشتیت چے چیزءَ تءِ زور گیش اِنت.",
   "tokens": [
     {
-      "surface": "וַתֹּאמֶר",
+      "surface": "ותאמר",
       "gloss": "ءُ آیی گوَشت"
     },
     {
-      "surface": "אֵלָיו",
+      "surface": "אליו",
       "gloss": "آءَ"
     },
     {
-      "surface": "אֵיךְ",
+      "surface": "איך",
       "gloss": "چءُگ"
     },
     {
-      "surface": "תֹּאמַר",
+      "surface": "תאמר",
       "gloss": "تو گوشیت"
     },
     {
-      "surface": "אֲהַבְתִּיךָ",
+      "surface": "אהבתיך",
       "gloss": "من تءَ دوست دارں"
     },
     {
-      "surface": "וְלִבְּךָ",
+      "surface": "ולבך",
       "gloss": "ءُ تءِ دل"
     },
     {
-      "surface": "אֵין",
+      "surface": "אין",
       "gloss": "نیست"
     },
     {
-      "surface": "אִתִּי",
+      "surface": "אתי",
       "gloss": "⟨את⟩ گوں من",
       "marks": "گوں من"
     },
     {
-      "surface": "זֶה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "שָׁלֹשׁ",
+      "surface": "שלש",
       "gloss": "سئے"
     },
     {
-      "surface": "פְּעָמִים",
+      "surface": "פעמים",
       "gloss": "رند"
     },
     {
-      "surface": "הֵתַלְתָּ",
+      "surface": "התלת",
       "gloss": "تو ٹھگ کتی"
     },
     {
-      "surface": "בִּי",
+      "surface": "בי",
       "gloss": "منءَ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "הִגַּדְתָּ",
+      "surface": "הגדת",
       "gloss": "گوَشتیتی"
     },
     {
-      "surface": "לִּי",
+      "surface": "לי",
       "gloss": "منءَ"
     },
     {
-      "surface": "בַּמֶּה",
+      "surface": "במה",
       "gloss": "چے چیزءَ"
     },
     {
-      "surface": "כֹּחֲךָ",
+      "surface": "כחך",
       "gloss": "تءِ زور"
     },
     {
-      "surface": "גָּדוֹל",
+      "surface": "גדול",
       "gloss": "گیش"
     }
-  ],
-  "timestamp": "2026-09-25T19:02:14.881833323Z",
-  "model": "glm-5.3"
+  ]
 }

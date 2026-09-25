@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "job 24:23",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:26:09.979019914Z",
+  "verse": 23,
+  "ref": "job 24:23",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "آییءَ اےءِ پہ امن دیت ءُ آ اےءَ تِکیت، ءُ آءِ چشمان اِشاںیں راہاں تہ اِنت۔",
   "tokens": [
     {
-      "surface": "יִתֶּן",
+      "surface": "יתן",
       "gloss": "دیت"
     },
     {
-      "surface": "ל֣וֹ",
+      "surface": "לו",
       "gloss": "اےءِ پہ"
     },
     {
-      "surface": "לָבֶטַח",
+      "surface": "לבטח",
       "gloss": "امن"
     },
     {
-      "surface": "וְיִשָּׁעֵ֑ן",
+      "surface": "וישען",
       "gloss": "ءُ تِکیت"
     },
     {
-      "surface": "וְעֵינֵ֗יהוּ",
+      "surface": "ועיניהו",
       "gloss": "ءُ آءِ چشمان"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "דַּרְכֵיהֶֽם",
+      "surface": "דרכיהם",
       "gloss": "اِشاںیں راہاں"
     }
-  ],
-  "timestamp": "2026-09-25T18:26:09.979019914Z",
-  "model": "glm-5.3"
+  ]
 }

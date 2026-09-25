@@ -1,92 +1,92 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "2-kings 25:11",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:14:13.029390500Z",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ ⟨את⟩ یتیر قومءِ کہ شارءَ تہ اوشتنت ءُ ⟨את⟩ ڈگروک کہ بابلءِ شاہءَ سرا ڈگرتنت ءُ ⟨את⟩ یتیر ہمونءَ جلا کت نبوزارادانءَ، قصابیں سردار.",
   "tokens": [
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "یتیر قوم"
     },
     {
-      "surface": "יֶתֶר",
+      "surface": "יתר",
       "gloss": "یتیر"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "قوم"
     },
     {
-      "surface": "הַנִּשְׁאָרִים",
+      "surface": "הנשארים",
       "gloss": "کہ شارءَ تہ اوشتنت"
     },
     {
-      "surface": "בָּעִיר",
+      "surface": "בעיר",
       "gloss": "شارءَ تہ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ڈگروک"
     },
     {
-      "surface": "הַנֹּפְלִים",
+      "surface": "הנפלים",
       "gloss": "ڈگروک"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נָפְלוּ",
+      "surface": "נפלו",
       "gloss": "ڈگرتنت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرا"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہءِ"
     },
     {
-      "surface": "בָּבֶל",
+      "surface": "בבל",
       "gloss": "بابل"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "یتیر ہمون"
     },
     {
-      "surface": "יֶתֶר",
+      "surface": "יתר",
       "gloss": "یتیر"
     },
     {
-      "surface": "הֶהָמוֹן",
+      "surface": "ההמון",
       "gloss": "ہمون"
     },
     {
-      "surface": "הֶגְלָה",
+      "surface": "הגלה",
       "gloss": "جلا کت"
     },
     {
-      "surface": "נְבוּזַרְאֲדָן",
+      "surface": "נבוזראדן",
       "gloss": "نبوزارادانءَ"
     },
     {
-      "surface": "רַב",
+      "surface": "רב",
       "gloss": "سردار"
     },
     {
-      "surface": "טַבָּחִים",
+      "surface": "טבחים",
       "gloss": "قصابیں"
     }
-  ],
-  "timestamp": "2026-09-25T14:14:13.029390500Z",
-  "model": "glm-5.3"
+  ]
 }

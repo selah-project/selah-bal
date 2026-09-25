@@ -1,110 +1,110 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "jeremiah 3:8",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:57:09.897902949Z",
+  "verse": 8,
+  "ref": "jeremiah 3:8",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ منءَ چشم پچیت کہ پہ تمامیں سببان کہ بےوفا اسرائیل زناکاری کتگءَ، من آییءَ شوع دیت ءُ ⟨את⟩ آییءِ طلاقءِ نوشتہ آییءَ ات کت، ءُ بےوفا یہودا، آییءِ گوہر، نہ ترسیت، بلکہ روت ءُ آیی ہم زناکاری کت.",
   "tokens": [
     {
-      "surface": "וָאֵ֗רֶא",
+      "surface": "וארא",
       "gloss": "ءُ منءَ چشم پچیت"
     },
     {
-      "surface": "כִּ֤י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمامیں"
     },
     {
-      "surface": "אֹדוֹת֙",
+      "surface": "אדות",
       "gloss": "سببان"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נִֽאֲפָה֙",
+      "surface": "נאפה",
       "gloss": "زناکاری کت"
     },
     {
-      "surface": "מְשׁוּבָ֣ה",
+      "surface": "משבה",
       "gloss": "بےوفا"
     },
     {
-      "surface": "יִשְׂרָאֵ֔ל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "שִׁלַּחְתִּ֕יהָ",
+      "surface": "שלחתיה",
       "gloss": "آییءَ شوع دیت"
     },
     {
-      "surface": "וָאֶתֵּ֛ן",
+      "surface": "ואתן",
       "gloss": "ءُ ات کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ طلاقءِ نوشتہ"
     },
     {
-      "surface": "סֵ֥פֶר",
+      "surface": "ספר",
       "gloss": "نوشتہ"
     },
     {
-      "surface": "כְּרִיתֻתֶ֖יהָ",
+      "surface": "כריתתיה",
       "gloss": "آییءِ طلاقءِ"
     },
     {
-      "surface": "אֵלֶ֑יהָ",
+      "surface": "אליה",
       "gloss": "آییءَ"
     },
     {
-      "surface": "וְלֹ֨א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יָֽרְאָ֜ה",
+      "surface": "יראה",
       "gloss": "ترسیت"
     },
     {
-      "surface": "בֹּֽגֵדָ֤ה",
+      "surface": "בגדה",
       "gloss": "بےوفا"
     },
     {
-      "surface": "יְהוּדָה֙",
+      "surface": "יהודה",
       "gloss": "یہودا"
     },
     {
-      "surface": "אֲחוֹתָ֔הּ",
+      "surface": "אחותה",
       "gloss": "آییءِ گوہر"
     },
     {
-      "surface": "וַתֵּ֖לֶךְ",
+      "surface": "ותלך",
       "gloss": "روت"
     },
     {
-      "surface": "וַתִּ֥זֶן",
+      "surface": "ותזן",
       "gloss": "ءُ زناکاری کت"
     },
     {
-      "surface": "גַּ֣ם",
+      "surface": "גם",
       "gloss": "ہم"
     },
     {
-      "surface": "הִֽיא",
+      "surface": "היא",
       "gloss": "آیی"
     }
-  ],
-  "timestamp": "2026-09-25T17:57:09.897902949Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "joshua 15:25",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:41:02.096736413Z",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ ہازور ہدتہ ءُ کریوت حصرون — آ ئے ہازور اِنت۔",
   "tokens": [
     {
-      "surface": "וְחָצוֹר",
+      "surface": "וחצור",
       "gloss": "ءُ ہازور"
     },
     {
-      "surface": "חֲדַתָּה",
+      "surface": "חדתה",
       "gloss": "ہدتہ"
     },
     {
-      "surface": "וּקְרִיּוֹת",
+      "surface": "וקריות",
       "gloss": "ءُ کریوت"
     },
     {
-      "surface": "חֶצְרֽוֹן",
+      "surface": "חצרון",
       "gloss": "حصرون"
     },
     {
-      "surface": "הִ֥יא",
+      "surface": "היא",
       "gloss": "آ ئے اِنت ⟨اِنت⟩"
     },
     {
-      "surface": "חָצֽוֹר",
+      "surface": "חצור",
       "gloss": "ہازور"
     }
-  ],
-  "timestamp": "2026-09-25T18:41:02.096736413Z",
-  "model": "glm-5.3"
+  ]
 }

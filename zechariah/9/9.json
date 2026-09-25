@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "zechariah 9:9",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:00:08.475115811Z",
+  "verse": 9,
+  "ref": "zechariah 9:9",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "شاد بیت گیشتر، اے ژِئی صییون؛ بانگ کٹ، اے ژِئی یروشالایم؛ اےنگ، تُئیں شاہ آئی‌ایت تہ، راست ءُ نجات لہوک آ، غریب ءُ چڑھیت سرءَ کھر ءُ سرءَ بچہ، زہگ ئے کھریں۔",
   "tokens": [
     {
-      "surface": "גִּילִ֨י",
+      "surface": "גילי",
       "gloss": "شاد بیت"
     },
     {
-      "surface": "מְאֹ֜ד",
+      "surface": "מאד",
       "gloss": "گیشتر"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "اے ژِئی"
     },
     {
-      "surface": "צִיּ֗וֹן",
+      "surface": "ציון",
       "gloss": "صییون"
     },
     {
-      "surface": "הָרִ֨יעִי֙",
+      "surface": "הריעי",
       "gloss": "بانگ کٹ"
     },
     {
-      "surface": "בַּ֣ת",
+      "surface": "בת",
       "gloss": "اے ژِئی"
     },
     {
-      "surface": "יְרוּשָׁלִַ֔͏ם",
+      "surface": "ירושלם",
       "gloss": "یروشالایم"
     },
     {
-      "surface": "הִנֵּ֤ה",
+      "surface": "הנה",
       "gloss": "اےنگ"
     },
     {
-      "surface": "מַלְכֵּךְ֙",
+      "surface": "מלכך",
       "gloss": "تُئیں شاہ"
     },
     {
-      "surface": "יָבֹ֣וא",
+      "surface": "יבוא",
       "gloss": "آئی‌ایت"
     },
     {
-      "surface": "לָ֔ךְ",
+      "surface": "לך",
       "gloss": "تہ"
     },
     {
-      "surface": "צַדִּ֥יק",
+      "surface": "צדיק",
       "gloss": "راست"
     },
     {
-      "surface": "וְנֹושָׁ֖ע",
+      "surface": "ונושע",
       "gloss": "ءُ نجات لہوک"
     },
     {
-      "surface": "ה֑וּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "עָנִי֙",
+      "surface": "עני",
       "gloss": "غریب"
     },
     {
-      "surface": "וְרֹכֵ֣ב",
+      "surface": "ורכב",
       "gloss": "ءُ چڑھیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "חֲמ֔וֹר",
+      "surface": "חמור",
       "gloss": "کھر"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "עַ֖יִר",
+      "surface": "עיר",
       "gloss": "بچہ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "אֲתֹנֽוֹת",
+      "surface": "אתנות",
       "gloss": "کھریں"
     }
-  ],
-  "timestamp": "2026-09-25T21:00:08.475115811Z",
-  "model": "glm-5.3"
+  ]
 }

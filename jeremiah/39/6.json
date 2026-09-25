@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "jeremiah 39:6",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:04:09.755586065Z",
+  "verse": 6,
+  "ref": "jeremiah 39:6",
+  "tier": "glm-5.2",
   "chapter": 39,
   "translation": "ءُ بابلءِ بادشاہءَ رِبلہءَ چہ آییءِ چشمانی پیشی ⟨את⟩ زیدقیاہءِ زہگان کشت، ءُ ⟨את⟩ یہوداہءِ گیش سرداران بابلءِ بادشاہءَ کشت.",
   "tokens": [
     {
-      "surface": "וַיִּשְׁחַט",
+      "surface": "וישחט",
       "gloss": "ءُ کشت"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "بادشاہ"
     },
     {
-      "surface": "בָּבֶל",
+      "surface": "בבל",
       "gloss": "بابلءِ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زیدقیاہءِ زہگان"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "צִדְקִיָּהוּ",
+      "surface": "צדקיהו",
       "gloss": "زیدقیاہءِ"
     },
     {
-      "surface": "בְּרִבְלָה",
+      "surface": "ברבלה",
       "gloss": "رِبلہءَ"
     },
     {
-      "surface": "לְעֵינָיו",
+      "surface": "לעיניו",
       "gloss": "چہ آییءِ چشمانی پیشی"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "یہوداہءِ گیش سرداران"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیش"
     },
     {
-      "surface": "חֹרֵי",
+      "surface": "חרי",
       "gloss": "سرداران"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہءِ"
     },
     {
-      "surface": "שָׁחַט",
+      "surface": "שחט",
       "gloss": "کشت"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "بادشاہ"
     },
     {
-      "surface": "בָּבֶל",
+      "surface": "בבל",
       "gloss": "بابلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:04:09.755586065Z",
-  "model": "glm-5.3"
+  ]
 }

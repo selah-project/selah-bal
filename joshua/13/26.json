@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "joshua 13:26",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:40:35.266476460Z",
+  "verse": 26,
+  "ref": "joshua 13:26",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ چہ حشبونءَ گوں رامتِ مِتسپہ ءُ بیتونیمان، ءُ چہ مَحانایمءَ گوں دِبیرءِ سرحدءَ،",
   "tokens": [
     {
-      "surface": "וּמֵחֶשְׁבּוֹן",
+      "surface": "ומחשבון",
       "gloss": "ءُ چہ حشبونءَ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "گوں (تا)"
     },
     {
-      "surface": "רָמַת",
+      "surface": "רמת",
       "gloss": "رامتِ"
     },
     {
-      "surface": "הַמִּצְפֶּה",
+      "surface": "המצפה",
       "gloss": "مِتسپہ"
     },
     {
-      "surface": "וּבְטֹנִים",
+      "surface": "ובטנים",
       "gloss": "ءُ بیتونیمان"
     },
     {
-      "surface": "וּמִמַּחֲנַיִם",
+      "surface": "וממחנים",
       "gloss": "ءُ چہ مَحانایمءَ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "گوں (تا)"
     },
     {
-      "surface": "גְּבוּל",
+      "surface": "גבול",
       "gloss": "سرحد"
     },
     {
-      "surface": "לִדְבִּר",
+      "surface": "לדבר",
       "gloss": "دِبیرءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:40:35.266476460Z",
-  "model": "glm-5.3"
+  ]
 }

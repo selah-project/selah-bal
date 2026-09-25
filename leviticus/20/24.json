@@ -1,107 +1,107 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "leviticus 20:24",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:23:58.727138139Z",
+  "verse": 24,
+  "ref": "leviticus 20:24",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "ءُ ما ءُ شمایا گوَشت: شمایے ⟨את⟩ آیانی ڈگارءَ ورثتءَ گرئت، ءُ ما آ ءُ توم شمایا پہ ورثتءِ گرگ، ⟨את⟩ آ یکے زمین کہ شیر ءُ ماٶشءَ رودت — ما یاہوہ شمایا ایلوہیم اَم، آ کہ شمایا چہ قومانی ءُ جتا کت ⟨את⟩۔",
   "tokens": [
     {
-      "surface": "וָאֹמַר",
+      "surface": "ואמר",
       "gloss": "ءُ ما گوَشت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "شمایا"
     },
     {
-      "surface": "אַתֶּם",
+      "surface": "אתם",
       "gloss": "شمایے"
     },
     {
-      "surface": "תִּירְשׁוּ",
+      "surface": "תירשו",
       "gloss": "ورثتءَ گرئت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آیانی ڈگارءَ"
     },
     {
-      "surface": "אַדְמָתָם",
+      "surface": "אדמתם",
       "gloss": "آیانی ڈگارءَ"
     },
     {
-      "surface": "וַאֲנִי",
+      "surface": "ואני",
       "gloss": "ءُ ما ءُ توم"
     },
     {
-      "surface": "אֶתְּנֶנָּה",
+      "surface": "אתננה",
       "gloss": "توم... شمایا"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "شمایا"
     },
     {
-      "surface": "לָרֶשֶׁת",
+      "surface": "לרשת",
       "gloss": "پہ ورثتءِ گرگ"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آ"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "یکے زمین"
     },
     {
-      "surface": "זָבַת",
+      "surface": "זבת",
       "gloss": "رودت"
     },
     {
-      "surface": "חָלָב",
+      "surface": "חלב",
       "gloss": "شیر"
     },
     {
-      "surface": "וּדְבָשׁ",
+      "surface": "ודבש",
       "gloss": "ءُ ماٶش"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "ما"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵיכֶם",
+      "surface": "אלהיכם",
       "gloss": "شمایا ایلوہیم"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "הִבְדַּלְתִּי",
+      "surface": "הבדלתי",
       "gloss": "جتا کت"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شمایا",
       "marks": "شمایا"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָעַמִּים",
+      "surface": "העמים",
       "gloss": "قومانی"
     }
-  ],
-  "timestamp": "2026-09-25T19:23:58.727138139Z",
-  "model": "glm-5.3"
+  ]
 }

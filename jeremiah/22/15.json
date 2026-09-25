@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "jeremiah 22:15",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:48:07.039661347Z",
+  "verse": 15,
+  "ref": "jeremiah 22:15",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "آیا تو توکے بیت، پرچا کہ تو ارزءِ داراں حریف کنیں؟ تُئے پِت نہ چا خارت ءُ شُشت، ءُ دادی ءُ راستی کت — پدا آییءَ چنگ اِت؟",
   "tokens": [
     {
-      "surface": "הֲתִֽמְלֹ֔ךְ",
+      "surface": "התמלך",
       "gloss": "توکے بیت"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אַתָּ֖ה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "מְתַחֲרֶ֣ה",
+      "surface": "מתחרה",
       "gloss": "حریف کنیں"
     },
     {
-      "surface": "בָאָ֑רֶז",
+      "surface": "בארז",
       "gloss": "ارزءِ داراں"
     },
     {
-      "surface": "אָבִ֜יךָ",
+      "surface": "אביך",
       "gloss": "تُئے پِت"
     },
     {
-      "surface": "הֲל֧וֹא",
+      "surface": "הלוא",
       "gloss": "نہ چا"
     },
     {
-      "surface": "אָכַ֣ל",
+      "surface": "אכל",
       "gloss": "خارت"
     },
     {
-      "surface": "וְשָׁתָ֗ה",
+      "surface": "ושתה",
       "gloss": "ءُ شُشت"
     },
     {
-      "surface": "וְעָשָׂ֤ה",
+      "surface": "ועשה",
       "gloss": "ءُ کت"
     },
     {
-      "surface": "מִשְׁפָּט֙",
+      "surface": "משפט",
       "gloss": "دادی"
     },
     {
-      "surface": "וּצְדָקָ֔ה",
+      "surface": "וצדקה",
       "gloss": "ءُ راستی"
     },
     {
-      "surface": "אָ֖ז",
+      "surface": "אז",
       "gloss": "پدا"
     },
     {
-      "surface": "ט֥וֹב",
+      "surface": "טוב",
       "gloss": "چنگ"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:48:07.039661347Z",
-  "model": "glm-5.3"
+  ]
 }

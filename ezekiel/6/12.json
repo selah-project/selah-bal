@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "ezekiel 6:12",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:32:49.240827429Z",
+  "verse": 12,
+  "ref": "ezekiel 6:12",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "دور تہ دبءَ مریت، ءُ نزدیک تہ تراشوُڑءَ ڈیگ بیت، ءُ رمن بوتگ ءُ گھیریج بوتگ تہ گرسنگیءَ مریت، ءُ مانءِ شین اِشاںءَ پوری کنیں۔",
   "tokens": [
     {
-      "surface": "הָרָחוֹק",
+      "surface": "הרחוק",
       "gloss": "دور"
     },
     {
-      "surface": "בַּדֶּבֶר",
+      "surface": "בדבר",
       "gloss": "تہ دبءَ"
     },
     {
-      "surface": "יָמוּת",
+      "surface": "ימות",
       "gloss": "مریت"
     },
     {
-      "surface": "וְהַקָּרוֹב",
+      "surface": "והקרוב",
       "gloss": "ءُ نزدیک"
     },
     {
-      "surface": "בַּחֶרֶב",
+      "surface": "בחרב",
       "gloss": "تہ تراشوُڑءَ"
     },
     {
-      "surface": "יִפּוֹל",
+      "surface": "יפול",
       "gloss": "ڈیگ بیت"
     },
     {
-      "surface": "וְהַנִּשְׁאָר",
+      "surface": "והנשאר",
       "gloss": "ءُ رمن بوتگ"
     },
     {
-      "surface": "וְהַנָּצוּר",
+      "surface": "והנצור",
       "gloss": "ءُ گھیریج بوتگ"
     },
     {
-      "surface": "בָּרָעָב",
+      "surface": "ברעב",
       "gloss": "تہ گرسنگیءَ"
     },
     {
-      "surface": "יָמוּת",
+      "surface": "ימות",
       "gloss": "مریت"
     },
     {
-      "surface": "וְכִלֵּיתִי",
+      "surface": "וכליתי",
       "gloss": "ءُ پوری کنیں"
     },
     {
-      "surface": "חֲמָתִי",
+      "surface": "חמתי",
       "gloss": "مانءِ شین"
     },
     {
-      "surface": "בָּֽם",
+      "surface": "בם",
       "gloss": "اِشاںءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:32:49.240827429Z",
-  "model": "glm-5.3"
+  ]
 }

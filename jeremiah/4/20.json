@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "jeremiah 4:20",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:05:47.566972816Z",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ویرانی چہ ویرانیءَ بانگ بیت، پرچا کہ پوریں زمین ویران بوتگ؛ یکدم ماءِ گڈاں ویران بوتنت، یک لمحہءَ ماءِ پرداں۔",
   "tokens": [
     {
-      "surface": "שֶׁ֤בֶר",
+      "surface": "שבר",
       "gloss": "ویرانی"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "چہ"
     },
     {
-      "surface": "שֶׁ֨בֶר֙",
+      "surface": "שבר",
       "gloss": "ویرانیءَ"
     },
     {
-      "surface": "נִקְרָ֔א",
+      "surface": "נקרא",
       "gloss": "بانگ بیت"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "שֻׁדְּדָ֖ה",
+      "surface": "שדדה",
       "gloss": "ویران بوتگ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "הָאָ֑רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "پִּתְאֹם֙",
+      "surface": "פתאם",
       "gloss": "یکدم"
     },
     {
-      "surface": "שֻׁדְּד֣וּ",
+      "surface": "שדדו",
       "gloss": "ویران بوتنت"
     },
     {
-      "surface": "אֹהָלַ֔י",
+      "surface": "אהלי",
       "gloss": "ماءِ گڈاں"
     },
     {
-      "surface": "רֶ֖גַע",
+      "surface": "רגע",
       "gloss": "یک لمحہءَ"
     },
     {
-      "surface": "יְרִיעֹתָֽי",
+      "surface": "יריעתי",
       "gloss": "ماءِ پرداں"
     }
-  ],
-  "timestamp": "2026-09-25T18:05:47.566972816Z",
-  "model": "glm-5.3"
+  ]
 }

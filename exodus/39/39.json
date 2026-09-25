@@ -1,87 +1,87 @@
 {
-  "tier": "glm-5.2",
-  "verse": 39,
-  "ref": "exodus 39:39",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:06:59.445669417Z",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "tier": "glm-5.2",
   "chapter": 39,
   "translation": "⟨את⟩ کانسیں قربانگاہ ءُ ⟨את⟩ کانسیں جالی کہ آییءِ اِنت، ⟨את⟩ آییءِ تراشان ءُ ⟨את⟩ آییءِ ہمگ سازوکان، ⟨את⟩ حوض ءُ ⟨את⟩ آییءِ پایہ،",
   "tokens": [
     {
-      "surface": "אֵ֣ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کانسیں قربانگاہ"
     },
     {
-      "surface": "מִזְבַּ֣ח",
+      "surface": "מזבח",
       "gloss": "قربانگاہ"
     },
     {
-      "surface": "הַנְּחֹ֗שֶׁת",
+      "surface": "הנחשת",
       "gloss": "کانسیں"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "کانسیں جالی"
     },
     {
-      "surface": "מִכְבֵּ֤ר",
+      "surface": "מכבר",
       "gloss": "جالی"
     },
     {
-      "surface": "הַנְּחֹ֨שֶׁת֙",
+      "surface": "הנחשת",
       "gloss": "کانسیں"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "ל֖וֹ",
+      "surface": "לו",
       "gloss": "آییءِ اِنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ تراشان"
     },
     {
-      "surface": "בַּדָּ֖יו",
+      "surface": "בדיו",
       "gloss": "تراشان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ ہمگ سازوکان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "כֵּלָ֑יו",
+      "surface": "כליו",
       "gloss": "سازوکانءِ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "حوض"
     },
     {
-      "surface": "הַכִּיֹּ֖ר",
+      "surface": "הכיר",
       "gloss": "حوض"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ پایہ"
     },
     {
-      "surface": "כַּנּֽוֹ",
+      "surface": "כנו",
       "gloss": "آییءِ پایہ"
     }
-  ],
-  "timestamp": "2026-09-25T21:06:59.445669417Z",
-  "model": "glm-5.3"
+  ]
 }

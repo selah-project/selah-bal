@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "psalms 45:7",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:41:02.767254388Z",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "tier": "glm-5.2",
   "chapter": 45,
   "translation": "تُءِ تخت، اے ایلوہیم، پہ ہمیشہ ءُ دیمے ⟨اِنت⟩؛ راستیءِ عصا تُءِ شاهیءِ عصا ⟨اِنت⟩.",
   "tokens": [
     {
-      "surface": "כִּסְאֲךָ",
+      "surface": "כסאך",
       "gloss": "تُءِ تخت"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "اے ایلوہیم"
     },
     {
-      "surface": "עוֹלָם",
+      "surface": "עולם",
       "gloss": "پہ ہمیشہ"
     },
     {
-      "surface": "וָעֶד",
+      "surface": "ועד",
       "gloss": "ءُ دیمے"
     },
     {
-      "surface": "שֵׁבֶט",
+      "surface": "שבט",
       "gloss": "عصا"
     },
     {
-      "surface": "מִישֹׁר",
+      "surface": "מישר",
       "gloss": "راستیءِ"
     },
     {
-      "surface": "שֵׁבֶט",
+      "surface": "שבט",
       "gloss": "عصا"
     },
     {
-      "surface": "מַלְכוּתֶךָ",
+      "surface": "מלכותך",
       "gloss": "تُءِ شاهیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:41:02.767254388Z",
-  "model": "glm-5.3"
+  ]
 }

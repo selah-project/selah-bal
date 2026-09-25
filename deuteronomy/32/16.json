@@ -1,29 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "deuteronomy 32:16",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:05:37.558806012Z",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "گوں بیگانگان آییءَ حسادءَ اَنت کت، گوں مکروہ چیزاں آییءَ غضمنیت کت.",
   "tokens": [
     {
-      "surface": "יַקְנִאֻ֖הוּ",
+      "surface": "יקנאהו",
       "gloss": "آییءَ حسادءَ اَنت کت"
     },
     {
-      "surface": "בְּזָרִ֑ים",
+      "surface": "בזרים",
       "gloss": "گوں بیگانگان"
     },
     {
-      "surface": "בְּתוֹעֵבֹ֖ת",
+      "surface": "בתועבת",
       "gloss": "گوں مکروہ چیزاں"
     },
     {
-      "surface": "יַכְעִיסֻֽהוּ",
+      "surface": "יכעיסהו",
       "gloss": "آییءَ غضمنیت کت"
     }
-  ],
-  "timestamp": "2026-09-25T21:05:37.558806012Z",
-  "model": "glm-5.3"
+  ]
 }

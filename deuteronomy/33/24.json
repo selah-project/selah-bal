@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "deuteronomy 33:24",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:29:59.780061549Z",
+  "verse": 24,
+  "ref": "deuteronomy 33:24",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ پہ اَشِر گوَشت: برکتاں اَشِر چہ زہگان، بیت پسنداں آییءِ براتانءَ، ءُ ڈبیت آییءِ پا تیلءَ.",
   "tokens": [
     {
-      "surface": "וּלְאָשֵׁר",
+      "surface": "ולאשר",
       "gloss": "ءُ پہ اَشِر"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "בָּרוּךְ",
+      "surface": "ברוך",
       "gloss": "برکتاں"
     },
     {
-      "surface": "מִבָּנִים",
+      "surface": "מבנים",
       "gloss": "چہ زہگان"
     },
     {
-      "surface": "אָשֵׁר",
+      "surface": "אשר",
       "gloss": "اَشِر"
     },
     {
-      "surface": "יְהִי",
+      "surface": "יהי",
       "gloss": "بیت"
     },
     {
-      "surface": "רְצוּי",
+      "surface": "רצוי",
       "gloss": "پسنداں"
     },
     {
-      "surface": "אֶחָיו",
+      "surface": "אחיו",
       "gloss": "آییءِ براتانءَ"
     },
     {
-      "surface": "וְטֹבֵל",
+      "surface": "וטבל",
       "gloss": "ءُ ڈبیت"
     },
     {
-      "surface": "בַּשֶּׁמֶן",
+      "surface": "בשמן",
       "gloss": "تیلءَ"
     },
     {
-      "surface": "רַגְלוֹ",
+      "surface": "רגלו",
       "gloss": "آییءِ پا"
     }
-  ],
-  "timestamp": "2026-09-25T15:29:59.780061549Z",
-  "model": "glm-5.3"
+  ]
 }

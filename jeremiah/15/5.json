@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "jeremiah 15:5",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:43:31.957043812Z",
+  "verse": 5,
+  "ref": "jeremiah 15:5",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "کی چہ تیءَ سرءَ رحم کنت، اے یروشلم؟ ءُ کی پہ تی نوحہ کنت؟ ءُ کی یک لٹک کنت کہ تیءِ سلامتی بپرست؟",
   "tokens": [
@@ -52,14 +54,12 @@
       "gloss": "کہ بپرست"
     },
     {
-      "surface": "לשלום",
+      "surface": "לשלם",
       "gloss": "سلامتیءِ بابت"
     },
     {
       "surface": "לך",
       "gloss": "تیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:43:31.957043812Z",
-  "model": "glm-5.3"
+  ]
 }

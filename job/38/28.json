@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "job 38:28",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:30:04.343370575Z",
+  "verse": 28,
+  "ref": "job 38:28",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "آیا مینہءَ پیو هست، یا کسے اگلی تہءِ جنڈاں جن دتگنت؟",
   "tokens": [
     {
-      "surface": "הֲיֵשׁ",
+      "surface": "היש",
       "gloss": "آیا … هست"
     },
     {
-      "surface": "לַמָּטָר",
+      "surface": "למטר",
       "gloss": "مینہءَ"
     },
     {
-      "surface": "אָב",
+      "surface": "אב",
       "gloss": "پیو"
     },
     {
-      "surface": "אוֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کسے"
     },
     {
-      "surface": "הוֹלִיד",
+      "surface": "הוליד",
       "gloss": "جن دتگنت"
     },
     {
-      "surface": "אֶגְלֵי",
+      "surface": "אגלי",
       "gloss": "اگلی"
     },
     {
-      "surface": "טָל",
+      "surface": "טל",
       "gloss": "تہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:30:04.343370575Z",
-  "model": "glm-5.3"
+  ]
 }

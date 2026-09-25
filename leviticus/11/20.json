@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "leviticus 11:20",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:17:45.300306221Z",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "مرگانی ہر ورندوک کہ چارءَ روٹ اِنت — پلیت اِنت پہ شما۔",
   "tokens": [
     {
-      "surface": "כֹ֚ל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "שֶׁ֣רֶץ",
+      "surface": "שרץ",
       "gloss": "ورندوک"
     },
     {
-      "surface": "הָע֔וֹף",
+      "surface": "העוף",
       "gloss": "مرگانی"
     },
     {
-      "surface": "הַהֹלֵ֖ךְ",
+      "surface": "ההלך",
       "gloss": "روت اِنت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "ءَ"
     },
     {
-      "surface": "אַרְבַּ֑ע",
+      "surface": "ארבע",
       "gloss": "چار"
     },
     {
-      "surface": "שֶׁ֥קֶץ",
+      "surface": "שקץ",
       "gloss": "پلیت"
     },
     {
-      "surface": "ה֖וּא",
+      "surface": "הוא",
       "gloss": "اِنت"
     },
     {
-      "surface": "לָכֶֽם",
+      "surface": "לכם",
       "gloss": "پہ شما"
     }
-  ],
-  "timestamp": "2026-09-25T19:17:45.300306221Z",
-  "model": "glm-5.3"
+  ]
 }

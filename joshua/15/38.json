@@ -1,25 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
-  "ref": "joshua 15:38",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:41:57.558361026Z",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ دیلان، ءُ مِتزپہ، ءُ یکتایل،",
   "tokens": [
     {
-      "surface": "וְדִלְעָ֥ן",
+      "surface": "ודלען",
       "gloss": "ءُ دیلان"
     },
     {
-      "surface": "וְהַמִּצְפֶּ֖ה",
+      "surface": "והמצפה",
       "gloss": "ءُ مِتزپہ"
     },
     {
-      "surface": "וְיָקְתְאֵֽל",
+      "surface": "ויקתאל",
       "gloss": "ءُ یکتائل"
     }
-  ],
-  "timestamp": "2026-09-25T18:41:57.558361026Z",
-  "model": "glm-5.3"
+  ]
 }

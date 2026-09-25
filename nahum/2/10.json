@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "nahum 2:10",
   "book": "nahum",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:36:00.811469888Z",
+  "verse": 10,
+  "ref": "nahum 2:10",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "لوٹیت رپٹ، لوٹیت سون؛ ءُ آءِ گدانءِ کے نیست — شان چہ ہمگ پسندئین اوزاراں۔",
   "tokens": [
     {
-      "surface": "בֹּזּוּ",
+      "surface": "בזו",
       "gloss": "لوٹیت"
     },
     {
-      "surface": "כֶּסֶף",
+      "surface": "כסף",
       "gloss": "رپٹ"
     },
     {
-      "surface": "בֹּזּוּ",
+      "surface": "בזו",
       "gloss": "لوٹیت"
     },
     {
-      "surface": "זָהָב",
+      "surface": "זהב",
       "gloss": "سون"
     },
     {
-      "surface": "וְאֵין",
+      "surface": "ואין",
       "gloss": "ءُ نیست"
     },
     {
-      "surface": "קֵצֶה",
+      "surface": "קצה",
       "gloss": "کے"
     },
     {
-      "surface": "לַתְּכוּנָה",
+      "surface": "לתכונה",
       "gloss": "آءِ گدانءِ"
     },
     {
-      "surface": "כָּבֹד",
+      "surface": "כבד",
       "gloss": "شان"
     },
     {
-      "surface": "מִכֹּל",
+      "surface": "מכל",
       "gloss": "چہ ہمگ"
     },
     {
-      "surface": "כְּלִי",
+      "surface": "כלי",
       "gloss": "اوزاراں"
     },
     {
-      "surface": "חֶמְדָּה",
+      "surface": "חמדה",
       "gloss": "پسندئین"
     }
-  ],
-  "timestamp": "2026-09-25T19:36:00.811469888Z",
-  "model": "glm-5.3"
+  ]
 }

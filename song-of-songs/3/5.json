@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "song-of-songs 3:5",
   "book": "song-of-songs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:53:25.549021126Z",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ما تسیکن ⟨את⟩ قسم داتگ، اے یورشلیمی جنکان، آهورانءَ یا دشتی مادہ آهورانءَ، ⟨את⟩ محبت نہ ہوشار کنیں ءُ نہ جوش دینیں، تہ آے کہ آ چاہیت۔",
   "tokens": [
     {
-      "surface": "הִשְׁבַּ֨עְתִּי",
+      "surface": "השבעתי",
       "gloss": "قسم داتگ"
     },
     {
-      "surface": "אֶתְכֶ֜ם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ تسیکن",
       "marks": "یورشلیمی جنکان"
     },
     {
-      "surface": "בְּנ֤וֹת",
+      "surface": "בנות",
       "gloss": "جنکان"
     },
     {
-      "surface": "יְרוּשָׁלִַ֨ם֙",
+      "surface": "ירושלם",
       "gloss": "یورشلیمی"
     },
     {
-      "surface": "בִּצְבָא֔וֹת",
+      "surface": "בצבאות",
       "gloss": "آهورانءَ"
     },
     {
-      "surface": "א֖וֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "בְּאַיְל֣וֹת",
+      "surface": "באילות",
       "gloss": "مادہ آهورانءَ"
     },
     {
-      "surface": "הַשָּׂדֶ֑ה",
+      "surface": "השדה",
       "gloss": "دشتی"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "نہ"
     },
     {
-      "surface": "תָּעִ֧ירוּ",
+      "surface": "תעירו",
       "gloss": "ہوشار کنیں"
     },
     {
-      "surface": "וְֽאִם",
+      "surface": "ואם",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "תְּעֽוֹרְר֛וּ",
+      "surface": "תעוררו",
       "gloss": "جوش دینیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "محبت"
     },
     {
-      "surface": "הָאַהֲבָ֖ה",
+      "surface": "האהבה",
       "gloss": "محبت"
     },
     {
-      "surface": "עַ֥ד",
+      "surface": "עד",
       "gloss": "تہ آے"
     },
     {
-      "surface": "שֶׁתֶּחְפָּֽץ",
+      "surface": "שתחפץ",
       "gloss": "کہ آ چاہیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:53:25.549021126Z",
-  "model": "glm-5.3"
+  ]
 }

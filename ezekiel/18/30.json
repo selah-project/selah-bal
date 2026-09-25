@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "ezekiel 18:30",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:10:19.499194822Z",
+  "verse": 30,
+  "ref": "ezekiel 18:30",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "آں پہ، ہر مرد وتی راہءِ پہ منزل کنم ⟨את⟩ آماں، اے یسرایلءِ گدان — ادونای یاہوہءِ اِر اِنت۔ وریت ءُ پدا وریت چہ ہمگ ہماں گیٹیں کاراں چہ؛ ءُ آں گنہ آماںءَ گوں ڈگل نہ بیت۔",
   "tokens": [
     {
-      "surface": "לָכֵן",
+      "surface": "לכן",
       "gloss": "آں پہ"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "ہر مرد"
     },
     {
-      "surface": "כִּדְרָכָיו",
+      "surface": "כדרכיו",
       "gloss": "وتی راہءِ پہ"
     },
     {
-      "surface": "אֶשְׁפֹּט",
+      "surface": "אשפט",
       "gloss": "منزل کنم"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ آماںءَ",
       "marks": "یسرایلءِ گدان"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرایلءِ"
     },
     {
-      "surface": "נְאֻם",
+      "surface": "נאם",
       "gloss": "اِر"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "שׁוּבוּ",
+      "surface": "שובו",
       "gloss": "وریت"
     },
     {
-      "surface": "וְהָשִׁיבוּ",
+      "surface": "והשיבו",
       "gloss": "ءُ پدا وریت"
     },
     {
-      "surface": "מִכָּל",
+      "surface": "מכל",
       "gloss": "چہ ہمگ"
     },
     {
-      "surface": "פִּשְׁעֵיכֶם",
+      "surface": "פשעיכם",
       "gloss": "ہماں گیٹیں کاراں چہ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "آماںءَ"
     },
     {
-      "surface": "לְמִכְשׁוֹל",
+      "surface": "למכשול",
       "gloss": "گوں ڈگل"
     },
     {
-      "surface": "עָוֺן",
+      "surface": "עון",
       "gloss": "گنہ"
     }
-  ],
-  "timestamp": "2026-09-25T16:10:19.499194822Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "song-of-songs 8:1",
   "book": "song-of-songs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:53:06.422230237Z",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "کے توءَ ماءِ براز کنت، کہ منی ماںءِ چټیاں چمبوک اتی؟ من توءَ بیرونگءَ لبم، من توءَ چُمبان بکن، ءُ ہم منءَ بوز نہ کنن۔",
   "tokens": [
@@ -60,10 +62,8 @@
       "gloss": "بوز کنن"
     },
     {
-      "surface": "לی",
+      "surface": "לי",
       "gloss": "منءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:53:06.422230237Z",
-  "model": "glm-5.3"
+  ]
 }

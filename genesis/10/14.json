@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "genesis 10:14",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:41:31.144591863Z",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ ⟨את⟩ پتروسیم ءُ ⟨את⟩ کسلوحیم کہ چہ آیاں درا بوتنت فلسطیم ءُ ⟨את⟩ کفتوریم",
   "tokens": [
@@ -47,10 +49,8 @@
       "marks": "کفتوریم"
     },
     {
-      "surface": "כפתورים",
+      "surface": "כפתרים",
       "gloss": "کفتوریم"
     }
-  ],
-  "timestamp": "2026-09-25T16:41:31.144591863Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "2-kings 14:21",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:05:22.786153839Z",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ یہودہءِ پوری قوم ⟨את⟩ عزریاہءَ گپت ءُ آ ہبدہ سالءِ زہگ اَت، ءُ ⟨את⟩ آییءَ آییءِ پیءِ امتسیاہءِ جاگہءَ بادشاہ کت۔",
   "tokens": [
     {
-      "surface": "וַיִּקְח֞וּ",
+      "surface": "ויקחו",
       "gloss": "گپت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوری"
     },
     {
-      "surface": "עַ֤ם",
+      "surface": "עם",
       "gloss": "قوم"
     },
     {
-      "surface": "יְהוּדָה֙",
+      "surface": "יהודה",
       "gloss": "یہودہءِ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "عزریاہءَ"
     },
     {
-      "surface": "עֲזַרְיָ֔ה",
+      "surface": "עזריה",
       "gloss": "عزریاہءَ"
     },
     {
-      "surface": "וְה֖וּא",
+      "surface": "והוא",
       "gloss": "ءُ آ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "שֵׁ֥שׁ",
+      "surface": "שש",
       "gloss": "شش"
     },
     {
-      "surface": "עֶשְׂרֵ֖ה",
+      "surface": "עשרה",
       "gloss": "دہ"
     },
     {
-      "surface": "שָׁנָ֑ה",
+      "surface": "שנה",
       "gloss": "سالءِ"
     },
     {
-      "surface": "וַיַּמְלִ֣יכוּ",
+      "surface": "וימלכו",
       "gloss": "بادشاہ کت"
     },
     {
-      "surface": "אֹת֔וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ"
     },
     {
-      "surface": "תַּ֖חַת",
+      "surface": "תחת",
       "gloss": "جاگہءَ"
     },
     {
-      "surface": "אָבִ֥יו",
+      "surface": "אביו",
       "gloss": "آییءِ پیءِ"
     },
     {
-      "surface": "אֲמַצְיָֽהוּ",
+      "surface": "אמציהו",
       "gloss": "امتسیاہ"
     }
-  ],
-  "timestamp": "2026-09-25T14:05:22.786153839Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,103 +1,103 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "leviticus 13:25",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:17:35.203796248Z",
+  "verse": 25,
+  "ref": "leviticus 13:25",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ کاہن آ ⟨את⟩ بیتیت، ءُ اے نا کہ داغءِ کنءِ موں ہلے بوتگ ءُ آییءِ دمگ چہ جلدءَ گوَراہ اِنت — سوڑا اِنت، چہ پڑاوءَ پھُٹتگ؛ ءُ کاہن ⟨את⟩ آییءَ ناپاک کنت — ناگءِ سوڑا اِنت۔",
   "tokens": [
     {
-      "surface": "וְרָאָ֣ה",
+      "surface": "וראה",
       "gloss": "ءُ بیتیت"
     },
     {
-      "surface": "אֹתָ֣הּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آ",
       "marks": "آ (داغ)"
     },
     {
-      "surface": "הַכֹּהֵ֡ן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "וְהִנֵּ֣ה",
+      "surface": "והנה",
       "gloss": "ءُ اے نا"
     },
     {
-      "surface": "נֶהְפַּךְ֩",
+      "surface": "נהפך",
       "gloss": "ہلے بوتگ"
     },
     {
-      "surface": "שֵׂעָ֨ר",
+      "surface": "שער",
       "gloss": "کنءِ موں"
     },
     {
-      "surface": "לָבָ֜ן",
+      "surface": "לבן",
       "gloss": "ہلے"
     },
     {
-      "surface": "בַּבַּהֶ֗רֶת",
+      "surface": "בבהרת",
       "gloss": "داغءَ"
     },
     {
-      "surface": "וּמַרְאֶ֨הָ֙",
+      "surface": "ומראה",
       "gloss": "ءُ آییءِ دمگ"
     },
     {
-      "surface": "עָמֹ֣ק",
+      "surface": "עמק",
       "gloss": "گوَراہ"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָע֔וֹר",
+      "surface": "העור",
       "gloss": "جلدءَ"
     },
     {
-      "surface": "צָרַ֣עַת",
+      "surface": "צרעת",
       "gloss": "سوڑا"
     },
     {
-      "surface": "הִ֔וא",
+      "surface": "הוא",
       "gloss": "اِنت"
     },
     {
-      "surface": "בַּמִּכְוָ֖ה",
+      "surface": "במכוה",
       "gloss": "پڑاوءَ"
     },
     {
-      "surface": "פָּרְחָ֑ה",
+      "surface": "פרחה",
       "gloss": "پھُٹتگ"
     },
     {
-      "surface": "וְטִמֵּ֤א",
+      "surface": "וטמא",
       "gloss": "ءُ ناپاک کنت"
     },
     {
-      "surface": "אֹתוֹ֙",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ"
     },
     {
-      "surface": "הַכֹּהֵ֔ן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "נֶ֥גַע",
+      "surface": "נגע",
       "gloss": "ناگ"
     },
     {
-      "surface": "צָרַ֖עַת",
+      "surface": "צרעת",
       "gloss": "سوڑا"
     },
     {
-      "surface": "הִֽוא",
+      "surface": "הוא",
       "gloss": "اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:17:35.203796248Z",
-  "model": "glm-5.3"
+  ]
 }

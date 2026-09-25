@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "zechariah 1:15",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:18:34.505263448Z",
+  "verse": 15,
+  "ref": "zechariah 1:15",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ یک گیش غضب مَن چہ گیش غضب دارانءَ گوَن گوں قوماںئے کہ آسودہ اَنت، کہ من یک چست غضب کت، بلے اِشاں شرءَ مدد کت۔",
   "tokens": [
     {
-      "surface": "וְקֶ֤צֶף",
+      "surface": "וקצף",
       "gloss": "ءُ یک گیش غضب"
     },
     {
-      "surface": "גָּדוֹל",
+      "surface": "גדול",
       "gloss": "گیش"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "קֹצֵף",
+      "surface": "קצף",
       "gloss": "غضب دارانءَ گوَن"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "چہ"
     },
     {
-      "surface": "הַגּוֹיִם",
+      "surface": "הגוים",
       "gloss": "قوماںئے"
     },
     {
-      "surface": "הַשַּׁאֲנַנִּים",
+      "surface": "השאננים",
       "gloss": "کہ آسودہ اَنت"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "קָצַ֤פְתִּי",
+      "surface": "קצפתי",
       "gloss": "یک چست غضب کت"
     },
     {
-      "surface": "מְעַט",
+      "surface": "מעט",
       "gloss": "یک چست"
     },
     {
-      "surface": "וְהֵמָּה",
+      "surface": "והמה",
       "gloss": "بلے اِشاں"
     },
     {
-      "surface": "עָזְרוּ",
+      "surface": "עזרו",
       "gloss": "مدد کت"
     },
     {
-      "surface": "לְרָעָה",
+      "surface": "לרעה",
       "gloss": "شرءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:18:34.505263448Z",
-  "model": "glm-5.3"
+  ]
 }

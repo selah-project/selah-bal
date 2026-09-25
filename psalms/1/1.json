@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 1:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:22:40.007149497Z",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "خوش بختی اِنت آ مردومءِ کہ چہ بدکارانی مشورتءَ نہ روتگ، ءُ گنہگارانی راہءَ نہ اِستا، ءُ طعنہ گرانءِ نشستءَ نہ نشتگ۔",
   "tokens": [
     {
-      "surface": "אַ֥שְֽׁרֵי",
+      "surface": "אשרי",
       "gloss": "خوش بختی"
     },
     {
-      "surface": "הָאִ֗ישׁ",
+      "surface": "האיש",
       "gloss": "آ مردومءِ"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "הָלַךְ֮",
+      "surface": "הלך",
       "gloss": "روتگ"
     },
     {
-      "surface": "בַּעֲצַ֪ת",
+      "surface": "בעצת",
       "gloss": "مشورتءَ"
     },
     {
-      "surface": "רְשָׁ֫עִ֥ים",
+      "surface": "רשעים",
       "gloss": "بدکارانی"
     },
     {
-      "surface": "וּבְדֶ֣רֶךְ",
+      "surface": "ובדרך",
       "gloss": "ءُ راہءَ"
     },
     {
-      "surface": "חַ֭טָּאִים",
+      "surface": "חטאים",
       "gloss": "گنہگارانی"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "עָמָ֑ד",
+      "surface": "עמד",
       "gloss": "اِستا"
     },
     {
-      "surface": "וּבְמוֹשַׁ֥ב",
+      "surface": "ובמושב",
       "gloss": "ءُ نشستءَ"
     },
     {
-      "surface": "לֵ֝צִ֗ים",
+      "surface": "לצים",
       "gloss": "طعنہ گرانءِ"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָשָֽׁב",
+      "surface": "ישב",
       "gloss": "نشتگ"
     }
-  ],
-  "timestamp": "2026-09-25T20:22:40.007149497Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "lamentations 2:22",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:14:16.890100853Z",
+  "verse": 22,
+  "ref": "lamentations 2:22",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "تُوءَ گوں ملاقاتءِ روچءِ چوں مگری من چہ چار اطرافءَ بانگ کت، ءُ یاہوہءِ اَفءِ روچءَ کسے بچیتکل ءُ رستگار ⟨نہ⟩ اَت؛ اُشاں کہ ما پالت ءُ گیش کتءَ، منءِ دشمن اِشاںءَ پور کت.",
   "tokens": [
     {
-      "surface": "תִּקְרָא",
+      "surface": "תקרא",
       "gloss": "بانگ کت"
     },
     {
-      "surface": "כְּיוֹם",
+      "surface": "כיום",
       "gloss": "روچءِ چوں"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     },
     {
-      "surface": "מְגוּרַי",
+      "surface": "מגורי",
       "gloss": "مگری من"
     },
     {
-      "surface": "מִסָּבִיב",
+      "surface": "מסביב",
       "gloss": "چہ چار اطرافءَ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "הָיָה",
+      "surface": "היה",
       "gloss": "اَت"
     },
     {
-      "surface": "בְּיוֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "اَف"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "פָּלִיט",
+      "surface": "פליט",
       "gloss": "بچیتکل"
     },
     {
-      "surface": "וְשָׂרִיד",
+      "surface": "ושריד",
       "gloss": "ءُ رستگار"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "טִפַּחְתִּי",
+      "surface": "טפחתי",
       "gloss": "ما پالت"
     },
     {
-      "surface": "וְרִבִּיתִי",
+      "surface": "ורביתי",
       "gloss": "ءُ گیش کتءَ"
     },
     {
-      "surface": "אוֹיְבִי",
+      "surface": "איבי",
       "gloss": "منءِ دشمن"
     },
     {
-      "surface": "כִלָּם",
+      "surface": "כלם",
       "gloss": "پور کت"
     }
-  ],
-  "timestamp": "2026-09-25T19:14:16.890100853Z",
-  "model": "glm-5.3"
+  ]
 }

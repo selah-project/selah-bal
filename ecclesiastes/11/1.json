@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "ecclesiastes 11:1",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:33:48.777851304Z",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "وتى نانی گوں خودءَ آپیں روچءَ ارجنءَ دہ، پرچا کہ رند چہ گیشٹرین روچان آءَ لبزیت۔",
   "tokens": [
     {
-      "surface": "שַׁלַּ֥ח",
+      "surface": "שלח",
       "gloss": "ارجنءَ دہ"
     },
     {
-      "surface": "לַחְמְךָ֖",
+      "surface": "לחמך",
       "gloss": "نانی گوں خودءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "פְּנֵ֣י",
+      "surface": "פני",
       "gloss": "روچءَ"
     },
     {
-      "surface": "הַמָּ֑יִם",
+      "surface": "המים",
       "gloss": "آپیں"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "בְרֹ֥ב",
+      "surface": "ברב",
       "gloss": "رند چہ گیشٹرین"
     },
     {
-      "surface": "הַיָּמִ֖ים",
+      "surface": "הימים",
       "gloss": "روچان"
     },
     {
-      "surface": "תִּמְצָאֶֽנּוּ",
+      "surface": "תמצאנו",
       "gloss": "آءَ لبزیت"
     }
-  ],
-  "timestamp": "2026-09-25T15:33:48.777851304Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "job 9:12",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:33:52.402958501Z",
+  "verse": 12,
+  "ref": "job 9:12",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ہین، اگر ⟨اے⟩ گرپیت، کے آیءَ پدا گرانیت؟ کے آیءَ گوَشیت، چیں کہنت؟",
   "tokens": [
     {
-      "surface": "הֵ֣ן",
+      "surface": "הן",
       "gloss": "ہین"
     },
     {
-      "surface": "יַ֭חְתֹּף",
+      "surface": "יחתף",
       "gloss": "گرپیت"
     },
     {
-      "surface": "מִ֣י",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יְשִׁיבֶ֑נּוּ",
+      "surface": "ישיבנו",
       "gloss": "آیءَ پدا گرانیت"
     },
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יֹאמַ֥ר",
+      "surface": "יאמר",
       "gloss": "گوَشیت"
     },
     {
-      "surface": "אֵ֝לָ֗יו",
+      "surface": "אליו",
       "gloss": "آیءَ"
     },
     {
-      "surface": "מַֽה",
+      "surface": "מה",
       "gloss": "چیں"
     },
     {
-      "surface": "תַּעֲשֶֽׂה",
+      "surface": "תעשה",
       "gloss": "کہنت"
     }
-  ],
-  "timestamp": "2026-09-25T18:33:52.402958501Z",
-  "model": "glm-5.3"
+  ]
 }

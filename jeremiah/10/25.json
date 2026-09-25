@@ -1,103 +1,103 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "jeremiah 10:25",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:41:08.403027205Z",
+  "verse": 25,
+  "ref": "jeremiah 10:25",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "خشمءَ شین دے دگہ قومانءَ کہ اے تہ نہ زانتنت، ءُ دگہ کولانءَ کہ تُہندی نامءَ گوں بانگ نہ کتن؛ چوکہ اے ⟨את⟩ یعقُوبءَ چُکت، آءُ چُکنگانت ءُ آءُ رڑ کتنت، ءُ ⟨את⟩ آءُژی جاےءَ ویران کتن.",
   "tokens": [
     {
-      "surface": "שְׁפֹ֣ךְ",
+      "surface": "שפך",
       "gloss": "شین دے"
     },
     {
-      "surface": "חֲמָתְךָ֗",
+      "surface": "חמתך",
       "gloss": "تُہندی خشم"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "ءَ"
     },
     {
-      "surface": "הַגּוֹיִם֙",
+      "surface": "הגוים",
       "gloss": "قومانءَ"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְדָע֔וּךָ",
+      "surface": "ידעוך",
       "gloss": "تہ نہ زانتنت"
     },
     {
-      "surface": "וְעַל֙",
+      "surface": "ועל",
       "gloss": "ءُ ءَ"
     },
     {
-      "surface": "מִשְׁפָּח֔וֹת",
+      "surface": "משפחות",
       "gloss": "کولانءَ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בְּשִׁמְךָ֖",
+      "surface": "בשמך",
       "gloss": "تُہندی نامءَ گوں"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "קָרָ֑אוּ",
+      "surface": "קראו",
       "gloss": "بانگ نہ کتن"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "چوکہ"
     },
     {
-      "surface": "אָכְל֣וּ",
+      "surface": "אכלו",
       "gloss": "چُکت"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یعقُوبءَ"
     },
     {
-      "surface": "יַעֲקֹ֗ב",
+      "surface": "יעקב",
       "gloss": "یعقُوبءَ"
     },
     {
-      "surface": "וַאֲכָלֻ֨הוּ֙",
+      "surface": "ואכלהו",
       "gloss": "آءُ چُکنگانت"
     },
     {
-      "surface": "וַיְכַלֻּ֔הוּ",
+      "surface": "ויכלהו",
       "gloss": "ءُ آءُ رڑ کتنت"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آءُژی جا"
     },
     {
-      "surface": "נָוֵ֖הוּ",
+      "surface": "נוהו",
       "gloss": "آءُژی جا"
     },
     {
-      "surface": "הֵשַֽׁמּוּ",
+      "surface": "השמו",
       "gloss": "ویران کتن"
     }
-  ],
-  "timestamp": "2026-09-25T17:41:08.403027205Z",
-  "model": "glm-5.3"
+  ]
 }

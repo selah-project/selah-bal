@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "proverbs 11:23",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:11:33.437065931Z",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "راستاں ءِ چاہش ہمک چاہ ءُ ءِ انت؛ بدکاراں ءِ اُمید غضب اِنت۔",
   "tokens": [
     {
-      "surface": "תַּאֲוַ֣ת",
+      "surface": "תאות",
       "gloss": "راستاں ءِ چاہش"
     },
     {
-      "surface": "צַדִּיקִ֣ים",
+      "surface": "צדיקים",
       "gloss": "راستاں"
     },
     {
-      "surface": "אַךְ",
+      "surface": "אך",
       "gloss": "ہمک"
     },
     {
-      "surface": "ט֑וֹב",
+      "surface": "טוב",
       "gloss": "چاہ ءُ"
     },
     {
-      "surface": "תִּקְוַ֖ת",
+      "surface": "תקות",
       "gloss": "بدکاراں ءِ اُمید"
     },
     {
-      "surface": "רְשָׁעִ֣ים",
+      "surface": "רשעים",
       "gloss": "بدکاراں"
     },
     {
-      "surface": "עֶבְרָֽה",
+      "surface": "עברה",
       "gloss": "غضب"
     }
-  ],
-  "timestamp": "2026-09-25T20:11:33.437065931Z",
-  "model": "glm-5.3"
+  ]
 }

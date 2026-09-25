@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "malachi 3:2",
   "book": "malachi",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:34:05.210865652Z",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ کِہ پایدار بیت ⟨את⟩ روچ آییءِ آیینیءَ، ءُ کِہ ہست بیت آییءِ گندنگءَ؟ کہ آ چوش آتشءِ ساف کنوکءِ اِنت ءُ چوش شستروکانی سابون۔",
   "tokens": [
     {
-      "surface": "וּמִי",
+      "surface": "ומי",
       "gloss": "ءُ کِہ"
     },
     {
-      "surface": "מְכַלְכֵּל",
+      "surface": "מכלכל",
       "gloss": "پایدار بیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "روچ"
     },
     {
-      "surface": "יוֹם",
+      "surface": "יום",
       "gloss": "روچ"
     },
     {
-      "surface": "בּוֹאוֹ",
+      "surface": "בואו",
       "gloss": "آییءِ آیینیءَ"
     },
     {
-      "surface": "וּמִי",
+      "surface": "ומי",
       "gloss": "ءُ کِہ"
     },
     {
-      "surface": "הָעֹמֵד",
+      "surface": "העמד",
       "gloss": "ہست بیت"
     },
     {
-      "surface": "בְּהֵרָאוֹתוֹ",
+      "surface": "בהראותו",
       "gloss": "آییءِ گندنگءَ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "כְּאֵשׁ",
+      "surface": "כאש",
       "gloss": "چوش آتشءِ"
     },
     {
-      "surface": "מְצָרֵף",
+      "surface": "מצרף",
       "gloss": "ساف کنوکءِ"
     },
     {
-      "surface": "וּכְבֹרִית",
+      "surface": "וכברית",
       "gloss": "ءُ چوش سابون"
     },
     {
-      "surface": "מְכַבְּסִים",
+      "surface": "מכבסים",
       "gloss": "شستروکانی"
     }
-  ],
-  "timestamp": "2026-09-25T19:34:05.210865652Z",
-  "model": "glm-5.3"
+  ]
 }

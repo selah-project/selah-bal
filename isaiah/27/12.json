@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "isaiah 27:12",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:15:09.242781100Z",
+  "verse": 12,
+  "ref": "isaiah 27:12",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ بیت اے روچءَ کہ یاہوہءَ چہ رودءِ شینہءَ تا مِتسرایمءِ چشمہءَ پرکیت، ءُ تہاں یک یک چن بنت، اے یِسرائیلءِ زہگان۔",
   "tokens": [
     {
-      "surface": "וְהָיָה֙",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "בַּיּ֣וֹם",
+      "surface": "ביום",
       "gloss": "اے روچءَ"
     },
     {
-      "surface": "הַה֔וּא",
+      "surface": "ההוא",
       "gloss": "اے"
     },
     {
-      "surface": "יַחְבֹּ֧ט",
+      "surface": "יחבט",
       "gloss": "پرکیت"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "מִשִּׁבֹּ֥לֶת",
+      "surface": "משבלת",
       "gloss": "چہ رودءِ شینہءَ"
     },
     {
-      "surface": "הַנָּהָ֖ר",
+      "surface": "הנהר",
       "gloss": "رود"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "נַ֣חַל",
+      "surface": "נחל",
       "gloss": "چشمہ"
     },
     {
-      "surface": "מִצְרָ֑יִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     },
     {
-      "surface": "וְאַתֶּ֧ם",
+      "surface": "ואתם",
       "gloss": "ءُ تہاں"
     },
     {
-      "surface": "תְּלֻקְּט֛וּ",
+      "surface": "תלקטו",
       "gloss": "چن بنت"
     },
     {
-      "surface": "לְאַחַ֥ד",
+      "surface": "לאחד",
       "gloss": "یک"
     },
     {
-      "surface": "אֶחָ֖ד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "בְּנֵ֥י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "یِسرائیلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:15:09.242781100Z",
-  "model": "glm-5.3"
+  ]
 }

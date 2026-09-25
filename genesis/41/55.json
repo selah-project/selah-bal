@@ -1,93 +1,93 @@
 {
-  "tier": "glm-5.2",
-  "verse": 55,
-  "ref": "genesis 41:55",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:56:33.742827560Z",
+  "verse": 55,
+  "ref": "genesis 41:55",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "ءُ مِتسرایمءِ پوریں زمین بُکنگ بوت، ءُ مردم پَرعوءَ لچءِ پہ بانگ کت، ءُ پَرعوءَ پوریں مِتسرائیں مردمانءَ گوَشت: یوسفءَ شوت، ءُ آ کہ اِش تُمانءَ گوَشیت، اے کار کنیت۔",
   "tokens": [
     {
-      "surface": "וַתִּרְעַב",
+      "surface": "ותרעב",
       "gloss": "ءُ بُکنگ بوت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     },
     {
-      "surface": "וַיִּצְעַק",
+      "surface": "ויצעק",
       "gloss": "ءُ بانگ کت"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "مردم"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "פַּרְעֹה",
+      "surface": "פרעה",
       "gloss": "پَرعوءَ"
     },
     {
-      "surface": "לַלָּחֶם",
+      "surface": "ללחם",
       "gloss": "لچءِ پہ"
     },
     {
-      "surface": "וַיֹּאמֶר",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "פַּרְעֹה",
+      "surface": "פרעה",
       "gloss": "پَرعوءَ"
     },
     {
-      "surface": "לְכָל",
+      "surface": "לכל",
       "gloss": "پوریں"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرائیں مردمانءَ"
     },
     {
-      "surface": "לְכוּ",
+      "surface": "לכו",
       "gloss": "شوت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ"
     },
     {
-      "surface": "יוֹסֵף",
+      "surface": "יוסף",
       "gloss": "یوسفءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יֹאמַר",
+      "surface": "יאמר",
       "gloss": "گوَشیت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "تُمانءَ"
     },
     {
-      "surface": "תַּעֲשׂוּ",
+      "surface": "תעשו",
       "gloss": "اے کار کنیت"
     }
-  ],
-  "timestamp": "2026-09-25T16:56:33.742827560Z",
-  "model": "glm-5.3"
+  ]
 }

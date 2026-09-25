@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "jeremiah 29:15",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:52:01.859818191Z",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "چوں اِشما گوَشتگ کہ یاہوہ مہ پیغمبران بابلءَ جوڑ کتنت.",
   "tokens": [
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "چوں"
     },
     {
-      "surface": "אֲמַרְתֶּם",
+      "surface": "אמרתם",
       "gloss": "اِشما گوَشتگ"
     },
     {
-      "surface": "הֵקִים",
+      "surface": "הקים",
       "gloss": "جوڑ کتنت"
     },
     {
-      "surface": "לָנוּ",
+      "surface": "לנו",
       "gloss": "مہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "נְבִאִים",
+      "surface": "נבאים",
       "gloss": "پیغمبران"
     },
     {
-      "surface": "בָּבֶלָה",
+      "surface": "בבלה",
       "gloss": "بابلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:52:01.859818191Z",
-  "model": "glm-5.3"
+  ]
 }

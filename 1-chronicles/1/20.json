@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "1-chronicles 1:20",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:33:09.313865058Z",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ یوقتان ⟨את⟩ المودد ءُ ⟨את⟩ شالف ءُ ⟨את⟩ حتسرماوت ءُ ⟨את⟩ یارح پیدا کت.",
   "tokens": [
     {
-      "surface": "וְיָקְטָ֣ן",
+      "surface": "ויקטן",
       "gloss": "ءُ یوقتان"
     },
     {
-      "surface": "יָלַ֔ד",
+      "surface": "ילד",
       "gloss": "پیدا کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "المودد"
     },
     {
-      "surface": "אַלְמוֹדָ֖ד",
+      "surface": "אלמודד",
       "gloss": "المودد"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "شالف"
     },
     {
-      "surface": "שָׁ֑לֶף",
+      "surface": "שלף",
       "gloss": "شالف"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "حتسرماوت"
     },
     {
-      "surface": "חֲצַרְמָ֖וֶת",
+      "surface": "חצרמות",
       "gloss": "حتسرماوت"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "یارح"
     },
     {
-      "surface": "יָֽרַח",
+      "surface": "ירח",
       "gloss": "یارح"
     }
-  ],
-  "timestamp": "2026-09-25T12:33:09.313865058Z",
-  "model": "glm-5.3"
+  ]
 }

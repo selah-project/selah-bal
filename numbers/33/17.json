@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "numbers 33:17",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:59:58.409852171Z",
+  "verse": 17,
+  "ref": "numbers 33:17",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ چہ کِبروت-ہت-تاؤہءَ کوچ کت، ءُ تہ حصیروت ءَ پڑاؤ کت۔",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "ءُ کوچ کت"
     },
     {
-      "surface": "مקברת",
+      "surface": "מקברת",
       "gloss": "چہ کِبروت"
     },
     {
@@ -27,7 +29,5 @@
       "surface": "בחצרת",
       "gloss": "تہ حصیروت"
     }
-  ],
-  "timestamp": "2026-09-25T19:59:58.409852171Z",
-  "model": "glm-5.3"
+  ]
 }

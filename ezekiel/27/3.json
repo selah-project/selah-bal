@@ -1,97 +1,97 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "ezekiel 27:3",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:17:28.233888353Z",
+  "verse": 3,
+  "ref": "ezekiel 27:3",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ تو پہ صُور گوَشتیت: اے کہ تہ دریاءِ دروازانءَ ہستی، قومانی سوداگر گیش جزیرہانی پہ؛ اے چوں گوَشت اِنت یاہوہ ادونای: اے صُور، تو گوَشتیت کہ من پوریں زیبائیءِ اَت.",
   "tokens": [
     {
-      "surface": "וְאָמַרְתָּ",
+      "surface": "ואמרת",
       "gloss": "ءُ گوَشتیت"
     },
     {
-      "surface": "לְצֹר",
+      "surface": "לצור",
       "gloss": "پہ صُور"
     },
     {
-      "surface": "הַיּוֹשֶׁבֶת",
+      "surface": "הישבתי",
       "gloss": "اے کہ ہستی"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "מְבוֹאֹת",
+      "surface": "מבואת",
       "gloss": "دروازان"
     },
     {
-      "surface": "יָם",
+      "surface": "ים",
       "gloss": "دریا"
     },
     {
-      "surface": "רֹכֶלֶת",
+      "surface": "רכלת",
       "gloss": "سوداگر"
     },
     {
-      "surface": "הָעַמִּים",
+      "surface": "העמים",
       "gloss": "قومانی"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "אִיִּים",
+      "surface": "איים",
       "gloss": "جزیرہان"
     },
     {
-      "surface": "רַבִּים",
+      "surface": "רבים",
       "gloss": "گیش"
     },
     {
-      "surface": "כֹּה",
+      "surface": "כה",
       "gloss": "اے چوں"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "צֹר",
+      "surface": "צור",
       "gloss": "اے صُور"
     },
     {
-      "surface": "אַתְּ",
+      "surface": "את",
       "gloss": "تو"
     },
     {
-      "surface": "אָמַרְתְּ",
+      "surface": "אמרת",
       "gloss": "گوَشتیت"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "כְּלִילַת",
+      "surface": "כלילת",
       "gloss": "پوریں"
     },
     {
-      "surface": "יֹפִי",
+      "surface": "יפי",
       "gloss": "زیبائی"
     }
-  ],
-  "timestamp": "2026-09-25T16:17:28.233888353Z",
-  "model": "glm-5.3"
+  ]
 }

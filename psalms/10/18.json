@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "psalms 10:18",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:22:40.202379362Z",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "پہ یتیم ءُ بیچارگءَ انصاف دگ، تا کہ زمینیں انوسءَ دگہ باز نہ ترسایت۔",
   "tokens": [
     {
-      "surface": "לִשְׁפֹ֥ט",
+      "surface": "לשפט",
       "gloss": "پہ انصاف دگ"
     },
     {
-      "surface": "יָת֗וֹם",
+      "surface": "יתום",
       "gloss": "یتیم"
     },
     {
-      "surface": "וָ֫דָ֥ךְ",
+      "surface": "ודך",
       "gloss": "ءُ بیچارگ"
     },
     {
-      "surface": "בַּל",
+      "surface": "בל",
       "gloss": "نہ"
     },
     {
-      "surface": "יוֹסִ֥יף",
+      "surface": "יוסיף",
       "gloss": "باز نہ کنت"
     },
     {
-      "surface": "ע֑וֹד",
+      "surface": "עוד",
       "gloss": "دگہ"
     },
     {
-      "surface": "לַעֲרֹ֥ץ",
+      "surface": "לערץ",
       "gloss": "ترسایت"
     },
     {
-      "surface": "אֱ֝נ֗וֹשׁ",
+      "surface": "אנוש",
       "gloss": "انوس"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָאָֽרֶץ",
+      "surface": "הארץ",
       "gloss": "⟨⟨زمین⟩⟩"
     }
-  ],
-  "timestamp": "2026-09-25T20:22:40.202379362Z",
-  "model": "glm-5.3"
+  ]
 }

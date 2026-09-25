@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "judges 3:17",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:05:54.528103132Z",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ آے هَمے ⟨את⟩ منچہءَ چوک کنت پہ عگلون، موآبءِ شاہءَ؛ ءُ عگلون یک گیش چیں مرد اَت۔",
   "tokens": [
@@ -33,7 +35,7 @@
       "gloss": "موآب"
     },
     {
-      "surface": "ועגלون",
+      "surface": "ועגלון",
       "gloss": "ءُ عگلون"
     },
     {
@@ -48,7 +50,5 @@
       "surface": "מאד",
       "gloss": "گیش"
     }
-  ],
-  "timestamp": "2026-09-25T19:05:54.528103132Z",
-  "model": "glm-5.3"
+  ]
 }

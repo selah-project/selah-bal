@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "ezekiel 34:25",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:22:29.466151460Z",
+  "verse": 25,
+  "ref": "ezekiel 34:25",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "ءُ مان اِشاں پہ یک آشتیءِ عہد کنت، ءُ بد جانور چہ زمینءَ هلا کنت، ءُ اِشاں تہ بیابانءَ پہ ایمنی جنّنت ءُ تہ جنگلاں آسنت۔",
   "tokens": [
     {
-      "surface": "וְכַרְתִּי",
+      "surface": "וכרתי",
       "gloss": "ءُ کنت"
     },
     {
-      "surface": "לָהֶם",
+      "surface": "להם",
       "gloss": "اِشاں پہ"
     },
     {
-      "surface": "בְּרִית",
+      "surface": "ברית",
       "gloss": "عہد"
     },
     {
-      "surface": "שָׁלוֹם",
+      "surface": "שלום",
       "gloss": "آشتی"
     },
     {
-      "surface": "וְהִשְׁבַּתִּי",
+      "surface": "והשבתי",
       "gloss": "ءُ هلا کنت"
     },
     {
-      "surface": "חַיָּה",
+      "surface": "חיה",
       "gloss": "جانور"
     },
     {
-      "surface": "רָעָה",
+      "surface": "רעה",
       "gloss": "بد"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "וְיָשְׁבוּ",
+      "surface": "וישבו",
       "gloss": "ءُ جنّنت"
     },
     {
-      "surface": "בַּמִּדְבָּר",
+      "surface": "במדבר",
       "gloss": "تہ بیابانءَ"
     },
     {
-      "surface": "לָבֶטַח",
+      "surface": "לבטח",
       "gloss": "پہ ایمنی"
     },
     {
-      "surface": "וְיָשְׁנוּ",
+      "surface": "וישנו",
       "gloss": "ءُ آسنت"
     },
     {
-      "surface": "בַּיְעָרִים",
+      "surface": "ביערים",
       "gloss": "تہ جنگلاں"
     }
-  ],
-  "timestamp": "2026-09-25T16:22:29.466151460Z",
-  "model": "glm-5.3"
+  ]
 }

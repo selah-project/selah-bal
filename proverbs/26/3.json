@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "proverbs 26:3",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:19:35.777170517Z",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "چرچر پہ گھوڑا، لگام پہ گدہ، ءُ چماڑ پہ ناداناںئیں پُشت۔",
   "tokens": [
     {
-      "surface": "שׁוֹט",
+      "surface": "שוט",
       "gloss": "چرچر"
     },
     {
-      "surface": "לַסּוּס",
+      "surface": "לסוס",
       "gloss": "پہ گھوڑا"
     },
     {
-      "surface": "מֶתֶג",
+      "surface": "מתג",
       "gloss": "لگام"
     },
     {
-      "surface": "לַחֲמוֹר",
+      "surface": "לחמור",
       "gloss": "پہ گدہ"
     },
     {
-      "surface": "וְשֵׁבֶט",
+      "surface": "ושבט",
       "gloss": "ءُ چماڑ"
     },
     {
-      "surface": "לְגֵו",
+      "surface": "לגו",
       "gloss": "پہ پُشت"
     },
     {
-      "surface": "כְּסִילִים",
+      "surface": "כסילים",
       "gloss": "ناداناںئیں"
     }
-  ],
-  "timestamp": "2026-09-25T20:19:35.777170517Z",
-  "model": "glm-5.3"
+  ]
 }

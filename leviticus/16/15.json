@@ -1,117 +1,117 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "leviticus 16:15",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:18:36.527286210Z",
+  "verse": 15,
+  "ref": "leviticus 16:15",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ قومءِ گنہءِ گَڈا کہ آ قومءِ پہ اِنت ⟨את⟩ کوہت، ءُ آییءِ گون ⟨את⟩ پردہءِ تاگہءَ اِش کت، ءُ آییءِ گون گوں ⟨את⟩ چوش کار کت چوش کہ گاونءِ گونءَ کار کتگ، ءُ آیءَ ⟨את⟩ کپوریتءِ سرءَ ءُ کپوریتءِ پیشی چھِشت.",
   "tokens": [
     {
-      "surface": "וְשָׁחַט",
+      "surface": "ושחט",
       "gloss": "ءُ کوہت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گنہءِ گَڈا"
     },
     {
-      "surface": "שְׂעִיר",
+      "surface": "שעיר",
       "gloss": "گَڈا"
     },
     {
-      "surface": "הַחַטָּאת",
+      "surface": "החטאת",
       "gloss": "گنہءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לָעָם",
+      "surface": "לעם",
       "gloss": "قومءِ پہ"
     },
     {
-      "surface": "וְהֵבִיא",
+      "surface": "והביא",
       "gloss": "ءُ اِش کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ گون"
     },
     {
-      "surface": "דָּמוֹ",
+      "surface": "דמו",
       "gloss": "آییءِ گون"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "اِش"
     },
     {
-      "surface": "מִבֵּית",
+      "surface": "מבית",
       "gloss": "تاگہءَ"
     },
     {
-      "surface": "לַפָּרֹכֶת",
+      "surface": "לפרכת",
       "gloss": "پردہءَ"
     },
     {
-      "surface": "וְעָשָׂה",
+      "surface": "ועשה",
       "gloss": "ءُ کار کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ گون"
     },
     {
-      "surface": "דָּמוֹ",
+      "surface": "דמו",
       "gloss": "آییءِ گون"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "עָשָׂה",
+      "surface": "עשה",
       "gloss": "کار کت"
     },
     {
-      "surface": "לְדַם",
+      "surface": "לדם",
       "gloss": "گونءَ"
     },
     {
-      "surface": "הַפָּר",
+      "surface": "הפר",
       "gloss": "گاونءِ"
     },
     {
-      "surface": "וְהִזָּה",
+      "surface": "והזה",
       "gloss": "ءُ چھِشت"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آیءَ",
       "marks": "کپوریتءِ سر"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הַכַּפֹּרֶת",
+      "surface": "הכפרת",
       "gloss": "کپوریت"
     },
     {
-      "surface": "וְלִפְנֵי",
+      "surface": "ולפני",
       "gloss": "ءُ پیشی"
     },
     {
-      "surface": "הַכַּפֹּרֶת",
+      "surface": "הכפרת",
       "gloss": "کپوریت"
     }
-  ],
-  "timestamp": "2026-09-25T19:18:36.527286210Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 103:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:24:34.142458969Z",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "tier": "glm-5.2",
   "chapter": 103,
   "translation": "یاہوہ راستیاں کنیت ءُ انصاف پہ ہمگ ظلم بوتگءان۔",
   "tokens": [
     {
-      "surface": "עֹשֵׂ֣ה",
+      "surface": "עשה",
       "gloss": "کنیت"
     },
     {
-      "surface": "צְדָק֣וֹת",
+      "surface": "צדקות",
       "gloss": "راستیاں"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וּ֝מִשְׁפָּטִ֗ים",
+      "surface": "ומשפטים",
       "gloss": "ءُ انصاف"
     },
     {
-      "surface": "לְכָל",
+      "surface": "לכל",
       "gloss": "پہ ہمگ"
     },
     {
-      "surface": "עֲשׁוּקִֽים",
+      "surface": "עשוקים",
       "gloss": "ظلم بوتگءان"
     }
-  ],
-  "timestamp": "2026-09-25T20:24:34.142458969Z",
-  "model": "glm-5.3"
+  ]
 }

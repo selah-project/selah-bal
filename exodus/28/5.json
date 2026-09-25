@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "exodus 28:5",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:55:12.026439363Z",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ آءَ گپت ⟨את⟩ زر ءُ ⟨את⟩ ہزارگیں آسمانی رنگ ءُ ⟨את⟩ ارغوانی ءُ ⟨את⟩ قرمزیں کِرمءِ رنگ ءُ ⟨את⟩ نرم گوَن",
   "tokens": [
     {
-      "surface": "וְהֵם֙",
+      "surface": "והם",
       "gloss": "ءُ آءَ"
     },
     {
-      "surface": "יִקְח֣וּ",
+      "surface": "יקחו",
       "gloss": "گپت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زر"
     },
     {
-      "surface": "הַזָּהָ֔ב",
+      "surface": "הזהב",
       "gloss": "زر"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ہزارگیں آسمانی رنگ"
     },
     {
-      "surface": "הַתְּכֵ֖לֶת",
+      "surface": "התכלת",
       "gloss": "ہزارگیں آسمانی رنگ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ارغوانی"
     },
     {
-      "surface": "הָֽאַרְגָּמָ֑ן",
+      "surface": "הארגמן",
       "gloss": "ارغوانی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "قرمزیں کِرمءِ رنگ"
     },
     {
-      "surface": "תּוֹלַ֥עַת",
+      "surface": "תולעת",
       "gloss": "کِرمءِ"
     },
     {
-      "surface": "הַשָּׁנִ֖י",
+      "surface": "השני",
       "gloss": "قرمزیں رنگ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "نرم گوَن"
     },
     {
-      "surface": "הַשֵּֽׁשׁ",
+      "surface": "השש",
       "gloss": "نرم گوَن"
     }
-  ],
-  "timestamp": "2026-09-25T15:55:12.026439363Z",
-  "model": "glm-5.3"
+  ]
 }

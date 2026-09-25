@@ -1,91 +1,91 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "1-samuel 26:11",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:25:27.852774765Z",
+  "verse": 11,
+  "ref": "1-samuel 26:11",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "حاشا پہ من چہ یاہوہ کہ مءِ دست یاہوہءِ ماشیاحءَ گشانیں — ءُ اِشا گرا مہربانیءَ ⟨את⟩ نیزہ کہ آییءِ سریپٹءَ اِنت، ءُ ⟨את⟩ آپیں کوزہ، ءُ مون روت۔",
   "tokens": [
     {
-      "surface": "חָלִילָה",
+      "surface": "חלילה",
       "gloss": "حاشا"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "پہ من"
     },
     {
-      "surface": "מֵיהוָה",
+      "surface": "מיהוה",
       "gloss": "چہ یاہوہ"
     },
     {
-      "surface": "מִשְּׁלֹחַ",
+      "surface": "משלח",
       "gloss": "چہ گشانیں"
     },
     {
-      "surface": "יָדִי",
+      "surface": "ידי",
       "gloss": "مءِ دست"
     },
     {
-      "surface": "בִּמְשִׁיחַ",
+      "surface": "במשיח",
       "gloss": "تہ ماشیاحءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וְעַתָּה",
+      "surface": "ועתה",
       "gloss": "ءُ اِشا"
     },
     {
-      "surface": "קַח",
+      "surface": "קח",
       "gloss": "گرا"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
       "gloss": "مہربانیءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "نیزہ"
     },
     {
-      "surface": "הַחֲנִית",
+      "surface": "החנית",
       "gloss": "نیزہ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "מְרַאֲשֹׁתוֹ",
+      "surface": "מראשתו",
       "gloss": "آییءِ سریپٹءَ اِنت"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آپیں کوزہ"
     },
     {
-      "surface": "צַפַּחַת",
+      "surface": "צפחת",
       "gloss": "کوزہ"
     },
     {
-      "surface": "הַמָּיִם",
+      "surface": "המים",
       "gloss": "آپیں"
     },
     {
-      "surface": "וְנֵלְכָה",
+      "surface": "ונלכה",
       "gloss": "ءُ مون روت"
     },
     {
-      "surface": "לָּנוּ",
+      "surface": "לנו",
       "gloss": "پہ مون"
     }
-  ],
-  "timestamp": "2026-09-25T13:25:27.852774765Z",
-  "model": "glm-5.3"
+  ]
 }

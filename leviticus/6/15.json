@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "leviticus 6:15",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:29:54.611964548Z",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ کُہن کہ ماشیاح بوتگ اِنت، آییءِ جاگہءَ چہ آییءِ زہگانءَ چہ یکے، ⟨את⟩ آیءَ کنت — یک دائمیں حکم یاہوہءِ پہ؛ پوریں دود کنت۔",
   "tokens": [
     {
-      "surface": "וְהַכֹּהֵן",
+      "surface": "והכהן",
       "gloss": "ءُ کُہن"
     },
     {
-      "surface": "הַמָּשִׁיחַ",
+      "surface": "המשיח",
       "gloss": "کہ ماشیاح بوتگ اِنت"
     },
     {
-      "surface": "תַּחְתָּיו",
+      "surface": "תחתיו",
       "gloss": "آییءِ جاگہءَ"
     },
     {
-      "surface": "מִבָּנָיו",
+      "surface": "מבניו",
       "gloss": "چہ آییءِ زہگانءَ چہ یکے"
     },
     {
-      "surface": "יַעֲשֶׂה",
+      "surface": "יעשה",
       "gloss": "کنت"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩",
       "marks": "آیءَ (کُہنءِ کارءِ چیزی)"
     },
     {
-      "surface": "חֹק",
+      "surface": "חק",
       "gloss": "یک دائمیں حکم"
     },
     {
-      "surface": "עוֹלָם",
+      "surface": "עולם",
       "gloss": "دائمیں"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءِ پہ"
     },
     {
-      "surface": "כָּלִיל",
+      "surface": "כליל",
       "gloss": "پوریں"
     },
     {
-      "surface": "תָּקְטָר",
+      "surface": "תקטר",
       "gloss": "دود کنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:29:54.611964548Z",
-  "model": "glm-5.3"
+  ]
 }

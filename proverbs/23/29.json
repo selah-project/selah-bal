@@ -1,30 +1,32 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "proverbs 23:29",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:18:19.462001558Z",
+  "verse": 29,
+  "ref": "proverbs 23:29",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "پہ کے ہست واہان؟ پہ کے ہست غم؟ پہ کے ہست جنگ‌وجدل؟ پہ کے ہست وہشتءِ گپ؟ پہ کے ہست بے سببءِ زخم؟ پہ کے ہست چشمانی سرخی؟",
   "tokens": [
     {
-      "surface": "לְמִ֨י",
+      "surface": "למי",
       "gloss": "پہ کے"
     },
     {
-      "surface": "א֥וֹי",
+      "surface": "אוי",
       "gloss": "واہان"
     },
     {
-      "surface": "לְמִ֪י",
+      "surface": "למי",
       "gloss": "پہ کے"
     },
     {
-      "surface": "אֲב֡וֹי",
+      "surface": "אבוי",
       "gloss": "غم"
     },
     {
-      "surface": "לְמִ֤י",
+      "surface": "למי",
       "gloss": "پہ کے"
     },
     {
@@ -32,38 +34,36 @@
       "gloss": "جنگ‌وجدل"
     },
     {
-      "surface": "לְמִ֥י",
+      "surface": "למי",
       "gloss": "پہ کے"
     },
     {
-      "surface": "שִׂ֗יחַ",
+      "surface": "שיח",
       "gloss": "وہشتءِ گپ"
     },
     {
-      "surface": "לְמִ֭י",
+      "surface": "למי",
       "gloss": "پہ کے"
     },
     {
-      "surface": "פְּצָעִ֣ים",
+      "surface": "פצעים",
       "gloss": "زخم"
     },
     {
-      "surface": "חִנָּ֑ם",
+      "surface": "חנם",
       "gloss": "بے سبب"
     },
     {
-      "surface": "לְ֝מִ֗י",
+      "surface": "למי",
       "gloss": "پہ کے"
     },
     {
-      "surface": "חַכְלִל֥וּת",
+      "surface": "חכללות",
       "gloss": "سرخی"
     },
     {
-      "surface": "עֵינָֽיִם",
+      "surface": "עינים",
       "gloss": "چشمانی"
     }
-  ],
-  "timestamp": "2026-09-25T20:18:19.462001558Z",
-  "model": "glm-5.3"
+  ]
 }

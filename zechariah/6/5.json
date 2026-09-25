@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "zechariah 6:5",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:55:18.798275543Z",
+  "verse": 5,
+  "ref": "zechariah 6:5",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ فرشتہ جواب دیت ءُ منءَ گوَشت: اے آسمانءِ چار روح ⟨اِنت⟩، کہ چہ اِشتارءَ پیشءَ تمام زمینءِ آقا راوت کننت.",
   "tokens": [
@@ -32,7 +34,7 @@
       "gloss": "چار"
     },
     {
-      "surface": "רוחות",
+      "surface": "רחות",
       "gloss": "روح"
     },
     {
@@ -63,7 +65,5 @@
       "surface": "הארץ",
       "gloss": "زمینءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:55:18.798275543Z",
-  "model": "glm-5.3"
+  ]
 }

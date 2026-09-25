@@ -1,76 +1,76 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "numbers 7:5",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:07:21.813102659Z",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "اِشانی چہ ⟨את⟩ بگر، ءُ بنت پہ ملاقاتءِ گadanءِ کارءِ کار کنگ، ءُ تُں ⟨את⟩ اِشاں لویاں ءَ بدی، ہر مردم وتی کارءِ چوشءَ.",
   "tokens": [
     {
-      "surface": "קַח",
+      "surface": "קח",
       "gloss": "بگر"
     },
     {
-      "surface": "מֵאִתָּם",
+      "surface": "מאתם",
       "gloss": "چہ ⟨את⟩ اِشان",
       "marks": "اِشان"
     },
     {
-      "surface": "וְהָיוּ",
+      "surface": "והיו",
       "gloss": "ءُ بنت"
     },
     {
-      "surface": "לַעֲבֹד",
+      "surface": "לעבד",
       "gloss": "پہ کار کنگ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کار"
     },
     {
-      "surface": "עֲבֹדַת",
+      "surface": "עבדת",
       "gloss": "کار"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گadan"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וְנָתַתָּה",
+      "surface": "ונתתה",
       "gloss": "ءُ تُں … بدی"
     },
     {
-      "surface": "אוֹתָם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ اِشاںءَ",
       "marks": "لویاں"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ"
     },
     {
-      "surface": "הַלְוִיִּם",
+      "surface": "הלוים",
       "gloss": "لویاں"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "ہر مردم"
     },
     {
-      "surface": "כְּפִי",
+      "surface": "כפי",
       "gloss": "وتی …ءِ چوشءَ"
     },
     {
-      "surface": "עֲבֹדָתוֹ",
+      "surface": "עבדתו",
       "gloss": "کار"
     }
-  ],
-  "timestamp": "2026-09-25T20:07:21.813102659Z",
-  "model": "glm-5.3"
+  ]
 }

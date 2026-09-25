@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "1-kings 6:17",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:03:39.036417614Z",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ چل اَمہءَ اِنت ⟨(ہست)⟩ آ گدان، آ ⟨اِنت⟩ ہیکل آییءِ پیشءَ۔",
   "tokens": [
     {
-      "surface": "וְאַרְבָּעִים",
+      "surface": "וארבעים",
       "gloss": "ءُ چل"
     },
     {
-      "surface": "בָּאַמָּה",
+      "surface": "באמה",
       "gloss": "اَمہءَ"
     },
     {
-      "surface": "הָיָה",
+      "surface": "היה",
       "gloss": "اِنت ⟨(ہست)⟩"
     },
     {
-      "surface": "הַבַּיִת",
+      "surface": "הבית",
       "gloss": "آ گدان"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ ⟨اِنت⟩"
     },
     {
-      "surface": "הַהֵיכָל",
+      "surface": "ההיכל",
       "gloss": "ہیکل"
     },
     {
-      "surface": "לִפְנָי",
+      "surface": "לפני",
       "gloss": "آییءِ پیشءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:03:39.036417614Z",
-  "model": "glm-5.3"
+  ]
 }

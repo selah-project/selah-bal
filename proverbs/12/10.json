@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "proverbs 12:10",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:16:32.558307988Z",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "راستے وتی مالءِ جانءَ زانت، ءُ رزولاں رحمتاں ظلم اِنت.",
   "tokens": [
     {
-      "surface": "יוֹדֵ֣עַ",
+      "surface": "יודע",
       "gloss": "زانت"
     },
     {
-      "surface": "צַ֭דִּיק",
+      "surface": "צדיק",
       "gloss": "راستے"
     },
     {
-      "surface": "נֶ֣פֶשׁ",
+      "surface": "נפש",
       "gloss": "جان"
     },
     {
-      "surface": "בְּהֶמְתּ֑וֹ",
+      "surface": "בהמתו",
       "gloss": "وتی مالءِ"
     },
     {
-      "surface": "וְֽרַחֲמֵ֥י",
+      "surface": "ורחמי",
       "gloss": "ءُ رحمتاں"
     },
     {
-      "surface": "רְםָאִ֗ים",
+      "surface": "רשעים",
       "gloss": "رزولاں"
     },
     {
-      "surface": "אַכְזָרִֽי",
+      "surface": "אכזרי",
       "gloss": "ظلم"
     }
-  ],
-  "timestamp": "2026-09-25T21:16:32.558307988Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "ezekiel 45:8",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:31:20.359648582Z",
+  "verse": 8,
+  "ref": "ezekiel 45:8",
+  "tier": "glm-5.2",
   "chapter": 45,
   "translation": "زمینءَ آییءِ پہ ملکیت بیت اسرائیلءَ؛ ءُ منی ناسیماں ہچیک ⟨את⟩ منی قومءَ زلم نہ کننت، ءُ زمین اسرائیلءِ خاندانءَ داننت ایشانی ٹولیاں پہ۔",
   "tokens": [
@@ -12,67 +14,65 @@
       "gloss": "زمینءَ"
     },
     {
-      "surface": "יִֽהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לּוֹ",
+      "surface": "לו",
       "gloss": "آییءِ پہ"
     },
     {
-      "surface": "לַֽאֲחֻזָּ֖ה",
+      "surface": "לאחזה",
       "gloss": "ملکیت"
     },
     {
-      "surface": "בְּיִשְׂרָאֵ֑ל",
+      "surface": "בישראל",
       "gloss": "اسرائیلءَ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יוֹנ֨וּ",
+      "surface": "יונו",
       "gloss": "زلم کننت"
     },
     {
-      "surface": "ע֤וֹד",
+      "surface": "עוד",
       "gloss": "ہچیک"
     },
     {
-      "surface": "נְשִׂיאַי֙",
+      "surface": "נשיאי",
       "gloss": "منی ناسیماں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منی قومءَ"
     },
     {
-      "surface": "עַמִּ֔י",
+      "surface": "עמי",
       "gloss": "منی قومءَ"
     },
     {
-      "surface": "וְהָאָ֛רֶץ",
+      "surface": "והארץ",
       "gloss": "ءُ زمین"
     },
     {
-      "surface": "יִתְּנ֥וּ",
+      "surface": "יתנו",
       "gloss": "داننت"
     },
     {
-      "surface": "לְבֵ֣ית",
+      "surface": "לבית",
       "gloss": "خاندانءَ"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     },
     {
-      "surface": "לְשִׁבְטֵיהֶֽם",
+      "surface": "לשבטיהם",
       "gloss": "ایشانی ٹولیاں پہ"
     }
-  ],
-  "timestamp": "2026-09-25T16:31:20.359648582Z",
-  "model": "glm-5.3"
+  ]
 }

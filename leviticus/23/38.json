@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
-  "ref": "leviticus 23:38",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:21:53.182320888Z",
+  "verse": 38,
+  "ref": "leviticus 23:38",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "چہ شباتانی یاہوہ جدائی، ءُ چہ تُمانی تحفاں جدائی، ءُ چہ تُمانی گشے پہنانیں جدائی، ءُ چہ تُمانی دلیں کوانیں جدائی، آ کہ تُمے یاہوہءَ دیت۔",
   "tokens": [
     {
-      "surface": "מִלְּבַד",
+      "surface": "מלבד",
       "gloss": "چہ … جدائی"
     },
     {
-      "surface": "שַּׁבְּתֹת",
+      "surface": "שבתת",
       "gloss": "شباتان"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וּמִלְּבַד",
+      "surface": "ומלבד",
       "gloss": "ءُ چہ … جدائی"
     },
     {
-      "surface": "מַתֲּנֹתֵיכֶם",
+      "surface": "מתנותיכם",
       "gloss": "تُمانی تحف"
     },
     {
-      "surface": "וּמִלְּבַד",
+      "surface": "ומלבד",
       "gloss": "ءُ چہ … جدائی"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پہنے"
     },
     {
-      "surface": "נִדְרֵיכֶם",
+      "surface": "נדריכם",
       "gloss": "تُمانی گش"
     },
     {
-      "surface": "וּמִלְּבַד",
+      "surface": "ומלבד",
       "gloss": "ءُ چہ … جدائی"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پہنے"
     },
     {
-      "surface": "נִדְבֹתֵיכֶם",
+      "surface": "נדבותיכם",
       "gloss": "تُمانی دلیں کوان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "תִּתְּנוּ",
+      "surface": "תתנו",
       "gloss": "تُمے دیت"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:21:53.182320888Z",
-  "model": "glm-5.3"
+  ]
 }

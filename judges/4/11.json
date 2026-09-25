@@ -1,58 +1,60 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "judges 4:11",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:06:49.749594636Z",
+  "verse": 11,
+  "ref": "judges 4:11",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ حِبِر کینی چہ کین جتا بوت، چہ حُبابءِ زہگان، موشہءِ سوہر، ءُ آییءِ گودر اےلونءِ دیمءَ گسیت، جہ کہ بِصَعَنیمءَ اِنت، ⟨את⟩ قَدَشءِ نزدیک۔",
   "tokens": [
     {
-      "surface": "וְחֶ֤בֶר",
+      "surface": "וחבר",
       "gloss": "ءُ حِبِر"
     },
     {
-      "surface": "הַקֵּינִי֙",
+      "surface": "הקיני",
       "gloss": "کینی"
     },
     {
-      "surface": "נִפְרָ֣ד",
+      "surface": "נפרד",
       "gloss": "جتا بوت"
     },
     {
-      "surface": "מִקַּ֔יִן",
+      "surface": "מקין",
       "gloss": "چہ کین"
     },
     {
-      "surface": "מִבְּנֵ֥י",
+      "surface": "מבני",
       "gloss": "چہ زہگانِ"
     },
     {
-      "surface": "חֹבָ֖ב",
+      "surface": "חבב",
       "gloss": "حُباب"
     },
     {
-      "surface": "חֹתֵ֣ן",
+      "surface": "חתן",
       "gloss": "سوہر"
     },
     {
-      "surface": "מֹשֶׁ֑ה",
+      "surface": "משה",
       "gloss": "موشہءِ"
     },
     {
-      "surface": "וַיֵּ֥ט",
+      "surface": "ויט",
       "gloss": "ءُ گسیت"
     },
     {
-      "surface": "אָהֳלֹ֔ו",
+      "surface": "אהלו",
       "gloss": "آییءِ گودر"
     },
     {
-      "surface": "עַ֖ד",
+      "surface": "עד",
       "gloss": "دیمءَ"
     },
     {
-      "surface": "אֵל֥וֹן",
+      "surface": "אלון",
       "gloss": "اےلونءِ"
     },
     {
@@ -60,19 +62,17 @@
       "gloss": "بِصَعَنیمءَ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "جہ کہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "قَدَش"
     },
     {
-      "surface": "קֶֽדֶשׁ",
+      "surface": "קדש",
       "gloss": "قَدَشءِ نزدیک"
     }
-  ],
-  "timestamp": "2026-09-25T19:06:49.749594636Z",
-  "model": "glm-5.3"
+  ]
 }

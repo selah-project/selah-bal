@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "1-samuel 13:12",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:12:56.573685665Z",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ گوَشت: اِمءَ پلشتان منءَ لڑءَ گلگلءَ کپنت، ءُ من یاہوہءِ رُخءِ منّت نہ کت؛ ءُ من خودءَ زور دَم کت ءُ سوچگیں قربانیءَ چڑھایت.",
   "tokens": [
     {
-      "surface": "וָאֹמַר",
+      "surface": "ואמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "עַתָּה",
+      "surface": "עתה",
       "gloss": "اِمءَ"
     },
     {
-      "surface": "יֵרְדוּ",
+      "surface": "ירדו",
       "gloss": "کپنت"
     },
     {
-      "surface": "פְּלִשְׁתִּים",
+      "surface": "פלשתים",
       "gloss": "پلشتان"
     },
     {
-      "surface": "אֵלַי",
+      "surface": "אלי",
       "gloss": "منءَ لڑءَ"
     },
     {
-      "surface": "הַגִּלְגָּל",
+      "surface": "הגלגל",
       "gloss": "گلگل"
     },
     {
-      "surface": "וּפְנֵי",
+      "surface": "ופני",
       "gloss": "ءُ رُخ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "חִלִּיתִי",
+      "surface": "חליתי",
       "gloss": "منّت کت"
     },
     {
-      "surface": "וָאֶתְאַפַּק",
+      "surface": "ואתאפק",
       "gloss": "خودءَ زور دَم کت"
     },
     {
-      "surface": "וָאַעֲלֶה",
+      "surface": "ואעלה",
       "gloss": "ءُ چڑھایت"
     },
     {
-      "surface": "הָעֹלָה",
+      "surface": "העלה",
       "gloss": "سوچگیں قربانی"
     }
-  ],
-  "timestamp": "2026-09-25T13:12:56.573685665Z",
-  "model": "glm-5.3"
+  ]
 }

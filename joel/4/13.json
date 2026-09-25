@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "joel 4:13",
   "book": "joel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:35:26.245386544Z",
+  "verse": 13,
+  "ref": "joel 4:13",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "داس ڈیءُ، پرچا کہ درن پُخت اِنت؛ آءُ، دیت کپّیت، پرچا کہ گدرانگ پُر اِنت؛ دُلابیان تراہ بیتنت، پرچا کہ اشاںئین بدی گیش اِنت۔",
   "tokens": [
     {
-      "surface": "שִׁלְח֣וּ",
+      "surface": "שלחו",
       "gloss": "ڈیءُ"
     },
     {
-      "surface": "מַגָּ֔ל",
+      "surface": "מגל",
       "gloss": "داس"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "בָשַׁ֖ל",
+      "surface": "בשל",
       "gloss": "پُخت اِنت"
     },
     {
-      "surface": "קָצִ֑יר",
+      "surface": "קציר",
       "gloss": "درن"
     },
     {
-      "surface": "בֹּ֤אֽוּ",
+      "surface": "באו",
       "gloss": "آءُ"
     },
     {
-      "surface": "רְדוּ֙",
+      "surface": "רדו",
       "gloss": "دیت کپّیت"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "מָ֣לְאָה",
+      "surface": "מלאה",
       "gloss": "پُر اِنت"
     },
     {
-      "surface": "גַּ֔ת",
+      "surface": "גת",
       "gloss": "گدرانگ"
     },
     {
-      "surface": "הֵשִׁ֨יקוּ֙",
+      "surface": "השיקו",
       "gloss": "تراہ بیتنت"
     },
     {
-      "surface": "הַיְקָבִ֔ים",
+      "surface": "היקבים",
       "gloss": "دُلابیان"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "רַבָּ֖ה",
+      "surface": "רבה",
       "gloss": "گیش"
     },
     {
-      "surface": "רָעָתָֽם",
+      "surface": "רעתם",
       "gloss": "اشاںئین بدی"
     }
-  ],
-  "timestamp": "2026-09-25T18:35:26.245386544Z",
-  "model": "glm-5.3"
+  ]
 }

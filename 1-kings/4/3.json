@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "1-kings 4:3",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:02:06.233568190Z",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "اِلیحورِف ءُ اَحِیاء، شیشاءِ زہگان، نبشتکار اَنت؛ یِہوشافات، اَحیلودءِ زہگ، یادگارکنوک اِنت۔",
   "tokens": [
     {
-      "surface": "אֱלִיחֹ֧רֶף",
+      "surface": "אליחרף",
       "gloss": "اِلیحورِف"
     },
     {
-      "surface": "וַאֲחִיָּ֛ה",
+      "surface": "ואחיה",
       "gloss": "ءُ اَحِیاء"
     },
     {
-      "surface": "בְּנֵ֥י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "שִׁישָׁ֖א",
+      "surface": "שישא",
       "gloss": "شیشاءِ"
     },
     {
-      "surface": "סֹפְרִ֑ים",
+      "surface": "ספרים",
       "gloss": "نبشتکار"
     },
     {
-      "surface": "יְהוֹשָׁפָ֥ט",
+      "surface": "יהושפט",
       "gloss": "یِہوشافات"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "אֲחִיל֖וּד",
+      "surface": "אחילוד",
       "gloss": "اَحیلودءِ"
     },
     {
-      "surface": "הַמַּזְכִּֽיר",
+      "surface": "המזכיר",
       "gloss": "یادگارکنوک"
     }
-  ],
-  "timestamp": "2026-09-25T13:02:06.233568190Z",
-  "model": "glm-5.3"
+  ]
 }

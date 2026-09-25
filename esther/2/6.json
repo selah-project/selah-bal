@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "esther 2:6",
   "book": "esther",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:42:14.896330471Z",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "کہ چہ یروشالیم جلا کت، گوں آ جلا کتگان کہ گوں یکنیاہ، یہوداہءِ پادشاہ، جلا کتگنت، کہ نبُوکدنسر، بابلءِ پادشاہ، آئے جلا کتگ.",
   "tokens": [
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הָגְלָה",
+      "surface": "הגלה",
       "gloss": "جلا کت"
     },
     {
-      "surface": "מִירוּשָׁלַיִם",
+      "surface": "מירושלים",
       "gloss": "چہ یروشالیم"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "הַגּוֹלָה",
+      "surface": "הגלה",
       "gloss": "آ جلا کتگان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הָגְלְתָה",
+      "surface": "הגלתה",
       "gloss": "جلا کتگنت"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "יְכָנְיָה",
+      "surface": "יכניה",
       "gloss": "یکنیاہ"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "پادشاہ"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הֶגְלָה",
+      "surface": "הגלה",
       "gloss": "آئے"
     },
     {
-      "surface": "נְבוּכַדְנֶאצַּר",
+      "surface": "נבוכדנאצר",
       "gloss": "نبُوکدنسر"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "پادشاہ"
     },
     {
-      "surface": "בָּבֶל",
+      "surface": "בבל",
       "gloss": "بابل"
     }
-  ],
-  "timestamp": "2026-09-25T15:42:14.896330471Z",
-  "model": "glm-5.3"
+  ]
 }

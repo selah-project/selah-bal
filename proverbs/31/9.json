@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "proverbs 31:9",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:22:05.616202054Z",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "تُہ ءُ بُز ءُ شاہِ رَوَنْگ کُر — اَزِیل ءُ کَسَاب ءِ کَار کُر.",
   "tokens": [
     {
-      "surface": "פְּתַח",
+      "surface": "פתח",
       "gloss": "کھول"
     },
     {
-      "surface": "פִּיךָ",
+      "surface": "פיך",
       "gloss": "تیری زبان"
     },
     {
-      "surface": "שְׁפָט",
+      "surface": "שפט",
       "gloss": "انصاف کا فیصلہ دے"
     },
     {
-      "surface": "צֶדֶק",
+      "surface": "צדק",
       "gloss": "راستی"
     },
     {
-      "surface": "וְדִין",
+      "surface": "ודין",
       "gloss": "ءُ راست فیصلہ"
     },
     {
-      "surface": "עָנִי",
+      "surface": "עני",
       "gloss": "غریب ءِ"
     },
     {
-      "surface": "וְאֶבְיוֹן",
+      "surface": "ואביון",
       "gloss": "ءُ مسکین ءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:22:05.616202054Z",
-  "model": "glm-5.3"
+  ]
 }

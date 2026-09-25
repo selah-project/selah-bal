@@ -1,62 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "1-chronicles 28:7",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:44:27.559424425Z",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ من ⟨את⟩ آییءِ پادشاہیءَ تیار کنتں، ہمیشہءَ سوں، اگر آ قوت مند بیت کہ منی حکمان ءُ منی انصافان بکنت، چوش اے روچءِ چوں۔",
   "tokens": [
     {
-      "surface": "וַהֲכִינוֹתִ֥י",
+      "surface": "והכינותי",
       "gloss": "ءُ من تیار کنتں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ پادشاہیءَ"
     },
     {
-      "surface": "מַלְכוּת֖וֹ",
+      "surface": "מלכותו",
       "gloss": "آییءِ پادشاہیءَ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "سوں"
     },
     {
-      "surface": "לְעוֹלָ֑ם",
+      "surface": "לעולם",
       "gloss": "ہمیشہءَ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "اگر"
     },
     {
-      "surface": "יֶחֱזַ֗ק",
+      "surface": "יחזק",
       "gloss": "قوت مند بیت"
     },
     {
-      "surface": "לַעֲשׂ֛וֹת",
+      "surface": "לעשות",
       "gloss": "کہ بکنت"
     },
     {
-      "surface": "מִצְוֺתַ֥י",
+      "surface": "מצותי",
       "gloss": "منی حکمان"
     },
     {
-      "surface": "וּמִשְׁפָּטַ֖י",
+      "surface": "ומשפטי",
       "gloss": "ءُ منی انصافان"
     },
     {
-      "surface": "כַּיּ֥וֹם",
+      "surface": "כיום",
       "gloss": "چوش اے روچءِ چوں"
     },
     {
-      "surface": "הַזֶּֽה",
+      "surface": "הזה",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T12:44:27.559424425Z",
-  "model": "glm-5.3"
+  ]
 }

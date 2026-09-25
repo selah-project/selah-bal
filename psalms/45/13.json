@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "psalms 45:13",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:41:14.008583322Z",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "tier": "glm-5.2",
   "chapter": 45,
   "translation": "ءُ صُورءِ جنک گوں سوچ گیں پیشکش اِنت؛ قومءِ چیزیں مردم تُہاری رُخءِ مہربانی گندنت۔",
   "tokens": [
     {
-      "surface": "וּבַֽת",
+      "surface": "ובת",
       "gloss": "ءُ جنک"
     },
     {
-      "surface": "צֹ֨ר",
+      "surface": "צר",
       "gloss": "صُور"
     },
     {
-      "surface": "בְּמִנְחָה",
+      "surface": "במנחה",
       "gloss": "گوں سوچ گیں پیشکش"
     },
     {
-      "surface": "פָּנַ֫יִךְ",
+      "surface": "פניך",
       "gloss": "تُہاری رُخ"
     },
     {
-      "surface": "יְחַלּ֗וּ",
+      "surface": "יחלו",
       "gloss": "مہربانی گندنت"
     },
     {
-      "surface": "עֲשִׁ֣ירֵי",
+      "surface": "עשירי",
       "gloss": "چیزیں"
     },
     {
-      "surface": "עָֽם",
+      "surface": "עם",
       "gloss": "قوم"
     }
-  ],
-  "timestamp": "2026-09-25T20:41:14.008583322Z",
-  "model": "glm-5.3"
+  ]
 }

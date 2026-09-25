@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "ezra 1:7",
   "book": "ezra",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:35:11.485727714Z",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ شاہ کورش یاہوہءِ گدءِ ⟨את⟩ برتنان چوپ کت، آ کہ نبۇکدنصر یروشلمءَ چہ چوپ کتگ ءُ آیانءَ وتءِ ایلوہیمءِ گدءَ گشت۔",
   "tokens": [
     {
-      "surface": "וְהַמֶּ֣לֶךְ",
+      "surface": "והמלך",
       "gloss": "ءُ شاہ"
     },
     {
-      "surface": "כּוֹרֶשׁ",
+      "surface": "כורש",
       "gloss": "کورش"
     },
     {
-      "surface": "הוֹצִ֖יא",
+      "surface": "הוציא",
       "gloss": "چوپ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "برتنان"
     },
     {
-      "surface": "כְּלֵ֣י",
+      "surface": "כלי",
       "gloss": "برتنان"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گد"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "הוֹצִ֤יא",
+      "surface": "הוציא",
       "gloss": "چوپ کتگ"
     },
     {
-      "surface": "נְבוּכַדְנֶצַּר֙",
+      "surface": "נבוכדנצר",
       "gloss": "نبۇکدنصر"
     },
     {
-      "surface": "מִירוּשָׁלִַ֔ם",
+      "surface": "מירושלם",
       "gloss": "یروشلمءَ چہ"
     },
     {
-      "surface": "וַֽיִּתְּנֵ֖ם",
+      "surface": "ויתנם",
       "gloss": "ءُ آیانءَ گشت"
     },
     {
-      "surface": "בְּבֵ֥ית",
+      "surface": "בבית",
       "gloss": "گدءَ تہ"
     },
     {
-      "surface": "אֱלֹהָֽיו",
+      "surface": "אלהיו",
       "gloss": "وتءِ ایلوہیمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T16:35:11.485727714Z",
-  "model": "glm-5.3"
+  ]
 }

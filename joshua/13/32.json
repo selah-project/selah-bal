@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "joshua 13:32",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:39:17.908435440Z",
+  "verse": 32,
+  "ref": "joshua 13:32",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "اے آ اِنت کہ موشہءَ مِتسرائمیں دشتانءَ، یاردنءِ پار، جریحوءِ نزدیکی، مشرقءِ وسڈی ءَ ورثت ءَ چڑ کت ۔",
   "tokens": [
     {
-      "surface": "אֵלֶּה",
+      "surface": "אלה",
       "gloss": "اے آ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נִחַל",
+      "surface": "נחל",
       "gloss": "چڑ کت"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "موشہءَ ⟨موسیٰ⟩"
     },
     {
-      "surface": "בְּעַרְבוֹת",
+      "surface": "בערבות",
       "gloss": "مِتسرائمیں دشتانءَ"
     },
     {
-      "surface": "מוֹאָב",
+      "surface": "מואב",
       "gloss": "مِتسرائم"
     },
     {
-      "surface": "מֵעֵבֶר",
+      "surface": "מעבר",
       "gloss": "پار"
     },
     {
-      "surface": "לְיַרְדֵּן",
+      "surface": "לירדן",
       "gloss": "یاردنءِ"
     },
     {
-      "surface": "יְרִיחוֹ",
+      "surface": "יריחו",
       "gloss": "جریحوءِ نزدیکی"
     },
     {
-      "surface": "מִזְרָחָה",
+      "surface": "מזרחה",
       "gloss": "مشرقءِ وسڈی ءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:39:17.908435440Z",
-  "model": "glm-5.3"
+  ]
 }

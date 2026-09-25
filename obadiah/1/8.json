@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "obadiah 1:8",
   "book": "obadiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:08:35.371894910Z",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "آیا نہ اے روچءَ — یاہوہءِ گال — کہ مانءَ دانائان چہ ایدوم ءُ فہم چہ عیسوءِ ڈگار تباه کنیں؟",
   "tokens": [
     {
-      "surface": "הֲלוֹא",
+      "surface": "הלוא",
       "gloss": "آیا نہ"
     },
     {
-      "surface": "בַּיּוֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "הַהוּא",
+      "surface": "ההוא",
       "gloss": "اے"
     },
     {
-      "surface": "נְאֻם",
+      "surface": "נאם",
       "gloss": "گال"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וְהַאֲבַדְתִּי",
+      "surface": "והאבדתי",
       "gloss": "ءُ تباه کنیں"
     },
     {
-      "surface": "חֲכָמִים",
+      "surface": "חכמים",
       "gloss": "دانائان"
     },
     {
-      "surface": "מֵאֱדוֹם",
+      "surface": "מאדום",
       "gloss": "چہ ایدوم"
     },
     {
-      "surface": "וּתְבוּנָה",
+      "surface": "ותבונה",
       "gloss": "ءُ فہم"
     },
     {
-      "surface": "מֵהַר",
+      "surface": "מהר",
       "gloss": "چہ ڈگار"
     },
     {
-      "surface": "עֵשָׂו",
+      "surface": "עשו",
       "gloss": "عیسوءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:08:35.371894910Z",
-  "model": "glm-5.3"
+  ]
 }

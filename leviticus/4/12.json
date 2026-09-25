@@ -1,103 +1,103 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "leviticus 4:12",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:25:07.900238563Z",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ درآورت ⟨את⟩ پوریں گاو چہ مِشکانءِ بیرونءَ، پہ یک پاکیں جاگہءَ، پہ خاکستر دراویشءِ جاگہءَ، ءُ ⟨את⟩ آییءَ گوں درتان تہ آتشءَ سوزانت؛ خاکستر دراویشءِ جاگہءَ سوزیت بیت.",
   "tokens": [
     {
-      "surface": "וְהוֹצִיא",
+      "surface": "והוציא",
       "gloss": "ءُ درآورت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوریں گاو"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "הַפָּר",
+      "surface": "הפר",
       "gloss": "گاو"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "מִחוּץ",
+      "surface": "מחוץ",
       "gloss": "بیرون"
     },
     {
-      "surface": "לַמַּחֲנֶה",
+      "surface": "למחנה",
       "gloss": "مِشکانءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "מָקוֹם",
+      "surface": "מקום",
       "gloss": "جاگہ"
     },
     {
-      "surface": "טָהוֹר",
+      "surface": "טהור",
       "gloss": "پاکیں"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "שֶׁפֶךְ",
+      "surface": "שפך",
       "gloss": "دراویشءِ"
     },
     {
-      "surface": "הַדֶּשֶׁן",
+      "surface": "הדשן",
       "gloss": "خاکستر"
     },
     {
-      "surface": "וְשָׂרַף",
+      "surface": "ושרף",
       "gloss": "ءُ سوزانت"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "گاو (آییءَ)"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "עֵצִים",
+      "surface": "עצים",
       "gloss": "درتان گوں"
     },
     {
-      "surface": "בָּאֵשׁ",
+      "surface": "באש",
       "gloss": "تہ آتشءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "שֶׁפֶךְ",
+      "surface": "שפך",
       "gloss": "دراویشءِ"
     },
     {
-      "surface": "הַדֶּשֶׁן",
+      "surface": "הדשן",
       "gloss": "خاکستر"
     },
     {
-      "surface": "יִשָּׂרֵף",
+      "surface": "ישרף",
       "gloss": "سوزیت بیت"
     }
-  ],
-  "timestamp": "2026-09-25T19:25:07.900238563Z",
-  "model": "glm-5.3"
+  ]
 }

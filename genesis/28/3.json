@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "genesis 28:3",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:48:53.787872497Z",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ اِل شدّای تُءَ برکت دیت، ءُ تُءَ پُرثار کنیت، ءُ تُءَ گیش کنیت، ءُ تُ یک قوماںءِ کہال بیت۔",
   "tokens": [
@@ -37,14 +39,12 @@
       "gloss": "ءُ تُ بیت"
     },
     {
-      "surface": "לקהل",
+      "surface": "לקהל",
       "gloss": "قوماںءِ کہالءَ"
     },
     {
       "surface": "עמים",
       "gloss": "قوماں"
     }
-  ],
-  "timestamp": "2026-09-25T16:48:53.787872497Z",
-  "model": "glm-5.3"
+  ]
 }

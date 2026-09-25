@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "leviticus 8:6",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:28:16.032740388Z",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ موشہءَ اہارون ءُ ⟨את⟩ آییءِ زہگان پیش کت، ءُ آیانءَ ⟨את⟩ گوں آپءَ وشیت.",
   "tokens": [
@@ -34,7 +36,7 @@
       "gloss": "آییءِ زہگان"
     },
     {
-      "surface": "وירחץ",
+      "surface": "וירחץ",
       "gloss": "ءُ وشیت"
     },
     {
@@ -46,7 +48,5 @@
       "surface": "במים",
       "gloss": "گوں آپءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:28:16.032740388Z",
-  "model": "glm-5.3"
+  ]
 }

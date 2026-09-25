@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "genesis 44:11",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:59:36.051732418Z",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "tier": "glm-5.2",
   "chapter": 44,
   "translation": "ءُ ایشان گشنگ کنت ءُ ہر یک ⟨את⟩ وتی تھالءَ زمینءَ دیم دات، ءُ ہر یک وتی تھالءَ کھولت.",
   "tokens": [
     {
-      "surface": "וַֽיְמַהֲר֗וּ",
+      "surface": "וימהרו",
       "gloss": "گشنگ کنت"
     },
     {
-      "surface": "וַיּוֹרִ֛דוּ",
+      "surface": "ויורדו",
       "gloss": "دیم داتنت"
     },
     {
-      "surface": "אִ֥ישׁ",
+      "surface": "איש",
       "gloss": "ہر یک"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی تھالءَ"
     },
     {
-      "surface": "אַמְתַּחְתּ֖וֹ",
+      "surface": "אמתחתו",
       "gloss": "وتی تھالءَ"
     },
     {
-      "surface": "אָ֑רְצָה",
+      "surface": "ארצה",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "וַֽיִּפְתְּח֖וּ",
+      "surface": "ויפתחו",
       "gloss": "کھولتنت"
     },
     {
-      "surface": "אִ֥ישׁ",
+      "surface": "איש",
       "gloss": "ہر یک"
     },
     {
-      "surface": "אַמְתַּחְתּֽוֹ",
+      "surface": "אמתחתו",
       "gloss": "وتی تھالءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:59:36.051732418Z",
-  "model": "glm-5.3"
+  ]
 }

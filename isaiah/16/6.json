@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "isaiah 16:6",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:12:17.440022226Z",
+  "verse": 6,
+  "ref": "isaiah 16:6",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ما گوشت موآبءِ گمنڈءَ — آ چیک گمنڈدار اِنت — آییءِ گمنڈ ءُ آییءِ زور ءُ آییءِ غضہ؛ آییءِ دروغے نہ چوش اِنت۔",
   "tokens": [
     {
-      "surface": "שָׁמַ֥עְנוּ",
+      "surface": "שמענו",
       "gloss": "ما گوشت"
     },
     {
-      "surface": "גְאוֹן",
+      "surface": "גאון",
       "gloss": "گمنڈ"
     },
     {
-      "surface": "מוֹאָ֖ב",
+      "surface": "מואב",
       "gloss": "موآب"
     },
     {
-      "surface": "גֵ֣א",
+      "surface": "גא",
       "gloss": "گمنڈدار"
     },
     {
-      "surface": "מְאֹ֑ד",
+      "surface": "מאד",
       "gloss": "چیک"
     },
     {
-      "surface": "גַּאֲוָת֧וֹ",
+      "surface": "גאותו",
       "gloss": "آییءِ گمنڈ"
     },
     {
-      "surface": "וּגְאוֹנ֛וֹ",
+      "surface": "וגאונו",
       "gloss": "ءُ آییءِ زور"
     },
     {
-      "surface": "וְעֶבְרָת֖וֹ",
+      "surface": "ועברתו",
       "gloss": "ءُ آییءِ غضہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "כֵ֥ן",
+      "surface": "כן",
       "gloss": "چوش"
     },
     {
-      "surface": "בָּדָֽיו",
+      "surface": "בדיו",
       "gloss": "آییءِ دروغے"
     }
-  ],
-  "timestamp": "2026-09-25T17:12:17.440022226Z",
-  "model": "glm-5.3"
+  ]
 }

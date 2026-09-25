@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "ezekiel 10:5",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:04:25.156109465Z",
+  "verse": 5,
+  "ref": "ezekiel 10:5",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ کروبانءِ پرانی آواز چہ بیرونی حویلیءَ گوشگ بیت، چوش اِل شدّایءِ آوازءِ چوں، گوں آییءِ گپءِ وہد۔",
   "tokens": [
     {
-      "surface": "וְקוֹל",
+      "surface": "וקול",
       "gloss": "ءُ آواز"
     },
     {
-      "surface": "כַּנְפֵי",
+      "surface": "כנפי",
       "gloss": "پرانی"
     },
     {
-      "surface": "הַכְּרוּבִים",
+      "surface": "הכרובים",
       "gloss": "کروبانءِ"
     },
     {
-      "surface": "נִשְׁמַע",
+      "surface": "נשמע",
       "gloss": "گوشگ بیت"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "چہ … ءَ"
     },
     {
-      "surface": "הֶחָצֵר",
+      "surface": "החצר",
       "gloss": "حویلی"
     },
     {
-      "surface": "הַחִיצֹנָה",
+      "surface": "החיצנה",
       "gloss": "بیرونی"
     },
     {
-      "surface": "כְּקוֹל",
+      "surface": "כקול",
       "gloss": "چوش آوازءِ چوں"
     },
     {
-      "surface": "אֵל",
+      "surface": "אל",
       "gloss": "اِل"
     },
     {
-      "surface": "שַׁדַּי",
+      "surface": "שדי",
       "gloss": "شدّایءِ"
     },
     {
-      "surface": "בְּדַבְּרֽוֹ",
+      "surface": "בדברו",
       "gloss": "گوں آییءِ گپءِ وہد"
     }
-  ],
-  "timestamp": "2026-09-25T16:04:25.156109465Z",
-  "model": "glm-5.3"
+  ]
 }

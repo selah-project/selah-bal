@@ -1,89 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 39,
-  "ref": "deuteronomy 1:39",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:05:52.057201566Z",
+  "verse": 39,
+  "ref": "deuteronomy 1:39",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ شمایئیں نوابچگ کہ شمی گوَشت شماں چہ گمش ببنت، ءُ شمایئیں زہگان کہ آ روچءَ نیں شناختنت چاہ ءُ گندنگ، آءُ اُش اُدہءَ رونت، ءُ آءُاںءَ منگ اے ءُ آءُ اُشے وارث بنت۔",
   "tokens": [
     {
-      "surface": "וְטַפְּכֶם",
+      "surface": "וטפכם",
       "gloss": "ءُ شمایئیں نوابچگ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אֲמַרְתֶּם",
+      "surface": "אמרתם",
       "gloss": "شمی گوَشت"
     },
     {
-      "surface": "לָבַז",
+      "surface": "לבז",
       "gloss": "چہ گمش ببنت"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "ببنت"
     },
     {
-      "surface": "וּבְנֵיכֶם",
+      "surface": "ובניכם",
       "gloss": "ءُ شمایئیں زہگان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نیں"
     },
     {
-      "surface": "יָדְעוּ",
+      "surface": "ידעו",
       "gloss": "شناختنت"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "آ روچءَ"
     },
     {
-      "surface": "טוֹב",
+      "surface": "טוב",
       "gloss": "چاہ"
     },
     {
-      "surface": "וָרָע",
+      "surface": "ורע",
       "gloss": "ءُ گندنگ"
     },
     {
-      "surface": "הֵמָּה",
+      "surface": "המה",
       "gloss": "آءُ اُش"
     },
     {
-      "surface": "יָבֹאוּ",
+      "surface": "יבאו",
       "gloss": "رونت اُدہءَ"
     },
     {
-      "surface": "שָׁמָּה",
+      "surface": "שמה",
       "gloss": "اُدہءَ"
     },
     {
-      "surface": "וְלָהֶם",
+      "surface": "ולהם",
       "gloss": "ءُ آءُاںءَ"
     },
     {
-      "surface": "אֶתְּנֶנָּה",
+      "surface": "אתננה",
       "gloss": "منگ اے"
     },
     {
-      "surface": "וְהֵם",
+      "surface": "והם",
       "gloss": "ءُ آءُ اُشے"
     },
     {
-      "surface": "יִירָשׁוּהָ",
+      "surface": "יירשוה",
       "gloss": "وارث بنت"
     }
-  ],
-  "timestamp": "2026-09-25T15:05:52.057201566Z",
-  "model": "glm-5.3"
+  ]
 }

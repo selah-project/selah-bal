@@ -1,43 +1,43 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "genesis 10:15",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:41:16.327033351Z",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ کنعانءَ ⟨את⟩ صیدونءَ وتی اولی زہگ جنیت ءُ ⟨את⟩ حتءَ.",
   "tokens": [
     {
-      "surface": "וּכְנַ֗עַן",
+      "surface": "וכנען",
       "gloss": "ءُ کنعانءَ"
     },
     {
-      "surface": "יָלַ֛ד",
+      "surface": "ילד",
       "gloss": "جنیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "صیدونءَ"
     },
     {
-      "surface": "צִידֹ֥ן",
+      "surface": "צידן",
       "gloss": "صیدونءَ"
     },
     {
-      "surface": "בְּכֹר֖וֹ",
+      "surface": "בכרו",
       "gloss": "وتی اولی زہگ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "حتءَ"
     },
     {
-      "surface": "חֵֽת",
+      "surface": "חת",
       "gloss": "حتءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:41:16.327033351Z",
-  "model": "glm-5.3"
+  ]
 }

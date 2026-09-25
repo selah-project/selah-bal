@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "2-samuel 20:25",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:36:03.741620709Z",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "ءُ شِیا سَپَر بوت، ءُ سَدُوق ءُ اَبَیاتار کاہنان بنت۔",
   "tokens": [
     {
-      "surface": "וְשִׁיאָ",
+      "surface": "ושיא",
       "gloss": "ءُ شِیا"
     },
     {
-      "surface": "סֹפֵר",
+      "surface": "ספר",
       "gloss": "سَپَر"
     },
     {
-      "surface": "וְצָדוֹק",
+      "surface": "וצדוק",
       "gloss": "ءُ سَدُوق"
     },
     {
-      "surface": "וְאֶבְיָתָר",
+      "surface": "ואביתר",
       "gloss": "ءُ اَبَیاتار"
     },
     {
-      "surface": "כֹּהֲנִים",
+      "surface": "כהנים",
       "gloss": "کاہنان"
     }
-  ],
-  "timestamp": "2026-09-25T14:36:03.741620709Z",
-  "model": "glm-5.3"
+  ]
 }

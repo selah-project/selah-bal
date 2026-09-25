@@ -1,103 +1,103 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "nehemiah 13:18",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:37:26.578095900Z",
+  "verse": 18,
+  "ref": "nehemiah 13:18",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "مگر اے چوش نہ کتا چہ شمانی پد؟ ءُ ایلوہیمءَ مارا ءُ مار ءُ اے شہرءَ سرا ⟨את⟩ پوراں بدی آورت، ءُ شما یسرائیلءِ سرا گرمیءَ گیش کنیت، شباتءَ ناپاک کرگءِ پہ ⟨את⟩۔",
   "tokens": [
     {
-      "surface": "הֲלֹא",
+      "surface": "הלוא",
       "gloss": "مگر...نہ"
     },
     {
-      "surface": "כֹה",
+      "surface": "כה",
       "gloss": "چوش اے"
     },
     {
-      "surface": "עָשׂוּ",
+      "surface": "עשו",
       "gloss": "کتا"
     },
     {
-      "surface": "אֲבֹתֵיכֶם",
+      "surface": "אבתיכם",
       "gloss": "شمانی پد"
     },
     {
-      "surface": "וַיָּבֵא",
+      "surface": "ויבא",
       "gloss": "ءُ آورت"
     },
     {
-      "surface": "אֱלֹהֵינוּ",
+      "surface": "אלהינו",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "עָלֵינוּ",
+      "surface": "עלינו",
       "gloss": "مارا...سرا"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوراں بدی"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوراں"
     },
     {
-      "surface": "הָרָעָה",
+      "surface": "הרעה",
       "gloss": "بدی"
     },
     {
-      "surface": "הַזֹּאת",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ...سرا"
     },
     {
-      "surface": "הָעִיר",
+      "surface": "העיר",
       "gloss": "شہر"
     },
     {
-      "surface": "הַזֹּאת",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "וְאַתֶּם",
+      "surface": "ואתם",
       "gloss": "ءُ شما"
     },
     {
-      "surface": "מוֹסִיפִים",
+      "surface": "מוסיפים",
       "gloss": "گیش کنیت"
     },
     {
-      "surface": "חָרוֹן",
+      "surface": "חרון",
       "gloss": "گرمی"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرا"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "לְחַלֵּל",
+      "surface": "לחלל",
       "gloss": "ناپاک کرگءِ پہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شبات"
     },
     {
-      "surface": "הַשַּׁבָּת",
+      "surface": "השבת",
       "gloss": "شبات"
     }
-  ],
-  "timestamp": "2026-09-25T19:37:26.578095900Z",
-  "model": "glm-5.3"
+  ]
 }

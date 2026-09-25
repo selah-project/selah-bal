@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "genesis 43:10",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:57:33.691685739Z",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "tier": "glm-5.2",
   "chapter": 43,
   "translation": "کی اگر ما درنگ نہ کتگی ئے، چوش کہ آڑا ما دو رند پدا لٹتی اشتِ.",
   "tokens": [
     {
-      "surface": "כִּ֖י",
+      "surface": "כי",
       "gloss": "کی"
     },
     {
-      "surface": "לוּלֵ֣א",
+      "surface": "לולא",
       "gloss": "اگر نہ"
     },
     {
-      "surface": "הִתְמַהְמָ֑הְנוּ",
+      "surface": "התמהמהנו",
       "gloss": "درنگ کتگی ئے"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "עַתָּ֥ה",
+      "surface": "עתה",
       "gloss": "آڑا"
     },
     {
-      "surface": "שַׁ֖בְנוּ",
+      "surface": "שבנו",
       "gloss": "پدا لٹتی"
     },
     {
-      "surface": "זֶ֥ה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "פַּעֲמָֽיִם",
+      "surface": "פעמים",
       "gloss": "دو رند"
     }
-  ],
-  "timestamp": "2026-09-25T16:57:33.691685739Z",
-  "model": "glm-5.3"
+  ]
 }

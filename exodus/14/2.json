@@ -1,93 +1,93 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "exodus 14:2",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:45:35.668182613Z",
+  "verse": 2,
+  "ref": "exodus 14:2",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "بنوچ اسرائیلءَ گوَشت کہ پدا گردنت ءُ چی رہ کننت پی ہاحیروتءِ پیشی، میان مگدل ءُ میان ⟨دریا⟩، بعل صفنءِ پیشی؛ آیءِ روبڑا چی رہ کننت ⟨دریا⟩ءِ سرءَ۔",
   "tokens": [
     {
-      "surface": "דַּבֵּר",
+      "surface": "דבר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "…ءَ"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "بنوچ"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "וְיָשֻׁבוּ",
+      "surface": "וישבו",
       "gloss": "کہ پدا گردنت"
     },
     {
-      "surface": "וְיַחֲנוּ",
+      "surface": "ויחנו",
       "gloss": "ءُ چی رہ کننت"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "ءِ پیشی"
     },
     {
-      "surface": "פִּי",
+      "surface": "פי",
       "gloss": "پی"
     },
     {
-      "surface": "הַחִירֹת",
+      "surface": "החירת",
       "gloss": "ہاحیروت"
     },
     {
-      "surface": "בֵּין",
+      "surface": "בין",
       "gloss": "میان"
     },
     {
-      "surface": "מִגְדֹּל",
+      "surface": "מגדל",
       "gloss": "مگدل"
     },
     {
-      "surface": "וּבֵין",
+      "surface": "ובין",
       "gloss": "ءُ میان"
     },
     {
-      "surface": "הַיָּם",
+      "surface": "הים",
       "gloss": "⟨دریا⟩"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "ءِ پیشی"
     },
     {
-      "surface": "בַּעַל",
+      "surface": "בעל",
       "gloss": "بعل"
     },
     {
-      "surface": "צְפֹן",
+      "surface": "צפן",
       "gloss": "صفن"
     },
     {
-      "surface": "נִכְחוֹ",
+      "surface": "נכחו",
       "gloss": "روبڑا"
     },
     {
-      "surface": "תַחֲנוּ",
+      "surface": "תחנו",
       "gloss": "چی رہ کننت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "ءِ سرءَ"
     },
     {
-      "surface": "הַיָּם",
+      "surface": "הים",
       "gloss": "⟨دریا⟩"
     }
-  ],
-  "timestamp": "2026-09-25T15:45:35.668182613Z",
-  "model": "glm-5.3"
+  ]
 }

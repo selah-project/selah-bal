@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "isaiah 11:3",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:14:14.814054348Z",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ آییءِ بُو یاہوہءِ ڈَنگءَ بُو دیت؛ ءُ آیی پہ وتی چمءِ دیستنءَ داڑی نہ کنیت ءُ نہ پہ وتی گوشءِ گوشنءَ توحیت کنیت۔",
   "tokens": [
     {
-      "surface": "וַהֲרִיחוֹ",
+      "surface": "והריחו",
       "gloss": "ءُ بُو دیت"
     },
     {
-      "surface": "בְּיִרְאַת",
+      "surface": "ביראת",
       "gloss": "ڈَنگءَ تہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "לְמַרְאֵה",
+      "surface": "למראה",
       "gloss": "پہ دیستن"
     },
     {
-      "surface": "עֵינָיו",
+      "surface": "עיניו",
       "gloss": "وتی چم"
     },
     {
-      "surface": "יִשְׁפּוֹט",
+      "surface": "ישפוט",
       "gloss": "داڑی کنیت"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "לְמִשְׁמַע",
+      "surface": "למשמע",
       "gloss": "پہ گوشن"
     },
     {
-      "surface": "אָזְנָיו",
+      "surface": "אזניו",
       "gloss": "وتی گوش"
     },
     {
-      "surface": "יוֹכִיחַ",
+      "surface": "יוכיח",
       "gloss": "توحیت کنیت"
     }
-  ],
-  "timestamp": "2026-09-25T17:14:14.814054348Z",
-  "model": "glm-5.3"
+  ]
 }

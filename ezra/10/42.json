@@ -1,25 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
-  "ref": "ezra 10:42",
   "book": "ezra",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:34:34.588130168Z",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "شلم، امراہیا، ءُ یوسف.",
   "tokens": [
     {
-      "surface": "שַׁלּ֥וּם",
+      "surface": "שלום",
       "gloss": "شلم"
     },
     {
-      "surface": "אֲמַרְיָ֖ה",
+      "surface": "אמריה",
       "gloss": "امراہیا"
     },
     {
-      "surface": "יוֹסֵֽף",
+      "surface": "יוסף",
       "gloss": "یوسف"
     }
-  ],
-  "timestamp": "2026-09-25T16:34:34.588130168Z",
-  "model": "glm-5.3"
+  ]
 }

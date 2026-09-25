@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "jeremiah 48:25",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:12:31.215669349Z",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "tier": "glm-5.2",
   "chapter": 48,
   "translation": "موآبءِ شنگار کنڈ بوت، ءُ آییءِ بازو شکست بوت — یاہوہءِ اِعتیراءِ گال۔",
   "tokens": [
     {
-      "surface": "נִגְדְּעָה֙",
+      "surface": "נגדעה",
       "gloss": "کنڈ بوت"
     },
     {
-      "surface": "קֶ֣רֶן",
+      "surface": "קרן",
       "gloss": "شنگار"
     },
     {
-      "surface": "מוֹאָ֔ב",
+      "surface": "מואב",
       "gloss": "موآبءِ"
     },
     {
-      "surface": "וּזְרֹע֖וֹ",
+      "surface": "וזרעו",
       "gloss": "ءُ آییءِ بازو"
     },
     {
-      "surface": "נִשְׁבָּ֑רָה",
+      "surface": "נשברה",
       "gloss": "شکست بوت"
     },
     {
-      "surface": "נְאֻ֖ם",
+      "surface": "נאם",
       "gloss": "اِعتیراءِ گال"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T21:12:31.215669349Z",
-  "model": "glm-5.3"
+  ]
 }

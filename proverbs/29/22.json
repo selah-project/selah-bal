@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "proverbs 29:22",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:16:41.372109384Z",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "غصہءِ مرد جھیڑا چڑیت، ءُ تپشءِ مالک گیش سرکشی داریت.",
   "tokens": [
     {
-      "surface": "אִֽישׁ",
+      "surface": "איש",
       "gloss": "مرد"
     },
     {
-      "surface": "אַ֭ף",
+      "surface": "אף",
       "gloss": "غصہ"
     },
     {
-      "surface": "יְגָרֶ֣ה",
+      "surface": "יגרה",
       "gloss": "چڑیت"
     },
     {
-      "surface": "מָד֑וֹן",
+      "surface": "מדון",
       "gloss": "جھیڑا"
     },
     {
-      "surface": "וּבַ֖עַל",
+      "surface": "ובעל",
       "gloss": "ءُ مالک"
     },
     {
-      "surface": "חֵמָ֣ה",
+      "surface": "חמה",
       "gloss": "تپش"
     },
     {
-      "surface": "רַב",
+      "surface": "רב",
       "gloss": "گیش"
     },
     {
-      "surface": "פָּֽשַׁע",
+      "surface": "פשע",
       "gloss": "سرکشی"
     }
-  ],
-  "timestamp": "2026-09-25T21:16:41.372109384Z",
-  "model": "glm-5.3"
+  ]
 }

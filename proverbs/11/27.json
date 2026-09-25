@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "proverbs 11:27",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:12:04.434644912Z",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "جو کہ چمءَ توبءِ سرچگ اِنت، رضا طلب کیت؛ ءُ جو کہ گناهءِ سرچگ اِنت، گناه آییءَ رسیت۔",
   "tokens": [
     {
-      "surface": "שֹׁחֵ֣ר",
+      "surface": "שחר",
       "gloss": "سرچگ"
     },
     {
-      "surface": "ט֭וֹב",
+      "surface": "טוב",
       "gloss": "چم"
     },
     {
-      "surface": "יְבַקֵּ֣שׁ",
+      "surface": "יבקש",
       "gloss": "طلب کیت"
     },
     {
-      "surface": "רָצ֑וֹן",
+      "surface": "רצון",
       "gloss": "رضا"
     },
     {
-      "surface": "וְדֹרֵ֖שׁ",
+      "surface": "ודרש",
       "gloss": "ءُ جو کہ سرچگ اِنت"
     },
     {
-      "surface": "רָעָ֣ה",
+      "surface": "רעה",
       "gloss": "گناه"
     },
     {
-      "surface": "תְבוֹאֶֽנּוּ",
+      "surface": "תבואנו",
       "gloss": "آییءَ رسیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:12:04.434644912Z",
-  "model": "glm-5.3"
+  ]
 }

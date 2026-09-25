@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "hosea 9:8",
   "book": "hosea",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:09:12.713130641Z",
+  "verse": 8,
+  "ref": "hosea 9:8",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "افرایمءِ چوکیدار گوں وتئیں ایلوہیم اِنت؛ پیغمبر — کمین‌گرءِ فند — وتءِ ہمگ رہانءِ سر اِنت، ءُ دشمنی وتئیں ایلوہیمءِ گدانءَ اِنت.",
   "tokens": [
     {
-      "surface": "צֹפֶ֥ה",
+      "surface": "צפה",
       "gloss": "چوکیدار"
     },
     {
-      "surface": "אֶפְרַ֖יִם",
+      "surface": "אפרים",
       "gloss": "افرایم"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "אֱלֹהָ֑י",
+      "surface": "אלהי",
       "gloss": "مءِ ایلوہیم"
     },
     {
-      "surface": "נָבִ֞יא",
+      "surface": "נביא",
       "gloss": "پیغمبر"
     },
     {
-      "surface": "פַּ֤חַ",
+      "surface": "פח",
       "gloss": "فند"
     },
     {
-      "surface": "יָקוֹשׁ֙",
+      "surface": "יקוש",
       "gloss": "کمین‌گرءِ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سر"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "דְּרָכָ֔יו",
+      "surface": "דרכיו",
       "gloss": "وتءِ رہان"
     },
     {
-      "surface": "מַשְׂטֵמָ֖ה",
+      "surface": "משטמה",
       "gloss": "دشمنی"
     },
     {
-      "surface": "בְּבֵ֥ית",
+      "surface": "בבית",
       "gloss": "تہ گدانءَ"
     },
     {
-      "surface": "אֱלֹהָֽיו",
+      "surface": "אלהיו",
       "gloss": "وتئیں ایلوہیمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:09:12.713130641Z",
-  "model": "glm-5.3"
+  ]
 }

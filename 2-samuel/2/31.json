@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "2-samuel 2:31",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:35:57.763404535Z",
+  "verse": 31,
+  "ref": "2-samuel 2:31",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ داودءِ نوکران چہ بنیامین ءُ اَبنیرءِ مردمانی تہ مرہ کنت — سئے سد ءُ شست ءُ شش مردمان مات بوتنت.",
   "tokens": [
     {
-      "surface": "וְעַבְדֵ֣י",
+      "surface": "ועבדי",
       "gloss": "ءُ داودءِ نوکران"
     },
     {
-      "surface": "דָוִ֗ד",
+      "surface": "דוד",
       "gloss": "داودءِ"
     },
     {
-      "surface": "הִכּוּ֙",
+      "surface": "הכו",
       "gloss": "مرہ کنت"
     },
     {
-      "surface": "מִבִּנְיָמִ֔ן",
+      "surface": "מבנימן",
       "gloss": "چہ بنیامین"
     },
     {
-      "surface": "וּבְאַנְשֵׁ֖י",
+      "surface": "ובאנשי",
       "gloss": "ءُ اَبنیرءِ مردمانی تہ"
     },
     {
-      "surface": "אַבְנֵ֑ר",
+      "surface": "אבנר",
       "gloss": "اَبنیرءِ"
     },
     {
-      "surface": "שְׁלֹשׁ",
+      "surface": "שלש",
       "gloss": "سئے"
     },
     {
-      "surface": "מֵא֧וֹת",
+      "surface": "מאות",
       "gloss": "سد"
     },
     {
-      "surface": "וְשִׁשִּׁ֛ים",
+      "surface": "וששים",
       "gloss": "ءُ شست ءُ شش"
     },
     {
-      "surface": "אִ֖ישׁ",
+      "surface": "איש",
       "gloss": "مردمان"
     },
     {
-      "surface": "מֵֽתוּ",
+      "surface": "מתו",
       "gloss": "مات بوتنت"
     }
-  ],
-  "timestamp": "2026-09-25T14:35:57.763404535Z",
-  "model": "glm-5.3"
+  ]
 }

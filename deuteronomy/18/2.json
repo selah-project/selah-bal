@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "deuteronomy 18:2",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:14:28.677307233Z",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ میرس نہ بیت آییءَ آییءِ براتانی ماں؛ یاہوہ اِنت آییءِ میرس، چوش کہ آییءَ گوَشت کتگ اِنت.",
   "tokens": [
     {
-      "surface": "וְנַחֲלָ֥ה",
+      "surface": "ונחלה",
       "gloss": "ءُ میرس"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִֽהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לּ֖וֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "בְּקֶ֣רֶב",
+      "surface": "בקרב",
       "gloss": "ماں"
     },
     {
-      "surface": "אֶחָ֑יו",
+      "surface": "אחיו",
       "gloss": "آییءِ براتانی"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "ה֣וּא",
+      "surface": "הוא",
       "gloss": "اِنت ⟨اے⟩"
     },
     {
-      "surface": "נַחֲלָת֔וֹ",
+      "surface": "נחלתו",
       "gloss": "آییءِ میرس"
     },
     {
-      "surface": "כַּאֲשֶׁ֖ר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "דִּבֶּ֥ר",
+      "surface": "דבר",
       "gloss": "گوَشت کتگ"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:14:28.677307233Z",
-  "model": "glm-5.3"
+  ]
 }

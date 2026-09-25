@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "psalms 107:17",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:24:28.398474912Z",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "tier": "glm-5.2",
   "chapter": 107,
   "translation": "نادانان چہ وتی بغاوتءِ رہءَ ءُ چہ وتی گنہانءَ اذیت تہ بوتنت.",
   "tokens": [
     {
-      "surface": "אֱ֭וִלִים",
+      "surface": "אולים",
       "gloss": "نادانان"
     },
     {
-      "surface": "מִדֶּ֣רֶךְ",
+      "surface": "מדרך",
       "gloss": "چہ … رہءَ"
     },
     {
-      "surface": "פִּשְׁעָ֑ם",
+      "surface": "פשעם",
       "gloss": "بغاوتءِ وتی"
     },
     {
-      "surface": "וּמֵעֲוֺֽנֹתֵיהֶ֗ם",
+      "surface": "ומעונתיהם",
       "gloss": "ءُ چہ وتی گنہانءَ"
     },
     {
-      "surface": "יִתְעַנּֽוּ",
+      "surface": "יתענו",
       "gloss": "اذیت تہ بوتنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:24:28.398474912Z",
-  "model": "glm-5.3"
+  ]
 }

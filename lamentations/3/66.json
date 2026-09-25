@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 66,
-  "ref": "lamentations 3:66",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:14:16.404863764Z",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "تو گوں عذابءَ وش کن ءُ آیانءَ چہ یاہوہءِ آسمانانی تلا برپا کت کن.",
   "tokens": [
     {
-      "surface": "תִּרְדֹּף",
+      "surface": "תרדף",
       "gloss": "وش کن"
     },
     {
-      "surface": "בְּאַף",
+      "surface": "באף",
       "gloss": "گوں عذابءَ"
     },
     {
-      "surface": "וְתַשְׁמִידֵם",
+      "surface": "ותשמידם",
       "gloss": "ءُ آیانءَ برپا کت کن"
     },
     {
-      "surface": "מִתַּחַת",
+      "surface": "מתחת",
       "gloss": "چہ … تلا"
     },
     {
-      "surface": "שְׁמֵי",
+      "surface": "שמי",
       "gloss": "آسمانانی"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:14:16.404863764Z",
-  "model": "glm-5.3"
+  ]
 }

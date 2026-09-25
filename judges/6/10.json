@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "judges 6:10",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:07:27.259826196Z",
+  "verse": 10,
+  "ref": "judges 6:10",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ ماءَ شمءَ گوَشت: من یاہوہءَ، شمءِ ایلوہیم — شم ⟨את⟩ اموریانی ہدایانءَ نہ ڈریت، آجنانی زمینءَ کہ شم تہ وانءَ ءُ شم مانیءِ گالءَ نہ گوشتنت۔",
   "tokens": [
     {
-      "surface": "וָאֹמְרָה",
+      "surface": "ואמרה",
       "gloss": "ءُ ماءَ شمءَ گوَشت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "شمءَ"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֱלֹהֵיכֶם",
+      "surface": "אלהיכם",
       "gloss": "شمءِ ایلوہیم"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִּירְאוּ",
+      "surface": "תיראו",
       "gloss": "ڈریت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اموریانی ہدایانءَ"
     },
     {
-      "surface": "אֱלֹהֵי",
+      "surface": "אלהי",
       "gloss": "ہدایانءَ"
     },
     {
-      "surface": "הָאֱמֹרִי",
+      "surface": "האמרי",
       "gloss": "اموریانی"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آجنانی"
     },
     {
-      "surface": "אַתֶּם",
+      "surface": "אתם",
       "gloss": "شم"
     },
     {
-      "surface": "יוֹשְׁבִים",
+      "surface": "יושבים",
       "gloss": "تہ وانءَ"
     },
     {
-      "surface": "בְּאַרְצָם",
+      "surface": "בארצם",
       "gloss": "آیانی زمینءَ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "שְׁמַעְתֶּם",
+      "surface": "שמעתם",
       "gloss": "گوشتنت"
     },
     {
-      "surface": "בְּקוֹלִי",
+      "surface": "בקולי",
       "gloss": "مانیءِ گالءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:07:27.259826196Z",
-  "model": "glm-5.3"
+  ]
 }

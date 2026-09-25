@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "genesis 31:19",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:51:47.456669613Z",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "ءُ لابن روت چہ آییءِ گوّلان ⟨את⟩ پَرِنتءَ، ءُ راہلءَ چور کت ⟨את⟩ تِرافیمان کہ آییءِ پیست ؤت۔",
   "tokens": [
     {
-      "surface": "וְלָבָן",
+      "surface": "ולבן",
       "gloss": "ءُ لابن"
     },
     {
-      "surface": "הָלַךְ",
+      "surface": "הלך",
       "gloss": "روت"
     },
     {
-      "surface": "לִגְזֹז",
+      "surface": "לגזז",
       "gloss": "چہ پَرِنتءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گوّلانءَ"
     },
     {
-      "surface": "צֹאנוֹ",
+      "surface": "צאנו",
       "gloss": "آییءِ گوّلان"
     },
     {
-      "surface": "וַתִּגְנֹב",
+      "surface": "ותגנב",
       "gloss": "ءُ چور کت"
     },
     {
-      "surface": "רָחֵל",
+      "surface": "רחל",
       "gloss": "راہلءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تِرافیمانءَ"
     },
     {
-      "surface": "הַתְּרָפִים",
+      "surface": "התרפים",
       "gloss": "تِرافیمان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לְאָבִיהָ",
+      "surface": "לאביה",
       "gloss": "آییءِ پیست ؤت"
     }
-  ],
-  "timestamp": "2026-09-25T16:51:47.456669613Z",
-  "model": "glm-5.3"
+  ]
 }

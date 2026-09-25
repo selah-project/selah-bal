@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "psalms 112:7",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:24:51.893621396Z",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "tier": "glm-5.2",
   "chapter": 112,
   "translation": "چہ یک بد خبرءَ نہ اِشکنیت؛ آییءِ دل پکا اِنت، یاہوہءَ تہ بھروسہ کتگ اِنت۔",
   "tokens": [
     {
-      "surface": "מִשְּׁמוּעָ֣ה",
+      "surface": "משמועה",
       "gloss": "چہ یک بد خبرءَ"
     },
     {
-      "surface": "רָ֭עָה",
+      "surface": "רעה",
       "gloss": "بد"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִירָ֑א",
+      "surface": "יירא",
       "gloss": "اِشکنیت"
     },
     {
-      "surface": "נָכ֥וֹן",
+      "surface": "נכון",
       "gloss": "پکا"
     },
     {
-      "surface": "לִ֝בּ֗וֹ",
+      "surface": "לבו",
       "gloss": "آییءِ دل"
     },
     {
-      "surface": "בָּטֻ֥חַ",
+      "surface": "בטח",
       "gloss": "بھروسہ کتگ"
     },
     {
-      "surface": "בַּיהוָֽה",
+      "surface": "ביהוה",
       "gloss": "یاہوہءَ تہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:24:51.893621396Z",
-  "model": "glm-5.3"
+  ]
 }

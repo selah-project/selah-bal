@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "leviticus 7:33",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:27:45.988755885Z",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "آ کہ چہ اہارونءِ زہگانان شلامیانی قربانیانی خون ءُ چربیءَ پیش کنت، آییءَ پہ آیی رستئین ران بھشءَ بیت۔",
   "tokens": [
     {
-      "surface": "הַמַּקְרִיב",
+      "surface": "המקריב",
       "gloss": "آ کہ پیش کنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "خون"
     },
     {
-      "surface": "דַּם",
+      "surface": "דם",
       "gloss": "خون"
     },
     {
-      "surface": "הַשְּׁלָמִים",
+      "surface": "השלמים",
       "gloss": "شلامیانی قربانیانی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "چربی"
     },
     {
-      "surface": "הַחֵלֶב",
+      "surface": "החלב",
       "gloss": "چربی"
     },
     {
-      "surface": "מִבְּנֵי",
+      "surface": "מבני",
       "gloss": "چہ زہگانان"
     },
     {
-      "surface": "אַהֲרֹן",
+      "surface": "אהרן",
       "gloss": "اہارونءِ"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ پہ آیی"
     },
     {
-      "surface": "תִּהְיֶה",
+      "surface": "תהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "שׁוֹק",
+      "surface": "שוק",
       "gloss": "ران"
     },
     {
-      "surface": "הַיָּמִין",
+      "surface": "הימין",
       "gloss": "رستئین"
     },
     {
-      "surface": "לְמָנָה",
+      "surface": "למנה",
       "gloss": "بھشءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:27:45.988755885Z",
-  "model": "glm-5.3"
+  ]
 }

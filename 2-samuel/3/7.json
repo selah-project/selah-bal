@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "2-samuel 3:7",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:41:09.544756230Z",
+  "verse": 7,
+  "ref": "2-samuel 3:7",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ شاؤلءِ یک پیلگش اَت، آییءِ نام رِتسپہ، آیہءِ جنک؛ ءُ ایشبوشیت اَبنرءَ گوَشت: چرءَ توءِ پدرءِ پیلگشءَ سرا روت‌ای؟",
   "tokens": [
     {
-      "surface": "וּלְשָׁא֣וּל",
+      "surface": "ולשאול",
       "gloss": "ءُ شاؤلءِ"
     },
     {
-      "surface": "פִּלֶ֔גֶשׁ",
+      "surface": "פלגש",
       "gloss": "پیلگش"
     },
     {
-      "surface": "וּשְׁמָ֖הּ",
+      "surface": "ושמה",
       "gloss": "آییءِ نام"
     },
     {
-      "surface": "רִצְפָּ֣ה",
+      "surface": "רצפה",
       "gloss": "رِتسپہ"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنک"
     },
     {
-      "surface": "אַיָּ֑ה",
+      "surface": "איה",
       "gloss": "آیہءِ"
     },
     {
-      "surface": "וַיֹּ֨אמֶר֙",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ (پہ)"
     },
     {
-      "surface": "אַבְנֵ֔ר",
+      "surface": "אבנר",
       "gloss": "اَبنر"
     },
     {
-      "surface": "מַדּ֥וּעַ",
+      "surface": "מדוע",
       "gloss": "چرءَ"
     },
     {
-      "surface": "בָּא֖תָה",
+      "surface": "באתה",
       "gloss": "سرا روت‌ای"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ (پہ)"
     },
     {
-      "surface": "פִּילֶ֥גֶשׁ",
+      "surface": "פילגש",
       "gloss": "پیلگش"
     },
     {
-      "surface": "אָבִֽי",
+      "surface": "אבי",
       "gloss": "مءِ پدرءِ"
     }
-  ],
-  "timestamp": "2026-09-25T14:41:09.544756230Z",
-  "model": "glm-5.3"
+  ]
 }

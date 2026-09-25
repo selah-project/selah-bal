@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "job 32:4",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:28:40.588867674Z",
+  "verse": 4,
+  "ref": "job 32:4",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "ءُ اِلیہُو چنگ کت گوں ⟨את⟩ ایوب گوں گالانءَ، پرچا کہ آیان چہ آیءَ روچانی پہ رندتر اَنت۔",
   "tokens": [
     {
-      "surface": "וְאֱלִיהוּ",
+      "surface": "ואליהו",
       "gloss": "ءُ اِلیہُو"
     },
     {
-      "surface": "חִכָּה",
+      "surface": "חכה",
       "gloss": "چنگ کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ایوب"
     },
     {
-      "surface": "אִיּוֹב",
+      "surface": "איוב",
       "gloss": "ایوب"
     },
     {
-      "surface": "בִּדְבָרִים",
+      "surface": "בדברים",
       "gloss": "گوں گالانءَ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "זְקֵנִים",
+      "surface": "זקנים",
       "gloss": "رندتر"
     },
     {
-      "surface": "הֵמָּה",
+      "surface": "המה",
       "gloss": "آیان"
     },
     {
-      "surface": "מִמֶּנּוּ",
+      "surface": "ממנו",
       "gloss": "چہ آیءَ"
     },
     {
-      "surface": "לְיָמִים",
+      "surface": "לימים",
       "gloss": "روچانی پہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:28:40.588867674Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "nahum 3:7",
   "book": "nahum",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:36:21.694110091Z",
+  "verse": 7,
+  "ref": "nahum 3:7",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ بیت کہ سراسر تُہءِ گندوکان چہ تُہ گرینت ءُ گوشنت: نینوہ ویران بوتگ؛ کے آییءِ پہ ہمدردی کنت؟ چہ کجا تُہءِ پہ دلداری کنوکان لبھیم؟",
   "tokens": [
     {
-      "surface": "וְהָיָה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "כָל",
+      "surface": "כל",
       "gloss": "سراسر"
     },
     {
-      "surface": "רֹאָיִךְ",
+      "surface": "ראיך",
       "gloss": "تُہءِ گندوکان"
     },
     {
-      "surface": "یִדּוֹד",
+      "surface": "ידוד",
       "gloss": "گریت"
     },
     {
-      "surface": "מִמֵּךְ",
+      "surface": "ממך",
       "gloss": "چہ تُہ"
     },
     {
-      "surface": "וְאָמַר",
+      "surface": "ואמר",
       "gloss": "ءُ گوشنت"
     },
     {
-      "surface": "שָׁדְדָה",
+      "surface": "שדדה",
       "gloss": "ویران بوتگ"
     },
     {
-      "surface": "נִינְוֵה",
+      "surface": "נינוה",
       "gloss": "نینوہ"
     },
     {
-      "surface": "مִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יָנוּד",
+      "surface": "ינוד",
       "gloss": "ہمدردی کنت"
     },
     {
-      "surface": "לָהּ",
+      "surface": "לה",
       "gloss": "آییءِ پہ"
     },
     {
-      "surface": "מֵאַיִן",
+      "surface": "מאין",
       "gloss": "چہ کجا"
     },
     {
-      "surface": "אֲבַקֵּשׁ",
+      "surface": "אבקש",
       "gloss": "لبھیم"
     },
     {
-      "surface": "מְנַחֲמִים",
+      "surface": "מנחמים",
       "gloss": "دلداری کنوکان"
     },
     {
-      "surface": "לָךְ",
+      "surface": "לך",
       "gloss": "تُہءِ پہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:36:21.694110091Z",
-  "model": "glm-5.3"
+  ]
 }

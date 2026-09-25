@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "numbers 33:20",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:59:34.904091615Z",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ چہ ریمون پریتس روتنت ءُ تہ لِبنہ چاردنت.",
   "tokens": [
@@ -20,14 +22,12 @@
       "gloss": "پریتس"
     },
     {
-      "surface": "ויחנو",
+      "surface": "ויחנו",
       "gloss": "ءُ چاردنت"
     },
     {
       "surface": "בלבנה",
       "gloss": "تہ لِبنہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:59:34.904091615Z",
-  "model": "glm-5.3"
+  ]
 }

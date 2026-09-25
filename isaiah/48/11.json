@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "isaiah 48:11",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:24:32.086348478Z",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "tier": "glm-5.2",
   "chapter": 48,
   "translation": "پہ منی نامءِ پہ، پہ منی نامءِ پہ، اے کار کنءُ — پرچا کہ چونگ بدنام بیت؟ ءُ منی شان دگہءَ نہ دئن۔",
   "tokens": [
     {
-      "surface": "לְמַעֲנִי",
+      "surface": "למעני",
       "gloss": "پہ منی نامءِ پہ"
     },
     {
-      "surface": "לְמַעֲנִי",
+      "surface": "למעני",
       "gloss": "پہ منی نامءِ پہ"
     },
     {
-      "surface": "אֶעֱשֶׂה",
+      "surface": "אעשה",
       "gloss": "اے کار کنءُ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֵיךְ",
+      "surface": "איך",
       "gloss": "چونگ"
     },
     {
-      "surface": "יֵחָל",
+      "surface": "יחל",
       "gloss": "بدنام بیت"
     },
     {
-      "surface": "וּכְבוֹדִי",
+      "surface": "וכבודי",
       "gloss": "ءُ منی شان"
     },
     {
-      "surface": "לְאַחֵר",
+      "surface": "לאחר",
       "gloss": "دگہءَ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אֶתֵּן",
+      "surface": "אתן",
       "gloss": "دئن"
     }
-  ],
-  "timestamp": "2026-09-25T17:24:32.086348478Z",
-  "model": "glm-5.3"
+  ]
 }

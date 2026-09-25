@@ -1,97 +1,97 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "judges 8:10",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:11:00.820167035Z",
+  "verse": 10,
+  "ref": "judges 8:10",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ زِباہ ءُ صلمونا تہ کرکور اتنت، ءُ اِشانی لشکر اِشانی گوں — چوش پونزدا ہزار، ہر کہ رستگ بوتگ چہ ہر لشکر چہ مشرقءِ زہگانی؛ ءُ کپتگ اِشتنت سد ءُ بیست ہزار مرد، تلوار درکشوتگ۔",
   "tokens": [
     {
-      "surface": "וְזֶ֨בַח",
+      "surface": "וזבח",
       "gloss": "ءُ زِباہ"
     },
     {
-      "surface": "וְצַלְמֻנָּ֜ע",
+      "surface": "וצלמנע",
       "gloss": "ءُ صلمونا"
     },
     {
-      "surface": "בַּקַּרְקֹ֗ר",
+      "surface": "בקרקר",
       "gloss": "تہ کرکور"
     },
     {
-      "surface": "וּמַחֲנֵיהֶ֤ם",
+      "surface": "ומחניהם",
       "gloss": "ءُ اِشانی لشکر"
     },
     {
-      "surface": "עִמָּם֙",
+      "surface": "עמם",
       "gloss": "اِشانی گوں"
     },
     {
-      "surface": "כַּחֲמֵ֤שֶׁת",
+      "surface": "כחמשת",
       "gloss": "چوش پونزدا"
     },
     {
-      "surface": "עָשָׂר֙",
+      "surface": "עשר",
       "gloss": ""
     },
     {
-      "surface": "אֶ֔לֶף",
+      "surface": "אלף",
       "gloss": "ہزار"
     },
     {
-      "surface": "כֹּ֚ל",
+      "surface": "כל",
       "gloss": "ہر کہ"
     },
     {
-      "surface": "הַנּ֣וֹתָרִ֔ים",
+      "surface": "הנותרים",
       "gloss": "رستگ بوتگ"
     },
     {
-      "surface": "מִכֹּ֖ל",
+      "surface": "מכל",
       "gloss": "چہ ہر"
     },
     {
-      "surface": "מַחֲנֵ֣ה",
+      "surface": "מחנה",
       "gloss": "لشکر"
     },
     {
-      "surface": "בְנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "קֶ֑דֶם",
+      "surface": "קדם",
       "gloss": "مشرق"
     },
     {
-      "surface": "וְהַנֹּ֣פְלִ֔ים",
+      "surface": "והנפלים",
       "gloss": "ءُ کپتگ"
     },
     {
-      "surface": "מֵאָ֨ה",
+      "surface": "מאה",
       "gloss": "سد"
     },
     {
-      "surface": "וְעֶשְׂרִ֥ים",
+      "surface": "ועשרים",
       "gloss": "ءُ بیست"
     },
     {
-      "surface": "אֶ֛לֶף",
+      "surface": "אלף",
       "gloss": "ہزار"
     },
     {
-      "surface": "אִ֖ישׁ",
+      "surface": "איש",
       "gloss": "مرد"
     },
     {
-      "surface": "שֹׁ֥לֵ֣ף",
+      "surface": "שלף",
       "gloss": "درکشوتگ"
     },
     {
-      "surface": "חָֽרֶב",
+      "surface": "חרב",
       "gloss": "تلوار"
     }
-  ],
-  "timestamp": "2026-09-25T19:11:00.820167035Z",
-  "model": "glm-5.3"
+  ]
 }

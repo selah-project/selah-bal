@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "micah 3:10",
   "book": "micah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:32:11.791544025Z",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "جو زیونءَ گوں دیمان جوڑ کننت ءُ یروشلمءَ گوں زالمءَ۔",
   "tokens": [
     {
-      "surface": "בֹּנֶה",
+      "surface": "בנה",
       "gloss": "جوڑ کننت"
     },
     {
-      "surface": "צִיּוֹן",
+      "surface": "ציון",
       "gloss": "زیونءَ"
     },
     {
-      "surface": "בְּדָמִים",
+      "surface": "בדמים",
       "gloss": "گوں دیمان"
     },
     {
-      "surface": "וִירוּשָׁלִַ֝ם",
+      "surface": "וירושלם",
       "gloss": "ءُ یروشلمءَ"
     },
     {
-      "surface": "בְּעַוְלָֽה",
+      "surface": "בעולה",
       "gloss": "گوں زالمءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:32:11.791544025Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "habakkuk 1:4",
   "book": "habakkuk",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:05:42.368663323Z",
+  "verse": 4,
+  "ref": "habakkuk 1:4",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "پہ اے سبب تورا سُست بیت ءُ انصاف پہ ہمیشہ نہ وَت؛ پرچا کہ بدکار ⟨את⟩ راستیں مردءَ گماریت، پہ اے سبب انصاف کج وَت۔",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵּן֙",
+      "surface": "כן",
       "gloss": "اے سبب"
     },
     {
-      "surface": "תָּפ֣וּג",
+      "surface": "תפוג",
       "gloss": "سُست بیت"
     },
     {
-      "surface": "תּוֹרָ֔ה",
+      "surface": "תורה",
       "gloss": "تورا"
     },
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יֵצֵ֥א",
+      "surface": "יצא",
       "gloss": "وَت"
     },
     {
-      "surface": "לָנֶ֖צַח",
+      "surface": "לנצח",
       "gloss": "پہ ہمیشہ"
     },
     {
-      "surface": "מִשְׁפָּ֑ט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "כִּ֤י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "רָשָׁע֙",
+      "surface": "רשע",
       "gloss": "بدکار"
     },
     {
-      "surface": "מַכְתִּ֣יר",
+      "surface": "מכתיר",
       "gloss": "گماریت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "راستیں مرد"
     },
     {
-      "surface": "הַצַּדִּ֔יק",
+      "surface": "הצדיק",
       "gloss": "راستیں مردءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵּכּ֛ן",
+      "surface": "כן",
       "gloss": "اے سبب"
     },
     {
-      "surface": "יֵצֵ֥א",
+      "surface": "יצא",
       "gloss": "وَت"
     },
     {
-      "surface": "מִשְׁפָּ֖ט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "מְעֻקָּֽל",
+      "surface": "מעקל",
       "gloss": "کج"
     }
-  ],
-  "timestamp": "2026-09-25T17:05:42.368663323Z",
-  "model": "glm-5.3"
+  ]
 }

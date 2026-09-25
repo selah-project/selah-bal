@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "exodus 40:34",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:01:46.267016557Z",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "tier": "glm-5.2",
   "chapter": 40,
   "translation": "ءُ اَبر اِشتی ⟨את⟩ ملاقاتءِ گدان، ءُ یاہوہءِ شکوہتی پوری چوکِت ⟨את⟩ مِشکانءَ۔",
   "tokens": [
@@ -25,7 +27,7 @@
       "gloss": "گadanءِ"
     },
     {
-      "surface": "مועד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
@@ -49,7 +51,5 @@
       "surface": "המשכן",
       "gloss": "مِشکانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:01:46.267016557Z",
-  "model": "glm-5.3"
+  ]
 }

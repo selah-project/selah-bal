@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 59,
-  "ref": "psalms 78:59",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:45:41.058282229Z",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "tier": "glm-5.2",
   "chapter": 78,
   "translation": "ایلوہیمءَ اے گوشت ءُ غصہ بیت، ءُ گوں ایسرائیلءَ گیش سُتیت،",
   "tokens": [
     {
-      "surface": "שָׁמַ֣ע",
+      "surface": "שמע",
       "gloss": "گوشت"
     },
     {
-      "surface": "אֱ֭לֹהִים",
+      "surface": "אלהים",
       "gloss": "ایلوہیمءَ"
     },
     {
-      "surface": "וַֽיִּתְעַבָּ֑ר",
+      "surface": "ויתעבר",
       "gloss": "غصہ بیت"
     },
     {
-      "surface": "וַיִּמְאַ֥ס",
+      "surface": "וימאס",
       "gloss": "سُتیت"
     },
     {
-      "surface": "מְ֝אֹ֗ד",
+      "surface": "מאד",
       "gloss": "گوش"
     },
     {
-      "surface": "בְּיִשְׂרָאֵֽל",
+      "surface": "בישראל",
       "gloss": "گوں ایسرائیلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:45:41.058282229Z",
-  "model": "glm-5.3"
+  ]
 }

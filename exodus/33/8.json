@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "exodus 33:8",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:59:23.213761274Z",
+  "verse": 8,
+  "ref": "exodus 33:8",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ بیت چوش کہ موشہءَ گدانءَ روت، ہمگ مردم اُستنت ءُ ہر یکے وتی گدانی دروازہءَ اُستیت ءُ موشہءِ پشتءَ نگاہ کنتنت، تا کہ آیی گدانی تہءَ گپت۔",
   "tokens": [
     {
-      "surface": "וְהָיָה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "כְּצֵאת",
+      "surface": "כצאת",
       "gloss": "چوش کہ روت"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "موشہءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ"
     },
     {
-      "surface": "הָאֹהֶל",
+      "surface": "האהל",
       "gloss": "گدان"
     },
     {
-      "surface": "יָקֻמוּ",
+      "surface": "יקומו",
       "gloss": "اُستنت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "مردم"
     },
     {
-      "surface": "וְנִצְּב֛וּ",
+      "surface": "ונצבו",
       "gloss": "ءُ اُستنت"
     },
     {
-      "surface": "אִ֥ישׁ",
+      "surface": "איש",
       "gloss": "ہر یکے"
     },
     {
-      "surface": "פֶּֽתַח",
+      "surface": "פתח",
       "gloss": "دروازہءَ"
     },
     {
-      "surface": "אָהֳל֑וֹ",
+      "surface": "אהלו",
       "gloss": "وتی گدان"
     },
     {
-      "surface": "וְהִבִּ֘יט֣וּ",
+      "surface": "והביטו",
       "gloss": "ءُ نگاہ کنتنت"
     },
     {
-      "surface": "אַחֲרֵ֤י",
+      "surface": "אחרי",
       "gloss": "پشتءَ"
     },
     {
-      "surface": "מֹשֶׁ֔ה",
+      "surface": "משה",
       "gloss": "موشہءِ"
     },
     {
-      "surface": "עַ֖ד",
+      "surface": "עד",
       "gloss": "تا کہ"
     },
     {
-      "surface": "בֹּא֖וֹ",
+      "surface": "באו",
       "gloss": "گپت"
     },
     {
-      "surface": "הָאֹֽהֱלָה",
+      "surface": "האהלה",
       "gloss": "گدانی تہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:59:23.213761274Z",
-  "model": "glm-5.3"
+  ]
 }

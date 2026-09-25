@@ -1,88 +1,88 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "genesis 36:14",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:54:45.595586273Z",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "ءُ اے اوشتنت اَہولیبامہءِ زہگان، جوہگانءِ جنک، جوہگانءِ جنک، عیساوءِ زہگانی جنک؛ ءُ آ عیساوءَ پیدائ کت ⟨את⟩ یَعیِش ءُ ⟨את⟩ یَعلام ءُ ⟨את⟩ قوراچ۔",
   "tokens": [
     {
-      "surface": "וְאֵ֣לֶּה",
+      "surface": "ואלה",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "הָי֗וּ",
+      "surface": "היו",
       "gloss": "اوشتنت"
     },
     {
-      "surface": "בְּנֵ֨י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "אָהֳלִיבָמָ֧ה",
+      "surface": "אהליבמה",
       "gloss": "اَہولیبامہءِ"
     },
     {
-      "surface": "בַת",
+      "surface": "בת",
       "gloss": "جنک"
     },
     {
-      "surface": "עֲנָ֛ה",
+      "surface": "ענה",
       "gloss": "جوہگانءِ"
     },
     {
-      "surface": "בַת",
+      "surface": "בת",
       "gloss": "جنک"
     },
     {
-      "surface": "צִבְע֖וֹן",
+      "surface": "צבעון",
       "gloss": "جوہگانءِ"
     },
     {
-      "surface": "אֵ֣שֶׁת",
+      "surface": "אשת",
       "gloss": "زہگانی جنک"
     },
     {
-      "surface": "עֵשָָ֑ו",
+      "surface": "עשו",
       "gloss": "عیساوءِ"
     },
     {
-      "surface": "וַתֵּ֣לֶד",
+      "surface": "ותלד",
       "gloss": "ءُ آ پیدائ کت"
     },
     {
-      "surface": "לְעֵשָָ֔ו",
+      "surface": "לעשו",
       "gloss": "عیساوءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یَعیِش"
     },
     {
-      "surface": "יְעִישׁ",
+      "surface": "יעיש",
       "gloss": "یَعیِش"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "یَعلام"
     },
     {
-      "surface": "יַעְלָָ֖ם",
+      "surface": "יעלם",
       "gloss": "یَعلام"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "قوراچ"
     },
     {
-      "surface": "קֹֽרַח",
+      "surface": "קרח",
       "gloss": "قوراچ"
     }
-  ],
-  "timestamp": "2026-09-25T16:54:45.595586273Z",
-  "model": "glm-5.3"
+  ]
 }

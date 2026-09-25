@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "deuteronomy 20:6",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:19:45.451395107Z",
+  "verse": 6,
+  "ref": "deuteronomy 20:6",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "ءُ کے اِنت مردی کہ یک انگوریں باغءِ دار چاہ کتگ ءُ آ ءَ ہنوں چہ آییءِ پھلاں نہ گندیتگ اِنت؟ رووت ءُ وتی گدانءَ واپس بوت، پرچا کہ جنگءَ مُرت ءُ یک دگہ مرد آییءِ پھلاں چاہ کنت۔",
   "tokens": [
     {
-      "surface": "וּמִֽי",
+      "surface": "ומי",
       "gloss": "ءُ کے اِنت"
     },
     {
-      "surface": "הָאִ֞ישׁ",
+      "surface": "האיש",
       "gloss": "مردی"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נָטַ֥ע",
+      "surface": "נטע",
       "gloss": "چاہ کتگ"
     },
     {
-      "surface": "כֶּ֨רֶם֙",
+      "surface": "כרם",
       "gloss": "انگوریں باغءِ دار"
     },
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "חִלְּל֔וֹ",
+      "surface": "חללו",
       "gloss": "چہ آییءِ پھلاں گندیتگ"
     },
     {
-      "surface": "יֵלֵ֖ךְ",
+      "surface": "ילך",
       "gloss": "رووت"
     },
     {
-      "surface": "וְיָשֹׁ֣ב",
+      "surface": "וישב",
       "gloss": "ءُ واپس بوت"
     },
     {
-      "surface": "לְבֵית֑וֹ",
+      "surface": "לביתו",
       "gloss": "وتی گدانءَ"
     },
     {
-      "surface": "פֶּן־",
+      "surface": "פן",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "יָמוּת֙",
+      "surface": "ימות",
       "gloss": "مُرت"
     },
     {
-      "surface": "בַּמִּלְחָמָ֔ה",
+      "surface": "במלחמה",
       "gloss": "جنگءَ"
     },
     {
-      "surface": "וְאִ֥ישׁ",
+      "surface": "ואיש",
       "gloss": "ءُ یک دگہ مرد"
     },
     {
-      "surface": "אַחֵ֖ר",
+      "surface": "אחר",
       "gloss": "دگہ"
     },
     {
-      "surface": "יְחַלְּלֶֽנּוּ",
+      "surface": "יחללנו",
       "gloss": "آییءِ پھلاں چاہ کنت"
     }
-  ],
-  "timestamp": "2026-09-25T15:19:45.451395107Z",
-  "model": "glm-5.3"
+  ]
 }

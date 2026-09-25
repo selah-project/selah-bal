@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "isaiah 57:13",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:33:12.462279560Z",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "tier": "glm-5.2",
   "chapter": 57,
   "translation": "تُہءِ بانگءَ تُہءِ جمع کتگے تُہءَ چُک اَنت؛ ءُ باد ⟨את⟩ اِشانی پوریں چُکیت — ہوکا اِشاںءَ گپیت۔ ءُ آ کہ منءَ تہ پناه گنت، زمینءِ وارِث بیت ءُ منءِ پاکءِ کوہءَ ہتکیت۔",
   "tokens": [
     {
-      "surface": "בְּזַֽעֲקֵךְ",
+      "surface": "בזעקך",
       "gloss": "تُہءِ بانگءَ"
     },
     {
-      "surface": "יַצִּילֻךָ",
+      "surface": "יצילך",
       "gloss": "تُہءَ چُک اَنت"
     },
     {
-      "surface": "קִבּוּצַיִךְ",
+      "surface": "קבוציך",
       "gloss": "تُہءِ جمع کتگے"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "اِشانی پوریں"
     },
     {
-      "surface": "כֻּלָּם",
+      "surface": "כלם",
       "gloss": "اِشانی پوریں"
     },
     {
-      "surface": "יִשָּׂא",
+      "surface": "ישא",
       "gloss": "چُکیت"
     },
     {
-      "surface": "רוּחַ",
+      "surface": "רוח",
       "gloss": "باد"
     },
     {
-      "surface": "יִקָּח",
+      "surface": "יקח",
       "gloss": "گپیت"
     },
     {
-      "surface": "הֶבֶל",
+      "surface": "הבל",
       "gloss": "ہوکا"
     },
     {
-      "surface": "וְהַחוֹסֶה",
+      "surface": "והחוסה",
       "gloss": "ءُ پناه گندوک"
     },
     {
-      "surface": "בִּי",
+      "surface": "בי",
       "gloss": "منءَ تہ"
     },
     {
-      "surface": "יִנְחַל",
+      "surface": "ינחל",
       "gloss": "وارِث بیت"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "וְיִירַשׁ",
+      "surface": "ויירש",
       "gloss": "ءُ ہتکیت"
     },
     {
-      "surface": "הַר",
+      "surface": "הר",
       "gloss": "کوہ"
     },
     {
-      "surface": "קָדְשִׁי",
+      "surface": "קדשי",
       "gloss": "منءِ پاک"
     }
-  ],
-  "timestamp": "2026-09-25T17:33:12.462279560Z",
-  "model": "glm-5.3"
+  ]
 }

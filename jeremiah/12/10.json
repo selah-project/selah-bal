@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "jeremiah 12:10",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:41:42.473651923Z",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "گیشتر شپانان منی انگوریءَ خراب کت، ⟨את⟩ منی حصہءَ لتاڑت، ⟨את⟩ منی پسندین حصہءَ مدبرءِ شماماںءَ بدل دات۔",
   "tokens": [
     {
-      "surface": "רֹעִים",
+      "surface": "רעים",
       "gloss": "شپانان"
     },
     {
-      "surface": "רַבִּים",
+      "surface": "רבים",
       "gloss": "گیشتر"
     },
     {
-      "surface": "שִׁחֲתוּ",
+      "surface": "שחתו",
       "gloss": "خراب کت"
     },
     {
-      "surface": "כַּרְמִי",
+      "surface": "כרמי",
       "gloss": "منی انگوری"
     },
     {
-      "surface": "בֹּסְסוּ",
+      "surface": "בססו",
       "gloss": "لتاڑت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منی حصہ"
     },
     {
-      "surface": "חֶלְקָתִי",
+      "surface": "חלקתי",
       "gloss": "منی حصہ"
     },
     {
-      "surface": "נָתְנוּ",
+      "surface": "נתנו",
       "gloss": "دات"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پسندین حصہ"
     },
     {
-      "surface": "חֶלְקַת",
+      "surface": "חלקת",
       "gloss": "حصہ"
     },
     {
-      "surface": "חֶמְדָּתִי",
+      "surface": "חמדתי",
       "gloss": "پسندین"
     },
     {
-      "surface": "לְמִדְבַּר",
+      "surface": "למדבר",
       "gloss": "مدبرءِ"
     },
     {
-      "surface": "שְׁמָמָה",
+      "surface": "שממה",
       "gloss": "شماماںءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:41:42.473651923Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "habakkuk 1:7",
   "book": "habakkuk",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:05:35.745360955Z",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ڈرناک ءُ دہیالیں آ اِنت؛ چہ آییءَ خودے آییءِ انصاف ءُ آییءِ بلندی در کپیت.",
   "tokens": [
     {
-      "surface": "אָיֹ֥ם",
+      "surface": "אים",
       "gloss": "ڈرناک"
     },
     {
-      "surface": "וְנוֹרָ֖א",
+      "surface": "ונורא",
       "gloss": "ءُ دہیالیں"
     },
     {
-      "surface": "ה֑וּא",
+      "surface": "הוא",
       "gloss": "آ اِنت"
     },
     {
-      "surface": "מִמֶּ֕נּוּ",
+      "surface": "ממנו",
       "gloss": "چہ آییءَ خودے"
     },
     {
-      "surface": "מִשְׁפָּט֥וֹ",
+      "surface": "משפטו",
       "gloss": "آییءِ انصاف"
     },
     {
-      "surface": "וּשְׂאֵת֖וֹ",
+      "surface": "ושאתו",
       "gloss": "ءُ آییءِ بلندی"
     },
     {
-      "surface": "יֵצֵֽא",
+      "surface": "יצא",
       "gloss": "در کپیت"
     }
-  ],
-  "timestamp": "2026-09-25T17:05:35.745360955Z",
-  "model": "glm-5.3"
+  ]
 }

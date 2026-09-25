@@ -1,76 +1,76 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "1-chronicles 4:2",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:43:15.794415880Z",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ رِئایا، شوبلءِ زہگ، یَحَتءَ گندیت؛ ءُ یَحَتءَ اَحُومَیءَ ءُ ⟨את⟩ لَہَدءَ گندیت؛ اِشاں صُرعاتیاںءِ ٹولیاں اَنت۔",
   "tokens": [
     {
-      "surface": "וּרְאָיָ֤ה",
+      "surface": "וראיה",
       "gloss": "ءُ رِئایا"
     },
     {
-      "surface": "בֶן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "שׁוֹבָל",
+      "surface": "שובל",
       "gloss": "شوبلءِ"
     },
     {
-      "surface": "הוֹלִ֣יד",
+      "surface": "הוליד",
       "gloss": "گندیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یَحَت"
     },
     {
-      "surface": "יַ֔חַת",
+      "surface": "יחת",
       "gloss": "یَحَتءَ"
     },
     {
-      "surface": "וְיַ֣חַת",
+      "surface": "ויחת",
       "gloss": "ءُ یَحَتءَ"
     },
     {
-      "surface": "הֹלִ֔יד",
+      "surface": "הליד",
       "gloss": "گندیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَحُومَی"
     },
     {
-      "surface": "אֲחוּמַ֖י",
+      "surface": "אחומי",
       "gloss": "اَحُومَیءَ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "لَہَد"
     },
     {
-      "surface": "לָ֑הַד",
+      "surface": "להד",
       "gloss": "لَہَدءَ"
     },
     {
-      "surface": "אֵ֖לֶּה",
+      "surface": "אלה",
       "gloss": "اِشاں"
     },
     {
-      "surface": "מִשְׁפְּח֥וֹת",
+      "surface": "משפחות",
       "gloss": "ٹولیاں"
     },
     {
-      "surface": "הַצָּֽרְעָתִֽי",
+      "surface": "הצרעתי",
       "gloss": "صُرعاتیاںءِ"
     }
-  ],
-  "timestamp": "2026-09-25T12:43:15.794415880Z",
-  "model": "glm-5.3"
+  ]
 }

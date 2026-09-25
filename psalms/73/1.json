@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 73:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:45:54.377917742Z",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "tier": "glm-5.2",
   "chapter": 73,
   "translation": "مزمور پہ آساف۔ البتہ ایلوہیم اِسرائیلءَ پہ چاکن اِنت، پہ صاف دلانیں مردمءَ۔",
   "tokens": [
     {
-      "surface": "מִזְמוֹר",
+      "surface": "מזמור",
       "gloss": "مزمور"
     },
     {
-      "surface": "לְאָ֫סָ֥ף",
+      "surface": "לאסף",
       "gloss": "پہ آساف"
     },
     {
-      "surface": "אַ֤ךְ",
+      "surface": "אך",
       "gloss": "البتہ"
     },
     {
-      "surface": "ט֭וֹב",
+      "surface": "טוב",
       "gloss": "چاکن"
     },
     {
-      "surface": "לְיִשְׂרָאֵ֥ל",
+      "surface": "לישראל",
       "gloss": "اِسرائیلءَ پہ"
     },
     {
-      "surface": "אֱלֹהִ֗ים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "לְבָרֵ֥י",
+      "surface": "לברי",
       "gloss": "پہ صاف دلانیں مردمءَ"
     },
     {
-      "surface": "לֵבָֽב",
+      "surface": "לבב",
       "gloss": "دل"
     }
-  ],
-  "timestamp": "2026-09-25T20:45:54.377917742Z",
-  "model": "glm-5.3"
+  ]
 }

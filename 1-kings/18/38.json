@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
-  "ref": "1-kings 18:38",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:56:13.789890733Z",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ یاہوہءِ آتش ڈات، ءُ ⟨את⟩ سوچگیں قربانی ءُ ⟨את⟩ داران ءُ ⟨את⟩ سنگان ءُ ⟨את⟩ گدار ءُ ⟨את⟩ آپان کہ نالیءَ اِنت چاٹ کت۔",
   "tokens": [
     {
-      "surface": "וַתִּפֹּל",
+      "surface": "ותפל",
       "gloss": "ءُ ڈات"
     },
     {
-      "surface": "אֵשׁ",
+      "surface": "אש",
       "gloss": "آتش"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וַתֹּאכַל",
+      "surface": "ותאכל",
       "gloss": "ءُ کھاد کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سوچگیں قربانی"
     },
     {
-      "surface": "הָעֹלָה",
+      "surface": "העלה",
       "gloss": "سوچگیں قربانی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "داران"
     },
     {
-      "surface": "הָעֵצִים",
+      "surface": "העצים",
       "gloss": "داران"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "سنگان"
     },
     {
-      "surface": "הָאֲבָנִים",
+      "surface": "האבנים",
       "gloss": "سنگان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گدار"
     },
     {
-      "surface": "הֶעָפָר",
+      "surface": "העפר",
       "gloss": "گدار"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آپان"
     },
     {
-      "surface": "הַמַּיִם",
+      "surface": "המים",
       "gloss": "آپان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בַּתְּעָלָה",
+      "surface": "בתעלה",
       "gloss": "نالیءَ اِنت"
     },
     {
-      "surface": "לִחֵכָה",
+      "surface": "לחכה",
       "gloss": "چاٹ کت"
     }
-  ],
-  "timestamp": "2026-09-25T12:56:13.789890733Z",
-  "model": "glm-5.3"
+  ]
 }

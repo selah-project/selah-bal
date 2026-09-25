@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "isaiah 48:14",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:29:22.759708307Z",
+  "verse": 14,
+  "ref": "isaiah 48:14",
+  "tier": "glm-5.2",
   "chapter": 48,
   "translation": "ہمگ تُماں جمع بیت ءُ گوشیت — چہ آیانی تہ چے کے اِشاں ⟨את⟩ اے چیزان وانیت؟ یاہوہءَ آءَ دوست داشت، آ آییءِ خواہش بابلءَ پور کنت ءُ آییءِ بازو کسدانیانءَ اِنت۔",
   "tokens": [
     {
-      "surface": "הִקָּבְצ֤וּ",
+      "surface": "הקבצו",
       "gloss": "جمع بیت"
     },
     {
-      "surface": "כֻּלְּכֶם֙",
+      "surface": "כלכם",
       "gloss": "ہمگ تُماں"
     },
     {
-      "surface": "וּֽשְׁמָ֔עוּ",
+      "surface": "ושמעו",
       "gloss": "ءُ گوشیت"
     },
     {
-      "surface": "מִ֥י",
+      "surface": "מי",
       "gloss": "چے کے"
     },
     {
-      "surface": "בָהֶ֖ם",
+      "surface": "בהם",
       "gloss": "آیانی تہ"
     },
     {
-      "surface": "הִגִּ֣יד",
+      "surface": "הגיד",
       "gloss": "وانیت"
     },
     {
-      "surface": "אֵ֑ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے چیزان"
     },
     {
-      "surface": "אֵ֑לֶּה",
+      "surface": "אלה",
       "gloss": "اے چیزان"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֲהֵב֔וֹ",
+      "surface": "אהבו",
       "gloss": "آءَ دوست داشت"
     },
     {
-      "surface": "יַעֲשֶׂ֤ה",
+      "surface": "יעשה",
       "gloss": "پور کنت"
     },
     {
-      "surface": "חֶפְצ֖וֹ",
+      "surface": "חפצו",
       "gloss": "آییءِ خواہش"
     },
     {
-      "surface": "בְּבָ֔ל",
+      "surface": "בבבל",
       "gloss": "بابلءَ"
     },
     {
-      "surface": "וּזְרֹע֖וֹ",
+      "surface": "וזרעו",
       "gloss": "ءُ آییءِ بازو"
     },
     {
-      "surface": "כַּשְׂדִּֽים",
+      "surface": "כשדים",
       "gloss": "کسدانیان"
     }
-  ],
-  "timestamp": "2026-09-25T17:29:22.759708307Z",
-  "model": "glm-5.3"
+  ]
 }

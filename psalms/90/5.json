@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "psalms 90:5",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:49:54.589706554Z",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "tier": "glm-5.2",
   "chapter": 90,
   "translation": "تُو اِشاںءَ چوش کہ سیلاہ چڑئت، اِشاں شپءِ چوں بوتنت؛ سویرءَ چوش کہ گاہ گوَزیت۔",
   "tokens": [
     {
-      "surface": "זְ֭רַמְתָּם",
+      "surface": "זרמתם",
       "gloss": "تُو اِشاںءَ چڑئت"
     },
     {
-      "surface": "שֵׁנָ֣ה",
+      "surface": "שנה",
       "gloss": "شپ"
     },
     {
-      "surface": "יִהְי֑וּ",
+      "surface": "יהיו",
       "gloss": "بوتنت"
     },
     {
-      "surface": "בַּ֝בֹּ֗קֶר",
+      "surface": "בבקר",
       "gloss": "سویرءَ"
     },
     {
-      "surface": "כֶּ֝חָצִ֥יר",
+      "surface": "כחציר",
       "gloss": "چوش کہ گاہ"
     },
     {
-      "surface": "יַחֲלֹֽף",
+      "surface": "יחלף",
       "gloss": "گوَزیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:49:54.589706554Z",
-  "model": "glm-5.3"
+  ]
 }

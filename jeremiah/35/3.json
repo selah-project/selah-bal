@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "jeremiah 35:3",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:59:18.167500284Z",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "tier": "glm-5.2",
   "chapter": 35,
   "translation": "ءُ منءَ ⟨את⟩ یَئزَنیاہءَ — یرمیاہوءِ زہگ، حَبَصَنیاہءِ زہگ — گپت، ءُ ⟨את⟩ آییءِ براتانءَ، ءُ ⟨את⟩ آییءِ پوریں زہگانءَ، ءُ ⟨את⟩ رِکابیانی پوریں گدانءَ گپت۔",
   "tokens": [
     {
-      "surface": "וָאֶקַּח",
+      "surface": "ואקח",
       "gloss": "ءُ منءَ گپت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یَئزَنیاہءَ"
     },
     {
-      "surface": "יַאֲזַנְיָה",
+      "surface": "יאזניה",
       "gloss": "یَئزَنیاہ"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "יִרְמְיָהוּ",
+      "surface": "ירמיהו",
       "gloss": "یرمیاہوءِ"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "חֲבַצַּנְיָה",
+      "surface": "חבצניה",
       "gloss": "حَبَصَنیاہءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ براتانءَ"
     },
     {
-      "surface": "אֶחָיו",
+      "surface": "אחיו",
       "gloss": "آییءِ براتان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ پوریں زہگانءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "בָּנָיו",
+      "surface": "בניו",
       "gloss": "آییءِ زہگان"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "رِکابیانی پوریں گدانءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "הָרֵכָבִים",
+      "surface": "הרכבים",
       "gloss": "رِکابیانی"
     }
-  ],
-  "timestamp": "2026-09-25T17:59:18.167500284Z",
-  "model": "glm-5.3"
+  ]
 }

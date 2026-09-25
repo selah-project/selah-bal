@@ -1,46 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "2-samuel 5:7",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:39:35.069885614Z",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ داود ⟨את⟩ صیہونی قلعہ ئِ گپت — آئِ اِنت داودءِ شہر۔",
   "tokens": [
     {
-      "surface": "וַיִּלְכֹּד",
+      "surface": "וילכד",
       "gloss": "ئِ گپت"
     },
     {
-      "surface": "דָּוִד",
+      "surface": "דוד",
       "gloss": "داود"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "صیہونی قلعہ"
     },
     {
-      "surface": "מְצֻדַת",
+      "surface": "מצדת",
       "gloss": "قلعہ"
     },
     {
-      "surface": "צִיּוֹן",
+      "surface": "ציון",
       "gloss": "صیہون"
     },
     {
-      "surface": "הִיא",
+      "surface": "היא",
       "gloss": "آئِ اِنت"
     },
     {
-      "surface": "עִיר",
+      "surface": "עיר",
       "gloss": "شہر"
     },
     {
-      "surface": "דָּוִד",
+      "surface": "דוד",
       "gloss": "داودءِ"
     }
-  ],
-  "timestamp": "2026-09-25T14:39:35.069885614Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "proverbs 31:15",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:21:43.483843391Z",
+  "verse": 15,
+  "ref": "proverbs 31:15",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "ءُ آ چوں شپ اَت اوشتیت، ءُ وتی گدانءَ خوراک ءُ وتی جنکانءَ حصہ دیت.",
   "tokens": [
     {
-      "surface": "וַתָּקָם",
+      "surface": "ותקם",
       "gloss": "ءُ آ اوشتیت"
     },
     {
-      "surface": "בְּעוֹד",
+      "surface": "בעוד",
       "gloss": "چوں"
     },
     {
-      "surface": "לַיְלָה",
+      "surface": "לילה",
       "gloss": "شپ اَت"
     },
     {
-      "surface": "וַתִּתֵּן",
+      "surface": "ותתן",
       "gloss": "ءُ دیت"
     },
     {
-      "surface": "טֶרֶף",
+      "surface": "טרף",
       "gloss": "خوراک"
     },
     {
-      "surface": "לְבֵיתָהּ",
+      "surface": "לביתה",
       "gloss": "وتی گدانءَ"
     },
     {
-      "surface": "וְחֹק",
+      "surface": "וחק",
       "gloss": "ءُ حصہ"
     },
     {
-      "surface": "לְנַעֲרֹתֶיהָ",
+      "surface": "לנערתיה",
       "gloss": "وتی جنکانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:21:43.483843391Z",
-  "model": "glm-5.3"
+  ]
 }

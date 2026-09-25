@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "psalms 102:22",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:23:00.006099833Z",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "tier": "glm-5.2",
   "chapter": 102,
   "translation": "پہ زِیؤنءَ یاہوہءِ نام گوشانگ کنتگ ءُ آییءِ ستجائیں یاد تہ یروشلم،",
   "tokens": [
     {
-      "surface": "לְסַפֵּר",
+      "surface": "לספר",
       "gloss": "گوشانگ کنتگ"
     },
     {
-      "surface": "בְּצִיּוֹן",
+      "surface": "בציון",
       "gloss": "زِیؤنءَ"
     },
     {
-      "surface": "שֵׁם",
+      "surface": "שם",
       "gloss": "نام"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וּתְהִלָּתוֹ",
+      "surface": "ותהלתו",
       "gloss": "ءُ آییءِ ستجائیں یاد"
     },
     {
-      "surface": "בִּירוּשָׁלַם",
+      "surface": "בירושלם",
       "gloss": "تہ یروشلم"
     }
-  ],
-  "timestamp": "2026-09-25T20:23:00.006099833Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "genesis 26:14",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:09:51.539925595Z",
+  "verse": 14,
+  "ref": "genesis 26:14",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ آییءَ مالءِ گلہ ءُ گاوانی مال ءُ گیش服务工作 گوںے ءُ پلشتانیں آییءَ ⟨את⟩ وتیءِ جاگہءَ حسد کت.",
   "tokens": [
     {
-      "surface": "וַֽיְהִי",
+      "surface": "ויהי",
       "gloss": "ءُ بوت"
     },
     {
-      "surface": "ל֤וֹ",
+      "surface": "לו",
       "gloss": "آییءَ پہ"
     },
     {
-      "surface": "מִקְנֵה",
+      "surface": "מקנה",
       "gloss": "مالءِ گلہ"
     },
     {
-      "surface": "צֹאן֙",
+      "surface": "צאן",
       "gloss": "رئڑ"
     },
     {
-      "surface": "וּמִקְנֵ֣ה",
+      "surface": "ומקנה",
       "gloss": "ءُ مال"
     },
     {
-      "surface": "בָקָ֔ר",
+      "surface": "בקר",
       "gloss": "گاوان"
     },
     {
-      "surface": "וַעֲבֻדָּ֖ה",
+      "surface": "ועבדה",
       "gloss": "ءُ خدمتگار"
     },
     {
-      "surface": "רַבָּ֑ה",
+      "surface": "רבה",
       "gloss": "گیش"
     },
     {
-      "surface": "וַיְקַנְא֥וּ",
+      "surface": "ויקנאו",
       "gloss": "ءُ حسد کت"
     },
     {
-      "surface": "אֹת֖וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩",
       "marks": "آییءَ (پلشتانیں)"
     },
     {
-      "surface": "פְּלִשְׁתִּֽים",
+      "surface": "פלשתים",
       "gloss": "پلشتانیں"
     }
-  ],
-  "timestamp": "2026-09-25T21:09:51.539925595Z",
-  "model": "glm-5.3"
+  ]
 }

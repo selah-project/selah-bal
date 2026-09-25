@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "1-chronicles 9:27",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:47:29.630360609Z",
+  "verse": 27,
+  "ref": "1-chronicles 9:27",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ ایلوہیمءِ گدانءِ چوارطرفءَ شپءَ ماننت، پرچا کہ پاڑی آیانی سرءَ اِنت، ءُ اے کلیدءِ سرءَ اِنت، ءُ صبوحءَ چہ صبوحءَ۔",
   "tokens": [
     {
-      "surface": "וּסְבִיבֹות",
+      "surface": "וסביבות",
       "gloss": "ءُ چوارطرفءَ"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "יָלִינוּ",
+      "surface": "ילינו",
       "gloss": "شپءَ ماننت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "עֲלֵיהֶם",
+      "surface": "עליהם",
       "gloss": "آیانی سرءَ"
     },
     {
-      "surface": "מִשְׁמֶרֶת",
+      "surface": "משמרת",
       "gloss": "پاڑی"
     },
     {
-      "surface": "וְהֵם",
+      "surface": "והם",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הַמַּפְתֵּחַ",
+      "surface": "המפתח",
       "gloss": "کلیدءِ"
     },
     {
-      "surface": "וְלַבֹּקֶר",
+      "surface": "ולבקר",
       "gloss": "ءُ صبوحءَ"
     },
     {
-      "surface": "לַבֹּקֶר",
+      "surface": "לבקר",
       "gloss": "چہ صبوحءَ"
     }
-  ],
-  "timestamp": "2026-09-25T12:47:29.630360609Z",
-  "model": "glm-5.3"
+  ]
 }

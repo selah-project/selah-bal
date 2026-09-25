@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "joshua 19:12",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:44:11.821092021Z",
+  "verse": 12,
+  "ref": "joshua 19:12",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ چہ ساریدءَ پدا کت، مشرقءَ، شمسءِ مآبءِ گوَنڈءَ، کِسلُت تابُرءِ سرحدءَ سرا، ءُ دابرتءَ کپیتءَ روت، ءُ یافیعءَ چڑھیت۔",
   "tokens": [
     {
-      "surface": "וְשָׁ֣ב",
+      "surface": "ושב",
       "gloss": "ءُ پدا کت"
     },
     {
-      "surface": "מִשָּׂרִ֗יד",
+      "surface": "משריד",
       "gloss": "چہ ساریدءَ"
     },
     {
-      "surface": "קֵ֚דְמָה",
+      "surface": "קדמה",
       "gloss": "مشرقءَ"
     },
     {
-      "surface": "מִזְרַ֣ח",
+      "surface": "מזרח",
       "gloss": "مآبءِ گوَنڈءَ"
     },
     {
-      "surface": "הַשֶּׁ֔מֶשׁ",
+      "surface": "השמש",
       "gloss": "شمسءِ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرا"
     },
     {
-      "surface": "גְּב֥וּל",
+      "surface": "גבול",
       "gloss": "سرحدءَ"
     },
     {
-      "surface": "כִּסְלֹ֖ת",
+      "surface": "כסלת",
       "gloss": "کِسلُت"
     },
     {
-      "surface": "תָּבֹ֑ר",
+      "surface": "תבר",
       "gloss": "تابُرءِ"
     },
     {
-      "surface": "וְיָצָ֥א",
+      "surface": "ויצא",
       "gloss": "ءُ کپیتءَ روت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "<تائیں>"
     },
     {
-      "surface": "הַדָּֽבְרַ֖ת",
+      "surface": "הדברת",
       "gloss": "دابرتءَ"
     },
     {
-      "surface": "וְעָלָ֥ה",
+      "surface": "ועלה",
       "gloss": "ءُ چڑھیت"
     },
     {
-      "surface": "יָפִֽיעַ",
+      "surface": "יפיע",
       "gloss": "یافیعءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:44:11.821092021Z",
-  "model": "glm-5.3"
+  ]
 }

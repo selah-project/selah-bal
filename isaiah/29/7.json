@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "isaiah 29:7",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:17:58.067714013Z",
+  "verse": 7,
+  "ref": "isaiah 29:7",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ بیت چوش سپنگ کہ شپءِ چمءَ — ہمگ قوماں کہ آریلءِ سرءَ لڑنت، ءُ ہمگ آیانی لڑوک ءُ آییءِ مزار ءُ آییءَ ستڑ کنوک — گوں ہمے سپنگءِ چوں بنت.",
   "tokens": [
     {
-      "surface": "וְהָיָ֗ה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "כַּֽחֲלוֹם֙",
+      "surface": "כחלום",
       "gloss": "چوش سپنگ"
     },
     {
-      "surface": "חֲז֣וֹן",
+      "surface": "חזון",
       "gloss": "چم"
     },
     {
-      "surface": "לַ֔יְלָה",
+      "surface": "לילה",
       "gloss": "شپءِ"
     },
     {
-      "surface": "הֲמוֹן֙",
+      "surface": "המון",
       "gloss": "رستم"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "הַגּוֹיִ֔ם",
+      "surface": "הגוים",
       "gloss": "قوماں"
     },
     {
-      "surface": "הַצֹּבְאִ֖ים",
+      "surface": "הצבאים",
       "gloss": "لڑنوک"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "אֲרִיאֵ֑ל",
+      "surface": "אריאל",
       "gloss": "آریل"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ ہمگ"
     },
     {
-      "surface": "צֹבֶ֨יהָ֙",
+      "surface": "צביה",
       "gloss": "آیانی لڑوک"
     },
     {
-      "surface": "וּמְצֹ֣דָתָ֔הּ",
+      "surface": "ומצדתה",
       "gloss": "ءُ آییءِ مزار"
     },
     {
-      "surface": "וְהַמְּצִיקִ֖ים",
+      "surface": "והמציקים",
       "gloss": "ءُ ستڑ کنوک"
     },
     {
-      "surface": "לָֽהּ",
+      "surface": "לה",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:17:58.067714013Z",
-  "model": "glm-5.3"
+  ]
 }

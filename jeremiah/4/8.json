@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "jeremiah 4:8",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:05:06.338894120Z",
+  "verse": 8,
+  "ref": "jeremiah 4:8",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "اے وہدءَ پہ شاکان گپت، سوگ کنیت ءُ بانگ کنیت، پرچا کہ یاہوہءِ ناکءِ سوزینگی نہ پدا چڑیت چہ ماں۔",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "اے وہدءَ"
     },
     {
-      "surface": "חִגְר֥וּ",
+      "surface": "חגרו",
       "gloss": "گپت"
     },
     {
-      "surface": "שַׂקִּ֖ים",
+      "surface": "שקים",
       "gloss": "شاکان"
     },
     {
-      "surface": "סִפְד֣וּ",
+      "surface": "ספדו",
       "gloss": "سوگ کنیت"
     },
     {
-      "surface": "וְהֵילִ֑ילוּ",
+      "surface": "והילילו",
       "gloss": "ءُ بانگ کنیت"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "שָׁ֛ב",
+      "surface": "שב",
       "gloss": "پدا چڑیت"
     },
     {
-      "surface": "חֲר֥וֹן",
+      "surface": "חרון",
       "gloss": "سوزینگی"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "ناکءِ"
     },
     {
-      "surface": "יְהֹוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "מִמֶּֽנּוּ",
+      "surface": "ממנו",
       "gloss": "چہ ماں"
     }
-  ],
-  "timestamp": "2026-09-25T18:05:06.338894120Z",
-  "model": "glm-5.3"
+  ]
 }

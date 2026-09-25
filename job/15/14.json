@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "job 15:14",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:12:45.446277448Z",
+  "verse": 14,
+  "ref": "job 15:14",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "چی اِنت اِنوش کہ آ پاک بیت، ءُ کہ زاہِ جنک راست بیت؟",
   "tokens": [
     {
-      "surface": "מָֽה",
+      "surface": "מה",
       "gloss": "چی"
     },
     {
-      "surface": "אֱנ֥וֹשׁ",
+      "surface": "אנוש",
       "gloss": "اِنوش"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "יִזְכֶּ֑ה",
+      "surface": "יזכה",
       "gloss": "پاک بیت"
     },
     {
-      "surface": "וְכִֽי",
+      "surface": "וכי",
       "gloss": "ءُ کہ"
     },
     {
-      "surface": "יִצְדַּ֗ק",
+      "surface": "יצדק",
       "gloss": "راست بیت"
     },
     {
-      "surface": "יְל֣וּד",
+      "surface": "ילוד",
       "gloss": "زاہِ"
     },
     {
-      "surface": "אִשָּֽׁה",
+      "surface": "אשה",
       "gloss": "جنک"
     }
-  ],
-  "timestamp": "2026-09-25T21:12:45.446277448Z",
-  "model": "glm-5.3"
+  ]
 }

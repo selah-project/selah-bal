@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "job 16:20",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:22:19.546816849Z",
+  "verse": 20,
+  "ref": "job 16:20",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "مءِ ملتیں لبزان ماءِ یاران — چہ ایلوہہءَ مءِ چم لڑ لُٹیت۔",
   "tokens": [
     {
-      "surface": "מְלִיצַ֥י",
+      "surface": "מליצי",
       "gloss": "مءِ ملتیں لبزان"
     },
     {
-      "surface": "רֵעָ֑י",
+      "surface": "רעי",
       "gloss": "ماءِ یاران"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "چہ"
     },
     {
-      "surface": "אֱ֝לוֹהַ",
+      "surface": "אלוה",
       "gloss": "ایلوہہءَ"
     },
     {
-      "surface": "דָּלְפָ֥ה",
+      "surface": "דלפה",
       "gloss": "لڑ لُٹیت"
     },
     {
-      "surface": "עֵינִֽי",
+      "surface": "עיני",
       "gloss": "مءِ چم"
     }
-  ],
-  "timestamp": "2026-09-25T18:22:19.546816849Z",
-  "model": "glm-5.3"
+  ]
 }

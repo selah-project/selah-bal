@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "zephaniah 3:3",
   "book": "zephaniah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:59:11.091498447Z",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "آییءِ سردار آییءِ میانءَ داڑندگیں شیر ئن؛ آییءِ منصف شپءِ گڑن ئن — ہڈ چہ گپت نہ وشیتنت تہ صپءِ سرا۔",
   "tokens": [
     {
-      "surface": "שָׂרֶ֣יהָ",
+      "surface": "שריה",
       "gloss": "آییءِ سردار"
     },
     {
-      "surface": "בְּקִרְבָּ֔הּ",
+      "surface": "בקרבה",
       "gloss": "آییءِ میانءَ"
     },
     {
-      "surface": "אֲרָי֖וֹת",
+      "surface": "אריות",
       "gloss": "شیر"
     },
     {
-      "surface": "שֹֽׁאֲגִ֑ים",
+      "surface": "שאגים",
       "gloss": "داڑندگیں"
     },
     {
-      "surface": "שֹׁפְטֶ֨יהָ֙",
+      "surface": "שפטיה",
       "gloss": "آییءِ منصف"
     },
     {
-      "surface": "זְאֵ֣בֵי",
+      "surface": "זאבי",
       "gloss": "گڑن"
     },
     {
-      "surface": "עֶ֔רֶב",
+      "surface": "ערב",
       "gloss": "شپءِ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "גָרְמ֖וּ",
+      "surface": "גרמו",
       "gloss": "ہڈ گپتنت"
     },
     {
-      "surface": "לַבֹּֽקֶר",
+      "surface": "לבקר",
       "gloss": "تہ صپءِ سرا"
     }
-  ],
-  "timestamp": "2026-09-25T20:59:11.091498447Z",
-  "model": "glm-5.3"
+  ]
 }

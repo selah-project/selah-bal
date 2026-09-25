@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "judges 9:29",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:11:19.501224448Z",
+  "verse": 29,
+  "ref": "judges 9:29",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ کِے دیت کہ ⟨את⟩ اے قوم منءِ دستءَ بیت، ءُ من ⟨את⟩ اَبیمَلخءَ پڑا کنتانت؛ ءُ آ اَبیمَلخءَ گوَشت: تُوئے لشکرءَ گیش کن ءُ در کپ۔",
   "tokens": [
     {
-      "surface": "וּמִ֨י",
+      "surface": "ומי",
       "gloss": "ءُ کِے"
     },
     {
-      "surface": "יִתֵּ֜ן",
+      "surface": "יתן",
       "gloss": "دیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے قوم"
     },
     {
-      "surface": "הָעָ֤ם",
+      "surface": "העם",
       "gloss": "قوم"
     },
     {
-      "surface": "הַזֶּה֙",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "בְּיָדִ֔י",
+      "surface": "בידי",
       "gloss": "منءِ دستءَ"
     },
     {
-      "surface": "וְאָסִ֖ירָה",
+      "surface": "ואסירה",
       "gloss": "ءُ پڑا کنتانت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَبیمَلخءَ"
     },
     {
-      "surface": "אֲבִימֶ֑לֶךְ",
+      "surface": "אבימלך",
       "gloss": "اَبیمَلخءَ"
     },
     {
-      "surface": "וַיֹּ֨אמֶר֙",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "לַאֲבִימֶ֔לֶךְ",
+      "surface": "לאבימלך",
       "gloss": "اَبیمَلخءَ"
     },
     {
-      "surface": "רַבֶּ֥ה",
+      "surface": "רבה",
       "gloss": "گیش کن"
     },
     {
-      "surface": "צְבָאֲךָ֖",
+      "surface": "צבאך",
       "gloss": "تُوئے لشکر"
     },
     {
-      "surface": "וָצֵֽאָה",
+      "surface": "וצאה",
       "gloss": "ءُ در کپ"
     }
-  ],
-  "timestamp": "2026-09-25T19:11:19.501224448Z",
-  "model": "glm-5.3"
+  ]
 }

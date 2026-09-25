@@ -1,94 +1,94 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "jeremiah 12:4",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:42:44.203474344Z",
+  "verse": 4,
+  "ref": "jeremiah 12:4",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "تا کدا زمین سوگ گرنت ءُ سبز کل خانءِ کل سیڑنت پہ رائیں کارءِ پہ کہ آیانی تہ نشتکنت؟ مالءِ بسنت ءُ مرگ، پرچا کہ اِشاں گوَشتنت: آیہ ⟨את⟩ مانی ءُ آخریتءَ نہ گندیت.",
   "tokens": [
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "מָתַי",
+      "surface": "מתי",
       "gloss": "کدا"
     },
     {
-      "surface": "תֶּאֱבַל",
+      "surface": "תאבל",
       "gloss": "سوگ گرنت"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "וְעֵשֶׂב",
+      "surface": "ועשב",
       "gloss": "ءُ سبز"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "کل"
     },
     {
-      "surface": "הַשָּׂדֶה",
+      "surface": "השדה",
       "gloss": "خانءِ کل"
     },
     {
-      "surface": "יְיָבֵשׁ",
+      "surface": "ייבש",
       "gloss": "سیڑنت"
     },
     {
-      "surface": "מֵרָעַת",
+      "surface": "מרעת",
       "gloss": "پہ رائیں کارءِ پہ"
     },
     {
-      "surface": "יֹשְׁבֵי",
+      "surface": "ישבי",
       "gloss": "تہ نشتکنتءِ"
     },
     {
-      "surface": "בָּהּ",
+      "surface": "בה",
       "gloss": "آیانی تہ"
     },
     {
-      "surface": "סָפְתָה",
+      "surface": "ספתה",
       "gloss": "بسنت"
     },
     {
-      "surface": "בְּהֵמוֹת",
+      "surface": "בהמות",
       "gloss": "مالءِ"
     },
     {
-      "surface": "וָעוֹף",
+      "surface": "ועוף",
       "gloss": "ءُ مرگ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אָמְרוּ",
+      "surface": "אמרו",
       "gloss": "گوَشتنت"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִרְאֶה",
+      "surface": "יראה",
       "gloss": "گندیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مانی ءُ آخریتءَ"
     },
     {
-      "surface": "אַחֲרִיתֵֽנוּ",
+      "surface": "אחריתנו",
       "gloss": "ءُ آخریت"
     }
-  ],
-  "timestamp": "2026-09-25T17:42:44.203474344Z",
-  "model": "glm-5.3"
+  ]
 }

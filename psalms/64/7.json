@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "psalms 64:7",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:43:35.851750223Z",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "tier": "glm-5.2",
   "chapter": 64,
   "translation": "اِشاں زلمیں کارانءَ جستجو کننت؛ گوَشنت: «پوریں جستجو یکے»؛ ءُ مردمیءِ نہ‌گ ءُ دل گہین اِنت.",
   "tokens": [
     {
-      "surface": "יַֽחְפְּֽשׂוּ",
+      "surface": "יחפשו",
       "gloss": "جستجو کننت"
     },
     {
-      "surface": "עֹלֹ֗ת",
+      "surface": "עולת",
       "gloss": "زلمیں کاران"
     },
     {
-      "surface": "תַּמְֽנוּ",
+      "surface": "תמנו",
       "gloss": "پوریں یکے"
     },
     {
-      "surface": "חֵ֣פֶשׂ",
+      "surface": "חפש",
       "gloss": "جستجوءِ کار"
     },
     {
-      "surface": "מְחֻפָּ֑שׂ",
+      "surface": "מחפש",
       "gloss": "جستجو بوتگیں"
     },
     {
-      "surface": "וְקֶ֥רֶב",
+      "surface": "וקרב",
       "gloss": "ءُ نہ‌گ"
     },
     {
-      "surface": "אִ֝֗ישׁ",
+      "surface": "איש",
       "gloss": "مردمیءِ"
     },
     {
-      "surface": "וְלֵ֣ב",
+      "surface": "ולב",
       "gloss": "ءُ دل"
     },
     {
-      "surface": "עָמֹֽק",
+      "surface": "עמק",
       "gloss": "گہین"
     }
-  ],
-  "timestamp": "2026-09-25T20:43:35.851750223Z",
-  "model": "glm-5.3"
+  ]
 }

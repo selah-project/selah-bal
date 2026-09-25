@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "leviticus 4:22",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:25:46.436050611Z",
+  "verse": 22,
+  "ref": "leviticus 4:22",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "آ کہ یک نسیءَ گنہ کت ءُ یک چہ ہر حکمان چہ یاہوہ گوں آییءِ ایلوہیمءِ، آ کہ نہ کورتگ بنت، چہ بھلائیءَ کت ءُ گنہگار بیت۔",
   "tokens": [
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "נָשִׂ֖יא",
+      "surface": "נשיא",
       "gloss": "نسیءَ"
     },
     {
-      "surface": "יֶֽחֱטָ֑א",
+      "surface": "יחטא",
       "gloss": "گنہ کت"
     },
     {
-      "surface": "וְעָשָׂ֡ה",
+      "surface": "ועשה",
       "gloss": "ءُ کت"
     },
     {
-      "surface": "אַחַ֣ת",
+      "surface": "אחת",
       "gloss": "یک"
     },
     {
-      "surface": "מִכָּל",
+      "surface": "מכל",
       "gloss": "چہ ہر"
     },
     {
-      "surface": "מִצְוֺת֩",
+      "surface": "מצות",
       "gloss": "حکمانی"
     },
     {
-      "surface": "יְהוָ֨ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֱלֹהָ֜יו",
+      "surface": "אלהיו",
       "gloss": "آییءِ ایلوہیمءِ"
     },
     {
-      "surface": "אֲשֶׁ֧ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תֵעָשֶׂ֛ינָה",
+      "surface": "תעשינה",
       "gloss": "کورتگ بنت"
     },
     {
-      "surface": "בִּשְׁגָגָ֖ה",
+      "surface": "בשגגה",
       "gloss": "چہ بھلائیءَ"
     },
     {
-      "surface": "וְאָשֵֽׁם",
+      "surface": "ואשם",
       "gloss": "ءُ گنہگار بیت"
     }
-  ],
-  "timestamp": "2026-09-25T19:25:46.436050611Z",
-  "model": "glm-5.3"
+  ]
 }

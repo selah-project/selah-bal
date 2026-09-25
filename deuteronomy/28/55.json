@@ -1,89 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 55,
-  "ref": "deuteronomy 28:55",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:24:17.436510875Z",
+  "verse": 55,
+  "ref": "deuteronomy 28:55",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "چہ یکے ءُ چہ اِشاں چہ گوشت ءُ زہگانی خود چہ آے کہ گوشیت نہ دئنت، چہ اے پاد کہ ہچ چیز آییءَ نہ پُشت مانت — گیراب ءُ تنگیءَ، آ تنگی کہ دشمنءَ تُہ تہ همگ توریاںت گوں آے کنت،",
   "tokens": [
     {
-      "surface": "מִתֵּת",
+      "surface": "מתת",
       "gloss": "نہ دئنت"
     },
     {
-      "surface": "לְאַחַד",
+      "surface": "לאחד",
       "gloss": "چہ یکے ءُ"
     },
     {
-      "surface": "מֵהֶם",
+      "surface": "מהם",
       "gloss": "چہ اِشاں"
     },
     {
-      "surface": "מִבְּשַׂר",
+      "surface": "מבשר",
       "gloss": "چہ گوشت"
     },
     {
-      "surface": "בָּנָיו",
+      "surface": "בניו",
       "gloss": "زہگانی خود"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آے کہ"
     },
     {
-      "surface": "יֹאכֵל",
+      "surface": "יאכל",
       "gloss": "گوشیت"
     },
     {
-      "surface": "מִבְּלִי",
+      "surface": "מבלי",
       "gloss": "چہ اے پاد کہ"
     },
     {
-      "surface": "הִשְׁאִיר",
+      "surface": "השאיר",
       "gloss": "نہ پُشت مانت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "כֹּל",
+      "surface": "כל",
       "gloss": "ہچ چیز"
     },
     {
-      "surface": "בְּמָצוֹר",
+      "surface": "במצור",
       "gloss": "گیراب ءُ"
     },
     {
-      "surface": "וּבְמָצוֹק",
+      "surface": "ובמצוק",
       "gloss": "تنگیءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ تنگی کہ"
     },
     {
-      "surface": "יָצִיק",
+      "surface": "יציק",
       "gloss": "گوں آے کنت"
     },
     {
-      "surface": "לְךָ",
+      "surface": "לך",
       "gloss": "تُہ"
     },
     {
-      "surface": "אֹיִבְךָ",
+      "surface": "איבך",
       "gloss": "دشمنءَ"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "تہ همگ"
     },
     {
-      "surface": "שְׁעָרֶיךָ",
+      "surface": "שעריך",
       "gloss": "توریاںت"
     }
-  ],
-  "timestamp": "2026-09-25T15:24:17.436510875Z",
-  "model": "glm-5.3"
+  ]
 }

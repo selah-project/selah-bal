@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "ezekiel 42:15",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:26:51.682208791Z",
+  "verse": 15,
+  "ref": "ezekiel 42:15",
+  "tier": "glm-5.2",
   "chapter": 42,
   "translation": "ءُ آ پور کت ⟨את⟩ اندرونی گدءِ پیمانشانءَ، ءُ منءَ درا کت گوں دروازہءِ راہ کہ آییءِ رخ روچءِ روتءَ اِنت، ءُ آیءَ پیماشت گوڑے گوڑے.",
   "tokens": [
     {
-      "surface": "וְכִלָּה",
+      "surface": "וכלה",
       "gloss": "ءُ آ پور کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پیمانشان"
     },
     {
-      "surface": "מִדּוֹת",
+      "surface": "מדות",
       "gloss": "پیمانشان"
     },
     {
-      "surface": "הַבַּיִת",
+      "surface": "הבית",
       "gloss": "گد"
     },
     {
-      "surface": "הַפְּנִימִי",
+      "surface": "הפנימי",
       "gloss": "اندرونی"
     },
     {
-      "surface": "וְהוֹצִיאַנִי",
+      "surface": "והוציאני",
       "gloss": "ءُ منءَ درا کت"
     },
     {
-      "surface": "דֶּרֶךְ",
+      "surface": "דרך",
       "gloss": "گوں راہ"
     },
     {
-      "surface": "הַשַּׁעַר",
+      "surface": "השער",
       "gloss": "دروازہءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "פָּנָיו",
+      "surface": "פניו",
       "gloss": "آییءِ رخ"
     },
     {
-      "surface": "דֶּרֶךְ",
+      "surface": "דרך",
       "gloss": "روتءَ"
     },
     {
-      "surface": "הַקָּדִים",
+      "surface": "הקדים",
       "gloss": "روچءِ"
     },
     {
-      "surface": "וּמְדָדוֹ",
+      "surface": "ומדדו",
       "gloss": "ءُ آیءَ پیماشت"
     },
     {
-      "surface": "סָבִיב",
+      "surface": "סביב",
       "gloss": "گوڑے"
     },
     {
-      "surface": "סָבִיב",
+      "surface": "סביב",
       "gloss": "گوڑے"
     }
-  ],
-  "timestamp": "2026-09-25T16:26:51.682208791Z",
-  "model": "glm-5.3"
+  ]
 }

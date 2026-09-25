@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "numbers 33:35",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:00:08.944726999Z",
+  "verse": 35,
+  "ref": "numbers 33:35",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ چہ عَبرونہءَ کوچ کت، ءُ بیت۔ عِتسیون گِبِرءَ ڈیر پت۔",
   "tokens": [
@@ -16,7 +18,7 @@
       "gloss": "عَبرونہءَ چہ"
     },
     {
-      "surface": "ויחנو",
+      "surface": "ויחנו",
       "gloss": "ءُ ڈیر پت"
     },
     {
@@ -27,7 +29,5 @@
       "surface": "גבר",
       "gloss": "گِبِر"
     }
-  ],
-  "timestamp": "2026-09-25T20:00:08.944726999Z",
-  "model": "glm-5.3"
+  ]
 }

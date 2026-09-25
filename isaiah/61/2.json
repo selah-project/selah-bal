@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "isaiah 61:2",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:37:12.071855408Z",
+  "verse": 2,
+  "ref": "isaiah 61:2",
+  "tier": "glm-5.2",
   "chapter": 61,
   "translation": "پہ سالءِ رضائے یاہوہءِ بانگ کنگ، ءُ پہ روچءِ انتقامی ماں ایلوهیم ئی، پہ تمام سوگواران تسلی دئگ۔",
   "tokens": [
     {
-      "surface": "לִקְרֹ֤א",
+      "surface": "לקרא",
       "gloss": "پہ بانگ کنگ"
     },
     {
-      "surface": "שְׁנַת",
+      "surface": "שנת",
       "gloss": "سالءِ"
     },
     {
-      "surface": "רָצוֹן֙",
+      "surface": "רצון",
       "gloss": "رضا"
     },
     {
-      "surface": "לַֽיהוָ֔ה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וְי֥וֹם",
+      "surface": "ויום",
       "gloss": "ءُ روچءِ"
     },
     {
-      "surface": "נָקָ֖ם",
+      "surface": "נקם",
       "gloss": "انتقام"
     },
     {
-      "surface": "לֵאלֹהֵ֑ינוּ",
+      "surface": "לאלהינו",
       "gloss": "ماں ایلوهیم ئی"
     },
     {
-      "surface": "לְנַחֵ֖ם",
+      "surface": "לנחם",
       "gloss": "پہ تسلی دئگ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "אֲבֵלִֽים",
+      "surface": "אבלים",
       "gloss": "سوگواران"
     }
-  ],
-  "timestamp": "2026-09-25T17:37:12.071855408Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "proverbs 30:8",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:21:10.415744988Z",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "بے کارئی ءُ دروغئین گپ چہ منءَ دور کن؛ منءَ کمبختی ءُ دولت نہ دیت؛ منءَ منی حصہءِ لچم روزی دیت۔",
   "tokens": [
@@ -44,7 +46,7 @@
       "gloss": "دیت"
     },
     {
-      "surface": "لی",
+      "surface": "לי",
       "gloss": "منءَ"
     },
     {
@@ -59,7 +61,5 @@
       "surface": "חקי",
       "gloss": "منی حصہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:21:10.415744988Z",
-  "model": "glm-5.3"
+  ]
 }

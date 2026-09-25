@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "exodus 31:7",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:55:03.391221118Z",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "⟨את⟩ ملاقاتءِ گدان ءُ ⟨את⟩ گواہیءِ صندوق ءُ ⟨את⟩ کفرت کہ آییءِ سرءَ اِنت، ءُ ⟨את⟩ گدانءِ ہرے کول؛",
   "tokens": [
     {
-      "surface": "אֵ֣ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ملاقاتءِ گدان"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵ֗ד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گواہیءِ صندوق"
     },
     {
-      "surface": "הָֽאָרֹן֙",
+      "surface": "הארן",
       "gloss": "صندوق"
     },
     {
-      "surface": "לָֽעֵדֻ֔ת",
+      "surface": "לעדת",
       "gloss": "گواہیءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "کفرت"
     },
     {
-      "surface": "הַכַּפֹּ֖רֶת",
+      "surface": "הכפרת",
       "gloss": "کفرت"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָלָ֑יו",
+      "surface": "עליו",
       "gloss": "آییءِ سرءَ"
     },
     {
-      "surface": "וְאֵ֖ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ہرے کول"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہرے"
     },
     {
-      "surface": "כְּלֵ֥י",
+      "surface": "כלי",
       "gloss": "کول"
     },
     {
-      "surface": "הָאֹֽהֶל",
+      "surface": "האהל",
       "gloss": "گدانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:55:03.391221118Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "psalms 119:2",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:26:22.683566286Z",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "سواری اِنت اِشاں کہ آییءِ گواہیانءَ پیش دارنت ءُ پوریں دلءَ گوں آییءَ لبز گرنت.",
   "tokens": [
     {
-      "surface": "אַ֭שְׁרֵי",
+      "surface": "אשרי",
       "gloss": "سواری"
     },
     {
-      "surface": "נֹצְרֵ֥י",
+      "surface": "נצרי",
       "gloss": "پیش دارنت"
     },
     {
-      "surface": "עֵדֹתָ֗יו",
+      "surface": "עדתיו",
       "gloss": "آییءِ گواہیان"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "پوری"
     },
     {
-      "surface": "לֵ֥ב",
+      "surface": "לב",
       "gloss": "دل"
     },
     {
-      "surface": "יִדְרְשֽׁוּהוּ",
+      "surface": "ידרשוהו",
       "gloss": "آییءَ لبز گرنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:26:22.683566286Z",
-  "model": "glm-5.3"
+  ]
 }

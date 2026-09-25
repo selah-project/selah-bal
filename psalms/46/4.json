@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "psalms 46:4",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:40:29.995644769Z",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "tier": "glm-5.2",
   "chapter": 46,
   "translation": "آییءِ آپان گونجنت ءُ ابلنت، کوه آییءِ سرپدیءَ چنبنت۔ سلاہ۔",
   "tokens": [
     {
-      "surface": "יֶהֱמ֣וּ",
+      "surface": "יהמו",
       "gloss": "گونجنت"
     },
     {
-      "surface": "יֶחְמְר֣וּ",
+      "surface": "יחמרו",
       "gloss": "ءُ ابلنت"
     },
     {
-      "surface": "מֵימָ֑יו",
+      "surface": "מימיו",
       "gloss": "آییءِ آپان"
     },
     {
-      "surface": "יִֽרְעֲשֽׁוּ",
+      "surface": "ירעשו",
       "gloss": "چنبنت"
     },
     {
-      "surface": "הָרִ֖ים",
+      "surface": "הרים",
       "gloss": "کوه"
     },
     {
-      "surface": "בְּגַאֲוָת֣וֹ",
+      "surface": "בגאותו",
       "gloss": "آییءِ سرپدیءَ"
     },
     {
-      "surface": "סֶֽלָה",
+      "surface": "סלה",
       "gloss": "سلاہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:40:29.995644769Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 16:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:34:01.228331556Z",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "پیمائشی ڈور منءَ تہ شیرینیں جاگہاں رتنت؛ بلے یک شوہنگین میراث منءِ سرءَ اِنت.",
   "tokens": [
     {
-      "surface": "חֲבָלִ֣ים",
+      "surface": "חבלים",
       "gloss": "پیمائشی ڈوران"
     },
     {
-      "surface": "נָֽפְלוּ",
+      "surface": "נפלו",
       "gloss": "رتنت"
     },
     {
-      "surface": "לִ֭י",
+      "surface": "לי",
       "gloss": "منءَ تہ"
     },
     {
-      "surface": "בַּנְּעִמִ֑ים",
+      "surface": "בנעמים",
       "gloss": "تہ شیرینیں جاگہاں"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "بلے"
     },
     {
-      "surface": "נַ֝חֲלָ֗ת",
+      "surface": "נחלת",
       "gloss": "میراث"
     },
     {
-      "surface": "שָֽׁפְרָ֥ה",
+      "surface": "שפרה",
       "gloss": "شوہنگین"
     },
     {
-      "surface": "עָלָֽי",
+      "surface": "עלי",
       "gloss": "منءِ سرءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:34:01.228331556Z",
-  "model": "glm-5.3"
+  ]
 }

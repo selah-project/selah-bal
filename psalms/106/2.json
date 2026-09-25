@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "psalms 106:2",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:23:10.327540342Z",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "tier": "glm-5.2",
   "chapter": 106,
   "translation": "کے یاہوہءِ زوریں کاراںءَ بیاند بیت؟ کے آییءِ پوری تہیلتءَ گوشوشیت؟",
   "tokens": [
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יְמַלֵּל",
+      "surface": "ימלל",
       "gloss": "بیاند بیت"
     },
     {
-      "surface": "גְּבוּרֹות",
+      "surface": "גבורות",
       "gloss": "زوریں کاراںءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "יַשְׁמִיעַ",
+      "surface": "ישמיע",
       "gloss": "گوشوشیت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوری"
     },
     {
-      "surface": "תְּהִלָּתֹו",
+      "surface": "תהלתו",
       "gloss": "تہیلتءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:23:10.327540342Z",
-  "model": "glm-5.3"
+  ]
 }

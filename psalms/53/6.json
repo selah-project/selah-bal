@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 53:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:40:14.979174295Z",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "tier": "glm-5.2",
   "chapter": 53,
   "translation": "اودا خوف گپتنت، اودا کہ خوف نبوت — پرچا کہ ایلوہیم تُرے گوَنڈ ءَ ڈتگےءِ ہڈان پروش کتگنت؛ تو اِشاںءَ شرمست کت، پرچا کہ ایلوہیم اِشاںءَ رد کتگنت۔",
   "tokens": [
     {
-      "surface": "שָׁ֤ם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "פָּֽחֲדוּ",
+      "surface": "פחדו",
       "gloss": "خوف گپتنت"
     },
     {
-      "surface": "פַ֭חַד",
+      "surface": "פחד",
       "gloss": "خوف"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "הָ֪יָה֫",
+      "surface": "היה",
       "gloss": "بوت"
     },
     {
-      "surface": "פָּ֥חַד",
+      "surface": "פחד",
       "gloss": "خوف"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֱלֹהִ֗ים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "פִּזַּ֨ר",
+      "surface": "פזר",
       "gloss": "پروش کت"
     },
     {
-      "surface": "עַצְמ֣וֹת",
+      "surface": "עצמות",
       "gloss": "ہڈان"
     },
     {
-      "surface": "חֹנָ֑ךְ",
+      "surface": "חנך",
       "gloss": "گوَنڈ ءَ ڈتگےءِ"
     },
     {
-      "surface": "הֱ֝בִשֹׁ֗תָה",
+      "surface": "הבשתה",
       "gloss": "تو اِشاںءَ شرمست کت"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֱלֹהִ֥ים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "מְאָסָֽם",
+      "surface": "מאסם",
       "gloss": "اِشاںءَ رد کت"
     }
-  ],
-  "timestamp": "2026-09-25T20:40:14.979174295Z",
-  "model": "glm-5.3"
+  ]
 }

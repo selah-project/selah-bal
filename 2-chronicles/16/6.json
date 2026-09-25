@@ -1,102 +1,102 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "2-chronicles 16:6",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:40:17.358299049Z",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ اَسا شاہءَ ساریں یہوداہءَ ⟨את⟩ گرت، ءُ اِشاں راماہءِ سنگان ⟨את⟩ بلند کتنت ءُ ⟨את⟩ آیئِ داران کہ بَعشا جوڑ کتگ — ءُ گوں آیانءَ ⟨את⟩ گِبعہ ءُ ⟨את⟩ مِتسپاہ جوڑ کت.",
   "tokens": [
     {
-      "surface": "וְאָסָ֣א",
+      "surface": "ואסא",
       "gloss": "ءُ اَسا"
     },
     {
-      "surface": "הַמֶּ֗לֶךְ",
+      "surface": "המלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "לָקַח֙",
+      "surface": "לקח",
       "gloss": "گرت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ساریں یہوداہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ساریں"
     },
     {
-      "surface": "יְהוּדָ֔ה",
+      "surface": "יהודה",
       "gloss": "یہوداہ"
     },
     {
-      "surface": "וַיִּשְׂא֞וּ",
+      "surface": "וישאו",
       "gloss": "ءُ اِشاں بلند کتنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "راماہءِ سنگان"
     },
     {
-      "surface": "אַבְנֵ֤י",
+      "surface": "אבני",
       "gloss": "سنگان"
     },
     {
-      "surface": "הָֽרָמָה֙",
+      "surface": "הרמה",
       "gloss": "راماہءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آیئِ داران"
     },
     {
-      "surface": "עֵצֶ֔יהָ",
+      "surface": "עציה",
       "gloss": "آیئِ داران"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בָּנָ֖ה",
+      "surface": "בנה",
       "gloss": "جوڑ کتگ"
     },
     {
-      "surface": "בַּעְשָׁ֑א",
+      "surface": "בעשא",
       "gloss": "بَعشا"
     },
     {
-      "surface": "וַיִּ֣בֶן",
+      "surface": "ויבן",
       "gloss": "ءُ جوڑ کت"
     },
     {
-      "surface": "בָּהֶ֔ם",
+      "surface": "בהם",
       "gloss": "آیانءَ گوں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گِبعہ"
     },
     {
-      "surface": "גֶּ֖בַע",
+      "surface": "גבע",
       "gloss": "گِبعہ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "مِتسپاہ"
     },
     {
-      "surface": "הַמִּצְפָּֽה",
+      "surface": "המצפה",
       "gloss": "مِتسپاہ"
     }
-  ],
-  "timestamp": "2026-09-25T13:40:17.358299049Z",
-  "model": "glm-5.3"
+  ]
 }

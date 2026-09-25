@@ -1,93 +1,93 @@
 {
-  "tier": "glm-5.2",
-  "verse": 55,
-  "ref": "numbers 7:55",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:09:10.025900875Z",
+  "verse": 55,
+  "ref": "numbers 7:55",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "آییءِ قربانی ⟨اِنت⟩ یک کاسء چہ چاندی، آییءِ وزن یک سد ءُ سی شکل، ءُ یک جام چہ چاندی، ہپتاہ شکل، پاکءِ شکلءِ سرءَ، دوئین گوں اوٹءَ پُر بیتنت، گوں روغنءَ گوندگ بوتگی، پہ پیشکش۔",
   "tokens": [
     {
-      "surface": "קָרְבָּנוֹ",
+      "surface": "קרבנו",
       "gloss": "آییءِ قربانی"
     },
     {
-      "surface": "קַעֲרַת",
+      "surface": "קערת",
       "gloss": "کاسء"
     },
     {
-      "surface": "כֶּסֶף",
+      "surface": "כסף",
       "gloss": "چاندیءِ"
     },
     {
-      "surface": "אַחַת",
+      "surface": "אחת",
       "gloss": "یک"
     },
     {
-      "surface": "שְׁלֹשִׁים",
+      "surface": "שלשים",
       "gloss": "سی"
     },
     {
-      "surface": "וּמֵאָה",
+      "surface": "ומאה",
       "gloss": "ءُ سد"
     },
     {
-      "surface": "מִשְׁקָלָהּ",
+      "surface": "משקלה",
       "gloss": "آییءِ وزن"
     },
     {
-      "surface": "מִזְרָק",
+      "surface": "מזרק",
       "gloss": "جام"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "כֶּסֶף",
+      "surface": "כסף",
       "gloss": "چاندیءِ"
     },
     {
-      "surface": "שִׁבְעִים",
+      "surface": "שבעים",
       "gloss": "ہپتاہ"
     },
     {
-      "surface": "שֶׁקֶל",
+      "surface": "שקל",
       "gloss": "شکل"
     },
     {
-      "surface": "בְּשֶׁקֶל",
+      "surface": "בשקל",
       "gloss": "شکلءَ سرءَ"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "پاکءِ"
     },
     {
-      "surface": "שְׁנֵיהֶם",
+      "surface": "שניהם",
       "gloss": "دوئین"
     },
     {
-      "surface": "מְלֵאִים",
+      "surface": "מלאים",
       "gloss": "پُر بیتنت"
     },
     {
-      "surface": "סֹלֶת",
+      "surface": "סלת",
       "gloss": "اوٹءَ"
     },
     {
-      "surface": "בְּלוּלָה",
+      "surface": "בלולה",
       "gloss": "گوندگ بوتگی"
     },
     {
-      "surface": "בַשֶּׁמֶן",
+      "surface": "בשמן",
       "gloss": "روغنءَ گوں"
     },
     {
-      "surface": "לְמִנְחָה",
+      "surface": "למנחה",
       "gloss": "پہ پیشکش"
     }
-  ],
-  "timestamp": "2026-09-25T20:09:10.025900875Z",
-  "model": "glm-5.3"
+  ]
 }

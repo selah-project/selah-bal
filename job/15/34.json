@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "job 15:34",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:23:52.059109266Z",
+  "verse": 34,
+  "ref": "job 15:34",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "کی بے‌دینانی جمع چترائی بیت ءُ آپ رشوتءِ گڈانیءَ بُرپت کنت۔",
   "tokens": [
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کی"
     },
     {
-      "surface": "עֲדַ֣ת",
+      "surface": "עדת",
       "gloss": "جمع"
     },
     {
-      "surface": "חָנֵ֣ף",
+      "surface": "חנף",
       "gloss": "بے‌دینانی"
     },
     {
-      "surface": "גַּלְמ֑וּד",
+      "surface": "גלמוד",
       "gloss": "چترائی بیت"
     },
     {
-      "surface": "וְ֝אֵ֗שׁ",
+      "surface": "ואש",
       "gloss": "ءُ آپ"
     },
     {
-      "surface": "אָכְלָ֥ה",
+      "surface": "אכלה",
       "gloss": "بُرپت کنت"
     },
     {
-      "surface": "אָֽהֳלֵי",
+      "surface": "אהלי",
       "gloss": "گڈانیءَ"
     },
     {
-      "surface": "שֹֽׁחַד",
+      "surface": "שחד",
       "gloss": "رشوتءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:23:52.059109266Z",
-  "model": "glm-5.3"
+  ]
 }

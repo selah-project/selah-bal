@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "genesis 44:9",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:00:33.739822579Z",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "tier": "glm-5.2",
   "chapter": 44,
   "translation": "آ کہ ⟨את⟩ گوں آ چہ تئے غلامانءَ پدا بیت، آ بمریت، ءُ گچین ماں بیت پہ مهءِ آقا غلامان.",
   "tokens": [
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יִמָּצֵ֥א",
+      "surface": "ימצא",
       "gloss": "پدا بیت"
     },
     {
-      "surface": "אִתּ֛וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ گوں آ",
       "marks": "آ"
     },
     {
-      "surface": "מֵעֲבָדֶ֖יךָ",
+      "surface": "מעבדיך",
       "gloss": "چہ تئے غلامانءَ"
     },
     {
-      "surface": "וָמֵ֑ת",
+      "surface": "ומת",
       "gloss": "ءُ بمریت"
     },
     {
-      "surface": "וְגַ֕ם",
+      "surface": "וגם",
       "gloss": "ءُ گچین"
     },
     {
-      "surface": "אֲנַ֕חְנוּ",
+      "surface": "אנחנו",
       "gloss": "ماں"
     },
     {
-      "surface": "נִֽהְיֶ֥ה",
+      "surface": "נהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לַֽאדֹנִ֖י",
+      "surface": "לאדני",
       "gloss": "پہ مهءِ آقا"
     },
     {
-      "surface": "לַעֲבָדִֽים",
+      "surface": "לעבדים",
       "gloss": "غلامان"
     }
-  ],
-  "timestamp": "2026-09-25T17:00:33.739822579Z",
-  "model": "glm-5.3"
+  ]
 }

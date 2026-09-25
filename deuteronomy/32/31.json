@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "deuteronomy 32:31",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:05:40.589997391Z",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "کہ آیانءِ چٹ بیتارءِ چوں نیست، ءُ گوَنڈیں ماں داوری کننت",
   "tokens": [
     {
-      "surface": "כִּ֛י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نست"
     },
     {
-      "surface": "כְצוּרֵ֖נוּ",
+      "surface": "כצורנו",
       "gloss": "بیتارءِ چوں"
     },
     {
-      "surface": "צוּרָ֑ם",
+      "surface": "צורם",
       "gloss": "آیانءِ چٹ"
     },
     {
-      "surface": "וְאֹיְבֵ֖ינוּ",
+      "surface": "ואיבינו",
       "gloss": "ءُ گوَنڈیں ماں"
     },
     {
-      "surface": "פְּלִילִֽים",
+      "surface": "פלילים",
       "gloss": "داوری کننت"
     }
-  ],
-  "timestamp": "2026-09-25T21:05:40.589997391Z",
-  "model": "glm-5.3"
+  ]
 }

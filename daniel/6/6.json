@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "daniel 6:6",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:57:39.484184695Z",
+  "verse": 6,
+  "ref": "daniel 6:6",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "آ ئین روچا اے مردمان گوشتنت: ما اے دانیالءَ ہچ بہانہ نہ لبزیت، گوَنڈے کہ آییءِ ایلوہءِ شریعتءِ بابت آییءَ لبزیت.",
   "tokens": [
     {
-      "surface": "אֱדַיִן",
+      "surface": "אדין",
       "gloss": "آ ئین روچا"
     },
     {
-      "surface": "גֻּבְרַיָּא",
+      "surface": "גבריא",
       "gloss": "مردمان"
     },
     {
-      "surface": "אִלֵּךְ",
+      "surface": "אלך",
       "gloss": "اے"
     },
     {
-      "surface": "אָמְרִין",
+      "surface": "אמרין",
       "gloss": "گوشتنت"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "לָא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "נְהַשְׁכַּח",
+      "surface": "נהשכח",
       "gloss": "لبزیت"
     },
     {
-      "surface": "לְדָנִיֵּאל",
+      "surface": "לדניאל",
       "gloss": "دانیالءَ"
     },
     {
-      "surface": "דְנָה",
+      "surface": "דנה",
       "gloss": "اے"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہچ"
     },
     {
-      "surface": "עִלָּא",
+      "surface": "עלא",
       "gloss": "بہانہ"
     },
     {
-      "surface": "לָהֵן",
+      "surface": "להן",
       "gloss": "گوَنڈے"
     },
     {
-      "surface": "הַשְׁכַּחְנָה",
+      "surface": "השכחנה",
       "gloss": "لبزیت"
     },
     {
-      "surface": "עֲלוֹהִי",
+      "surface": "עלוהי",
       "gloss": "آییءَ"
     },
     {
-      "surface": "בְּדָת",
+      "surface": "בדת",
       "gloss": "شریعتءَ"
     },
     {
-      "surface": "אֱלָהֵהּ",
+      "surface": "אלהה",
       "gloss": "ایلوہ"
     }
-  ],
-  "timestamp": "2026-09-25T14:57:39.484184695Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,94 +1,94 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "1-kings 20:23",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:58:16.140623660Z",
+  "verse": 23,
+  "ref": "1-kings 20:23",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "ءُ اَرامءِ شاہءِ چاکر آءَ گوَشتنت کہ اِشاںءِ ایلوہیم کوئانی ایلوہیم اِنت — پہ اے سبب چہ ما قوی تر اَنت؛ بلے ما گوں ⟨את⟩ اِشاں ہموارءَ جنگ کنیں؛ کیا آ کہ چہ اِشاں قوی تر نہ بائیں؟",
   "tokens": [
     {
-      "surface": "וְעַבְדֵ֨י",
+      "surface": "ועבדי",
       "gloss": "ءُ چاکر"
     },
     {
-      "surface": "מֶֽלֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "אֲרָ֜ם",
+      "surface": "ארם",
       "gloss": "اَرامءِ"
     },
     {
-      "surface": "אָמְר֣וּ",
+      "surface": "אמרו",
       "gloss": "گوَشتنت"
     },
     {
-      "surface": "אֵלָ֗יו",
+      "surface": "אליו",
       "gloss": "آءَ"
     },
     {
-      "surface": "אֱלֹהֵ֤י",
+      "surface": "אלהי",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "הָרִים֙",
+      "surface": "הרים",
       "gloss": "کوئانی"
     },
     {
-      "surface": "אֱלֹהֵיהֶ֔ם",
+      "surface": "אלהיהם",
       "gloss": "اِشاںءِ ایلوہیم"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵּ֖ן",
+      "surface": "כן",
       "gloss": "اے سبب"
     },
     {
-      "surface": "חָזְק֣וּ",
+      "surface": "חזקו",
       "gloss": "قوی تر اَنت"
     },
     {
-      "surface": "מִמֶּ֑נּוּ",
+      "surface": "ממנו",
       "gloss": "چہ ما"
     },
     {
-      "surface": "וְאוּלָ֗ם",
+      "surface": "ואולם",
       "gloss": "بلے"
     },
     {
-      "surface": "נִלָּחֵ֤ם",
+      "surface": "נלחם",
       "gloss": "جنگ کنیں"
     },
     {
-      "surface": "אִתָּם֙",
+      "surface": "אתם",
       "gloss": "گوں اِشاں ⟨את⟩",
       "marks": "اِشاںءَ"
     },
     {
-      "surface": "בַּמִּישׁ֔וֹר",
+      "surface": "במישור",
       "gloss": "ہموارءَ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "کیا"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "נֶחֱזַ֖ק",
+      "surface": "נחזק",
       "gloss": "قوی بائیں"
     },
     {
-      "surface": "מֵהֶֽם",
+      "surface": "מהם",
       "gloss": "چہ اِشاں"
     }
-  ],
-  "timestamp": "2026-09-25T12:58:16.140623660Z",
-  "model": "glm-5.3"
+  ]
 }

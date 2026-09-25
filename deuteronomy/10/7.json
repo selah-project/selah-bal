@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "deuteronomy 10:7",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:03:19.557190584Z",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "چو اوشتاں اِشاں رہ پہ گُدگُداہ کت، ءُ چہ گُدگُداہءَ پہ یوتبتہ — روڈانیں آپانی زمین۔",
   "tokens": [
     {
-      "surface": "מִשָּׁם",
+      "surface": "משם",
       "gloss": "چو اوشتاں"
     },
     {
-      "surface": "נָסְעוּ",
+      "surface": "נסעו",
       "gloss": "اِشاں رہ پہ ... کت"
     },
     {
-      "surface": "הַגֻּדְגֹּדָה",
+      "surface": "הגדגדה",
       "gloss": "گُدگُداہ"
     },
     {
-      "surface": "וּמִן",
+      "surface": "ומן",
       "gloss": "ءُ چہ"
     },
     {
-      "surface": "הַגֻּדְגֹּדָה",
+      "surface": "הגדגדה",
       "gloss": "گُدگُداہءَ"
     },
     {
-      "surface": "יָטְבָתָה",
+      "surface": "יטבתה",
       "gloss": "یوتبتہ"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "נַחֲלֵי",
+      "surface": "נחלי",
       "gloss": "روڈانیں"
     },
     {
-      "surface": "מַיִם",
+      "surface": "מים",
       "gloss": "آپانی"
     }
-  ],
-  "timestamp": "2026-09-25T15:03:19.557190584Z",
-  "model": "glm-5.3"
+  ]
 }

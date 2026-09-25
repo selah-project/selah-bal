@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "jeremiah 52:28",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:15:30.389657554Z",
+  "verse": 28,
+  "ref": "jeremiah 52:28",
+  "tier": "glm-5.2",
   "chapter": 52,
   "translation": "اے آ قوم اِنت کہ نبُوکدنئتسرءَ جلا کت، ہپتمی سالءَ: یہودیان، سئے ہزار ءُ بیست ءُ سئے.",
   "tokens": [
     {
-      "surface": "זֶ֣ה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "הָעָ֔ם",
+      "surface": "העם",
       "gloss": "⟨اے⟩ قوم"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הֶגְלָ֖ה",
+      "surface": "הגלה",
       "gloss": "جلا کت"
     },
     {
-      "surface": "נְבוּכַדְרֶאצַּ֑ר",
+      "surface": "נבוכדראצר",
       "gloss": "نبُوکدنئتسرءَ"
     },
     {
-      "surface": "בִּשְׁנַ֕ת",
+      "surface": "בשנת",
       "gloss": "سالءَ"
     },
     {
-      "surface": "שֶֽׁבַע֙",
+      "surface": "שבע",
       "gloss": "ہپتمی"
     },
     {
-      "surface": "יְהוּדִ֕ים",
+      "surface": "יהודים",
       "gloss": "یہودیان"
     },
     {
-      "surface": "שְׁלֹ֥שֶׁת",
+      "surface": "שלשת",
       "gloss": "سئے"
     },
     {
-      "surface": "אֲלָפִ֖ים",
+      "surface": "אלפים",
       "gloss": "ہزار"
     },
     {
-      "surface": "וְעֶשְׂרִ֥ים",
+      "surface": "ועשרים",
       "gloss": "ءُ بیست"
     },
     {
-      "surface": "וּשְׁלֹשָֽׁה",
+      "surface": "ושלשה",
       "gloss": "ءُ سئے"
     }
-  ],
-  "timestamp": "2026-09-25T18:15:30.389657554Z",
-  "model": "glm-5.3"
+  ]
 }

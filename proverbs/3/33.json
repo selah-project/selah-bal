@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "proverbs 3:33",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:18:20.640156750Z",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "یاہوہءِ لعنت ردیں مردمی گدانءَ اِنت، ءُ راستانیں مردمانی گڈاںءَ برکت دیت۔",
   "tokens": [
     {
-      "surface": "מְאֵרַ֣ת",
+      "surface": "מארת",
       "gloss": "لعنت"
     },
     {
-      "surface": "יְ֭הוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "בְּבֵ֣ית",
+      "surface": "בבית",
       "gloss": "گدانءَ"
     },
     {
-      "surface": "רָשָׁ֑ע",
+      "surface": "רשע",
       "gloss": "ردیں مردمی"
     },
     {
-      "surface": "וּנְוֵ֖ה",
+      "surface": "ונוה",
       "gloss": "ءُ گڈاں"
     },
     {
-      "surface": "צַדִּיקִ֣ים",
+      "surface": "צדיקים",
       "gloss": "راستانیں مردمانی"
     },
     {
-      "surface": "יְבָרֵֽךְ",
+      "surface": "יברך",
       "gloss": "برکت دیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:18:20.640156750Z",
-  "model": "glm-5.3"
+  ]
 }

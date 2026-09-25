@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "exodus 25:15",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:52:37.078456369Z",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "تابوتءِ انگوٹھانی تہ بالے بیت، چو آ چہ آءِ نہ کڈیت۔",
   "tokens": [
     {
-      "surface": "בְּטַבְּעֹת",
+      "surface": "בטבעת",
       "gloss": "انگوٹھانی تہ"
     },
     {
-      "surface": "הָאָרֹן",
+      "surface": "הארן",
       "gloss": "تابوتءِ"
     },
     {
-      "surface": "יִהְיוּ",
+      "surface": "יהיו",
       "gloss": "بیت"
     },
     {
-      "surface": "הַבַּדִּים",
+      "surface": "הבדים",
       "gloss": "بالے"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָסֻרוּ",
+      "surface": "יסרו",
       "gloss": "کڈیت"
     },
     {
-      "surface": "מִמֶּנּוּ",
+      "surface": "ממנו",
       "gloss": "چہ آءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:52:37.078456369Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,47 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "1-chronicles 5:34",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:45:57.402989698Z",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ اَحیتُبءَ ⟨את⟩ سادُک جوڑ کت، ءُ سادُکءَ ⟨את⟩ اَحیمعس جوڑ کت۔",
   "tokens": [
     {
-      "surface": "וַאֲחִיטוּב֙",
+      "surface": "ואחיטוב",
       "gloss": "ءُ اَحیتُبءَ"
     },
     {
-      "surface": "הוֹלִ֣יד",
+      "surface": "הוליד",
       "gloss": "جوڑ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سادُک"
     },
     {
-      "surface": "צָד֔וֹק",
+      "surface": "צדוק",
       "gloss": "سادُک"
     },
     {
-      "surface": "וְצָד֖וֹק",
+      "surface": "וצדוק",
       "gloss": "ءُ سادُکءَ"
     },
     {
-      "surface": "הוֹלִ֥יד",
+      "surface": "הוליד",
       "gloss": "جوڑ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَحیمعس"
     },
     {
-      "surface": "אֲחִימָֽעַץ",
+      "surface": "אחימעץ",
       "gloss": "اَحیمعس"
     }
-  ],
-  "timestamp": "2026-09-25T12:45:57.402989698Z",
-  "model": "glm-5.3"
+  ]
 }

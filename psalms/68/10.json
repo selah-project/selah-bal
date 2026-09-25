@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "psalms 68:10",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:44:10.034361326Z",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "tier": "glm-5.2",
   "chapter": 68,
   "translation": "راضیءِ بخششانءِ بارش، ایلوہیم، تو پھینت؛ تُئے ورثت ءُ ماندگ بوت، تو آءَ پکا کت۔",
   "tokens": [
     {
-      "surface": "גֶּ֣שֶׁם",
+      "surface": "גשם",
       "gloss": "بارش"
     },
     {
-      "surface": "נְ֭דָבוֹת",
+      "surface": "נדבות",
       "gloss": "راضیءِ بخششانءِ"
     },
     {
-      "surface": "תָּנִ֣יף",
+      "surface": "תניף",
       "gloss": "تو پھینت"
     },
     {
-      "surface": "אֱלֹהִ֑ים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "נַחֲלָתְךָ֥",
+      "surface": "נחלתך",
       "gloss": "تُئے ورثت"
     },
     {
-      "surface": "וְ֝נִלְאָ֗ה",
+      "surface": "ונלאה",
       "gloss": "ءُ ماندگ بوت"
     },
     {
-      "surface": "אַתָּ֥ה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "כּוֹנַנְתָּֽהּ",
+      "surface": "כוננתה",
       "gloss": "آءَ پکا کت"
     }
-  ],
-  "timestamp": "2026-09-25T20:44:10.034361326Z",
-  "model": "glm-5.3"
+  ]
 }

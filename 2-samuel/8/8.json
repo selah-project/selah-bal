@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "2-samuel 8:8",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:44:00.093228049Z",
+  "verse": 8,
+  "ref": "2-samuel 8:8",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ چہ تِبح ءُ چہ بِروتھای، ہدادءِ-عَزرءِ شاراں، شاہ داود چہ آیاں گیش مِس گپت۔",
   "tokens": [
     {
-      "surface": "וּמִבֶּ֥טַח",
+      "surface": "ומבטח",
       "gloss": "ءُ چہ تِبح"
     },
     {
-      "surface": "וּמִבֵּֽרֹתַ֖י",
+      "surface": "ומברתי",
       "gloss": "ءُ چہ بِروتھای"
     },
     {
-      "surface": "עָרֵ֣י",
+      "surface": "ערי",
       "gloss": "شاراں"
     },
     {
-      "surface": "הֲדַדְעָ֑זֶר",
+      "surface": "הדדעזר",
       "gloss": "ہدادءِ-عَزرءِ"
     },
     {
-      "surface": "לָקַ֞ח",
+      "surface": "לקח",
       "gloss": "گپت"
     },
     {
-      "surface": "הַמֶּ֥לֶךְ",
+      "surface": "המלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "דָּוִ֛ד",
+      "surface": "דוד",
       "gloss": "داود"
     },
     {
-      "surface": "נְחֹ֖שֶׁת",
+      "surface": "נחשת",
       "gloss": "مِس"
     },
     {
-      "surface": "הַרְבֵּ֥ה",
+      "surface": "הרבה",
       "gloss": "گیش"
     },
     {
-      "surface": "מְאֹֽד",
+      "surface": "מאד",
       "gloss": "چہ آیاں"
     }
-  ],
-  "timestamp": "2026-09-25T14:44:00.093228049Z",
-  "model": "glm-5.3"
+  ]
 }

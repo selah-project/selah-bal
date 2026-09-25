@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "song-of-songs 7:1",
   "book": "song-of-songs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:54:26.780423011Z",
+  "verse": 1,
+  "ref": "song-of-songs 7:1",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "پدا آ، پدا آ، اے شولامیت؛ پدا آ، پدا آ تا ما ⟨تو⟩ءَ گندیں۔ اے شولامیتءَ چہ گندیں؟ چوش رونمای ماحانیمءِ۔",
   "tokens": [
     {
-      "surface": "שׁוּבִי",
+      "surface": "שובי",
       "gloss": "پدا آ"
     },
     {
-      "surface": "שׁוּבִי",
+      "surface": "שובי",
       "gloss": "پدا آ"
     },
     {
-      "surface": "הַשּׁוּלַמִּית",
+      "surface": "השולמית",
       "gloss": "اے شولامیت"
     },
     {
-      "surface": "שׁוּבִי",
+      "surface": "שובי",
       "gloss": "پدا آ"
     },
     {
-      "surface": "שׁוּבִי",
+      "surface": "שובי",
       "gloss": "پدا آ"
     },
     {
-      "surface": "וְנֶחֱזֶה",
+      "surface": "ונחזה",
       "gloss": "ءُ گند بیت"
     },
     {
-      "surface": "בָּךְ",
+      "surface": "בך",
       "gloss": "توءَ"
     },
     {
-      "surface": "מַה",
+      "surface": "מה",
       "gloss": "چہ"
     },
     {
-      "surface": "תֶּחֱזוּ",
+      "surface": "תחזו",
       "gloss": "گندیں"
     },
     {
-      "surface": "בַּשּׁוּלַמִּית",
+      "surface": "בשולמית",
       "gloss": "شولامیتءَ"
     },
     {
-      "surface": "כִּמְחֹלַת",
+      "surface": "כמחלת",
       "gloss": "چوش رونمای"
     },
     {
-      "surface": "הַמַּחֲנָיִם",
+      "surface": "המחנים",
       "gloss": "ماحانیمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:54:26.780423011Z",
-  "model": "glm-5.3"
+  ]
 }

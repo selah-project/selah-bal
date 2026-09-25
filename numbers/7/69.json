@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 69,
-  "ref": "numbers 7:69",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:07:28.166089977Z",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "یک گاو نر، یک مالءِ زہگ، یک قوچ، یک برہ، یک سالءِ زہگ، پہ سوچگیں قربانی۔",
   "tokens": [
     {
-      "surface": "פַּ֣ר",
+      "surface": "פר",
       "gloss": "یک گاو نر"
     },
     {
-      "surface": "אֶחָ֞ד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "בָּקָ֗ר",
+      "surface": "בקר",
       "gloss": "مال"
     },
     {
-      "surface": "אַ֧יִל",
+      "surface": "איל",
       "gloss": "یک قوچ"
     },
     {
-      "surface": "אֶחָ֛ד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "כֶּֽבֶשׂ",
+      "surface": "כבש",
       "gloss": "یک برہ"
     },
     {
-      "surface": "אֶחָ֥ד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "שְׁנָת֖וֹ",
+      "surface": "שנתו",
       "gloss": "یک سال"
     },
     {
-      "surface": "לְעֹלָֽה",
+      "surface": "לעלה",
       "gloss": "پہ سوچگیں قربانی"
     }
-  ],
-  "timestamp": "2026-09-25T20:07:28.166089977Z",
-  "model": "glm-5.3"
+  ]
 }

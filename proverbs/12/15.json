@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "proverbs 12:15",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:12:19.498354566Z",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "اِوِیلءِ رہ رست اِنت آییءِ ماںچاں ءُ جو کہ مشورتءَ گوشیت اِنت حکیم۔",
   "tokens": [
     {
-      "surface": "דֶּ֣רֶךְ",
+      "surface": "דרך",
       "gloss": "رہ"
     },
     {
-      "surface": "אֱ֭וִיל",
+      "surface": "אויל",
       "gloss": "اِوِیلءِ"
     },
     {
-      "surface": "יָשָׁ֣ר",
+      "surface": "ישר",
       "gloss": "رست"
     },
     {
-      "surface": "בְּעֵינָ֑יו",
+      "surface": "בעיניו",
       "gloss": "آییءِ ماںچاں"
     },
     {
-      "surface": "וְשֹׁמֵ֖עַ",
+      "surface": "ושמע",
       "gloss": "ءُ جو کہ گوشیت اِنت"
     },
     {
-      "surface": "לְעֵצָ֣ה",
+      "surface": "לעצה",
       "gloss": "مشورتءَ"
     },
     {
-      "surface": "חָכָֽם",
+      "surface": "חכם",
       "gloss": "حکیم"
     }
-  ],
-  "timestamp": "2026-09-25T20:12:19.498354566Z",
-  "model": "glm-5.3"
+  ]
 }

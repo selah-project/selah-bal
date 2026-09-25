@@ -1,62 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "leviticus 2:9",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:21:37.809807842Z",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ کاہن مِنچاہی چہ یک پارہءَ اُٹرِیت — ⟨את⟩ آییءِ یادگاری بُرکءَ — ءُ قربانگاہءَ دُکِیت، آتشءِ قربانیءِ چوش، آرامءِ بوءِ پہ یاہوہءَ۔",
   "tokens": [
     {
-      "surface": "וְהֵרִים",
+      "surface": "והרים",
       "gloss": "ءُ اُٹرِیت"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַמִּנְחָה",
+      "surface": "המנחה",
       "gloss": "مِنچاہی چہ یک پارہءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ یادگاری بُرکءَ"
     },
     {
-      "surface": "אַזְכָּרָתָהּ",
+      "surface": "אזכרתה",
       "gloss": "آییءِ یادگاری بُرکءَ"
     },
     {
-      "surface": "וְהִקְטִיר",
+      "surface": "והקטיר",
       "gloss": "ءُ دُکِیت"
     },
     {
-      "surface": "הַמִּזְבֵּחָה",
+      "surface": "המזבחה",
       "gloss": "قربانگاہءَ"
     },
     {
-      "surface": "אִשֶּׁה",
+      "surface": "אשה",
       "gloss": "آتشءِ قربانیءِ چوش"
     },
     {
-      "surface": "רֵיחַ",
+      "surface": "ריח",
       "gloss": "بوءِ"
     },
     {
-      "surface": "נִיחֹחַ",
+      "surface": "ניחח",
       "gloss": "آرامءِ"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "پہ یاہوہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:21:37.809807842Z",
-  "model": "glm-5.3"
+  ]
 }

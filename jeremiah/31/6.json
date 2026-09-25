@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "jeremiah 31:6",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:55:58.795911963Z",
+  "verse": 6,
+  "ref": "jeremiah 31:6",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "چوں کہ یک روچ ہست اِنت، نگران اِفرییمءِ کَہءَ بانگ کننت: «اُڑسیں! ءُ رسیں چڑھیں سیونءَ، چُ اے یاہوہءَ، شماییں ایلوہیمءَ!»",
   "tokens": [
@@ -12,54 +14,52 @@
       "gloss": "چوں کہ"
     },
     {
-      "surface": "יֵשׁ",
+      "surface": "יש",
       "gloss": "ہست اِنت"
     },
     {
-      "surface": "יוֹם",
+      "surface": "יום",
       "gloss": "روچ"
     },
     {
-      "surface": "קָרְאוּ",
+      "surface": "קראו",
       "gloss": "بانگ کننت"
     },
     {
-      "surface": "נֹצְרִים",
+      "surface": "נצרים",
       "gloss": "نگران"
     },
     {
-      "surface": "בְּהַר",
+      "surface": "בהר",
       "gloss": "کَہءَ تہ"
     },
     {
-      "surface": "אֶפְרַיִם",
+      "surface": "אפרים",
       "gloss": "اِفرییم"
     },
     {
-      "surface": "קוּמוּ",
+      "surface": "קומו",
       "gloss": "اُڑسیں"
     },
     {
-      "surface": "וְנַעֲלֶה",
+      "surface": "ונעלה",
       "gloss": "ءُ رسیں چڑھیں"
     },
     {
-      "surface": "צִיּוֹן",
+      "surface": "ציון",
       "gloss": "سیونءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "چُ اے...ءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵינוּ",
+      "surface": "אלהינו",
       "gloss": "شماییں ایلوہیم"
     }
-  ],
-  "timestamp": "2026-09-25T17:55:58.795911963Z",
-  "model": "glm-5.3"
+  ]
 }

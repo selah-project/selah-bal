@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "jeremiah 7:29",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:18:09.441072609Z",
+  "verse": 29,
+  "ref": "jeremiah 7:29",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "کَپ تُءِ نذری ءُ درگُش کت، ءُ کوٹانیں اُچ جاگاںءَ سرءَ ماتمی نغمہ بلند کت — چی کہ یاہوہءَ رد کتگ ءُ ⟨את⟩ وتءِ قہرءِ دوری چینک کتگ۔",
   "tokens": [
     {
-      "surface": "גָּזִּי",
+      "surface": "גזי",
       "gloss": "کَپ"
     },
     {
-      "surface": "נִזְרֵךְ",
+      "surface": "נזרך",
       "gloss": "تُءِ نذری"
     },
     {
-      "surface": "וְהַשְׁלִיכִי",
+      "surface": "והשליכי",
       "gloss": "ءُ درگُش کت"
     },
     {
-      "surface": "וּשְׂאִי",
+      "surface": "ושאי",
       "gloss": "ءُ بلند کت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "שְׁפָיִם",
+      "surface": "שפים",
       "gloss": "کوٹانیں اُچ جاگاں"
     },
     {
-      "surface": "קִינָה",
+      "surface": "קינה",
       "gloss": "ماتمی نغمہ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "چی کہ"
     },
     {
-      "surface": "מָאַס",
+      "surface": "מאס",
       "gloss": "رد کتگ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וַיִּטֹּשׁ",
+      "surface": "ויטש",
       "gloss": "ءُ چینک کتگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتءِ قہرءِ دوری"
     },
     {
-      "surface": "דּוֹר",
+      "surface": "דור",
       "gloss": "دوری"
     },
     {
-      "surface": "עֶבְרָתוֹ",
+      "surface": "עברתו",
       "gloss": "وتءِ قہرءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:18:09.441072609Z",
-  "model": "glm-5.3"
+  ]
 }

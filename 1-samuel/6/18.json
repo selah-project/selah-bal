@@ -1,130 +1,130 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "1-samuel 6:18",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:35:18.186835404Z",
+  "verse": 18,
+  "ref": "1-samuel 6:18",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ زریں مشان — شمار چل شارانی فلستیانی پہ پنچ سرانی — چہ قلعہ شارءَ ءُ تا کُفر ہپرازی، ءُ تا اَبِل گڈگ، آ کہ وتے آییءِ سرا ⟨את⟩ یاہوہءِ صندوق ءَ ایشت کتگ، تا اے روچ اے روچ، یہوشوع بیت شمشیءِ میدانءَ۔",
   "tokens": [
     {
-      "surface": "וְעַכְבְּרֵי",
+      "surface": "ועכברי",
       "gloss": "ءُ زریں مشان"
     },
     {
-      "surface": "הַזָּהָב",
+      "surface": "הזהב",
       "gloss": "زریں"
     },
     {
-      "surface": "מִסְפַּר",
+      "surface": "מספר",
       "gloss": "شمار"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "چل"
     },
     {
-      "surface": "עָרֵי",
+      "surface": "ערי",
       "gloss": "شارانی"
     },
     {
-      "surface": "פְּלִשְׁתִּים",
+      "surface": "פלשתים",
       "gloss": "فلستیانی"
     },
     {
-      "surface": "לַחֲמֵשֶׁת",
+      "surface": "לחמשת",
       "gloss": "پہ پنچ"
     },
     {
-      "surface": "הַסְּרָנִים",
+      "surface": "הסרנים",
       "gloss": "سران"
     },
     {
-      "surface": "מֵעִיר",
+      "surface": "מעיר",
       "gloss": "چہ شار"
     },
     {
-      "surface": "מִבְצָר",
+      "surface": "מבצר",
       "gloss": "قلعہ"
     },
     {
-      "surface": "וְעַד",
+      "surface": "ועד",
       "gloss": "ءُ تا"
     },
     {
-      "surface": "כֹּפֶר",
+      "surface": "כפר",
       "gloss": "کُفر"
     },
     {
-      "surface": "הַפְּרָזִי",
+      "surface": "הפרזי",
       "gloss": "ہپرازی"
     },
     {
-      "surface": "וְעַד",
+      "surface": "ועד",
       "gloss": "ءُ تا"
     },
     {
-      "surface": "אָבֵל",
+      "surface": "אבל",
       "gloss": "اَبِل"
     },
     {
-      "surface": "הַגְּדוֹלָה",
+      "surface": "הגדולה",
       "gloss": "گڈگ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "הִנִּיחוּ",
+      "surface": "הניחו",
       "gloss": "ایشت کتگ"
     },
     {
-      "surface": "עָלֶיהָ",
+      "surface": "עליה",
       "gloss": "آییءِ سرا"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءِ صندوق"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "اے روچ"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "בִּשְׂדֵה",
+      "surface": "בשדה",
       "gloss": "میدانءَ"
     },
     {
-      "surface": "יְהוֹשֻׁעַ",
+      "surface": "יהושע",
       "gloss": "یہوشوع"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "بیت"
     },
     {
-      "surface": "הַשִּׁמְשִׁי",
+      "surface": "השמשי",
       "gloss": "شمشی"
     }
-  ],
-  "timestamp": "2026-09-25T13:35:18.186835404Z",
-  "model": "glm-5.3"
+  ]
 }

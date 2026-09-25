@@ -1,42 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "psalms 136:8",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:30:32.913183905Z",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "tier": "glm-5.2",
   "chapter": 136,
   "translation": "⟨את⟩ رُچءِ مہربانءَ پہ دمی روچءِ مہربانیءَ، پرچا کہ اِییءِ ہیسید پہ ہمیشہ اِنت.",
   "tokens": [
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "رُچ (شمس)"
     },
     {
-      "surface": "הַ֭שֶּׁמֶשׁ",
+      "surface": "השמש",
       "gloss": "رُچ"
     },
     {
-      "surface": "לְמֶמְשֶׁ֣לֶת",
+      "surface": "לממשלת",
       "gloss": "پہ مہربانی"
     },
     {
-      "surface": "בַּיּ֑וֹם",
+      "surface": "ביום",
       "gloss": "دمی روچءَ"
     },
     {
-      "surface": "כִּ֖י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "לְעוֹלָ֣ם",
+      "surface": "לעולם",
       "gloss": "پہ ہمیشہ"
     },
     {
-      "surface": "חַסְדּֽוֹ",
+      "surface": "חסדו",
       "gloss": "اِییءِ ہیسید"
     }
-  ],
-  "timestamp": "2026-09-25T20:30:32.913183905Z",
-  "model": "glm-5.3"
+  ]
 }

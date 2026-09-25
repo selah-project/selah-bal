@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "psalms 96:10",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:50:19.021418499Z",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "tier": "glm-5.2",
   "chapter": 96,
   "translation": "قومانءِ میانءَ گوَشو: یاہوہ بادشاہی کت؛ آ چُوں تیبیلءِ ڈنگ جوڑ بیت کہ آ نہ لرزیت؛ آ قومانءَ گوں راستیءَ داوری کنت.",
   "tokens": [
     {
-      "surface": "אִמְר֤וּ",
+      "surface": "אמרו",
       "gloss": "گوَشو"
     },
     {
-      "surface": "בַּגּוֹיִ֨ם",
+      "surface": "בגוים",
       "gloss": "قومانءِ میانءَ"
     },
     {
-      "surface": "יְהוָ֘ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "מָלָ֗ךְ",
+      "surface": "מלך",
       "gloss": "بادشاہی کت"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "آ چُوں"
     },
     {
-      "surface": "תִּכּ֣וֹן",
+      "surface": "תכון",
       "gloss": "جوڑ بیت"
     },
     {
-      "surface": "תֵּבֵ֭ל",
+      "surface": "תבל",
       "gloss": "تیبیل"
     },
     {
-      "surface": "בַּל",
+      "surface": "בל",
       "gloss": "نہ"
     },
     {
-      "surface": "תִּמּ֑וֹט",
+      "surface": "תמוט",
       "gloss": "لرزیت"
     },
     {
-      "surface": "יָדִ֥ין",
+      "surface": "ידין",
       "gloss": "داوری کنت"
     },
     {
-      "surface": "עַ֝מִּ֗ים",
+      "surface": "עמים",
       "gloss": "قومانءَ"
     },
     {
-      "surface": "בְּמֵישָׁרִֽים",
+      "surface": "במישרים",
       "gloss": "گوں راستیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:50:19.021418499Z",
-  "model": "glm-5.3"
+  ]
 }

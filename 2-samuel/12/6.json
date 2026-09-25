@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "2-samuel 12:6",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:27:12.500665363Z",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "ءُ ⟨את⟩ گوتریچاں چار برابر پس بِت دیت، پڈی کہ آییءَ ⟨את⟩ اے گال کت ءُ پڈی کہ آیی رحم نہ کت۔",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گوتریچاں"
     },
     {
-      "surface": "הַכִּבְשָׂ֖ה",
+      "surface": "הכבשה",
       "gloss": "گوتریچاں"
     },
     {
-      "surface": "יְשַׁלֵּ֣ם",
+      "surface": "ישלם",
       "gloss": "پس بِت دیت"
     },
     {
-      "surface": "אַרְבַּעְתָּ֑יִם",
+      "surface": "ארבעתים",
       "gloss": "چار برابر"
     },
     {
-      "surface": "עֵ֗קֶב",
+      "surface": "עקב",
       "gloss": "پڈی کہ"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָשָׂה֙",
+      "surface": "עשה",
       "gloss": "کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے گال"
     },
     {
-      "surface": "הַדָּבָ֣ר",
+      "surface": "הדבר",
       "gloss": "اے گال"
     },
     {
-      "surface": "הַזֶּ֔ה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "וְעַ֖ל",
+      "surface": "ועל",
       "gloss": "ءُ پڈی کہ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "חָמָֽל",
+      "surface": "חמל",
       "gloss": "رحم کت"
     }
-  ],
-  "timestamp": "2026-09-25T14:27:12.500665363Z",
-  "model": "glm-5.3"
+  ]
 }

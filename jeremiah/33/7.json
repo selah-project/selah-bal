@@ -1,51 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "jeremiah 33:7",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:01:02.407920253Z",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ من ⟨את⟩ یہودہءِ وشتی ءُ ⟨את⟩ یسرائیلءِ وشتی پدا اَنت کوں، ءُ ⟨اِشاں⟩ چوش کہ اولی وہدءَ جوڑ کوں۔",
   "tokens": [
     {
-      "surface": "וַהֲשִֽׁבֹתִי֙",
+      "surface": "והשבתי",
       "gloss": "ءُ من پدا اَنت کوں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یہودہءِ وشتی"
     },
     {
-      "surface": "שְׁב֣וּת",
+      "surface": "שבות",
       "gloss": "وشتی"
     },
     {
-      "surface": "יְהוּדָ֔ה",
+      "surface": "יהודה",
       "gloss": "یہودہ"
     },
     {
-      "surface": "וְאֵ֖ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "یسرائیلءِ وشتی"
     },
     {
-      "surface": "שְׁב֣וּת",
+      "surface": "שבות",
       "gloss": "وشتی"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "וּבְנִתִ֖ים",
+      "surface": "ובנתים",
       "gloss": "ءُ جوڑ کوں"
     },
     {
-      "surface": "כְּבָרִֽאשֹׁנָֽה",
+      "surface": "כבראשנה",
       "gloss": "چوش کہ اولی وہدءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:01:02.407920253Z",
-  "model": "glm-5.3"
+  ]
 }

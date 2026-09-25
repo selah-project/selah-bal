@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "genesis 27:13",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:09:44.738197341Z",
+  "verse": 13,
+  "ref": "genesis 27:13",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ آییءِ ماں آییءَ گوَشت: «تہءِ مرین منی سر اِنت، منی زہگا؛ بےتر گوں منی آوازءَ گوش ءُ روت ءُ منی پہ گپت»۔",
   "tokens": [
     {
-      "surface": "וַתֹּאמֶר",
+      "surface": "ותאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "אִמּוֹ",
+      "surface": "אמו",
       "gloss": "آییءِ ماں"
     },
     {
-      "surface": "עָלַי",
+      "surface": "עלי",
       "gloss": "منی سر"
     },
     {
-      "surface": "קְלָלָתְךָ",
+      "surface": "קללתך",
       "gloss": "تہءِ مرین"
     },
     {
-      "surface": "בְּנִי",
+      "surface": "בני",
       "gloss": "منی زہگا"
     },
     {
-      "surface": "אַךְ",
+      "surface": "אך",
       "gloss": "بےتر"
     },
     {
-      "surface": "שְׁמַע",
+      "surface": "שמע",
       "gloss": "گوش"
     },
     {
-      "surface": "בְּקוֹלִי",
+      "surface": "בקלי",
       "gloss": "گوں منی آوازءَ"
     },
     {
-      "surface": "וָלֵךְ",
+      "surface": "ולך",
       "gloss": "ءُ روت"
     },
     {
-      "surface": "קַח",
+      "surface": "קח",
       "gloss": "گپت"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "منی پہ"
     }
-  ],
-  "timestamp": "2026-09-25T21:09:44.738197341Z",
-  "model": "glm-5.3"
+  ]
 }

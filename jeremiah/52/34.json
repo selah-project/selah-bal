@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "jeremiah 52:34",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:16:18.548675541Z",
+  "verse": 34,
+  "ref": "jeremiah 52:34",
+  "tier": "glm-5.2",
   "chapter": 52,
   "translation": "ءُ آییءِ رزق، رزقی پُج، آییءَ چہ ⟨את⟩ بابلءِ شاہءَ داتگ بوت — یک روچءِ چیز آییءِ روچءَ، تا آییءِ مرگءِ روچ، آییءِ زندگیءِ یکلے روچان۔",
   "tokens": [
     {
-      "surface": "וַאֲרֻחָתוֹ",
+      "surface": "וארחתו",
       "gloss": "ءُ آییءِ رزق"
     },
     {
-      "surface": "אֲרֻחַת",
+      "surface": "ארחת",
       "gloss": "رزقی"
     },
     {
-      "surface": "תָּמִיד",
+      "surface": "תמיד",
       "gloss": "پُج"
     },
     {
-      "surface": "נִתְּנָה",
+      "surface": "נתנה",
       "gloss": "داتگ بوت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "מֵאֵת",
+      "surface": "מאת",
       "gloss": "چہ ⟨את⟩",
       "marks": "بابلءِ شاہ"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "בָּבֶל",
+      "surface": "בבל",
       "gloss": "بابل"
     },
     {
-      "surface": "דְּבַר",
+      "surface": "דבר",
       "gloss": "چیز"
     },
     {
-      "surface": "יוֹם",
+      "surface": "יום",
       "gloss": "روچءِ"
     },
     {
-      "surface": "בְּיוֹמוֹ",
+      "surface": "ביומו",
       "gloss": "آییءِ روچءَ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "יוֹם",
+      "surface": "יום",
       "gloss": "روچءِ"
     },
     {
-      "surface": "מוֹתוֹ",
+      "surface": "מותו",
       "gloss": "آییءِ مرگ"
     },
     {
-      "surface": "כֹּל",
+      "surface": "כל",
       "gloss": "یکلے"
     },
     {
-      "surface": "יְמֵי",
+      "surface": "ימי",
       "gloss": "روچان"
     },
     {
-      "surface": "חַיָּיו",
+      "surface": "חייו",
       "gloss": "آییءِ زندگی"
     }
-  ],
-  "timestamp": "2026-09-25T18:16:18.548675541Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,91 +1,91 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "jeremiah 33:22",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:01:28.934441796Z",
+  "verse": 22,
+  "ref": "jeremiah 33:22",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "جہاں کہ آسمانءِ لشکر شمار نہ بیت ءُ دریاءِ ریگ نہ پیمائیت، ہمے چوش آئے ⟨את⟩ داودءِ زہر، ماںءِ غلام، ءُ ⟨את⟩ لاویان، ماںءِ خدمتگار کہ مٲءَ خدمت کننت، گیش کنت۔",
   "tokens": [
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "جہاں کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִסָּפֵר",
+      "surface": "יספר",
       "gloss": "شمار بیت"
     },
     {
-      "surface": "צְבָא",
+      "surface": "צבא",
       "gloss": "لشکر"
     },
     {
-      "surface": "הַשָּׁמַיִם",
+      "surface": "השמים",
       "gloss": "آسمانءِ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִמַּד",
+      "surface": "ימד",
       "gloss": "پیمائیت"
     },
     {
-      "surface": "חוֹל",
+      "surface": "חול",
       "gloss": "ریگ"
     },
     {
-      "surface": "הַיָּם",
+      "surface": "הים",
       "gloss": "دریاءِ"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "ہمے چوش"
     },
     {
-      "surface": "אַרְבֶּה",
+      "surface": "ארבה",
       "gloss": "گیش کنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "داودءِ زہر"
     },
     {
-      "surface": "זֶרַע",
+      "surface": "זרע",
       "gloss": "زہر"
     },
     {
-      "surface": "דָּוִד",
+      "surface": "דוד",
       "gloss": "داودءِ"
     },
     {
-      "surface": "עַבְדִּי",
+      "surface": "עבדי",
       "gloss": "ماںءِ غلام"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "لاویان"
     },
     {
-      "surface": "הַלְוִיִּם",
+      "surface": "הלוים",
       "gloss": "لاویان"
     },
     {
-      "surface": "מְשָׁרְתֵי",
+      "surface": "משרתי",
       "gloss": "خدمتگار کہ مٲءَ خدمت کننت"
     },
     {
-      "surface": "אֹתִי",
+      "surface": "אתי",
       "gloss": "⟨את⟩ مٲ"
     }
-  ],
-  "timestamp": "2026-09-25T18:01:28.934441796Z",
-  "model": "glm-5.3"
+  ]
 }

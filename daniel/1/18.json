@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "daniel 1:18",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:50:02.110888032Z",
+  "verse": 18,
+  "ref": "daniel 1:18",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ روچانی انتہاءَ کہ بادشاہءَ گوَشت کہ آیانءَ اَرێت، خواجگانءِ سردار آیانءَ نبودکدنضرءِ پیشءَ اَورَت.",
   "tokens": [
     {
-      "surface": "וּלְמִקְצָת",
+      "surface": "ולמקצת",
       "gloss": "ءُ روچانی انتہاءَ کہ"
     },
     {
-      "surface": "הַיָּמִים",
+      "surface": "הימים",
       "gloss": "روچانی"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "بادشاہءَ"
     },
     {
-      "surface": "לַהֲבִיאָם",
+      "surface": "להביאם",
       "gloss": "کہ آیانءَ اَرێت"
     },
     {
-      "surface": "וַיְבִיאֵם",
+      "surface": "ויביאם",
       "gloss": "ءُ آیانءَ اَورَت"
     },
     {
-      "surface": "שַׂר",
+      "surface": "שר",
       "gloss": "سردار"
     },
     {
-      "surface": "הַסָּרִיסִים",
+      "surface": "הסריסים",
       "gloss": "خواجگانءِ"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "נְבֻכַדְנֶצַּר",
+      "surface": "נבכדנצר",
       "gloss": "نبودکدنضر"
     }
-  ],
-  "timestamp": "2026-09-25T14:50:02.110888032Z",
-  "model": "glm-5.3"
+  ]
 }

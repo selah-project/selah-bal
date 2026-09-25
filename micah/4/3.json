@@ -1,109 +1,109 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "micah 4:3",
   "book": "micah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:31:58.518995060Z",
+  "verse": 3,
+  "ref": "micah 4:3",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ آ ڈاوری کنت میان گیشتری قومان، ءُ پد چمگ دیت پہ زوروار قومان تان دورءَ؛ ءُ اِشانءِ ترخوان ءَ ٹوکا کننت پہ کاہنے، ءُ اِشانءِ نیزے ءَ گلانے درونکارا؛ نہ یک قوم پہ یک قوم ترخو اُچیت، ءُ نہ دیم جنگءِ سیکار بیت.",
   "tokens": [
     {
-      "surface": "וְשָׁפַט",
+      "surface": "ושפט",
       "gloss": "ءُ ڈاوری کنت"
     },
     {
-      "surface": "בֵּין",
+      "surface": "בין",
       "gloss": "میان"
     },
     {
-      "surface": "עַמִּים",
+      "surface": "עמים",
       "gloss": "قومان"
     },
     {
-      "surface": "רַבִּים",
+      "surface": "רבים",
       "gloss": "گیشتر"
     },
     {
-      "surface": "וְהוֹכִיחַ",
+      "surface": "והוכיח",
       "gloss": "ءُ پد چمگ دیت"
     },
     {
-      "surface": "לְגוֹיִם",
+      "surface": "לגוים",
       "gloss": "پہ قومان"
     },
     {
-      "surface": "עֲצֻמִים",
+      "surface": "עצמים",
       "gloss": "زوروار"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تان"
     },
     {
-      "surface": "רָחוֹק",
+      "surface": "רחוק",
       "gloss": "دور"
     },
     {
-      "surface": "וְכִתְּת֨וּ",
+      "surface": "וכתתו",
       "gloss": "ءُ ٹوکا کننت"
     },
     {
-      "surface": "חַרְבֹתֵיהֶם",
+      "surface": "חרבתיהם",
       "gloss": "اِشانءِ ترخوان"
     },
     {
-      "surface": "לְאִתִּים",
+      "surface": "לאתים",
       "gloss": "پہ کاہنے"
     },
     {
-      "surface": "וַחֲנִיתֹתֵיהֶם",
+      "surface": "וחניתתיהם",
       "gloss": "ءُ اِشانءِ نیزے"
     },
     {
-      "surface": "לְמַזְמֵרוֹת",
+      "surface": "למזמרות",
       "gloss": "پہ گلانے درونکارا"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִשְׂאוּ",
+      "surface": "ישאו",
       "gloss": "اُچیت"
     },
     {
-      "surface": "גּוֹי",
+      "surface": "גוי",
       "gloss": "قوم"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "גּוֹי",
+      "surface": "גוי",
       "gloss": "قوم"
     },
     {
-      "surface": "חֶרֶב",
+      "surface": "חרב",
       "gloss": "ترخو"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִלְמְד֥וּן",
+      "surface": "ילמדון",
       "gloss": "سیکار بیت"
     },
     {
-      "surface": "ע֕וֹד",
+      "surface": "עוד",
       "gloss": "دیم"
     },
     {
-      "surface": "מִלְחָמָה",
+      "surface": "מלחמה",
       "gloss": "جنگ"
     }
-  ],
-  "timestamp": "2026-09-25T19:31:58.518995060Z",
-  "model": "glm-5.3"
+  ]
 }

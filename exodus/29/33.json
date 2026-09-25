@@ -1,80 +1,80 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "exodus 29:33",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:56:52.108235091Z",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ چُکیت ⟨את⟩ آیانءَ — آ جنام کہ کفارت پہ آیان کتگ، پہ پُر کنگ ⟨את⟩ وتی دستاں، پہ پاک کنگ ⟨את⟩ آیانءَ؛ ءُ بیگانگ آ نہ چُکیت، پرچا آ پاک اِنت۔",
   "tokens": [
     {
-      "surface": "וְאָכְלוּ",
+      "surface": "ואכלו",
       "gloss": "ءُ چُکیت"
     },
     {
-      "surface": "אֹתָם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "آ چیزاں"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ جنام"
     },
     {
-      "surface": "כֻּפַּר",
+      "surface": "כפר",
       "gloss": "کفارت کتگ"
     },
     {
-      "surface": "בָּהֶם",
+      "surface": "בהם",
       "gloss": "پہ آیان"
     },
     {
-      "surface": "לְמַלֵּא",
+      "surface": "למלא",
       "gloss": "پہ پُر کنگءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی دستاں"
     },
     {
-      "surface": "יָדָם",
+      "surface": "ידם",
       "gloss": "وتی دستاں"
     },
     {
-      "surface": "לְקַדֵּשׁ",
+      "surface": "לקדש",
       "gloss": "پہ پاک کنگءَ"
     },
     {
-      "surface": "אֹתָם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "آیان"
     },
     {
-      "surface": "וְזָר",
+      "surface": "וזר",
       "gloss": "ءُ بیگانگ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יֹאכַל",
+      "surface": "יאכל",
       "gloss": "چُکیت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا"
     },
     {
-      "surface": "קֹדֶשׁ",
+      "surface": "קדש",
       "gloss": "پاک"
     },
     {
-      "surface": "הֵם",
+      "surface": "הם",
       "gloss": "آ"
     }
-  ],
-  "timestamp": "2026-09-25T15:56:52.108235091Z",
-  "model": "glm-5.3"
+  ]
 }

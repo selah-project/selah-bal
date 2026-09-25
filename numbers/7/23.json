@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "numbers 7:23",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:06:35.601447706Z",
+  "verse": 23,
+  "ref": "numbers 7:23",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ پہ شالامیمءِ قربانیءَ مال دو، گوپتان پنچ، ٹکّاں پنچ، ماہیگانءِ بچہ پنچ، سالءِ زہگ، اے نِتانئیلءِ زہگءِ قربان اِنت، سوئارءِ زہگ۔",
   "tokens": [
     {
-      "surface": "וּלְזֶ֣בַח",
+      "surface": "ולזבח",
       "gloss": "ءُ پہ قربانیءَ"
     },
     {
-      "surface": "הַשְּׁלָמִים֮",
+      "surface": "השלמים",
       "gloss": "شالامیمءِ"
     },
     {
-      "surface": "בָּקָ֣ר",
+      "surface": "בקר",
       "gloss": "مال"
     },
     {
-      "surface": "שְׁנַ֣יִם",
+      "surface": "שנים",
       "gloss": "دو"
     },
     {
-      "surface": "אֵילִ֤ם",
+      "surface": "אילם",
       "gloss": "گوپتان"
     },
     {
-      "surface": "חֲמִשָּׁ֣ה",
+      "surface": "חמשה",
       "gloss": "پنچ"
     },
     {
-      "surface": "עַתּוּדִ֣ים",
+      "surface": "עתודים",
       "gloss": "ٹکّاں"
     },
     {
-      "surface": "חֲמִשָּׁ֔ה",
+      "surface": "חמשה",
       "gloss": "پنچ"
     },
     {
-      "surface": "כְּבָשִׂ֥ים",
+      "surface": "כבשים",
       "gloss": "ماہیگانءِ بچہ"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "سالءِ زہگ"
     },
     {
-      "surface": "שָׁנָ֖ה",
+      "surface": "שנה",
       "gloss": ""
     },
     {
-      "surface": "חֲמִשָּׁ֑ה",
+      "surface": "חמשה",
       "gloss": "پنچ"
     },
     {
-      "surface": "זֶ֛ה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "קָרְבַּ֥ן",
+      "surface": "קרבן",
       "gloss": "قربان اِنت"
     },
     {
-      "surface": "נְתַנְאֵ֖ל",
+      "surface": "נתנאל",
       "gloss": "نِتانئیلءِ"
     },
     {
-      "surface": "בֶּן־",
+      "surface": "בן",
       "gloss": "زہگءِ"
     },
     {
-      "surface": "צוּעָֽר",
+      "surface": "צוער",
       "gloss": "سوئار"
     }
-  ],
-  "timestamp": "2026-09-25T20:06:35.601447706Z",
-  "model": "glm-5.3"
+  ]
 }

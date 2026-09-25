@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "leviticus 25:21",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:24:39.400514650Z",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ من ⟨את⟩ منی برکت پہ شما ششمی سالءَ حکم کنیت، ءُ آ ⟨את⟩ فصلءِ محصول پہ سئے سالان پیدا کنیت۔",
   "tokens": [
     {
-      "surface": "וְצִוִּיתִי",
+      "surface": "וצויתי",
       "gloss": "ءُ من حکم کنیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منی برکت"
     },
     {
-      "surface": "בִּרְכָתִי",
+      "surface": "ברכתי",
       "gloss": "منی برکت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "پہ شما"
     },
     {
-      "surface": "בַּשָּׁנָה",
+      "surface": "בשנה",
       "gloss": "تہ سالءَ"
     },
     {
-      "surface": "הַשִּׁשִּׁית",
+      "surface": "הששית",
       "gloss": "ششمی"
     },
     {
-      "surface": "וְעָשָׂתָה",
+      "surface": "ועשת",
       "gloss": "ءُ پیدا کنیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "فصلءِ محصول"
     },
     {
-      "surface": "הַתְּבוּאָה",
+      "surface": "התבואה",
       "gloss": "فصلءِ محصول"
     },
     {
-      "surface": "לִשְׁלֹשׁ",
+      "surface": "לשלש",
       "gloss": "پہ سئے"
     },
     {
-      "surface": "הַשָּׁנִים",
+      "surface": "השנים",
       "gloss": "سالان"
     }
-  ],
-  "timestamp": "2026-09-25T19:24:39.400514650Z",
-  "model": "glm-5.3"
+  ]
 }

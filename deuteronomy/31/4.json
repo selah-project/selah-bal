@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "deuteronomy 31:4",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:28:12.556375809Z",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "ءُ یاہوہءَ اِشاںءَ چوش کہ آ چہ سیحون ءُ چہ عوگ، اموریانی شاہان، ءُ چہ اِشاںی زمینءَ کار کت، آ کتی کنت — آ کہ آیانءَ ⟨את⟩ اِشاں برباد کت.",
   "tokens": [
     {
-      "surface": "וְעָשָׂ֤ה",
+      "surface": "ועשה",
       "gloss": "ءُ کار کنت"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "לָהֶ֔ם",
+      "surface": "להם",
       "gloss": "اِشاںءَ"
     },
     {
-      "surface": "כַּאֲשֶׁ֣ר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "עָשָׂ֗ה",
+      "surface": "עשה",
       "gloss": "کار کت"
     },
     {
-      "surface": "לְסִיח֥וֹן",
+      "surface": "לסיחון",
       "gloss": "چہ سیحون"
     },
     {
-      "surface": "וּלְע֛וֹג",
+      "surface": "ולעוג",
       "gloss": "ءُ چہ عوگ"
     },
     {
-      "surface": "מַלְכֵ֥י",
+      "surface": "מלכי",
       "gloss": "شاہان"
     },
     {
-      "surface": "הָאֱמֹרִ֖י",
+      "surface": "האמרי",
       "gloss": "اموریانی"
     },
     {
-      "surface": "וּלְאַרְצָ֑ם",
+      "surface": "ולארצם",
       "gloss": "ءُ چہ اِشاںی زمینءَ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "הִשְׁמִ֖יד",
+      "surface": "השמיד",
       "gloss": "برباد کت"
     },
     {
-      "surface": "אֹתָֽם",
+      "surface": "אתם",
       "gloss": "⟨את⟩",
       "marks": "اِشاں"
     }
-  ],
-  "timestamp": "2026-09-25T15:28:12.556375809Z",
-  "model": "glm-5.3"
+  ]
 }

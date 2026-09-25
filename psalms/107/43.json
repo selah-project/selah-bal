@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 43,
-  "ref": "psalms 107:43",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:24:46.617132174Z",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "tier": "glm-5.2",
   "chapter": 107,
   "translation": "کےءِ حکیم اِنت؟ آءَ اِشاںءَ نبشت کنت ءُ یاہوہءِ چمءَ پہ چم سوچیت۔",
   "tokens": [
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کےءِ"
     },
     {
-      "surface": "חָכָ֥ם",
+      "surface": "חכם",
       "gloss": "حکیم"
     },
     {
-      "surface": "וְיִשְׁמָר",
+      "surface": "וישמר",
       "gloss": "ءَ اِشاںءَ نبشت کنت"
     },
     {
-      "surface": "אֵ֑לֶּה",
+      "surface": "אלה",
       "gloss": "اِشاں"
     },
     {
-      "surface": "וְיִתְבּֽוֹנְנ֗וּ",
+      "surface": "ויתבוננו",
       "gloss": "ءُ پہ چم سوچیت"
     },
     {
-      "surface": "חַֽסְדֵ֥י",
+      "surface": "חסדי",
       "gloss": "چمءَ پہ چم"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:24:46.617132174Z",
-  "model": "glm-5.3"
+  ]
 }

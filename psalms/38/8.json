@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "psalms 38:8",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:17:17.836618699Z",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "چہ منیءِ کمران چموشیں داغ پُر بوتگنت، ءُ منیءِ گُشتءَ تندرستی نیست۔",
   "tokens": [
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "چہ"
     },
     {
-      "surface": "כְּסָלַי",
+      "surface": "כסלי",
       "gloss": "منیءِ کمران"
     },
     {
-      "surface": "מָלְא֣וּ",
+      "surface": "מלאו",
       "gloss": "پُر بوتگنت"
     },
     {
-      "surface": "נִקְלֶ֑ה",
+      "surface": "נקלה",
       "gloss": "چموشیں داغ"
     },
     {
-      "surface": "וְאֵ֥ין",
+      "surface": "ואין",
       "gloss": "ءُ نیست"
     },
     {
-      "surface": "מְ֝תֹ֗ם",
+      "surface": "מתם",
       "gloss": "تندرستی"
     },
     {
-      "surface": "בִּבְשָׂרִֽי",
+      "surface": "בבשרי",
       "gloss": "منیءِ گُشتءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:17:17.836618699Z",
-  "model": "glm-5.3"
+  ]
 }

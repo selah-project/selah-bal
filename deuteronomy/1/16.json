@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "deuteronomy 1:16",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:06:15.229219530Z",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ ماں آ وہدءَ شماںءِ داورانءَ ⟨את⟩ حکم کت کہ گوشیت مژگان شماںءِ براتان، ءُ راستی داوری کیت مژگان مرد ءُ مژگان آییءِ برات ءُ مژگان آییءِ مہمان.",
   "tokens": [
     {
-      "surface": "וָאֲצַוֶּה",
+      "surface": "ואצוה",
       "gloss": "ءُ حکم کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شماںءِ داورانءَ"
     },
     {
-      "surface": "שֹׁפְטֵיכֶם",
+      "surface": "שפטיכם",
       "gloss": "شماںءِ داورانءَ"
     },
     {
-      "surface": "בָּעֵת",
+      "surface": "בעת",
       "gloss": "ماں آ وہدءَ"
     },
     {
-      "surface": "הַהִוא",
+      "surface": "ההוא",
       "gloss": "آ"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "کہ گوَشت"
     },
     {
-      "surface": "שָׁמֹעַ",
+      "surface": "שמע",
       "gloss": "گوشیت"
     },
     {
-      "surface": "בֵּין",
+      "surface": "בין",
       "gloss": "مژگان"
     },
     {
-      "surface": "אֲחֵיכֶם",
+      "surface": "אחיכם",
       "gloss": "شماںءِ براتان"
     },
     {
-      "surface": "וּשְׁפַטְתֶּם",
+      "surface": "ושפטתם",
       "gloss": "ءُ شماں داوری کیت"
     },
     {
-      "surface": "צֶדֶק",
+      "surface": "צדק",
       "gloss": "راستی"
     },
     {
-      "surface": "בֵּין",
+      "surface": "בין",
       "gloss": "مژگان"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "مرد"
     },
     {
-      "surface": "וּבֵין",
+      "surface": "ובין",
       "gloss": "ءُ مژگان"
     },
     {
-      "surface": "אָחִיו",
+      "surface": "אחיו",
       "gloss": "אییءِ برات"
     },
     {
-      "surface": "וּבֵין",
+      "surface": "ובין",
       "gloss": "ءُ مژگان"
     },
     {
-      "surface": "גֵּרוֹ",
+      "surface": "גרו",
       "gloss": "آییءِ مہمان"
     }
-  ],
-  "timestamp": "2026-09-25T15:06:15.229219530Z",
-  "model": "glm-5.3"
+  ]
 }

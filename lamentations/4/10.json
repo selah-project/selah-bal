@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "lamentations 4:10",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:14:29.473204429Z",
+  "verse": 10,
+  "ref": "lamentations 4:10",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "رحمن زنانیءُ دستانءَ اِشانی وتگی زہگان پات کت؛ آ اِشانی پہ لوگ بوتنت، ماں مِنھ قومی جنکی درشکنءَ۔",
   "tokens": [
     {
-      "surface": "יְדֵי",
+      "surface": "ידי",
       "gloss": "دستان"
     },
     {
-      "surface": "נָשִׁים",
+      "surface": "נשים",
       "gloss": "زنانی"
     },
     {
-      "surface": "רַחֲמָנִיּוֹת",
+      "surface": "רחמניות",
       "gloss": "رحمن"
     },
     {
-      "surface": "בִּשְּׁלוּ",
+      "surface": "בשלו",
       "gloss": "پات کت"
     },
     {
-      "surface": "יַלְדֵיהֶן",
+      "surface": "ילדיהן",
       "gloss": "اِشانی وتگی زہگان"
     },
     {
-      "surface": "הָיוּ",
+      "surface": "היו",
       "gloss": "بوتنت"
     },
     {
-      "surface": "לְבָרוֹת",
+      "surface": "לברות",
       "gloss": "پہ لوگ"
     },
     {
-      "surface": "לָמוֹ",
+      "surface": "למו",
       "gloss": "اِشانی پہ"
     },
     {
-      "surface": "בְּשֶׁבֶר",
+      "surface": "בשבר",
       "gloss": "ماں درشکنءَ"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنک"
     },
     {
-      "surface": "עַמִּי",
+      "surface": "עמי",
       "gloss": "مِنھ قوم"
     }
-  ],
-  "timestamp": "2026-09-25T19:14:29.473204429Z",
-  "model": "glm-5.3"
+  ]
 }

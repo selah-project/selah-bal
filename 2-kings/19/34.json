@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "2-kings 19:34",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:08:39.879950223Z",
+  "verse": 34,
+  "ref": "2-kings 19:34",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ من اے شہرءَ سرءَ پناہ دیتءَ آییءَ چمکنڑےءَ پہ — پہ منی وتیچہ ءُ پہ مے بندگ داودءِ پہ۔",
   "tokens": [
     {
-      "surface": "וְגַנּוֹתִ֛י",
+      "surface": "וגנותי",
       "gloss": "ءُ من پناہ دیتءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הָעִ֥יר",
+      "surface": "העיר",
       "gloss": "اے شہر"
     },
     {
-      "surface": "הַזֹּ֖את",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "לְהֽוֹשִׁיעָ֑הּ",
+      "surface": "להושיעה",
       "gloss": "آییءَ چمکنڑےءَ پہ"
     },
     {
-      "surface": "לְמַֽעֲנִ֔י",
+      "surface": "למעני",
       "gloss": "پہ منی وتیچہ"
     },
     {
-      "surface": "וּלְמַ֖עַן",
+      "surface": "ולמען",
       "gloss": "ءُ پہ"
     },
     {
-      "surface": "דָּוִ֥ד",
+      "surface": "דוד",
       "gloss": "داود"
     },
     {
-      "surface": "עַבְדִּֽי",
+      "surface": "עבדי",
       "gloss": "مے بندگ"
     }
-  ],
-  "timestamp": "2026-09-25T14:08:39.879950223Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "2-chronicles 29:10",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:47:33.362960590Z",
+  "verse": 10,
+  "ref": "2-chronicles 29:10",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "اِشا اِنت کہ منّی دلءَ اِنت کہ گوں یاہوہءَ، اسرائیلءِ ایلوہیمءَ، عہد کنّاں، تا کہ آییءِ شورتءِ غضب چہ ما ءُ گپت بیت۔",
   "tokens": [
     {
-      "surface": "עַתָּה",
+      "surface": "עתה",
       "gloss": "اِشا"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں…ءَ تہ"
     },
     {
-      "surface": "לְבָבִי",
+      "surface": "לבבי",
       "gloss": "منّی دلءَ"
     },
     {
-      "surface": "לִכְרֹת",
+      "surface": "לכרות",
       "gloss": "کنّاں"
     },
     {
-      "surface": "בְּרִית",
+      "surface": "ברית",
       "gloss": "عہد"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֱלֹהֵי",
+      "surface": "אלהי",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     },
     {
-      "surface": "וְיָשֹׁב",
+      "surface": "וישב",
       "gloss": "ءُ گپت بیت"
     },
     {
-      "surface": "מִמֶּנּוּ",
+      "surface": "ממנו",
       "gloss": "چہ ما"
     },
     {
-      "surface": "חֲרוֹן",
+      "surface": "חרון",
       "gloss": "شورتءِ"
     },
     {
-      "surface": "אַפּוֹ",
+      "surface": "אפו",
       "gloss": "غضب"
     }
-  ],
-  "timestamp": "2026-09-25T13:47:33.362960590Z",
-  "model": "glm-5.3"
+  ]
 }

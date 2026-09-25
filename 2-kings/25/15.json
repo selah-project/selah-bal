@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "2-kings 25:15",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:17:06.684788610Z",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ ⟨את⟩ آتشدانان ءُ ⟨את⟩ کاسہ‌گان کہ زر ئے زر ءُ کہ سیم ئے سیم، قاتلانی سردار گپت۔",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آتشدانان"
     },
     {
-      "surface": "הַמַּחְתּוֹת",
+      "surface": "המחתות",
       "gloss": "آتشدانان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "کاسہ‌گان"
     },
     {
-      "surface": "הַמִּזְרָקוֹת",
+      "surface": "המזרקות",
       "gloss": "کاسہ‌گان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "זָהָב",
+      "surface": "זהב",
       "gloss": "زر"
     },
     {
-      "surface": "זָהָב",
+      "surface": "זהב",
       "gloss": "زر"
     },
     {
-      "surface": "וַאֲשֶׁר",
+      "surface": "ואשר",
       "gloss": "ءُ کہ"
     },
     {
-      "surface": "כֶּסֶף",
+      "surface": "כסף",
       "gloss": "سیم"
     },
     {
-      "surface": "כֶּסֶף",
+      "surface": "כסף",
       "gloss": "سیم"
     },
     {
-      "surface": "לָקַח",
+      "surface": "לקח",
       "gloss": "گپت"
     },
     {
-      "surface": "רַב",
+      "surface": "רב",
       "gloss": "سردار"
     },
     {
-      "surface": "טַבָּחִים",
+      "surface": "טבחים",
       "gloss": "قاتلانی"
     }
-  ],
-  "timestamp": "2026-09-25T14:17:06.684788610Z",
-  "model": "glm-5.3"
+  ]
 }

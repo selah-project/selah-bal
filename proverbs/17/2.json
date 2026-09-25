@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "proverbs 17:2",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:14:23.790772474Z",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "یک عقلمندیں غلام یک شرمِند کنوکیں زہگءِ سرءَ حاکم بیت، ءُ براتانی میانءَ ورثہ ونڈیت.",
   "tokens": [
     {
-      "surface": "עֶֽבֶד",
+      "surface": "עבד",
       "gloss": "غلام"
     },
     {
-      "surface": "מַשְׂכִּ֗יל",
+      "surface": "משכיל",
       "gloss": "عقلمندیں"
     },
     {
-      "surface": "יִ֭מְשֹׁל",
+      "surface": "ימשל",
       "gloss": "حاکم بیت"
     },
     {
-      "surface": "בְּבֵ֣ן",
+      "surface": "בבן",
       "gloss": "زہگءِ سرءَ"
     },
     {
-      "surface": "מֵבִ֑ישׁ",
+      "surface": "מביש",
       "gloss": "شرمِند کنوکیں"
     },
     {
-      "surface": "וּבְת֥וֹךְ",
+      "surface": "ובתוך",
       "gloss": "ءُ میانءَ"
     },
     {
-      "surface": "אַ֝חִ֗ים",
+      "surface": "אחים",
       "gloss": "براتانی"
     },
     {
-      "surface": "יַחֲלֹ֥ק",
+      "surface": "יחלק",
       "gloss": "ونڈیت"
     },
     {
-      "surface": "נַחֲלָֽה",
+      "surface": "נחלה",
       "gloss": "ورثہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:14:23.790772474Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "amos 5:7",
   "book": "amos",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:05:43.369014777Z",
+  "verse": 7,
+  "ref": "amos 5:7",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "آ کہ انصابءَ چہ مُچھاند ءُ راستیءَ گوں زمینءَ داڑنت،",
   "tokens": [
     {
-      "surface": "הַהֹפְכִ֥ים",
+      "surface": "ההפכים",
       "gloss": "آ کہ … بدلنت"
     },
     {
-      "surface": "לְלַעֲנָ֖ה",
+      "surface": "ללענה",
       "gloss": "مُچھاندءَ"
     },
     {
-      "surface": "מִשְׁפָּ֑ט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "וּצְדָקָ֖ה",
+      "surface": "וצדקה",
       "gloss": "ءُ راستی"
     },
     {
-      "surface": "לָאָ֥רֶץ",
+      "surface": "לארץ",
       "gloss": "گوں زمینءَ"
     },
     {
-      "surface": "הִנִּֽיחוּ",
+      "surface": "הניחו",
       "gloss": "داڑنت"
     }
-  ],
-  "timestamp": "2026-09-25T21:05:43.369014777Z",
-  "model": "glm-5.3"
+  ]
 }

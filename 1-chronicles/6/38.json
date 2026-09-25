@@ -1,29 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
-  "ref": "1-chronicles 6:38",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:46:09.764956172Z",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "صادوق آییءِ زہگ، اَحی‌مَعَز آییءِ زہگ۔",
   "tokens": [
     {
-      "surface": "צָדוֹק",
+      "surface": "צדוק",
       "gloss": "صادوق"
     },
     {
-      "surface": "בְּנוֹ",
+      "surface": "בנו",
       "gloss": "آییءِ زہگ"
     },
     {
-      "surface": "אֲחִימַעַץ",
+      "surface": "אחימעץ",
       "gloss": "اَحی‌مَعَز"
     },
     {
-      "surface": "בְּנוֹ",
+      "surface": "בנו",
       "gloss": "آییءِ زہگ"
     }
-  ],
-  "timestamp": "2026-09-25T12:46:09.764956172Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "isaiah 10:4",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:11:33.198401509Z",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "بیلتی زنوں بزینت چہ قیدیانی تلں ءُ چہ کشتگانی تلں ڈگرنت؛ آ چمے سرا اے آییءِ اونگہ نہ پدا لٹیت ءُ هما هست آییءِ دست دراز اِنت.",
   "tokens": [
     {
-      "surface": "בִּלְתִּ֤י",
+      "surface": "בלתי",
       "gloss": "بیلتی"
     },
     {
-      "surface": "כָרַע֙",
+      "surface": "כרע",
       "gloss": "زنوں بزینت"
     },
     {
-      "surface": "תַּ֣חַת",
+      "surface": "תחת",
       "gloss": "چہ تلں"
     },
     {
-      "surface": "אַסִּ֔יר",
+      "surface": "אסיר",
       "gloss": "قیدیانی"
     },
     {
-      "surface": "וְתַ֥חַת",
+      "surface": "ותחת",
       "gloss": "ءُ چہ تلں"
     },
     {
-      "surface": "הֲרוּגִ֖ים",
+      "surface": "הרוגים",
       "gloss": "کشتگانی"
     },
     {
-      "surface": "יִפֹּ֑לוּ",
+      "surface": "יפלו",
       "gloss": "ڈگرنت"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "آ چمے سرا"
     },
     {
-      "surface": "זֹאת֙",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "שָׁ֣ב",
+      "surface": "שב",
       "gloss": "پدا لٹیت"
     },
     {
-      "surface": "אַפּ֔וֹ",
+      "surface": "אפו",
       "gloss": "آییءِ اونگہ"
     },
     {
-      "surface": "וְע֖וֹד",
+      "surface": "ועוד",
       "gloss": "ءُ هما هست"
     },
     {
-      "surface": "יָד֥וֹ",
+      "surface": "ידו",
       "gloss": "آییءِ دست"
     },
     {
-      "surface": "נְטוּיָֽה",
+      "surface": "נטויה",
       "gloss": "دراز اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T17:11:33.198401509Z",
-  "model": "glm-5.3"
+  ]
 }

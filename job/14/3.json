@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "job 14:3",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:22:34.106877782Z",
+  "verse": 3,
+  "ref": "job 14:3",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ اے ءَ سرءَ تُوءِ چشم پٹ کنی، ءُ ⟨את⟩ ماں تُوءِ گوں مِشپاتءَ داخل کنیں؟",
   "tokens": [
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "ءَ سرءَ"
     },
     {
-      "surface": "זֶה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "פָּקַחְתָּ",
+      "surface": "פקחת",
       "gloss": "پٹ کنی"
     },
     {
-      "surface": "עֵינֶךָ",
+      "surface": "עינך",
       "gloss": "تُوءِ چشم"
     },
     {
-      "surface": "וְאֹתִי",
+      "surface": "ואתי",
       "gloss": "ءُ ⟨את⟩ ماں",
       "marks": "ماں (تُوءِ گوں مِشپاتءَ داخل کنیں)"
     },
     {
-      "surface": "תָּבִיא",
+      "surface": "תביא",
       "gloss": "داخل کنیں"
     },
     {
-      "surface": "בְמִשְׁפָּט",
+      "surface": "במשפט",
       "gloss": "مِشپاتءَ"
     },
     {
-      "surface": "עִמָּךָ",
+      "surface": "עמך",
       "gloss": "تُوءِ گوں"
     }
-  ],
-  "timestamp": "2026-09-25T18:22:34.106877782Z",
-  "model": "glm-5.3"
+  ]
 }

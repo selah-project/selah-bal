@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "psalms 124:3",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:28:27.972649648Z",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "tier": "glm-5.2",
   "chapter": 124,
   "translation": "اودا مردم زندگانیءَ ⟨چہ⟩ گوَشیتنت اودا کہ اِشانی غصہ تہ دمان بوت ءُ گرم بوت گوں ماں۔",
   "tokens": [
     {
-      "surface": "אֲ֭זַי",
+      "surface": "אזי",
       "gloss": "اودا کہ"
     },
     {
-      "surface": "חַיִּ֣ים",
+      "surface": "חיים",
       "gloss": "زندگانیءَ"
     },
     {
-      "surface": "בִּלְע֑וּנוּ",
+      "surface": "בלעונו",
       "gloss": "گوَشیتنت ماں"
     },
     {
-      "surface": "בֶּ֫חֲרֹ֥ות",
+      "surface": "בחרות",
       "gloss": "تہ دمان بوت"
     },
     {
-      "surface": "אַפָּ֣ם",
+      "surface": "אפם",
       "gloss": "اِشانی غصہ"
     },
     {
-      "surface": "בָּֽנוּ",
+      "surface": "בנו",
       "gloss": "گوں ماں"
     }
-  ],
-  "timestamp": "2026-09-25T20:28:27.972649648Z",
-  "model": "glm-5.3"
+  ]
 }

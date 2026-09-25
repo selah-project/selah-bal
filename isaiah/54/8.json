@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "isaiah 54:8",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:34:11.691140038Z",
+  "verse": 8,
+  "ref": "isaiah 54:8",
+  "tier": "glm-5.2",
   "chapter": 54,
   "translation": "گوں غضبءِ ہیضہءَ مانِ چہرہ یک لمحہءَ چہ تئے پوشیت، بلے گوں ازلیں ہیسید تئے رحمت کت، آییءَ گوَشت تئے گوالی یعنی یاہوہ۔",
   "tokens": [
     {
-      "surface": "בְּשֶׁ֣צֶף",
+      "surface": "בשצף",
       "gloss": "ہیضہءَ"
     },
     {
-      "surface": "קֶ֗צֶף",
+      "surface": "קצף",
       "gloss": "غضبءِ"
     },
     {
-      "surface": "הִסְתַּ֨רְתִּי",
+      "surface": "הסתרתי",
       "gloss": "پوشیت"
     },
     {
-      "surface": "פָנַ֥י",
+      "surface": "פני",
       "gloss": "مانِ چہرہ"
     },
     {
-      "surface": "רֶ֨גַע֙",
+      "surface": "רגע",
       "gloss": "یک لمحہءَ"
     },
     {
-      "surface": "מִמֵּ֔ךְ",
+      "surface": "ממך",
       "gloss": "چہ تئے"
     },
     {
-      "surface": "וּבְחֶ֥סֶד",
+      "surface": "ובחסד",
       "gloss": "ءُ گوں ہیسید"
     },
     {
-      "surface": "עוֹלָ֖ם",
+      "surface": "עולם",
       "gloss": "ازلیں"
     },
     {
-      "surface": "רִֽחַמְתִּ֑יךְ",
+      "surface": "רחמתיך",
       "gloss": "تئے رحمت کت"
     },
     {
-      "surface": "אָמַ֥ר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "גֹּאֲלֵ֖ךְ",
+      "surface": "גאלך",
       "gloss": "تئے گوالی"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T17:34:11.691140038Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 160,
-  "ref": "psalms 119:160",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:26:29.449341746Z",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "تُونیءِ لبز تہ راستی اِنت، ءُ ہمیشہ ہر یک تُئیں راستیءِ مِشپاطءِ.",
   "tokens": [
     {
-      "surface": "רֹאשׁ",
+      "surface": "ראש",
       "gloss": "تُونی"
     },
     {
-      "surface": "דְּבָרְךָ",
+      "surface": "דברך",
       "gloss": "تُئیں لبز"
     },
     {
-      "surface": "אֶמֶת",
+      "surface": "אמת",
       "gloss": "راستی"
     },
     {
-      "surface": "וּלְעוֹלָם",
+      "surface": "ולעולם",
       "gloss": "ءُ ہمیشہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر یک"
     },
     {
-      "surface": "מִשְׁפַּט",
+      "surface": "משפט",
       "gloss": "مِشپاط"
     },
     {
-      "surface": "צִדְקֶךָ",
+      "surface": "צדקך",
       "gloss": "تُئیں راستیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:26:29.449341746Z",
-  "model": "glm-5.3"
+  ]
 }

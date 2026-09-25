@@ -1,29 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "2-samuel 23:28",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:35:32.268455924Z",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "صلمون اَچوچی، مہرائی نتوفاتی؛",
   "tokens": [
     {
-      "surface": "צַלְמוֹן",
+      "surface": "צלמון",
       "gloss": "صلمون"
     },
     {
-      "surface": "הָאֲחֹחִי",
+      "surface": "האחחי",
       "gloss": "اَچوچی"
     },
     {
-      "surface": "مַהְרַי",
+      "surface": "מהרי",
       "gloss": "مہرائی"
     },
     {
-      "surface": "הַנְּטֹפָתִי",
+      "surface": "הנטפתי",
       "gloss": "نتوفاتی"
     }
-  ],
-  "timestamp": "2026-09-25T14:35:32.268455924Z",
-  "model": "glm-5.3"
+  ]
 }

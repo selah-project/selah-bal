@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "job 11:17",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:20:00.878086315Z",
+  "verse": 17,
+  "ref": "job 11:17",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ چہ دگپرءَ زندگی بلند بیت؛ اِشٹِنگ پھندیت، صبحءِ چوں بیت۔",
   "tokens": [
     {
-      "surface": "וּֽמִצָּהֳרַיִם",
+      "surface": "ומצהרים",
       "gloss": "ءُ چہ دگپرءَ"
     },
     {
-      "surface": "יָק֣וּם",
+      "surface": "יקום",
       "gloss": "بلند بیت"
     },
     {
-      "surface": "חָ֑לֶד",
+      "surface": "חלד",
       "gloss": "زندگی"
     },
     {
-      "surface": "תָּ֝עֻ֗פָה",
+      "surface": "תעפה",
       "gloss": "پھندیت"
     },
     {
-      "surface": "כַּבֹּ֥קֶר",
+      "surface": "כבקר",
       "gloss": "صبحءِ چوں"
     },
     {
-      "surface": "תִּהְיֶֽה",
+      "surface": "תהיה",
       "gloss": "بیت"
     }
-  ],
-  "timestamp": "2026-09-25T18:20:00.878086315Z",
-  "model": "glm-5.3"
+  ]
 }

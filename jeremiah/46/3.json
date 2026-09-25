@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "jeremiah 46:3",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:08:49.644727628Z",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "tier": "glm-5.2",
   "chapter": 46,
   "translation": "کاککانی ڈال ءُ سپر ءُ جنگءَ گوَنڈ کریت۔",
   "tokens": [
     {
-      "surface": "עִרְכוּ",
+      "surface": "ערכו",
       "gloss": "کاککانی ڈال"
     },
     {
-      "surface": "מָגֵן",
+      "surface": "מגן",
       "gloss": "کاککانی"
     },
     {
-      "surface": "וְצִנָּה",
+      "surface": "וצנה",
       "gloss": "ءُ سپر"
     },
     {
-      "surface": "וּגְשׁוּ",
+      "surface": "וגשו",
       "gloss": "ءُ گوَنڈ کریت"
     },
     {
-      "surface": "לַמִּלְחָמָה",
+      "surface": "למלחמה",
       "gloss": "جنگءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:08:49.644727628Z",
-  "model": "glm-5.3"
+  ]
 }

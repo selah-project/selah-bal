@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "job 15:16",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:23:02.243061795Z",
+  "verse": 16,
+  "ref": "job 15:16",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ہرچند زیات گندیت ءُ اِشکنیت اِنت آ مردم، کہ زیتی چوش آپ ءُ چپیت — اِنت.",
   "tokens": [
     {
-      "surface": "אַ֭ף",
+      "surface": "אף",
       "gloss": "ہرچند زیات"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "נִתְעָ֥ב",
+      "surface": "נתעב",
       "gloss": "گندیت"
     },
     {
-      "surface": "וְֽנֶאֱלָ֑ח",
+      "surface": "ונאלח",
       "gloss": "ءُ اِشکنیت"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "آ مردم"
     },
     {
-      "surface": "שֹׁתֶ֖ה",
+      "surface": "שתה",
       "gloss": "زیتی"
     },
     {
-      "surface": "כַמַּ֣יִם",
+      "surface": "כמים",
       "gloss": "چوش آپ"
     },
     {
-      "surface": "עַוְלָֽה",
+      "surface": "עולה",
       "gloss": "ءُ چپیت — ⟨اِنت⟩"
     }
-  ],
-  "timestamp": "2026-09-25T18:23:02.243061795Z",
-  "model": "glm-5.3"
+  ]
 }

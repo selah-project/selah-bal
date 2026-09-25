@@ -1,117 +1,117 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "nehemiah 2:12",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:41:07.064372593Z",
+  "verse": 12,
+  "ref": "nehemiah 2:12",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ من شپءَ اُٹھتمنت، من ءُ چندیں مردمان گوں من؛ ءُ من کسےءَ نہ گوَشت چہ منی ایلوہیمءِ من منی دلءَ تہ دات پہ یورشلمءَ کرن؛ ءُ مال گوں من نہ اَت، پرچا کہ آ مال کہ من آییءَ تہ سواری کتن.",
   "tokens": [
     {
-      "surface": "וָאָק֣וּם",
+      "surface": "ואקום",
       "gloss": "ءُ اُٹھتمنت"
     },
     {
-      "surface": "לַ֗יְלָה",
+      "surface": "לילה",
       "gloss": "شپءَ"
     },
     {
-      "surface": "אֲנִי֮",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "וַאֲנָשִׁ֣ים",
+      "surface": "ואנשים",
       "gloss": "ءُ مردمان"
     },
     {
-      "surface": "מְעַט֮",
+      "surface": "מעט",
       "gloss": "چندیں"
     },
     {
-      "surface": "עִמִּי֒",
+      "surface": "עמי",
       "gloss": "گوں من"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "הִגַּ֣דְתִּי",
+      "surface": "הגדתי",
       "gloss": "گوَشت"
     },
     {
-      "surface": "לְאָדָ֔ם",
+      "surface": "לאדם",
       "gloss": "کسےءَ"
     },
     {
-      "surface": "מָ֗ה",
+      "surface": "מה",
       "gloss": "چہ"
     },
     {
-      "surface": "אֱלֹהַי֙",
+      "surface": "אלהי",
       "gloss": "منی ایلوہیمءِ"
     },
     {
-      "surface": "נֹתֵ֣ן",
+      "surface": "נתן",
       "gloss": "دات"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "לִבִּ֔י",
+      "surface": "לבי",
       "gloss": "منی دلءَ"
     },
     {
-      "surface": "לַעֲשׂ֖וֹת",
+      "surface": "לעשות",
       "gloss": "پہ کرن"
     },
     {
-      "surface": "לִירוּשָׁלִָ֑ם",
+      "surface": "לירושלם",
       "gloss": "پہ یورشلمءَ"
     },
     {
-      "surface": "וּבְהֵמָה֙",
+      "surface": "ובהמה",
       "gloss": "ءُ مال"
     },
     {
-      "surface": "אֵ֣ין",
+      "surface": "אין",
       "gloss": "نہ"
     },
     {
-      "surface": "עִמִּ֔י",
+      "surface": "עמי",
       "gloss": "گوں من"
     },
     {
-      "surface": "כִּ֚י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "کہ"
     },
     {
-      "surface": "הַבְּהֵמָ֔ה",
+      "surface": "הבהמה",
       "gloss": "آ مال"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אֲנִ֖י",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "רֹכֵ֥ב",
+      "surface": "רכב",
       "gloss": "سواری کتن"
     },
     {
-      "surface": "בָּֽהּ",
+      "surface": "בה",
       "gloss": "آییءَ تہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:41:07.064372593Z",
-  "model": "glm-5.3"
+  ]
 }

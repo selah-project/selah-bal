@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 59,
-  "ref": "numbers 7:59",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:07:30.600094746Z",
+  "verse": 59,
+  "ref": "numbers 7:59",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ پہ زبحءِ امنی قربانی، مال دو، اِیلان پنچ، نر بوکان پنچ، یک سالءِ مینھان پنچ — اے گملیایلءِ قربانی اِنت، زہگِ پداہءِ صن۔",
   "tokens": [
     {
-      "surface": "וּלְזֶ֣בַח",
+      "surface": "ולזבח",
       "gloss": "ءُ پہ زبحءِ"
     },
     {
-      "surface": "הַשְּׁלָמִים֮",
+      "surface": "השלמים",
       "gloss": "امنی قربانی"
     },
     {
-      "surface": "בָּקָ֣ר",
+      "surface": "בקר",
       "gloss": "مال"
     },
     {
-      "surface": "שְׁנַיִם֒",
+      "surface": "שנים",
       "gloss": "دو"
     },
     {
-      "surface": "אֵילִ֤ם",
+      "surface": "אילם",
       "gloss": "اِیلان"
     },
     {
-      "surface": "חֲמִשָּׁה֙",
+      "surface": "חמשה",
       "gloss": "پنچ"
     },
     {
-      "surface": "עַתֻּדִ֣ים",
+      "surface": "עתדים",
       "gloss": "نر بوکان"
     },
     {
-      "surface": "חֲמִשָּׁ֔ה",
+      "surface": "חמשה",
       "gloss": "پنچ"
     },
     {
-      "surface": "כְּבָשִׂ֥ים",
+      "surface": "כבשים",
       "gloss": "مینھان"
     },
     {
-      "surface": "בְּנֵ֥י",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "שָׁנָ֖ה",
+      "surface": "שנה",
       "gloss": "یک سالءِ"
     },
     {
-      "surface": "חֲמִשָּׁ֑ה",
+      "surface": "חמשה",
       "gloss": "پنچ"
     },
     {
-      "surface": "זֶ֛ה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "קָרְבַּ֥ן",
+      "surface": "קרבן",
       "gloss": "قربانی"
     },
     {
-      "surface": "גַּמְלִיאֵ֖ל",
+      "surface": "גמליאל",
       "gloss": "گملیایلءِ"
     },
     {
-      "surface": "בֶּ֥ן",
+      "surface": "בן",
       "gloss": "زہگِ"
     },
     {
-      "surface": "פְּדָֽה",
+      "surface": "פדה",
       "gloss": "پداہءِ"
     },
     {
-      "surface": "צֽוּר",
+      "surface": "צור",
       "gloss": "صن"
     }
-  ],
-  "timestamp": "2026-09-25T20:07:30.600094746Z",
-  "model": "glm-5.3"
+  ]
 }

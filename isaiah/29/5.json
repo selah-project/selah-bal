@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "isaiah 29:5",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:17:59.339200429Z",
+  "verse": 5,
+  "ref": "isaiah 29:5",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ بیت توءِ بیگانگیں ہمون چوں گول دھوڑ، ءُ زالمانءِ ہمون چوں گوزرتیں کاه — ءُ بیت یک لحظہءَ، یکدمی.",
   "tokens": [
     {
-      "surface": "וְהָיָ֛ה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "כְּאָבָ֥ק",
+      "surface": "כאבק",
       "gloss": "چوں دھوڑ"
     },
     {
-      "surface": "דַּ֖ק",
+      "surface": "דק",
       "gloss": "گول"
     },
     {
-      "surface": "הֲמ֣וֹן",
+      "surface": "המון",
       "gloss": "ہمون"
     },
     {
-      "surface": "זָרָ֑יִךְ",
+      "surface": "זריך",
       "gloss": "توءِ بیگانگیں"
     },
     {
-      "surface": "וּכְמֹ֤ץ",
+      "surface": "וכמץ",
       "gloss": "ءُ چوں کاه"
     },
     {
-      "surface": "עֹבֵר֙",
+      "surface": "עבר",
       "gloss": "گوزرتیں"
     },
     {
-      "surface": "הֲמ֣וֹן",
+      "surface": "המון",
       "gloss": "ہمون"
     },
     {
-      "surface": "עָרִיצִ֔ים",
+      "surface": "עריצים",
       "gloss": "زالم"
     },
     {
-      "surface": "וְהָיָ֖ה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "לְפֶ֥תַע",
+      "surface": "לפתע",
       "gloss": "یک لحظہءَ"
     },
     {
-      "surface": "פִּתְאֹֽם",
+      "surface": "פתאם",
       "gloss": "یکدمی"
     }
-  ],
-  "timestamp": "2026-09-25T17:17:59.339200429Z",
-  "model": "glm-5.3"
+  ]
 }

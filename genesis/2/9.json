@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "genesis 2:9",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:45:07.364164036Z",
+  "verse": 9,
+  "ref": "genesis 2:9",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ یاہوہ ایلوہیم چہ زمینءَ ہر دارے رست کت کہ دیستءَ شیرین بیت ءُ خواراکءَ پہ رasti بیت، ءُ زندگیں دار باغءِ میانءَ تہ ءُ شناستءِ دار — رasti ءُ بُری.",
   "tokens": [
@@ -12,78 +14,76 @@
       "gloss": "رست کت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָאֲדָמָה",
+      "surface": "האדמה",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "עֵץ",
+      "surface": "עץ",
       "gloss": "دارے"
     },
     {
-      "surface": "נֶחְמָד",
+      "surface": "נחמד",
       "gloss": "شیرین"
     },
     {
-      "surface": "לְמַרְאֶה",
+      "surface": "למראה",
       "gloss": "دیستءَ"
     },
     {
-      "surface": "וְטוֹב",
+      "surface": "וטוב",
       "gloss": "ءُ پہ رasti"
     },
     {
-      "surface": "לְמַאֲכָל",
+      "surface": "למאכל",
       "gloss": "خواراکءَ پہ"
     },
     {
-      "surface": "וְעֵץ",
+      "surface": "ועץ",
       "gloss": "ءُ دار"
     },
     {
-      "surface": "הַחַיִּים",
+      "surface": "החיים",
       "gloss": "زندگیں"
     },
     {
-      "surface": "בְּתוֹךְ",
+      "surface": "בתוך",
       "gloss": "میانءَ تہ"
     },
     {
-      "surface": "הַגָּן",
+      "surface": "הגן",
       "gloss": "باغءِ"
     },
     {
-      "surface": "וְעֵץ",
+      "surface": "ועץ",
       "gloss": "ءُ دار"
     },
     {
-      "surface": "הַדַּעַת",
+      "surface": "הדעת",
       "gloss": "شناستءِ"
     },
     {
-      "surface": "טוֹב",
+      "surface": "טוב",
       "gloss": "رasti"
     },
     {
-      "surface": "וָרָע",
+      "surface": "ורע",
       "gloss": "ءُ بُری"
     }
-  ],
-  "timestamp": "2026-09-25T16:45:07.364164036Z",
-  "model": "glm-5.3"
+  ]
 }

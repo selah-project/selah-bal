@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "psalms 25:4",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:35:28.800934958Z",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "توریں راہاں، اے یاہوہ، منی چم بدے؛ توریں رستاں منی چم سیا بدے۔",
   "tokens": [
     {
-      "surface": "דְּרָכֶ֣יךָ",
+      "surface": "דרכיך",
       "gloss": "توریں راہاں"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "הוֹדִיעֵ֑נִי",
+      "surface": "הודיעני",
       "gloss": "منی چم بدے"
     },
     {
-      "surface": "אֹ֖רְחוֹתֶ֣יךָ",
+      "surface": "ארחותיך",
       "gloss": "توریں رستاں"
     },
     {
-      "surface": "לַמְּדֵֽנִי",
+      "surface": "למדני",
       "gloss": "منی چم سیا بدے"
     }
-  ],
-  "timestamp": "2026-09-25T20:35:28.800934958Z",
-  "model": "glm-5.3"
+  ]
 }

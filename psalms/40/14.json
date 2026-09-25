@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "psalms 40:14",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:38:57.101787799Z",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "tier": "glm-5.2",
   "chapter": 40,
   "translation": "اے یاہوہ، رضا بیت کہ مُءَ نجات دِیں؛ اے یاہوہ، مُءِ مددءِ پہ شتاب بکت۔",
   "tokens": [
     {
-      "surface": "רְצֵ֣ה",
+      "surface": "רצה",
       "gloss": "رضا بیت"
     },
     {
-      "surface": "יְ֭הוָה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "לְהַצִּילֵ֑נִי",
+      "surface": "להצילני",
       "gloss": "کہ مُءَ نجات دِیں"
     },
     {
-      "surface": "יְ֝הוָ֗ה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "לְעֶזְרָ֥תִי",
+      "surface": "לעזרתי",
       "gloss": "مُءِ مددءِ پہ"
     },
     {
-      "surface": "חֽוּשָׁה",
+      "surface": "חושה",
       "gloss": "شتاب بکت"
     }
-  ],
-  "timestamp": "2026-09-25T20:38:57.101787799Z",
-  "model": "glm-5.3"
+  ]
 }

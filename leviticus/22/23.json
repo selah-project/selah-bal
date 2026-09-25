@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "leviticus 22:23",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:23:17.152235333Z",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ گاو ءُ مہ گیش‌اندام ءُ کماشتگ — رضاکارانگیں پیشکشءِ چوں ⟨את⟩ آییءَ کریت، بلے پہ نذر آ نہ پسند بیت۔",
   "tokens": [
     {
-      "surface": "וְשׁ֥וֹר",
+      "surface": "ושור",
       "gloss": "ءُ گاو"
     },
     {
-      "surface": "וָשֶׂ֖ה",
+      "surface": "ושה",
       "gloss": "ءُ مہ"
     },
     {
-      "surface": "שָׂר֣וּעַ",
+      "surface": "שרוע",
       "gloss": "گیش‌اندام"
     },
     {
-      "surface": "וְקָל֑וּט",
+      "surface": "וקלוט",
       "gloss": "ءُ کماشتگ"
     },
     {
-      "surface": "נְדָבָה֙",
+      "surface": "נדבה",
       "gloss": "رضاکارانگیں پیشکش"
     },
     {
-      "surface": "תַּעֲשֶׂ֣ה",
+      "surface": "תעשה",
       "gloss": "کریت"
     },
     {
-      "surface": "אֹת֔וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ (گاو ءُ مہ)"
     },
     {
-      "surface": "וּלְנֵ֖דֶר",
+      "surface": "ולנדר",
       "gloss": "ءُ پہ نذر"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יֵרָצֶֽה",
+      "surface": "ירצה",
       "gloss": "پسند بیت"
     }
-  ],
-  "timestamp": "2026-09-25T19:23:17.152235333Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "psalms 16:4",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:33:18.314086297Z",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ایشانی دردیان گیشتر بنت، آ کہ دگہءِ پسا تیز اَنت؛ ہچبر من ایشانی نذری چہ خون نہ ڈُھاریت، ءُ ہچبر ایشانی نامان ⟨את⟩ منی لبزانی سرءَ نہ گرنت۔",
   "tokens": [
     {
-      "surface": "יִרְבּוּ",
+      "surface": "ירבו",
       "gloss": "گیشتر بنت"
     },
     {
-      "surface": "עַצְּבוֹתָם",
+      "surface": "עצבותם",
       "gloss": "ایشانی دردیان"
     },
     {
-      "surface": "אַחֵר",
+      "surface": "אחר",
       "gloss": "دگہءِ"
     },
     {
-      "surface": "מָהָרוּ",
+      "surface": "מהרו",
       "gloss": "تیز اَنت"
     },
     {
-      "surface": "בַּל",
+      "surface": "בל",
       "gloss": "ہچبر"
     },
     {
-      "surface": "אַסִּיךְ",
+      "surface": "אסיך",
       "gloss": "نہ ڈُھاریت"
     },
     {
-      "surface": "נִסְכֵּיהֶם",
+      "surface": "נסכיהם",
       "gloss": "ایشانی نذری"
     },
     {
-      "surface": "מִדָּם",
+      "surface": "מדם",
       "gloss": "چہ خون"
     },
     {
-      "surface": "וּבַל",
+      "surface": "ובל",
       "gloss": "ءُ ہچبر"
     },
     {
-      "surface": "אֶשָּׂא",
+      "surface": "אשא",
       "gloss": "نہ گرنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ایشانی نامان"
     },
     {
-      "surface": "שְׁמוֹתָם",
+      "surface": "שמותם",
       "gloss": "ایشانی نامان"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "שְׂפָתָי",
+      "surface": "שפתי",
       "gloss": "منی لبزانی"
     }
-  ],
-  "timestamp": "2026-09-25T20:33:18.314086297Z",
-  "model": "glm-5.3"
+  ]
 }

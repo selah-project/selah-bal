@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "exodus 26:16",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:53:27.600903004Z",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "دہ اَمّہ تختیءِ تال ءُ یک اَمّہ ءُ نیم اَمّہ اے یک تختیءِ پراہ.",
   "tokens": [
     {
-      "surface": "עֶ֥שֶׂר",
+      "surface": "עשר",
       "gloss": "دہ"
     },
     {
-      "surface": "אַמּ֖וֹת",
+      "surface": "אמות",
       "gloss": "اَمّہ"
     },
     {
-      "surface": "אֹ֣רֶךְ",
+      "surface": "ארך",
       "gloss": "تال"
     },
     {
-      "surface": "הַקָּ֑רֶשׁ",
+      "surface": "הקרש",
       "gloss": "تختیءِ"
     },
     {
-      "surface": "וְאַמָּ֥ה֙",
+      "surface": "ואמה",
       "gloss": "ءُ یک اَمّہ"
     },
     {
-      "surface": "וַחֲצִ֣י",
+      "surface": "וחצי",
       "gloss": "ءُ نیم"
     },
     {
-      "surface": "הָֽאַמָּ֔ה",
+      "surface": "האמה",
       "gloss": "اَمّہ"
     },
     {
-      "surface": "רֹ֖חַב",
+      "surface": "רחב",
       "gloss": "پراہ"
     },
     {
-      "surface": "הַקֶּ֥רֶשׁ",
+      "surface": "הקרש",
       "gloss": "تختیءِ"
     },
     {
-      "surface": "הָאֶחָֽד",
+      "surface": "האחד",
       "gloss": "اے یک"
     }
-  ],
-  "timestamp": "2026-09-25T15:53:27.600903004Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "ecclesiastes 1:10",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:34:08.323842579Z",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ہست یک گپ کہ آییءَ گوَشیت: گند، اے نوک اِنت؛ چہ رندءَ اَت، پہ دورانی وہداں، کہ آیان چہ ماںءِ پیش اَتنت۔",
   "tokens": [
     {
-      "surface": "יֵשׁ",
+      "surface": "יש",
       "gloss": "ہست"
     },
     {
-      "surface": "דָּבָר",
+      "surface": "דבר",
       "gloss": "گپ"
     },
     {
-      "surface": "שֶׁיֹּאמַר",
+      "surface": "שיאמר",
       "gloss": "کہ آییءَ گوَشیت"
     },
     {
-      "surface": "רְאֵה",
+      "surface": "ראה",
       "gloss": "گند"
     },
     {
-      "surface": "זֶה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "חָדָשׁ",
+      "surface": "חדש",
       "gloss": "نوک"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "اِنت"
     },
     {
-      "surface": "כְּבָר",
+      "surface": "כבר",
       "gloss": "چہ رندءَ"
     },
     {
-      "surface": "הָיָה",
+      "surface": "היה",
       "gloss": "اَت"
     },
     {
-      "surface": "לְעֹלָמִים",
+      "surface": "לעלמים",
       "gloss": "پہ دورانی وہداں"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הָיָה",
+      "surface": "היה",
       "gloss": "اَتنت"
     },
     {
-      "surface": "מִלְּפָנֵנוּ",
+      "surface": "מלפננו",
       "gloss": "چہ ماںءِ پیش"
     }
-  ],
-  "timestamp": "2026-09-25T15:34:08.323842579Z",
-  "model": "glm-5.3"
+  ]
 }

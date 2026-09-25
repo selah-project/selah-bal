@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "numbers 33:34",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:00:46.412845715Z",
+  "verse": 34,
+  "ref": "numbers 33:34",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ چہ یُطباتہ کوچ کت، ءُ تہ عَبرونہ چتر گستنت.",
   "tokens": [
@@ -16,14 +18,12 @@
       "gloss": "چہ یُطباتہ"
     },
     {
-      "surface": "ויחנو",
+      "surface": "ויחנו",
       "gloss": "ءُ چتر گستنت"
     },
     {
       "surface": "בעברנה",
       "gloss": "تہ عَبرونہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:00:46.412845715Z",
-  "model": "glm-5.3"
+  ]
 }

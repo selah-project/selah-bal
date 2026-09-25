@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "ezekiel 31:6",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:19:46.234551178Z",
+  "verse": 6,
+  "ref": "ezekiel 31:6",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "آییءِ شاخاں تہ ہمگ آسمانءِ مرگ آشیان جوڑ کت، ءُ آییءِ پتاں جہل ہمگ میدانءِ جانوراں زہگ گنت، ءُ آییءِ سیاہءِ تہ ہمگ گیش قومان جت بیت۔",
   "tokens": [
     {
-      "surface": "בִּסְעַפֹּתָיו",
+      "surface": "בסעפתיו",
       "gloss": "آییءِ شاخاں تہ"
     },
     {
-      "surface": "קִנְנוּ",
+      "surface": "קננו",
       "gloss": "آشیان جوڑ کت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "עוֹף",
+      "surface": "עוף",
       "gloss": "مرگ"
     },
     {
-      "surface": "הַשָּׁמַיִם",
+      "surface": "השמים",
       "gloss": "آسمانءِ"
     },
     {
-      "surface": "וְתַחַת",
+      "surface": "ותחת",
       "gloss": "ءُ جہل"
     },
     {
-      "surface": "פֹּארֹתָיו",
+      "surface": "פארתיו",
       "gloss": "آییءِ پتاں"
     },
     {
-      "surface": "יָלְדוּ",
+      "surface": "ילדו",
       "gloss": "زہگ گنت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "חַיַּת",
+      "surface": "חית",
       "gloss": "جانوراں"
     },
     {
-      "surface": "הַשָּׂדֶה",
+      "surface": "השדה",
       "gloss": "میدانءِ"
     },
     {
-      "surface": "וּבְצִלּוֹ",
+      "surface": "ובצלו",
       "gloss": "ءُ آییءِ سیاہءِ تہ"
     },
     {
-      "surface": "יָשְׁבוּ",
+      "surface": "ישבו",
       "gloss": "جت بیت"
     },
     {
-      "surface": "כֹּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "גּוֹיִם",
+      "surface": "גוים",
       "gloss": "قومان"
     },
     {
-      "surface": "רַבִּים",
+      "surface": "רבים",
       "gloss": "گیش"
     }
-  ],
-  "timestamp": "2026-09-25T16:19:46.234551178Z",
-  "model": "glm-5.3"
+  ]
 }

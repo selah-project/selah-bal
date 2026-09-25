@@ -1,26 +1,28 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "proverbs 2:8",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:15:25.991406794Z",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "پہ انصافءِ رہاں پیش داریت، ءُ آییءِ ہیسیدانی رہ پیش داریت.",
   "tokens": [
     {
-      "surface": "לִ֭נְצֹר",
+      "surface": "לנצר",
       "gloss": "پہ پیش داریت"
     },
     {
-      "surface": "אָרְח֣וֹת",
+      "surface": "ארחות",
       "gloss": "رہاں"
     },
     {
-      "surface": "מִשְׁפָּ֑ט",
+      "surface": "משפט",
       "gloss": "انصافءِ"
     },
     {
-      "surface": "וְדֶ֖רֶךְ",
+      "surface": "ודרך",
       "gloss": "ءُ رہ"
     },
     {
@@ -28,10 +30,8 @@
       "gloss": "آییءِ ہیسیدانی"
     },
     {
-      "surface": "יִשְׁמֹֽר",
+      "surface": "ישמר",
       "gloss": "پیش داریت"
     }
-  ],
-  "timestamp": "2026-09-25T20:15:25.991406794Z",
-  "model": "glm-5.3"
+  ]
 }

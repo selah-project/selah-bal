@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "job 4:19",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:32:02.823325274Z",
+  "verse": 19,
+  "ref": "job 4:19",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "بلے چہ آ کہ گِلءِ گدانانی تہ جندگیر اَنت، آ کہ آیانی بنیاد غبارءَ اِنت، آیانءَ پشءِ پیشءَ یرگنت۔",
   "tokens": [
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "بلے چہ"
     },
     {
-      "surface": "שֹׁכְנֵי",
+      "surface": "שכני",
       "gloss": "جندگیر"
     },
     {
-      "surface": "בָּתֵּי",
+      "surface": "בתי",
       "gloss": "گدانی"
     },
     {
-      "surface": "חֹמֶר",
+      "surface": "חמר",
       "gloss": "گِلءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "בֶּעָפָר",
+      "surface": "בעפר",
       "gloss": "غبارءَ"
     },
     {
-      "surface": "יְסוֹדָם",
+      "surface": "יסודם",
       "gloss": "بنیاد آیانی"
     },
     {
-      "surface": "יְדַכְּאוּם",
+      "surface": "ידכאום",
       "gloss": "رند آیانءَ یرگنت"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "עָשׁ",
+      "surface": "עש",
       "gloss": "پش"
     }
-  ],
-  "timestamp": "2026-09-25T18:32:02.823325274Z",
-  "model": "glm-5.3"
+  ]
 }

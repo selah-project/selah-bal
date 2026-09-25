@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "amos 1:12",
   "book": "amos",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:46:04.545565485Z",
+  "verse": 12,
+  "ref": "amos 1:12",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ من آپءَ بِتیمانءَ دیم شُریں ءُ آ قلعہانی بُصرہءَ گندیت۔",
   "tokens": [
     {
-      "surface": "וְשִׁלַּ֥חְתִּי",
+      "surface": "ושלחתי",
       "gloss": "ءُ من … شُریں"
     },
     {
-      "surface": "אֵ֖שׁ",
+      "surface": "אש",
       "gloss": "آپ"
     },
     {
-      "surface": "בְּתֵימָ֑ן",
+      "surface": "בתימן",
       "gloss": "بِتیمانءَ دیم"
     },
     {
-      "surface": "וְאָכְלָ֖ה",
+      "surface": "ואכלה",
       "gloss": "ءُ آ گندیت"
     },
     {
-      "surface": "אַרְמְנ֥וֹת",
+      "surface": "ארמנות",
       "gloss": "قلعہانءِ"
     },
     {
-      "surface": "בָּצְרָֽה",
+      "surface": "בצרה",
       "gloss": "بُصرہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:46:04.545565485Z",
-  "model": "glm-5.3"
+  ]
 }

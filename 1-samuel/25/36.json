@@ -1,121 +1,121 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
-  "ref": "1-samuel 25:36",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:26:10.843421258Z",
+  "verse": 36,
+  "ref": "1-samuel 25:36",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ اَبیگَیل نابَلءَ سرا روت، ءُ ⟨پوشت⟩ آییءَ تہ وتی گدانءَ میہمانی اِنت، چوش پادشاہءِ میہمانیءِ چوں، ءُ نابَلءِ دل آییءَ تہ چم اِنت ءُ آ گیش مست اِنت، ءُ آییءَ ہچ گپ نکو ءُ گیش نہ گوَشت، پہ سپدءِ روشنائیءَ۔",
   "tokens": [
     {
-      "surface": "וַתָּבֹא",
+      "surface": "ותבא",
       "gloss": "ءُ روت"
     },
     {
-      "surface": "אֲבִיגַיִל",
+      "surface": "אביגיל",
       "gloss": "اَبیگَیل"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ … سرا"
     },
     {
-      "surface": "נָבָל",
+      "surface": "נבל",
       "gloss": "نابَلءَ"
     },
     {
-      "surface": "וְהִנֵּה",
+      "surface": "והנה",
       "gloss": "ءُ ⟨پوشت⟩"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "מִשְׁתֶּה",
+      "surface": "משתה",
       "gloss": "میہمانی"
     },
     {
-      "surface": "בְּבֵיתוֹ",
+      "surface": "בביתו",
       "gloss": "وتی گدانءَ تہ"
     },
     {
-      "surface": "כְּמִשְׁתֵּה",
+      "surface": "כמשתה",
       "gloss": "چوش میہمانیءِ"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "پادشاہءِ چوں"
     },
     {
-      "surface": "וְלֵב",
+      "surface": "ולב",
       "gloss": "ءُ دل"
     },
     {
-      "surface": "נָבָל",
+      "surface": "נבל",
       "gloss": "نابَلءِ"
     },
     {
-      "surface": "טוֹב",
+      "surface": "טוב",
       "gloss": "چم"
     },
     {
-      "surface": "עָלָיו",
+      "surface": "עליו",
       "gloss": "آییءَ تہ"
     },
     {
-      "surface": "וְהוּא",
+      "surface": "והוא",
       "gloss": "ءُ آ"
     },
     {
-      "surface": "שִׁכּוֹר",
+      "surface": "שכר",
       "gloss": "مست"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "پہ"
     },
     {
-      "surface": "מְאֹד",
+      "surface": "מאד",
       "gloss": "گیش"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "הִגִּידָה",
+      "surface": "הגידה",
       "gloss": "گوَشت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "דָּבָר",
+      "surface": "דבר",
       "gloss": "گپ"
     },
     {
-      "surface": "קָטֹן",
+      "surface": "קטן",
       "gloss": "نکو"
     },
     {
-      "surface": "וְגָדוֹל",
+      "surface": "וגדול",
       "gloss": "ءُ گیش"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "پہ"
     },
     {
-      "surface": "אוֹר",
+      "surface": "אור",
       "gloss": "روشنائیءَ"
     },
     {
-      "surface": "הַבֹּקֶר",
+      "surface": "הבקר",
       "gloss": "سپدءِ"
     }
-  ],
-  "timestamp": "2026-09-25T13:26:10.843421258Z",
-  "model": "glm-5.3"
+  ]
 }

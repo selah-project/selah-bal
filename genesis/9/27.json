@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "genesis 9:27",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:06:14.859655772Z",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ایلوہیم یپت ⟨پہ⟩ کش کنیت، ءُ آ شیمءِ گدانی تہ رہیت، ءُ کنعان ایشانءَ غلام بیت۔",
   "tokens": [
     {
-      "surface": "יַ֤פְתְּ",
+      "surface": "יפת",
       "gloss": "کش کنیت"
     },
     {
-      "surface": "אֱלֹהִים֙",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "לְיֶ֔פֶת",
+      "surface": "ליפת",
       "gloss": "پہ یپت"
     },
     {
-      "surface": "וְיִשְׁכֹּ֖ן",
+      "surface": "וישכן",
       "gloss": "ءُ رہیت"
     },
     {
-      "surface": "בְּאָֽהֳלֵי",
+      "surface": "באהלי",
       "gloss": "گدانی تہ"
     },
     {
-      "surface": "שֵׁ֑ם",
+      "surface": "שם",
       "gloss": "شیمءِ"
     },
     {
-      "surface": "וִיהִ֥י",
+      "surface": "ויהי",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "כְנַ֖עַן",
+      "surface": "כנען",
       "gloss": "کنعان"
     },
     {
-      "surface": "עֶ֥בֶד",
+      "surface": "עבד",
       "gloss": "غلام"
     },
     {
-      "surface": "לָֽמוֹ",
+      "surface": "למו",
       "gloss": "ایشانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:06:14.859655772Z",
-  "model": "glm-5.3"
+  ]
 }

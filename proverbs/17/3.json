@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "proverbs 17:3",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:14:55.638814184Z",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "مصفaye نقرہءِ پہ ءُ کور زرءِ پہ، ءُ یاہوہ دلاںءَ آزمایت۔",
   "tokens": [
     {
-      "surface": "מַצְרֵף",
+      "surface": "מצרף",
       "gloss": "مصفaye (پگارنیں برتن)"
     },
     {
-      "surface": "לַכֶּסֶף",
+      "surface": "לכסף",
       "gloss": "نقرءِ پہ"
     },
     {
-      "surface": "וְכוּר",
+      "surface": "וכור",
       "gloss": "ءُ کور"
     },
     {
-      "surface": "לַזָּהָב",
+      "surface": "לזהב",
       "gloss": "زرءِ پہ"
     },
     {
-      "surface": "וּבֹחֵן",
+      "surface": "ובחן",
       "gloss": "ءُ آزمائوک"
     },
     {
-      "surface": "לִבּוֹת",
+      "surface": "לבות",
       "gloss": "دلان"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:14:55.638814184Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "1-chronicles 3:12",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:44:01.296630053Z",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "اَمَتسیاہ ءُ آییءِ زہگ، عَزَریاہ ءُ آییءِ زہگ، یوتام ءُ آییءِ زہگ،",
   "tokens": [
     {
-      "surface": "אֲמַצְיָ֥הוּ",
+      "surface": "אמציהו",
       "gloss": "اَمَتسیاہ"
     },
     {
-      "surface": "בְנ֛וֹ",
+      "surface": "בנו",
       "gloss": "آییءِ زہگ"
     },
     {
-      "surface": "עֲזַרְיָ֥ה",
+      "surface": "עזריה",
       "gloss": "عَزَریاہ"
     },
     {
-      "surface": "בְנ֖וֹ",
+      "surface": "בנו",
       "gloss": "آییءِ زہگ"
     },
     {
-      "surface": "יוֹתָ֥ם",
+      "surface": "יותם",
       "gloss": "یوتام"
     },
     {
-      "surface": "בְּנֽוֹ",
+      "surface": "בנו",
       "gloss": "آییءِ زہگ"
     }
-  ],
-  "timestamp": "2026-09-25T12:44:01.296630053Z",
-  "model": "glm-5.3"
+  ]
 }

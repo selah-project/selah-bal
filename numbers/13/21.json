@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "numbers 13:21",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:45:58.689874895Z",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ آ یئے روتنت ءُ ⟨את⟩ زمینءَ جس کت، چہ صحرائے تسینءَ تا رحب، حماتءِ دروازءَ ءَ چوں آتگ.",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "ءُ یئے روتنت"
     },
     {
-      "surface": "ויתרو",
+      "surface": "ויתרו",
       "gloss": "ءُ جس کت"
     },
     {
@@ -48,7 +50,5 @@
       "surface": "חמת",
       "gloss": "حمات"
     }
-  ],
-  "timestamp": "2026-09-25T19:45:58.689874895Z",
-  "model": "glm-5.3"
+  ]
 }

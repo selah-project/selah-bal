@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "jeremiah 10:24",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:39:58.106635655Z",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "اے یاہوہ، منیءَ تیار کن، پرچا کہ انصافءَ گوں — نہ گوں تُہءِ غمءَ، کہ نہ کہ منیءَ کم کنی۔",
   "tokens": [
     {
-      "surface": "יַסְּרֵנִי",
+      "surface": "יסרני",
       "gloss": "منیءَ تیار کن"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "אַךְ",
+      "surface": "אך",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "בְּמִשְׁפָּט",
+      "surface": "במשפט",
       "gloss": "انصافءَ گوں"
     },
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "בְּאַפְּךָ",
+      "surface": "באפך",
       "gloss": "تُہءِ غمءَ گوں"
     },
     {
-      "surface": "פֶּן",
+      "surface": "פן",
       "gloss": "کہ نہ کہ"
     },
     {
-      "surface": "תַּמְעִיטֵנִי",
+      "surface": "תמעטני",
       "gloss": "منیءَ کم کنی"
     }
-  ],
-  "timestamp": "2026-09-25T17:39:58.106635655Z",
-  "model": "glm-5.3"
+  ]
 }

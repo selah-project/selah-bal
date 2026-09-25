@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 45,
-  "ref": "jeremiah 51:45",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:16:00.350929396Z",
+  "verse": 45,
+  "ref": "jeremiah 51:45",
+  "tier": "glm-5.2",
   "chapter": 51,
   "translation": "چوءُ ماءِ قوم آییءِ میانءَ، ءُ ہر یکءَ گریز کنت ⟨את⟩ وتی جان چہ یاہوہءِ اُکءِ غضبءَ۔",
   "tokens": [
     {
-      "surface": "צְאוּ",
+      "surface": "צאו",
       "gloss": "چوءُ"
     },
     {
-      "surface": "מִתּוֹכָהּ",
+      "surface": "מתוכה",
       "gloss": "آییءِ میانءَ"
     },
     {
-      "surface": "עַמִּי",
+      "surface": "עמי",
       "gloss": "ماءِ قوم"
     },
     {
-      "surface": "וּמַלְּטוּ",
+      "surface": "ומלטו",
       "gloss": "ءُ گریز کنت"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "ہر یک"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی جان"
     },
     {
-      "surface": "נַפְשׁוֹ",
+      "surface": "נפשו",
       "gloss": "وتی جان"
     },
     {
-      "surface": "מֵחֲרוֹן",
+      "surface": "מחרון",
       "gloss": "چہ اُک"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "غضب"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:16:00.350929396Z",
-  "model": "glm-5.3"
+  ]
 }

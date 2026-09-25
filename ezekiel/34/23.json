@@ -1,80 +1,80 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "ezekiel 34:23",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:22:16.903496019Z",
+  "verse": 23,
+  "ref": "ezekiel 34:23",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "ءُ من اشانءِ سرءَ یک روٹک ایش بکنت ءُ آ چشانءَ چرایت کنت — ⟨את⟩ مینءِ غلام داودءَ؛ آیی ⟨את⟩ اشانءَ چرایت بیت ءُ آیی اشانءِ پہ روٹک بیت.",
   "tokens": [
     {
-      "surface": "וַהֲקִמֹתִ֨י",
+      "surface": "והקמתי",
       "gloss": "ءُ من ایش بکنت"
     },
     {
-      "surface": "עֲלֵיהֶ֜ם",
+      "surface": "עליהם",
       "gloss": "اشانءِ سرءَ"
     },
     {
-      "surface": "רֹעֶ֤ה",
+      "surface": "רעה",
       "gloss": "روٹک"
     },
     {
-      "surface": "אֶחָד֙",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "וְרָעָ֣ה",
+      "surface": "ורעה",
       "gloss": "ءُ چرایت کنت"
     },
     {
-      "surface": "אֶתְהֶ֔ן",
+      "surface": "אתהן",
       "gloss": "⟨את⟩ اشانءَ",
       "marks": "اشانءَ (رِڑانت)"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مینءِ غلام داودءَ"
     },
     {
-      "surface": "עַבְדִּ֣י",
+      "surface": "עבדי",
       "gloss": "مینءِ غلام"
     },
     {
-      "surface": "דָוִ֑יד",
+      "surface": "דויד",
       "gloss": "داود"
     },
     {
-      "surface": "ה֚וּא",
+      "surface": "הוא",
       "gloss": "آیی"
     },
     {
-      "surface": "יִרְעֶ֣ה",
+      "surface": "ירעה",
       "gloss": "چرایت بیت"
     },
     {
-      "surface": "אֹתָ֔ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ اشانءَ",
       "marks": "اشانءَ"
     },
     {
-      "surface": "וְהֽוּא",
+      "surface": "והוא",
       "gloss": "ءُ آیی"
     },
     {
-      "surface": "יִהְיֶ֥ה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לָהֶ֖ן",
+      "surface": "להן",
       "gloss": "اشانءِ"
     },
     {
-      "surface": "לְרֹעֶֽה",
+      "surface": "לרעה",
       "gloss": "پہ روٹک"
     }
-  ],
-  "timestamp": "2026-09-25T16:22:16.903496019Z",
-  "model": "glm-5.3"
+  ]
 }

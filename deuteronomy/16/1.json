@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "deuteronomy 16:1",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:12:09.178364550Z",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "⟨את⟩ آبِبءِ ماہءَ سات، ءُ پہ یاہوہ، تئیک ایلوہیم، پسح کن؛ چوکہ آبِبءِ ماہءَ یاہوہ تئیک ایلوهیم تاں چہ مِتسرایمءَ شپءَ در کتت۔",
   "tokens": [
     {
-      "surface": "שָׁמוֹר",
+      "surface": "שמור",
       "gloss": "سات"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آبِبءِ ماہ"
     },
     {
-      "surface": "חֹדֶשׁ",
+      "surface": "חדש",
       "gloss": "ماہ"
     },
     {
-      "surface": "הָאָבִיב",
+      "surface": "האביב",
       "gloss": "آبِبءِ"
     },
     {
-      "surface": "וְעָשִׂיתָ",
+      "surface": "ועשית",
       "gloss": "ءُ کن"
     },
     {
-      "surface": "פֶּסַח",
+      "surface": "פסח",
       "gloss": "پسح"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "پہ یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "تئیک ایلوهیم"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "چوکہ"
     },
     {
-      "surface": "בְּחֹדֶשׁ",
+      "surface": "בחדש",
       "gloss": "ماہءَ"
     },
     {
-      "surface": "הָאָבִיב",
+      "surface": "האביב",
       "gloss": "آبِبءِ"
     },
     {
-      "surface": "הוֹצִיאֲךָ",
+      "surface": "הוציאך",
       "gloss": "تاں در کتت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "تئیک ایلوهیم"
     },
     {
-      "surface": "מִמִּצְרַיִם",
+      "surface": "ממצרים",
       "gloss": "چہ مِتسرایمءَ"
     },
     {
-      "surface": "לָֽיְלָה",
+      "surface": "לילה",
       "gloss": "شپءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:12:09.178364550Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "proverbs 14:6",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:10:50.189685421Z",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "طنزگرءَ دانائی لبٹت ءُ ⟨هست⟩ نہ؛ ءُ شناخت پہ سمجھوکءَ چُست اِنت۔",
   "tokens": [
     {
-      "surface": "בִּקֶּשׁ",
+      "surface": "בקש",
       "gloss": "لبٹت"
     },
     {
-      "surface": "לֵּץ",
+      "surface": "לץ",
       "gloss": "طنزگرءَ"
     },
     {
-      "surface": "ח׸כְמָה",
+      "surface": "חכמה",
       "gloss": "دانائی"
     },
     {
-      "surface": "וָאַיִן",
+      "surface": "ואין",
       "gloss": "ءُ ⟨هست⟩ نہ"
     },
     {
-      "surface": "וְדַעַת",
+      "surface": "ודעת",
       "gloss": "ءُ شناخت"
     },
     {
-      "surface": "לְנָבוֹן",
+      "surface": "לנבון",
       "gloss": "پہ سمجھوکءَ"
     },
     {
-      "surface": "נָקָל",
+      "surface": "נקל",
       "gloss": "چُست اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:10:50.189685421Z",
-  "model": "glm-5.3"
+  ]
 }

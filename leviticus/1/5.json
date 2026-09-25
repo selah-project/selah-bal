@@ -1,104 +1,104 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "leviticus 1:5",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:17:03.653803128Z",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ آءَ یاہوہءِ پیش ءُ ⟨את⟩ مالءِ زہگ کُشت کت، ءُ ہارونءِ زہگان — کاہنان — ⟨את⟩ خون پیش کننت ءُ ⟨את⟩ خون قربانگاہءِ سرا چار گیٹی زرکننت، کہ ملاقاتءِ گدانءِ دروازہءِ اِنت۔",
   "tokens": [
     {
-      "surface": "וְשָׁחַט",
+      "surface": "ושחט",
       "gloss": "ءُ کُشت کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مالءِ زہگ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "הַבָּקָר",
+      "surface": "הבקר",
       "gloss": "مالءِ"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیش"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וְהִקְרִיבוּ",
+      "surface": "והקריבו",
       "gloss": "ءُ پیش کننت"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "אַהֲרֹן",
+      "surface": "אהרן",
       "gloss": "ہارونءِ"
     },
     {
-      "surface": "הַכֹּהֲנִים",
+      "surface": "הכהנים",
       "gloss": "کاہنان"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "خون"
     },
     {
-      "surface": "הַדָּם",
+      "surface": "הדם",
       "gloss": "خون"
     },
     {
-      "surface": "וְזָרְקוּ",
+      "surface": "וזרקו",
       "gloss": "ءُ زرکننت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "خون"
     },
     {
-      "surface": "הַדָּם",
+      "surface": "הדם",
       "gloss": "خون"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرا"
     },
     {
-      "surface": "הַמִּזְבֵּחַ",
+      "surface": "המזבח",
       "gloss": "قربانگاہءِ"
     },
     {
-      "surface": "סָבִיב",
+      "surface": "סביב",
       "gloss": "چار گیٹی"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "פֶּתַח",
+      "surface": "פתח",
       "gloss": "دروازہءِ"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گدانءِ"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:17:03.653803128Z",
-  "model": "glm-5.3"
+  ]
 }

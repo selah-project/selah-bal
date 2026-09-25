@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "ezekiel 19:12",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:11:53.480431255Z",
+  "verse": 12,
+  "ref": "ezekiel 19:12",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ گوں تپشءَ کنشتگ بوت، زمینءَ گپتگ بوت، ءُ رچءِ باد آییءِ میوہ ءُ پچا کت؛ آییءِ زورءِ ترک شکست بوت ءُ خشک بوت — آش آییءَ گپت۔",
   "tokens": [
     {
-      "surface": "וַתֻּתַּשׁ",
+      "surface": "ותתש",
       "gloss": "ءُ کنشتگ بوت"
     },
     {
-      "surface": "בְּחֵמָה",
+      "surface": "בחמה",
       "gloss": "گوں تپشءَ"
     },
     {
-      "surface": "לָאָרֶץ",
+      "surface": "לארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "הֻשְׁלָכָה",
+      "surface": "השלכה",
       "gloss": "گپتگ بوت"
     },
     {
-      "surface": "וְרוּחַ",
+      "surface": "ורוח",
       "gloss": "ءُ باد"
     },
     {
-      "surface": "הַקָּדִים",
+      "surface": "הקדים",
       "gloss": "رچءِ"
     },
     {
-      "surface": "הוֹבִישׁ",
+      "surface": "הוביש",
       "gloss": "ءُ پچا کت"
     },
     {
-      "surface": "פִּרְיָהּ",
+      "surface": "פריה",
       "gloss": "آییءِ میوہ"
     },
     {
-      "surface": "הִתְפָּרְקוּ",
+      "surface": "התפרקו",
       "gloss": "شکست بوت"
     },
     {
-      "surface": "וְיָבֵשׁוּ",
+      "surface": "ויבשו",
       "gloss": "ءُ خشک بوت"
     },
     {
-      "surface": "מַטֵּה",
+      "surface": "מטה",
       "gloss": "ترک"
     },
     {
-      "surface": "עֻזָּהּ",
+      "surface": "עזה",
       "gloss": "آییءِ زورءِ"
     },
     {
-      "surface": "אֵשׁ",
+      "surface": "אש",
       "gloss": "آش"
     },
     {
-      "surface": "אֲכָלָתְהוּ",
+      "surface": "אכלתהו",
       "gloss": "آییءَ گپت"
     }
-  ],
-  "timestamp": "2026-09-25T16:11:53.480431255Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "zechariah 11:2",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:56:57.314834711Z",
+  "verse": 2,
+  "ref": "zechariah 11:2",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ولّہ بک، سرو، پرچا کہ دیو ڈِگتگ — اِشتی کہ نامور لوگ لُٹجے گونت۔ ولّہ بک، بشانءِ ٹال، پرچا کہ مظبوت جنگل ڈِگتگ۔",
   "tokens": [
     {
-      "surface": "הֵילֵל",
+      "surface": "הילל",
       "gloss": "ولّہ بک"
     },
     {
-      "surface": "בְּרוֹשׁ",
+      "surface": "ברוש",
       "gloss": "سرو"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "נָפַל",
+      "surface": "נפל",
       "gloss": "ڈِگتگ"
     },
     {
-      "surface": "אֶרֶז",
+      "surface": "ארז",
       "gloss": "دیو"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "اشتی کہ"
     },
     {
-      "surface": "אַדִּירִים",
+      "surface": "אדרים",
       "gloss": "نامور لوگ"
     },
     {
-      "surface": "שֻׁדָּדוּ",
+      "surface": "שדדו",
       "gloss": "لُٹجے گونت"
     },
     {
-      "surface": "הֵילִילוּ",
+      "surface": "הילילו",
       "gloss": "ولّہ بک"
     },
     {
-      "surface": "אַלּוֹנֵי",
+      "surface": "אלוני",
       "gloss": "ٹال"
     },
     {
-      "surface": "בָשָׁן",
+      "surface": "בשן",
       "gloss": "بشانءِ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "יָרַד",
+      "surface": "ירד",
       "gloss": "ڈِگتگ"
     },
     {
-      "surface": "יַעַר",
+      "surface": "יער",
       "gloss": "جنگل"
     },
     {
-      "surface": "הַבְצוּר",
+      "surface": "הבצור",
       "gloss": "مظبوت"
     }
-  ],
-  "timestamp": "2026-09-25T20:56:57.314834711Z",
-  "model": "glm-5.3"
+  ]
 }

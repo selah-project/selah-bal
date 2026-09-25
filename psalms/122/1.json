@@ -1,14 +1,16 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 122:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:29:13.269936867Z",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "tier": "glm-5.2",
   "chapter": 122,
   "translation": "چڑھانیں ءُ گیت، داودءِ پہ۔ شاد بوتم چہ آئیں کہ منءَ گوَشتنت: یاہوہءِ گدانءَ ڕوتں۔",
   "tokens": [
     {
-      "surface": "שִׁיר",
+      "surface": "שיר",
       "gloss": "گیت"
     },
     {
@@ -20,7 +22,7 @@
       "gloss": "داودءِ پہ"
     },
     {
-      "surface": "שׂמחתי",
+      "surface": "שמחתי",
       "gloss": "شاد بوتم"
     },
     {
@@ -43,7 +45,5 @@
       "surface": "נלך",
       "gloss": "ڕوتں"
     }
-  ],
-  "timestamp": "2026-09-25T20:29:13.269936867Z",
-  "model": "glm-5.3"
+  ]
 }

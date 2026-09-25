@@ -1,107 +1,107 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "numbers 6:19",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:05:37.802372552Z",
+  "verse": 19,
+  "ref": "numbers 6:19",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ کاہن ⟨את⟩ مِشتءِ بَشَلتگ چہ گڈ گِرت، ءُ یک بے خمیری پُلوڈی چہ کوفس، ءُ یک نازَک بے خمیری پُلوڈی، ءُ دیت ہمدے نذیریءِ دستانءَ سر، رند چہ آ دَرَشت ⟨את⟩ آییءِ نذرءَ",
   "tokens": [
     {
-      "surface": "וְלָקַח",
+      "surface": "ולקח",
       "gloss": "ءُ گِرت"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِشتءِ بَشَلتگ"
     },
     {
-      "surface": "הַזְּרֹעַ",
+      "surface": "הזרע",
       "gloss": "مِشت"
     },
     {
-      "surface": "בְּשֵׁלָה",
+      "surface": "בשלה",
       "gloss": "بَشَلتگ"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָאַיִל",
+      "surface": "האיל",
       "gloss": "گڈ"
     },
     {
-      "surface": "וַחֲלַת",
+      "surface": "וחלת",
       "gloss": "ءُ پُلوڈی"
     },
     {
-      "surface": "מַצָּה",
+      "surface": "מצה",
       "gloss": "بے خمیری"
     },
     {
-      "surface": "אַחַת",
+      "surface": "אחת",
       "gloss": "یک"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַסַּל",
+      "surface": "הסל",
       "gloss": "کوفس"
     },
     {
-      "surface": "וְרָקִיק",
+      "surface": "ורקיק",
       "gloss": "ءُ نازَک پُلوڈی"
     },
     {
-      "surface": "מַצָּה",
+      "surface": "מצה",
       "gloss": "بے خمیری"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "וְנָתַן",
+      "surface": "ונתן",
       "gloss": "ءُ دیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سر"
     },
     {
-      "surface": "כַּפֵּי",
+      "surface": "כפי",
       "gloss": "دستانءِ"
     },
     {
-      "surface": "הַנָּזִיר",
+      "surface": "הנזיר",
       "gloss": "نذیری"
     },
     {
-      "surface": "אַחַר",
+      "surface": "אחר",
       "gloss": "رند چہ"
     },
     {
-      "surface": "הִתְגַּלֵּחוֹ",
+      "surface": "התגלחו",
       "gloss": "دَرَشت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ نذر"
     },
     {
-      "surface": "נִזְרוֹ",
+      "surface": "נזרו",
       "gloss": "آییءِ نذر"
     }
-  ],
-  "timestamp": "2026-09-25T20:05:37.802372552Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "leviticus 3:11",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:26:14.092289039Z",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ کاہن آییءَ قربانگاہءِ سرءَ دم کت — یاہوہءِ پہ آتریں قربانیءِ لچم۔",
   "tokens": [
     {
-      "surface": "וְהִקְטִירוֹ",
+      "surface": "והקטירו",
       "gloss": "ءُ دم کت"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "הַמִּזְבֵּחָה",
+      "surface": "המזבחה",
       "gloss": "قربانگاہءِ سرءَ"
     },
     {
-      "surface": "לֶחֶם",
+      "surface": "לחם",
       "gloss": "لچم"
     },
     {
-      "surface": "אִשֶּׁה",
+      "surface": "אשה",
       "gloss": "آتریں قربانی"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءِ پہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:26:14.092289039Z",
-  "model": "glm-5.3"
+  ]
 }

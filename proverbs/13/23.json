@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "proverbs 13:23",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:10:42.178281978Z",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "گریبانءِ کشتءَ گیش کوآلِش اِنت، ءُ ⟨اِنت⟩ یکے کہ بے انصافءَ نابود بیت۔",
   "tokens": [
     {
-      "surface": "רָב",
+      "surface": "רב",
       "gloss": "گیش"
     },
     {
-      "surface": "אֹ֭כֶל",
+      "surface": "אכל",
       "gloss": "کوآلِش"
     },
     {
-      "surface": "נִ֣יר",
+      "surface": "ניר",
       "gloss": "کشت"
     },
     {
-      "surface": "רָאשִׁ֑ים",
+      "surface": "ראשים",
       "gloss": "گریبانءِ"
     },
     {
-      "surface": "וְיֵ֥שׁ",
+      "surface": "ויש",
       "gloss": "ءُ ⟨اِنت⟩ یکے کہ"
     },
     {
-      "surface": "נִ֝סְפֶּ֗ה",
+      "surface": "נספה",
       "gloss": "نابود بیت"
     },
     {
-      "surface": "בְּלֹ֣א",
+      "surface": "בלא",
       "gloss": "بے"
     },
     {
-      "surface": "מִשְׁפָּֽט",
+      "surface": "משפט",
       "gloss": "انصاف"
     }
-  ],
-  "timestamp": "2026-09-25T20:10:42.178281978Z",
-  "model": "glm-5.3"
+  ]
 }

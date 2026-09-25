@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "job 34:7",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:28:32.181307261Z",
+  "verse": 7,
+  "ref": "job 34:7",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "کے ءُ مرد کہ چوش ایوب اِنت، کہ مذرت چوش آپ ءُ شُرت؟",
   "tokens": [
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "גֶ֥בֶר",
+      "surface": "גבר",
       "gloss": "مرد"
     },
     {
-      "surface": "כְּאִיּ֑וֹב",
+      "surface": "כאיוב",
       "gloss": "چوش ایوب"
     },
     {
-      "surface": "יִֽשְׁתֶּה",
+      "surface": "ישתה",
       "gloss": "شُرت"
     },
     {
-      "surface": "לַּ֥עַג",
+      "surface": "לעג",
       "gloss": "مذرت"
     },
     {
-      "surface": "כַּמָּֽיִם",
+      "surface": "כמים",
       "gloss": "چوش آپ"
     }
-  ],
-  "timestamp": "2026-09-25T18:28:32.181307261Z",
-  "model": "glm-5.3"
+  ]
 }

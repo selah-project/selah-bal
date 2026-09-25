@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "amos 2:10",
   "book": "amos",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:06:05.547657839Z",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ من ⟨את⟩ شمئاں چہ مِتسرایمءِ زمینءَ اُوڑ کت، ءُ شمئاں چالیس سال مارکءَ رہبرت کت پہ اِموریءِ زمینءَ بگرفتگءِ پہ۔",
   "tokens": [
     {
-      "surface": "וְאָנֹכִ֛י",
+      "surface": "ואנכי",
       "gloss": "ءُ من"
     },
     {
-      "surface": "הֶעֱלֵ֥יתִי",
+      "surface": "העליתי",
       "gloss": "اُوڑ کت"
     },
     {
-      "surface": "אֶתְכֶ֖ם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شمئاں",
       "marks": "شمئاں"
     },
     {
-      "surface": "מֵאֶ֣רֶץ",
+      "surface": "מארץ",
       "gloss": "چہ زمینءَ"
     },
     {
-      "surface": "מִצְרָ֑יִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     },
     {
-      "surface": "וָאוֹלֵ֨ךְ",
+      "surface": "ואולך",
       "gloss": "ءُ رہبرت کت"
     },
     {
-      "surface": "אֶתְכֶ֤ם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شمئاں",
       "marks": "شمئاں"
     },
     {
-      "surface": "בַּמִּדְבָּר֙",
+      "surface": "במדבר",
       "gloss": "مارکءَ"
     },
     {
-      "surface": "אַרְבָּעִ֣ים",
+      "surface": "ארבעים",
       "gloss": "چالیس"
     },
     {
-      "surface": "שָׁנָ֔ה",
+      "surface": "שנה",
       "gloss": "سال"
     },
     {
-      "surface": "לָרֶ֖שֶׁת",
+      "surface": "לרשת",
       "gloss": "پہ بگرفتگءِ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زمین"
     },
     {
-      "surface": "אֶ֥רֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "הָאֱמֹרִֽי",
+      "surface": "האמרי",
       "gloss": "اِموریءِ"
     }
-  ],
-  "timestamp": "2026-09-25T21:06:05.547657839Z",
-  "model": "glm-5.3"
+  ]
 }

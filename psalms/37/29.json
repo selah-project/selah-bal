@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "psalms 37:29",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:38:30.915925426Z",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "tier": "glm-5.2",
   "chapter": 37,
   "translation": "راستان زمینءَ وارث بیت ءُ ہمیشہ آءِ تہ ونڈیت۔",
   "tokens": [
     {
-      "surface": "צַדִּיקִ֥ים",
+      "surface": "צדיקים",
       "gloss": "راستان"
     },
     {
-      "surface": "יִֽירְשׁוּ",
+      "surface": "יירשו",
       "gloss": "وارث بیت"
     },
     {
-      "surface": "אָ֫רֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "וְיִשְׁכְּנ֖וּ",
+      "surface": "וישכנו",
       "gloss": "ءُ ونڈیت"
     },
     {
-      "surface": "לָעַ֣ד",
+      "surface": "לעד",
       "gloss": "ہمیشہ"
     },
     {
-      "surface": "עָלֶֽיהָ",
+      "surface": "עליה",
       "gloss": "آءِ تہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:38:30.915925426Z",
-  "model": "glm-5.3"
+  ]
 }

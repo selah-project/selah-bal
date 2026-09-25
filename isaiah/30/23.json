@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "isaiah 30:23",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:19:22.658993040Z",
+  "verse": 23,
+  "ref": "isaiah 30:23",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "ءُ دیت مینہہ تُہادی بیجءِ پہ، آ کہ تُے ⟨את⟩ زمینءَ چیچ کنیں، ءُ نان زمینءِ حاصلءِ، ءُ بیت چمنگ ءُ گوں تیل؛ اے روچءَ تُہادی مال چرایت، یک کھلں چراگاہءَ۔",
   "tokens": [
     {
-      "surface": "וְנָתַן֩",
+      "surface": "ונתן",
       "gloss": "ءُ دیت"
     },
     {
-      "surface": "מְטַ֨ר",
+      "surface": "מטר",
       "gloss": "مینہہ"
     },
     {
-      "surface": "זַרְעֲךָ֜",
+      "surface": "זרעך",
       "gloss": "تُہادی بیج"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "תִּזְרַ֣ע",
+      "surface": "תזרע",
       "gloss": "چیچ کنیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زمین"
     },
     {
-      "surface": "הָאֲדָמָ֗ה",
+      "surface": "האדמה",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "וְלֶ֨חֶם֙",
+      "surface": "ולחם",
       "gloss": "ءُ نان"
     },
     {
-      "surface": "תְּבוּאַ֣ת",
+      "surface": "תבואת",
       "gloss": "حاصل"
     },
     {
-      "surface": "הָֽאֲדָמָ֔ה",
+      "surface": "האדמה",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "וְהָיָ֥ה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "דָּשֵׁ֖ן",
+      "surface": "דשן",
       "gloss": "چمنگ"
     },
     {
-      "surface": "וְשָׁמֵ֑ן",
+      "surface": "ושמן",
       "gloss": "ءُ گوں تیل"
     },
     {
-      "surface": "יִרְעֶ֥ה",
+      "surface": "ירעה",
       "gloss": "چرایت"
     },
     {
-      "surface": "מִקְנֶ֛יךָ",
+      "surface": "מקניך",
       "gloss": "تُہادی مال"
     },
     {
-      "surface": "בַּיּ֥וֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "הַה֗וּא",
+      "surface": "ההוא",
       "gloss": "اے"
     },
     {
-      "surface": "כַּ֥ר",
+      "surface": "כר",
       "gloss": "کھلں"
     },
     {
-      "surface": "נִרְחָֽב",
+      "surface": "נרחב",
       "gloss": "کھلاں"
     }
-  ],
-  "timestamp": "2026-09-25T17:19:22.658993040Z",
-  "model": "glm-5.3"
+  ]
 }

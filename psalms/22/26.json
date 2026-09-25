@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "psalms 22:26",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:36:10.617872749Z",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "چہ ⟨את⟩ تُہ مئیں سپاس گیش جمعءَ تہ اِنت؛ مئیں نذران آییءِ ڈروکانی پہ دیم پورہ کنت۔",
   "tokens": [
     {
-      "surface": "מֵאִתְּךָ",
+      "surface": "מאתך",
       "gloss": "چہ ⟨את⟩ تُہ"
     },
     {
-      "surface": "תְּהִלָּתִי",
+      "surface": "תהלתי",
       "gloss": "مئیں سپاس"
     },
     {
-      "surface": "בְּקָהָל",
+      "surface": "בקהל",
       "gloss": "جمعءَ تہ"
     },
     {
-      "surface": "רָב",
+      "surface": "רב",
       "gloss": "گیش"
     },
     {
-      "surface": "נְדָרַי",
+      "surface": "נדרי",
       "gloss": "مئیں نذران"
     },
     {
-      "surface": "אֲשַׁלֶּם",
+      "surface": "אשלם",
       "gloss": "پورہ کنت"
     },
     {
-      "surface": "נֶגֶד",
+      "surface": "נגד",
       "gloss": "پہ دیم"
     },
     {
-      "surface": "יְרֵאָיו",
+      "surface": "יראיו",
       "gloss": "آییءِ ڈروک"
     }
-  ],
-  "timestamp": "2026-09-25T20:36:10.617872749Z",
-  "model": "glm-5.3"
+  ]
 }

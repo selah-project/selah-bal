@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "psalms 106:3",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:23:10.831879474Z",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "tier": "glm-5.2",
   "chapter": 106,
   "translation": "آشتیاں اِنت اِشانی کہ انصاف نگہ دارینت، ءُ راستی کنوکءَ کہ ہر وہدءَ راستی کنت۔",
   "tokens": [
     {
-      "surface": "אַ֭שְׁרֵי",
+      "surface": "אשרי",
       "gloss": "آشتیاں اِنت"
     },
     {
-      "surface": "שֹׁמְרֵ֣י",
+      "surface": "שמרי",
       "gloss": "اِشانی کہ نگہ دارینت"
     },
     {
-      "surface": "מִשְׁפָּ֑ט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "עֹשֵׂ֖ה",
+      "surface": "עשה",
       "gloss": "کنوکءَ کہ کنت"
     },
     {
-      "surface": "צְדָקָ֣ה",
+      "surface": "צדקה",
       "gloss": "راستی"
     },
     {
-      "surface": "בְכָל",
+      "surface": "בכל",
       "gloss": "ہر"
     },
     {
-      "surface": "עֵֽת",
+      "surface": "עת",
       "gloss": "وہدءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:23:10.831879474Z",
-  "model": "glm-5.3"
+  ]
 }

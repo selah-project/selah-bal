@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "exodus 25:10",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:53:17.237034017Z",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ اَش کننت اَروں چہ شٹیمءِ کاٹھ — دو اَمہ ءُ نیم آییءِ درازی، ءُ یک اَمہ ءُ نیم آییءِ چوڑائی، ءُ یک اَمہ ءُ نیم آییءِ اُچائی.",
   "tokens": [
     {
-      "surface": "וְעָשׂ֥וּ",
+      "surface": "ועשו",
       "gloss": "ءُ اَش کننت"
     },
     {
-      "surface": "אֲר֖וֹן",
+      "surface": "ארון",
       "gloss": "اَروں"
     },
     {
-      "surface": "עֲצֵ֣י",
+      "surface": "עצי",
       "gloss": "کاٹھءِ"
     },
     {
-      "surface": "שִׁטִּ֑ים",
+      "surface": "שטים",
       "gloss": "شٹیم"
     },
     {
-      "surface": "אַמָּתַ֨יִם",
+      "surface": "אמתים",
       "gloss": "دو اَمہ"
     },
     {
-      "surface": "וָחֵ֜צִי",
+      "surface": "וחצי",
       "gloss": "ءُ نیم"
     },
     {
-      "surface": "אָרְכּ֗וֹ",
+      "surface": "ארכו",
       "gloss": "آییءِ درازی"
     },
     {
-      "surface": "וְאַמָּ֤ה",
+      "surface": "ואמה",
       "gloss": "ءُ یک اَمہ"
     },
     {
-      "surface": "וָחֵ֨צִי֙",
+      "surface": "וחצי",
       "gloss": "ءُ نیم"
     },
     {
-      "surface": "רָחְבּ֔וֹ",
+      "surface": "רחבו",
       "gloss": "آییءِ چوڑائی"
     },
     {
-      "surface": "וְאַמָּ֥ה",
+      "surface": "ואמה",
       "gloss": "ءُ یک اَمہ"
     },
     {
-      "surface": "וָחֵ֖צִי",
+      "surface": "וחצי",
       "gloss": "ءُ نیم"
     },
     {
-      "surface": "קֹמָתֽוֹ",
+      "surface": "קמתו",
       "gloss": "آییءِ اُچائی"
     }
-  ],
-  "timestamp": "2026-09-25T15:53:17.237034017Z",
-  "model": "glm-5.3"
+  ]
 }

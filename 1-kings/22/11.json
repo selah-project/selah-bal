@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "1-kings 22:11",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:00:06.184694517Z",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ زیدکیاہ، کِنعانہءِ زہگ، آییءَ پہ وت سیمابی سینگان جوڑ کت ءُ گوَشت: اے گوش یاہوہءِ اِنت: اے سینگانءَ گوں آ رامءَ ⟨את⟩ سینگ لگیت، تہ اے کہ آیان یکے پُر بنت.",
   "tokens": [
@@ -16,67 +18,65 @@
       "gloss": "آییءَ پہ وت"
     },
     {
-      "surface": "צִדְקִיָּה",
+      "surface": "צדקיה",
       "gloss": "زیدکیاہ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "כְּנַעֲנָה",
+      "surface": "כנענה",
       "gloss": "کِنعانہءِ"
     },
     {
-      "surface": "קַרְנֵי",
+      "surface": "קרני",
       "gloss": "سینگان"
     },
     {
-      "surface": "בַּרְזֶל",
+      "surface": "ברזל",
       "gloss": "سیمابی"
     },
     {
-      "surface": "וַיֹּאמֶר",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "כֹּה",
+      "surface": "כה",
       "gloss": "اے گوش"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "اِنت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "בְּאֵלֶּה",
+      "surface": "באלה",
       "gloss": "اے سینگانءَ گوں"
     },
     {
-      "surface": "תְּנַגַּח",
+      "surface": "תנגח",
       "gloss": "سینگ لگیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آ رامءَ"
     },
     {
-      "surface": "אֲרָם",
+      "surface": "ארם",
       "gloss": "آ رامءَ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تہ اے کہ"
     },
     {
-      "surface": "כִּלֻּתָם",
+      "surface": "כלתם",
       "gloss": "آیان یکے پُر بنت"
     }
-  ],
-  "timestamp": "2026-09-25T13:00:06.184694517Z",
-  "model": "glm-5.3"
+  ]
 }

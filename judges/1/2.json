@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "judges 1:2",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:55:23.354903701Z",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ یاہوہءَ گوَشت: یہوداہ روتءَگ، واہ کہ من ⟨את⟩ زمین آییءِ دستءَ داتگءُ اِنت۔",
   "tokens": [
@@ -20,7 +22,7 @@
       "gloss": "یہوداہ"
     },
     {
-      "surface": "יעלہ",
+      "surface": "יעלה",
       "gloss": "روتءَگ"
     },
     {
@@ -44,7 +46,5 @@
       "surface": "בידו",
       "gloss": "آییءِ دستءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:55:23.354903701Z",
-  "model": "glm-5.3"
+  ]
 }

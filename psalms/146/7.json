@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "psalms 146:7",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:33:23.006622439Z",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "tier": "glm-5.2",
   "chapter": 146,
   "translation": "انصافءِ کنوک پہ زیتیں مردم، نانءِ داتوک پہ بھوکالیں؛ یاہوہ بندئیں مردمءَ گورا کنت۔",
   "tokens": [
     {
-      "surface": "עֹשֶׂה",
+      "surface": "עשה",
       "gloss": "کنوک"
     },
     {
-      "surface": "מִשְׁפָּט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "לָעֲשׁוּקִים",
+      "surface": "לעשוקים",
       "gloss": "پہ زیتیں مردم"
     },
     {
-      "surface": "נֹתֵן",
+      "surface": "נתן",
       "gloss": "داتوک"
     },
     {
-      "surface": "לֶחֶם",
+      "surface": "לחם",
       "gloss": "نان"
     },
     {
-      "surface": "לָרְעֵבִים",
+      "surface": "לרעבים",
       "gloss": "پہ بھوکالیں"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "מַתִּיר",
+      "surface": "מתיר",
       "gloss": "گورا کنت"
     },
     {
-      "surface": "אֲסוּרִים",
+      "surface": "אסורים",
       "gloss": "بندئیں مردم"
     }
-  ],
-  "timestamp": "2026-09-25T20:33:23.006622439Z",
-  "model": "glm-5.3"
+  ]
 }

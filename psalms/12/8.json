@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "psalms 12:8",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:29:02.633491267Z",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "تو، اے یاہوہ، اِشاںءَ نگہ داریں؛ آیانءَ چہ اے دورءَ نگہ دل ءُ پہ ہمیشہ.",
   "tokens": [
     {
-      "surface": "אַתָּֽה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "יְהוָ֥ה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "תִּשְׁמְרֵ֑ם",
+      "surface": "תשמרם",
       "gloss": "اِشاںءَ نگہ داریں"
     },
     {
-      "surface": "תִּצְּרֶ֓נּוּ",
+      "surface": "תצרנו",
       "gloss": "آیانءَ نگہ دل"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַדּ֖וֹר",
+      "surface": "הדור",
       "gloss": "اے دورءَ"
     },
     {
-      "surface": "ז֣וּ",
+      "surface": "זו",
       "gloss": "اے"
     },
     {
-      "surface": "לְעוֹלָֽם",
+      "surface": "לעולם",
       "gloss": "پہ ہمیشہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:29:02.633491267Z",
-  "model": "glm-5.3"
+  ]
 }

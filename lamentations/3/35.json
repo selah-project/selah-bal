@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "lamentations 3:35",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:13:56.902270681Z",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "پہ یکے ءِ انصافءَ گنڈیت کنگ، ایلیونءِ چہرءِ پیشءَ",
   "tokens": [
     {
-      "surface": "לְהַטּוֹת",
+      "surface": "להטות",
       "gloss": "پہ گنڈیت کنگ"
     },
     {
-      "surface": "מִשְׁפָּט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "גָּבֶר",
+      "surface": "גבר",
       "gloss": "یکے"
     },
     {
-      "surface": "נֶגֶד",
+      "surface": "נגד",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "פְּנֵי",
+      "surface": "פני",
       "gloss": "چہرءِ"
     },
     {
-      "surface": "עֶלְיוֹן",
+      "surface": "עליון",
       "gloss": "ایلیون"
     }
-  ],
-  "timestamp": "2026-09-25T19:13:56.902270681Z",
-  "model": "glm-5.3"
+  ]
 }

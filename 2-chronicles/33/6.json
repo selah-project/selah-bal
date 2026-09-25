@@ -1,94 +1,94 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "2-chronicles 33:6",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:51:50.444197681Z",
+  "verse": 6,
+  "ref": "2-chronicles 33:6",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ آ آییءِ زہگان ⟨את⟩ تہ آشتءَ گوزارت، تہ ہینومءِ زہگءِ وادیءَ؛ ءُ فال گنت ءُ فسون کت ءُ جادوگری کت، ءُ بانگیں مرگ کار ءُ جان دانیں کت — گیش کت پہ کنگءِ گند یاہوہءِ چشمانءَ تہ، پہ آییءَ غضب آوردگ.",
   "tokens": [
     {
-      "surface": "וְהוּא",
+      "surface": "והוא",
       "gloss": "ءُ آ"
     },
     {
-      "surface": "הֶעֱבִיר",
+      "surface": "העביר",
       "gloss": "گوزارت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ زہگان"
     },
     {
-      "surface": "בָּנָיו",
+      "surface": "בניו",
       "gloss": "آییءِ زہگان"
     },
     {
-      "surface": "בָּאֵשׁ",
+      "surface": "באש",
       "gloss": "تہ آشتءَ"
     },
     {
-      "surface": "בְּגֵי",
+      "surface": "בגי",
       "gloss": "تہ وادیءَ"
     },
     {
-      "surface": "בֶן",
+      "surface": "בן",
       "gloss": "زہگِ"
     },
     {
-      "surface": "הִנֹּם",
+      "surface": "הנם",
       "gloss": "ہینوم"
     },
     {
-      "surface": "וְעוֹנֵן",
+      "surface": "ועונן",
       "gloss": "ءُ فال گنت"
     },
     {
-      "surface": "וְנִחֵשׁ",
+      "surface": "ונחש",
       "gloss": "ءُ فسون کت"
     },
     {
-      "surface": "וְכִשֵּׁף",
+      "surface": "וכשף",
       "gloss": "ءُ جادوگری کت"
     },
     {
-      "surface": "וְעָשָׂה",
+      "surface": "ועשה",
       "gloss": "ءُ کت"
     },
     {
-      "surface": "אוֹב",
+      "surface": "אוב",
       "gloss": "بانگیں مرگ"
     },
     {
-      "surface": "וְיִדְּעֹנִי",
+      "surface": "וידעוני",
       "gloss": "جان دانیں"
     },
     {
-      "surface": "הִרְבָּה",
+      "surface": "הרבה",
       "gloss": "گیش کت"
     },
     {
-      "surface": "לַעֲשׂוֹת",
+      "surface": "לעשות",
       "gloss": "پہ کنگ"
     },
     {
-      "surface": "הָרַע",
+      "surface": "הרע",
       "gloss": "گند"
     },
     {
-      "surface": "בְּעֵינֵי",
+      "surface": "בעיני",
       "gloss": "تہ چشمانءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "לְהַכְעִיסוֹ",
+      "surface": "להכעיסו",
       "gloss": "پہ آییءَ غضب آوردگ"
     }
-  ],
-  "timestamp": "2026-09-25T13:51:50.444197681Z",
-  "model": "glm-5.3"
+  ]
 }

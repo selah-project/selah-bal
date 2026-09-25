@@ -1,89 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "lamentations 2:17",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:13:39.709926470Z",
+  "verse": 17,
+  "ref": "lamentations 2:17",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "یاہوہءَ آ کت کہ آییءَ چشم گشتیگ؛ آییءِ گال پُر کت کہ آییءَ چہ اولیں روزانیان حکم کتگ؛ ڈگارت کت ءُ رحم نہ کت؛ ءُ دشمنءَ تہءِ سرءَ شاد کت؛ آییءِ سینگءَ اُچ کت تہءِ دشمنانی۔",
   "tokens": [
     {
-      "surface": "עָשָׂ֨ה",
+      "surface": "עשה",
       "gloss": "کت"
     },
     {
-      "surface": "יְהוָ֜ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "זָמָ֗ם",
+      "surface": "זמם",
       "gloss": "چشم گشتیگ"
     },
     {
-      "surface": "בִּצַּ֤ע",
+      "surface": "בצע",
       "gloss": "پُر کت"
     },
     {
-      "surface": "אֶמְרָתוֹ֙",
+      "surface": "אמרתו",
       "gloss": "آییءِ گال"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "צִוָּ֣ה",
+      "surface": "צוה",
       "gloss": "حکم کتگ"
     },
     {
-      "surface": "מִֽימֵי",
+      "surface": "מימי",
       "gloss": "چہ روزانی"
     },
     {
-      "surface": "קֶ֔דֶם",
+      "surface": "קדם",
       "gloss": "اولیں"
     },
     {
-      "surface": "הָרַ֖ס",
+      "surface": "הרס",
       "gloss": "ڈگارت کت"
     },
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "חָמָ֑ל",
+      "surface": "חמל",
       "gloss": "رحم کت"
     },
     {
-      "surface": "וַיְשַׂמַּ֤ח",
+      "surface": "וישמח",
       "gloss": "ءُ شاد کت"
     },
     {
-      "surface": "עָלַ֨יִךְ֙",
+      "surface": "עליך",
       "gloss": "تہءِ سرءَ"
     },
     {
-      "surface": "אוֹיֵ֔ב",
+      "surface": "אויב",
       "gloss": "دشمن"
     },
     {
-      "surface": "הֵרִ֖ים",
+      "surface": "הרים",
       "gloss": "اُچ کت"
     },
     {
-      "surface": "קֶ֥רֶן",
+      "surface": "קרן",
       "gloss": "سینگ"
     },
     {
-      "surface": "צָרָֽיִךְ",
+      "surface": "צריך",
       "gloss": "تہءِ دشمنانی"
     }
-  ],
-  "timestamp": "2026-09-25T19:13:39.709926470Z",
-  "model": "glm-5.3"
+  ]
 }

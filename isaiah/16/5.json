@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "isaiah 16:5",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:12:36.963314537Z",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ گوں ہیسید تخت جوڑ بیت، ءُ یکے آییءِ سرءَ بہ راستی گندیت، داودءِ گدانءِ تہءَ، راست‌فصل کنوک ءُ انصافءِ وتیاب کنوک ءُ چلکنک پہ راستی۔",
   "tokens": [
     {
-      "surface": "וְהוּכַ֤ן",
+      "surface": "והוכן",
       "gloss": "ءُ جوڑ بیت"
     },
     {
-      "surface": "בֶּ֨חֶסֶד֙",
+      "surface": "בחסד",
       "gloss": "گوں ہیسید"
     },
     {
-      "surface": "כִּסֵּ֔א",
+      "surface": "כסא",
       "gloss": "تخت"
     },
     {
-      "surface": "וְיָשַׁ֥ב",
+      "surface": "וישב",
       "gloss": "ءُ یکے گندیت"
     },
     {
-      "surface": "עָלָ֛יו",
+      "surface": "עליו",
       "gloss": "آییءِ سرءَ"
     },
     {
-      "surface": "בֶּ֬אֱמֶ֖ת",
+      "surface": "באמת",
       "gloss": "بہ راستی"
     },
     {
-      "surface": "בְּאֹ֣הֶל",
+      "surface": "באהל",
       "gloss": "گدانءِ تہءَ"
     },
     {
-      "surface": "דָּוִ֑ד",
+      "surface": "דוד",
       "gloss": "داود"
     },
     {
-      "surface": "שֹׁפֵ֛ט",
+      "surface": "שפט",
       "gloss": "راست‌فصل کنوک"
     },
     {
-      "surface": "וְדֹרֵ֥שׁ",
+      "surface": "ודרש",
       "gloss": "ءُ وتیاب کنوک"
     },
     {
-      "surface": "מִשְׁפָּ֖ט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "וּמְהִ֥ר",
+      "surface": "ומהר",
       "gloss": "ءُ چلکنک"
     },
     {
-      "surface": "צֶֽדֶק",
+      "surface": "צדק",
       "gloss": "پہ راستی"
     }
-  ],
-  "timestamp": "2026-09-25T17:12:36.963314537Z",
-  "model": "glm-5.3"
+  ]
 }

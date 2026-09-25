@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "jonah 2:10",
   "book": "jonah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:36:22.526077323Z",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ من گوں شکرانی آوازءَ پہ تئے قربانی کنیں، آ کہ نذر کتگ من ادا کنیں؛ نجات یاہوہءِ ⟨اِنت⟩.",
   "tokens": [
     {
-      "surface": "וַאֲנִ֗י",
+      "surface": "ואני",
       "gloss": "ءُ من"
     },
     {
-      "surface": "בְּק֥וֹל",
+      "surface": "בקול",
       "gloss": "گوں آوازءَ"
     },
     {
-      "surface": "תּוֹדָה֙",
+      "surface": "תודה",
       "gloss": "شکرانی"
     },
     {
-      "surface": "אֶזְבְּחָ֣ה",
+      "surface": "אזבחה",
       "gloss": "قربانی کنیں"
     },
     {
-      "surface": "לָ֔ךְ",
+      "surface": "לך",
       "gloss": "پہ تئے"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "נָדַ֖רְתִּי",
+      "surface": "נדרתי",
       "gloss": "نذر کتگ من"
     },
     {
-      "surface": "אֲשַׁלֵּ֑מָה",
+      "surface": "אשלמה",
       "gloss": "ادا کنیں"
     },
     {
-      "surface": "יְשׁוּעָ֖תָה",
+      "surface": "ישועתה",
       "gloss": "نجات"
     },
     {
-      "surface": "לַיהוָֽה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:36:22.526077323Z",
-  "model": "glm-5.3"
+  ]
 }

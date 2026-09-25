@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "2-chronicles 23:12",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:41:56.605259142Z",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "ءُ اَتَلیاہءَ ⟨את⟩ آوازءِ مردمءِ گوشیت کہ روءُ کار ءُ آے کہ ⟨את⟩ شاہءَ ستائیتنت، ءُ آءَ مردمءِ سرءَ یاہوہءِ گدانءَ آت.",
   "tokens": [
     {
-      "surface": "וַתִּשְׁמַע",
+      "surface": "ותשמע",
       "gloss": "ءُ گوشیت کت"
     },
     {
-      "surface": "עֲתַלְיָהוּ",
+      "surface": "עתליהו",
       "gloss": "اَتَلیاہءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آواز"
     },
     {
-      "surface": "קוֹל",
+      "surface": "קול",
       "gloss": "آواز"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "مردمءِ"
     },
     {
-      "surface": "הָרָצִים",
+      "surface": "הרצים",
       "gloss": "روءُ کار"
     },
     {
-      "surface": "וְהַמְהַלְלִים",
+      "surface": "והמהללים",
       "gloss": "ءُ آے کہ ستائیتنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شاہءَ"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہءَ"
     },
     {
-      "surface": "וַתָּבוֹא",
+      "surface": "ותבוא",
       "gloss": "ءُ آت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءِ سرءَ"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "مردم"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T13:41:56.605259142Z",
-  "model": "glm-5.3"
+  ]
 }

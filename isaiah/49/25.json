@@ -1,91 +1,91 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "isaiah 49:25",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:29:00.005568481Z",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "tier": "glm-5.2",
   "chapter": 49,
   "translation": "چون کہ یاہوہءَ ہمے چوں گوَشت: حتیٰ کہ زوریں مردءِ قیدی گپیت بیت، ءُ زالمءِ چیزیں کہ آ گپتگنت چہ آییءِ چنگءَ رہا بیت؛ ءُ من ⟨את⟩ تہءِ دشمنانی گوں مرین کنیں، ءُ من ⟨את⟩ تہءِ زہگان نجات دیں۔",
   "tokens": [
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "چون کہ"
     },
     {
-      "surface": "כֹה",
+      "surface": "כה",
       "gloss": "ہمے چوں"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "حتیٰ کہ"
     },
     {
-      "surface": "שְׁבִי",
+      "surface": "שבי",
       "gloss": "قیدی"
     },
     {
-      "surface": "גִּבּוֹר",
+      "surface": "גבור",
       "gloss": "زوریں مردءِ"
     },
     {
-      "surface": "יֻקָּח",
+      "surface": "יקח",
       "gloss": "گپیت بیت"
     },
     {
-      "surface": "וּמַלְקוֹחַ",
+      "surface": "ומלקוח",
       "gloss": "ءُ چیزیں کہ آ گپتگنت"
     },
     {
-      "surface": "עָרִיץ",
+      "surface": "עריץ",
       "gloss": "زالمءِ"
     },
     {
-      "surface": "יִמָּלֵט",
+      "surface": "ימלט",
       "gloss": "رہا بیت"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "تہءِ دشمنانی"
     },
     {
-      "surface": "יְרִיבֵךְ",
+      "surface": "יריבך",
       "gloss": "تہءِ دشمنانی"
     },
     {
-      "surface": "אָנֹכִי",
+      "surface": "אנכי",
       "gloss": "من"
     },
     {
-      "surface": "אָרִיב",
+      "surface": "אריב",
       "gloss": "مرین کنیں"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "تہءِ زہگان"
     },
     {
-      "surface": "בָּנַיִךְ",
+      "surface": "בניך",
       "gloss": "تہءِ زہگان"
     },
     {
-      "surface": "אָנֹכִי",
+      "surface": "אנכי",
       "gloss": "من"
     },
     {
-      "surface": "אוֹשִׁיעַ",
+      "surface": "אושיע",
       "gloss": "نجات دیں"
     }
-  ],
-  "timestamp": "2026-09-25T17:29:00.005568481Z",
-  "model": "glm-5.3"
+  ]
 }

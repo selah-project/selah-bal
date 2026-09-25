@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "ecclesiastes 7:13",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:36:18.412520264Z",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "بگور ⟨את⟩ ایلوہیمءِ کارءَ، چہ کِے لنگت ⟨את⟩ آ چیزءَ سیدہ کنت کہ آیءَ کج کتگ؟",
   "tokens": [
     {
-      "surface": "רְאֵ֖ה",
+      "surface": "ראה",
       "gloss": "بگور"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ایلوہیمءِ کارءَ"
     },
     {
-      "surface": "מַעֲשֵׂ֣ה",
+      "surface": "מעשה",
       "gloss": "کار"
     },
     {
-      "surface": "הָאֱלֹהִ֑ים",
+      "surface": "האלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "چہ"
     },
     {
-      "surface": "מִ֤י",
+      "surface": "מי",
       "gloss": "کِے"
     },
     {
-      "surface": "יוּכַל֙",
+      "surface": "יוכל",
       "gloss": "لنگت"
     },
     {
-      "surface": "לְתַקֵּ֔ן",
+      "surface": "לתקן",
       "gloss": "سیدہ کنگءِ پہ"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آ چیزءَ کہ آیءَ کج کتگ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "עִוְּתֽוֹ",
+      "surface": "עותו",
       "gloss": "کج کتگءَ آیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:36:18.412520264Z",
-  "model": "glm-5.3"
+  ]
 }

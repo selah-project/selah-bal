@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "jeremiah 49:33",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:14:15.902389750Z",
+  "verse": 33,
+  "ref": "jeremiah 49:33",
+  "tier": "glm-5.2",
   "chapter": 49,
   "translation": "ءُ حاصور گوڈانی جاگہ بیت، ویرانی پہ ہمیشہ — اودا ہچ مردم نہ مانیت، ءُ ادمءِ زہگ ہم اودا نہ جاگیت۔",
   "tokens": [
@@ -16,7 +18,7 @@
       "gloss": "حاصور"
     },
     {
-      "surface": "למעור",
+      "surface": "למעון",
       "gloss": "پہ جاگہ"
     },
     {
@@ -71,7 +73,5 @@
       "surface": "אדם",
       "gloss": "ادم"
     }
-  ],
-  "timestamp": "2026-09-25T18:14:15.902389750Z",
-  "model": "glm-5.3"
+  ]
 }

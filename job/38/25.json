@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "job 38:25",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:32:25.192646231Z",
+  "verse": 25,
+  "ref": "job 38:25",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "کِہ سیلاوءَ رہ جت، ءُ گجگءِ آوازانی بجلیءَ رہ؟",
   "tokens": [
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کِہ"
     },
     {
-      "surface": "פִלַּ֣ג",
+      "surface": "פלג",
       "gloss": "جت"
     },
     {
-      "surface": "לַשֶּׁ֣טֶף",
+      "surface": "לשטף",
       "gloss": "سیلاوءَ رہ"
     },
     {
-      "surface": "תְעָלָ֑ה",
+      "surface": "תעלה",
       "gloss": "رہ"
     },
     {
-      "surface": "וְ֝דֶ֗רֶךְ",
+      "surface": "ודרך",
       "gloss": "ءُ رہ"
     },
     {
-      "surface": "לַחֲזִ֥יז",
+      "surface": "לחזיז",
       "gloss": "بجلیءَ"
     },
     {
-      "surface": "קֹלֽוֹת",
+      "surface": "קלות",
       "gloss": "گجگءِ آوازانی"
     }
-  ],
-  "timestamp": "2026-09-25T18:32:25.192646231Z",
-  "model": "glm-5.3"
+  ]
 }

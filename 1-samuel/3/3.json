@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "1-samuel 3:3",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:26:50.664716670Z",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ ایلوہیمءِ چراغ ہنوں نہ مُٹیگ، ءُ شموئیلءَ یاہوہءِ ہیکلءَ تہ شپ کت، آ جاگہءَ کہ اودا ایلوہیمءِ صندوق اِنت",
   "tokens": [
     {
-      "surface": "וְנֵר",
+      "surface": "ונר",
       "gloss": "ءُ چراغ"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "טֶרֶם",
+      "surface": "טרם",
       "gloss": "ہنوں نہ"
     },
     {
-      "surface": "יִכְבֶּה",
+      "surface": "יכבה",
       "gloss": "مُٹیگ"
     },
     {
-      "surface": "וּשְׁמוּאֵל",
+      "surface": "ושמואל",
       "gloss": "ءُ شموئیلءَ"
     },
     {
-      "surface": "שֹׁכֵב",
+      "surface": "שכב",
       "gloss": "شپ کت"
     },
     {
-      "surface": "בְּהֵיכַל",
+      "surface": "בהיכל",
       "gloss": "ہیکلءَ تہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ جاگہءَ کہ"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ایلوہیمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T13:26:50.664716670Z",
-  "model": "glm-5.3"
+  ]
 }

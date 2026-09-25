@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "psalms 25:16",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:35:34.590041854Z",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "اے منءَ دیم دَر بی ءُ منءَ شفایت کن، پرچا کہ من یکے-یکتا ءُ بی‌چارگ اَت۔",
   "tokens": [
     {
-      "surface": "פְּנֵה",
+      "surface": "פנה",
       "gloss": "دیم دَر بی"
     },
     {
-      "surface": "אֵלַי",
+      "surface": "אלי",
       "gloss": "اے منءَ"
     },
     {
-      "surface": "וְחָנֵּנִי",
+      "surface": "וחנני",
       "gloss": "ءُ منءَ شفایت کن"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "יָחִיד",
+      "surface": "יחיד",
       "gloss": "یکے-یکتا"
     },
     {
-      "surface": "וְעָנִי",
+      "surface": "ועני",
       "gloss": "ءُ بی‌چارگ"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     }
-  ],
-  "timestamp": "2026-09-25T20:35:34.590041854Z",
-  "model": "glm-5.3"
+  ]
 }

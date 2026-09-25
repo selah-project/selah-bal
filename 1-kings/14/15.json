@@ -1,133 +1,133 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "1-kings 14:15",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:52:58.956408537Z",
+  "verse": 15,
+  "ref": "1-kings 14:15",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ یاہوہءَ ⟨את⟩ یسرائیل زنتیت، چوش کہ کنہ تہ آپءَ جنبیت؛ ءُ یسرائیلءَ چہ اے شیرین زمینءَ، آ کہ آیانی پستانءَ داتگ، کنڈ کیت ءُ آیاناں چہ روہءِ پیشءَ پخش کیت، پہ اے پاہ کہ آیاناں ⟨את⟩ اشراہان جوڑ کتگ، یاہوہءَ غمناک کنتگ۔",
   "tokens": [
     {
-      "surface": "וְהִכָּה",
+      "surface": "והכה",
       "gloss": "ءُ زنتیت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یسرائیل"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "יָנוּד",
+      "surface": "ינוד",
       "gloss": "جنبیت"
     },
     {
-      "surface": "הַקָּנֶה",
+      "surface": "הקנה",
       "gloss": "کنہ"
     },
     {
-      "surface": "בַּמַּיִם",
+      "surface": "במים",
       "gloss": "تہ آپءَ"
     },
     {
-      "surface": "וְנָתַשׁ",
+      "surface": "ונתש",
       "gloss": "ءُ کنڈ کیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یسرائیل"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "מֵעַל",
+      "surface": "מעל",
       "gloss": "چہ … سرا"
     },
     {
-      "surface": "הָאֲדָמָה",
+      "surface": "האדמה",
       "gloss": "زمین"
     },
     {
-      "surface": "הַטּוֹבָה",
+      "surface": "הטובה",
       "gloss": "شیرین"
     },
     {
-      "surface": "הַזֹּאת",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "נָתַן",
+      "surface": "נתן",
       "gloss": "داتگ"
     },
     {
-      "surface": "לַאֲבוֹתֵיהֶם",
+      "surface": "לאבותיהם",
       "gloss": "آیانی پستانءَ"
     },
     {
-      "surface": "וְזֵרָם",
+      "surface": "וזרם",
       "gloss": "ءُ پخش کیت"
     },
     {
-      "surface": "מֵעֵבֶר",
+      "surface": "מעבר",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "לַנָּהָר",
+      "surface": "לנהר",
       "gloss": "روہءِ"
     },
     {
-      "surface": "יַעַן",
+      "surface": "יען",
       "gloss": "پہ اے پاہ کہ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "עָשׂוּ",
+      "surface": "עשו",
       "gloss": "جوڑ کتگ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اشراہان"
     },
     {
-      "surface": "אֲשֵׁרֵיהֶם",
+      "surface": "אשריהם",
       "gloss": "اشراہان"
     },
     {
-      "surface": "מַכְעִיסִים",
+      "surface": "מכעיסים",
       "gloss": "غمناک کنوک"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T12:52:58.956408537Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "1-chronicles 11:10",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:31:45.213413515Z",
+  "verse": 10,
+  "ref": "1-chronicles 11:10",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ اے اَنت سرِی چیلانءِ کہ داودءِ اَنت، آ کہ گوں آییءَ آییءِ شاهیءَ تہ گوں پوریں اِسرائیل آییءَ شاه کت، چوش کہ یاہوہءِ گال اِسرائیلءِ سرءَ اِنت.",
   "tokens": [
     {
-      "surface": "וְאֵ֨לֶּה",
+      "surface": "ואלה",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "רָאשֵׁי",
+      "surface": "ראשי",
       "gloss": "سرِی"
     },
     {
-      "surface": "הַגִּבּוֹרִים",
+      "surface": "הגבורים",
       "gloss": "چیلانءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לְדָוִיד",
+      "surface": "לדויד",
       "gloss": "داودءِ اَنت"
     },
     {
-      "surface": "הַמִּתְחַזְּקִים",
+      "surface": "המתחזקים",
       "gloss": "آ کہ گوں آییءَ چیز دیگ"
     },
     {
-      "surface": "עִמּוֹ",
+      "surface": "עמו",
       "gloss": "گوں آییءَ"
     },
     {
-      "surface": "בְּמַלְכוּתוֹ",
+      "surface": "במלכותו",
       "gloss": "آییءِ شاهیءَ تہ"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اِسرائیل"
     },
     {
-      "surface": "לְהַמְלִיכוֹ",
+      "surface": "להמליכו",
       "gloss": "آییءَ شاه کت"
     },
     {
-      "surface": "כִּדְבַר",
+      "surface": "כדבר",
       "gloss": "چوش کہ … ءِ گال"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "ءِ سرءَ"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اِسرائیل"
     }
-  ],
-  "timestamp": "2026-09-25T12:31:45.213413515Z",
-  "model": "glm-5.3"
+  ]
 }

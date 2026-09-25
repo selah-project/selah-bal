@@ -1,63 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "1-kings 1:12",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:47:58.962372574Z",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ اِشاں رو، من تھے یک صلاح دیم، پہ آیی کہ تھے ⟨את⟩ جانءَ ءُ ⟨את⟩ تھے زہگ شلومہءِ جانءَ نجات دین.",
   "tokens": [
     {
-      "surface": "וְעַתָּ֕ה",
+      "surface": "ועתה",
       "gloss": "ءُ اِشاں"
     },
     {
-      "surface": "לְכִ֛י",
+      "surface": "לכי",
       "gloss": "رو"
     },
     {
-      "surface": "אִיעָצֵ֥ךְ",
+      "surface": "איעצך",
       "gloss": "من تھے صلاح دیم"
     },
     {
-      "surface": "נָ֖א",
+      "surface": "נא",
       "gloss": "مہربانیءَ"
     },
     {
-      "surface": "עֵצָ֑ה",
+      "surface": "עצה",
       "gloss": "صلاح"
     },
     {
-      "surface": "וּמַלְטִי֙",
+      "surface": "ומלטי",
       "gloss": "ءُ نجات دین"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تھے جانءَ"
     },
     {
-      "surface": "נַפְשֵׁ֔ךְ",
+      "surface": "נפשך",
       "gloss": "تھے جانءَ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "تھے زہگ شلومہءِ جان"
     },
     {
-      "surface": "נֶ֥פֶשׁ",
+      "surface": "נפש",
       "gloss": "جان"
     },
     {
-      "surface": "בְּנֵ֖ךְ",
+      "surface": "בנך",
       "gloss": "تھے زہگءِ"
     },
     {
-      "surface": "שְׁלֹמֹֽה",
+      "surface": "שלמה",
       "gloss": "شلومہ"
     }
-  ],
-  "timestamp": "2026-09-25T12:47:58.962372574Z",
-  "model": "glm-5.3"
+  ]
 }

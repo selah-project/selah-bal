@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "job 33:23",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:29:05.913818357Z",
+  "verse": 23,
+  "ref": "job 33:23",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "اگر آییءِ سرءَ یک فرشتہ ترجمان ہست، چہ ہزارءَ یک، پہ آدمءَ آییءِ راستی گوَشتنءَ —",
   "tokens": [
@@ -12,46 +14,44 @@
       "gloss": "اگر"
     },
     {
-      "surface": "יֵשׁ",
+      "surface": "יש",
       "gloss": "ہست"
     },
     {
-      "surface": "עָלָיו",
+      "surface": "עליו",
       "gloss": "آییءِ سرءَ"
     },
     {
-      "surface": "מַלְאָךְ",
+      "surface": "מלאך",
       "gloss": "فرشتہ"
     },
     {
-      "surface": "מֵלִיץ",
+      "surface": "מליץ",
       "gloss": "ترجمان"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "מִנִּי",
+      "surface": "מני",
       "gloss": "چہ"
     },
     {
-      "surface": "אֶלֶף",
+      "surface": "אלף",
       "gloss": "ہزار"
     },
     {
-      "surface": "לְהַגִּיד",
+      "surface": "להגיד",
       "gloss": "گوَشتنءَ کہ"
     },
     {
-      "surface": "לְאָדָם",
+      "surface": "לאדם",
       "gloss": "پہ آدمءَ"
     },
     {
-      "surface": "יָשְׁרוֹ",
+      "surface": "ישרו",
       "gloss": "آییءِ راستی"
     }
-  ],
-  "timestamp": "2026-09-25T18:29:05.913818357Z",
-  "model": "glm-5.3"
+  ]
 }

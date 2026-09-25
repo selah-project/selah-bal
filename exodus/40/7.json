@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "exodus 40:7",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:02:24.187609645Z",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "tier": "glm-5.2",
   "chapter": 40,
   "translation": "ءُ تو ⟨את⟩ حوضءَ ملاقاتءِ گدان ءُ قربانگاہءِ مانجینءَ گِڈ دیت، ءُ اودا آپ گِڈ دیت.",
   "tokens": [
     {
-      "surface": "וְנָֽתַתָּ֙",
+      "surface": "ונתת",
       "gloss": "ءُ تو گِڈ دیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "حوض"
     },
     {
-      "surface": "הַכִּיֹּ֔ר",
+      "surface": "הכיר",
       "gloss": "حوضءَ"
     },
     {
-      "surface": "בֵּֽין",
+      "surface": "בין",
       "gloss": "مانجینءَ"
     },
     {
-      "surface": "אֹ֥הֶל",
+      "surface": "אהל",
       "gloss": "گadanءِ"
     },
     {
-      "surface": "מוֹעֵ֖ד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וּבֵ֣ין",
+      "surface": "ובין",
       "gloss": "ءُ مانجینءَ"
     },
     {
-      "surface": "הַמִּזְבֵּ֑חַ",
+      "surface": "המזבח",
       "gloss": "قربانگاہءِ"
     },
     {
-      "surface": "וְנָתַתָּ֥",
+      "surface": "ונתת",
       "gloss": "ءُ تو گِڈ دیت"
     },
     {
-      "surface": "שָׁ֖ם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "מָֽיִם",
+      "surface": "מים",
       "gloss": "آپ"
     }
-  ],
-  "timestamp": "2026-09-25T16:02:24.187609645Z",
-  "model": "glm-5.3"
+  ]
 }

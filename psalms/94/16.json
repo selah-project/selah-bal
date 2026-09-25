@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "psalms 94:16",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:17:20.082948242Z",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "tier": "glm-5.2",
   "chapter": 94,
   "translation": "کے پہ من قائم بیت گوں زیانی کارکنوکان؟ کے پہ من وتی جا درَوشیت گوں اِشرءِ کارکنوکان؟",
   "tokens": [
@@ -44,14 +46,12 @@
       "gloss": "گوں"
     },
     {
-      "surface": "فوعלי",
+      "surface": "פעלי",
       "gloss": "کارکنوکانی"
     },
     {
       "surface": "און",
       "gloss": "اِشر"
     }
-  ],
-  "timestamp": "2026-09-25T21:17:20.082948242Z",
-  "model": "glm-5.3"
+  ]
 }

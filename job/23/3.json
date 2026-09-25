@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "job 23:3",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:25:15.192854480Z",
+  "verse": 3,
+  "ref": "job 23:3",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "کہ چوں دیت کہ من زانم ءُ آیءَ لبزم، ءُ من آییءِ جاگہءَ بیائم؟",
   "tokens": [
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کہ"
     },
     {
-      "surface": "יִתֵּ֣ן",
+      "surface": "יתן",
       "gloss": "چوں دیت"
     },
     {
-      "surface": "יָ֭דַעְתִּי",
+      "surface": "ידעתי",
       "gloss": "زانم"
     },
     {
-      "surface": "וְאֶמְצָאֵ֑הוּ",
+      "surface": "ואמצאהו",
       "gloss": "ءُ آیءَ لبزم"
     },
     {
-      "surface": "אָ֝ב֗וֹא",
+      "surface": "אבוא",
       "gloss": "بیائم"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "תְּכוּנָתֽוֹ",
+      "surface": "תכונתו",
       "gloss": "آییءِ جاگہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:25:15.192854480Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "isaiah 27:4",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:16:15.132400324Z",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "غصہ مگں نیست؛ کے منا جنگءَ زر ءُ ٹیکار تینت؟ من آیانءَ لتھیں کنیں، آیانءَ همک جوش کنیں۔",
   "tokens": [
     {
-      "surface": "חֵמָה",
+      "surface": "חמה",
       "gloss": "غصہ"
     },
     {
-      "surface": "אֵין",
+      "surface": "אין",
       "gloss": "نیست"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "مگں"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יִתְּנֵנִי",
+      "surface": "יתנני",
       "gloss": "منا تینت"
     },
     {
-      "surface": "שָׁמִיר",
+      "surface": "שמיר",
       "gloss": "زر"
     },
     {
-      "surface": "שַׁיִת",
+      "surface": "שית",
       "gloss": "ٹیکار"
     },
     {
-      "surface": "בַּמִּלְחָמָה",
+      "surface": "במלחמה",
       "gloss": "جنگءَ"
     },
     {
-      "surface": "אֶפְשְׂעָה",
+      "surface": "אפשעה",
       "gloss": "لتھیں کنیں"
     },
     {
-      "surface": "בָּהּ",
+      "surface": "בה",
       "gloss": "آیانءَ"
     },
     {
-      "surface": "אֲצִיתֶנָּה",
+      "surface": "אציתנה",
       "gloss": "جوش کنیں"
     },
     {
-      "surface": "יָּחַד",
+      "surface": "יחד",
       "gloss": "همک"
     }
-  ],
-  "timestamp": "2026-09-25T17:16:15.132400324Z",
-  "model": "glm-5.3"
+  ]
 }

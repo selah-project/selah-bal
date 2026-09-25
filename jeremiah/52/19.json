@@ -1,112 +1,112 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "jeremiah 52:19",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:17:16.434557401Z",
+  "verse": 19,
+  "ref": "jeremiah 52:19",
+  "tier": "glm-5.2",
   "chapter": 52,
   "translation": "ءُ ⟨את⟩ پیالہان ءُ ⟨את⟩ آتشءِ پلیتان ءُ ⟨את⟩ پاشوک کاسہان ءُ ⟨את⟩ دیگان ءُ ⟨את⟩ چراغان ءُ ⟨את⟩ چمچہان ءُ ⟨את⟩ شرابءِ پیالہان — آ کہ زر زر اِنت ءُ آ کہ سیم سیم اِنت — جلادانی سردارءَ گرت.",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پیالہان"
     },
     {
-      "surface": "הַסִּפִּים",
+      "surface": "הספים",
       "gloss": "پیالہان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آتشءِ پلیتان"
     },
     {
-      "surface": "הַמַּחְתּוֹת",
+      "surface": "המחתות",
       "gloss": "آتشءِ پلیتان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پاشوک کاسہان"
     },
     {
-      "surface": "הַמִּזְרָקוֹת",
+      "surface": "המזרקות",
       "gloss": "پاشوک کاسہان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "دیگان"
     },
     {
-      "surface": "הַסִּירוֹת",
+      "surface": "הסירות",
       "gloss": "دیگان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "چراغان"
     },
     {
-      "surface": "הַמְּנֹרוֹת",
+      "surface": "המנרות",
       "gloss": "چراغان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "چمچہان"
     },
     {
-      "surface": "הַכַּפּוֹת",
+      "surface": "הכפות",
       "gloss": "چمچہان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "شرابءِ پیالہان"
     },
     {
-      "surface": "הַמְּנַקִיּוֹת",
+      "surface": "המנקיות",
       "gloss": "شرابءِ پیالہان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "זָהָב",
+      "surface": "זהב",
       "gloss": "زر"
     },
     {
-      "surface": "זָהָב",
+      "surface": "זהב",
       "gloss": "زر"
     },
     {
-      "surface": "וַאֲשֶׁר",
+      "surface": "ואשר",
       "gloss": "ءُ آ کہ"
     },
     {
-      "surface": "כֶּסֶף",
+      "surface": "כסף",
       "gloss": "سیم"
     },
     {
-      "surface": "כָּסֶף",
+      "surface": "כסף",
       "gloss": "سیم"
     },
     {
-      "surface": "לָקַח",
+      "surface": "לקח",
       "gloss": "گرت"
     },
     {
-      "surface": "רַב",
+      "surface": "רב",
       "gloss": "سردار"
     },
     {
-      "surface": "טַבָּחִים",
+      "surface": "טבחים",
       "gloss": "جلادان"
     }
-  ],
-  "timestamp": "2026-09-25T18:17:16.434557401Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "numbers 28:20",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:57:03.001231949Z",
+  "verse": 20,
+  "ref": "numbers 28:20",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ آیانی سوچگیں قربانیءِ نذری پیڑ تیلءَ گوں رُٹگ بیت: پہ گو سئے دہماں، ءُ پہ میش دو دہماں تُئے کمیت۔",
   "tokens": [
     {
-      "surface": "וּמִנְחָתָם",
+      "surface": "ומנחתם",
       "gloss": "ءُ آیانی سوچگیں قربانیءِ نذری"
     },
     {
-      "surface": "סֹלֶת",
+      "surface": "סלת",
       "gloss": "پیڑ"
     },
     {
-      "surface": "בְּלוּלָה",
+      "surface": "בלולה",
       "gloss": "رُٹگ"
     },
     {
-      "surface": "בַּשָּׁמֶן",
+      "surface": "בשמן",
       "gloss": "تیلءَ گوں"
     },
     {
-      "surface": "שְׁלֹשָׁה",
+      "surface": "שלשה",
       "gloss": "سئے"
     },
     {
-      "surface": "עֶשְׂרֹנִים",
+      "surface": "עשרנים",
       "gloss": "دہماں"
     },
     {
-      "surface": "לַפָּר",
+      "surface": "לפר",
       "gloss": "پہ گو"
     },
     {
-      "surface": "וּשְׁנֵי",
+      "surface": "ושני",
       "gloss": "ءُ دو"
     },
     {
-      "surface": "עֶשְׂרֹנִים",
+      "surface": "עשרנים",
       "gloss": "دہماں"
     },
     {
-      "surface": "לָאַיִל",
+      "surface": "לאיל",
       "gloss": "پہ میش"
     },
     {
-      "surface": "תַּעֲשׂוּ",
+      "surface": "תעשו",
       "gloss": "تُئے کمیت"
     }
-  ],
-  "timestamp": "2026-09-25T19:57:03.001231949Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "isaiah 12:6",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:13:39.856343338Z",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "شاد گوَز ءُ بانگ بزن، ئے زئیوںءِ رہندوکا، پرچا کہ اسرائیلءِ مقدس تہءِ میانءَ گیش اِنت۔",
   "tokens": [
     {
-      "surface": "צַהֲלִ֥י",
+      "surface": "צהלי",
       "gloss": "شاد گوَز"
     },
     {
-      "surface": "וָרֹ֖נִּי",
+      "surface": "ורני",
       "gloss": "ءُ بانگ بزن"
     },
     {
-      "surface": "יוֹשֶׁ֣בֶת",
+      "surface": "יושבת",
       "gloss": "رہندوکا"
     },
     {
-      "surface": "צִיּ֑וֹן",
+      "surface": "ציון",
       "gloss": "زئیوںءِ"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "גָד֥וֹל",
+      "surface": "גדול",
       "gloss": "گیش"
     },
     {
-      "surface": "בְּקִרְבֵּ֖ךְ",
+      "surface": "בקרבך",
       "gloss": "تہءِ میانءَ"
     },
     {
-      "surface": "קְד֥וֹשׁ",
+      "surface": "קדוש",
       "gloss": "مقدس"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:13:39.856343338Z",
-  "model": "glm-5.3"
+  ]
 }

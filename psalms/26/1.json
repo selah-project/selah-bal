@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 26:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:35:35.862939750Z",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "داؤدءِ ⟨پہ⟩ — یاہوہءَ منی پہ دان، پرچا کہ من وتی پاکیءَ راوت ءُ یاہوہ تہ اتکم من، نہ لرزان اِنت۔",
   "tokens": [
     {
-      "surface": "לְדָוִ֨ד",
+      "surface": "לדוד",
       "gloss": "داؤدءِ ⟨پہ⟩"
     },
     {
-      "surface": "שָׁפְטֵ֤נִי",
+      "surface": "שפטני",
       "gloss": "منی پہ دان"
     },
     {
-      "surface": "יְהוָ֗ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֲ֭נִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "בְּתֻמִּ֣י",
+      "surface": "בתמי",
       "gloss": "وتی پاکیءَ"
     },
     {
-      "surface": "הָלַ֑כְתִּי",
+      "surface": "הלכתי",
       "gloss": "راوت من"
     },
     {
-      "surface": "וּבַיהוָ֥ה",
+      "surface": "וביהוה",
       "gloss": "ءُ یاہوہ تہ"
     },
     {
-      "surface": "בָּטַ֗חְתִּי",
+      "surface": "בטחתי",
       "gloss": "اتکم من"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אֶמְעָֽד",
+      "surface": "אמעד",
       "gloss": "لرزان"
     }
-  ],
-  "timestamp": "2026-09-25T20:35:35.862939750Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "psalms 105:25",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:24:08.754589073Z",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "tier": "glm-5.2",
   "chapter": 105,
   "translation": "پھیر کت ⟨آیانی⟩ دلءَ کہ آییءِ قومءَ بغض کننت، کہ آییءِ بندگانی وٹے مکاری کننت۔",
   "tokens": [
     {
-      "surface": "הָפַ֣ךְ",
+      "surface": "הפך",
       "gloss": "پھیر کت"
     },
     {
-      "surface": "לִבָּ֭ם",
+      "surface": "לבם",
       "gloss": "آیانی دلءَ"
     },
     {
-      "surface": "לִשְׂנֹ֣א",
+      "surface": "לשנא",
       "gloss": "کہ بغض کننت"
     },
     {
-      "surface": "עַמּ֑וֹ",
+      "surface": "עמו",
       "gloss": "آییءِ قومءَ"
     },
     {
-      "surface": "לְהִתְנַכֵּ֗ל",
+      "surface": "להתנכל",
       "gloss": "کہ مکاری کننت"
     },
     {
-      "surface": "בַּעֲבָדָֽיו",
+      "surface": "בעבדיו",
       "gloss": "آییءِ بندگانی وٹے"
     }
-  ],
-  "timestamp": "2026-09-25T20:24:08.754589073Z",
-  "model": "glm-5.3"
+  ]
 }

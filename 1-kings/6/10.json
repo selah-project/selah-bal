@@ -1,18 +1,20 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "1-kings 6:10",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:05:42.885698771Z",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ ⟨את⟩ گوشکی ڈھانچہ تہ سرءَ تمام گدان جوڑ کت، پنچ آرش آییءِ بُرزگی؛ ءُ چونزءِ داران ⟨את⟩ گدانءَ گرپت.",
   "tokens": [
     {
-      "surface": "וַיִּבֶן",
+      "surface": "ויבן",
       "gloss": "ءُ جوڑ کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گوشکی ڈھانچہ"
     },
@@ -21,51 +23,49 @@
       "gloss": "گوشکی ڈھانچہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ سرءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "הַבַּיִת",
+      "surface": "הבית",
       "gloss": "گدان"
     },
     {
-      "surface": "חָמֵשׁ",
+      "surface": "חמש",
       "gloss": "پنچ"
     },
     {
-      "surface": "אַמּוֹת",
+      "surface": "אמות",
       "gloss": "آرش"
     },
     {
-      "surface": "קוֹמָתוֹ",
+      "surface": "קומתו",
       "gloss": "آییءِ بُرزگی"
     },
     {
-      "surface": "וַיֶּאֱחֹז",
+      "surface": "ויאחז",
       "gloss": "ءُ گرپت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گدان"
     },
     {
-      "surface": "הַבַּיִת",
+      "surface": "הבית",
       "gloss": "گدان"
     },
     {
-      "surface": "בַּעֲצֵי",
+      "surface": "בעצי",
       "gloss": "گوں دارانی"
     },
     {
-      "surface": "אֲרָזִים",
+      "surface": "ארזים",
       "gloss": "چونز"
     }
-  ],
-  "timestamp": "2026-09-25T13:05:42.885698771Z",
-  "model": "glm-5.3"
+  ]
 }

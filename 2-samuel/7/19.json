@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "2-samuel 7:19",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:44:49.949224338Z",
+  "verse": 19,
+  "ref": "2-samuel 7:19",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ اے ⟨ہست⟩ اُڈ چمءَ تہ آییءِ چشمانءَ کُجک، اے ادونای یاہوہ، ءُ تو وتی بندہءِ گدانی بابتءَ گوں دورءِ وہدءَ هم گوَشتیت؛ ءُ اے ہست توراتءِ آدمءِ، اے ادونای یاہوہ۔",
   "tokens": [
     {
-      "surface": "וַתִּקְטַן֩",
+      "surface": "ותקטן",
       "gloss": "ءُ چمءَ کُجک بوت"
     },
     {
-      "surface": "עוֹד",
+      "surface": "עוד",
       "gloss": "اُڈ"
     },
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "בְּעֵינֶיךָ",
+      "surface": "בעיניך",
       "gloss": "تہ آییءِ چشمانءَ"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "اے ادونای"
     },
     {
-      "surface": "יְהוִה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וַתְּדַבֵּר",
+      "surface": "ותדבר",
       "gloss": "ءُ گوَشتیت"
     },
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "ہم"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدانءِ بابتءَ"
     },
     {
-      "surface": "עַבְדְּךָ",
+      "surface": "עבדך",
       "gloss": "تی بندہءِ"
     },
     {
-      "surface": "לְמֵרָחוֹק",
+      "surface": "למרחוק",
       "gloss": "گوں دورءِ وہدءَ"
     },
     {
-      "surface": "וְזֹאת",
+      "surface": "וזאת",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "תּוֹרַת",
+      "surface": "תורת",
       "gloss": "توراتءِ"
     },
     {
-      "surface": "הָאָדָם",
+      "surface": "האדם",
       "gloss": "آدمءِ"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "اے ادونای"
     },
     {
-      "surface": "יְהוִה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T14:44:49.949224338Z",
-  "model": "glm-5.3"
+  ]
 }

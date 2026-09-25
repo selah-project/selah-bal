@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "leviticus 10:13",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:15:30.689267156Z",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ اِشما ⟨את⟩ تہ پاکءِ جاگہءَ چکءِ اِنت، پرچا کہ آ تُہءِ حصہ ءُ تُہءِ زہگانءِ حصہ اِنت، چہ یاہوہءِ آتشانی قربانیاں؛ پرچا کہ چوشءَ منءَ حکم بوتگ۔",
   "tokens": [
     {
-      "surface": "וַאֲכַלְתֶּם",
+      "surface": "ואכלתם",
       "gloss": "ءُ اِشما"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩",
       "marks": "تہ پاکءِ جاگہءَ (آییءَ چکنیں چیز)"
     },
     {
-      "surface": "בְּמָקוֹם",
+      "surface": "במקום",
       "gloss": "تہ جاگہءَ"
     },
     {
-      "surface": "קָדֹשׁ",
+      "surface": "קדש",
       "gloss": "پاک"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "חָקְךָ",
+      "surface": "חקך",
       "gloss": "تُہءِ حصہ"
     },
     {
-      "surface": "וְחָק",
+      "surface": "וחק",
       "gloss": "ءُ حصہ"
     },
     {
-      "surface": "בָּנֶיךָ",
+      "surface": "בניך",
       "gloss": "تُہءِ زہگانءِ"
     },
     {
-      "surface": "הִוא",
+      "surface": "הוא",
       "gloss": "اِنت"
     },
     {
-      "surface": "מֵאִשֵּׁי",
+      "surface": "מאשי",
       "gloss": "چہ آتشانی قربانیاں"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "چوشءَ"
     },
     {
-      "surface": "צֻוֵּיתִי",
+      "surface": "צויתי",
       "gloss": "منءَ حکم بوتگ"
     }
-  ],
-  "timestamp": "2026-09-25T19:15:30.689267156Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,42 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "jeremiah 29:13",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:51:53.132133341Z",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ شما منءَ ⟨את⟩ جست کنیت ءُ منءَ لبیت، پرچا کہ منءَ گوں وتءِ پوریں دل جست کنیت.",
   "tokens": [
     {
-      "surface": "וּבִקַּשְׁתֶּ֥ם",
+      "surface": "ובקשתם",
       "gloss": "ءُ منءَ جست کنیت"
     },
     {
-      "surface": "אֹתִ֖י",
+      "surface": "אתי",
       "gloss": "⟨את⟩",
       "marks": "منءَ (אתי — نشان گوں پسوند «منءَ»)"
     },
     {
-      "surface": "וּמְצָאתֶ֑ם",
+      "surface": "ומצאתם",
       "gloss": "ءُ لبیت"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "תִדְרְשֻׁ֖נִי",
+      "surface": "תדרשני",
       "gloss": "منءَ جست کنیت"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "گوں پوریں"
     },
     {
-      "surface": "לְבַבְכֶֽם",
+      "surface": "לבבכם",
       "gloss": "وتءِ دل"
     }
-  ],
-  "timestamp": "2026-09-25T17:51:53.132133341Z",
-  "model": "glm-5.3"
+  ]
 }

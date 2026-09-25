@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 128,
-  "ref": "psalms 119:128",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:26:50.316717227Z",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "پہ اے سببءَ من ءُ تُءِ ہر یک فرماناں گوں ہر چیزءَ راست گنیت، ءُ من ہر دروگیں رہءَ چیت.",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "اے سببءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر یک"
     },
     {
-      "surface": "פִּקּוּדֵי",
+      "surface": "פקודי",
       "gloss": "فرماناں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر چیزءَ"
     },
     {
-      "surface": "יִשָּׁרְתִּי",
+      "surface": "ישרתי",
       "gloss": "راست گنیت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "אֹרַח",
+      "surface": "ארח",
       "gloss": "رہءَ"
     },
     {
-      "surface": "שֶׁקֶר",
+      "surface": "שקר",
       "gloss": "دروگیں"
     },
     {
-      "surface": "שָׂנֵאתִי",
+      "surface": "שנאתי",
       "gloss": "چیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:26:50.316717227Z",
-  "model": "glm-5.3"
+  ]
 }

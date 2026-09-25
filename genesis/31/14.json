@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "genesis 31:14",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:50:15.402174025Z",
+  "verse": 14,
+  "ref": "genesis 31:14",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "ءُ راحیل ءُ لِیاہ جواب دات ءُ آییءَ گوَشتن: آیا ماتے ایشی ہم پس مانیں بُرئھی ءُ ورثت اِنت پِدئے ماںِ گدانءَ تہ؟",
   "tokens": [
     {
-      "surface": "וַתַּעַן",
+      "surface": "ותען",
       "gloss": "ءُ جواب دات"
     },
     {
-      "surface": "רָחֵל",
+      "surface": "רחל",
       "gloss": "راحیل"
     },
     {
-      "surface": "וְלֵאָה",
+      "surface": "ולאה",
       "gloss": "ءُ لِیاہ"
     },
     {
-      "surface": "וַתֹּאמַרְנָה",
+      "surface": "ותאמרנה",
       "gloss": "ءُ گوَشتن"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "הַעוֹד",
+      "surface": "העוד",
       "gloss": "آیا ایشی ہم پس مانیں"
     },
     {
-      "surface": "לָנוּ",
+      "surface": "לנו",
       "gloss": "ماتے"
     },
     {
-      "surface": "חֵלֶק",
+      "surface": "חלק",
       "gloss": "بُرئھی"
     },
     {
-      "surface": "וְנַחֲלָה",
+      "surface": "ונחלה",
       "gloss": "ءُ ورثت"
     },
     {
-      "surface": "בְּבֵית",
+      "surface": "בבית",
       "gloss": "تہ گدانءَ"
     },
     {
-      "surface": "אָבִינוּ",
+      "surface": "אבינו",
       "gloss": "پِدئے ماںی"
     }
-  ],
-  "timestamp": "2026-09-25T16:50:15.402174025Z",
-  "model": "glm-5.3"
+  ]
 }

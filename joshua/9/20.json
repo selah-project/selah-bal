@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "joshua 9:20",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:55:18.886075436Z",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "اے ما آیانی پہ کنیں، ءُ آیانءَ ⟨את⟩ زیندا داریں، ءُ نہ بیت اسپءِ سرءَ قہر، پہ ہے قسمءِ پہ کہ ما آیانی پہ قسم چیت.",
   "tokens": [
     {
-      "surface": "זֹ֛את",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "נַעֲשֶׂ֥ה",
+      "surface": "נעשה",
       "gloss": "کنیں"
     },
     {
-      "surface": "לָהֶ֖ם",
+      "surface": "להם",
       "gloss": "آیانی پہ"
     },
     {
-      "surface": "وְהַחֲיֵ֣ה",
+      "surface": "והחיה",
       "gloss": "ءُ زیندا داریں"
     },
     {
-      "surface": "אוֹתָ֑ם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "آیانءَ (کجاواین) — زیندا داریںءِ مفعول"
     },
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִֽהְיֶ֤ה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "עָלֵ֨ינוּ֙",
+      "surface": "עלינו",
       "gloss": "اسپءِ سرءَ"
     },
     {
-      "surface": "קֶ֔צֶף",
+      "surface": "קצף",
       "gloss": "قہر"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "הַשְּׁבוּעָ֖ה",
+      "surface": "השבועה",
       "gloss": "ہے قسم"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נִשְׁבַּ֥עְנוּ",
+      "surface": "נשבענו",
       "gloss": "قسم چیت"
     },
     {
-      "surface": "לָהֶֽם",
+      "surface": "להם",
       "gloss": "آیانی پہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:55:18.886075436Z",
-  "model": "glm-5.3"
+  ]
 }

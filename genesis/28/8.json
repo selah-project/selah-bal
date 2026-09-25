@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "genesis 28:8",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:48:35.830219780Z",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ عیساؤءَ گندیت کہ کنعانءِ جنکان آییءِ پت یسحاقءِ چشمانءَ بریں اِنتنت۔",
   "tokens": [
     {
-      "surface": "וַיַּ֣רְא",
+      "surface": "וירא",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "עֵשָׂ֔ו",
+      "surface": "עשו",
       "gloss": "عیساؤءَ"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "רָע֖וֹת",
+      "surface": "רעות",
       "gloss": "بریں"
     },
     {
-      "surface": "בְּנ֣וֹת",
+      "surface": "בנות",
       "gloss": "جنکان"
     },
     {
-      "surface": "כְּנָ֑עַן",
+      "surface": "כנען",
       "gloss": "کنعانءِ"
     },
     {
-      "surface": "בְּעֵינֵ֖י",
+      "surface": "בעיני",
       "gloss": "چشمانءَ تہ"
     },
     {
-      "surface": "יִצְחָ֥ק",
+      "surface": "יצחק",
       "gloss": "یسحاقءِ"
     },
     {
-      "surface": "אָבִֽיו",
+      "surface": "אביו",
       "gloss": "آییءِ پت"
     }
-  ],
-  "timestamp": "2026-09-25T16:48:35.830219780Z",
-  "model": "glm-5.3"
+  ]
 }

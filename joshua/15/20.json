@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "joshua 15:20",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:40:50.713290768Z",
+  "verse": 20,
+  "ref": "joshua 15:20",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "اے یہوداہءِ زہگانی ٹولیءِ مِیراث اِنت، اِشانی خاندانانی پہ۔",
   "tokens": [
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "נַחֲלַת",
+      "surface": "נחלת",
       "gloss": "مِیراث"
     },
     {
-      "surface": "מַטֵּה",
+      "surface": "מטה",
       "gloss": "ٹولی"
     },
     {
-      "surface": "בְנֵי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہءِ"
     },
     {
-      "surface": "לְמִשְׁפְּחֹתָם",
+      "surface": "למשפחתם",
       "gloss": "اِشانی خاندانانی پہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:40:50.713290768Z",
-  "model": "glm-5.3"
+  ]
 }

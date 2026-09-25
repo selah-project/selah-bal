@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "deuteronomy 33:23",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:29:47.310083292Z",
+  "verse": 23,
+  "ref": "deuteronomy 33:23",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ نفتالیءِ بابتءَ گوَشت: اے نفتالی، رضاءَ چہ سیر ءُ یاہوہءِ برکتءَ چہ مالہ اِنت؛ دریا ءُ لمسءَ مل بیت.",
   "tokens": [
     {
-      "surface": "וּלְנַפְתָּלִי",
+      "surface": "ולנפתלי",
       "gloss": "ءُ نفتالیءِ بابتءَ"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "נַפְתָּלִי",
+      "surface": "נפתלי",
       "gloss": "اے نفتالی"
     },
     {
-      "surface": "שְׂבַע",
+      "surface": "שבע",
       "gloss": "سیر"
     },
     {
-      "surface": "רָצוֹן",
+      "surface": "רצון",
       "gloss": "رضاءَ"
     },
     {
-      "surface": "וּמָלֵא",
+      "surface": "ומלא",
       "gloss": "ءُ مالہ"
     },
     {
-      "surface": "בִּרְכַּת",
+      "surface": "ברכת",
       "gloss": "برکتءِ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "יָם",
+      "surface": "ים",
       "gloss": "دریا"
     },
     {
-      "surface": "וְדָרוֹם",
+      "surface": "ודרום",
       "gloss": "ءُ لمس"
     },
     {
-      "surface": "יָרֵשׁ",
+      "surface": "ירשה",
       "gloss": "مل بیت"
     }
-  ],
-  "timestamp": "2026-09-25T15:29:47.310083292Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "nehemiah 3:35",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:39:44.113977238Z",
+  "verse": 35,
+  "ref": "nehemiah 3:35",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ طوبیہ ہامونی آییءَ نزدیک اَت، ءُ گوَشت: ہم آے شان کہ آ بوناں کننت، اگر یک شوگ چیر بیت، آیانءِ سنگیں دیوار پروشیت۔",
   "tokens": [
     {
-      "surface": "וְטוֹבִיָ֥ה",
+      "surface": "וטוביה",
       "gloss": "ءُ طوبیہ"
     },
     {
-      "surface": "הָעַמֹּנִ֖י",
+      "surface": "העמני",
       "gloss": "ہامونی"
     },
     {
-      "surface": "אֶצְל֑וֹ",
+      "surface": "אצלו",
       "gloss": "آییءَ نزدیک"
     },
     {
-      "surface": "וַיֹּ֗אמֶר",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "גַּ֚ם",
+      "surface": "גם",
       "gloss": "ہم"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "آے کہ"
     },
     {
-      "surface": "הֵ֥ם",
+      "surface": "הם",
       "gloss": "آ"
     },
     {
-      "surface": "בּוֹנִ֔ים",
+      "surface": "בונים",
       "gloss": "بوناں کننت"
     },
     {
-      "surface": "אִם־",
+      "surface": "אם",
       "gloss": "اگر"
     },
     {
-      "surface": "יַעֲלֶ֣ה",
+      "surface": "יעלה",
       "gloss": "چیر بیت"
     },
     {
-      "surface": "שׁוּעָ֔ל",
+      "surface": "שועל",
       "gloss": "شوگ"
     },
     {
-      "surface": "וּפָרַ֖ץ",
+      "surface": "ופרץ",
       "gloss": "ءُ پروشیت"
     },
     {
-      "surface": "חוֹמַ֥ת",
+      "surface": "חומת",
       "gloss": "دیوار"
     },
     {
-      "surface": "אַבְנֵיהֶֽם",
+      "surface": "אבניהם",
       "gloss": "آیانءِ سنگیں"
     }
-  ],
-  "timestamp": "2026-09-25T19:39:44.113977238Z",
-  "model": "glm-5.3"
+  ]
 }

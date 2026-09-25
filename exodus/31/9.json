@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "exodus 31:9",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:04:41.946384591Z",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "ءُ ⟨את⟩ سوچگیں قربانیءِ قربانگاہ ءُ ⟨את⟩ آییءِ گچین سنگتراشاں، ءُ ⟨את⟩ آپءِ حوض ءُ ⟨את⟩ آییءِ اونداہ۔",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "سوچگیں قربانیءِ قربانگاہ"
     },
     {
-      "surface": "מִזְבַּ֥ח",
+      "surface": "מזבח",
       "gloss": "قربانگاہ"
     },
     {
-      "surface": "הָעֹלָ֖ה",
+      "surface": "העלה",
       "gloss": "سوچگیں قربانیءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ گچین سنگتراشاں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گچین"
     },
     {
-      "surface": "כֵּלָ֑יו",
+      "surface": "כליו",
       "gloss": "آییءِ سنگتراشاں"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آپءِ حوض"
     },
     {
-      "surface": "הַכִּיּ֖וֹר",
+      "surface": "הכיור",
       "gloss": "آپءِ حوض"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ اونداہ"
     },
     {
-      "surface": "כַּנּֽוֹ",
+      "surface": "כנו",
       "gloss": "آییءِ اونداہ"
     }
-  ],
-  "timestamp": "2026-09-25T21:04:41.946384591Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "ezekiel 26:9",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:15:16.422504629Z",
+  "verse": 9,
+  "ref": "ezekiel 26:9",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ وتے ماروک گوں وتی کوبال دیوارانی تہ کنت، ءُ وتی برجانی گوں وتی چہرہراں گندیت۔",
   "tokens": [
     {
-      "surface": "וּמְחִ֣י",
+      "surface": "ומחי",
       "gloss": "ءُ ماروک"
     },
     {
-      "surface": "קָֽבָלּ֔וֹ",
+      "surface": "קבלו",
       "gloss": "کوبال"
     },
     {
-      "surface": "יִתֵּ֖ן",
+      "surface": "יתן",
       "gloss": "دیوارانی تہ کنت"
     },
     {
-      "surface": "בְּחֹמוֹתָ֑יִךְ",
+      "surface": "בחמותיך",
       "gloss": "دیوارانی"
     },
     {
-      "surface": "וּמִגְדְּלֹתַ֔יִךְ",
+      "surface": "ומגדלתיך",
       "gloss": "ءُ وتی برجانی"
     },
     {
-      "surface": "יִתֹּ֖ץ",
+      "surface": "יתץ",
       "gloss": "گندیت"
     },
     {
-      "surface": "בְּחַרְבֹתָֽיו",
+      "surface": "בחרבותיו",
       "gloss": "گوں وتی چہرہراں"
     }
-  ],
-  "timestamp": "2026-09-25T16:15:16.422504629Z",
-  "model": "glm-5.3"
+  ]
 }

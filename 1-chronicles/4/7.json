@@ -1,22 +1,24 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "1-chronicles 4:7",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:43:04.261636351Z",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ حِلّہءِ زہگان صَرَت ءُ یِصرَر ءُ اِتنان اَنت۔",
   "tokens": [
     {
-      "surface": "וּבְנֵ֖י",
+      "surface": "ובני",
       "gloss": "ءُ …ءِ زہگان"
     },
     {
-      "surface": "חֶלְאָ֑ה",
+      "surface": "חלאה",
       "gloss": "حِلّہ"
     },
     {
-      "surface": "צֶ֥רֶת",
+      "surface": "צרת",
       "gloss": "صَرَت"
     },
     {
@@ -24,10 +26,8 @@
       "gloss": "یِصرَر"
     },
     {
-      "surface": "וְאֶתְנָֽן",
+      "surface": "ואתנן",
       "gloss": "ءُ اِتنان"
     }
-  ],
-  "timestamp": "2026-09-25T12:43:04.261636351Z",
-  "model": "glm-5.3"
+  ]
 }

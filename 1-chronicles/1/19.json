@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "1-chronicles 1:19",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:32:21.282322024Z",
+  "verse": 19,
+  "ref": "1-chronicles 1:19",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ چہ عِبِرءَ دو زہگ وان بوت، اکیں نام پِلِگ، پرچا کہ آییءِ روچاں ءَ زمین ونڈ بیتگ، ءُ آییءِ براتءِ نام یَقتان.",
   "tokens": [
     {
-      "surface": "וּלְעֵ֥בֶר",
+      "surface": "ולעבר",
       "gloss": "ءُ چہ عِبِرءَ"
     },
     {
-      "surface": "יֻלַּ֖ד",
+      "surface": "ילד",
       "gloss": "وان بوت"
     },
     {
-      "surface": "שְׁנֵ֣י",
+      "surface": "שני",
       "gloss": "دو"
     },
     {
-      "surface": "בָנִ֑ים",
+      "surface": "בנים",
       "gloss": "زہگ"
     },
     {
-      "surface": "שֵׁ֣ם",
+      "surface": "שם",
       "gloss": "نام"
     },
     {
-      "surface": "הָאֶחָ֞ד",
+      "surface": "האחד",
       "gloss": "اکیں"
     },
     {
-      "surface": "פֶּ֗לֶג",
+      "surface": "פלג",
       "gloss": "پِلِگ"
     },
     {
-      "surface": "כִּ֤י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "בְּיָמָיו֙",
+      "surface": "בימיו",
       "gloss": "آییءِ روچاں ءَ"
     },
     {
-      "surface": "נִפְלְגָ֣ה",
+      "surface": "נפלגה",
       "gloss": "ونڈ بیتگ"
     },
     {
-      "surface": "הָאָ֔רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "וְשֵׁ֥ם",
+      "surface": "ושם",
       "gloss": "ءُ نام"
     },
     {
-      "surface": "אָחִ֖יו",
+      "surface": "אחיו",
       "gloss": "آییءِ براتءِ"
     },
     {
-      "surface": "יָקְטָֽן",
+      "surface": "יקטן",
       "gloss": "یَقتان"
     }
-  ],
-  "timestamp": "2026-09-25T12:32:21.282322024Z",
-  "model": "glm-5.3"
+  ]
 }

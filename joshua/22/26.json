@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "joshua 22:26",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:48:49.486920560Z",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ ما گوَشتیں: اے چن کہ یک ⟨את⟩ قربانگاہ ما پہ خپت جوڑ کنیں — نہ پہ سوچگیں قربانی ءُ نہ پہ ذبحءَ",
   "tokens": [
     {
-      "surface": "וַנֹּאמֶר",
+      "surface": "ונאמר",
       "gloss": "ءُ ما گوَشتیں"
     },
     {
-      "surface": "נַעֲשֶׂה",
+      "surface": "נעשה",
       "gloss": "چن کہ کنیں"
     },
     {
-      "surface": "נָּא",
+      "surface": "נא",
       "gloss": "اے چن کہ"
     },
     {
-      "surface": "לָּנוּ",
+      "surface": "לנו",
       "gloss": "ما پہ خپت"
     },
     {
-      "surface": "לִבְנוֹת",
+      "surface": "לבנות",
       "gloss": "جوڑ کنیں"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "قربانگاہ"
     },
     {
-      "surface": "הַמִּזְבֵּחַ",
+      "surface": "המזבח",
       "gloss": "قربانگاہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "לְעֹלָה",
+      "surface": "לעולה",
       "gloss": "پہ سوچگیں قربانی"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "לְזָבַח",
+      "surface": "לזבח",
       "gloss": "پہ ذبحءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:48:49.486920560Z",
-  "model": "glm-5.3"
+  ]
 }

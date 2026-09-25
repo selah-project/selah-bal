@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "psalms 18:28",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:35:13.511761689Z",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "کیہ تو درددار قوم ءَ نجات دینی ءُ ہشک چشمان ءَ جہین کئینی",
   "tokens": [
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کیہ"
     },
     {
-      "surface": "אַ֭תָּה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "עַם",
+      "surface": "עם",
       "gloss": "قوم"
     },
     {
-      "surface": "עָנִ֣י",
+      "surface": "עני",
       "gloss": "درددار"
     },
     {
-      "surface": "תוֹשִׁ֑יעַ",
+      "surface": "תושיע",
       "gloss": "نجات دینی"
     },
     {
-      "surface": "וְעֵינַ֖יִם",
+      "surface": "ועינים",
       "gloss": "ءُ چشمان"
     },
     {
-      "surface": "רָמ֣וֹת",
+      "surface": "רמות",
       "gloss": "ہشک"
     },
     {
-      "surface": "תַּשְׁפִּֽיל",
+      "surface": "תשפיל",
       "gloss": "جہین کئینی"
     }
-  ],
-  "timestamp": "2026-09-25T20:35:13.511761689Z",
-  "model": "glm-5.3"
+  ]
 }

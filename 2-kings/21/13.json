@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "2-kings 21:13",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:11:43.337825337Z",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "ءُ ما یروشلمءِ سرءَ شمرونءِ ڈور ءُ ⟨ءُ את⟩ اہابءِ گدءِ پیمانشڑ کِشیت، ءُ یروشلمءَ ⟨את⟩ چوش کسےءَ کہ بشوردےءَ ماریت — ماریت ءُ آییءَ اے دیمءَ گرویت.",
   "tokens": [
     {
-      "surface": "וְנָטִ֣יתִי",
+      "surface": "ונטיתי",
       "gloss": "ءُ کِشیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "יְרוּשָׁלִַ֗ם",
+      "surface": "ירושלם",
       "gloss": "یروشلمءِ"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ڈور"
     },
     {
-      "surface": "קָ֣ו",
+      "surface": "קו",
       "gloss": "ڈور"
     },
     {
-      "surface": "שֹֽׁמְר֔וֹן",
+      "surface": "שמרון",
       "gloss": "شمرونءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پیمانشڑ"
     },
     {
-      "surface": "מִשְׁקֹ֖לֶת",
+      "surface": "משקלת",
       "gloss": "پیمانشڑ"
     },
     {
-      "surface": "בֵּ֣ית",
+      "surface": "בית",
       "gloss": "گد"
     },
     {
-      "surface": "אַחְאָ֑ב",
+      "surface": "אחאב",
       "gloss": "اہابءِ"
     },
     {
-      "surface": "וּמָחִ֨יתִי",
+      "surface": "ומחיתי",
       "gloss": "ءُ ماریت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یروشلمءَ"
     },
     {
-      "surface": "יְרוּשָׁלִַ֜ם",
+      "surface": "ירושלם",
       "gloss": "یروشلمءَ"
     },
     {
-      "surface": "כַּֽאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوش کسےءَ کہ"
     },
     {
-      "surface": "יִמְחֶ֤ה",
+      "surface": "ימחה",
       "gloss": "ماریت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "بشوردےءَ"
     },
     {
-      "surface": "הַצַּלַּ֨חַת֙",
+      "surface": "הצלחת",
       "gloss": "بشوردےءَ"
     },
     {
-      "surface": "מָחָ֔ה",
+      "surface": "מחה",
       "gloss": "ماریت"
     },
     {
-      "surface": "וְהָפַ֖ךְ",
+      "surface": "והפך",
       "gloss": "ءُ گرویت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "פָּנֶֽיהָ",
+      "surface": "פניה",
       "gloss": "اے دیمءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:11:43.337825337Z",
-  "model": "glm-5.3"
+  ]
 }

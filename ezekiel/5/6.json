@@ -1,91 +1,91 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "ezekiel 5:6",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:32:22.474545676Z",
+  "verse": 6,
+  "ref": "ezekiel 5:6",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ آ مءِ انصافانءَ پہ زلمءَ بدل کت، چہ قومانءَ گیشتر، ءُ ⟨את⟩ مءِ آئینان چہ زمینانی کہ آییءِ سرا انت، گیشتر — پرچا کہ مءِ انصافانءَ رد کتنت، ءُ مءِ آئینانءَ تہ آیانی نہ روتنت.",
   "tokens": [
     {
-      "surface": "וַתֶּ֨מֶר",
+      "surface": "ותמר",
       "gloss": "ءُ بدل کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مءِ انصافان"
     },
     {
-      "surface": "מִשְׁפָּטַ֤י",
+      "surface": "משפטי",
       "gloss": "مءِ انصافان"
     },
     {
-      "surface": "לְרִשְׁעָה֙",
+      "surface": "לרשעה",
       "gloss": "پہ زلم"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַגּוֹיִ֔ם",
+      "surface": "הגוים",
       "gloss": "قومان"
     },
     {
-      "surface": "וְאֶ֨ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "مءِ آئینان"
     },
     {
-      "surface": "חֻקּוֹתַ֔י",
+      "surface": "חקותי",
       "gloss": "مءِ آئینان"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָאֲרָצ֖וֹת",
+      "surface": "הארצות",
       "gloss": "زمینان"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "סְבִיבוֹתֶ֑יהָ",
+      "surface": "סביבותיה",
       "gloss": "آییءِ سرا انت"
     },
     {
-      "surface": "כִּ֤י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "בְמִשְׁפָּטַי֙",
+      "surface": "במשפטי",
       "gloss": "مءِ انصافانءَ"
     },
     {
-      "surface": "מָאָ֔סוּ",
+      "surface": "מאסו",
       "gloss": "رد کتنت"
     },
     {
-      "surface": "וְחֻקּוֹתַ֖י",
+      "surface": "וחקותי",
       "gloss": "ءُ مءِ آئینانءَ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "הָלְכ֥וּ",
+      "surface": "הלכו",
       "gloss": "روتنت"
     },
     {
-      "surface": "בָהֶֽם",
+      "surface": "בהם",
       "gloss": "تہ آیانی"
     }
-  ],
-  "timestamp": "2026-09-25T16:32:22.474545676Z",
-  "model": "glm-5.3"
+  ]
 }

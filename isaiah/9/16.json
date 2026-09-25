@@ -1,131 +1,131 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "isaiah 9:16",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:38:03.532221163Z",
+  "verse": 16,
+  "ref": "isaiah 9:16",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "پس اِہیءِ پہ، اِہیءِ جوانانءَ سرءَ ادونای شاد نہ بیت، ءُ ⟨את⟩ آییءِ یتیمانءَ ءُ ⟨את⟩ آییءِ بیوہ زالانءَ رحم نہ کنت، پرچا کہ آ پوریں بدکار ءُ شرءِ کار اِنت، ءُ ہر دہن کم‌عقلی گوَشت کنت۔ ہمے ہر چیزءِ تہاں آییءِ غصہ نہ پچیت، ءُ ھنں آییءِ دست گیش کتگ اِنت۔",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "اِہیءِ پہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "בַּחוּרָיו",
+      "surface": "בחוריו",
       "gloss": "آییءِ جوانان"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִשְׂמַח",
+      "surface": "ישמח",
       "gloss": "شاد بیت"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ یتیمان"
     },
     {
-      "surface": "יְתֹמָיו",
+      "surface": "יתמיו",
       "gloss": "آییءِ یتیمان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ بیوہ زالان"
     },
     {
-      "surface": "אַלְמְנֹתָיו",
+      "surface": "אלמנתיו",
       "gloss": "آییءِ بیوہ زالان"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְרַחֵם",
+      "surface": "ירחם",
       "gloss": "رحم کنت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "כֻלּוֹ",
+      "surface": "כלו",
       "gloss": "آ پوریں"
     },
     {
-      "surface": "חָנֵף",
+      "surface": "חנף",
       "gloss": "بدکار"
     },
     {
-      "surface": "וּמֵרַע",
+      "surface": "ומרע",
       "gloss": "ءُ شرءِ کار"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ ہر"
     },
     {
-      "surface": "פֶּה",
+      "surface": "פה",
       "gloss": "دہن"
     },
     {
-      "surface": "דֹּבֵר",
+      "surface": "דבר",
       "gloss": "گوَشت کنت"
     },
     {
-      "surface": "נְבָלָה",
+      "surface": "נבלה",
       "gloss": "کم‌عقلی"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "ہمے ہر چیزءِ تہاں"
     },
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "ہمے"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "שָׁב",
+      "surface": "שב",
       "gloss": "پچیت"
     },
     {
-      "surface": "אַפּוֹ",
+      "surface": "אפו",
       "gloss": "آییءِ غصہ"
     },
     {
-      "surface": "וְעוֹד",
+      "surface": "ועוד",
       "gloss": "ءُ ھنں"
     },
     {
-      "surface": "יָדוֹ",
+      "surface": "ידו",
       "gloss": "آییءِ دست"
     },
     {
-      "surface": "נְטוּיָה",
+      "surface": "נטויה",
       "gloss": "گیش کتگ"
     }
-  ],
-  "timestamp": "2026-09-25T17:38:03.532221163Z",
-  "model": "glm-5.3"
+  ]
 }

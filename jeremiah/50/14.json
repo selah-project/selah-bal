@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "jeremiah 50:14",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:11:52.983195128Z",
+  "verse": 14,
+  "ref": "jeremiah 50:14",
+  "tier": "glm-5.2",
   "chapter": 50,
   "translation": "بابلءَ چوگرد رج کءُ، اے شتابانءِ جل کمانءِ، آییءَ تیر ءَ زنیت، تیرءَ رحم نہ کءُ، پرچا کہ یاہوہءَ گنہ کتگ۔",
   "tokens": [
     {
-      "surface": "עִרְכ֨וּ",
+      "surface": "ערכו",
       "gloss": "رج کءُ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "بابلءَ … ءِ سرءَ"
     },
     {
-      "surface": "בָּבֶ֤ל",
+      "surface": "בבל",
       "gloss": "بابل"
     },
     {
-      "surface": "סָבִיב֙",
+      "surface": "סביב",
       "gloss": "چوگرد"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "דֹ֣רְכֵי",
+      "surface": "דרכי",
       "gloss": "جل"
     },
     {
-      "surface": "קֶ֔שֶׁת",
+      "surface": "קשת",
       "gloss": "کمان"
     },
     {
-      "surface": "יְד֣וּ",
+      "surface": "ידו",
       "gloss": "تیر ءَ زنیت"
     },
     {
-      "surface": "אֵלֶ֔יהָ",
+      "surface": "אליה",
       "gloss": "آییءَ"
     },
     {
-      "surface": "אַֽל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תַּחְמְל֖וּ",
+      "surface": "תחמלו",
       "gloss": "رحم کءُ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "חֵ֑ץ",
+      "surface": "חץ",
       "gloss": "تیر"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "לַֽיהוָ֖ה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "חָטָֽאָה",
+      "surface": "חטאה",
       "gloss": "گنہ کتگ"
     }
-  ],
-  "timestamp": "2026-09-25T18:11:52.983195128Z",
-  "model": "glm-5.3"
+  ]
 }

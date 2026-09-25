@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "daniel 7:26",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:01:19.021439659Z",
+  "verse": 26,
+  "ref": "daniel 7:26",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ داوری نشست، ءُ آییءِ سلطنتءَ در اِشکننت — پہ پروش داگ ءُ پہ یکے تباه داگ، تا آخرءَ۔",
   "tokens": [
     {
-      "surface": "וְדִינָ֖א",
+      "surface": "ודינא",
       "gloss": "ءُ داوری"
     },
     {
-      "surface": "יְתִּ֑ב",
+      "surface": "יתב",
       "gloss": "نشست"
     },
     {
-      "surface": "וְשָׁלְטָנֵ֣הּ",
+      "surface": "ושלטנה",
       "gloss": "ءُ آییءِ سلطنت"
     },
     {
-      "surface": "יְהַעְדּ֔וֹן",
+      "surface": "יהעדון",
       "gloss": "در اِشکننت"
     },
     {
-      "surface": "לְהַשְׁמָדָ֥ה",
+      "surface": "להשמדה",
       "gloss": "پہ پروش داگ"
     },
     {
-      "surface": "וּלְהוֹבָדָ֖ה",
+      "surface": "ולהובדה",
       "gloss": "ءُ پہ یکے تباه داگ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "סוֹפָֽא",
+      "surface": "סופא",
       "gloss": "آخر"
     }
-  ],
-  "timestamp": "2026-09-25T15:01:19.021439659Z",
-  "model": "glm-5.3"
+  ]
 }

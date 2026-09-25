@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "nehemiah 6:11",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:39:18.670654277Z",
+  "verse": 11,
+  "ref": "nehemiah 6:11",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ من گوَشتم: آیا یک مرد چوش من پیت؟ ءُ کے چوش من کہ ہیکالءَ درآ بیت ءُ زندگ ببیت؟ من نہ رون۔",
   "tokens": [
     {
-      "surface": "וָאֹמְרָ֗ה",
+      "surface": "ואמרה",
       "gloss": "ءُ من گوَشتم"
     },
     {
-      "surface": "הַאִ֤ישׁ",
+      "surface": "האיש",
       "gloss": "یک مرد"
     },
     {
-      "surface": "כָּמ֨וֹנִי֙",
+      "surface": "כמוני",
       "gloss": "چوش من"
     },
     {
-      "surface": "יִבְרָ֔ח",
+      "surface": "יברח",
       "gloss": "پیت"
     },
     {
-      "surface": "וּמִ֥י",
+      "surface": "ומי",
       "gloss": "ءُ کے"
     },
     {
-      "surface": "כָמ֛וֹנִי",
+      "surface": "כמוני",
       "gloss": "چوش من"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יָב֥וֹא",
+      "surface": "יבוא",
       "gloss": "درآ بیت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ تہ"
     },
     {
-      "surface": "הַהֵיכָ֖ל",
+      "surface": "ההיכל",
       "gloss": "ہیکالءَ"
     },
     {
-      "surface": "וָחָ֑י",
+      "surface": "וחי",
       "gloss": "ءُ زندگ ببیت"
     },
     {
-      "surface": "לֹ֖א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אָבֽוֹא",
+      "surface": "אבוא",
       "gloss": "روُں"
     }
-  ],
-  "timestamp": "2026-09-25T19:39:18.670654277Z",
-  "model": "glm-5.3"
+  ]
 }

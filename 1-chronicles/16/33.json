@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "1-chronicles 16:33",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:35:14.862168729Z",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "آُ دگارءِ داران شادمانیءِ گوڑ کنت یاہوہءِ پیشءَ، پرچا کہ آییءَ ⟨את⟩ زمینءَ داوریءَ پہ آتگ اِنت.",
   "tokens": [
     {
-      "surface": "אָז",
+      "surface": "אז",
       "gloss": "آُ"
     },
     {
-      "surface": "יְרַנְּנוּ",
+      "surface": "ירננו",
       "gloss": "شادمانیءِ گوڑ کننت"
     },
     {
-      "surface": "עֲצֵי",
+      "surface": "עצי",
       "gloss": "دارانِ"
     },
     {
-      "surface": "הַיָּעַר",
+      "surface": "היער",
       "gloss": "دگار"
     },
     {
-      "surface": "מִלִּפְנֵי",
+      "surface": "מלפני",
       "gloss": "ءِ پیشءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "בָּא",
+      "surface": "בא",
       "gloss": "آتگ اِنت"
     },
     {
-      "surface": "לִשְׁפּוֹט",
+      "surface": "לשפוט",
       "gloss": "داوریءَ پہ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زمین"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمینءَ"
     }
-  ],
-  "timestamp": "2026-09-25T12:35:14.862168729Z",
-  "model": "glm-5.3"
+  ]
 }

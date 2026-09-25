@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "song-of-songs 3:6",
   "book": "song-of-songs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:54:05.851572072Z",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "اے کے اِنت کہ چہ بیابانی روت، چوش دودءِ ستونان، مورت ءُ لبانءَ گوں خوشبو دنت، چہ ہر سوداگرءِ پسوکءَ؟",
   "tokens": [
     {
-      "surface": "מִ֣י",
+      "surface": "מי",
       "gloss": "اے کے"
     },
     {
-      "surface": "זֹ֗את",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "עֹלָה֙",
+      "surface": "עלה",
       "gloss": "روت"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַמִּדְבָּ֔ר",
+      "surface": "המדבר",
       "gloss": "بیابانی"
     },
     {
-      "surface": "כְּתִֽימֲר֖וֹת",
+      "surface": "כתימרות",
       "gloss": "چوش دودءِ ستونان"
     },
     {
-      "surface": "עָשָׁ֑ן",
+      "surface": "עשן",
       "gloss": "دود"
     },
     {
-      "surface": "מְקֻטֶּ֤רֶת",
+      "surface": "מקטרת",
       "gloss": "خوشبو دنت"
     },
     {
-      "surface": "מ֥וֹר",
+      "surface": "מור",
       "gloss": "مورت"
     },
     {
-      "surface": "וּלְבוֹנָ֔ה",
+      "surface": "ולבונה",
       "gloss": "ءُ لبان"
     },
     {
-      "surface": "מִכֹּ֖ל",
+      "surface": "מכל",
       "gloss": "چہ ہر"
     },
     {
-      "surface": "אַבְקַ֥ת",
+      "surface": "אבקת",
       "gloss": "پسوک"
     },
     {
-      "surface": "רוֹכֵֽל",
+      "surface": "רוכל",
       "gloss": "سوداگر"
     }
-  ],
-  "timestamp": "2026-09-25T20:54:05.851572072Z",
-  "model": "glm-5.3"
+  ]
 }

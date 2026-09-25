@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "1-kings 3:21",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:01:02.931013118Z",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ مان صُحپءَ اُٹّتُم پہ مانی زہگیءَ شیر دیم کہ بکن، ءُ اِشاں مُت اِنت؛ ءُ مان صُحپءَ آییءَ درات کت، ءُ اِشاں ⟨את⟩ مانی زہگ نہ اَت کہ مان آییءَ زانگ اِنت۔",
   "tokens": [
     {
-      "surface": "וָאָקֻ֥ם",
+      "surface": "ואקם",
       "gloss": "ءُ مان اُٹّتُم"
     },
     {
-      "surface": "בַּבֹּ֛קֶר",
+      "surface": "בבקר",
       "gloss": "صُحپءَ"
     },
     {
-      "surface": "לְהֵינִ֥יק",
+      "surface": "להיניק",
       "gloss": "شیر دیم کہ بکن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مانی زہگیءَ"
     },
     {
-      "surface": "בְּנִ֖י",
+      "surface": "בני",
       "gloss": "مانی زہگ"
     },
     {
-      "surface": "וְהִנֵּ֑ה",
+      "surface": "והנה",
       "gloss": "ءُ اِشاں"
     },
     {
-      "surface": "מֵ֥ת",
+      "surface": "מת",
       "gloss": "مُت اِنت"
     },
     {
-      "surface": "וָאֶתְבּוֹנֵ֤ן",
+      "surface": "ואתבונן",
       "gloss": "ءُ مان درات کت"
     },
     {
-      "surface": "אֵלָיו֙",
+      "surface": "אליו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "בַּבֹּ֔קֶר",
+      "surface": "בבקר",
       "gloss": "صُحپءَ"
     },
     {
-      "surface": "וְהִנֵּ֛ה",
+      "surface": "והנה",
       "gloss": "ءُ اِشاں"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "הָיָ֥ה",
+      "surface": "היה",
       "gloss": "اَت"
     },
     {
-      "surface": "בְּנִ֖י",
+      "surface": "בני",
       "gloss": "مانی زہگ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יָלַֽדְתִּי",
+      "surface": "ילדתי",
       "gloss": "مان آییءَ زانگ اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T13:01:02.931013118Z",
-  "model": "glm-5.3"
+  ]
 }

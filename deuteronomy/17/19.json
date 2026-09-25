@@ -1,108 +1,108 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "deuteronomy 17:19",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:15:12.723089345Z",
+  "verse": 19,
+  "ref": "deuteronomy 17:19",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "ءُ آ چوں آیءَ بیت، ءُ آ تہ آیءِ تمام روچانی ءُ آییءِ زندگیءَ وانیت، تا کہ آ زانیت کہ یاہوہءَ آییءِ ایلوہیمءَ ڈر بکنت، ءُ ⟨את⟩ اے توراہءِ تمام گالانی ءُ ⟨את⟩ اے حکماں شار بیت کہ آیانءَ کار بکنت.",
   "tokens": [
     {
-      "surface": "וְהָיְתָ֣ה",
+      "surface": "והיתה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "עִמּ֔וֹ",
+      "surface": "עמו",
       "gloss": "چوں آیءَ"
     },
     {
-      "surface": "וְקָ֥רָא",
+      "surface": "וקרא",
       "gloss": "ءُ وانیت"
     },
     {
-      "surface": "ב֖וֹ",
+      "surface": "בו",
       "gloss": "تہ آیءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "יְמֵ֣י",
+      "surface": "ימי",
       "gloss": "روچانی"
     },
     {
-      "surface": "חַיָּ֑יו",
+      "surface": "חייו",
       "gloss": "آییءِ زندگیءَ"
     },
     {
-      "surface": "לְמַ֣עַן",
+      "surface": "למען",
       "gloss": "تا کہ"
     },
     {
-      "surface": "יִלְמַ֗ד",
+      "surface": "ילמד",
       "gloss": "زانیت"
     },
     {
-      "surface": "לְיִרְאָה֙",
+      "surface": "ליראה",
       "gloss": "پہ ڈرگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءَ"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֱלֹהָ֔יו",
+      "surface": "אלהיו",
       "gloss": "آییءِ ایلوہیمءَ"
     },
     {
-      "surface": "לִ֠שְׁמֹר",
+      "surface": "לשמר",
       "gloss": "پہ شارگ"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے توراہءِ تمام گالانی"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "דִּבְרֵ֞י",
+      "surface": "דברי",
       "gloss": "گالانی"
     },
     {
-      "surface": "הַתּוֹרָ֥ה",
+      "surface": "התורה",
       "gloss": "توراہءِ"
     },
     {
-      "surface": "הַזֹּ֛את",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "اے حکماں"
     },
     {
-      "surface": "הַחֻקִּ֥ים",
+      "surface": "החקים",
       "gloss": "حکماں"
     },
     {
-      "surface": "הָאֵ֖לֶּה",
+      "surface": "האלה",
       "gloss": "اے"
     },
     {
-      "surface": "לַעֲשֹׂתָֽם",
+      "surface": "לעשתם",
       "gloss": "پہ آیانءَ کار کنگ"
     }
-  ],
-  "timestamp": "2026-09-25T15:15:12.723089345Z",
-  "model": "glm-5.3"
+  ]
 }

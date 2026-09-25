@@ -1,92 +1,92 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "judges 11:29",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:57:48.815044760Z",
+  "verse": 29,
+  "ref": "judges 11:29",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ یفتاحءِ سرا یاہوہءِ روح آت، ءُ آ ⟨את⟩ گلعاد ءُ ⟨את⟩ منشہءَ لنگیت، ءُ ⟨את⟩ مصپہءِ گلعادءَ لنگیت، ءُ چہ مصپہءِ گلعادءَ عمونءِ زہگانءَ لنگیت۔",
   "tokens": [
     {
-      "surface": "וַתְּהִי",
+      "surface": "ותהי",
       "gloss": "ءُ … آت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "ءِ سرا"
     },
     {
-      "surface": "יִפְתָּח",
+      "surface": "יפתח",
       "gloss": "یفتاح"
     },
     {
-      "surface": "רוּחַ",
+      "surface": "רוח",
       "gloss": "روح"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וַיַּעֲבֹר",
+      "surface": "ויעבר",
       "gloss": "ءُ آ لنگیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گلعاد"
     },
     {
-      "surface": "הַגִּלְעָד",
+      "surface": "הגלעד",
       "gloss": "گلعاد"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "منشہ"
     },
     {
-      "surface": "מְנַשֶּׁה",
+      "surface": "מנשה",
       "gloss": "منشہءَ"
     },
     {
-      "surface": "וַיַּעֲבֹר",
+      "surface": "ויעבר",
       "gloss": "ءُ آ لنگیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مصپہءِ گلعاد"
     },
     {
-      "surface": "מִצְפֵּה",
+      "surface": "מצפה",
       "gloss": "مصپہءِ"
     },
     {
-      "surface": "גִּלְעָד",
+      "surface": "גלעד",
       "gloss": "گلعادءَ"
     },
     {
-      "surface": "וּמִמִּצְפֵּה",
+      "surface": "וממצפה",
       "gloss": "ءُ چہ مصپہءِ"
     },
     {
-      "surface": "גִּלְעָד",
+      "surface": "גלעד",
       "gloss": "گلعادءَ"
     },
     {
-      "surface": "עָבַר",
+      "surface": "עבר",
       "gloss": "لنگیت"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگانءَ"
     },
     {
-      "surface": "עַמּוֹן",
+      "surface": "עמון",
       "gloss": "عمونءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:57:48.815044760Z",
-  "model": "glm-5.3"
+  ]
 }

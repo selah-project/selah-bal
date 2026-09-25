@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "lamentations 2:18",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:13:05.045415818Z",
+  "verse": 18,
+  "ref": "lamentations 2:18",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "دمانی دل اے ادونایءَ بانگ کت؛ اے دیوارئے زہگانی صیونءِ، اشکءَ چوش یک ڈاتءَ ڈگاہ دہ، روچءَ ءُ شپءَ؛ وتیءَ آرام نہ دہ، اے زہگءِ چمءِ زہگ، خاموش نہ بیت۔",
   "tokens": [
@@ -64,11 +66,11 @@
       "gloss": "دہ"
     },
     {
-      "surface": "پوگت",
+      "surface": "פוגת",
       "gloss": "آرام"
     },
     {
-      "surface": "لך",
+      "surface": "לך",
       "gloss": "وتیءَ"
     },
     {
@@ -87,7 +89,5 @@
       "surface": "עינך",
       "gloss": "چمءِ زہگ"
     }
-  ],
-  "timestamp": "2026-09-25T19:13:05.045415818Z",
-  "model": "glm-5.3"
+  ]
 }

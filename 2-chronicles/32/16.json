@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "2-chronicles 32:16",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:51:30.514215862Z",
+  "verse": 16,
+  "ref": "2-chronicles 32:16",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "ءُ مزنیں گپ اِشانیءِ بندگان یاہوہءِ — ایلوہیمءِ — سرءَ ءُ یحزیاہوءَ — آییءِ بندہءَ — گوَشت۔",
   "tokens": [
     {
-      "surface": "וְעוֹד",
+      "surface": "ועוד",
       "gloss": "ءُ مزنیں گپ"
     },
     {
-      "surface": "דִּבְּרוּ",
+      "surface": "דברו",
       "gloss": "گوَشت"
     },
     {
-      "surface": "עֲבָדָיו",
+      "surface": "עבדיו",
       "gloss": "اِشانیءِ بندگان"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "יְחִזְקִיָּהוּ",
+      "surface": "יחזקיהו",
       "gloss": "یحزیاہوءَ"
     },
     {
-      "surface": "עַבְדּוֹ",
+      "surface": "עבדו",
       "gloss": "آییءِ بندہ"
     }
-  ],
-  "timestamp": "2026-09-25T13:51:30.514215862Z",
-  "model": "glm-5.3"
+  ]
 }

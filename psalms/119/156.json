@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 156,
-  "ref": "psalms 119:156",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:26:15.723184346Z",
+  "verse": 156,
+  "ref": "psalms 119:156",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "رحمتانی تُہ گیش اِنت، اے یاہوہ؛ گوں تُہءِ مِشپٹان مِنءَ زندگ کن.",
   "tokens": [
     {
-      "surface": "רַחֲמֶיךָ",
+      "surface": "רחמיך",
       "gloss": "رحمتانی تُہ"
     },
     {
-      "surface": "רַבִּים",
+      "surface": "רבים",
       "gloss": "گیش"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "כְּמִשְׁפָּטֶיךָ",
+      "surface": "כמשפטיך",
       "gloss": "گوں تُہءِ مِشپٹان"
     },
     {
-      "surface": "חַיֵּנִי",
+      "surface": "חיני",
       "gloss": "مِنءَ زندگ کن"
     }
-  ],
-  "timestamp": "2026-09-25T20:26:15.723184346Z",
-  "model": "glm-5.3"
+  ]
 }

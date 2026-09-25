@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 36:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:38:27.154564901Z",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "پہ پیشوا — یاہوہءِ گُلامءِ، داودءِ — پہ داود",
   "tokens": [
@@ -16,14 +18,12 @@
       "gloss": "گُلامءِ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
       "surface": "לדוד",
       "gloss": "پہ داود"
     }
-  ],
-  "timestamp": "2026-09-25T20:38:27.154564901Z",
-  "model": "glm-5.3"
+  ]
 }

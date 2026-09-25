@@ -1,89 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
-  "ref": "jeremiah 50:42",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:13:45.386973469Z",
+  "verse": 42,
+  "ref": "jeremiah 50:42",
+  "tier": "glm-5.2",
   "chapter": 50,
   "translation": "کمان ءُ نیزا آیان پک گپتنت، آ زلمیں اِنت ءُ رحم نہ کننت، آیانی آواز چوش سمندر ہمدیت، ءُ آسبانی سرا سواری کننت، چوش یک مردیں چوں جنگءَ پہ تیں سرا چنستگ اِنت، اے بابلءِ جنک۔",
   "tokens": [
     {
-      "surface": "קֶ֣שֶׁת",
+      "surface": "קשת",
       "gloss": "کمان"
     },
     {
-      "surface": "וְכִידֹ֞ן",
+      "surface": "וכידן",
       "gloss": "ءُ نیزا"
     },
     {
-      "surface": "יַחֲזִ֗יקוּ",
+      "surface": "יחזיקו",
       "gloss": "پک گپتنت"
     },
     {
-      "surface": "אַכְזָרִ֥י",
+      "surface": "אכזרי",
       "gloss": "زلمیں"
     },
     {
-      "surface": "הֵ֨מָּה֙",
+      "surface": "המה",
       "gloss": "آ"
     },
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יְרַחֵ֔מוּ",
+      "surface": "ירחמו",
       "gloss": "رحم کننت"
     },
     {
-      "surface": "קוֹלָם֙",
+      "surface": "קולם",
       "gloss": "آیانی آواز"
     },
     {
-      "surface": "כַּיָּ֣ם",
+      "surface": "כים",
       "gloss": "چوش سمندر"
     },
     {
-      "surface": "יֶהֱמֶ֔ה",
+      "surface": "יהמה",
       "gloss": "ہمدیت"
     },
     {
-      "surface": "וְעַ֖ל",
+      "surface": "ועל",
       "gloss": "ءُ سرا"
     },
     {
-      "surface": "סוּסִ֖ים",
+      "surface": "סוסים",
       "gloss": "آسبانی"
     },
     {
-      "surface": "יִרְכָּ֑בוּ",
+      "surface": "ירכבו",
       "gloss": "سواری کننت"
     },
     {
-      "surface": "עָר֥וּךְ",
+      "surface": "ערוך",
       "gloss": "چنستگ"
     },
     {
-      "surface": "כְּאִישׁ",
+      "surface": "כאיש",
       "gloss": "چوش یک مردیں"
     },
     {
-      "surface": "לַמִּלְחָמָ֔ה",
+      "surface": "למלחמה",
       "gloss": "چوں جنگءَ"
     },
     {
-      "surface": "עָלַ֖יִךְ",
+      "surface": "עליך",
       "gloss": "پہ تیں سرا"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنک"
     },
     {
-      "surface": "בָּבֶֽל",
+      "surface": "בבל",
       "gloss": "بابلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:13:45.386973469Z",
-  "model": "glm-5.3"
+  ]
 }

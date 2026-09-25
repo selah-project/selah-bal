@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "ecclesiastes 3:22",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:36:19.643511235Z",
+  "verse": 22,
+  "ref": "ecclesiastes 3:22",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ من گندیتگ کہ ہچ چیزے شریں نیست چہ اے کہ مردم وتی کاراں شاد بیت، کہ آ آییءِ حصہ اِنت، کہ کے آییءَ پدا آوریت کہ گندیت چی آییءِ پشتءَ بیت؟",
   "tokens": [
     {
-      "surface": "וְרָאִ֗יתִי",
+      "surface": "וראיתי",
       "gloss": "ءُ من گندیتگ"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "אֵ֥ין",
+      "surface": "אין",
       "gloss": "ہچ … نیست"
     },
     {
-      "surface": "טוֹב֙",
+      "surface": "טוב",
       "gloss": "شریں"
     },
     {
-      "surface": "מֵאֲשֶׁ֨ר",
+      "surface": "מאשר",
       "gloss": "چہ اے کہ"
     },
     {
-      "surface": "יִשְׂמַ֤ח",
+      "surface": "ישמח",
       "gloss": "شاد بیت"
     },
     {
-      "surface": "הָאָדָם֙",
+      "surface": "האדם",
       "gloss": "مردم"
     },
     {
-      "surface": "בְּֽמַעֲשָׂ֔יו",
+      "surface": "במעשיו",
       "gloss": "وتی کاراں"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "ה֖וּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "חֶלְק֑וֹ",
+      "surface": "חלקו",
       "gloss": "آییءِ حصہ"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "מִ֤י",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יְבִיאֶ֨נּוּ֙",
+      "surface": "יביאנו",
       "gloss": "آییءَ پدا آوریت"
     },
     {
-      "surface": "לִרְא֔וֹת",
+      "surface": "לראות",
       "gloss": "کہ گندیت"
     },
     {
-      "surface": "בְּמֶ֖ה",
+      "surface": "במה",
       "gloss": "چی"
     },
     {
-      "surface": "שֶׁיִּהְיֶ֥ה",
+      "surface": "שיהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "אַחֲרָֽיו",
+      "surface": "אחריו",
       "gloss": "آییءِ پشتءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:36:19.643511235Z",
-  "model": "glm-5.3"
+  ]
 }

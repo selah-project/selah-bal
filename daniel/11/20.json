@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "daniel 11:20",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:51:09.139072708Z",
+  "verse": 20,
+  "ref": "daniel 11:20",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ آییءِ جاگہءَ اِشتیت یک گوشتءَ گزاروک، پہ شاهیءِ شوکتءَ؛ ءُ چند روچانی تہ شکسته بیت — ءُ نہ غضبءَ تہ، ءُ نہ جنگءَ تہ۔",
   "tokens": [
     {
-      "surface": "וְעָמַד",
+      "surface": "ועמד",
       "gloss": "ءُ اِشتیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "כַּנּוֹ",
+      "surface": "כנו",
       "gloss": "آییءِ جاگہءَ"
     },
     {
-      "surface": "מַעֲבִיר",
+      "surface": "מעביר",
       "gloss": "گزاروک"
     },
     {
-      "surface": "نוֹגֵשׂ",
+      "surface": "נוגש",
       "gloss": "گوشتءَ"
     },
     {
-      "surface": "הֶדֶר",
+      "surface": "הדר",
       "gloss": "شوکتءِ"
     },
     {
-      "surface": "מַלְכוּת",
+      "surface": "מלכות",
       "gloss": "شاهیءِ"
     },
     {
-      "surface": "וּבְיָמִים",
+      "surface": "ובימים",
       "gloss": "ءُ روچانی تہ"
     },
     {
-      "surface": "אֲחָדִים",
+      "surface": "אחדים",
       "gloss": "چند"
     },
     {
-      "surface": "יִשָּׁבֵר",
+      "surface": "ישבר",
       "gloss": "شکسته بیت"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "בְּאַפַּיִם",
+      "surface": "באפים",
       "gloss": "غضبءَ تہ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "בְּמִלְחָמָה",
+      "surface": "במלחמה",
       "gloss": "جنگءَ تہ"
     }
-  ],
-  "timestamp": "2026-09-25T14:51:09.139072708Z",
-  "model": "glm-5.3"
+  ]
 }

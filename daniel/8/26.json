@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "daniel 8:26",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:57:48.793503838Z",
+  "verse": 26,
+  "ref": "daniel 8:26",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ شپ ءُ سحریءِ دیدار، کہ گوَشتگ بوتگ، راست اِنت؛ ءُ تُو لُکائے آ دیدارءَ، چیکہ آ گیشتریں روچانی پہ اِنت۔",
   "tokens": [
     {
-      "surface": "וּמַרְאֵה",
+      "surface": "ומראה",
       "gloss": "ءُ دیدار"
     },
     {
-      "surface": "הָעֶרֶב",
+      "surface": "הערב",
       "gloss": "شپءِ"
     },
     {
-      "surface": "וְהַבֹּקֶר",
+      "surface": "והבקר",
       "gloss": "ءُ سحریءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נֶאֱמַר",
+      "surface": "נאמר",
       "gloss": "گوَشتگ بوتگ"
     },
     {
-      "surface": "אֱמֶת",
+      "surface": "אמת",
       "gloss": "راست"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "اِنت"
     },
     {
-      "surface": "וְאַתָּה",
+      "surface": "ואתה",
       "gloss": "ءُ تُو"
     },
     {
-      "surface": "סְתֹם",
+      "surface": "סתם",
       "gloss": "لُکائئے"
     },
     {
-      "surface": "הֶחָזוֹן",
+      "surface": "החזון",
       "gloss": "دیدارءَ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "چیکہ"
     },
     {
-      "surface": "לְיָמִים",
+      "surface": "לימים",
       "gloss": "روچانی پہ"
     },
     {
-      "surface": "רַבִּים",
+      "surface": "רבים",
       "gloss": "گیشتر"
     }
-  ],
-  "timestamp": "2026-09-25T14:57:48.793503838Z",
-  "model": "glm-5.3"
+  ]
 }

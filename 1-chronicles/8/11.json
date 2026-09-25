@@ -1,39 +1,39 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "1-chronicles 8:11",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:46:50.380502844Z",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ چہ حُشیمءَ آیی ⟨את⟩ اَبیتوُب ءُ ⟨את⟩ اِلپَعل جہز کت۔",
   "tokens": [
     {
-      "surface": "וּמֵחֻשִׁים",
+      "surface": "ומחשים",
       "gloss": "ءُ چہ حُشیمءَ"
     },
     {
-      "surface": "הוֹלִיד",
+      "surface": "הוליד",
       "gloss": "جہز کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَبیتوُب"
     },
     {
-      "surface": "אֲבִיטוּב",
+      "surface": "אביטוב",
       "gloss": "اَبیتوُب"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "اِلپَعل"
     },
     {
-      "surface": "אֶלְפָּעַל",
+      "surface": "אלפעל",
       "gloss": "اِلپَعل"
     }
-  ],
-  "timestamp": "2026-09-25T12:46:50.380502844Z",
-  "model": "glm-5.3"
+  ]
 }

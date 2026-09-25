@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "proverbs 14:35",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:11:12.230190830Z",
+  "verse": 35,
+  "ref": "proverbs 14:35",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "پادشاہءِ پسند یک دانا غلامءَ اِنت، ءُ آییءِ غضب شرمگاریں ⟨ہست⟩۔",
   "tokens": [
     {
-      "surface": "רְֽצוֹן",
+      "surface": "רצון",
       "gloss": "پسند"
     },
     {
-      "surface": "מֶ֭לֶךְ",
+      "surface": "מלך",
       "gloss": "پادشاہءِ"
     },
     {
-      "surface": "לְעֶ֣בֶד",
+      "surface": "לעבד",
       "gloss": "غلامءَ"
     },
     {
-      "surface": "مַשְׂכִּ֑יל",
+      "surface": "משכיל",
       "gloss": "دانا"
     },
     {
-      "surface": "וְ֝עֶבְרָת֗וֹ",
+      "surface": "ועברתו",
       "gloss": "ءُ آییءِ غضب"
     },
     {
-      "surface": "תִּהְיֶ֥ה",
+      "surface": "תהיה",
       "gloss": "⟨ہست⟩"
     },
     {
-      "surface": "מֵבִֽישׁ",
+      "surface": "מביש",
       "gloss": "شرمگاریں"
     }
-  ],
-  "timestamp": "2026-09-25T20:11:12.230190830Z",
-  "model": "glm-5.3"
+  ]
 }

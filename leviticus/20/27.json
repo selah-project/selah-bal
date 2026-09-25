@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "leviticus 20:27",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:23:34.800645069Z",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "ءُ یک مرد یا زنک، اگر آیانی تہ اُوب یا یَدعُونی ہوبیت، مرگءِ مرگ آیانءَ بیت؛ گوں سنگ آیانءَ سنگسار کننت، ⟨את⟩ آیانءَ — آیانی وُہتے آیانی سرا اِنت۔",
   "tokens": [
     {
-      "surface": "וְאִ֣ישׁ",
+      "surface": "ואיש",
       "gloss": "ءُ یک مرد"
     },
     {
-      "surface": "אֽוֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "אִשָּׁ֗ה",
+      "surface": "אשה",
       "gloss": "زنک"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "اگر"
     },
     {
-      "surface": "יִהְיֶ֨ה",
+      "surface": "יהיה",
       "gloss": "ہوبیت"
     },
     {
-      "surface": "בָהֶ֥ם",
+      "surface": "בהם",
       "gloss": "آیانی تہ"
     },
     {
-      "surface": "א֛וֹב",
+      "surface": "אוב",
       "gloss": "اُوب"
     },
     {
-      "surface": "א֥וֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "יִדְּעֹנִ֖י",
+      "surface": "ידעני",
       "gloss": "یَدعُونی"
     },
     {
-      "surface": "מ֣וֹת",
+      "surface": "מות",
       "gloss": "مرگءِ"
     },
     {
-      "surface": "יוּמָ֑תוּ",
+      "surface": "יומתו",
       "gloss": "مرگ آیانءَ بیت"
     },
     {
-      "surface": "בָּאֶ֛בֶן",
+      "surface": "באבן",
       "gloss": "گوں سنگ"
     },
     {
-      "surface": "יִרְגְּמ֥וּ",
+      "surface": "ירגמו",
       "gloss": "سنگسار کننت"
     },
     {
-      "surface": "אֹתָ֖ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "آیانی وُہتے"
     },
     {
-      "surface": "דְּמֵיהֶ֥ם",
+      "surface": "דמיהם",
       "gloss": "آیانی وُہتے"
     },
     {
-      "surface": "בָּֽם",
+      "surface": "בם",
       "gloss": "آیانی سرا اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:23:34.800645069Z",
-  "model": "glm-5.3"
+  ]
 }

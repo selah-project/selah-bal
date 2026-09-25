@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "judges 6:24",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:07:45.890257751Z",
+  "verse": 24,
+  "ref": "judges 6:24",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ گدعون اودا پہ یاہوہءَ یک قربانگاہ جوڑ کت، ءُ آییءَ یاہوہ شلوم ناں دات؛ اے روچءَ ہم آ ہنو عفراتءَ اِنت، ابی ئزریانی ءِ۔",
   "tokens": [
@@ -12,66 +14,64 @@
       "gloss": "جوڑ کت"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "גִּדְעוֹן",
+      "surface": "גדעון",
       "gloss": "گدعون"
     },
     {
-      "surface": "מִזְבֵּחַ",
+      "surface": "מזבח",
       "gloss": "قربانگاہ"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "پہ یاہوہءَ"
     },
     {
-      "surface": "וַיִּקְרָא",
+      "surface": "ויקרא",
       "gloss": "ناں دات"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "שָׁלוֹם",
+      "surface": "שלום",
       "gloss": "شلوم"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "ءُ ہنو … تائین"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "اے روچءَ"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "עוֹדֶנּוּ",
+      "surface": "עודנו",
       "gloss": "ہنو اِنت"
     },
     {
-      "surface": "בְּעָפְרָ֖ת",
+      "surface": "בעפרת",
       "gloss": "عفراتءَ"
     },
     {
-      "surface": "אֲבִי",
+      "surface": "אבי",
       "gloss": "ابی"
     },
     {
-      "surface": "הָעֶזְרִי",
+      "surface": "העזרי",
       "gloss": "ئزریانی"
     }
-  ],
-  "timestamp": "2026-09-25T19:07:45.890257751Z",
-  "model": "glm-5.3"
+  ]
 }

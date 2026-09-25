@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "job 12:5",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:20:16.402585769Z",
+  "verse": 5,
+  "ref": "job 12:5",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "مشعل ⟨اِنت⟩ حقارتءِ چیز پہ آرامیںءِ سوچءَ؛ آمادہ اِنت پہ آوانی کہ ایشانی پا چیک لگیت۔",
   "tokens": [
     {
-      "surface": "לַפִּיד",
+      "surface": "לפיד",
       "gloss": "مشعل"
     },
     {
-      "surface": "בּוּז",
+      "surface": "בוז",
       "gloss": "حقارت"
     },
     {
-      "surface": "לְעַשְׁתּוּת",
+      "surface": "לעשתות",
       "gloss": "پہ آرامیںءِ سوچءَ"
     },
     {
-      "surface": "שַׁאֲנָן",
+      "surface": "שאנן",
       "gloss": "آرامیں"
     },
     {
-      "surface": "נָכוֹן",
+      "surface": "נכון",
       "gloss": "آمادہ اِنت"
     },
     {
-      "surface": "לְמוֹעֲדֵי",
+      "surface": "למועדי",
       "gloss": "پہ آوانی کہ ایشانی"
     },
     {
-      "surface": "רֶגֶל",
+      "surface": "רגל",
       "gloss": "پا"
     }
-  ],
-  "timestamp": "2026-09-25T18:20:16.402585769Z",
-  "model": "glm-5.3"
+  ]
 }

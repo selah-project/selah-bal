@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "deuteronomy 2:4",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:16:37.356077844Z",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ ⟨את⟩ قومءَ حکم کن گوءُ گوَشت: شما تہ سرحدءِ شمانی براتان گوزریت — عیصوءِ زہگان، کہ تہ سعیرءَ ہستنت — ءُ آ چہ شما ڈرسنت؛ پدا شما گیش چوکس بہ",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "قوم"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "قوم"
     },
     {
-      "surface": "צַו",
+      "surface": "צו",
       "gloss": "حکم کن"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "گوءُ گوَشت"
     },
     {
-      "surface": "אַתֶּם",
+      "surface": "אתם",
       "gloss": "شما"
     },
     {
-      "surface": "עֹבְרִים",
+      "surface": "עברים",
       "gloss": "گوزریت"
     },
     {
-      "surface": "בִּגְבוּל",
+      "surface": "בגבול",
       "gloss": "تہ سرحد"
     },
     {
-      "surface": "אֲחֵיכֶם",
+      "surface": "אחיכם",
       "gloss": "شمانی براتان"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "עֵשָׂו",
+      "surface": "עשו",
       "gloss": "عیصو"
     },
     {
-      "surface": "הַיֹּשְׁבִים",
+      "surface": "הישבים",
       "gloss": "کہ ہستنت"
     },
     {
-      "surface": "בְּשֵׂעִיר",
+      "surface": "בשעיר",
       "gloss": "تہ سعیرءَ"
     },
     {
-      "surface": "וְיִירְאוּ",
+      "surface": "וייראו",
       "gloss": "ءُ ڈرسنت"
     },
     {
-      "surface": "מִכֶּם",
+      "surface": "מכם",
       "gloss": "چہ شما"
     },
     {
-      "surface": "וְנִשְׁמַרְתֶּם",
+      "surface": "ונשמרתם",
       "gloss": "ءُ چوکس بہ"
     },
     {
-      "surface": "מְאֹד",
+      "surface": "מאד",
       "gloss": "گیش"
     }
-  ],
-  "timestamp": "2026-09-25T15:16:37.356077844Z",
-  "model": "glm-5.3"
+  ]
 }

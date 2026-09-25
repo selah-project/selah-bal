@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "numbers 10:21",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:44:37.547836480Z",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ کہاتی روتیت، پاک چیزانی گیرتوک، ءُ دگروک مِشکانءَ چاک کت۔ پہ آیانی رسیءِ پیش۔",
   "tokens": [
     {
-      "surface": "וְנָסְעוּ",
+      "surface": "ונסעו",
       "gloss": "ءُ روتیت"
     },
     {
-      "surface": "הַקְּהָתִים",
+      "surface": "הקהתים",
       "gloss": "کہاتی"
     },
     {
-      "surface": "נֹשְׂאֵי",
+      "surface": "נשאי",
       "gloss": "گیرتوک"
     },
     {
-      "surface": "הַמִּקְדָּשׁ",
+      "surface": "המקדש",
       "gloss": "پاک چیز"
     },
     {
-      "surface": "וְהֵקִימוּ",
+      "surface": "והקימו",
       "gloss": "ءُ چاک کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِشکانءَ"
     },
     {
-      "surface": "הַמִּשְׁכָּן",
+      "surface": "המשכן",
       "gloss": "مِشکان"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "پیش"
     },
     {
-      "surface": "בֹּאָם",
+      "surface": "באם",
       "gloss": "آیانی رسی"
     }
-  ],
-  "timestamp": "2026-09-25T19:44:37.547836480Z",
-  "model": "glm-5.3"
+  ]
 }

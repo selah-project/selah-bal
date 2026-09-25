@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "deuteronomy 26:7",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:22:21.837156779Z",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ ما اے یاہوہءَ، اولیانیں ہدائے، بانگ کت؛ ءُ یاہوہءَ ⟨את⟩ مئنیں آواز گوشت، ءُ ⟨את⟩ مئنیں دب ءُ ءُ ⟨את⟩ مئنیں محنت ءُ ⟨את⟩ مئنیں پِڑ گندیت۔",
   "tokens": [
     {
-      "surface": "וַנִּצְעַ֕ק",
+      "surface": "ונצעק",
       "gloss": "ءُ ما … بانگ کت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "اے … ءَ"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֱלֹהֵ֣י",
+      "surface": "אלהי",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "אֲבֹתֵ֑ינוּ",
+      "surface": "אבתינו",
       "gloss": "اولیانیں ہدائے"
     },
     {
-      "surface": "וַיִּשְׁמַ֤ע",
+      "surface": "וישמע",
       "gloss": "ءُ … گوشت"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مئنیں آواز"
     },
     {
-      "surface": "קֹלֵ֔נוּ",
+      "surface": "קלנו",
       "gloss": "مئنیں آواز"
     },
     {
-      "surface": "וַיַּ֧רְא",
+      "surface": "וירא",
       "gloss": "ءُ … گندیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مئنیں دب"
     },
     {
-      "surface": "עָנְיֵ֛נוּ",
+      "surface": "ענינו",
       "gloss": "مئنیں دب"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "مئنیں محنت"
     },
     {
-      "surface": "עֲמָלֵ֖נוּ",
+      "surface": "עמלנו",
       "gloss": "مئنیں محنت"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "مئنیں پِڑ"
     },
     {
-      "surface": "לַחֲצֵֽנוּ",
+      "surface": "לחצנו",
       "gloss": "مئنیں پِڑ"
     }
-  ],
-  "timestamp": "2026-09-25T15:22:21.837156779Z",
-  "model": "glm-5.3"
+  ]
 }

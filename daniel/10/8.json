@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "daniel 10:8",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:51:57.071171892Z",
+  "verse": 8,
+  "ref": "daniel 10:8",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ من یکے چڑا بوت ءُ ⟨את⟩ اے گیشترین منظر گندیت، ءُ منءِ تہ کوشش نہ مانیت، ءُ منءِ جلال منءِ سرءَ پہ پوشیدگی پدا بوت، ءُ من کوشش نہ جپت۔",
   "tokens": [
     {
-      "surface": "וַאֲנִי֙",
+      "surface": "ואני",
       "gloss": "ءُ من"
     },
     {
-      "surface": "נִשְׁאַ֣רְתִּי",
+      "surface": "נשארתי",
       "gloss": "چڑا بوت"
     },
     {
-      "surface": "לְבַדִּ֔י",
+      "surface": "לבדי",
       "gloss": "یکے"
     },
     {
-      "surface": "וָֽאֶרְאֶ֗ה",
+      "surface": "ואראה",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے گیشترین منظر"
     },
     {
-      "surface": "הַמַּרְאָ֤ה",
+      "surface": "המראה",
       "gloss": "منظر"
     },
     {
-      "surface": "הַגְּדֹלָה֙",
+      "surface": "הגדלה",
       "gloss": "گیشترین"
     },
     {
-      "surface": "הַזֹּ֔את",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "וְלֹ֥א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "נִשְׁאַ֖ר",
+      "surface": "נשאר",
       "gloss": "مانیت"
     },
     {
-      "surface": "בִּ֖י",
+      "surface": "בי",
       "gloss": "منءِ تہ"
     },
     {
-      "surface": "כֹּ֑חַ",
+      "surface": "כח",
       "gloss": "کوشش"
     },
     {
-      "surface": "וְהוֹדִ֗י",
+      "surface": "והודי",
       "gloss": "ءُ منءِ جلال"
     },
     {
-      "surface": "נֶהְפַּ֤ךְ",
+      "surface": "נהפך",
       "gloss": "پدا بوت"
     },
     {
-      "surface": "עָלַי֙",
+      "surface": "עלי",
       "gloss": "منءِ سرءَ"
     },
     {
-      "surface": "לְמַשְׁחִ֔ית",
+      "surface": "למשחית",
       "gloss": "پہ پوشیدگی"
     },
     {
-      "surface": "וְלֹ֥א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "עָצַ֖רְתִּי",
+      "surface": "עצרתי",
       "gloss": "جپت"
     },
     {
-      "surface": "כֹּֽחַ",
+      "surface": "כח",
       "gloss": "کوشش"
     }
-  ],
-  "timestamp": "2026-09-25T14:51:57.071171892Z",
-  "model": "glm-5.3"
+  ]
 }

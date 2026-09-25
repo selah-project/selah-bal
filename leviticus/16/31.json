@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "leviticus 16:31",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:19:54.118208785Z",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "شباتِ شباتون آ ⟨اِنت⟩ پہ تمان، ءُ تمان عذیب کنیءَ ⟨את⟩ جانانی تمان — حکمِ ہمیشگی۔",
   "tokens": [
     {
-      "surface": "שַׁבַּ֨ת",
+      "surface": "שבת",
       "gloss": "شبات"
     },
     {
-      "surface": "שַׁבָּת֥וֹן",
+      "surface": "שבתון",
       "gloss": "شباتون"
     },
     {
-      "surface": "הִיא֙",
+      "surface": "היא",
       "gloss": "آ ⟨اِنت⟩"
     },
     {
-      "surface": "לָכֶ֔ם",
+      "surface": "לכם",
       "gloss": "پہ تمان"
     },
     {
-      "surface": "וְעִנִּיתֶ֖ם",
+      "surface": "ועניתם",
       "gloss": "ءُ تمان عذیب کنیءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "جانانی تمان"
     },
     {
-      "surface": "נַפְשֹׁתֵיכֶ֑ם",
+      "surface": "נפשתיכם",
       "gloss": "جانانی تمان"
     },
     {
-      "surface": "חֻקַּ֖ת",
+      "surface": "חקת",
       "gloss": "حکمِ"
     },
     {
-      "surface": "עוֹלָֽם",
+      "surface": "עולם",
       "gloss": "ہمیشگی"
     }
-  ],
-  "timestamp": "2026-09-25T19:19:54.118208785Z",
-  "model": "glm-5.3"
+  ]
 }

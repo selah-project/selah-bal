@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "leviticus 24:22",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:22:19.090868286Z",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "یکمیں فیصلہ تہاں پہ بیت، گوشوکءِ چوں ءُ دیسیءِ چوں ⟨بیت⟩، پرچا کہ من یاہوہ تہماں ایلوہیم اَنت۔",
   "tokens": [
     {
-      "surface": "מִשְׁפַּט",
+      "surface": "משפט",
       "gloss": "فیصلہ"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یکمیں"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "تہاں پہ"
     },
     {
-      "surface": "כַּגֵּר",
+      "surface": "כגר",
       "gloss": "گوشوکءِ چوں"
     },
     {
-      "surface": "כָּאֶזְרָח",
+      "surface": "כאזרח",
       "gloss": "دیسیءِ چوں"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "⟨بیت⟩"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵיכֶם",
+      "surface": "אלהיכם",
       "gloss": "تہماں ایلوہیم"
     }
-  ],
-  "timestamp": "2026-09-25T19:22:19.090868286Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "deuteronomy 16:18",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:13:06.902103497Z",
+  "verse": 18,
+  "ref": "deuteronomy 16:18",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "تو پہ وتءَ قاضی ءُ افسر دِنت تہ تمامئں تئیں دروازگاں ءَ، کہ یاہوہ تئیں ایلوہیم تئہ دنت پہ تئیں ٟولیان، ءُ اِشاں قومءَ ⟨את⟩ گوں راستیں فیصلہ شپت کننت.",
   "tokens": [
     {
-      "surface": "שֹׁפְטִ֣ים",
+      "surface": "שפטים",
       "gloss": "قاضی"
     },
     {
-      "surface": "וְשֹֽׁטְרִ֗ים",
+      "surface": "ושטרים",
       "gloss": "ءُ افسر"
     },
     {
-      "surface": "תִּֽתֶּן",
+      "surface": "תתן",
       "gloss": "دِنت"
     },
     {
-      "surface": "לְךָ֙",
+      "surface": "לך",
       "gloss": "پہ وتءَ"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "تہ تمامئں"
     },
     {
-      "surface": "שְׁעָרֶ֔יךָ",
+      "surface": "שעריך",
       "gloss": "تئیں دروازگاں ءَ"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יְהוָ֧ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶ֛יךָ",
+      "surface": "אלהיך",
       "gloss": "تئیں ایلوہیم"
     },
     {
-      "surface": "נֹתֵ֥ן",
+      "surface": "נתן",
       "gloss": "دنت"
     },
     {
-      "surface": "לְךָ֖",
+      "surface": "לך",
       "gloss": "تئہ"
     },
     {
-      "surface": "לִשְׁבָטֶ֑יךָ",
+      "surface": "לשבטיך",
       "gloss": "پہ تئیں ٟولیان"
     },
     {
-      "surface": "וְשָׁפְט֥וּ",
+      "surface": "ושפטו",
       "gloss": "ءُ شپت کننت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "قوم"
     },
     {
-      "surface": "הָעָ֖ם",
+      "surface": "העם",
       "gloss": "قومءَ"
     },
     {
-      "surface": "מִשְׁפַּט",
+      "surface": "משפט",
       "gloss": "فیصلہ"
     },
     {
-      "surface": "צֶֽדֶק",
+      "surface": "צדק",
       "gloss": "راستیں"
     }
-  ],
-  "timestamp": "2026-09-25T15:13:06.902103497Z",
-  "model": "glm-5.3"
+  ]
 }

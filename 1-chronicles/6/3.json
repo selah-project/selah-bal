@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "1-chronicles 6:3",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:46:06.331460931Z",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ قہاتءِ زہگان: عمرام ءُ یتصہار ءُ حبرون ءُ عزیایل۔",
   "tokens": [
     {
-      "surface": "וּבְנֵ֖י",
+      "surface": "ובני",
       "gloss": "ءُ …ءِ زہگان"
     },
     {
-      "surface": "קְהָ֑ת",
+      "surface": "קהת",
       "gloss": "قہات"
     },
     {
-      "surface": "עַמְרָ֣ם",
+      "surface": "עמרם",
       "gloss": "عمرام"
     },
     {
-      "surface": "וְיִצְהָ֔ר",
+      "surface": "ויצהר",
       "gloss": "ءُ یتصہار"
     },
     {
-      "surface": "וְחֶבְר֖וֹן",
+      "surface": "וחברון",
       "gloss": "ءُ حبرون"
     },
     {
-      "surface": "וְעֻזִּיאֵֽל",
+      "surface": "ועזיאל",
       "gloss": "ءُ عزیایل"
     }
-  ],
-  "timestamp": "2026-09-25T12:46:06.331460931Z",
-  "model": "glm-5.3"
+  ]
 }

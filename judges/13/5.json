@@ -1,110 +1,110 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "judges 13:5",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:59:35.433364707Z",
+  "verse": 5,
+  "ref": "judges 13:5",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "کی ہنوک ⟨تو⟩ گروان اِنت ءُ زہگ پیدایت کنیں، ءُ مستر آییءِ سرءَ نہ چڑیت، کی نذیری ایلوہیمءِ پہ اے نوجوان چہ مادرءِ شکمءَ بیت، ءُ آ یشورائیلءَ ⟨את⟩ چہ فلستیانی دستءَ نجات دئنءِ بنگیج کنیت.",
   "tokens": [
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کی"
     },
     {
-      "surface": "הִנָּךְ",
+      "surface": "הנך",
       "gloss": "ہنوک ⟨تو⟩"
     },
     {
-      "surface": "הָרָה",
+      "surface": "הרה",
       "gloss": "گروان اِنت"
     },
     {
-      "surface": "וְיֹלַדְתְּ",
+      "surface": "וילדת",
       "gloss": "ءُ پیدایت کنیں"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "וּמוֹרָה",
+      "surface": "ומורה",
       "gloss": "ءُ مستر"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "یַעֲלֶה",
+      "surface": "יעלה",
       "gloss": "چڑیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "רֹאשׁוֹ",
+      "surface": "ראשו",
       "gloss": "آییءِ سر"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کی"
     },
     {
-      "surface": "נְזִיר",
+      "surface": "נזיר",
       "gloss": "نذیری"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "הַנַּעַר",
+      "surface": "הנער",
       "gloss": "اے نوجوان"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַבָּטֶן",
+      "surface": "הבטן",
       "gloss": "مادرءِ شکم"
     },
     {
-      "surface": "וְהוּא",
+      "surface": "והוא",
       "gloss": "ءُ آ"
     },
     {
-      "surface": "יָחֵל",
+      "surface": "יחל",
       "gloss": "بنگیج کنیت"
     },
     {
-      "surface": "לְהוֹשִׁיעַ",
+      "surface": "להושיע",
       "gloss": "پہ نجات دئن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یشورائیل"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یشورائیلءَ"
     },
     {
-      "surface": "מִיַּד",
+      "surface": "מיד",
       "gloss": "چہ دستءَ"
     },
     {
-      "surface": "פְּלִשְׁתִּים",
+      "surface": "פלשתים",
       "gloss": "فلستیانی"
     }
-  ],
-  "timestamp": "2026-09-25T18:59:35.433364707Z",
-  "model": "glm-5.3"
+  ]
 }

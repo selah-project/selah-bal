@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "job 21:16",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:25:05.446101845Z",
+  "verse": 16,
+  "ref": "job 21:16",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "کہ یک وتی چنگی اِشانی دستءَ نیست — بدکانی صلاح چہ ماں دُر اِنت.",
   "tokens": [
     {
-      "surface": "הֵן",
+      "surface": "הן",
       "gloss": "کہ یک (وانگءِ نشان)"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "בְיָדָם",
+      "surface": "בידם",
       "gloss": "اِشانی دستءَ"
     },
     {
-      "surface": "טוּבָם",
+      "surface": "טובם",
       "gloss": "وتی چنگی"
     },
     {
-      "surface": "עֲצַת",
+      "surface": "עצת",
       "gloss": "صلاح"
     },
     {
-      "surface": "רְשָׁעִים",
+      "surface": "רשעים",
       "gloss": "بدکانءِ"
     },
     {
-      "surface": "רָחֲקָה",
+      "surface": "רחקה",
       "gloss": "دُر اِنت"
     },
     {
-      "surface": "מֶנִּי",
+      "surface": "מני",
       "gloss": "چہ ماں"
     }
-  ],
-  "timestamp": "2026-09-25T18:25:05.446101845Z",
-  "model": "glm-5.3"
+  ]
 }

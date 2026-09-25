@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "isaiah 36:9",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:24:21.600603782Z",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "ءُ چلک تو ⟨את⟩ یکئے چچپاکیءِ رُوپد پدا گرزیں — منیءِ اربابءِ غلامانی چکمئیںءَ — ءُ وتءَ مِتسرایمءِ سرءَ آواریت پہ گاڑی ءُ پہ سواران؟",
   "tokens": [
     {
-      "surface": "וְאֵ֣יךְ",
+      "surface": "ואיך",
       "gloss": "ءُ چلک"
     },
     {
-      "surface": "תָּשִׁ֗יב",
+      "surface": "תשיב",
       "gloss": "پدا گرزیں"
     },
     {
-      "surface": "אֵ֠ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "رُوپد"
     },
     {
-      "surface": "פְּנֵ֨י",
+      "surface": "פני",
       "gloss": "رُوپد"
     },
     {
-      "surface": "פַּחַ֥ת",
+      "surface": "פחת",
       "gloss": "چچپاک"
     },
     {
-      "surface": "אַחַ֛ד",
+      "surface": "אחד",
       "gloss": "یکئے"
     },
     {
-      "surface": "עַבְדֵ֥י",
+      "surface": "עבדי",
       "gloss": "غلامانی"
     },
     {
-      "surface": "אֲדֹנִ֖י",
+      "surface": "אדני",
       "gloss": "ارباب (منیءِ)"
     },
     {
-      "surface": "הַקְטַנִּ֑ים",
+      "surface": "הקטנים",
       "gloss": "چکمئیں"
     },
     {
-      "surface": "וַתִּבְטַ֤ח",
+      "surface": "ותבטח",
       "gloss": "ءُ آواریت"
     },
     {
-      "surface": "לְךָ֙",
+      "surface": "לך",
       "gloss": "وتءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "מִצְרַ֔יִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایم"
     },
     {
-      "surface": "לְרֶ֖כֶב",
+      "surface": "לרכב",
       "gloss": "پہ گاڑی"
     },
     {
-      "surface": "וּלְפָרָשִֽׁים",
+      "surface": "ולפרשים",
       "gloss": "ءُ پہ سواران"
     }
-  ],
-  "timestamp": "2026-09-25T17:24:21.600603782Z",
-  "model": "glm-5.3"
+  ]
 }

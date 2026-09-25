@@ -1,46 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "deuteronomy 1:34",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:06:02.598223664Z",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ یاہوہءَ ⟨את⟩ آوازءِ شمایانءِ گالان گوشت، ءُ غصہ بیت، ءُ قسمءَ لیکت کہ گوَشتگ:",
   "tokens": [
     {
-      "surface": "וַיִּשְׁמַע",
+      "surface": "וישמע",
       "gloss": "ءُ … گوشت"
     },
     {
-      "surface": "יְהֹוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آوازءِ شمایانءِ گالان"
     },
     {
-      "surface": "קוֹל",
+      "surface": "קול",
       "gloss": "آوازءِ"
     },
     {
-      "surface": "דִּבְרֵיכֶם",
+      "surface": "דבריכם",
       "gloss": "شمایانءِ گالان"
     },
     {
-      "surface": "וַיִּקְצֹף",
+      "surface": "ויקצף",
       "gloss": "ءُ غصہ بیت"
     },
     {
-      "surface": "וַיִּשָּׁבַע",
+      "surface": "וישבע",
       "gloss": "ءُ قسمءَ لیکت"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "کہ گوَشتگ"
     }
-  ],
-  "timestamp": "2026-09-25T15:06:02.598223664Z",
-  "model": "glm-5.3"
+  ]
 }

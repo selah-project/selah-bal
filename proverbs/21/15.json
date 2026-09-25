@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "proverbs 21:15",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:16:34.398278974Z",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "شادی اِنت پہ راستکاراں مِشپاتءَ کرگ، ءُ تباہی پہ اوباشءِ کارکنانءَ۔",
   "tokens": [
     {
-      "surface": "שִׂמְחָ֣ה",
+      "surface": "שמחה",
       "gloss": "شادی"
     },
     {
-      "surface": "לַ֭צַּדִּיק",
+      "surface": "לצדיק",
       "gloss": "پہ راستکاراں"
     },
     {
-      "surface": "עֲשׂ֣וֹת",
+      "surface": "עשות",
       "gloss": "کرگ"
     },
     {
-      "surface": "מִשְׁפָּ֑ט",
+      "surface": "משפט",
       "gloss": "مِشپات"
     },
     {
-      "surface": "וּ֝מְחִתָּ֗ה",
+      "surface": "ומחתה",
       "gloss": "ءُ تباہی"
     },
     {
-      "surface": "לְפֹ֣עֲלֵי",
+      "surface": "לפעלי",
       "gloss": "پہ کارکنانءَ"
     },
     {
-      "surface": "אָֽוֶן",
+      "surface": "און",
       "gloss": "اوباشی"
     }
-  ],
-  "timestamp": "2026-09-25T20:16:34.398278974Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "psalms 74:17",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:46:24.458468649Z",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "tier": "glm-5.2",
   "chapter": 74,
   "translation": "تو زمینءِ ساری سرحداں مقرر کتنت؛ گرمیءِ موسم ءُ سردیءِ موسم — تو ئے اِشاںءِ شکل دیتگ.",
   "tokens": [
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "הִצַּבְתָּ",
+      "surface": "הצבת",
       "gloss": "مقرر کتنت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ساری"
     },
     {
-      "surface": "גְּבוּלוֹת",
+      "surface": "גבולות",
       "gloss": "سرحداں"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "קַיִץ",
+      "surface": "קיץ",
       "gloss": "گرمیءِ موسم"
     },
     {
-      "surface": "וָחֹרֶף",
+      "surface": "וחרף",
       "gloss": "ءُ سردیءِ موسم"
     },
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "تو ئے"
     },
     {
-      "surface": "יְצַרְתָּם",
+      "surface": "יצרתם",
       "gloss": "شکل دیتگ"
     }
-  ],
-  "timestamp": "2026-09-25T20:46:24.458468649Z",
-  "model": "glm-5.3"
+  ]
 }

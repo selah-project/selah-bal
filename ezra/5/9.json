@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "ezra 5:9",
   "book": "ezra",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:39:20.291076414Z",
+  "verse": 9,
+  "ref": "ezra 5:9",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "آ وھدءَ ما اے پیراناں پُچشت کت ءُ اِشاںءَ اِشیں گوَشت: کے شمارا فرمان دت کہ اے گدان جوڑ کنٹ ءُ اے دیوارءَ پوریہ کنٹ؟",
   "tokens": [
     {
-      "surface": "אֱדַיִן",
+      "surface": "אדין",
       "gloss": "آ وھدءَ"
     },
     {
-      "surface": "שְׁאֵלְנָא",
+      "surface": "שאלנא",
       "gloss": "پُچشت کت"
     },
     {
-      "surface": "לְשָׂבַיָּא",
+      "surface": "לשביא",
       "gloss": "اے پیراناں"
     },
     {
-      "surface": "אִלֵּךְ",
+      "surface": "אלך",
       "gloss": "اے"
     },
     {
-      "surface": "כְּנֵמָא",
+      "surface": "כנמא",
       "gloss": "اِشیں چوں"
     },
     {
-      "surface": "אֲמַרְנָא",
+      "surface": "אמרנא",
       "gloss": "گوَشت"
     },
     {
-      "surface": "לְהֹם",
+      "surface": "להם",
       "gloss": "اِشاںءَ"
     },
     {
-      "surface": "מָן",
+      "surface": "מן",
       "gloss": "کے"
     },
     {
-      "surface": "שָׂם",
+      "surface": "שם",
       "gloss": "دت"
     },
     {
-      "surface": "לְכֹם",
+      "surface": "לכם",
       "gloss": "شمارا"
     },
     {
-      "surface": "טְעֵם",
+      "surface": "טעם",
       "gloss": "فرمان"
     },
     {
-      "surface": "בַּיְתָא",
+      "surface": "ביתא",
       "gloss": "گدان"
     },
     {
-      "surface": "דְנָה",
+      "surface": "דנה",
       "gloss": "اے"
     },
     {
-      "surface": "לְמִבְנְיָא",
+      "surface": "למבניה",
       "gloss": "پہ جوڑگرگ"
     },
     {
-      "surface": "וְאֻשָּׁרְנָא",
+      "surface": "ואשרנא",
       "gloss": "ءُ اے دیوار"
     },
     {
-      "surface": "דְנָה",
+      "surface": "דנה",
       "gloss": "اے"
     },
     {
-      "surface": "לְשַׁכְלָלָה",
+      "surface": "לשכללה",
       "gloss": "پہ پوریہ گرگ"
     }
-  ],
-  "timestamp": "2026-09-25T16:39:20.291076414Z",
-  "model": "glm-5.3"
+  ]
 }

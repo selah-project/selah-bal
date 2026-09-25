@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "jeremiah 9:15",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:18:45.322537254Z",
+  "verse": 15,
+  "ref": "jeremiah 9:15",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ من اِشاں تہ آں قومانی شار دم کہ نہ اِشاں ءُ نہ اِشاںءِ پیدان آیانءَ زانتنت، ءُ اِشاںءِ پسہ ⟨את⟩ تیغ لہیت کنت، تا کہ من ⟨את⟩ اِشاںءَ اِنجام دم.",
   "tokens": [
     {
-      "surface": "וַהֲפִֽצוֹתִים֙",
+      "surface": "והפצותים",
       "gloss": "ءُ شار دم"
     },
     {
-      "surface": "בַּגּוֹיִם",
+      "surface": "בגוים",
       "gloss": "تہ قومانی"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָדְעוּ",
+      "surface": "ידעו",
       "gloss": "زانتنت"
     },
     {
-      "surface": "הֵמָּה",
+      "surface": "המה",
       "gloss": "اِشاں"
     },
     {
-      "surface": "וַאֲבוֹתָם",
+      "surface": "ואבותם",
       "gloss": "ءُ اِشاںءِ پیدان"
     },
     {
-      "surface": "וְשִׁלַּחְתִּי",
+      "surface": "ושלחתי",
       "gloss": "ءُ لہیت کنت"
     },
     {
-      "surface": "אַחֲרֵיהֶם",
+      "surface": "אחריהם",
       "gloss": "اِشاںءِ پسہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تیغ"
     },
     {
-      "surface": "הַחֶרֶב",
+      "surface": "החרב",
       "gloss": "تیغ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا کہ"
     },
     {
-      "surface": "כַּלּוֹתִי",
+      "surface": "כלותי",
       "gloss": "اِنجام دم"
     },
     {
-      "surface": "אוֹתָם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ اِشاںءَ",
       "marks": "اِشاںءَ اِنجام دم"
     }
-  ],
-  "timestamp": "2026-09-25T18:18:45.322537254Z",
-  "model": "glm-5.3"
+  ]
 }

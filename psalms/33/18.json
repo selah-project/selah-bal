@@ -1,42 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "psalms 33:18",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:38:26.316618466Z",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "وانیت، یاہوہءِ چشم اِنت ⟨את⟩ آییءِ ڈراں، پہ آیان کہ آییءِ چمءِ منتظر اَنت۔",
   "tokens": [
     {
-      "surface": "הִנֵּה",
+      "surface": "הנה",
       "gloss": "وانیت"
     },
     {
-      "surface": "עֵין",
+      "surface": "עין",
       "gloss": "چشم"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "⟨את⟩",
       "marks": "آییءِ ڈراں"
     },
     {
-      "surface": "יְרֵאָיו",
+      "surface": "יראיו",
       "gloss": "آییءِ ڈراں"
     },
     {
-      "surface": "לַמְיַחֲלִים",
+      "surface": "למיחלים",
       "gloss": "منتظر اَنت"
     },
     {
-      "surface": "לְחַסְדּוֹ",
+      "surface": "לחסדו",
       "gloss": "آییءِ چمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:38:26.316618466Z",
-  "model": "glm-5.3"
+  ]
 }

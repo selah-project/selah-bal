@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "psalms 20:3",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:35:54.754802914Z",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "بھیجیت ⟨⟩ تئے مدد چہ مقدسءَ، ءُ چہ صہیون تئے تھامیت",
   "tokens": [
     {
-      "surface": "יִשְׁלַֽח",
+      "surface": "ישלח",
       "gloss": "بھیجیت"
     },
     {
-      "surface": "עֶזְרְךָ֥",
+      "surface": "עזרך",
       "gloss": "تئے مدد"
     },
     {
-      "surface": "מִקֹּ֑דֶשׁ",
+      "surface": "מקדש",
       "gloss": "چہ مقدسءَ"
     },
     {
-      "surface": "וּ֝מִצִּיּ֗וֹן",
+      "surface": "ומציון",
       "gloss": "ءُ چہ صہیون"
     },
     {
-      "surface": "יִסְעָדֶֽךָּ",
+      "surface": "יסעדך",
       "gloss": "تئے تھامیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:35:54.754802914Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,151 +1,151 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "esther 8:5",
   "book": "esther",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:41:28.810763859Z",
+  "verse": 5,
+  "ref": "esther 8:5",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ گوَشت: اگر پہ شاہءَ چنگ اِنت، ءُ اگر من آییءِ دیماں چم پٹیتم، ءُ آ کار شاہءِ دیماں درست اِنت، ءُ من آییءِ چمانءَ چنگ اَں — لکھہ ببیت پہ پدا گرگ ⟨את⟩ لکھتان، ہامانءِ سازشءِ، زہگءِ ہمداتایءِ، آگاگی، کہ لکھتگ پہ تباه گرگ ⟨את⟩ یہودیانی کہ تہ ہر شاہءِ ولایتءَ اَنت.",
   "tokens": [
     {
-      "surface": "וַתֹּאמֶר",
+      "surface": "ותאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "اگر"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہءَ"
     },
     {
-      "surface": "טוֹב",
+      "surface": "טוב",
       "gloss": "چنگ"
     },
     {
-      "surface": "וְאִם",
+      "surface": "ואם",
       "gloss": "ءُ اگر"
     },
     {
-      "surface": "מָצָאתִי",
+      "surface": "מצאתי",
       "gloss": "پٹیتم"
     },
     {
-      "surface": "חֵן",
+      "surface": "חן",
       "gloss": "چم"
     },
     {
-      "surface": "לְפָנָיו",
+      "surface": "לפניו",
       "gloss": "آییءِ دیماں"
     },
     {
-      "surface": "וְכָשֵׁר",
+      "surface": "וכשר",
       "gloss": "ءُ درست"
     },
     {
-      "surface": "הַדָּבָר",
+      "surface": "הדבר",
       "gloss": "آ کار"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہءِ"
     },
     {
-      "surface": "וְטוֹבָה",
+      "surface": "וטובה",
       "gloss": "ءُ چنگ"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "בְּעֵינָיו",
+      "surface": "בעיניו",
       "gloss": "آییءِ چمانءَ"
     },
     {
-      "surface": "יִכָּתֵב",
+      "surface": "יכתב",
       "gloss": "لکھہ ببیت"
     },
     {
-      "surface": "לְהָשִׁיב",
+      "surface": "להשיב",
       "gloss": "پہ پدا گرگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "لکھتان"
     },
     {
-      "surface": "הַסְּפָרִים",
+      "surface": "הספרים",
       "gloss": "لکھتان"
     },
     {
-      "surface": "מַחֲשֶׁבֶת",
+      "surface": "מחשבת",
       "gloss": "سازشءِ"
     },
     {
-      "surface": "הָמָן",
+      "surface": "המן",
       "gloss": "ہامانءِ"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בן",
       "gloss": "زہگءِ"
     },
     {
-      "surface": "הַמְּדָתָא",
+      "surface": "המדתא",
       "gloss": "ہمداتایءِ"
     },
     {
-      "surface": "הָאֲגָגִי",
+      "surface": "האגגי",
       "gloss": "آگاگی"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "כָּתַב",
+      "surface": "כתב",
       "gloss": "لکھتگ"
     },
     {
-      "surface": "לְאַבֵּד",
+      "surface": "לאבד",
       "gloss": "پہ تباه گرگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یہودیان"
     },
     {
-      "surface": "הַיְּהוּדִים",
+      "surface": "היהודים",
       "gloss": "یہودیانی"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "تہ ہر"
     },
     {
-      "surface": "מְדִינוֹת",
+      "surface": "מדינות",
       "gloss": "ولایت"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:41:28.810763859Z",
-  "model": "glm-5.3"
+  ]
 }

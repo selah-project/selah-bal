@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "psalms 18:19",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:35:26.705404017Z",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "اِشاں منی مصیبتءِ روچءَ منی پیشءَ براتنت، ءُ یاہوہ منی سہارا بوت۔",
   "tokens": [
     {
-      "surface": "יְקַדְּמ֥וּנִי",
+      "surface": "יקדמוני",
       "gloss": "منی پیشءَ براتنت"
     },
     {
-      "surface": "בְּיוֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "אֵידִ֑י",
+      "surface": "אידי",
       "gloss": "منی مصیبتءِ"
     },
     {
-      "surface": "וַֽיְהִי",
+      "surface": "ויהי",
       "gloss": "ءُ بوت"
     },
     {
-      "surface": "יְהֹוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "לְמִשְׁעָ֣ן",
+      "surface": "למשען",
       "gloss": "سہارا"
     },
     {
-      "surface": "לִֽי",
+      "surface": "לי",
       "gloss": "منی"
     }
-  ],
-  "timestamp": "2026-09-25T20:35:26.705404017Z",
-  "model": "glm-5.3"
+  ]
 }

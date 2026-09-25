@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "joshua 6:3",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:52:43.212852424Z",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ شما ⟨את⟩ شہرءَ گش کنیں، سارے جنگءِ مردمان، شہرءَ یک وارءِ چمءَ گپتہ بگرِنت — اے وش شش روچ کَنٹ۔",
   "tokens": [
     {
-      "surface": "וְסַבֹּתֶם",
+      "surface": "וסבתם",
       "gloss": "ءُ شما گش کنیں"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شہر"
     },
     {
-      "surface": "הָעִיר",
+      "surface": "העיר",
       "gloss": "شہرءَ"
     },
     {
-      "surface": "כֹּל",
+      "surface": "כל",
       "gloss": "سارے"
     },
     {
-      "surface": "אַנְשֵׁי",
+      "surface": "אנשי",
       "gloss": "مردمان"
     },
     {
-      "surface": "הַמִּלְחָמָה",
+      "surface": "המלחמה",
       "gloss": "جنگءِ"
     },
     {
-      "surface": "הַקֵּיף",
+      "surface": "הקיף",
       "gloss": "گپتہ بگرِنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شہر"
     },
     {
-      "surface": "הָעִיר",
+      "surface": "העיר",
       "gloss": "شہرءَ"
     },
     {
-      "surface": "פַּעַם",
+      "surface": "פעם",
       "gloss": "وار"
     },
     {
-      "surface": "אַחַת",
+      "surface": "אחת",
       "gloss": "یک"
     },
     {
-      "surface": "כֹּה",
+      "surface": "כה",
       "gloss": "اے وش"
     },
     {
-      "surface": "תַּעֲשֶׂה",
+      "surface": "תעשה",
       "gloss": "کَنٹ"
     },
     {
-      "surface": "שֵׁשֶׁת",
+      "surface": "ששת",
       "gloss": "شش"
     },
     {
-      "surface": "יָמִים",
+      "surface": "ימים",
       "gloss": "روچ"
     }
-  ],
-  "timestamp": "2026-09-25T18:52:43.212852424Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "1-chronicles 25:30",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:02:41.925132698Z",
+  "verse": 30,
+  "ref": "1-chronicles 25:30",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "سئُئُمیءُ بیستءَ پہ مَحَزیوت، آییءِ زہگان ءُ آییءِ براتان دو دہ اَنت.",
   "tokens": [
@@ -24,7 +26,7 @@
       "gloss": "آییءِ زہگان"
     },
     {
-      "surface": "وאחיו",
+      "surface": "ואחיו",
       "gloss": "ءُ آییءِ براتان"
     },
     {
@@ -35,7 +37,5 @@
       "surface": "עשר",
       "gloss": "دہ"
     }
-  ],
-  "timestamp": "2026-09-25T21:02:41.925132698Z",
-  "model": "glm-5.3"
+  ]
 }

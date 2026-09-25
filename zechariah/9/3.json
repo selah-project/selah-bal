@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "zechariah 9:3",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:58:51.801704582Z",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ تسور وتی پہ آییءِ یک قلعہ جوڑ کت، ءُ چاندی چوش گدار کٹار کت، ءُ زر چوش کوٹءِ گلیانءِ گل کٹار کت۔",
   "tokens": [
     {
-      "surface": "וַתִּ֥בֶן",
+      "surface": "ותבן",
       "gloss": "ءُ جوڑ کت"
     },
     {
-      "surface": "צֹ֛ר",
+      "surface": "צר",
       "gloss": "تسور"
     },
     {
-      "surface": "מָצ֖וֹר",
+      "surface": "מצור",
       "gloss": "قلعہ"
     },
     {
-      "surface": "לָ֑הּ",
+      "surface": "לה",
       "gloss": "پہ آییءِ"
     },
     {
-      "surface": "וַתִּצְבָּ֥ר",
+      "surface": "ותצבר",
       "gloss": "ءُ کٹار کت"
     },
     {
-      "surface": "כֶּ֨סֶף֙",
+      "surface": "כסף",
       "gloss": "چاندی"
     },
     {
-      "surface": "כֶּֽעָפָ֔ר",
+      "surface": "כעפר",
       "gloss": "چوش گدار"
     },
     {
-      "surface": "וְחָר֖וּץ",
+      "surface": "וחרוץ",
       "gloss": "ءُ زر"
     },
     {
-      "surface": "כְּטִ֥יט",
+      "surface": "כטיט",
       "gloss": "چوش گل"
     },
     {
-      "surface": "חוּצֽוֹת",
+      "surface": "חוצות",
       "gloss": "کوٹءِ گلیانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:58:51.801704582Z",
-  "model": "glm-5.3"
+  ]
 }

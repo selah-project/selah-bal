@@ -1,95 +1,95 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "genesis 23:6",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:44:30.233960364Z",
+  "verse": 6,
+  "ref": "genesis 23:6",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "گوَش کن اے ادونای — تُو ایلوہیمءِ سردار اِی تہ ماں میان — تہ چنگیں قبران ما ⟨את⟩ تُہی مرت دفن کن — هر مرد چہ ما آیی ⟨את⟩ قبر چہ تُا پَس نہ کنت، چہ دفن کرین تُہی مرت۔",
   "tokens": [
     {
-      "surface": "שְׁמָעֵ֣נוּ",
+      "surface": "שמענו",
       "gloss": "گوَش کن"
     },
     {
-      "surface": "אֲדֹנִ֗י",
+      "surface": "אדני",
       "gloss": "اے ادونای"
     },
     {
-      "surface": "נְשִׂ֨יא",
+      "surface": "נשיא",
       "gloss": "سردار"
     },
     {
-      "surface": "אֱלֹהִ֤ים",
+      "surface": "אלהים",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "אַתָּ֙הּ",
+      "surface": "אתה",
       "gloss": "تُو"
     },
     {
-      "surface": "בְּתוֹכֵ֔נוּ",
+      "surface": "בתוכנו",
       "gloss": "تہ ماں میان"
     },
     {
-      "surface": "בְּמִבְחַ֣ר",
+      "surface": "במבחר",
       "gloss": "تہ چنگیں"
     },
     {
-      "surface": "קְבָרֵ֔ינוּ",
+      "surface": "קברינו",
       "gloss": "قبران ما"
     },
     {
-      "surface": "קְבֹ֖ר",
+      "surface": "קבר",
       "gloss": "دفن کن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُہی مرت"
     },
     {
-      "surface": "מֵתֶ֑ךָ",
+      "surface": "מתך",
       "gloss": "تُہی مرت"
     },
     {
-      "surface": "אִ֣ישׁ",
+      "surface": "איש",
       "gloss": "هر مرد"
     },
     {
-      "surface": "מִמֶּ֔נּוּ",
+      "surface": "ממנו",
       "gloss": "چہ ما"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آیی قبر"
     },
     {
-      "surface": "קִבְר֛וֹ",
+      "surface": "קברו",
       "gloss": "آیی قبر"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִכְלֶ֥ה",
+      "surface": "יכלה",
       "gloss": "پَس نہ کنت"
     },
     {
-      "surface": "מִמֶּּ֖ךָ",
+      "surface": "ממך",
       "gloss": "چہ تُا"
     },
     {
-      "surface": "מִקְּבֹ֥ר",
+      "surface": "מקבר",
       "gloss": "چہ دفن کرین"
     },
     {
-      "surface": "מֵתֶֽךָ",
+      "surface": "מתך",
       "gloss": "تُہی مرت"
     }
-  ],
-  "timestamp": "2026-09-25T16:44:30.233960364Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 57,
-  "ref": "lamentations 3:57",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:13:44.709416888Z",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "تو نزدیک ات گوں روچءَ کہ تُلانءَ مَن تُلانتت، گوَشتیت: نہ ترس۔",
   "tokens": [
     {
-      "surface": "קָרַ֨בְתָּ֙",
+      "surface": "קרבת",
       "gloss": "تو نزدیک ات"
     },
     {
-      "surface": "בְּי֣וֹם",
+      "surface": "ביום",
       "gloss": "گوں روچءَ"
     },
     {
-      "surface": "אֶקְרָאֶ֔ךָּ",
+      "surface": "אקראך",
       "gloss": "کہ تُلانءَ مَن تُلانتت"
     },
     {
-      "surface": "אָמַ֖רְתָּ",
+      "surface": "אמרת",
       "gloss": "گوَشتیت"
     },
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תִּירָֽא",
+      "surface": "תירא",
       "gloss": "ترس"
     }
-  ],
-  "timestamp": "2026-09-25T19:13:44.709416888Z",
-  "model": "glm-5.3"
+  ]
 }

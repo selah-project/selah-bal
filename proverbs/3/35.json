@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "proverbs 3:35",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:19:19.175006272Z",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "داناییءِ شکوه حکیمان وارث اَنت؛ ءُ کھوڑاں کہ چؠز بلند کنتنت، آ اِشاںءِ پَدی رسوائی اِنت۔",
   "tokens": [
     {
-      "surface": "כָּבוֹד",
+      "surface": "כבוד",
       "gloss": "شکوه"
     },
     {
-      "surface": "חֲכָמִים",
+      "surface": "חכמים",
       "gloss": "حکیمان"
     },
     {
-      "surface": "יִנְחָלוּ",
+      "surface": "ינחלו",
       "gloss": "وارث اَنت"
     },
     {
-      "surface": "וּכְסִילִים",
+      "surface": "וכסילים",
       "gloss": "ءُ کھوڑاں"
     },
     {
-      "surface": "מְרִים",
+      "surface": "מרים",
       "gloss": "چؠز بلند کنتنت"
     },
     {
-      "surface": "קָלוֹן",
+      "surface": "קלון",
       "gloss": "رسوائی"
     }
-  ],
-  "timestamp": "2026-09-25T20:19:19.175006272Z",
-  "model": "glm-5.3"
+  ]
 }

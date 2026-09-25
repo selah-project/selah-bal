@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "1-samuel 9:15",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:34:20.656286168Z",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ یاہوہءَ شموئیلءِ ⟨את⟩ گوڈ کت — یک روچ پہ پیشءَ آءِ کہ شاؤل آئی — گوں اے گپ کہ:",
   "tokens": [
     {
-      "surface": "וֽיהוָ֔ה",
+      "surface": "ויהוה",
       "gloss": "ءُ یاہوہءَ"
     },
     {
-      "surface": "גָּלָ֖ה",
+      "surface": "גלה",
       "gloss": "گوڈ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گوڈ"
     },
     {
-      "surface": "אֹ֣זֶן",
+      "surface": "אזן",
       "gloss": "گوڈ"
     },
     {
-      "surface": "שְׁמוּאֵ֑ל",
+      "surface": "שמואל",
       "gloss": "شموئیلءِ"
     },
     {
-      "surface": "י֣וֹם",
+      "surface": "יום",
       "gloss": "روچ"
     },
     {
-      "surface": "אֶחָ֔ד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "לִפְנֵ֥י",
+      "surface": "לפני",
       "gloss": "پہ پیشءَ"
     },
     {
-      "surface": "בּ֖וֹא",
+      "surface": "בוא",
       "gloss": "آئی"
     },
     {
-      "surface": "שָׁא֖וּל",
+      "surface": "שאול",
       "gloss": "شاؤل"
     },
     {
-      "surface": "לֵּאמֹֽר",
+      "surface": "לאמר",
       "gloss": "گوں اے گپ کہ"
     }
-  ],
-  "timestamp": "2026-09-25T13:34:20.656286168Z",
-  "model": "glm-5.3"
+  ]
 }

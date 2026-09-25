@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "job 1:10",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:21:09.430218453Z",
+  "verse": 10,
+  "ref": "job 1:10",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "آیا تو نہ آییءِ گڈان آییءِ سرءَ ءُ آییءِ گدانءِ سرءَ ءُ ہر چیزءِ سرءَ کہ آییءِ اِنت، چاروں دیم گڈ نہ کتگ؟ تُو آییءِ دستانی کارءِ برکت داتءُ آییءِ مال زمینءَ پھیلا بیتگ۔",
   "tokens": [
     {
-      "surface": "הֲלֹֽא",
+      "surface": "הלא",
       "gloss": "آیا نہ"
     },
     {
-      "surface": "אַתָּה",
+      "surface": "את",
       "gloss": "تو"
     },
     {
-      "surface": "שַׂ֣כְתָּ",
+      "surface": "שכת",
       "gloss": "گڈ کتگ"
     },
     {
-      "surface": "בַּעֲד֧וֹ",
+      "surface": "בעדו",
       "gloss": "آییءِ سرءَ"
     },
     {
-      "surface": "וּבְעַד",
+      "surface": "ובעד",
       "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "בֵּית֛וֹ",
+      "surface": "ביתו",
       "gloss": "آییءِ گدانءِ"
     },
     {
-      "surface": "וּבְעַ֥ד",
+      "surface": "ובעד",
       "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر چیزءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "ל֖וֹ",
+      "surface": "לו",
       "gloss": "آییءِ اِنت"
     },
     {
-      "surface": "מִסָּבִ֑יב",
+      "surface": "מסביב",
       "gloss": "چاروں دیم"
     },
     {
-      "surface": "מַעֲשֵׂ֤ה",
+      "surface": "מעשה",
       "gloss": "کارءِ"
     },
     {
-      "surface": "יָדָיו֙",
+      "surface": "ידיו",
       "gloss": "دستانی"
     },
     {
-      "surface": "בֵּרַ֣ךְתָּ֔",
+      "surface": "ברכת",
       "gloss": "برکت داتءُ"
     },
     {
-      "surface": "וּמִקְנֵ֖הוּ",
+      "surface": "ומקנהו",
       "gloss": "آییءِ مال"
     },
     {
-      "surface": "פָּרַ֥ץ",
+      "surface": "פרץ",
       "gloss": "پھیلا بیتگ"
     },
     {
-      "surface": "בָּאָֽרֶץ",
+      "surface": "בארץ",
       "gloss": "زمینءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:21:09.430218453Z",
-  "model": "glm-5.3"
+  ]
 }

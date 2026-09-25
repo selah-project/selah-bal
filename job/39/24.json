@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "job 39:24",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:32:08.115168039Z",
+  "verse": 24,
+  "ref": "job 39:24",
+  "tier": "glm-5.2",
   "chapter": 39,
   "translation": "گوں شور ءُ غشم آ زمینءَ بللیت، ءُ یقین نہ داریت کہ آواز شوفارءِ اِنت۔",
   "tokens": [
     {
-      "surface": "בְּרַ֣עַשׁ",
+      "surface": "ברעש",
       "gloss": "گوں شور"
     },
     {
-      "surface": "וְ֭רֹגֶז",
+      "surface": "ורגז",
       "gloss": "ءُ غشم"
     },
     {
-      "surface": "יְגַמֶּא",
+      "surface": "יגמא",
       "gloss": "بللیت"
     },
     {
-      "surface": "אָ֑רֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יַ֝אֲמִ֗ין",
+      "surface": "יאמין",
       "gloss": "یقین داریت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "ק֥וֹל",
+      "surface": "קול",
       "gloss": "آواز"
     },
     {
-      "surface": "שׁוֹפָֽר",
+      "surface": "שופר",
       "gloss": "شوفار"
     }
-  ],
-  "timestamp": "2026-09-25T18:32:08.115168039Z",
-  "model": "glm-5.3"
+  ]
 }

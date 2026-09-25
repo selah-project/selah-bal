@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "genesis 33:11",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:50:06.680270129Z",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "گپ، اے نہ، ⟨את⟩ منی برکت کہ تُئے پہ آورتگ بوتگ اِنت، چون ایلوہیم مءَ مہربانی کت ءُ چون مءَ تہ کل ہست؛ ءُ آییءَ زور کت ءُ آ گپت۔",
   "tokens": [
     {
-      "surface": "קַח",
+      "surface": "קח",
       "gloss": "گپ"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
       "gloss": "اے نہ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منی برکت"
     },
     {
-      "surface": "בִּרְכָתִי",
+      "surface": "ברכתי",
       "gloss": "منی برکت"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הֻבָאת",
+      "surface": "הבאת",
       "gloss": "آورتگ بوتگ اِنت"
     },
     {
-      "surface": "לָךְ",
+      "surface": "לך",
       "gloss": "تُئے پہ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "چون"
     },
     {
-      "surface": "חַנַּנִי",
+      "surface": "חנני",
       "gloss": "مءَ مہربانی کت"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "וְכִי",
+      "surface": "וכי",
       "gloss": "ءُ چون"
     },
     {
-      "surface": "יֵשׁ",
+      "surface": "יש",
       "gloss": "ہست"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "مءَ تہ"
     },
     {
-      "surface": "כֹל",
+      "surface": "כל",
       "gloss": "کل"
     },
     {
-      "surface": "וַיִּפְצַר",
+      "surface": "ויפצר",
       "gloss": "ءُ آییءَ زور کت"
     },
     {
-      "surface": "בּוֹ",
+      "surface": "בו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "וַיִּקָּח",
+      "surface": "ויקח",
       "gloss": "ءُ آ گپت"
     }
-  ],
-  "timestamp": "2026-09-25T16:50:06.680270129Z",
-  "model": "glm-5.3"
+  ]
 }

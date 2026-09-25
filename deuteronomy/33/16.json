@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "deuteronomy 33:16",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:29:30.329986289Z",
+  "verse": 16,
+  "ref": "deuteronomy 33:16",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ چہ زمینءِ گنچین چیزاں ءُ آییءِ پوریائی، ءُ سِنہءَ شۏکنءِ رضا — آءُ بیت یوسفءِ سرءَ ءُ آییءِ سرءِ چوٹیءَ، آییءِ براتانی نزیرءَ۔",
   "tokens": [
     {
-      "surface": "וּמִמֶּגֶד",
+      "surface": "וממגד",
       "gloss": "ءُ چہ گنچین چیزاں"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "וּמְלֹאָהּ",
+      "surface": "ומלאה",
       "gloss": "ءُ آییءِ پوریائی"
     },
     {
-      "surface": "וּרְצוֹן",
+      "surface": "ורצון",
       "gloss": "ءُ رضا"
     },
     {
-      "surface": "שֹׁכְנִי",
+      "surface": "שכני",
       "gloss": "شۏکنءِ"
     },
     {
-      "surface": "סְנֶה",
+      "surface": "סנה",
       "gloss": "سِنہ"
     },
     {
-      "surface": "תָּבוֹאתָה",
+      "surface": "תבואתה",
       "gloss": "آءُ بیت"
     },
     {
-      "surface": "לְרֹאשׁ",
+      "surface": "לראש",
       "gloss": "سرءَ"
     },
     {
-      "surface": "יוֹסֵף",
+      "surface": "יוסף",
       "gloss": "یوسف"
     },
     {
-      "surface": "וּלְקָדְקֹד",
+      "surface": "ולקדקד",
       "gloss": "ءُ سرءِ چوٹیءَ"
     },
     {
-      "surface": "נְזִיר",
+      "surface": "נזיר",
       "gloss": "نزیر"
     },
     {
-      "surface": "אֶחָיו",
+      "surface": "אחיו",
       "gloss": "آییءِ براتان"
     }
-  ],
-  "timestamp": "2026-09-25T15:29:30.329986289Z",
-  "model": "glm-5.3"
+  ]
 }

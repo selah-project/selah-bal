@@ -1,64 +1,64 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "deuteronomy 7:11",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:34:52.139762961Z",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ تو گوَن داریت ⟨את⟩ حکم ءُ ⟨את⟩ چوکانیں قائدہ ءُ ⟨את⟩ راستیانی فیصلہ، آ کہ منءَ اے روچ توءَ ہدایت دیتں پہ آیانی کرن،",
   "tokens": [
     {
-      "surface": "וְשָׁמַרְתָּ֨",
+      "surface": "ושמרת",
       "gloss": "ءُ تو گوَن داریت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "حکم"
     },
     {
-      "surface": "הַמִּצְוָ֜ה",
+      "surface": "המצוה",
       "gloss": "حکم"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "چوکانیں قائدہ"
     },
     {
-      "surface": "הַחֻקִּ֣ים",
+      "surface": "החקים",
       "gloss": "چوکانیں قائدہ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "راستیانی فیصلہ"
     },
     {
-      "surface": "הַמִּשְׁפָּטִ֗ים",
+      "surface": "המשפטים",
       "gloss": "راستیانی فیصلہ"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "אָנֹכִ֧י",
+      "surface": "אנכי",
       "gloss": "منءَ"
     },
     {
-      "surface": "מְצַוְּךָ֛",
+      "surface": "מצוך",
       "gloss": "توءَ ہدایت دیتں"
     },
     {
-      "surface": "הַיּ֖וֹם",
+      "surface": "היום",
       "gloss": "اے روچ"
     },
     {
-      "surface": "לַעֲשׂוֹתָֽם",
+      "surface": "לעשותם",
       "gloss": "پہ آیانی کرن"
     }
-  ],
-  "timestamp": "2026-09-25T15:34:52.139762961Z",
-  "model": "glm-5.3"
+  ]
 }

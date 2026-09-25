@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "isaiah 10:3",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:11:32.792505183Z",
+  "verse": 3,
+  "ref": "isaiah 10:3",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ چیہ کار کنیت پکوداہءِ روچءَ ءُ تباہیءَ کہ چہ دورا رسیت؟ کِرءَ پیش کنیت مددءِ پہ، ءُ کجا لڑیت تُمائی تہاں؟",
   "tokens": [
     {
-      "surface": "וּמַֽה",
+      "surface": "ומה",
       "gloss": "ءُ چیہ"
     },
     {
-      "surface": "תַּעֲשׂוּ֙",
+      "surface": "תעשו",
       "gloss": "کار کنیت"
     },
     {
-      "surface": "לְי֣וֹם",
+      "surface": "ליום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "פְּקֻדָּ֔ה",
+      "surface": "פקדה",
       "gloss": "پکوداہ"
     },
     {
-      "surface": "וּלְשׁוֹאָ֖ה",
+      "surface": "ולשואה",
       "gloss": "ءُ تباہیءَ"
     },
     {
-      "surface": "מִמֶּרְחָ֣ק",
+      "surface": "ממרחק",
       "gloss": "چہ دورءَ"
     },
     {
-      "surface": "תָּב֑וֹא",
+      "surface": "תבוא",
       "gloss": "رسیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "کِرءِ سرءَ"
     },
     {
-      "surface": "מִי֙",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "תָּנ֣וּסוּ",
+      "surface": "תנוסו",
       "gloss": "گرزیت"
     },
     {
-      "surface": "לְעֶזְרָ֔ה",
+      "surface": "לעזרה",
       "gloss": "مددءِ پہ"
     },
     {
-      "surface": "וְאָ֥נָה",
+      "surface": "ואנה",
       "gloss": "ءُ کجا"
     },
     {
-      "surface": "תַעַזְב֖וּ",
+      "surface": "תעזבו",
       "gloss": "لڑیت"
     },
     {
-      "surface": "כְּבוֹדְכֶֽם",
+      "surface": "כבודכם",
       "gloss": "تُمائی تہاں"
     }
-  ],
-  "timestamp": "2026-09-25T17:11:32.792505183Z",
-  "model": "glm-5.3"
+  ]
 }

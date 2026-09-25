@@ -1,93 +1,93 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "isaiah 51:13",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:29:57.176916902Z",
+  "verse": 13,
+  "ref": "isaiah 51:13",
+  "tier": "glm-5.2",
   "chapter": 51,
   "translation": "ءُ تو یاہوہءَ، وتءِ جوڑنوکءَ، چم کتگ — جے کہ آسماناناں پڑ دات ءُ زمینءِ بنیاد ایشتات — ءُ تو ہر روچ گیشتر چہ اذیت کنوکءِ غمءَ ڈریت، اودا کہ آ تباہیءَ پہ تیار اَت؛ ءُ کجا اِنت اذیت کنوکءِ غم؟",
   "tokens": [
     {
-      "surface": "וַתִּשְׁכַּח",
+      "surface": "ותשכח",
       "gloss": "ءُ چم کتگ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "עֹשֶׂךָ",
+      "surface": "עשך",
       "gloss": "وتءِ جوڑنوکءَ"
     },
     {
-      "surface": "נוֹטֶה",
+      "surface": "נוטה",
       "gloss": "پڑ دانوک"
     },
     {
-      "surface": "שָׁמַיִם",
+      "surface": "שמים",
       "gloss": "آسماناناں"
     },
     {
-      "surface": "וְיֹסֵד",
+      "surface": "ויסד",
       "gloss": "ءُ بنیاد ایشٹانوک"
     },
     {
-      "surface": "אָרֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "וַתְּפַחֵד",
+      "surface": "ותפחד",
       "gloss": "ءُ ڈریت"
     },
     {
-      "surface": "תָּמִיד",
+      "surface": "תמיד",
       "gloss": "گیشتر"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "روچ"
     },
     {
-      "surface": "מִפְּנֵי",
+      "surface": "מפני",
       "gloss": "چہ دیمءَ"
     },
     {
-      "surface": "חֲמַת",
+      "surface": "חמת",
       "gloss": "غم"
     },
     {
-      "surface": "הַמֵּצִיק",
+      "surface": "המציק",
       "gloss": "اذیت کنوکءِ"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "اودا کہ"
     },
     {
-      "surface": "כּוֹנֵן",
+      "surface": "כונן",
       "gloss": "تیار کتگ"
     },
     {
-      "surface": "לְהַשְׁחִית",
+      "surface": "להשחית",
       "gloss": "پہ تباہ کنگ"
     },
     {
-      "surface": "וְאַיֵּה",
+      "surface": "ואיה",
       "gloss": "ءُ کجا اِنت"
     },
     {
-      "surface": "חֲמַת",
+      "surface": "חמת",
       "gloss": "غم"
     },
     {
-      "surface": "הַמֵּצִיק",
+      "surface": "המציק",
       "gloss": "اذیت کنوکءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:29:57.176916902Z",
-  "model": "glm-5.3"
+  ]
 }

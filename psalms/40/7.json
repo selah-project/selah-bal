@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "psalms 40:7",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:39:25.606998030Z",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "tier": "glm-5.2",
   "chapter": 40,
   "translation": "قربانی ءُ مِنشہ توءَ نہ چاھت، گوشان پہ منءَ دگ کتنت، سوچگیں قربانی ءُ گناهءِ قربانی توءَ نہ گشتت۔",
   "tokens": [
     {
-      "surface": "זֶּבַח",
+      "surface": "זבח",
       "gloss": "قربانی"
     },
     {
-      "surface": "וּמִנְחָה",
+      "surface": "ומנחה",
       "gloss": "ءُ مِنشہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "חָפַצְתָּ",
+      "surface": "חפצת",
       "gloss": "چاھت"
     },
     {
-      "surface": "אָזְנַיִם",
+      "surface": "אזנים",
       "gloss": "گوشان"
     },
     {
-      "surface": "כָּרִיתָ",
+      "surface": "כרית",
       "gloss": "دگ کتنت"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "پہ منءَ"
     },
     {
-      "surface": "עֹלָה",
+      "surface": "עולה",
       "gloss": "سوچگیں قربانی"
     },
     {
-      "surface": "וְחַטָּאָה",
+      "surface": "וחטאה",
       "gloss": "ءُ گناهءِ قربانی"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "שָׁאַלְתָּ",
+      "surface": "שאלת",
       "gloss": "گشتت"
     }
-  ],
-  "timestamp": "2026-09-25T20:39:25.606998030Z",
-  "model": "glm-5.3"
+  ]
 }

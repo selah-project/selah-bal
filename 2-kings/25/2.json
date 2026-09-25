@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "2-kings 25:2",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:19:53.482512879Z",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ شہر گھیراءَ بوت، داز پادشاہ سدکیاہوءِ ہبدہمی سالءَ",
   "tokens": [
     {
-      "surface": "וַתָּבֹא",
+      "surface": "ותבא",
       "gloss": "ءُ بوت"
     },
     {
-      "surface": "הָעִיר",
+      "surface": "העיר",
       "gloss": "شہر"
     },
     {
-      "surface": "בַּמָּצוֹר",
+      "surface": "במצור",
       "gloss": "گھیراءَ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "داز"
     },
     {
-      "surface": "עַשְׁתֵּי",
+      "surface": "עשתי",
       "gloss": "ہبدہ"
     },
     {
-      "surface": "עֶשְׂרֵה",
+      "surface": "עשרה",
       "gloss": "می"
     },
     {
-      "surface": "שָׁנָה",
+      "surface": "שנה",
       "gloss": "سال"
     },
     {
-      "surface": "לַמֶּלֶךְ",
+      "surface": "למלך",
       "gloss": "پادشاہءِ"
     },
     {
-      "surface": "צִדְקִיָּהוּ",
+      "surface": "צדקיהו",
       "gloss": "سدکیاہو"
     }
-  ],
-  "timestamp": "2026-09-25T14:19:53.482512879Z",
-  "model": "glm-5.3"
+  ]
 }

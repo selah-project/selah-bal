@@ -1,25 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "nehemiah 11:34",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:36:49.110884292Z",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ہدید، تسبوعیم، نبلّات،",
   "tokens": [
     {
-      "surface": "חָדִ֥יד",
+      "surface": "חדיד",
       "gloss": "ہدید"
     },
     {
-      "surface": "צְבֹעִ֖ים",
+      "surface": "צבעים",
       "gloss": "تسبوعیم"
     },
     {
-      "surface": "נְבַלָּֽט",
+      "surface": "נבלט",
       "gloss": "نبلّات"
     }
-  ],
-  "timestamp": "2026-09-25T19:36:49.110884292Z",
-  "model": "glm-5.3"
+  ]
 }

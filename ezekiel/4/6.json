@@ -1,35 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "ezekiel 4:6",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:25:18.913076016Z",
+  "verse": 6,
+  "ref": "ezekiel 4:6",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ چہ اِشاںءَ ⟨את⟩ پُر کنیں، ءُ وتی رستءِ رخءَ دومی رند شپ کہیں، ءُ ⟨את⟩ یہوداہءِ گدءِ گنہءَ چال روچ وانگ بیت — یک روچ پہ یک سال، یک روچ پہ یک سال — مہ آ توءَ دتگ.",
   "tokens": [
     {
-      "surface": "וְכִלִּיתָ֣",
+      "surface": "וכלית",
       "gloss": "پُر کنیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اِشاں"
     },
     {
-      "surface": "אֵ֗לֶּה",
+      "surface": "אלה",
       "gloss": "اِشاں"
     },
     {
-      "surface": "וְשָׁ֨כַבְתָּ֜",
+      "surface": "ושכבת",
       "gloss": "شپ کہیں"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "צִדְּךָ֤",
+      "surface": "צדך",
       "gloss": "وتی رخ"
     },
     {
@@ -37,63 +39,61 @@
       "gloss": "رستءِ"
     },
     {
-      "surface": "שֵׁנִ֔ית",
+      "surface": "שנית",
       "gloss": "دومی رند"
     },
     {
-      "surface": "וְנָשָׂ֖אתָ",
+      "surface": "ונשאת",
       "gloss": "چال"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گنہ"
     },
     {
-      "surface": "עֲוֺ֣ן",
+      "surface": "עון",
       "gloss": "گنہ"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گد"
     },
     {
-      "surface": "יְהוּדָ֑ה",
+      "surface": "יהודה",
       "gloss": "یہوداہ"
     },
     {
-      "surface": "אַרְבָּעִ֣ים",
+      "surface": "ארבעים",
       "gloss": "چال"
     },
     {
-      "surface": "י֔וֹם",
+      "surface": "יום",
       "gloss": "روچ"
     },
     {
-      "surface": "י֧וֹם",
+      "surface": "יום",
       "gloss": "روچ"
     },
     {
-      "surface": "לַשָּׁנָ֛ה",
+      "surface": "לשנה",
       "gloss": "پہ یک سال"
     },
     {
-      "surface": "י֥וֹם",
+      "surface": "יום",
       "gloss": "روچ"
     },
     {
-      "surface": "לַשָּׁנָ֖ה",
+      "surface": "לשנה",
       "gloss": "پہ یک سال"
     },
     {
-      "surface": "נְתַתִּ֥יו",
+      "surface": "נתתיו",
       "gloss": "مہ آ دتگ"
     },
     {
-      "surface": "לָֽךְ",
+      "surface": "לך",
       "gloss": "توءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:25:18.913076016Z",
-  "model": "glm-5.3"
+  ]
 }

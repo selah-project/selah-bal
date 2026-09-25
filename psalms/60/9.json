@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "psalms 60:9",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:43:14.285019589Z",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "tier": "glm-5.2",
   "chapter": 60,
   "translation": "گِلعاد مال من اِنت ءُ مناشہ مال من اِنت؛ ءُ افرایم سرءِ منءِ مستحکم اِنت؛ یہودہ قانون دہندہءِ من اِنت.",
   "tokens": [
     {
-      "surface": "לִּי",
+      "surface": "לי",
       "gloss": "مال من اِنت"
     },
     {
-      "surface": "גִּלְעָד",
+      "surface": "גלעד",
       "gloss": "گِلعاد"
     },
     {
-      "surface": "וְלִי",
+      "surface": "ולי",
       "gloss": "ءُ مال من اِنت"
     },
     {
-      "surface": "מְנַשֶּׁה",
+      "surface": "מנשה",
       "gloss": "مناشہ"
     },
     {
-      "surface": "וְאֶפְרַיִם",
+      "surface": "ואפרים",
       "gloss": "ءُ افرایم"
     },
     {
-      "surface": "מָעוֹז",
+      "surface": "מעוז",
       "gloss": "مستحکم"
     },
     {
-      "surface": "רֹאשִׁי",
+      "surface": "ראשי",
       "gloss": "سرءِ منءِ"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہودہ"
     },
     {
-      "surface": "מְחֹקְקִי",
+      "surface": "מחקקי",
       "gloss": "قانون دہندہءِ من اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:43:14.285019589Z",
-  "model": "glm-5.3"
+  ]
 }

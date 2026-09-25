@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "job 7:12",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:33:34.889205639Z",
+  "verse": 12,
+  "ref": "job 7:12",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "آیا من یک سمندر اَم، یا کہ تنین، کہ تُو منی سرا نگاہبانی گشتی؟",
   "tokens": [
     {
-      "surface": "הֲֽיָם",
+      "surface": "הים",
       "gloss": "آیا سمندر"
     },
     {
-      "surface": "אָ֭נִי",
+      "surface": "אני",
       "gloss": "من اَم"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "یا کہ"
     },
     {
-      "surface": "תַּנִּ֑ין",
+      "surface": "תנין",
       "gloss": "تنین"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "תָּשִׂ֖ים",
+      "surface": "תשים",
       "gloss": "تُو گشتی"
     },
     {
-      "surface": "עָלַ֣י",
+      "surface": "עלי",
       "gloss": "منی سرا"
     },
     {
-      "surface": "מִשְׁמָֽר",
+      "surface": "משמר",
       "gloss": "نگاہبانی"
     }
-  ],
-  "timestamp": "2026-09-25T18:33:34.889205639Z",
-  "model": "glm-5.3"
+  ]
 }

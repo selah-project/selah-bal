@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "psalms 1:5",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:22:33.872581934Z",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "پرچا کہ رِشوان گوائیءَ تہ نہ اُشتیت، ءُ گناهگن راستیںءِ ٹولیءَ تہ.",
   "tokens": [
@@ -20,7 +22,7 @@
       "gloss": "نہ"
     },
     {
-      "surface": "יקומו",
+      "surface": "יקמו",
       "gloss": "اُشتیت"
     },
     {
@@ -43,7 +45,5 @@
       "surface": "צדיקים",
       "gloss": "راستیں"
     }
-  ],
-  "timestamp": "2026-09-25T20:22:33.872581934Z",
-  "model": "glm-5.3"
+  ]
 }

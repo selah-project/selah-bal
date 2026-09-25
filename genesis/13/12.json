@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "genesis 13:12",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:43:19.550550416Z",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "اَوراہام کِنآنءِ زمینءَ گوشت گت، ءُ لوت دشتءِ شہراںءَ گوشت گت، ءُ وتی گدان چیر گوَشت سدومءَ تاء۔",
   "tokens": [
@@ -48,10 +50,8 @@
       "gloss": "تاء"
     },
     {
-      "surface": "סדום",
+      "surface": "סדם",
       "gloss": "سدوم"
     }
-  ],
-  "timestamp": "2026-09-25T16:43:19.550550416Z",
-  "model": "glm-5.3"
+  ]
 }

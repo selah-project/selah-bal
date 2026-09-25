@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "psalms 63:3",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:43:50.812051468Z",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "tier": "glm-5.2",
   "chapter": 63,
   "translation": "اِشتیں ماں قدسءَ تُہءَ گندیت اَت، پہ اے کہ تُہءِ زور ءُ تُہءِ شکوہ روت۔",
   "tokens": [
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "اِشتیں"
     },
     {
-      "surface": "בַּקֹּדֶשׁ",
+      "surface": "בקדש",
       "gloss": "ماں قدسءَ"
     },
     {
-      "surface": "חֲזִיתִיךָ",
+      "surface": "חזיתיך",
       "gloss": "تُہءَ گندیت اَت"
     },
     {
-      "surface": "לִרְאוֹת",
+      "surface": "לראות",
       "gloss": "پہ روت"
     },
     {
-      "surface": "עֻזְּךָ",
+      "surface": "עזך",
       "gloss": "تُہءِ زور"
     },
     {
-      "surface": "וּכְבוֹדֶךָ",
+      "surface": "וכבודך",
       "gloss": "ءُ تُہءِ شکوہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:43:50.812051468Z",
-  "model": "glm-5.3"
+  ]
 }

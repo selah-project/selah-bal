@@ -1,95 +1,95 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "deuteronomy 21:4",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:19:57.942400398Z",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "ءُ اے شہرءِ پیراناں آ گُانکیءَ ⟨את⟩ یک ہمیشگیں روئءَ گوَنت کہ آییءَ نہ کار کورتگ بیت ءُ نہ آییءَ تہ کاں بیتگ، ءُ اودا نہابءَ ⟨את⟩ آ گُانکیءَ گوں روئءَ گردن پرنت،",
   "tokens": [
     {
-      "surface": "וְהוֹרִ֡דוּ",
+      "surface": "והורדו",
       "gloss": "ءُ … گوَنت"
     },
     {
-      "surface": "זִקְנֵי",
+      "surface": "זקני",
       "gloss": "پیراناں"
     },
     {
-      "surface": "הָעִיר",
+      "surface": "העיר",
       "gloss": "شہرءِ"
     },
     {
-      "surface": "הַהִ֤וא",
+      "surface": "ההוא",
       "gloss": "اے"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گُانکیءَ"
     },
     {
-      "surface": "הָעֶגְלָה",
+      "surface": "העגלה",
       "gloss": "گُانکیءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "נַחַל",
+      "surface": "נחל",
       "gloss": "روئءَ"
     },
     {
-      "surface": "אֵיתָן",
+      "surface": "איתן",
       "gloss": "ہمیشگیں"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יֵעָבֵד",
+      "surface": "יעבד",
       "gloss": "کار کورتگ بیت"
     },
     {
-      "surface": "בּוֹ",
+      "surface": "בו",
       "gloss": "آییءَ تہ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִזָּרֵעַ",
+      "surface": "יזרע",
       "gloss": "کاں بیتگ"
     },
     {
-      "surface": "וְעָרְפוּ",
+      "surface": "וערפו",
       "gloss": "ءُ گردن پرنت"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گُانکیءَ"
     },
     {
-      "surface": "הָעֶגְלָה",
+      "surface": "העגלה",
       "gloss": "گُانکیءَ"
     },
     {
-      "surface": "בַּנָּֽחַל",
+      "surface": "בנחל",
       "gloss": "روئءَ تہ"
     }
-  ],
-  "timestamp": "2026-09-25T15:19:57.942400398Z",
-  "model": "glm-5.3"
+  ]
 }

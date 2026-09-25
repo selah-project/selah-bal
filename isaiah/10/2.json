@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "isaiah 10:2",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:08:05.804605377Z",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "پہ کمزوراں راستیءَ چہ گریت، ءُ پہ زلمگ زدگانی حق غارت گرگ — مردمیءِ زلمگ زدگ — پہ بیوگان بیت آشانی غارت، ءُ ⟨את⟩ یتیمان لوٹنت۔",
   "tokens": [
     {
-      "surface": "לְהַטּ֤וֹת",
+      "surface": "להטות",
       "gloss": "پہ گریت"
     },
     {
-      "surface": "מִדִּין֙",
+      "surface": "מדין",
       "gloss": "راستیءَ چہ"
     },
     {
-      "surface": "דַּלִּ֔ים",
+      "surface": "דלים",
       "gloss": "کمزوراں"
     },
     {
-      "surface": "וְלִגְזֹ֕ל",
+      "surface": "ולגזל",
       "gloss": "ءُ پہ غارت گرگ"
     },
     {
-      "surface": "מִשְׁפַּ֖ט",
+      "surface": "משפט",
       "gloss": "حق"
     },
     {
-      "surface": "עֲנִיֵּ֣י",
+      "surface": "עניי",
       "gloss": "زلمگ زدگانیءِ"
     },
     {
-      "surface": "עַמִּ֑י",
+      "surface": "עמי",
       "gloss": "مردمیءِ"
     },
     {
-      "surface": "לִהְי֥וֹת",
+      "surface": "להיות",
       "gloss": "بیت"
     },
     {
-      "surface": "אַלְמָנ֖וֹת",
+      "surface": "אלמנות",
       "gloss": "بیوگان"
     },
     {
-      "surface": "שְׁלָלָ֔ם",
+      "surface": "שללם",
       "gloss": "آشانی غارت"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "یتیمان"
     },
     {
-      "surface": "יְתוֹמִ֖ים",
+      "surface": "יתומים",
       "gloss": "یتیمان"
     },
     {
-      "surface": "יָבֹֽזּוּ",
+      "surface": "יבזו",
       "gloss": "لوٹنت"
     }
-  ],
-  "timestamp": "2026-09-25T21:08:05.804605377Z",
-  "model": "glm-5.3"
+  ]
 }

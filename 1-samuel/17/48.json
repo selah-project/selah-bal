@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 48,
-  "ref": "1-samuel 17:48",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:18:18.561391486Z",
+  "verse": 48,
+  "ref": "1-samuel 17:48",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "ءُ اِش اِنت کہ چون پلشت ءُ اُستت ءُ روت ءُ داودءِ لڑءَ گوں داودءَ اَت، ءُ داود تزی کت ءُ صفاںءَ روت پلشتءِ لڑءَ گوں پلشتءَ اَت۔",
   "tokens": [
     {
-      "surface": "וְהָיָה",
+      "surface": "והיה",
       "gloss": "ءُ اِش اِنت کہ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "چون"
     },
     {
-      "surface": "קָם",
+      "surface": "קם",
       "gloss": "ءُ اُستت"
     },
     {
-      "surface": "הַפְּלִשְׁתִּי",
+      "surface": "הפלשתי",
       "gloss": "پلشت"
     },
     {
-      "surface": "וַיֵּלֶךְ",
+      "surface": "וילך",
       "gloss": "ءُ روت"
     },
     {
-      "surface": "וַיִּקְרַב",
+      "surface": "ויקרב",
       "gloss": "ءُ گوں داودءَ اَت"
     },
     {
-      "surface": "לִקְרַאת",
+      "surface": "לקראת",
       "gloss": "داودءِ لڑءَ گوں"
     },
     {
-      "surface": "דָּוִד",
+      "surface": "דוד",
       "gloss": "ءُ داود"
     },
     {
-      "surface": "וַיְמַהֵר",
+      "surface": "וימהר",
       "gloss": "تزی کت"
     },
     {
-      "surface": "דָּוִד",
+      "surface": "דוד",
       "gloss": "ءُ داود"
     },
     {
-      "surface": "וַיָּרָץ",
+      "surface": "וירץ",
       "gloss": "صفاںءَ روت"
     },
     {
-      "surface": "הַמַּעֲרָכָה",
+      "surface": "המערכה",
       "gloss": "پلشتءِ لڑءَ گوں"
     },
     {
-      "surface": "לִקְרַאת",
+      "surface": "לקראת",
       "gloss": "پلشتءَ"
     },
     {
-      "surface": "הַפְּלִשְׁתִּי",
+      "surface": "הפלשתי",
       "gloss": "اَت"
     }
-  ],
-  "timestamp": "2026-09-25T13:18:18.561391486Z",
-  "model": "glm-5.3"
+  ]
 }

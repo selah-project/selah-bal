@@ -1,106 +1,106 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "malachi 1:13",
   "book": "malachi",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:33:37.126910964Z",
+  "verse": 13,
+  "ref": "malachi 1:13",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ آیان گوشت: «اے چتک اِنت!» ءُ آیان ⟨את⟩ آیءَ ناگشیت، یاہوہءِ سباؤتءِ گال اِنت؛ ءُ آیان چور کتگی ءُ ⟨את⟩ لنڈوک ءُ ⟨את⟩ ناساز آوردنت، ءُ آیان ⟨את⟩ مینچا آوردنت — آیا مان ⟨את⟩ آیءَ چماں دستءَ پسہ کنم؟ یاہوہءِ گال اِنت.",
   "tokens": [
     {
-      "surface": "וַאֲמַרְתֶּם",
+      "surface": "ואמרתם",
       "gloss": "ءُ گوشتئے"
     },
     {
-      "surface": "הִנֵּה",
+      "surface": "הנה",
       "gloss": "اے"
     },
     {
-      "surface": "מַתְּלָאָה",
+      "surface": "מתלאה",
       "gloss": "چتک"
     },
     {
-      "surface": "וְהִפַּחְתֶּם",
+      "surface": "והפחתם",
       "gloss": "ءُ ناگشیتئے"
     },
     {
-      "surface": "אוֹתוֹ",
+      "surface": "אותו",
       "gloss": "⟨את⟩ آیءَ",
       "marks": "ناگشیتگ"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "צְבָאוֹת",
+      "surface": "צבאות",
       "gloss": "سباؤت"
     },
     {
-      "surface": "וַהֲבֵאתֶם",
+      "surface": "והבאתם",
       "gloss": "ءُ آوردئے"
     },
     {
-      "surface": "גָּזוּל",
+      "surface": "גזול",
       "gloss": "چور کتگی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "لنڈوک"
     },
     {
-      "surface": "הַפִּסֵּחַ",
+      "surface": "הפסח",
       "gloss": "لنڈوک"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ناساز"
     },
     {
-      "surface": "הַחוֹלֶה",
+      "surface": "החולה",
       "gloss": "ناساز"
     },
     {
-      "surface": "וַהֲבֵאתֶם",
+      "surface": "והבאתם",
       "gloss": "ءُ آوردئے"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مینچا"
     },
     {
-      "surface": "הַמִּנְחָה",
+      "surface": "המנחה",
       "gloss": "مینچا"
     },
     {
-      "surface": "הַאֶרְצֶה",
+      "surface": "הארצה",
       "gloss": "آیا پسہ کنم"
     },
     {
-      "surface": "אוֹתָהּ",
+      "surface": "אותה",
       "gloss": "⟨את⟩ آیءَ",
       "marks": "مینچا"
     },
     {
-      "surface": "מִיֶּדְכֶם",
+      "surface": "מידכם",
       "gloss": "چماں دستءَ"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:33:37.126910964Z",
-  "model": "glm-5.3"
+  ]
 }

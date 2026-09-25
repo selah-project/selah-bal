@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "job 19:19",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:22:54.189943483Z",
+  "verse": 19,
+  "ref": "job 19:19",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "مینی سودءِ ہمگ مردمان منی ءَ دشمن کننت، ءُ آ کہ منی جند اَت، منی جہلءَ پھیریتگ بوت.",
   "tokens": [
     {
-      "surface": "תִּֽעֲבוּנִי",
+      "surface": "תעבוני",
       "gloss": "منی ءَ دشمن کننت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "מְתֵ֣י",
+      "surface": "מתי",
       "gloss": "مردمان"
     },
     {
-      "surface": "סוֹדִ֑י",
+      "surface": "סודי",
       "gloss": "مینی سودءِ"
     },
     {
-      "surface": "וְזֶֽה",
+      "surface": "וזה",
       "gloss": "ءُ آ"
     },
     {
-      "surface": "אָ֝הַבְתִּי",
+      "surface": "אהבתי",
       "gloss": "منی جند اَت"
     },
     {
-      "surface": "נֶהְפְּכוּ",
+      "surface": "נהפכו",
       "gloss": "پھیریتگ بوت"
     },
     {
-      "surface": "בִֽי",
+      "surface": "בי",
       "gloss": "منی جہلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:22:54.189943483Z",
-  "model": "glm-5.3"
+  ]
 }

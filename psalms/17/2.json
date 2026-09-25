@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "psalms 17:2",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:34:57.549052324Z",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "چہ تُهءِ دیمءَ ماءِ فیصلہ در بیت؛ تُهءِ چشمان راستیءَ گندنت۔",
   "tokens": [
     {
-      "surface": "מִלְּפָנֶיךָ",
+      "surface": "מלפניך",
       "gloss": "چہ تُهءِ دیمءَ"
     },
     {
-      "surface": "מִשְׁפָטִי",
+      "surface": "משפטי",
       "gloss": "ماءِ فیصلہ"
     },
     {
-      "surface": "יֵצֵא",
+      "surface": "יצא",
       "gloss": "در بیت"
     },
     {
-      "surface": "עֵינֶיךָ",
+      "surface": "עיניך",
       "gloss": "تُهءِ چشمان"
     },
     {
-      "surface": "תֶּחֱזֶינָה",
+      "surface": "תחזינה",
       "gloss": "گندنت"
     },
     {
-      "surface": "מֵישָׁרִים",
+      "surface": "מישרים",
       "gloss": "راستیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:34:57.549052324Z",
-  "model": "glm-5.3"
+  ]
 }

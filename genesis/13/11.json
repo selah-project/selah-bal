@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "genesis 13:11",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:43:03.490941614Z",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ لوتءَ پہ وت ⟨את⟩ پوریں دشتءِ یوردن چید، ءُ لوت چہ رۏچ کچءَ رووت، ءُ ایشان یکے چہ یکے جتا بوتنت.",
   "tokens": [
     {
-      "surface": "וַיִּבְחַר",
+      "surface": "ויבחר",
       "gloss": "ءُ چید"
     },
     {
-      "surface": "ל֣וֹ",
+      "surface": "לו",
       "gloss": "پہ وت"
     },
     {
-      "surface": "ל֗וֹט",
+      "surface": "לוט",
       "gloss": "لوتءَ"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوریں دشتءِ یوردن"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "כִּכַּ֣ר",
+      "surface": "ככר",
       "gloss": "دشت"
     },
     {
-      "surface": "הַיַּרְדֵּ֔ן",
+      "surface": "הירדן",
       "gloss": "ءِ یوردن"
     },
     {
-      "surface": "וַיִּסַּ֥ע",
+      "surface": "ויסע",
       "gloss": "ءُ رووت"
     },
     {
-      "surface": "ל֖וֹט",
+      "surface": "לוט",
       "gloss": "لوت"
     },
     {
-      "surface": "מִקֶּ֑דֶם",
+      "surface": "מקדם",
       "gloss": "چہ رۏچ کچ"
     },
     {
-      "surface": "וַיִּפָּ֣רְד֔וּ",
+      "surface": "ויפרדו",
       "gloss": "ءُ جتا بوتنت"
     },
     {
-      "surface": "אִ֖ישׁ",
+      "surface": "איש",
       "gloss": "یکے"
     },
     {
-      "surface": "מֵעַ֥ל",
+      "surface": "מעל",
       "gloss": "چہ"
     },
     {
-      "surface": "אָחִֽיו",
+      "surface": "אחיו",
       "gloss": "یکے"
     }
-  ],
-  "timestamp": "2026-09-25T16:43:03.490941614Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "jeremiah 4:2",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:05:15.657180645Z",
+  "verse": 2,
+  "ref": "jeremiah 4:2",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ توءَ قسم وانیت کہ یاہوہ زندگ اِنت، گوں راستی، گوں انصاف ءُ گوں راستکاری؛ ءُ قوماں آءِ برکات گنت ءُ آءِ تہءَ شیعر کنت۔",
   "tokens": [
     {
-      "surface": "וְנִשְׁבַּ֨עְתָּ֙",
+      "surface": "ונשבעת",
       "gloss": "ءُ توءَ قسم وانیت"
     },
     {
-      "surface": "חַי",
+      "surface": "חי",
       "gloss": "زندگ اِنت"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "בֶּאֱמֶ֖ת",
+      "surface": "באמת",
       "gloss": "گوں راستی"
     },
     {
-      "surface": "בְּמִשְׁפָּ֣ט",
+      "surface": "במשפט",
       "gloss": "گوں انصاف"
     },
     {
-      "surface": "וּבִצְדָקָ֑ה",
+      "surface": "ובצדקה",
       "gloss": "ءُ گوں راستکاری"
     },
     {
-      "surface": "וְהִתְבָּ֥רְכוּ",
+      "surface": "והתברכו",
       "gloss": "ءُ برکات گنت"
     },
     {
-      "surface": "ב֖וֹ",
+      "surface": "בו",
       "gloss": "آءِ تہءَ"
     },
     {
-      "surface": "גּוֹיִ֖ם",
+      "surface": "גוים",
       "gloss": "قوماں"
     },
     {
-      "surface": "וּב֥וֹ",
+      "surface": "ובו",
       "gloss": "ءُ آءِ تہءَ"
     },
     {
-      "surface": "יִתְהַלָּֽלוּ",
+      "surface": "יתהללו",
       "gloss": "شیعر کنت"
     }
-  ],
-  "timestamp": "2026-09-25T18:05:15.657180645Z",
-  "model": "glm-5.3"
+  ]
 }

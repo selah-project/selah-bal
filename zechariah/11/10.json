@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "zechariah 11:10",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:57:45.595275354Z",
+  "verse": 10,
+  "ref": "zechariah 11:10",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ من گپتم ⟨את⟩ منءِ چوبے — ⟨את⟩ نعمت — ءُ ⟨את⟩ آییءَ بُر کتم، پہ آئی کہ ⟨את⟩ منءِ عہدءَ پروش کنم، آ عہد کہ من ⟨את⟩ گیشتر قومانءِ گوں کتم۔",
   "tokens": [
     {
-      "surface": "וָאֶקַּח",
+      "surface": "ואקח",
       "gloss": "ءُ گپتم"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منءِ چوبے"
     },
     {
-      "surface": "מַקְלִי֙",
+      "surface": "מקלי",
       "gloss": "منءِ چوبے"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "نعمت"
     },
     {
-      "surface": "נֹ֔עַם",
+      "surface": "נעם",
       "gloss": "نعمت"
     },
     {
-      "surface": "וָאֶגְדַּ֖ע",
+      "surface": "ואגדע",
       "gloss": "ءُ بُر کتم"
     },
     {
-      "surface": "אֹת֑וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ"
     },
     {
-      "surface": "לְהָפֵיר֙",
+      "surface": "להפיר",
       "gloss": "پہ پروش کنگ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منءِ عہدءَ"
     },
     {
-      "surface": "בְּרִיתִ֔י",
+      "surface": "בריתי",
       "gloss": "منءِ عہدءَ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "כָּרַ֖תִּי",
+      "surface": "כרתי",
       "gloss": "کتم"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گیشتر قومان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیشتر"
     },
     {
-      "surface": "הָעַמִּֽים",
+      "surface": "העמים",
       "gloss": "قومان"
     }
-  ],
-  "timestamp": "2026-09-25T20:57:45.595275354Z",
-  "model": "glm-5.3"
+  ]
 }

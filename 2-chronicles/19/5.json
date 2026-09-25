@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "2-chronicles 19:5",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:39:14.264798469Z",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ داوران ءَ زمینءَ تہ منز کت، یہوداہءِ گشت بزداریں شہرانءَ تہ، شہر پہ شہر۔",
   "tokens": [
     {
-      "surface": "וַיַּעֲמֵ֨ד",
+      "surface": "ויעמד",
       "gloss": "ءُ منز کت"
     },
     {
-      "surface": "שֹֽׁפְטִ֜ים",
+      "surface": "שפטים",
       "gloss": "داوران"
     },
     {
-      "surface": "בָּאָ֗רֶץ",
+      "surface": "בארץ",
       "gloss": "زمینءَ تہ"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "گشت"
     },
     {
-      "surface": "עָרֵ֧י",
+      "surface": "ערי",
       "gloss": "شہرانی"
     },
     {
-      "surface": "יְהוּדָ֛ה",
+      "surface": "יהודה",
       "gloss": "یہوداہءِ"
     },
     {
-      "surface": "הַבְּצֻר֖וֹת",
+      "surface": "הבצרות",
       "gloss": "بزداریں"
     },
     {
-      "surface": "לְעִ֥יר",
+      "surface": "לעיר",
       "gloss": "پہ شہر"
     },
     {
-      "surface": "וָעִֽיר",
+      "surface": "ועיר",
       "gloss": "ءُ شہر"
     }
-  ],
-  "timestamp": "2026-09-25T13:39:14.264798469Z",
-  "model": "glm-5.3"
+  ]
 }

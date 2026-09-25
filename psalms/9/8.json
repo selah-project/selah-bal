@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "psalms 9:8",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:48:33.724989417Z",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ یاہوہ پہ ہمیشہ وت داشت، وتی تخت پہ مِشپاتءَ مست کت۔",
   "tokens": [
@@ -16,7 +18,7 @@
       "gloss": "پہ ہمیشہ"
     },
     {
-      "surface": "ישب",
+      "surface": "ישב",
       "gloss": "وت داشت"
     },
     {
@@ -31,7 +33,5 @@
       "surface": "כסאו",
       "gloss": "وتی تخت"
     }
-  ],
-  "timestamp": "2026-09-25T20:48:33.724989417Z",
-  "model": "glm-5.3"
+  ]
 }

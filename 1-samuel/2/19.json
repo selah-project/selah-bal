@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "1-samuel 2:19",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:21:38.179623209Z",
+  "verse": 19,
+  "ref": "1-samuel 2:19",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ آییءِ ماں آییءَ یک چوٹیں جتا جوڑ کت ءُ سالءَ سالءَ آ گوں اَنت، کہ آ گوں آییءِ شمءَ چہ اُچءَ روت ⟨את⟩ آییءِ شمءَ پہ گوانتءَ ⟨את⟩ روچیں قربانیءَ گوانت کرتءَ.",
   "tokens": [
     {
-      "surface": "וּמְעִיל",
+      "surface": "ומעיל",
       "gloss": "ءُ جتا"
     },
     {
-      "surface": "קָטֹן",
+      "surface": "קטן",
       "gloss": "چوٹیں"
     },
     {
-      "surface": "תַּעֲשֶׂה",
+      "surface": "תעשה",
       "gloss": "جوڑ کت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "אִמּוֹ",
+      "surface": "אמו",
       "gloss": "آییءِ ماں"
     },
     {
-      "surface": "וְהַעֲלָתָה",
+      "surface": "והעלתה",
       "gloss": "ءُ آ گوں اَنت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "מִיָּמִים",
+      "surface": "מימים",
       "gloss": "چہ سالان"
     },
     {
-      "surface": "יָמִימָה",
+      "surface": "ימימה",
       "gloss": "سالءَ سالءَ"
     },
     {
-      "surface": "בַּעֲלֹתָהּ",
+      "surface": "בעלותה",
       "gloss": "کہ آ چہ اُچءَ روت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ شمءَ"
     },
     {
-      "surface": "אִישָׁהּ",
+      "surface": "אישה",
       "gloss": "آییءِ شمءَ"
     },
     {
-      "surface": "לִזְבֹּחַ",
+      "surface": "לזבח",
       "gloss": "پہ گوانتءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "روچیں قربانیءَ"
     },
     {
-      "surface": "זֶבַח",
+      "surface": "זבח",
       "gloss": "قربانی"
     },
     {
-      "surface": "הַיָּמִים",
+      "surface": "הימים",
       "gloss": "روچیں"
     }
-  ],
-  "timestamp": "2026-09-25T13:21:38.179623209Z",
-  "model": "glm-5.3"
+  ]
 }

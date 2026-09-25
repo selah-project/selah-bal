@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "ezekiel 38:9",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:24:09.612447087Z",
+  "verse": 9,
+  "ref": "ezekiel 38:9",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "ءُ تو چوں یک تاوان سرزنت، روتءَ اِشٹی، چوں یک بادلءَ کہ زمینءَ ڈپیت — تو، ءُ تئے گیشتر گوڑءَ، ءُ گیش قوماں گوں ⟨את⟩ تو.",
   "tokens": [
     {
-      "surface": "וְעָלִ֨יתָ֙",
+      "surface": "ועלית",
       "gloss": "ءُ تو سرزنت"
     },
     {
-      "surface": "כַּשֹּׁאָ֣ה",
+      "surface": "כשאה",
       "gloss": "چوں یک تاوان"
     },
     {
-      "surface": "תָב֔וֹא",
+      "surface": "תבוא",
       "gloss": "روتءَ اِشٹی"
     },
     {
-      "surface": "כֶּעָנָ֛ן",
+      "surface": "כענן",
       "gloss": "چوں یک بادل"
     },
     {
-      "surface": "לְכַסּ֥וֹת",
+      "surface": "לכסות",
       "gloss": "کہ ڈپیت"
     },
     {
-      "surface": "הָאָ֖רֶץ",
+      "surface": "הארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "תִּֽהְיֶ֑ה",
+      "surface": "תהיה",
       "gloss": "تو بیت"
     },
     {
-      "surface": "אַתָּ֙ה֙",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ گیشتر"
     },
     {
-      "surface": "אֲגַפֶּ֔יךָ",
+      "surface": "אגפיך",
       "gloss": "تئے گوڑ"
     },
     {
-      "surface": "וְעַמִּ֥ים",
+      "surface": "ועמים",
       "gloss": "ءُ قوماں"
     },
     {
-      "surface": "רַבִּ֖ים",
+      "surface": "רבים",
       "gloss": "گیش"
     },
     {
-      "surface": "אוֹתָֽךְ",
+      "surface": "אותך",
       "gloss": "⟨את⟩",
       "marks": "تو"
     }
-  ],
-  "timestamp": "2026-09-25T16:24:09.612447087Z",
-  "model": "glm-5.3"
+  ]
 }

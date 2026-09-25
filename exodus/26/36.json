@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
-  "ref": "exodus 26:36",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:54:19.957942595Z",
+  "verse": 36,
+  "ref": "exodus 26:36",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ تو گدانءِ دروازہءِ پہ یک پردا کنیں — چہ تہکلّت ءُ ارگامان ءُ کیڑہءِ سرمیں رت ءُ پیچاہتی شش، کڑائیں کار۔",
   "tokens": [
     {
-      "surface": "וְעָשִׂיתָ",
+      "surface": "ועשית",
       "gloss": "ءُ تو کنیں"
     },
     {
-      "surface": "מָסָךְ",
+      "surface": "מסך",
       "gloss": "یک پردا"
     },
     {
-      "surface": "לְפֶתַח",
+      "surface": "לפתח",
       "gloss": "دروازہءِ پہ"
     },
     {
-      "surface": "הָאֹהֶל",
+      "surface": "האהל",
       "gloss": "گدانءِ"
     },
     {
-      "surface": "תְּכֵלֶת",
+      "surface": "תכלת",
       "gloss": "چہ تہکلّت"
     },
     {
-      "surface": "וְאַרְגָּמָן",
+      "surface": "וארגמן",
       "gloss": "ءُ ارگامان"
     },
     {
-      "surface": "וְתוֹלַעַת",
+      "surface": "ותולעת",
       "gloss": "ءُ کیڑہءِ"
     },
     {
-      "surface": "שָׁנִי",
+      "surface": "שני",
       "gloss": "سرمیں رت"
     },
     {
-      "surface": "וְשֵׁשׁ",
+      "surface": "ושש",
       "gloss": "ءُ شش"
     },
     {
-      "surface": "מָשְׁזָר",
+      "surface": "משזר",
       "gloss": "پیچاہتی"
     },
     {
-      "surface": "מַעֲשֵׂה",
+      "surface": "מעשה",
       "gloss": "کار"
     },
     {
-      "surface": "רֹקֵם",
+      "surface": "רקם",
       "gloss": "کڑائیں"
     }
-  ],
-  "timestamp": "2026-09-25T15:54:19.957942595Z",
-  "model": "glm-5.3"
+  ]
 }

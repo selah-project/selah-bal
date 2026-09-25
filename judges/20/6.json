@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "judges 20:6",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:04:44.695194318Z",
+  "verse": 6,
+  "ref": "judges 20:6",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "ءُ من مئں پیلگشءَ گپت، ءُ آءَ ٹُک ٹُک کت، ءُ آءَ چہ سرت اسرائیلءِ ورثتءِ جاگءَ شرا کت، پرچا کہ اِشاں اسرائیلءَ شریرانی ءُ بیعزتی کتنت۔",
   "tokens": [
     {
-      "surface": "וָאֹחֵז",
+      "surface": "ואחז",
       "gloss": "ءُ گپت"
     },
     {
-      "surface": "בְּפִילַגְשִׁי",
+      "surface": "בפילגשי",
       "gloss": "مئں پیلگشءَ"
     },
     {
-      "surface": "וָאֲנַתְּחֶהָ",
+      "surface": "ואנתחה",
       "gloss": "ءُ آءَ ٹُک ٹُک کت"
     },
     {
-      "surface": "וָאֲשַׁלְּחֶהָ",
+      "surface": "ואשלחה",
       "gloss": "ءُ آءَ شرا کت"
     },
     {
-      "surface": "בְכָל",
+      "surface": "בכל",
       "gloss": "چہ سرت"
     },
     {
-      "surface": "שְׂדֵה",
+      "surface": "שדה",
       "gloss": "جاگءَ"
     },
     {
-      "surface": "נַחֲלַת",
+      "surface": "נחלת",
       "gloss": "ورثتءِ"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "עָשׂוּ",
+      "surface": "עשו",
       "gloss": "کتنت"
     },
     {
-      "surface": "זִמָּה",
+      "surface": "זמה",
       "gloss": "شریرانی"
     },
     {
-      "surface": "וּנְבָלָה",
+      "surface": "ונבלה",
       "gloss": "ءُ بیعزتی"
     },
     {
-      "surface": "בְּיִשְׂרָאֵל",
+      "surface": "בישראל",
       "gloss": "اسرائیلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:04:44.695194318Z",
-  "model": "glm-5.3"
+  ]
 }

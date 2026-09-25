@@ -1,141 +1,141 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "leviticus 16:21",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:19:20.876666278Z",
+  "verse": 21,
+  "ref": "leviticus 16:21",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ اہرون ⟨את⟩ دو دست ءُ وتی دست بزءِ زندگیں سرءَ کنت، ءُ آییءِ سرءَ اقرار کنت ⟨את⟩ ہمگ اسرائیلی زہگانی بدکاریان، ءُ ⟨את⟩ ہمگ اِشانی سرکشیان، پہ ہمگ اِشانی گناہان؛ ءُ ⟨את⟩ آیان بزءِ سرءَ دیت ءُ آییءَ گوں یک مقرریں مردیءِ دستءَ بیابانءَ روانہ کنت۔",
   "tokens": [
     {
-      "surface": "וְסָמַ֨ךְ",
+      "surface": "וסמך",
       "gloss": "ءُ سرءَ کنت"
     },
     {
-      "surface": "אַהֲרֹ֜ן",
+      "surface": "אהרן",
       "gloss": "اہرون"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "دو وتی دست"
     },
     {
-      "surface": "שְׁתֵּ֣י",
+      "surface": "שתי",
       "gloss": "دو"
     },
     {
-      "surface": "יָדוֹ",
+      "surface": "ידו",
       "gloss": "وتی دست"
     },
     {
-      "surface": "עַ֨ל",
+      "surface": "על",
       "gloss": "سرءَ کنت ... سرءَ ... سر"
     },
     {
-      "surface": "רֹ֣אשׁ",
+      "surface": "ראש",
       "gloss": "سر"
     },
     {
-      "surface": "הַשָּׂעִיר֮",
+      "surface": "השעיר",
       "gloss": "بزءِ"
     },
     {
-      "surface": "הַחַי֒",
+      "surface": "החי",
       "gloss": "زندگیں"
     },
     {
-      "surface": "וְהִתְוַדָּ֣ה",
+      "surface": "והתודה",
       "gloss": "ءُ اقرار کنت"
     },
     {
-      "surface": "עָלָ֗יו",
+      "surface": "עליו",
       "gloss": "آییءِ سرءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہمگ اسرائیلی زہگانی بدکاریان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "עֲוֺנֹת֙",
+      "surface": "עונת",
       "gloss": "بدکاریان"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵ֔ל",
+      "surface": "ישראל",
       "gloss": "اسرائیلی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ہمگ اِشانی سرکشیان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "פִּשְׁעֵיהֶ֖ם",
+      "surface": "פשעיהם",
       "gloss": "اِشانی سرکشیان"
     },
     {
-      "surface": "לְכָל",
+      "surface": "לכל",
       "gloss": "پہ ہمگ"
     },
     {
-      "surface": "חַטֹּאתָ֑ם",
+      "surface": "חטאתם",
       "gloss": "اِشانی گناہان"
     },
     {
-      "surface": "וְנָתַ֤ן",
+      "surface": "ונתן",
       "gloss": "ءُ دیت"
     },
     {
-      "surface": "אֹתָם֙",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیان",
       "marks": "آیان (ہمگ بدکاریان ءُ سرکشیان)"
     },
     {
-      "surface": "עַ֣ל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "רֹ֣אשׁ",
+      "surface": "ראש",
       "gloss": "سر"
     },
     {
-      "surface": "הַשָּׂעִ֔יר",
+      "surface": "השעיר",
       "gloss": "بزءِ"
     },
     {
-      "surface": "וְשִׁלַּ֛ח",
+      "surface": "ושלח",
       "gloss": "ءُ روانہ کنت"
     },
     {
-      "surface": "בְּיַ֥ד",
+      "surface": "ביד",
       "gloss": "دستءِ"
     },
     {
-      "surface": "אִ֥ישׁ",
+      "surface": "איש",
       "gloss": "مردی"
     },
     {
-      "surface": "עִתִּ֖י",
+      "surface": "עתי",
       "gloss": "مقرریں"
     },
     {
-      "surface": "הַמִּדְבָּֽרָה",
+      "surface": "המדברה",
       "gloss": "بیابانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:19:20.876666278Z",
-  "model": "glm-5.3"
+  ]
 }

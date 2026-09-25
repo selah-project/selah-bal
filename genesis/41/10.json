@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "genesis 41:10",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:55:29.660372006Z",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "پارعہ وتی غلامانءِ سرءَ خفا بیت، ءُ منءَ ⟨את⟩ کوشتیارانی سرءِ گدانءِ نگہبانیءَ دات — منءَ ⟨את⟩ ءُ ⟨את⟩ نان پچوکانی سرءَ.",
   "tokens": [
     {
-      "surface": "פַּרְעֹה",
+      "surface": "פרעה",
       "gloss": "پارعہ"
     },
     {
-      "surface": "קָצַף",
+      "surface": "קצף",
       "gloss": "خفا بیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "עֲבָדָיו",
+      "surface": "עבדיו",
       "gloss": "وتی غلامان"
     },
     {
-      "surface": "וַיִּתֵּן",
+      "surface": "ויתן",
       "gloss": "ءُ دات"
     },
     {
-      "surface": "אֹתִי",
+      "surface": "אתי",
       "gloss": "⟨את⟩ منءَ",
       "marks": "نگہبانیءَ داتنگی منءَ"
     },
     {
-      "surface": "בְּמִשְׁמַר",
+      "surface": "במשמר",
       "gloss": "نگہبانیءَ"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "שַׂר",
+      "surface": "שר",
       "gloss": "سر"
     },
     {
-      "surface": "הַטַּבָּחִים",
+      "surface": "הטבחים",
       "gloss": "کوشتیارانی"
     },
     {
-      "surface": "אֹתִי",
+      "surface": "אתי",
       "gloss": "⟨את⟩ منءَ",
       "marks": "منءَ"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "نان پچوکانی سرءَ"
     },
     {
-      "surface": "שַׂר",
+      "surface": "שר",
       "gloss": "سر"
     },
     {
-      "surface": "הָאֹפִים",
+      "surface": "האפים",
       "gloss": "نان پچوکان"
     }
-  ],
-  "timestamp": "2026-09-25T16:55:29.660372006Z",
-  "model": "glm-5.3"
+  ]
 }

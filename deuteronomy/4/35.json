@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "deuteronomy 4:35",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:07:42.830409914Z",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "توںءَ اے دست کتگ کہ بزانی کہ یاہوہ آیی اِنت ایلوہیم، آییءِ بجائے کچے ہچ نیست",
   "tokens": [
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "توںءَ"
     },
     {
-      "surface": "הָרְאֵתָ",
+      "surface": "הראת",
       "gloss": "دست کتگ"
     },
     {
-      "surface": "לָדַעַת",
+      "surface": "לדעת",
       "gloss": "کہ بزانی"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آیی"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "אֵין",
+      "surface": "אין",
       "gloss": "ہچ نیست"
     },
     {
-      "surface": "עוֹד",
+      "surface": "עוד",
       "gloss": "کچے"
     },
     {
-      "surface": "מִלְבַדּוֹ",
+      "surface": "מלבדו",
       "gloss": "آییءِ بجائے"
     }
-  ],
-  "timestamp": "2026-09-25T21:07:42.830409914Z",
-  "model": "glm-5.3"
+  ]
 }

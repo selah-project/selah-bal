@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "obadiah 1:20",
   "book": "obadiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:09:28.441358265Z",
+  "verse": 20,
+  "ref": "obadiah 1:20",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ اے لشکرءِ جلاوطنی — یسرائیلءِ زہگان — کہ کنعانیانءِ وتی ہستنت، تا تسرفاتءَ؛ ءُ یروشلمءِ جلاوطنی کہ سپھردءَ اِنت، ⟨את⟩ نگبءِ شاران وارث بیت.",
   "tokens": [
     {
-      "surface": "וְגָלֻ֣ת",
+      "surface": "וגלת",
       "gloss": "ءُ جلاوطنی"
     },
     {
-      "surface": "הַֽחֵל",
+      "surface": "החל",
       "gloss": "اے لشکرءِ"
     },
     {
-      "surface": "הַ֠זֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "לִבְנֵ֨י",
+      "surface": "לבני",
       "gloss": "زہگانءِ"
     },
     {
-      "surface": "יִשְׂרָאֵ֤ל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "אֲשֶֽׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "כְּנַעֲנִים֙",
+      "surface": "כנענים",
       "gloss": "کنعانیانءِ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "צָ֣רְפַ֔ת",
+      "surface": "צרפת",
       "gloss": "تسرفات"
     },
     {
-      "surface": "וְגָלֻ֥ת",
+      "surface": "וגלת",
       "gloss": "ءُ جلاوطنی"
     },
     {
-      "surface": "יְרוּשָׁלִַ֖ם",
+      "surface": "ירושלם",
       "gloss": "یروشلمءِ"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בִּסְפָרַ֑ד",
+      "surface": "בספרד",
       "gloss": "سپھردءَ"
     },
     {
-      "surface": "יִֽרְשׁ֕וּ",
+      "surface": "ירשו",
       "gloss": "وارث بیت"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "نگبءِ شاران"
     },
     {
-      "surface": "עָרֵ֥י",
+      "surface": "ערי",
       "gloss": "شاران"
     },
     {
-      "surface": "הַנֶּֽגֶב",
+      "surface": "הנגב",
       "gloss": "نگبءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:09:28.441358265Z",
-  "model": "glm-5.3"
+  ]
 }

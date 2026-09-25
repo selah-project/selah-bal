@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "numbers 25:3",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:54:37.101163539Z",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ اسرائیل بعل پعورءَ گوں چسپ بوت، ءُ یاہوہءِ اَفُ ⟨غصہ⟩ اسرائیلءَ گیش کت.",
   "tokens": [
@@ -12,15 +14,15 @@
       "gloss": "ءُ چسپ بوت"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "לְבַעַל",
+      "surface": "לבעל",
       "gloss": "پہ بعل"
     },
     {
-      "surface": "פְּעֹור",
+      "surface": "פעור",
       "gloss": "پعور"
     },
     {
@@ -28,18 +30,16 @@
       "gloss": "ءُ گیش کت"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "اَفُ"
     },
     {
-      "surface": "יְהֹוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "בְּיִשְׂרָאֵל",
+      "surface": "בישראל",
       "gloss": "اسرائیلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:54:37.101163539Z",
-  "model": "glm-5.3"
+  ]
 }

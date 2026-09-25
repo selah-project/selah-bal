@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "2-chronicles 36:10",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:56:00.461956680Z",
+  "verse": 10,
+  "ref": "2-chronicles 36:10",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "ءُ سالءِ وگڈءَ پدا آمدءَ، شاہ نبُوکدنَصر یکے شرلت ءُ آییءَ بابِلءَ آورت، گوں یاہوہءِ گدءِ چاشگین برتناناں ءُ گوں آیی؛ ءُ آییءَ ⟨את⟩ صدقیاہو، آییءِ بُراس، یہوداہ ءُ یروشلمءِ سرءَ شاہ کت.",
   "tokens": [
     {
-      "surface": "וְלִתְשׁוּבַת",
+      "surface": "ולתשובת",
       "gloss": "ءُ پدا آمدءَ"
     },
     {
-      "surface": "הַשָּׁנָה",
+      "surface": "השנה",
       "gloss": "سالءِ"
     },
     {
-      "surface": "שָׁלַח",
+      "surface": "שלח",
       "gloss": "شرلت"
     },
     {
-      "surface": "هַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "נְבוּכַדְנֶאצַּר",
+      "surface": "נבוכדנאצר",
       "gloss": "نبُوکدنَصر"
     },
     {
-      "surface": "וַיְבִאֵהוּ",
+      "surface": "ויבאהו",
       "gloss": "ءُ آییءَ آورت"
     },
     {
-      "surface": "בָבֶלָה",
+      "surface": "בבלה",
       "gloss": "بابِلءَ"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "כְּלֵי",
+      "surface": "כלי",
       "gloss": "برتناناں"
     },
     {
-      "surface": "חֶמְדַּת",
+      "surface": "חמדת",
       "gloss": "چاشگین"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدءِ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וַיַּמְלֵךְ",
+      "surface": "וימלך",
       "gloss": "ءُ شاہ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "صدقیاہو"
     },
     {
-      "surface": "צִדְקִיָּהוּ",
+      "surface": "צדקיהו",
       "gloss": "صدقیاہوءَ"
     },
     {
-      "surface": "אָחִיו",
+      "surface": "אחיו",
       "gloss": "آییءِ بُراس"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہ ءُ"
     },
     {
-      "surface": "וִירוּשָׁלִָם",
+      "surface": "וירושלם",
       "gloss": "یروشلمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T13:56:00.461956680Z",
-  "model": "glm-5.3"
+  ]
 }

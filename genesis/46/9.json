@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "genesis 46:9",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:00:30.107785249Z",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "tier": "glm-5.2",
   "chapter": 46,
   "translation": "ءُ رئوبنءِ زہگان: حانوک، ءُ فلو، ءُ حصرون، ءُ کارمی.",
   "tokens": [
     {
-      "surface": "וּבְנֵ֖י",
+      "surface": "ובני",
       "gloss": "ءُ …ءِ زہگان"
     },
     {
-      "surface": "רְאוּבֵ֑ן",
+      "surface": "ראובן",
       "gloss": "رئوبن"
     },
     {
-      "surface": "חֲנ֥וֹךְ",
+      "surface": "חנוך",
       "gloss": "حانوک"
     },
     {
-      "surface": "וּפַלּ֖וּא",
+      "surface": "ופלוא",
       "gloss": "ءُ فلو"
     },
     {
-      "surface": "וְחֶצְר֥וֹן",
+      "surface": "וחצרון",
       "gloss": "ءُ حصرون"
     },
     {
-      "surface": "וְכַרְמִֽי",
+      "surface": "וכרמי",
       "gloss": "ءُ کارمی"
     }
-  ],
-  "timestamp": "2026-09-25T17:00:30.107785249Z",
-  "model": "glm-5.3"
+  ]
 }

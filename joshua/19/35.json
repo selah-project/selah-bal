@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "joshua 19:35",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:44:22.555340002Z",
+  "verse": 35,
+  "ref": "joshua 19:35",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ مستنگں شہران ہستنت: ہَتسیدیم، تسیر، ءُ حامات، رکّات، ءُ کنارت۔",
   "tokens": [
     {
-      "surface": "וְעָרֵ֖י",
+      "surface": "וערי",
       "gloss": "ءُ شہرانِ"
     },
     {
-      "surface": "מִבְצָ֑ר",
+      "surface": "מבצר",
       "gloss": "مستنگں"
     },
     {
-      "surface": "הַצִּדִּ֣ים",
+      "surface": "הצדים",
       "gloss": "ہَتسیدیم"
     },
     {
-      "surface": "צֵ֔ר",
+      "surface": "צר",
       "gloss": "تسیر"
     },
     {
-      "surface": "וְחַמַּ֖ת",
+      "surface": "וחמת",
       "gloss": "ءُ حامات"
     },
     {
-      "surface": "רַקַּ֥ת",
+      "surface": "רקת",
       "gloss": "رکّات"
     },
     {
-      "surface": "וְכִנָּֽרֶת",
+      "surface": "וכנרת",
       "gloss": "ءُ کنارت"
     }
-  ],
-  "timestamp": "2026-09-25T18:44:22.555340002Z",
-  "model": "glm-5.3"
+  ]
 }

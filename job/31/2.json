@@ -1,26 +1,28 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "job 31:2",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:28:11.337728823Z",
+  "verse": 2,
+  "ref": "job 31:2",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "ءُ چہ چَند اِنت ایلوہہءِ چَنڈ چہ بالا، ءُ ایل شدّایءِ ورثت چہ بلندیاں؟",
   "tokens": [
     {
-      "surface": "וּמֶה",
+      "surface": "ומה",
       "gloss": "ءُ چہ چَند"
     },
     {
-      "surface": "חֵלֶק",
+      "surface": "חלק",
       "gloss": "چَنڈ"
     },
     {
-      "surface": "אֱלוֹהַּ",
+      "surface": "אלוה",
       "gloss": "ایلوہہءِ"
     },
     {
-      "surface": "מִמַּעַל",
+      "surface": "ממעל",
       "gloss": "چہ بالا"
     },
     {
@@ -28,14 +30,12 @@
       "gloss": "ءُ ورثت"
     },
     {
-      "surface": "שַׁדַּי",
+      "surface": "שדי",
       "gloss": "ایل شدّایءِ"
     },
     {
-      "surface": "ממרומים",
+      "surface": "ממרמים",
       "gloss": "چہ بلندیاں"
     }
-  ],
-  "timestamp": "2026-09-25T18:28:11.337728823Z",
-  "model": "glm-5.3"
+  ]
 }

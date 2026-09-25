@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "1-samuel 5:1",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:29:03.246015867Z",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ فلستیان ایلوہیمی گدان ⟨את⟩ ارُون گپت ءُ آییءَ چہ ایبنءِ عزرءَ اشدودءَ آور کت.",
   "tokens": [
     {
-      "surface": "וּפְלִשְׁתִּים",
+      "surface": "ופלשתים",
       "gloss": "ءُ فلستیان"
     },
     {
-      "surface": "לָקְחוּ",
+      "surface": "לקחו",
       "gloss": "گپت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ارُون"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "ارُون"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمی"
     },
     {
-      "surface": "וַיְבִאֻהוּ",
+      "surface": "ויבאהו",
       "gloss": "ءُ آییءَ آور کت"
     },
     {
-      "surface": "מֵאֶבֶן",
+      "surface": "מאבן",
       "gloss": "چہ ایبنءِ عزرءَ"
     },
     {
-      "surface": "הָעֵזֶר",
+      "surface": "העזר",
       "gloss": ""
     },
     {
-      "surface": "אַשְׁדּוֹדָה",
+      "surface": "אשדודה",
       "gloss": "اشدودءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:29:03.246015867Z",
-  "model": "glm-5.3"
+  ]
 }

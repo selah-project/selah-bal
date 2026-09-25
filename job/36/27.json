@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "job 36:27",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:31:40.621947241Z",
+  "verse": 27,
+  "ref": "job 36:27",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "چوکئے آ ئی چہ آپءِ ترشگان کَم کنیت، مینہ گوں وتءِ بُخارءَ چاہیت،",
   "tokens": [
@@ -12,30 +14,28 @@
       "gloss": "چوکئے آ"
     },
     {
-      "surface": "יְגָרַ֣ע",
+      "surface": "יגרע",
       "gloss": "کَم کنیت"
     },
     {
-      "surface": "נִטְפֵי",
+      "surface": "נטפי",
       "gloss": "ترشگانءِ"
     },
     {
-      "surface": "מָ֑יִם",
+      "surface": "מים",
       "gloss": "آپءِ"
     },
     {
-      "surface": "יָזֹ֖קּוּ",
+      "surface": "יזקו",
       "gloss": "چاہیت"
     },
     {
-      "surface": "מָטָ֣ר",
+      "surface": "מטר",
       "gloss": "مینہ"
     },
     {
-      "surface": "לְאֵדֽוֹ",
+      "surface": "לאדו",
       "gloss": "گوں وتءِ بُخارءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:31:40.621947241Z",
-  "model": "glm-5.3"
+  ]
 }

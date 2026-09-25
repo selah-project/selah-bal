@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "1-chronicles 18:9",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:37:34.357142595Z",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ تُءو، حماٹءِ بادشاہءَ، اے گوشیت کہ داؤدءَ ہددءزر، سُوباہءِ بادشاہءِ، ⟨את⟩ پوریں لشکر مار کت۔",
   "tokens": [
     {
-      "surface": "וַיִּשְׁמַ֕ע",
+      "surface": "וישמע",
       "gloss": "ءُ گوشیت"
     },
     {
-      "surface": "תֹּ֖עוּ",
+      "surface": "תעו",
       "gloss": "تُءو"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "بادشاہ"
     },
     {
-      "surface": "חֲמָ֑ת",
+      "surface": "חמת",
       "gloss": "حماٹءِ"
     },
     {
-      "surface": "כִּ֚י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "הִכָּ֣ה",
+      "surface": "הכה",
       "gloss": "مار کت"
     },
     {
-      "surface": "דָוִ֔יד",
+      "surface": "דויד",
       "gloss": "داؤدءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوریں لشکر"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "חֵ֖יל",
+      "surface": "חיל",
       "gloss": "لشکر"
     },
     {
-      "surface": "הֲדַדְעֶ֥זֶר",
+      "surface": "הדדעזר",
       "gloss": "ہددءزر"
     },
     {
-      "surface": "מֶֽלֶךְ",
+      "surface": "מלך",
       "gloss": "بادشاہءِ"
     },
     {
-      "surface": "צוֹבָֽה",
+      "surface": "צובה",
       "gloss": "سُوباہ"
     }
-  ],
-  "timestamp": "2026-09-25T12:37:34.357142595Z",
-  "model": "glm-5.3"
+  ]
 }

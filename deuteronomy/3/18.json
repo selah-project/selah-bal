@@ -1,103 +1,103 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "deuteronomy 3:18",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:24:58.665634691Z",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ من ⟨את⟩ شمایئٔ آ روچءَ امر کت کہ بگویم: یاہوہ تہءِ ایلوہیم شمایئٔ ⟨את⟩ اے زمین دتگ کہ آییءَ بگیریت؛ جنگی لشکر وارتگ شما گوں تہ شمایئٔ براتانی، یسرائیلءِ زہگانی، جم بیت، پیشی روءُ۔",
   "tokens": [
     {
-      "surface": "וָאֲצַ֣ו",
+      "surface": "ואצו",
       "gloss": "ءُ من امر کت"
     },
     {
-      "surface": "אֶתְכֶ֔ם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شمایئ-",
       "marks": "شمایئ- (گوانشانی امرءِ کردار)"
     },
     {
-      "surface": "בָּעֵ֥ת",
+      "surface": "בעת",
       "gloss": "آ روچءَ"
     },
     {
-      "surface": "הַהִ֖וא",
+      "surface": "ההוא",
       "gloss": "آ"
     },
     {
-      "surface": "לֵאמֹ֑ר",
+      "surface": "לאמר",
       "gloss": "کہ بگویم"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵיכֶ֗ם",
+      "surface": "אלהיכם",
       "gloss": "تہءِ ایلوہیم شمایئ-"
     },
     {
-      "surface": "נָתַ֨ן",
+      "surface": "נתן",
       "gloss": "دتگ"
     },
     {
-      "surface": "לָכֶ֜ם",
+      "surface": "לכם",
       "gloss": "شمایئ-"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے زمین"
     },
     {
-      "surface": "הָאָ֤רֶץ",
+      "surface": "הארץ",
       "gloss": "اے زمین"
     },
     {
-      "surface": "הַזֹּאת֙",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "לָרִשְׁתָּ֔הּ",
+      "surface": "לרשתה",
       "gloss": "کہ آییءَ بگیریت"
     },
     {
-      "surface": "חֲלוּצִ֣ים",
+      "surface": "חלוצים",
       "gloss": "جنگی لشکر وارتگ"
     },
     {
-      "surface": "תַּֽעַבְר֗וּ",
+      "surface": "תעברו",
       "gloss": "جم بیت روءُ"
     },
     {
-      "surface": "לִפְנֵ֛י",
+      "surface": "לפני",
       "gloss": "پیشی"
     },
     {
-      "surface": "אֲחֵיכֶ֥ם",
+      "surface": "אחיכם",
       "gloss": "شمایئٔ براتانی"
     },
     {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "ישראל",
       "gloss": "یسرائیلءِ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "جم"
     },
     {
-      "surface": "בְּנֵ֥י",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "חָֽיִל",
+      "surface": "חיל",
       "gloss": "زور ءُ جنگءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:24:58.665634691Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "psalms 25:21",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:35:46.071894179Z",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "بےگناهی ءُ راستی ماں ءَ سات بنت، پس اِشاں تُءَ چوک اِنت۔",
   "tokens": [
     {
-      "surface": "תֹּם",
+      "surface": "תם",
       "gloss": "بےگناهی"
     },
     {
-      "surface": "וָיֹשֶׁר",
+      "surface": "וישר",
       "gloss": "ءُ راستی"
     },
     {
-      "surface": "יִצְּרֻנִי",
+      "surface": "יצרוני",
       "gloss": "ماں ءَ سات بنت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پس"
     },
     {
-      "surface": "קִוִּיתִיךָ",
+      "surface": "קויתיך",
       "gloss": "اِشاں تُءَ چوک اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:35:46.071894179Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,89 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "judges 4:17",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:07:08.528084308Z",
+  "verse": 17,
+  "ref": "judges 4:17",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ سیسیرا گوں وتی پئیں فرار کت ءُ یائلءِ گِدانءَ روت — یائل حیبیر کینیءِ زال اِنت — پرچا کہ یاوین، حسورءِ شاہ، ءُ حیبیر کینیءِ خاندانءَ میان امن اَت۔",
   "tokens": [
     {
-      "surface": "וְסִֽיסְרָא֙",
+      "surface": "וסיסרא",
       "gloss": "ءُ سیسیرا"
     },
     {
-      "surface": "נָ֣ס",
+      "surface": "נס",
       "gloss": "فرار کت"
     },
     {
-      "surface": "בְּרַגְלָ֔יו",
+      "surface": "ברגליו",
       "gloss": "گوں وتی پئیں"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گِدانءَ"
     },
     {
-      "surface": "יָעֵ֔ל",
+      "surface": "יעל",
       "gloss": "یائل"
     },
     {
-      "surface": "אֵ֣שֶׁת",
+      "surface": "אשת",
       "gloss": "زال"
     },
     {
-      "surface": "חֶ֣בֶר",
+      "surface": "חבר",
       "gloss": "حیبیر"
     },
     {
-      "surface": "הַקֵּינִ֑י",
+      "surface": "הקיני",
       "gloss": "کینی"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "שָׁל֗וֹם",
+      "surface": "שלום",
       "gloss": "امن"
     },
     {
-      "surface": "בֵּ֚ין",
+      "surface": "בין",
       "gloss": "میان"
     },
     {
-      "surface": "יָבִ֣ין",
+      "surface": "יבין",
       "gloss": "یاوین"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "חָצ֔וֹר",
+      "surface": "חצור",
       "gloss": "حسور"
     },
     {
-      "surface": "וּבֵ֕ין",
+      "surface": "ובין",
       "gloss": "ءُ میان"
     },
     {
-      "surface": "בֵּ֖ית",
+      "surface": "בית",
       "gloss": "خاندانءَ"
     },
     {
-      "surface": "חֶ֥בֶר",
+      "surface": "חבר",
       "gloss": "حیبیر"
     },
     {
-      "surface": "הַקֵּינִֽי",
+      "surface": "הקיני",
       "gloss": "کینی"
     }
-  ],
-  "timestamp": "2026-09-25T19:07:08.528084308Z",
-  "model": "glm-5.3"
+  ]
 }

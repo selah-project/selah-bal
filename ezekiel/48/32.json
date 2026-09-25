@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "ezekiel 48:32",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:31:23.143222115Z",
+  "verse": 32,
+  "ref": "ezekiel 48:32",
+  "tier": "glm-5.2",
   "chapter": 48,
   "translation": "ءُ چڑیچیں رخءَ پنچ سد ءُ چار ہزار <ءُ دروازگ> سئے اَنت: یوسفءِ دروازگ یک، بنیامینءِ دروازگ یک، دانءِ دروازگ یک.",
   "tokens": [
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "ءُ چڑیچیں رخءَ"
     },
     {
-      "surface": "פֵּאָה",
+      "surface": "פאת",
       "gloss": "رخ"
     },
     {
-      "surface": "קָדִימָה",
+      "surface": "קדימה",
       "gloss": "چڑیچیں"
     },
     {
-      "surface": "חֲמֵשׁ",
+      "surface": "חמש",
       "gloss": "پنچ"
     },
     {
-      "surface": "מֵאוֹת",
+      "surface": "מאות",
       "gloss": "سد"
     },
     {
-      "surface": "וְאַרְבַּעַת",
+      "surface": "וארבעת",
       "gloss": "ءُ چار"
     },
     {
-      "surface": "אֲלָפִים",
+      "surface": "אלפים",
       "gloss": "ہزار"
     },
     {
-      "surface": "וּשְׁעָרִים",
+      "surface": "ושערים",
       "gloss": "ءُ دروازگان"
     },
     {
-      "surface": "שְׁלֹשָׁה",
+      "surface": "שלשה",
       "gloss": "سئے"
     },
     {
-      "surface": "וְשַׁעַר",
+      "surface": "ושער",
       "gloss": "ءُ دروازگ"
     },
     {
-      "surface": "יוֹסֵף",
+      "surface": "יוסף",
       "gloss": "یوسفءِ"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "שַׁעַר",
+      "surface": "שער",
       "gloss": "دروازگ"
     },
     {
-      "surface": "בִּנְיָמִן",
+      "surface": "בנימן",
       "gloss": "بنیامینءِ"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "שַׁעַר",
+      "surface": "שער",
       "gloss": "دروازگ"
     },
     {
-      "surface": "דָּן",
+      "surface": "דן",
       "gloss": "دانءِ"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یک"
     }
-  ],
-  "timestamp": "2026-09-25T16:31:23.143222115Z",
-  "model": "glm-5.3"
+  ]
 }

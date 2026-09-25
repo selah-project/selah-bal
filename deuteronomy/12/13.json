@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "deuteronomy 12:13",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:09:36.408083748Z",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "خودءَ بچار کہ نہ پہ دیماں جاگہءَ کہ تو گندیت، وتءِ سوچگیں قربانیاں چڑھیں۔",
   "tokens": [
     {
-      "surface": "הִשָּׁ֣מֶר",
+      "surface": "השמר",
       "gloss": "خودءَ بچار کہ"
     },
     {
-      "surface": "לְךָ֔",
+      "surface": "לך",
       "gloss": "توت"
     },
     {
-      "surface": "פֶּֽן",
+      "surface": "פן",
       "gloss": "نہ"
     },
     {
-      "surface": "תַּעֲלֶ֖ה",
+      "surface": "תעלה",
       "gloss": "چڑھیں"
     },
     {
-      "surface": "עֹלֹתֶ֑יךָ",
+      "surface": "עלתיך",
       "gloss": "وتءِ سوچگیں قربانیاں"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "پہ دیماں"
     },
     {
-      "surface": "מָק֖וֹם",
+      "surface": "מקום",
       "gloss": "جاگہءَ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "תִּרְאֶֽה",
+      "surface": "תראה",
       "gloss": "تو گندیت"
     }
-  ],
-  "timestamp": "2026-09-25T15:09:36.408083748Z",
-  "model": "glm-5.3"
+  ]
 }

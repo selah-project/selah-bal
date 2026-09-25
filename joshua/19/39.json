@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 39,
-  "ref": "joshua 19:39",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:46:02.241113846Z",
+  "verse": 39,
+  "ref": "joshua 19:39",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "اے ⟨اِنت⟩ نفتالیءِ زہگانی ٹولیءِ ورثت، اِشانی خاندانانی پہ — شہر ءُ اِشانی دیہان.",
   "tokens": [
     {
-      "surface": "זֹ֗את",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "נַחֲלַ֛ת",
+      "surface": "נחלת",
       "gloss": "ورثت"
     },
     {
-      "surface": "מַטֵּ֥ה",
+      "surface": "מטה",
       "gloss": "ٹولیءِ"
     },
     {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "נַפְתָּלִ֖י",
+      "surface": "נפתלי",
       "gloss": "نفتالیءِ"
     },
     {
-      "surface": "לְמִשְׁפְּחֹתָ֑ם",
+      "surface": "למשפחתם",
       "gloss": "اِشانی خاندانانی پہ"
     },
     {
-      "surface": "הֶעָרִ֖ים",
+      "surface": "הערים",
       "gloss": "شہر"
     },
     {
-      "surface": "וְחַצְרֵיהֶֽן",
+      "surface": "וחצריהן",
       "gloss": "ءُ اِشانی دیہان"
     }
-  ],
-  "timestamp": "2026-09-25T18:46:02.241113846Z",
-  "model": "glm-5.3"
+  ]
 }

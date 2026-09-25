@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "psalms 45:5",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:41:26.586190358Z",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "tier": "glm-5.2",
   "chapter": 45,
   "translation": "ءُ تیری شانءَ منیں روت گوَنابیں سفر کن، راستی ءُ نمکی ءُ انصافءِ گالءِ پشتءَ، ءُ تیری دچّی دست تینءَ دہشتانی چیزان سر زانگ کنت.",
   "tokens": [
     {
-      "surface": "וְהַדְּרְךָ",
+      "surface": "והדרך",
       "gloss": "ءُ تیری شانءَ"
     },
     {
-      "surface": "צְלַח",
+      "surface": "צלח",
       "gloss": "گوَنابیں سفر کن"
     },
     {
-      "surface": "רְכַב",
+      "surface": "רכב",
       "gloss": "روت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "…ءِ پشتءَ"
     },
     {
-      "surface": "דְּבַר",
+      "surface": "דבר",
       "gloss": "گال"
     },
     {
-      "surface": "אֱמֶת",
+      "surface": "אמת",
       "gloss": "راستی"
     },
     {
-      "surface": "וְעַנְוָה",
+      "surface": "וענוה",
       "gloss": "ءُ نمکی"
     },
     {
-      "surface": "צֶדֶק",
+      "surface": "צדק",
       "gloss": "ءُ انصاف"
     },
     {
-      "surface": "וְתוֹרְךָ",
+      "surface": "ותורך",
       "gloss": "ءُ تیری دچّی دست"
     },
     {
-      "surface": "נוֹרָאוֹת",
+      "surface": "נוראות",
       "gloss": "دہشتانی چیزان"
     },
     {
-      "surface": "יְמִינֶךָ",
+      "surface": "ימינך",
       "gloss": "تانءَ سر زانگ کنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:41:26.586190358Z",
-  "model": "glm-5.3"
+  ]
 }

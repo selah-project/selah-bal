@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "numbers 30:10",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:57:58.692193013Z",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "ءُ مِٹیں زنءِ نذر ءُ درگڈیتگیں زنءِ — ہر آ کہ آیی وتی نَپسءَ گنڈیت، آ آییءَ سرءَ پابرچ بیت.",
   "tokens": [
     {
-      "surface": "וְנֵ֥דֶר",
+      "surface": "ונדר",
       "gloss": "ءُ نذر"
     },
     {
-      "surface": "אַלְמָנָ֖ה",
+      "surface": "אלמנה",
       "gloss": "مِٹیں زنءِ"
     },
     {
-      "surface": "וּגְרוּשָׁ֑ה",
+      "surface": "וגרושה",
       "gloss": "ءُ درگڈیتگیں زنءِ"
     },
     {
-      "surface": "כֹּ֛ל",
+      "surface": "כל",
       "gloss": "ہر آ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אָסְרָ֥ה",
+      "surface": "אסרה",
       "gloss": "آیی گنڈیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "⟨تہ⟩"
     },
     {
-      "surface": "נַפְשָׁ֖הּ",
+      "surface": "נפשה",
       "gloss": "وتی نَپسءَ"
     },
     {
-      "surface": "יָק֥וּם",
+      "surface": "יקום",
       "gloss": "پابرچ بیت"
     },
     {
-      "surface": "עָלֶֽיהָ",
+      "surface": "עליה",
       "gloss": "آییءَ سرءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:57:58.692193013Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "1-chronicles 19:11",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:36:47.110036704Z",
+  "verse": 11,
+  "ref": "1-chronicles 19:11",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ ⟨את⟩ باقیءِ مردمءَ آییءِ دستءَ دات، اَبِشایءَ، آییءِ بروڑءَ؛ ءُ آیان صف بند کت پہ آمونانی زہگانءِ ربراہ۔",
   "tokens": [
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "باقیءِ مردم"
     },
     {
-      "surface": "יֶתֶר",
+      "surface": "יתר",
       "gloss": "باقی"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "مردم"
     },
     {
-      "surface": "נָתַן",
+      "surface": "נתן",
       "gloss": "دات"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "دستءَ"
     },
     {
-      "surface": "אֲבִישַׁי",
+      "surface": "אבשי",
       "gloss": "اَبِشایءَ"
     },
     {
-      "surface": "אָחִיו",
+      "surface": "אחיו",
       "gloss": "آییءِ بروڑءَ"
     },
     {
-      "surface": "וַיַּעַרְכוּ",
+      "surface": "ויערכו",
       "gloss": "ءُ صف بند کت"
     },
     {
-      "surface": "לִקְרַאת",
+      "surface": "לקראת",
       "gloss": "ربراہءَ"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "עַמּוֹן",
+      "surface": "עמון",
       "gloss": "آمونانی"
     }
-  ],
-  "timestamp": "2026-09-25T12:36:47.110036704Z",
-  "model": "glm-5.3"
+  ]
 }

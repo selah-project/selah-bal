@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "exodus 8:2",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:04:17.131596993Z",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ ہارون ⟨את⟩ وتی دست مِتسرایمءِ آپانءِ سرءَ دراز کت، ءُ گوکاں برات ءُ مِتسرایمءِ ⟨את⟩ زمینءَ ڈھاپ کت.",
   "tokens": [
     {
-      "surface": "וַיֵּט",
+      "surface": "ויט",
       "gloss": "ءُ دراز کت"
     },
     {
-      "surface": "אַהֲרֹן",
+      "surface": "אהרן",
       "gloss": "ہارون"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی دست"
     },
     {
-      "surface": "יָדוֹ",
+      "surface": "ידו",
       "gloss": "وتی دست"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "מֵימֵי",
+      "surface": "מימי",
       "gloss": "آپانءِ"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     },
     {
-      "surface": "וַתַּעַל",
+      "surface": "ותעל",
       "gloss": "ءُ برات"
     },
     {
-      "surface": "הַצְּפַרְדֵּעַ",
+      "surface": "הצפרדע",
       "gloss": "گوکاں"
     },
     {
-      "surface": "וַתְּכַס",
+      "surface": "ותכס",
       "gloss": "ءُ ڈھاپ کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِتسرایمءِ زمینءَ"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T16:04:17.131596993Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,14 +1,16 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 111:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:26:36.532313988Z",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "tier": "glm-5.2",
   "chapter": 111,
   "translation": "وتی کارانی زور آ وتی قومءَ وانگ کت، پہ ایشاناں قومانی ورثت دات.",
   "tokens": [
     {
-      "surface": "כוח",
+      "surface": "כח",
       "gloss": "زور"
     },
     {
@@ -39,7 +41,5 @@
       "surface": "גוים",
       "gloss": "قومانی"
     }
-  ],
-  "timestamp": "2026-09-25T20:26:36.532313988Z",
-  "model": "glm-5.3"
+  ]
 }

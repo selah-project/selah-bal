@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "deuteronomy 2:3",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:15:20.905696103Z",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "اِشاں پہ تمن گیش بوتگ چوڑاں آے ءُ پدا آے کہ ⟨את⟩ اے ڈگار گیریت؛ تمنءَ پہ وتان روچیچءَ پدا بیت۔",
   "tokens": [
     {
-      "surface": "רַב",
+      "surface": "רב",
       "gloss": "گیش"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "پہ تمن"
     },
     {
-      "surface": "סֹב",
+      "surface": "סב",
       "gloss": "چوڑاں آے"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے ڈگار"
     },
     {
-      "surface": "הָהָר",
+      "surface": "ההר",
       "gloss": "اے ڈگار"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "פְּנוּ",
+      "surface": "פנו",
       "gloss": "پدا بیت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "پہ وتان"
     },
     {
-      "surface": "צָפֹנָה",
+      "surface": "צפנה",
       "gloss": "روچیچءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:15:20.905696103Z",
-  "model": "glm-5.3"
+  ]
 }

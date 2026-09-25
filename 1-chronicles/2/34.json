@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "1-chronicles 2:34",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:38:14.712205965Z",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ شیشانءَ زہگان نہ اَتنت، بلے جنکان اَتنت؛ ءُ شیشانءَ یک غلام اَت، یک مِتسرایے، ءُ آییءِ نام یَرح‌ع اِنت۔",
   "tokens": [
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "הָיָ֧ה",
+      "surface": "היה",
       "gloss": "اَتنت"
     },
     {
-      "surface": "לְשֵׁשָׁ֛ן",
+      "surface": "לששן",
       "gloss": "شیشانءَ"
     },
     {
-      "surface": "בָּנִ֖ים",
+      "surface": "בנים",
       "gloss": "زہگان"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کی"
     },
     {
-      "surface": "אִ֑ם",
+      "surface": "אם",
       "gloss": "بلے"
     },
     {
-      "surface": "בָּנ֑וֹת",
+      "surface": "בנות",
       "gloss": "جنکان"
     },
     {
-      "surface": "וּלְשֵׁשָׁ֛ן",
+      "surface": "ולששן",
       "gloss": "ءُ شیشانءَ"
     },
     {
-      "surface": "עֶ֥בֶד",
+      "surface": "עבד",
       "gloss": "غلام"
     },
     {
-      "surface": "מִצְרִ֖י",
+      "surface": "מצרי",
       "gloss": "مِتسرایے"
     },
     {
-      "surface": "וּשְׁמ֥וֹ",
+      "surface": "ושמו",
       "gloss": "ءُ آییءِ نام"
     },
     {
-      "surface": "יַרְחָֽע",
+      "surface": "ירחע",
       "gloss": "یَرح‌ع"
     }
-  ],
-  "timestamp": "2026-09-25T12:38:14.712205965Z",
-  "model": "glm-5.3"
+  ]
 }

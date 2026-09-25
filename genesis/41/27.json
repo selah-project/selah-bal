@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "genesis 41:27",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:09:14.295671878Z",
+  "verse": 27,
+  "ref": "genesis 41:27",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "ءُ ہپت چوسن ءُ خراب ماہیگان کہ آیانی پشتءَ اوشتنت، اے ہپت سال اِنت؛ ءُ ہپت کُھال چُترے کہ پُتکیں وانڈءَ چُتراے گنت، بیتنت ہپت سال کالگءِ۔",
   "tokens": [
     {
-      "surface": "וְשֶׁ֣בַע",
+      "surface": "ושבע",
       "gloss": "ءُ ہپت"
     },
     {
-      "surface": "הַפָּרוֹת",
+      "surface": "הפרות",
       "gloss": "ماہیگان"
     },
     {
-      "surface": "הָרַקֹּת",
+      "surface": "הרקות",
       "gloss": "چوسن"
     },
     {
-      "surface": "וְהָרָעֹת",
+      "surface": "והרעת",
       "gloss": "ءُ خراب"
     },
     {
-      "surface": "הָעֹלֹת",
+      "surface": "העלת",
       "gloss": "اوشتنت"
     },
     {
-      "surface": "אַחֲרֵיהֶן",
+      "surface": "אחריהן",
       "gloss": "آیانی پشتءَ"
     },
     {
-      "surface": "שֶׁבַע",
+      "surface": "שבע",
       "gloss": "ہپت"
     },
     {
-      "surface": "שָׁנִים",
+      "surface": "שנים",
       "gloss": "سال"
     },
     {
-      "surface": "הֵנָּה",
+      "surface": "הנה",
       "gloss": "اے"
     },
     {
-      "surface": "וְשֶׁבַע",
+      "surface": "ושבע",
       "gloss": "ءُ ہپت"
     },
     {
-      "surface": "הַשִּׁבֳּלִים",
+      "surface": "השבלים",
       "gloss": "چُترے"
     },
     {
-      "surface": "הָרֵקוֹת",
+      "surface": "הרקות",
       "gloss": "کُھال"
     },
     {
-      "surface": "שְׁדֻפוֹת",
+      "surface": "שדפות",
       "gloss": "چُتراے گنت"
     },
     {
-      "surface": "הַקָּדִים",
+      "surface": "הקדים",
       "gloss": "پُتکیں وانڈءَ"
     },
     {
-      "surface": "יִהְיוּ",
+      "surface": "יהיו",
       "gloss": "بیتنت"
     },
     {
-      "surface": "שֶׁבַע",
+      "surface": "שבע",
       "gloss": "ہپت"
     },
     {
-      "surface": "שְׁנֵי",
+      "surface": "שני",
       "gloss": "سال"
     },
     {
-      "surface": "רָעָב",
+      "surface": "רעב",
       "gloss": "کالگ"
     }
-  ],
-  "timestamp": "2026-09-25T21:09:14.295671878Z",
-  "model": "glm-5.3"
+  ]
 }

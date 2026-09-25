@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
-  "ref": "job 38:36",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:31:28.302619965Z",
+  "verse": 36,
+  "ref": "job 38:36",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "کے حکمت انتریاں تہ جاڑ کت، ءُ کے منءَ عقل دانت؟",
   "tokens": [
@@ -12,38 +14,36 @@
       "gloss": "کے"
     },
     {
-      "surface": "שָׁת",
+      "surface": "שת",
       "gloss": "جاڑ کت"
     },
     {
-      "surface": "בַּטֻּחוֹת",
+      "surface": "בטחות",
       "gloss": "انتریاں تہ"
     },
     {
-      "surface": "ח׸כְמָה",
+      "surface": "חכמה",
       "gloss": "حکمت"
     },
     {
-      "surface": "אוֹ",
+      "surface": "או",
       "gloss": "ءُ"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "נָתַן",
+      "surface": "נתן",
       "gloss": "دانت"
     },
     {
-      "surface": "לַשֶּׂכְוִי",
+      "surface": "לשכוי",
       "gloss": "منءَ"
     },
     {
-      "surface": "בִּינָה",
+      "surface": "בינה",
       "gloss": "عقل"
     }
-  ],
-  "timestamp": "2026-09-25T18:31:28.302619965Z",
-  "model": "glm-5.3"
+  ]
 }

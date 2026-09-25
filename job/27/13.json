@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "job 27:13",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:26:38.560005857Z",
+  "verse": 13,
+  "ref": "job 27:13",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "اے زوت ءُ ایلوہیمءِ نیمگءِ بڑچی اِنت، ءُ سرکشانءِ ورثت چہ ایل شدّایءَ گپت بیت.",
   "tokens": [
     {
-      "surface": "זֶה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "חֵלֶק",
+      "surface": "חלק",
       "gloss": "بڑچی"
     },
     {
-      "surface": "אָדָם",
+      "surface": "אדם",
       "gloss": "مردمءِ"
     },
     {
-      "surface": "רָשָׁע",
+      "surface": "רשע",
       "gloss": "زوت"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "אֵל",
+      "surface": "אל",
       "gloss": "ایل"
     },
     {
-      "surface": "וְנַחֲלַת",
+      "surface": "ונחלת",
       "gloss": "ءُ ورثت"
     },
     {
-      "surface": "עָרִיצִים",
+      "surface": "עריצים",
       "gloss": "سرکشانءِ"
     },
     {
-      "surface": "מִשַּׁדַּי",
+      "surface": "משדי",
       "gloss": "چہ ایل شدّای"
     },
     {
-      "surface": "יִקָּחוּ",
+      "surface": "יקחו",
       "gloss": "گپت بیت"
     }
-  ],
-  "timestamp": "2026-09-25T18:26:38.560005857Z",
-  "model": "glm-5.3"
+  ]
 }

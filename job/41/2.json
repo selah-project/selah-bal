@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "job 41:2",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:31:00.555074223Z",
+  "verse": 2,
+  "ref": "job 41:2",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "نہ ہچ سخت‌گرجوک اِنت کہ آییءَ داڑ کُنت — ءُ کے او کہ منی ⟨پیشءَ⟩ چیرہ ببیت؟",
   "tokens": [
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אַ֭כְזָר",
+      "surface": "אכזר",
       "gloss": "سخت‌گرجوک"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "יְעוּרֶ֑נּוּ",
+      "surface": "יעורנו",
       "gloss": "آییءَ داڑ کُنت"
     },
     {
-      "surface": "וּמִ֥י",
+      "surface": "ומי",
       "gloss": "ءُ کے"
     },
     {
-      "surface": "ה֝֗וּא",
+      "surface": "הוא",
       "gloss": "او"
     },
     {
-      "surface": "לְפָנַ֥י",
+      "surface": "לפני",
       "gloss": "منی پیشءَ"
     },
     {
-      "surface": "יִתְיַצָּֽב",
+      "surface": "יתיצב",
       "gloss": "چیرہ ببیت"
     }
-  ],
-  "timestamp": "2026-09-25T18:31:00.555074223Z",
-  "model": "glm-5.3"
+  ]
 }

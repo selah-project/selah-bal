@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "jeremiah 2:7",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:48:25.663090736Z",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ ما شما‏ءَ ⟨את⟩ کرمیلءِ زمینءَ بیاردگ پہ آییءِ میوہ ءُ آییءِ چوکیءَ خوارگ، ءُ شما‏ں آتگ‌ئے ءُ زمیں زمین ناپاک کتگ‌ئے ءُ زمیں میراث کتگ‌ئے پہ گھنائت۔",
   "tokens": [
     {
-      "surface": "וָאָבִיא",
+      "surface": "ואביא",
       "gloss": "ءُ ما بیاردگ"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شما‏ءَ",
       "marks": "شما‏ءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "הַכַּרְמֶל",
+      "surface": "הכרמל",
       "gloss": "کرمیل"
     },
     {
-      "surface": "לֶאֱכֹל",
+      "surface": "לאכל",
       "gloss": "پہ خوارگ"
     },
     {
-      "surface": "פִּרְיָהּ",
+      "surface": "פריה",
       "gloss": "آییءِ میوہ"
     },
     {
-      "surface": "וְטוּבָהּ",
+      "surface": "וטובה",
       "gloss": "ءُ آییءِ چوکی"
     },
     {
-      "surface": "וַתָּבֹאוּ",
+      "surface": "ותבאו",
       "gloss": "ءُ شما‏ں آتگ‌ئے"
     },
     {
-      "surface": "וַתְּטַמְּאוּ",
+      "surface": "ותטמאו",
       "gloss": "ءُ ناپاک کتگ‌ئے"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زیں زمین"
     },
     {
-      "surface": "אַרְצִי",
+      "surface": "ארצי",
       "gloss": "زیں زمین"
     },
     {
-      "surface": "וְנַחֲלָתִי",
+      "surface": "ונחלתי",
       "gloss": "ءُ زمیں میراث"
     },
     {
-      "surface": "שַׂמְתֶּם",
+      "surface": "שמתם",
       "gloss": "کتگ‌ئے"
     },
     {
-      "surface": "לְתוֹעֵבָה",
+      "surface": "לתועבה",
       "gloss": "پہ گھنائت"
     }
-  ],
-  "timestamp": "2026-09-25T17:48:25.663090736Z",
-  "model": "glm-5.3"
+  ]
 }

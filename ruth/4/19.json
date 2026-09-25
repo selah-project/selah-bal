@@ -1,47 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "ruth 4:19",
   "book": "ruth",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:52:06.306099596Z",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ حصرون ⟨את⟩ رامءَ گندیت، ءُ رام ⟨את⟩ عمینادبءَ گندیت،",
   "tokens": [
     {
-      "surface": "וְחֶצְרוֹן",
+      "surface": "וחצרון",
       "gloss": "ءُ حصرون"
     },
     {
-      "surface": "הוֹלִיד",
+      "surface": "הוליד",
       "gloss": "گندیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "رامءَ"
     },
     {
-      "surface": "רָם",
+      "surface": "רם",
       "gloss": "رام"
     },
     {
-      "surface": "וְרָם",
+      "surface": "ורם",
       "gloss": "ءُ رام"
     },
     {
-      "surface": "הוֹלִיד",
+      "surface": "הוליד",
       "gloss": "گندیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "عمینادبءَ"
     },
     {
-      "surface": "עַמִּינָדָב",
+      "surface": "עמינדב",
       "gloss": "عمینادب"
     }
-  ],
-  "timestamp": "2026-09-25T20:52:06.306099596Z",
-  "model": "glm-5.3"
+  ]
 }

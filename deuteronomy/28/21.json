@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "deuteronomy 28:21",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:24:05.205351082Z",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "یاہوہ ⟨את⟩ داب تہءَ چسپ کنیت، اِنت کہ آییءَ ⟨את⟩ تہءَ چہ اُ زمینءَ پاک کنیت، کہ تہ اُوتءَ روتءَ ءُ آییءَ بگریتءِ پہ مِشت۔",
   "tokens": [
     {
-      "surface": "יַדְבֵּק",
+      "surface": "ידבק",
       "gloss": "چسپ کنیت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "בְּךָ",
+      "surface": "בך",
       "gloss": "تہءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "داب"
     },
     {
-      "surface": "הַדָּבֶר",
+      "surface": "הדבר",
       "gloss": "داب"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "اِنت کہ"
     },
     {
-      "surface": "כַּלֹּתוֹ",
+      "surface": "כלתו",
       "gloss": "آییءَ پاک کنیت"
     },
     {
-      "surface": "אֹֽתְךָ",
+      "surface": "אתך",
       "gloss": "⟨את⟩ تہءَ",
       "marks": "تہءَ"
     },
     {
-      "surface": "מֵעַל",
+      "surface": "מעל",
       "gloss": "چہ"
     },
     {
-      "surface": "הָאֲדָמָה",
+      "surface": "האדמה",
       "gloss": "اُ زمینءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "تہ"
     },
     {
-      "surface": "בָּא",
+      "surface": "בא",
       "gloss": "روتءَ"
     },
     {
-      "surface": "שָׁמָּה",
+      "surface": "שמה",
       "gloss": "اُوتءَ"
     },
     {
-      "surface": "לְרִשְׁתָּהּ",
+      "surface": "לרשתה",
       "gloss": "بگریتءِ پہ مِشت"
     }
-  ],
-  "timestamp": "2026-09-25T15:24:05.205351082Z",
-  "model": "glm-5.3"
+  ]
 }

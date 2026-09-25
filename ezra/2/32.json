@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "ezra 2:32",
   "book": "ezra",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:37:58.696786774Z",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "زہگانی حارِم، سئے سد ءُ بیست۔",
   "tokens": [
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "חָרִ֔ם",
+      "surface": "חרם",
       "gloss": "حارِم"
     },
     {
-      "surface": "שְׁלֹ֥שׁ",
+      "surface": "שלש",
       "gloss": "سئے"
     },
     {
-      "surface": "מֵא֖וֹת",
+      "surface": "מאות",
       "gloss": "سد"
     },
     {
-      "surface": "וְעֶשְׂרִֽים",
+      "surface": "ועשרים",
       "gloss": "ءُ بیست"
     }
-  ],
-  "timestamp": "2026-09-25T16:37:58.696786774Z",
-  "model": "glm-5.3"
+  ]
 }

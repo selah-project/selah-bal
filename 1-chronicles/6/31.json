@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "1-chronicles 6:31",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:46:30.732251586Z",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "اَمتسیءِ زہگ، بانیءِ زہگ، شیمرءِ زہگ۔",
   "tokens": [
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگِ"
     },
     {
-      "surface": "אַמְצִ֥י",
+      "surface": "אמצי",
       "gloss": "اَمتسی"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگِ"
     },
     {
-      "surface": "בָּנִ֖י",
+      "surface": "בני",
       "gloss": "بانی"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگِ"
     },
     {
-      "surface": "שָֽׁמֶר",
+      "surface": "שמר",
       "gloss": "شیمر"
     }
-  ],
-  "timestamp": "2026-09-25T12:46:30.732251586Z",
-  "model": "glm-5.3"
+  ]
 }

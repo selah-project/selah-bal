@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "proverbs 28:10",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:19:54.684306119Z",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "جو راست مردمانءَ یک خراب رہءَ بچاریت، آ وت وتی گڈیءَ ڈگیت؛ ءُ پورے دل والاے نیکین چیز میرنت بنت۔",
   "tokens": [
     {
-      "surface": "מַשְׁגֶּה",
+      "surface": "משגה",
       "gloss": "بچاروک (چکیت کنوک)"
     },
     {
-      "surface": "יְשָׁרִים",
+      "surface": "ישרים",
       "gloss": "راست مردمانءَ"
     },
     {
-      "surface": "בְּדֶרֶךְ",
+      "surface": "בדרך",
       "gloss": "رہءَ"
     },
     {
-      "surface": "רָע",
+      "surface": "רע",
       "gloss": "خراب"
     },
     {
-      "surface": "בִּשְׁחוּתוֹ",
+      "surface": "בשחותו",
       "gloss": "وتی گڈیءَ"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ وت"
     },
     {
-      "surface": "יִפֹּל",
+      "surface": "יפול",
       "gloss": "ڈگیت"
     },
     {
-      "surface": "וּתְמִימִים",
+      "surface": "ותמימים",
       "gloss": "ءُ پورے دل والاے"
     },
     {
-      "surface": "יִנְחֲלוּ",
+      "surface": "ינחלו",
       "gloss": "میرنت بنت"
     },
     {
-      "surface": "טוֹב",
+      "surface": "טוב",
       "gloss": "نیکین چیز"
     }
-  ],
-  "timestamp": "2026-09-25T20:19:54.684306119Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "exodus 15:11",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:46:10.948219896Z",
+  "verse": 11,
+  "ref": "exodus 15:11",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "کے چوش آ ءُ تی ہدایانی میانءَ، اے یاہوہ؟ کے چوش تی — پاکیءَ گوں شان، ستایشاں ءَ ترساوند، کرامتیں کارانی کنوک؟",
   "tokens": [
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "כָמֹ֤כָה",
+      "surface": "כמכה",
       "gloss": "چوش آ ءُ تی"
     },
     {
-      "surface": "בָּֽאֵלִם֙",
+      "surface": "באלם",
       "gloss": "ہدایانی میانءَ"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "מִ֥י",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "כָּמֹ֖כָה",
+      "surface": "כמכה",
       "gloss": "چوش تی"
     },
     {
-      "surface": "נֶאְדָּ֣ר",
+      "surface": "נאדר",
       "gloss": "گوں شان"
     },
     {
-      "surface": "בַּקֹּ֑דֶשׁ",
+      "surface": "בקדש",
       "gloss": "پاکیءَ"
     },
     {
-      "surface": "נוֹרָ֥א",
+      "surface": "נורא",
       "gloss": "ترساوند"
     },
     {
-      "surface": "תְהִלֹּ֖ת",
+      "surface": "תהלת",
       "gloss": "ستایشاں ءَ"
     },
     {
-      "surface": "עֹ֥שֵׂה",
+      "surface": "עשה",
       "gloss": "کنوک"
     },
     {
-      "surface": "פֶֽלֶא",
+      "surface": "פלא",
       "gloss": "کرامتیں کاران"
     }
-  ],
-  "timestamp": "2026-09-25T15:46:10.948219896Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "ezekiel 44:29",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:26:35.556282423Z",
+  "verse": 29,
+  "ref": "ezekiel 44:29",
+  "tier": "glm-5.2",
   "chapter": 44,
   "translation": "مِنحت ءُ گنت‌کاریءِ قربانی ءُ گنہءِ قربانی — اَیان ئے بئوَرِنت؛ ءُ ھر خرم چیز اِسرائیلءَ آشانءِ بیت.",
   "tokens": [
     {
-      "surface": "הַמִּנְחָה֙",
+      "surface": "המנחה",
       "gloss": "مِنحت"
     },
     {
-      "surface": "וְהַחַטָּ֣את",
+      "surface": "והחטאת",
       "gloss": "ءُ گنت‌کاریءِ قربانی"
     },
     {
-      "surface": "וְהָאָשָׁ֔ם",
+      "surface": "והאשם",
       "gloss": "ءُ گنہءِ قربانی"
     },
     {
-      "surface": "הֵ֖מָּה",
+      "surface": "המה",
       "gloss": "اَیان"
     },
     {
-      "surface": "יֹֽאכְל֑וּם",
+      "surface": "יאכלום",
       "gloss": "بئوَرِنت"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ ھر"
     },
     {
-      "surface": "חֵ֥רֶם",
+      "surface": "חרם",
       "gloss": "خرم"
     },
     {
-      "surface": "בְּיִשְׂרָאֵ֖ל",
+      "surface": "בישראל",
       "gloss": "اِسرائیلءَ"
     },
     {
-      "surface": "לָהֶ֥ם",
+      "surface": "להם",
       "gloss": "آشانءِ"
     },
     {
-      "surface": "יִהְיֶֽה",
+      "surface": "יהיה",
       "gloss": "بیت"
     }
-  ],
-  "timestamp": "2026-09-25T16:26:35.556282423Z",
-  "model": "glm-5.3"
+  ]
 }

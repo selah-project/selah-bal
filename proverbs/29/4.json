@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "proverbs 29:4",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:17:52.677569062Z",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "شاه گوں انصاف زمینءَ چست کنت، ءُ تحفہ‌انی مرد آیءَ گرونت۔",
   "tokens": [
     {
-      "surface": "מֶ֗לֶךְ",
+      "surface": "מלך",
       "gloss": "شاه"
     },
     {
-      "surface": "בְּמִשְׁפָּט",
+      "surface": "במשפט",
       "gloss": "گوں انصاف"
     },
     {
-      "surface": "יַעֲמִ֥יד",
+      "surface": "יעמיד",
       "gloss": "چست کنت"
     },
     {
-      "surface": "אָ֑רֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "וְאִ֣ישׁ",
+      "surface": "ואיש",
       "gloss": "ءُ مرد"
     },
     {
-      "surface": "תְּרוּמ֖וֹת",
+      "surface": "תרומות",
       "gloss": "تحفہ‌انی"
     },
     {
-      "surface": "יֶֽהֶרְסֶֽנָּה",
+      "surface": "יהרסנה",
       "gloss": "آیءَ گرونت"
     }
-  ],
-  "timestamp": "2026-09-25T20:17:52.677569062Z",
-  "model": "glm-5.3"
+  ]
 }

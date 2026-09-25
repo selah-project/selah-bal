@@ -1,125 +1,125 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "deuteronomy 15:9",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:10:24.160000092Z",
+  "verse": 9,
+  "ref": "deuteronomy 15:9",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "چوک بیت پہ تئے نہ کہ یک گپ گوں تئے دلءَ بیت بےفایدگیءِ، آ کہ گوَشیت: نزدیک اِنت ہپتمی سال، شمطہءِ سال؛ ءُ تئے چشم تئے برارءَ، ⟨یہ⟩ نیازمندی، بری بیت، ءُ تو آءَ نہ دیت؛ ءُ آ یاہوہءَ تئے مقابلءَ بانگ بیت، ءُ تئے تہ گناه بیت۔",
   "tokens": [
     {
-      "surface": "הִשָּׁ֣מֶר",
+      "surface": "השמר",
       "gloss": "چوک بیت"
     },
     {
-      "surface": "לְךָ֡",
+      "surface": "לך",
       "gloss": "پہ تئے"
     },
     {
-      "surface": "פֶּן",
+      "surface": "פן",
       "gloss": "نہ کہ"
     },
     {
-      "surface": "יִהְיֶ֣ה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "דָבָר֩",
+      "surface": "דבר",
       "gloss": "گپ"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "לְבָבְךָ֨",
+      "surface": "לבבך",
       "gloss": "تئے دل"
     },
     {
-      "surface": "בְלִיַּ֜עַל",
+      "surface": "בליעל",
       "gloss": "بےفایدگیءِ"
     },
     {
-      "surface": "לֵאמֹ֗ר",
+      "surface": "לאמר",
       "gloss": "آ کہ گوَشیت"
     },
     {
-      "surface": "קָֽרְבָ֣ה",
+      "surface": "קרבה",
       "gloss": "نزدیک اِنت"
     },
     {
-      "surface": "שְׁנַֽת",
+      "surface": "שנת",
       "gloss": "سال"
     },
     {
-      "surface": "הַשֶּׁבַע֮",
+      "surface": "השבע",
       "gloss": "ہپتمی"
     },
     {
-      "surface": "שְׁנַ֣ת",
+      "surface": "שנת",
       "gloss": "سال"
     },
     {
-      "surface": "הַשְּׁמִטָּ֔ה",
+      "surface": "השמטה",
       "gloss": "شمطہءِ"
     },
     {
-      "surface": "וְרָעָ֣ה",
+      "surface": "ורעה",
       "gloss": "ءُ بری بیت"
     },
     {
-      "surface": "עֵֽינְךָ֗",
+      "surface": "עינך",
       "gloss": "تئے چشم"
     },
     {
-      "surface": "בְּאָחִ֨יךָ֙",
+      "surface": "באחיך",
       "gloss": "تئے برارءَ"
     },
     {
-      "surface": "הָֽאֶבְי֔וֹן",
+      "surface": "האביון",
       "gloss": "نیازمندی"
     },
     {
-      "surface": "וְלֹ֥א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "תִּתֵּ֖ן",
+      "surface": "תתן",
       "gloss": "تو دیت"
     },
     {
-      "surface": "ל֑וֹ",
+      "surface": "לו",
       "gloss": "آءَ"
     },
     {
-      "surface": "וְקָרָ֤א",
+      "surface": "וקרא",
       "gloss": "ءُ آ بانگ بیت"
     },
     {
-      "surface": "עָלֶ֨יךָ֙",
+      "surface": "עליך",
       "gloss": "تئے مقابلءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "…"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "וְהָיָ֥ה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "בְךָ֖",
+      "surface": "בך",
       "gloss": "تئے تہ"
     },
     {
-      "surface": "חֵֽטְא",
+      "surface": "חטא",
       "gloss": "گناه"
     }
-  ],
-  "timestamp": "2026-09-25T15:10:24.160000092Z",
-  "model": "glm-5.3"
+  ]
 }

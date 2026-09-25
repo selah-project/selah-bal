@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "proverbs 3:29",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:18:42.479800917Z",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "پہ وتءِ یارءَ دیمءَ برا نہ گوَنشت، ءُ آ پہ امان گوں تءَ ⟨את⟩ نشت اِنت۔",
   "tokens": [
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תַּחֲרֹ֥שׁ",
+      "surface": "תחרש",
       "gloss": "گوَنشت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ دیمءَ"
     },
     {
-      "surface": "רֵעֲךָ֣",
+      "surface": "רעך",
       "gloss": "وتءِ یار"
     },
     {
-      "surface": "רָעָ֑ה",
+      "surface": "רעה",
       "gloss": "برا"
     },
     {
-      "surface": "וְהֽוּא",
+      "surface": "והוא",
       "gloss": "ءُ آ"
     },
     {
-      "surface": "יוֹשֵׁ֖ב",
+      "surface": "יושב",
       "gloss": "نشت"
     },
     {
-      "surface": "לָבֶ֣טַח",
+      "surface": "לבטח",
       "gloss": "پہ امان"
     },
     {
-      "surface": "אִתָּֽךְ",
+      "surface": "אתך",
       "gloss": "⟨את⟩ گوں تءَ",
       "marks": "نشت — آ یار کہ گوں تءَ نشت اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:18:42.479800917Z",
-  "model": "glm-5.3"
+  ]
 }

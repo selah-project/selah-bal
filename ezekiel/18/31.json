@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "ezekiel 18:31",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:10:02.648889516Z",
+  "verse": 31,
+  "ref": "ezekiel 18:31",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "دوریں کنیت چہ خوداں ⟨את⟩ ہمگ شماءِ گناہان کہ شماں آیاناں تہ گناہ کتایت، ءُ پہ خوداں کنیت یک نو دل ءُ یک نو روح، ءُ چرا مریت، اے اسرائیلءِ آل؟",
   "tokens": [
     {
-      "surface": "הַשְׁלִ֣יכוּ",
+      "surface": "השליכו",
       "gloss": "دوریں کنیت"
     },
     {
-      "surface": "מֵעֲלֵיכֶ֗ם",
+      "surface": "מעליכם",
       "gloss": "چہ خوداں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہمگ شماءِ گناہان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "פִּשְׁעֵיכֶם֙",
+      "surface": "פשעיכם",
       "gloss": "شماءِ گناہان"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "פְּשַׁעְתֶּ֣ם",
+      "surface": "פשעתם",
       "gloss": "گناہ کتایت"
     },
     {
-      "surface": "בָּ֔ם",
+      "surface": "בם",
       "gloss": "آیاناں تہ"
     },
     {
-      "surface": "וַעֲשׂ֥וּ",
+      "surface": "ועשו",
       "gloss": "ءُ کنیت"
     },
     {
-      "surface": "לָכֶ֛ם",
+      "surface": "לכם",
       "gloss": "پہ خوداں"
     },
     {
-      "surface": "לֵ֥ב",
+      "surface": "לב",
       "gloss": "دل"
     },
     {
-      "surface": "חָדָ֖שׁ",
+      "surface": "חדש",
       "gloss": "نو"
     },
     {
-      "surface": "וְר֣וּחַ",
+      "surface": "ורוח",
       "gloss": "ءُ روح"
     },
     {
-      "surface": "חֲדָשָׁ֑ה",
+      "surface": "חדשה",
       "gloss": "نو"
     },
     {
-      "surface": "וְלָ֥מָּה",
+      "surface": "ולמה",
       "gloss": "ءُ چرا"
     },
     {
-      "surface": "תָמֻ֖תוּ",
+      "surface": "תמתו",
       "gloss": "مریت"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "آل"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     }
-  ],
-  "timestamp": "2026-09-25T16:10:02.648889516Z",
-  "model": "glm-5.3"
+  ]
 }

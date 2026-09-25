@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "daniel 8:15",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:01:33.353454883Z",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ اے بوت، چہ وہدے کہ من، من دانیالءَ، ⟨את⟩ دیدار گندیت، من بجست کشیشءَ کت؛ ءُ اے کہ ننگت، یک گوَستار مردیءِ چوں منیءِ پیشءَ اُستیت.",
   "tokens": [
     {
-      "surface": "וַיְהִ֗י",
+      "surface": "ויהי",
       "gloss": "ءُ اے بوت"
     },
     {
-      "surface": "בִּרְאֹתִ֛י",
+      "surface": "בראתי",
       "gloss": "چہ وہدے کہ … گندیت"
     },
     {
-      "surface": "אֲנִ֥י",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "דָנִיֵּ֖אל",
+      "surface": "דניאל",
       "gloss": "دانیال"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "دیدار"
     },
     {
-      "surface": "הֶחָז֑וֹן",
+      "surface": "החזון",
       "gloss": "دیدار"
     },
     {
-      "surface": "וָאֲבַקְשָׁ֣ה",
+      "surface": "ואבקשה",
       "gloss": "ءُ من بجست کت"
     },
     {
-      "surface": "בִּינָ֔ה",
+      "surface": "בינה",
       "gloss": "کشیش"
     },
     {
-      "surface": "וְהִנֵּ֛ה",
+      "surface": "והנה",
       "gloss": "ءُ اے کہ ننگت"
     },
     {
-      "surface": "עֹמֵ֥ד",
+      "surface": "עמד",
       "gloss": "اُستیت"
     },
     {
-      "surface": "לְנֶגְדִּ֖י",
+      "surface": "לנגדי",
       "gloss": "منیءِ پیشءَ"
     },
     {
-      "surface": "כְּמַרְאֵ֥ה",
+      "surface": "כמראה",
       "gloss": "چوں … گوَستار"
     },
     {
-      "surface": "גָֽבֶר",
+      "surface": "גבר",
       "gloss": "مردیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:01:33.353454883Z",
-  "model": "glm-5.3"
+  ]
 }

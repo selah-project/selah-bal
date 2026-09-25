@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 55,
-  "ref": "numbers 26:55",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:56:13.214725263Z",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "بلے ہمک گورالءَ ⟨את⟩ زمین بچریت — اِشانی پدرانی ٹولیانی نامانی پہ ورثہ گنت.",
   "tokens": [
     {
-      "surface": "אַךְ",
+      "surface": "אך",
       "gloss": "بلے"
     },
     {
-      "surface": "בְּגוֹרָל",
+      "surface": "בגורל",
       "gloss": "گورالءَ"
     },
     {
-      "surface": "יֵחָלֵק",
+      "surface": "יחלק",
       "gloss": "بچریت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زمین"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "לִשְׁמֹת",
+      "surface": "לשמות",
       "gloss": "نامانی پہ"
     },
     {
-      "surface": "מַטּוֹת",
+      "surface": "מטות",
       "gloss": "ٹولیانی"
     },
     {
-      "surface": "אֲבֹתָם",
+      "surface": "אבתם",
       "gloss": "اِشانی پدرانی"
     },
     {
-      "surface": "יִנְחָלוּ",
+      "surface": "ינחלו",
       "gloss": "ورثہ گنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:56:13.214725263Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "2-chronicles 18:6",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:38:14.187835946Z",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ یہوشافاتءَ گوَشت: کیا ایت ہچ پیغمبر یاہوہءِ پہ رندگے نیست، ءُ آءَ چہ ⟨את⟩ آییءَ پُچیں؟",
   "tokens": [
     {
-      "surface": "וַיֹּ֨אמֶר֙",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "יְהֹ֩וֹשָׁ֨פָ֔ט",
+      "surface": "יהושפט",
       "gloss": "یہوشافاتءَ"
     },
     {
-      "surface": "הַאֵ֨ין",
+      "surface": "האין",
       "gloss": "کیا ہچ … نیست"
     },
     {
-      "surface": "פֹּ֥ה",
+      "surface": "פה",
       "gloss": "ایت"
     },
     {
-      "surface": "נָבִ֛יא",
+      "surface": "נביא",
       "gloss": "پیغمبر"
     },
     {
-      "surface": "לַיהוָ֖ה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءِ پہ"
     },
     {
-      "surface": "ע֑וֹד",
+      "surface": "עוד",
       "gloss": "رندگے"
     },
     {
-      "surface": "וְנִדְרְשָׁ֖ה",
+      "surface": "ונדרשה",
       "gloss": "ءُ پُچیں"
     },
     {
-      "surface": "מֵאֹתֽוֹ",
+      "surface": "מאתו",
       "gloss": "چہ ⟨את⟩ آییءَ",
       "marks": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:38:14.187835946Z",
-  "model": "glm-5.3"
+  ]
 }

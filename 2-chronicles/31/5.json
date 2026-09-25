@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "2-chronicles 31:5",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:52:12.302010562Z",
+  "verse": 5,
+  "ref": "2-chronicles 31:5",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "ءُ چوش کہ اے گال پھیل بوت، اسرائیلءِ زہگان گیش کتنت دگانی اولی پھل، ترش، ءُ روغن، ءُ شہد، ءُ ہمگ ڈگریں کشتءِ پھلانی، ءُ ہمگ چیزانی دہ یکم گوں گیشی آورگ کتنت.",
   "tokens": [
     {
-      "surface": "וְכִפְרֹ֣ץ",
+      "surface": "וכפרץ",
       "gloss": "ءُ چوش کہ پھیل بوت"
     },
     {
-      "surface": "הַדָּבָ֗ר",
+      "surface": "הדבר",
       "gloss": "اے گال"
     },
     {
-      "surface": "הִרְבּ֤וּ",
+      "surface": "הרבו",
       "gloss": "گیش کتنت"
     },
     {
-      "surface": "בְנֵֽי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "רֵאשִׁ֣ית",
+      "surface": "ראשית",
       "gloss": "اولی پھل"
     },
     {
-      "surface": "דָּגָ֗ן",
+      "surface": "דגן",
       "gloss": "دگن"
     },
     {
-      "surface": "תִּיר֤וֹשׁ",
+      "surface": "תירוש",
       "gloss": "ترش"
     },
     {
-      "surface": "וְיִצְהָר֙",
+      "surface": "ויצהר",
       "gloss": "ءُ روغن"
     },
     {
-      "surface": "וּדְבַ֔שׁ",
+      "surface": "ודבש",
       "gloss": "ءُ شہد"
     },
     {
-      "surface": "וְכֹ֖ל",
+      "surface": "וכל",
       "gloss": "ءُ ہمگ"
     },
     {
-      "surface": "תְּבוּאַ֣ת",
+      "surface": "תבואת",
       "gloss": "پھل"
     },
     {
-      "surface": "שָׂדֶ֑ה",
+      "surface": "שדה",
       "gloss": "ڈگر"
     },
     {
-      "surface": "וּמַעְשַׂ֥ר",
+      "surface": "ומעשר",
       "gloss": "ءُ دہ یکم"
     },
     {
-      "surface": "הַכֹּ֛ל",
+      "surface": "הכל",
       "gloss": "ہمگ چیزانی"
     },
     {
-      "surface": "לָרֹ֖ב",
+      "surface": "לרב",
       "gloss": "گوں گیشی"
     },
     {
-      "surface": "הֵבִֽיאוּ",
+      "surface": "הביאו",
       "gloss": "آورگ کتنت"
     }
-  ],
-  "timestamp": "2026-09-25T13:52:12.302010562Z",
-  "model": "glm-5.3"
+  ]
 }

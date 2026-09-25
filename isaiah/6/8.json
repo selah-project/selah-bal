@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "isaiah 6:8",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:34:27.964469429Z",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ من ادونایءِ آوازءَ گوشیت کہ گوَشت: ⟨את⟩ کِیءَ من بیرت کنم، ءُ کِی پہ ما روت؟ ءُ من گوَشت: اے من شئے، من ءَ بیرت کن.",
   "tokens": [
     {
-      "surface": "וָאֶשְׁמַ֞ע",
+      "surface": "ואשמע",
       "gloss": "ءُ من گوشیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آواز"
     },
     {
-      "surface": "קוֹל",
+      "surface": "קול",
       "gloss": "آواز"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "ادونایءِ"
     },
     {
-      "surface": "אֹמֵר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کِیءَ"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کِیءَ"
     },
     {
-      "surface": "אֶשְׁלַח",
+      "surface": "אשלח",
       "gloss": "من بیرت کنم"
     },
     {
-      "surface": "וּמִי",
+      "surface": "ומי",
       "gloss": "ءُ کِی"
     },
     {
-      "surface": "יֵלֵךְ",
+      "surface": "ילך",
       "gloss": "روت"
     },
     {
-      "surface": "לָנוּ",
+      "surface": "לנו",
       "gloss": "پہ ما"
     },
     {
-      "surface": "וָאֹמַר",
+      "surface": "ואמר",
       "gloss": "ءُ من گوَشت"
     },
     {
-      "surface": "הִנְנִי",
+      "surface": "הנני",
       "gloss": "اے من شئے"
     },
     {
-      "surface": "שְׁלָחֵנִי",
+      "surface": "שלחני",
       "gloss": "من ءَ بیرت کن"
     }
-  ],
-  "timestamp": "2026-09-25T17:34:27.964469429Z",
-  "model": "glm-5.3"
+  ]
 }

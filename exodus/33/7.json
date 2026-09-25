@@ -1,118 +1,118 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "exodus 33:7",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:59:48.358090081Z",
+  "verse": 7,
+  "ref": "exodus 33:7",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ موشہ گادانی گرت ءُ ⟨את⟩ گادان پہ وت کھپیت، چہ ڈنگءِ باہر، دُوریءَ چہ ڈنگ؛ ءُ آءَ بانگ کت ملاقاتءِ گادان؛ ءُ آت کہ هر گشتوک کہ یاہوہءَ گشتانت، ملاقاتءِ گادانی تہ روت، کہ ڈنگءِ باہر اِنت۔",
   "tokens": [
     {
-      "surface": "וּמֹשֶׁה",
+      "surface": "ומשה",
       "gloss": "ءُ موشہ"
     },
     {
-      "surface": "יִקַּח",
+      "surface": "יקח",
       "gloss": "گرت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گادان"
     },
     {
-      "surface": "הָאֹהֶל",
+      "surface": "האהל",
       "gloss": "گادان"
     },
     {
-      "surface": "וְנָטָה",
+      "surface": "ונטה",
       "gloss": "ءُ کھپیت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "پہ وت"
     },
     {
-      "surface": "מִחוּץ",
+      "surface": "מחוץ",
       "gloss": "چہ باہر"
     },
     {
-      "surface": "לַמַּחֲנֶה",
+      "surface": "למחנה",
       "gloss": "چہ ڈنگءَ"
     },
     {
-      "surface": "הַרְחֵק",
+      "surface": "הרחק",
       "gloss": "دُوریءَ"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַמַּחֲנֶה",
+      "surface": "המחנה",
       "gloss": "ڈنگ"
     },
     {
-      "surface": "וְקָרָא",
+      "surface": "וקרא",
       "gloss": "ءُ بانگ کت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آءَ"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گادان"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וְהָיָה",
+      "surface": "והיה",
       "gloss": "ءُ آت کہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "هر"
     },
     {
-      "surface": "מְבַקֵּשׁ",
+      "surface": "מבקש",
       "gloss": "گشتوک"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "יֵצֵא",
+      "surface": "יצא",
       "gloss": "روت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گادانی"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "מִחוּץ",
+      "surface": "מחוץ",
       "gloss": "چہ باہر"
     },
     {
-      "surface": "לַמַּחֲנֶה",
+      "surface": "למחנה",
       "gloss": "چہ ڈنگءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:59:48.358090081Z",
-  "model": "glm-5.3"
+  ]
 }

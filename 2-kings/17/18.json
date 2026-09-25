@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "2-kings 17:18",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:06:12.685744004Z",
+  "verse": 18,
+  "ref": "2-kings 17:18",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "ءُ یاہوہ ئسرائیلءَ گوں موچ گسیت، ءُ ایشاںءَ چہ آییءِ رخءَ دور کت؛ هچکس پتا نکیت، رند یک یہوداہءِ ٹولی وتءَ اِنت.",
   "tokens": [
     {
-      "surface": "וַיִּתְאַנַּ֨ף",
+      "surface": "ויתאנף",
       "gloss": "گوں موچ گسیت"
     },
     {
-      "surface": "יְהוָ֤ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "מְאֹד֙",
+      "surface": "מאד",
       "gloss": "موچ"
     },
     {
-      "surface": "בְּיִשְׂרָאֵ֔ל",
+      "surface": "בישראל",
       "gloss": "ئسرائیلءَ"
     },
     {
-      "surface": "וַיְסִרֵ֖ם",
+      "surface": "ויסרם",
       "gloss": "ءُ ایشاںءَ دور کت"
     },
     {
-      "surface": "מֵעַ֣ל",
+      "surface": "מעל",
       "gloss": "چہ"
     },
     {
-      "surface": "פָּנָ֑יו",
+      "surface": "פניו",
       "gloss": "آییءِ رخءَ"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نکیت"
     },
     {
-      "surface": "נִשְׁאַ֔ר",
+      "surface": "נשאר",
       "gloss": "پتا"
     },
     {
-      "surface": "רַ֛ק",
+      "surface": "רק",
       "gloss": "رند یک"
     },
     {
-      "surface": "שֵׁ֥בֶט",
+      "surface": "שבט",
       "gloss": "ٹولی"
     },
     {
-      "surface": "יְהוּדָ֖ה",
+      "surface": "יהודה",
       "gloss": "یہوداہءِ"
     },
     {
-      "surface": "לְבַדּֽוֹ",
+      "surface": "לבדו",
       "gloss": "وتءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:06:12.685744004Z",
-  "model": "glm-5.3"
+  ]
 }

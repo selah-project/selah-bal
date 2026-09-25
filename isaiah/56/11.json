@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "isaiah 56:11",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:34:20.382638136Z",
+  "verse": 11,
+  "ref": "isaiah 56:11",
+  "tier": "glm-5.2",
   "chapter": 56,
   "translation": "ءُ کتاں جانءِ سخت اِنت، اِشاں شیکنی نہ زاننت؛ ءُ آ گڈڑ اِنت کہ ہوش نہ زاننت؛ ہمگ وتءِ راہءَ روتت، هر کس وتءِ گنجءَ، چہ وتءِ کنجءَ.",
   "tokens": [
     {
-      "surface": "וְהַכְּלָבִ֣ים",
+      "surface": "והכלבים",
       "gloss": "ءُ کتاں"
     },
     {
-      "surface": "עַזֵּי",
+      "surface": "עזי",
       "gloss": "سخت"
     },
     {
-      "surface": "נֶ֗פֶשׁ",
+      "surface": "נפש",
       "gloss": "جان"
     },
     {
-      "surface": "לֹ֤א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָֽדְעוּ֙",
+      "surface": "ידעו",
       "gloss": "زاننت"
     },
     {
-      "surface": "שָׂבְעָ֔ה",
+      "surface": "שבעה",
       "gloss": "شیکنی"
     },
     {
-      "surface": "וְהֵ֣מָּה",
+      "surface": "והמה",
       "gloss": "ءُ آ"
     },
     {
-      "surface": "רֹעִ֔ים",
+      "surface": "רעים",
       "gloss": "گڈڑ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָדְע֖וּ",
+      "surface": "ידעו",
       "gloss": "زاننت"
     },
     {
-      "surface": "הָבִ֑ין",
+      "surface": "הבין",
       "gloss": "ہوش"
     },
     {
-      "surface": "כֻּלָּם֙",
+      "surface": "כלם",
       "gloss": "ہمگ"
     },
     {
-      "surface": "לְדַרְכָּ֣ם",
+      "surface": "לדרכם",
       "gloss": "وتءِ راہءَ"
     },
     {
-      "surface": "פָּנ֔וּ",
+      "surface": "פנו",
       "gloss": "روتت"
     },
     {
-      "surface": "אִ֥ישׁ",
+      "surface": "איש",
       "gloss": "هر کس"
     },
     {
-      "surface": "לְבִצְע֖וֹ",
+      "surface": "לבצעו",
       "gloss": "وتءِ گنجءَ"
     },
     {
-      "surface": "מִקָּצֵֽהוּ",
+      "surface": "מקצהו",
       "gloss": "چہ وتءِ کنجءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:34:20.382638136Z",
-  "model": "glm-5.3"
+  ]
 }

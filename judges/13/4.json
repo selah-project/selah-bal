@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "judges 13:4",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:59:02.768366174Z",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ اِشتی اے زن ہوشیار بی، شراب ءُ ماستیءِ ماستی نوش مکن، ءُ ہچ پلوت چیزی مہ کھا۔",
   "tokens": [
     {
-      "surface": "וְעַתָּה",
+      "surface": "ועתה",
       "gloss": "ءُ اِشتی"
     },
     {
-      "surface": "הִשָּׁמְרִי",
+      "surface": "השמרי",
       "gloss": "ہوشیار بی"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
       "gloss": "اے زن"
     },
     {
-      "surface": "וְאַל",
+      "surface": "ואל",
       "gloss": "مہ"
     },
     {
-      "surface": "תִּשְׁתִּי",
+      "surface": "תשתי",
       "gloss": "نوش مکن"
     },
     {
-      "surface": "יַיִן",
+      "surface": "יין",
       "gloss": "شراب"
     },
     {
-      "surface": "וְשֵׁכָר",
+      "surface": "ושכר",
       "gloss": "ءُ ماستی"
     },
     {
-      "surface": "וְאַל",
+      "surface": "ואל",
       "gloss": "مہ"
     },
     {
-      "surface": "תֹּאכְלִי",
+      "surface": "תאכלי",
       "gloss": "کھا"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہچ چیزی"
     },
     {
-      "surface": "טָמֵא",
+      "surface": "טמא",
       "gloss": "پلوت"
     }
-  ],
-  "timestamp": "2026-09-25T18:59:02.768366174Z",
-  "model": "glm-5.3"
+  ]
 }

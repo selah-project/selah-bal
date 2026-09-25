@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "jeremiah 15:6",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:44:35.997612579Z",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "تو یکے ⟨את⟩ یاہوہءَ ترک کتگ ئے، یاہوہءِ فرمائش اِنت؛ تو پسءَ روت؛ ءُ من ⟨את⟩ وتءِ دست تیءِ سرءَ کشت ءُ تیءَ برباد کتگ؛ من پشیمانیءَ چہ شم بوت آں۔",
   "tokens": [
     {
-      "surface": "אַ֣תְּ",
+      "surface": "את",
       "gloss": "تو"
     },
     {
-      "surface": "נָטַ֥שְׁתְּ",
+      "surface": "נטשת",
       "gloss": "ترک کتگ ئے"
     },
     {
-      "surface": "אֹתִ֛י",
+      "surface": "אתי",
       "gloss": "⟨את⟩ مانا",
       "marks": "یاہوہءَ ترک کتگ"
     },
     {
-      "surface": "נְאֻ֖ם",
+      "surface": "נאם",
       "gloss": "فرمائش"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אָח֣וֹר",
+      "surface": "אחור",
       "gloss": "پس"
     },
     {
-      "surface": "תֵּלֵ֑כִי",
+      "surface": "תלכי",
       "gloss": "روت ئے"
     },
     {
-      "surface": "וָאַ֨ט",
+      "surface": "ואט",
       "gloss": "ءُ کشت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتءِ دست"
     },
     {
-      "surface": "יָדִ֤י",
+      "surface": "ידי",
       "gloss": "وتءِ دست"
     },
     {
-      "surface": "עָלַ֨יִךְ֙",
+      "surface": "עליך",
       "gloss": "تیءِ سرءَ"
     },
     {
-      "surface": "וָאַשְׁחִיתֵ֔ךְ",
+      "surface": "ואשחיתך",
       "gloss": "ءُ تیءَ برباد کتگ"
     },
     {
-      "surface": "נִלְאֵ֖יתִי",
+      "surface": "נלאיתי",
       "gloss": "من چہ شم بوت آں"
     },
     {
-      "surface": "הִנָּחֵֽם",
+      "surface": "הנחם",
       "gloss": "پشیمانیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:44:35.997612579Z",
-  "model": "glm-5.3"
+  ]
 }

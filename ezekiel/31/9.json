@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "ezekiel 31:9",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:20:21.146989132Z",
+  "verse": 9,
+  "ref": "ezekiel 31:9",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "منں آییءَ وتی شئیں آییءِ دلیوتانی گیشتریءَ جوڑ کت، ءُ عیدنءِ ہمگ داراں کہ ایلوہیمءِ باغءَ ہست اِنت، آییءَ ہسد کت۔",
   "tokens": [
     {
-      "surface": "יָפֶ֣ה",
+      "surface": "יפה",
       "gloss": "شئیں"
     },
     {
-      "surface": "עֲשִׂיתִ֔יו",
+      "surface": "עשיתיו",
       "gloss": "منں آییءَ جوڑ کت"
     },
     {
-      "surface": "בְּרֹ֖ב",
+      "surface": "ברב",
       "gloss": "گیشتریءَ"
     },
     {
-      "surface": "דָּלִיּוֹתָ֑יו",
+      "surface": "דליותיו",
       "gloss": "آییءِ دلیوتانی"
     },
     {
-      "surface": "וַיְקַנְאֻ֨הוּ֙",
+      "surface": "ויקנאהו",
       "gloss": "ءُ آییءَ ہسد کت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "עֲצֵֽי",
+      "surface": "עצי",
       "gloss": "داراں"
     },
     {
-      "surface": "עֵ֔דֶן",
+      "surface": "עדן",
       "gloss": "عیدنءِ"
     },
     {
-      "surface": "אֲשֶׁ֖ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בְּגַ֥ן",
+      "surface": "בגן",
       "gloss": "باغءَ"
     },
     {
-      "surface": "הָאֱלֹהִֽים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T16:20:21.146989132Z",
-  "model": "glm-5.3"
+  ]
 }

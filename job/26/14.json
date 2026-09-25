@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "job 26:14",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:27:09.011312172Z",
+  "verse": 14,
+  "ref": "job 26:14",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "دیک، اے آ ییءِ رہءِ کونتان اِنت؛ ءُ چقدر یک زریں گپ چہ آییءَ گوش بیت ءُ آ ییءِ زورءِ غر چوںک وتی گنڈیت؟",
   "tokens": [
     {
-      "surface": "הֵן",
+      "surface": "הן",
       "gloss": "دیک"
     },
     {
-      "surface": "אֵלֶּה",
+      "surface": "אלה",
       "gloss": "اے"
     },
     {
-      "surface": "קְצָוֹת",
+      "surface": "קצות",
       "gloss": "کونتان"
     },
     {
-      "surface": "דְּרָכָיו",
+      "surface": "דרכו",
       "gloss": "آیءِ رہ"
     },
     {
-      "surface": "וּמַה",
+      "surface": "ומה",
       "gloss": "ءُ چقدر"
     },
     {
-      "surface": "שֵׁמֶץ",
+      "surface": "שמץ",
       "gloss": "زریں گپ"
     },
     {
-      "surface": "דָּבָר",
+      "surface": "דבר",
       "gloss": "گپ"
     },
     {
-      "surface": "נִשְׁמַע",
+      "surface": "נשמע",
       "gloss": "گوش بیت"
     },
     {
-      "surface": "בּוֹ",
+      "surface": "בו",
       "gloss": "چہ آییءَ"
     },
     {
-      "surface": "וְרַעַם",
+      "surface": "ורעם",
       "gloss": "ءُ آیءِ غر"
     },
     {
-      "surface": "גְּבוּרָתוֹ",
+      "surface": "גבורתו",
       "gloss": "زور"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "چوںک"
     },
     {
-      "surface": "יִתְבּוֹנָן",
+      "surface": "יתבונן",
       "gloss": "وتی گنڈیت"
     }
-  ],
-  "timestamp": "2026-09-25T18:27:09.011312172Z",
-  "model": "glm-5.3"
+  ]
 }

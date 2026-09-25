@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "isaiah 47:5",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:25:15.464036972Z",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "tier": "glm-5.2",
   "chapter": 47,
   "translation": "بنش ہمزانی، ءُ رو تہاریءَ تہ، اے کسدیانی جنک، پرچا کہ گیشتر نہ بانگ کننت توءَ ملکانی خاتون۔",
   "tokens": [
     {
-      "surface": "שְׁבִ֥י",
+      "surface": "שבי",
       "gloss": "بنش"
     },
     {
-      "surface": "דוּמָ֛ם",
+      "surface": "דומם",
       "gloss": "ہمزانی"
     },
     {
-      "surface": "וּבֹ֥אִי",
+      "surface": "ובאי",
       "gloss": "ءُ رو"
     },
     {
-      "surface": "בַחֹ֖שֶׁךְ",
+      "surface": "בחשך",
       "gloss": "تہاریءَ تہ"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنک"
     },
     {
-      "surface": "כַּשְׂדִּ֑ים",
+      "surface": "כשדים",
       "gloss": "کسدیانی"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "לֹ֤א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תוֹסִ֨יפִי֙",
+      "surface": "תוסיפי",
       "gloss": "گیشتر"
     },
     {
-      "surface": "יִקְרְאוּ",
+      "surface": "יקראו",
       "gloss": "بانگ کننت"
     },
     {
-      "surface": "לָ֔ךְ",
+      "surface": "לך",
       "gloss": "توءَ"
     },
     {
-      "surface": "גְּבֶ֖רֶת",
+      "surface": "גברת",
       "gloss": "خاتون"
     },
     {
-      "surface": "מַמְלָכֽוֹת",
+      "surface": "ממלכות",
       "gloss": "ملکانی"
     }
-  ],
-  "timestamp": "2026-09-25T17:25:15.464036972Z",
-  "model": "glm-5.3"
+  ]
 }

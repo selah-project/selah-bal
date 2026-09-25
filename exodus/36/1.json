@@ -1,110 +1,110 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "exodus 36:1",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:59:58.018019392Z",
+  "verse": 1,
+  "ref": "exodus 36:1",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "ءُ کار کنت بیتسالءیل ءُ اہولیاب ءُ ہر چوشک دلءِ مردم کہ یاہوہءَ آییءَ دانائی ءُ سمجش داتگ کہ بدانت چون ⟨את⟩ ہر کارءِ خدمتءِ مقدس بکنت، پہ ہر چی کہ یاہوہءَ فرمان کتگ.",
   "tokens": [
     {
-      "surface": "וְעָשָׂה",
+      "surface": "ועשה",
       "gloss": "ءُ کار کنت"
     },
     {
-      "surface": "בְצַלְאֵל",
+      "surface": "בצלאל",
       "gloss": "بیتسالءیل"
     },
     {
-      "surface": "וְאָהֳלִיאָב",
+      "surface": "ואהליאב",
       "gloss": "ءُ اہولیاب"
     },
     {
-      "surface": "וְכֹל",
+      "surface": "וכל",
       "gloss": "ءُ ہر"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "مردم"
     },
     {
-      "surface": "חֲכַם",
+      "surface": "חכם",
       "gloss": "چوشک"
     },
     {
-      "surface": "לֵב",
+      "surface": "לב",
       "gloss": "دل"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נָתַן",
+      "surface": "נתן",
       "gloss": "داتگ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "חָכְמָה",
+      "surface": "חכמה",
       "gloss": "دانائی"
     },
     {
-      "surface": "וּתְבוּנָה",
+      "surface": "ותבונה",
       "gloss": "ءُ سمجش"
     },
     {
-      "surface": "בָּהֵמָּה",
+      "surface": "בהמה",
       "gloss": "آییءَ"
     },
     {
-      "surface": "לָדַעַת",
+      "surface": "לדעת",
       "gloss": "کہ بدانت"
     },
     {
-      "surface": "לַעֲשֹׂת",
+      "surface": "לעשת",
       "gloss": "چون بکنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہر کارءِ خدمتءِ مقدس"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "מְלֶאכֶת",
+      "surface": "מלאכת",
       "gloss": "کار"
     },
     {
-      "surface": "עֲבֹדַת",
+      "surface": "עבדת",
       "gloss": "خدمتءِ"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "مقدسءِ"
     },
     {
-      "surface": "לְכֹל",
+      "surface": "לכל",
       "gloss": "پہ ہر"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "چی کہ"
     },
     {
-      "surface": "צִוָּה",
+      "surface": "צוה",
       "gloss": "فرمان کتگ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T15:59:58.018019392Z",
-  "model": "glm-5.3"
+  ]
 }

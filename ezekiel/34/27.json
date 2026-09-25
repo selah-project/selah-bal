@@ -1,111 +1,111 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "ezekiel 34:27",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:22:56.654623600Z",
+  "verse": 27,
+  "ref": "ezekiel 34:27",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "ءُ درختءِ چمن ⟨את⟩ وتی مۏہ دیت، ءُ زمین وتی حاصل دیت، ءُ ایشان تہ وتی زمینءَ بے ڈر بنت، ءُ ایشانءَ زانت کہ من یاہوہ اَم، پہ منیءِ جوڑگر ⟨את⟩ زنگانی جوءُ، ءُ من ایشانءَ چہ دست کار مانوکانی کہ ایشانءَ کار مانیت رہائی دیت.",
   "tokens": [
     {
-      "surface": "וְנָתַן֩",
+      "surface": "ונתן",
       "gloss": "ءُ دیت"
     },
     {
-      "surface": "עֵ֨ץ",
+      "surface": "עץ",
       "gloss": "درختءِ چمن"
     },
     {
-      "surface": "הַשָּׂדֶ֜ה",
+      "surface": "השדה",
       "gloss": "درختءِ چمن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی مۏہ"
     },
     {
-      "surface": "פִּרְי֗וֹ",
+      "surface": "פריו",
       "gloss": "وتی مۏہ"
     },
     {
-      "surface": "וְהָאָ֨רֶץ֙",
+      "surface": "והארץ",
       "gloss": "ءُ زمین"
     },
     {
-      "surface": "תִּתֵּ֣ן",
+      "surface": "תתן",
       "gloss": "دیت"
     },
     {
-      "surface": "יְבוּלָ֔הּ",
+      "surface": "יבולה",
       "gloss": "وتی حاصل"
     },
     {
-      "surface": "וְהָ֥יוּ",
+      "surface": "והיו",
       "gloss": "ءُ بنت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "אַדְמָתָ֖ם",
+      "surface": "אדמתם",
       "gloss": "وتی زمینءَ"
     },
     {
-      "surface": "לָבֶ֑טַח",
+      "surface": "לבטח",
       "gloss": "بے ڈر"
     },
     {
-      "surface": "וְֽיָדְע֞וּ",
+      "surface": "וידעו",
       "gloss": "ءُ ایشانءَ زانت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "אֲנִ֣י",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "יְהוָ֗ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "בְּשִׁבְרִי֙",
+      "surface": "בשברי",
       "gloss": "پہ منیءِ جوڑگر"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زنگانی جوءُ"
     },
     {
-      "surface": "מֹט֣וֹת",
+      "surface": "מטות",
       "gloss": "زنگانی"
     },
     {
-      "surface": "עֻלָּ֔ם",
+      "surface": "עלם",
       "gloss": "جوءُ"
     },
     {
-      "surface": "וְהִ֨צַּלְתִּ֔ים",
+      "surface": "והצלתים",
       "gloss": "ءُ من ایشانءَ رہائی دیت"
     },
     {
-      "surface": "מִיַּ֖ד",
+      "surface": "מיד",
       "gloss": "چہ دست"
     },
     {
-      "surface": "הָעֹבְדִ֥ים",
+      "surface": "העבדים",
       "gloss": "کار مانوکانی"
     },
     {
-      "surface": "בָּֽהֶם",
+      "surface": "בהם",
       "gloss": "ایشانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:22:56.654623600Z",
-  "model": "glm-5.3"
+  ]
 }

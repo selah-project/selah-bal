@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "jeremiah 8:9",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:19:29.076919090Z",
+  "verse": 9,
+  "ref": "jeremiah 8:9",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "دانشمند شرمسار بوتنت، شکت ءُ گیر کپتنت — اے کہ یاہوہءِ گالءَ رد کت؛ ءُ چے دانشوت اِشانی ⟨پہ⟩ اِنت؟",
   "tokens": [
     {
-      "surface": "הֹבִ֣ישׁוּ",
+      "surface": "הבישו",
       "gloss": "شرمسار بوتنت"
     },
     {
-      "surface": "חֲכָמִ֔ים",
+      "surface": "חכמים",
       "gloss": "دانشمند"
     },
     {
-      "surface": "חַ֖תּוּ",
+      "surface": "חתו",
       "gloss": "شکت"
     },
     {
-      "surface": "וַיִּלָּכֵ֑דוּ",
+      "surface": "וילכדו",
       "gloss": "ءُ گیر کپتنت"
     },
     {
-      "surface": "הִנֵּ֤ה",
+      "surface": "הנה",
       "gloss": "اے کہ"
     },
     {
-      "surface": "בִדְבַר",
+      "surface": "בדבר",
       "gloss": "ءِ گالءَ"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "מָאָ֔סוּ",
+      "surface": "מאסו",
       "gloss": "رد کت"
     },
     {
-      "surface": "וְחָכְמַ֣ת",
+      "surface": "וחכמת",
       "gloss": "ءُ دانشوت"
     },
     {
-      "surface": "מֶ֖ה",
+      "surface": "מה",
       "gloss": "چے"
     },
     {
-      "surface": "לָהֶֽם",
+      "surface": "להם",
       "gloss": "اِشانی پہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:19:29.076919090Z",
-  "model": "glm-5.3"
+  ]
 }

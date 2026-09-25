@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "psalms 79:4",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:17:11.395602798Z",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "tier": "glm-5.2",
   "chapter": 79,
   "translation": "ماں یک رسوایی آیوکانیں گوں مدد کت، ءُ دستمزی ءُ مذاق آیانی گوں گوَنڈ ءَ مدد کت",
   "tokens": [
     {
-      "surface": "הָיִינוּ",
+      "surface": "היינו",
       "gloss": "ماں … مدد کت"
     },
     {
-      "surface": "חֶרְפָּה",
+      "surface": "חרפה",
       "gloss": "یک رسوایی"
     },
     {
-      "surface": "לִשְׁכֵנֵינוּ",
+      "surface": "לשכנינו",
       "gloss": "آیوکانیں گوں"
     },
     {
-      "surface": "לַעַג",
+      "surface": "לעג",
       "gloss": "دستمزی"
     },
     {
-      "surface": "וָקֶלֶס",
+      "surface": "וקלס",
       "gloss": "ءُ مذاق"
     },
     {
-      "surface": "לִסְבִיבוֹתֵינוּ",
+      "surface": "לסביבותינו",
       "gloss": "آیانی گوں گوَنڈ ءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:17:11.395602798Z",
-  "model": "glm-5.3"
+  ]
 }

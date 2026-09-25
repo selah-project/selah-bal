@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "psalms 119:11",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:26:22.179999733Z",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "دلمءَ مَں توءِ گال پوشیچتگمءَ، پہ اے کارءَ کہ توءَ نہ اَنگت کُنم۔",
   "tokens": [
     {
-      "surface": "בְּלִבִּי",
+      "surface": "בלבי",
       "gloss": "دلمءَ مَں"
     },
     {
-      "surface": "צָפַנְתִּי",
+      "surface": "צפנתי",
       "gloss": "پوشیچتگمءَ"
     },
     {
-      "surface": "אִמְרָתֶךָ",
+      "surface": "אמרתך",
       "gloss": "توءِ گال"
     },
     {
-      "surface": "לְמַעַן",
+      "surface": "למען",
       "gloss": "پہ اے کارءَ کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אֶחֱטָא",
+      "surface": "אחטא",
       "gloss": "اَنگت کُنم"
     },
     {
-      "surface": "לָךְ",
+      "surface": "לך",
       "gloss": "توءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:26:22.179999733Z",
-  "model": "glm-5.3"
+  ]
 }

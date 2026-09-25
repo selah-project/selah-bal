@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "isaiah 8:17",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:38:40.477285012Z",
+  "verse": 17,
+  "ref": "isaiah 8:17",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ من یاہوہءِ چشیت، آ کہ آییءِ چہرہ چہ یعقُوبءِ گدءَ پوشیت، ءُ من آییءِ اُمید وارت۔",
   "tokens": [
     {
-      "surface": "וְחִכִּיתִי",
+      "surface": "וחכיתי",
       "gloss": "ءُ من چشیت"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءِ پہ"
     },
     {
-      "surface": "הַמַּסְתִּיר",
+      "surface": "המסתיר",
       "gloss": "آ کہ پوشیت"
     },
     {
-      "surface": "פָּנָיו",
+      "surface": "פניו",
       "gloss": "آییءِ چہرہ"
     },
     {
-      "surface": "מִבֵּית",
+      "surface": "מבית",
       "gloss": "چہ گدءَ"
     },
     {
-      "surface": "יַעֲקֹב",
+      "surface": "יעקב",
       "gloss": "یعقُوب"
     },
     {
-      "surface": "וְקִוֵּיתִֽי",
+      "surface": "וקויתי",
       "gloss": "ءُ من اُمید وارت"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "آییءِ پہ"
     }
-  ],
-  "timestamp": "2026-09-25T17:38:40.477285012Z",
-  "model": "glm-5.3"
+  ]
 }

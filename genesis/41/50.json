@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
-  "ref": "genesis 41:50",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:56:28.827470664Z",
+  "verse": 50,
+  "ref": "genesis 41:50",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "ءُ یوسفءَ دو زہگان جنیتگ پدا کہ کالءِ رنٹءِ سال آئیت، آ کہ آسنات، پوتی فیراءِ جنک، اونءِ کاہنءِ، آییءَ پہ جنیتگ۔",
   "tokens": [
     {
-      "surface": "וּלְיוֹסֵף",
+      "surface": "וליוסף",
       "gloss": "ءُ یوسفءَ"
     },
     {
-      "surface": "יֻלַּד",
+      "surface": "ילד",
       "gloss": "جنیتگ بوت"
     },
     {
-      "surface": "שְׁנֵי",
+      "surface": "שני",
       "gloss": "دو"
     },
     {
-      "surface": "בָנִים",
+      "surface": "בנים",
       "gloss": "زہگان"
     },
     {
-      "surface": "בְּטֶרֶם",
+      "surface": "בטרם",
       "gloss": "پدا کہ"
     },
     {
-      "surface": "תָבוֹא",
+      "surface": "תבוא",
       "gloss": "آئیت"
     },
     {
-      "surface": "שְׁנַת",
+      "surface": "שנת",
       "gloss": "سال"
     },
     {
-      "surface": "הָרָעָב",
+      "surface": "הרעב",
       "gloss": "رنٹءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יָלְדָה",
+      "surface": "ילדה",
       "gloss": "جنیتگ"
     },
     {
-      "surface": "לּוֹ",
+      "surface": "לו",
       "gloss": "آییءَ پہ"
     },
     {
-      "surface": "אָסְנַת",
+      "surface": "אסנת",
       "gloss": "آسنات"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنک"
     },
     {
-      "surface": "פּוֹטִי",
+      "surface": "פוטי",
       "gloss": "پوتی"
     },
     {
-      "surface": "פֶרַע",
+      "surface": "פרע",
       "gloss": "فیراءِ"
     },
     {
-      "surface": "כֹהֵן",
+      "surface": "כהן",
       "gloss": "کاہنءِ"
     },
     {
-      "surface": "אוֹן",
+      "surface": "און",
       "gloss": "اونءِ"
     }
-  ],
-  "timestamp": "2026-09-25T16:56:28.827470664Z",
-  "model": "glm-5.3"
+  ]
 }

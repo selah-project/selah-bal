@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "deuteronomy 10:18",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:03:50.398788894Z",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "راستیءِ فیصلہ یتیمءِ ءُ بی‌شوہ جنکءِ پہ کنیت، ءُ مسافرءَ پیار کنیت، آییءَ نان ءُ جاپ داتگ بیت۔",
   "tokens": [
     {
-      "surface": "עֹשֶׂ֛ה",
+      "surface": "עשה",
       "gloss": "کنیت"
     },
     {
-      "surface": "מִשְׁפַּ֥ט",
+      "surface": "משפט",
       "gloss": "راستیءِ فیصلہ"
     },
     {
-      "surface": "יָת֖וֹם",
+      "surface": "יתום",
       "gloss": "یتیمءِ"
     },
     {
-      "surface": "וְאַלְמָנָ֑ה",
+      "surface": "ואלמנה",
       "gloss": "ءُ بی‌شوہ جنکءِ پہ"
     },
     {
-      "surface": "וְאֹהֵ֣ב",
+      "surface": "ואהב",
       "gloss": "ءُ پیار کنیت"
     },
     {
-      "surface": "גֵּ֔ר",
+      "surface": "גר",
       "gloss": "مسافرءَ"
     },
     {
-      "surface": "לָ֥תֶת",
+      "surface": "לתת",
       "gloss": "datگ بیت"
     },
     {
-      "surface": "ל֖וֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "לֶ֥חֶם",
+      "surface": "לחם",
       "gloss": "نان"
     },
     {
-      "surface": "וְשִׂמְלָֽה",
+      "surface": "ושמלה",
       "gloss": "ءُ جاپ"
     }
-  ],
-  "timestamp": "2026-09-25T15:03:50.398788894Z",
-  "model": "glm-5.3"
+  ]
 }

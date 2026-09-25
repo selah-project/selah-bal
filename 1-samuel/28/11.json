@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "1-samuel 28:11",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:28:22.975324290Z",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ زنک گوَشت: ⟨את⟩ کءَ تءَ پہ تیں اُوپڑ کنت؟ ءُ آئی گوَشت: شموئیلءَ مءَ اُوپڑ کن۔",
   "tokens": [
     {
-      "surface": "וַתֹּ֨אמֶר֙",
+      "surface": "ותאמר",
       "gloss": "ءُ زنک گوَشت"
     },
     {
-      "surface": "הָֽאִשָּׁ֔ה",
+      "surface": "האשה",
       "gloss": "زنک"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ک"
     },
     {
-      "surface": "מִ֖י",
+      "surface": "מי",
       "gloss": "ک"
     },
     {
-      "surface": "אַֽעֲלֶ֨ה",
+      "surface": "אעלה",
       "gloss": "اُوپڑ کنت"
     },
     {
-      "surface": "לְּךָ֥",
+      "surface": "לך",
       "gloss": "پہ تیں"
     },
     {
-      "surface": "וַיֹּ֥אמֶר",
+      "surface": "ויאמר",
       "gloss": "ءُ آئی گوَشت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شموئیل"
     },
     {
-      "surface": "שְׁמוּאֵ֖ל",
+      "surface": "שמואל",
       "gloss": "شموئیل"
     },
     {
-      "surface": "הַעֲלִי",
+      "surface": "העלי",
       "gloss": "اُوپڑ کن"
     },
     {
-      "surface": "לִּֽי",
+      "surface": "לי",
       "gloss": "مءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:28:22.975324290Z",
-  "model": "glm-5.3"
+  ]
 }

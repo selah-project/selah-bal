@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "job 14:4",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:21:54.058744824Z",
+  "verse": 4,
+  "ref": "job 14:4",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "کے پاکیں چہ ناپاںءَ دیت؟ یک ہم نہ.",
   "tokens": [
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יִתֵּ֣ן",
+      "surface": "יתן",
       "gloss": "دیت"
     },
     {
-      "surface": "טָ֭הוֹר",
+      "surface": "טהור",
       "gloss": "پاکیں"
     },
     {
-      "surface": "מִטָּמֵ֗א",
+      "surface": "מטמא",
       "gloss": "چہ ناپاںءَ"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אֶחָֽד",
+      "surface": "אחד",
       "gloss": "یک"
     }
-  ],
-  "timestamp": "2026-09-25T18:21:54.058744824Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "1-samuel 14:14",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:12:11.473651582Z",
+  "verse": 14,
+  "ref": "1-samuel 14:14",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ اولیں مار آ کہ یوناتان ءُ آییءِ سکاں ہمبر مار کت، چوش دہ مردان ءُت، چوش نیمگ کنڈ چہ زر چنگءِ کِشتءِ۔",
   "tokens": [
     {
-      "surface": "וַתְּהִי",
+      "surface": "ותהי",
       "gloss": "ءُ بوت"
     },
     {
-      "surface": "הַמַּכָּה",
+      "surface": "המכה",
       "gloss": "مار"
     },
     {
-      "surface": "הָרִאשֹׁנָה",
+      "surface": "הראשנה",
       "gloss": "اولیں"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "הִכָּה",
+      "surface": "הכה",
       "gloss": "مار کت"
     },
     {
-      "surface": "יוֹנָתָן",
+      "surface": "יונתן",
       "gloss": "یوناتان"
     },
     {
-      "surface": "וְנֹשֵׂא",
+      "surface": "ונשא",
       "gloss": "ءُ ہمبر"
     },
     {
-      "surface": "כֵּלָיו",
+      "surface": "כליו",
       "gloss": "آییءِ سکاں"
     },
     {
-      "surface": "כְּעֶשְׂרִים",
+      "surface": "כעשרים",
       "gloss": "چوش دہ"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "مردان"
     },
     {
-      "surface": "כְּבַחֲצִי",
+      "surface": "כבחצי",
       "gloss": "چوش نیمگ"
     },
     {
-      "surface": "מַעֲנָה",
+      "surface": "מענה",
       "gloss": "کنڈ"
     },
     {
-      "surface": "צֶמֶד",
+      "surface": "צמד",
       "gloss": "زر چنگءِ"
     },
     {
-      "surface": "שָׂדֶה",
+      "surface": "שדה",
       "gloss": "کِشت"
     }
-  ],
-  "timestamp": "2026-09-25T13:12:11.473651582Z",
-  "model": "glm-5.3"
+  ]
 }

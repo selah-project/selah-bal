@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "isaiah 16:3",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:12:36.905834908Z",
+  "verse": 3,
+  "ref": "isaiah 16:3",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "مشورت وانگ کیت، راستیءِ فیصلہ کیت؛ وتے سایہ شپءِ چوں گرمیءِ ماںچتی روچءَ پہ گڑیت؛ راندگاں پناهہ دیت، روتکءَ نہ افشا کیت۔",
   "tokens": [
@@ -16,54 +18,52 @@
       "gloss": "مشورت"
     },
     {
-      "surface": "עשׂוּ",
+      "surface": "עשו",
       "gloss": "راستیءِ فیصلہ کیت"
     },
     {
-      "surface": "פְלִילָה",
+      "surface": "פלילה",
       "gloss": "فیصلہ"
     },
     {
-      "surface": "שִׁיתִי",
+      "surface": "שיתי",
       "gloss": "پہ گڑیت"
     },
     {
-      "surface": "כַלַּיִל",
+      "surface": "כליל",
       "gloss": "شپءِ چوں"
     },
     {
-      "surface": "צִלֵּךְ",
+      "surface": "צלך",
       "gloss": "وتے سایہ"
     },
     {
-      "surface": "בְּתוֹךְ",
+      "surface": "בתוך",
       "gloss": "ماںچتی"
     },
     {
-      "surface": "צָהֳרָיִם",
+      "surface": "צהרים",
       "gloss": "روچءَ"
     },
     {
-      "surface": "סַתְּרִי",
+      "surface": "סתרי",
       "gloss": "پناهہ دیت"
     },
     {
-      "surface": "נִדָּחִים",
+      "surface": "נדחים",
       "gloss": "راندگاں"
     },
     {
-      "surface": "נֹדֵד",
+      "surface": "נדד",
       "gloss": "روتکءَ"
     },
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תְּגַלִּי",
+      "surface": "תגלי",
       "gloss": "افشا کیت"
     }
-  ],
-  "timestamp": "2026-09-25T17:12:36.905834908Z",
-  "model": "glm-5.3"
+  ]
 }

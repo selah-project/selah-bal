@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "jeremiah 10:17",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:40:28.086263254Z",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ترین گُۏنڈ چہ زمین ءَ کٹورت کن، اے جنک کہ تہ محاصرہ ءَ نشت ئے۔",
   "tokens": [
     {
-      "surface": "אִסְפִּי",
+      "surface": "אספי",
       "gloss": "کٹورت کن"
     },
     {
-      "surface": "מֵאֶרֶץ",
+      "surface": "מארץ",
       "gloss": "چہ زمین ءَ"
     },
     {
-      "surface": "כִּנְעָתֵךְ",
+      "surface": "כנעתך",
       "gloss": "ترین گُۏنڈ"
     },
     {
-      "surface": "יֹשֶׁבְתִּי",
+      "surface": "ישבתי",
       "gloss": "نشت ئے"
     },
     {
-      "surface": "בַּמָּצוֹר",
+      "surface": "במצור",
       "gloss": "تہ محاصرہ ءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:40:28.086263254Z",
-  "model": "glm-5.3"
+  ]
 }

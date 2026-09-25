@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "isaiah 33:5",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:20:11.475169847Z",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "برز اِنت یاہوہ، پرچا کہ آ بلندیءَ وتائیت؛ صہیونءَ راستی ءُ انصافءَ پُر کت۔",
   "tokens": [
     {
-      "surface": "נִשְׂגָּ֣ב",
+      "surface": "נשגב",
       "gloss": "برز اِنت"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "שׁוֹכֵ֖ן",
+      "surface": "שכן",
       "gloss": "وتائیت"
     },
     {
-      "surface": "מָר֑וֹם",
+      "surface": "מרום",
       "gloss": "بلندیءَ"
     },
     {
-      "surface": "מִלֵּ֣א",
+      "surface": "מלא",
       "gloss": "پُر کت"
     },
     {
-      "surface": "צִיּ֔וֹן",
+      "surface": "ציון",
       "gloss": "صہیونءَ"
     },
     {
-      "surface": "מִשְׁפָּ֖ט",
+      "surface": "משפט",
       "gloss": "راستی"
     },
     {
-      "surface": "וּצְדָקָֽה",
+      "surface": "וצדקה",
       "gloss": "ءُ انصاف"
     }
-  ],
-  "timestamp": "2026-09-25T17:20:11.475169847Z",
-  "model": "glm-5.3"
+  ]
 }

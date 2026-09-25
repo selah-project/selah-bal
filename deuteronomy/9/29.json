@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "deuteronomy 9:29",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:32:49.168662357Z",
+  "verse": 29,
+  "ref": "deuteronomy 9:29",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ اِشاں تیں قوم ءُ تیں میرس اَنت، آ کہ تو وتی زورءِ گوں، وتی گیشترئین زورءِ گوں، ءُ پھڈکیلگئین بازوءِ گوں در کت.",
   "tokens": [
@@ -40,10 +42,8 @@
       "gloss": "ءُ وتی بازوءِ گوں"
     },
     {
-      "surface": "הנטויוה",
+      "surface": "הנטויה",
       "gloss": "پھڈکیلگئین"
     }
-  ],
-  "timestamp": "2026-09-25T15:32:49.168662357Z",
-  "model": "glm-5.3"
+  ]
 }

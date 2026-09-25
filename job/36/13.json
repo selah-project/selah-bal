@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "job 36:13",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:29:39.123857833Z",
+  "verse": 13,
+  "ref": "job 36:13",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "ءُ دلءِ منافقیں ⟨اَپءِ⟩ دگمگی گنڈنت؛ آیان بانگ نہ کننت کہ ⟨آ⟩ آیانءَ بند کتگ اِنت۔",
   "tokens": [
     {
-      "surface": "וְֽחַנְפֵי",
+      "surface": "וחנפי",
       "gloss": "ءُ دلءِ منافقیں"
     },
     {
-      "surface": "לֵ֭ב",
+      "surface": "לב",
       "gloss": "دلءِ"
     },
     {
-      "surface": "יָשִׂ֣ימוּ",
+      "surface": "ישימו",
       "gloss": "گنڈنت"
     },
     {
-      "surface": "אָ֑ף",
+      "surface": "אף",
       "gloss": "دگمگی"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְ֝שַׁוְּע֗וּ",
+      "surface": "ישועו",
       "gloss": "بانگ کننت"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "אֲסָרָֽם",
+      "surface": "אסרם",
       "gloss": "⟨آ⟩ آیانءَ بند کتگ"
     }
-  ],
-  "timestamp": "2026-09-25T18:29:39.123857833Z",
-  "model": "glm-5.3"
+  ]
 }

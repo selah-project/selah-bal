@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "job 9:11",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:32:59.757979900Z",
+  "verse": 11,
+  "ref": "job 9:11",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "چوک آ ⟨اے⟩ ماءِ سرءَ گوزیت ءُ ما آییءَ نہ گندیں؛ ءُ آ گوزشتیت ءُ ما آییءَ نہ سنجیں۔",
   "tokens": [
     {
-      "surface": "הֵ֤ן",
+      "surface": "הן",
       "gloss": "چوک آ"
     },
     {
-      "surface": "יַעֲבֹ֣ר",
+      "surface": "יעבר",
       "gloss": "گوزیت"
     },
     {
-      "surface": "עָ֭לַי",
+      "surface": "עלי",
       "gloss": "ماءِ سرءَ"
     },
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "אֶרְאֶ֑ה",
+      "surface": "אראה",
       "gloss": "گندیں"
     },
     {
-      "surface": "וְ֝יַחֲלֹ֗ף",
+      "surface": "ויחלף",
       "gloss": "ءُ گوزشتیت"
     },
     {
-      "surface": "וְֽלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "אָבִ֥ין",
+      "surface": "אבין",
       "gloss": "سنجیں"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:32:59.757979900Z",
-  "model": "glm-5.3"
+  ]
 }

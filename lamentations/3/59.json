@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 59,
-  "ref": "lamentations 3:59",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:14:21.544130362Z",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "اے یاہوہ، تُو گندیں منیءِ زلمت؛ تُو منیءِ انصافءَ فرانگ کر۔",
   "tokens": [
@@ -12,22 +14,20 @@
       "gloss": "تُو گندیں"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "עַוָּתָתִי",
+      "surface": "עותתי",
       "gloss": "منیءِ زلمت"
     },
     {
-      "surface": "שָׁפְטָה",
+      "surface": "שפטה",
       "gloss": "تُو فرانگ کر"
     },
     {
-      "surface": "מִשְׁפָּטִי",
+      "surface": "משפטי",
       "gloss": "منیءِ انصافءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:14:21.544130362Z",
-  "model": "glm-5.3"
+  ]
 }

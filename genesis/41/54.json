@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 54,
-  "ref": "genesis 41:54",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:56:19.254900352Z",
+  "verse": 54,
+  "ref": "genesis 41:54",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "ءُ ہپت سالءِ قحطی شروع بیت کہ یوسف ⟨گوَشتگ⟩ اَت، ءُ چہ ہمگ ملتاں ءَ قحطی اِنت، پرچا کہ چہ ہمگ مِتسرایمءِ زمینءَ نان ہست اَت۔",
   "tokens": [
     {
-      "surface": "וַתְּחִלֶּינָה",
+      "surface": "ותחלינה",
       "gloss": "شروع بیت"
     },
     {
-      "surface": "שֶׁבַע",
+      "surface": "שבע",
       "gloss": "ہپت"
     },
     {
-      "surface": "שְׁנֵי",
+      "surface": "שני",
       "gloss": "سالءِ"
     },
     {
-      "surface": "הָרָעָב",
+      "surface": "הרעב",
       "gloss": "قحطی"
     },
     {
-      "surface": "לָבוֹא",
+      "surface": "לבוא",
       "gloss": "کہ روچ اِنت"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشتگ اَت"
     },
     {
-      "surface": "יוֹסֵף",
+      "surface": "יוסף",
       "gloss": "یوسف"
     },
     {
-      "surface": "וַיְהִי",
+      "surface": "ויהי",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "רָעָב",
+      "surface": "רעב",
       "gloss": "قحطی"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "چہ ہمگ"
     },
     {
-      "surface": "הָאֲרָצוֹת",
+      "surface": "הארצות",
       "gloss": "ملتاں ءَ"
     },
     {
-      "surface": "וּבְכָל",
+      "surface": "ובכל",
       "gloss": "ءُ چہ ہمگ"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     },
     {
-      "surface": "הָיָה",
+      "surface": "היה",
       "gloss": "ہست اَت"
     },
     {
-      "surface": "לֶחֶם",
+      "surface": "לחם",
       "gloss": "نان"
     }
-  ],
-  "timestamp": "2026-09-25T16:56:19.254900352Z",
-  "model": "glm-5.3"
+  ]
 }

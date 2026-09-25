@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "deuteronomy 19:2",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:13:36.807143944Z",
+  "verse": 2,
+  "ref": "deuteronomy 19:2",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "سئے شار تو پہ تئے جتا کن، تئے زمینءِ میانءَ کہ یاہوہ تئے ایلوہیم اِشاں تئے دیت آءَ پہ مل گرگءَ۔",
   "tokens": [
@@ -20,7 +22,7 @@
       "gloss": "جتا کن"
     },
     {
-      "surface": "لך",
+      "surface": "לך",
       "gloss": "پہ تئے"
     },
     {
@@ -55,7 +57,5 @@
       "surface": "לרשתה",
       "gloss": "آءَ پہ مل گرگءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:13:36.807143944Z",
-  "model": "glm-5.3"
+  ]
 }

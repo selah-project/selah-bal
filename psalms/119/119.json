@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 119,
-  "ref": "psalms 119:119",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:26:41.025508810Z",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "جوش — توں زمینءِ تمام رستگاناں گم کتنت؛ لہذا مے تیریں گواہیانءَ پیار کت.",
   "tokens": [
     {
-      "surface": "סִגִ֗ים",
+      "surface": "סגים",
       "gloss": "جوش"
     },
     {
-      "surface": "הִשְׁבַּ֥תָּ",
+      "surface": "השבת",
       "gloss": "توں گم کتنت"
     },
     {
-      "surface": "כָל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "רִשְׁעֵי",
+      "surface": "רשעי",
       "gloss": "رستگاناں"
     },
     {
-      "surface": "אָ֑רֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "לָ֝כֵ֗ן",
+      "surface": "לכן",
       "gloss": "لہذا"
     },
     {
-      "surface": "אָהַ֥בְתִּי",
+      "surface": "אהבתי",
       "gloss": "پیار کت"
     },
     {
-      "surface": "עֵדֹתֶֽיךָ",
+      "surface": "עדתיך",
       "gloss": "گواہیانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:26:41.025508810Z",
-  "model": "glm-5.3"
+  ]
 }

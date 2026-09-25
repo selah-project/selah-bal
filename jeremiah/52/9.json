@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "jeremiah 52:9",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:15:13.989599983Z",
+  "verse": 9,
+  "ref": "jeremiah 52:9",
+  "tier": "glm-5.2",
   "chapter": 52,
   "translation": "ءُ آیانءَ ⟨את⟩ پادشاہ پہ دست کت، ءُ ⟨את⟩ آییءَ اے پادشاہءِ بابلءَ بُرز کتنت، رِبلاتہءَ، تہ زمینءِ حماۃءَ؛ ءُ گوں آییءَ ⟨את⟩ فیصلے گوَشت۔",
   "tokens": [
     {
-      "surface": "וַֽיִּתְפְּשׂוּ",
+      "surface": "ויתפשו",
       "gloss": "ءُ پہ دست کتنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پادشاہ"
     },
     {
-      "surface": "הַמֶּ֔לֶךְ",
+      "surface": "המלך",
       "gloss": "پادشاہ"
     },
     {
-      "surface": "וַיַּעֲל֨וּ",
+      "surface": "ויעלו",
       "gloss": "ءُ بُرز کتنت"
     },
     {
-      "surface": "אֹת֜וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "اے پادشاہءِ بابل"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "اے"
     },
     {
-      "surface": "מֶ֧לֶךְ",
+      "surface": "מלך",
       "gloss": "پادشاہ"
     },
     {
-      "surface": "בָּבֶ֛ל",
+      "surface": "בבל",
       "gloss": "بابل"
     },
     {
-      "surface": "רִבְלָ֖תָה",
+      "surface": "רבלתה",
       "gloss": "رِبلاتہءَ"
     },
     {
-      "surface": "בְּאֶ֣רֶץ",
+      "surface": "בארץ",
       "gloss": "تہ زمینءِ"
     },
     {
-      "surface": "חֲמָ֑ת",
+      "surface": "חמת",
       "gloss": "حماۃ"
     },
     {
-      "surface": "וַיְדַבֵּ֥ר",
+      "surface": "וידבר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אִתּ֖וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ گوں آییءَ"
     },
     {
-      "surface": "מִשְׁפָּטִֽים",
+      "surface": "משפטים",
       "gloss": "فیصلے"
     }
-  ],
-  "timestamp": "2026-09-25T18:15:13.989599983Z",
-  "model": "glm-5.3"
+  ]
 }

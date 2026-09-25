@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "leviticus 26:28",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:26:56.129502452Z",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ من گوں تماں دشمنیءِ غضبءَ روت، ءُ من، ءُ گو من، تماںءَ ⟨את⟩ ہپت رند تمانی گناہانی پہ سزا دم",
   "tokens": [
     {
-      "surface": "וְהָלַכְתִּ֥י",
+      "surface": "והלכתי",
       "gloss": "ءُ من روت"
     },
     {
-      "surface": "עִמָּכֶ֖ם",
+      "surface": "עמכם",
       "gloss": "گوں تماں"
     },
     {
-      "surface": "בַּחֲמַת",
+      "surface": "בחמת",
       "gloss": "غضبءَ تہ"
     },
     {
-      "surface": "קֶ֫רִי",
+      "surface": "קרי",
       "gloss": "دشمنی"
     },
     {
-      "surface": "וְיִסַּרְתִּ֤י",
+      "surface": "ויסרתי",
       "gloss": "ءُ سزا دم"
     },
     {
-      "surface": "אֶתְכֶם֙",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ تماںءَ",
       "marks": "تماںءَ"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "ءُ گو"
     },
     {
-      "surface": "אָ֫נִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "שֶֽׁבַע",
+      "surface": "שבע",
       "gloss": "ہپت رند"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "חַטֹּאתֵיכֶ֖ם",
+      "surface": "חטאתיכם",
       "gloss": "تمانی گناہان"
     }
-  ],
-  "timestamp": "2026-09-25T19:26:56.129502452Z",
-  "model": "glm-5.3"
+  ]
 }

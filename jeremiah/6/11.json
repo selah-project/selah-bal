@@ -1,110 +1,110 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "jeremiah 6:11",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:18:38.394931832Z",
+  "verse": 11,
+  "ref": "jeremiah 6:11",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ ⟨את⟩ یاہوہءِ غضبءَ من پُر کتگ اِم؛ گوَن دارگءَ چہ تھکتگ اِم — آءَ زہگانی سرءَ ڈگارءِ پٹءَ پروش کن، ءُ جوانانی سودی سرءَ چوں یکتے؛ پرچا کہ مرد ءُ گوں زنک گیر بیت، بوڑوک گوں روچانی پُرءَ۔",
   "tokens": [
     {
-      "surface": "וְאֵת֩",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "یاہوہءِ غضب"
     },
     {
-      "surface": "חֲמַ֨ת",
+      "surface": "חמת",
       "gloss": "غضب"
     },
     {
-      "surface": "יְהוָ֤ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "מָלֵ֨אתִי֙",
+      "surface": "מלאתי",
       "gloss": "من پُر کتگ اِم"
     },
     {
-      "surface": "נִלְאֵ֣יתִי",
+      "surface": "נלאיתי",
       "gloss": "چہ تھکتگ اِم"
     },
     {
-      "surface": "הָכִ֔יל",
+      "surface": "הכיל",
       "gloss": "گوَن دارگءَ"
     },
     {
-      "surface": "שְׁפֹ֤ךְ",
+      "surface": "שפך",
       "gloss": "پروش کن"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "עוֹלָל",
+      "surface": "עולל",
       "gloss": "زہگانی"
     },
     {
-      "surface": "בַּחוּץ",
+      "surface": "בחוץ",
       "gloss": "ڈگارءِ پٹءَ"
     },
     {
-      "surface": "וְעַ֛ל",
+      "surface": "ועל",
       "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "ס֥וֹד",
+      "surface": "סוד",
       "gloss": "سود"
     },
     {
-      "surface": "בַּחוּרִ֖ים",
+      "surface": "בחורים",
       "gloss": "جوانانی"
     },
     {
-      "surface": "יַחְדָּ֑ו",
+      "surface": "יחדו",
       "gloss": "چوں یکتے"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "ءُ ءُ"
     },
     {
-      "surface": "אִ֥ישׁ",
+      "surface": "איש",
       "gloss": "مرد"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "אִשָּׁה֙",
+      "surface": "אשה",
       "gloss": "زنک"
     },
     {
-      "surface": "יִלָּכֵ֔דוּ",
+      "surface": "ילכדו",
       "gloss": "گیر بیت"
     },
     {
-      "surface": "זָקֵ֖ן",
+      "surface": "זקן",
       "gloss": "بوڑوک"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "מְלֵ֥א",
+      "surface": "מלא",
       "gloss": "پُر"
     },
     {
-      "surface": "יָמִֽים",
+      "surface": "ימים",
       "gloss": "روچانی"
     }
-  ],
-  "timestamp": "2026-09-25T18:18:38.394931832Z",
-  "model": "glm-5.3"
+  ]
 }

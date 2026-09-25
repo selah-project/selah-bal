@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "proverbs 6:3",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:20:54.860657077Z",
+  "verse": 3,
+  "ref": "proverbs 6:3",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "اے کار کن، اے میں ءُ میں ءُ زہگا، ءُ وتءَ نجات دہ، پرچا کہ تُو تُئے ہمدمءِ کفءَ آتگ ئے؛ روت، وتءَ بِرز، ءُ تُئے ہمدمانءَ اِلحاح کن.",
   "tokens": [
     {
-      "surface": "עֲשֵׂ֨ה",
+      "surface": "עשה",
       "gloss": "کن"
     },
     {
-      "surface": "זֹ֥את",
+      "surface": "זאת",
       "gloss": "اے کار"
     },
     {
-      "surface": "אֵפ֪וֹא",
+      "surface": "אפוא",
       "gloss": "اِسی وهدءَ"
     },
     {
-      "surface": "בְּנִ֡י",
+      "surface": "בני",
       "gloss": "میں ءُ زہگا"
     },
     {
-      "surface": "וְֽהִנָּצֵ֗ל",
+      "surface": "והנצל",
       "gloss": "ءُ وتءَ نجات دہ"
     },
     {
-      "surface": "כִּ֘י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "בָּ֤אתָ",
+      "surface": "באת",
       "gloss": "آتگ ئے"
     },
     {
-      "surface": "בְכַ֣ף",
+      "surface": "בכף",
       "gloss": "تہ کفءِ"
     },
     {
-      "surface": "רֵעֶ֑ךָ",
+      "surface": "רעך",
       "gloss": "تُئے ہمدم"
     },
     {
-      "surface": "לֵ֥ךְ",
+      "surface": "לך",
       "gloss": "روت"
     },
     {
-      "surface": "הִ֝תְרַפֵּ֗ס",
+      "surface": "התרפס",
       "gloss": "وتءَ بِرز"
     },
     {
-      "surface": "וּרְהַ֥ב",
+      "surface": "ורהב",
       "gloss": "ءُ اِلحاح کن"
     },
     {
-      "surface": "רֵעֶֽיךָ",
+      "surface": "רעיך",
       "gloss": "تُئے ہمدمان"
     }
-  ],
-  "timestamp": "2026-09-25T20:20:54.860657077Z",
-  "model": "glm-5.3"
+  ]
 }

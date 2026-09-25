@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "2-kings 4:24",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:17:46.489363791Z",
+  "verse": 24,
+  "ref": "2-kings 4:24",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ آءَ زین کت، ءُ وتیءِ نوجوانانءَ گوَشت: «رانون ءُ روت؛ منیں سواریءَ پہ من نہ اِشکنیت، مگر وہدے کہ منءَ تُہءَ گوَشتنءَ آئے۔»",
   "tokens": [
     {
-      "surface": "וֽתַחֲבֹשׁ֙",
+      "surface": "ותחבש",
       "gloss": "ءُ زین کت"
     },
     {
-      "surface": "הָֽאָת֔וֹן",
+      "surface": "האתון",
       "gloss": "آءَ"
     },
     {
-      "surface": "וַתֹּ֥אמֶר",
+      "surface": "ותאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אֶֽל",
+      "surface": "אל",
       "gloss": "ءَ"
     },
     {
-      "surface": "נַעֲרָ֖הּ",
+      "surface": "נערה",
       "gloss": "وتیءِ نوجوانانءَ"
     },
     {
-      "surface": "נְהַ֣ג",
+      "surface": "נהג",
       "gloss": "رانون"
     },
     {
-      "surface": "וָלֵ֑ךְ",
+      "surface": "ולך",
       "gloss": "ءُ روت"
     },
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תַּעֲצָר",
+      "surface": "תעצר",
       "gloss": "اِشکنیت"
     },
     {
-      "surface": "לִ֣י",
+      "surface": "לי",
       "gloss": "منیں…پہ من"
     },
     {
-      "surface": "לִרְכֹּ֔ב",
+      "surface": "לרכב",
       "gloss": "سواریءَ"
     },
     {
-      "surface": "כִּ֖י",
+      "surface": "כי",
       "gloss": "مگر وہدے کہ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "⟨ہچ⟩"
     },
     {
-      "surface": "אָמַ֥רְתִּי",
+      "surface": "אמרתי",
       "gloss": "گوَشتنءَ"
     },
     {
-      "surface": "לָֽךְ",
+      "surface": "לך",
       "gloss": "تُہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:17:46.489363791Z",
-  "model": "glm-5.3"
+  ]
 }

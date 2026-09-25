@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "joshua 18:1",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:42:55.125414727Z",
+  "verse": 1,
+  "ref": "joshua 18:1",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ بنی‌ءِ اسرائیلیءِ پوریں ٹولی شیلوءَ جم بیت، ءُ اِشاں اودا ملاقاتءِ گدانءَ ⟨את⟩ چڑھایت، ءُ زمین اِشانی پیشءَ مات بوتگ اَت.",
   "tokens": [
     {
-      "surface": "וַיִּקָּהֲל֜וּ",
+      "surface": "ויקהלו",
       "gloss": "جم بیت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "עֲדַ֤ת",
+      "surface": "עדת",
       "gloss": "ٹولی"
     },
     {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "بنی‌ءِ"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "gloss": "اسرائیلیءِ"
     },
     {
-      "surface": "שִׁלֹ֔ה",
+      "surface": "שלה",
       "gloss": "شیلوءَ"
     },
     {
-      "surface": "וַיַּשְׁכִּ֥ינוּ",
+      "surface": "וישכינו",
       "gloss": "ءُ اِشاں چڑھایت"
     },
     {
-      "surface": "שָׁ֖ם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ملاقاتءِ گدانءَ"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گadanءِ — گدان"
     },
     {
-      "surface": "מוֹעֵ֑ד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וְהָאָ֥רֶץ",
+      "surface": "והארץ",
       "gloss": "ءُ زمین"
     },
     {
-      "surface": "נִכְבְּשָׁ֖ה",
+      "surface": "נכבשה",
       "gloss": "مات بوتگ"
     },
     {
-      "surface": "לִפְנֵיהֶֽם",
+      "surface": "לפניהם",
       "gloss": "اِشانی پیشءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:42:55.125414727Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "leviticus 17:15",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:20:48.671520747Z",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "ءُ هر جن کہ مردار ءُ پھاڑوتگیں چیز وَرِّت — زاں ءُ ماںڳاں — وتی جوڑان شُوت ءُ آپءَ تہ لُڑَّت ءُ شامءَ چڑٹ ناپاک اِنت، پدا پاک بیت۔",
   "tokens": [
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ هر"
     },
     {
-      "surface": "נֶ֗פֶשׁ",
+      "surface": "נפש",
       "gloss": "جن"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "תֹּאכַ֤ל",
+      "surface": "תאכל",
       "gloss": "وَرِّت"
     },
     {
-      "surface": "נְבֵלָה֙",
+      "surface": "נבלה",
       "gloss": "مردار"
     },
     {
-      "surface": "וּטְרֵפָ֔ה",
+      "surface": "וטרפה",
       "gloss": "ءُ پھاڑوتگیں چیز"
     },
     {
-      "surface": "בָּאֶזְרָ֖ח",
+      "surface": "באזרח",
       "gloss": "زاں"
     },
     {
-      "surface": "וּבַגֵּ֑ר",
+      "surface": "ובגר",
       "gloss": "ءُ ماںڳاں"
     },
     {
-      "surface": "וְכִבֶּ֨ס",
+      "surface": "וכבס",
       "gloss": "ءُ شُوت"
     },
     {
-      "surface": "בְּגָדָ֜יו",
+      "surface": "בגדיו",
       "gloss": "وتی جوڑان"
     },
     {
-      "surface": "וְרָחַ֥ץ",
+      "surface": "ורחץ",
       "gloss": "ءُ لُڑَّت"
     },
     {
-      "surface": "בַּמַּ֛יִם",
+      "surface": "במים",
       "gloss": "آپءَ تہ"
     },
     {
-      "surface": "וְטָמֵ֥א",
+      "surface": "וטמא",
       "gloss": "ءُ ناپاک بیت"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "הָעֶ֖רֶב",
+      "surface": "הערב",
       "gloss": "شامءَ چڑٹ"
     },
     {
-      "surface": "וְטָהֵֽר",
+      "surface": "וטהר",
       "gloss": "ءُ پاک بیت"
     }
-  ],
-  "timestamp": "2026-09-25T19:20:48.671520747Z",
-  "model": "glm-5.3"
+  ]
 }

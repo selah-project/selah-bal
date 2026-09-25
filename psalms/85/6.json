@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 85:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:16:30.857836251Z",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "tier": "glm-5.2",
   "chapter": 85,
   "translation": "آیا پہ ہمیشہءَ ماءِ راہءَ غضب آیت؟ آیا زہرءِ غضبءَ آندرجہءَ تہ کشیت، نسلی چہ نسلءَ؟",
   "tokens": [
     {
-      "surface": "הֲלָעֹלָם",
+      "surface": "הלעולם",
       "gloss": "آیا پہ ہمیشہءَ"
     },
     {
-      "surface": "תֶּאֱנַף",
+      "surface": "תאנף",
       "gloss": "غضب آیت"
     },
     {
-      "surface": "בָּנוּ",
+      "surface": "בנו",
       "gloss": "ماءِ راہءَ"
     },
     {
-      "surface": "תִּמְשֹׁךְ",
+      "surface": "תמשך",
       "gloss": "کشیت"
     },
     {
-      "surface": "אַפְּךָ",
+      "surface": "אפך",
       "gloss": "زہرءِ غضبءَ آندرجہءَ"
     },
     {
-      "surface": "לְדֹר",
+      "surface": "לדר",
       "gloss": "نسلی"
     },
     {
-      "surface": "וָדֹר",
+      "surface": "ודר",
       "gloss": "چہ نسلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:16:30.857836251Z",
-  "model": "glm-5.3"
+  ]
 }

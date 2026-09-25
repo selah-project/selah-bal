@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "psalms 97:8",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:49:17.397515126Z",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "tier": "glm-5.2",
   "chapter": 97,
   "translation": "زیون گوشیت ءُ شاد بوت، ءُ یہوداہءِ جنکان خوش بیتنت، پہ تیءِ انصافان، اے یاہوہ۔",
   "tokens": [
     {
-      "surface": "שָׁמְעָ֬ה",
+      "surface": "שמעה",
       "gloss": "گوشیت"
     },
     {
-      "surface": "וַתִּשְׂמַ֨ח",
+      "surface": "ותשמח",
       "gloss": "ءُ شاد بوت"
     },
     {
-      "surface": "צִיּ֗וֹן",
+      "surface": "ציון",
       "gloss": "زیون"
     },
     {
-      "surface": "וַתָּגֵלְנָה",
+      "surface": "ותגלנה",
       "gloss": "ءُ خوش بیتنت"
     },
     {
-      "surface": "בְּנ֣וֹת",
+      "surface": "בנות",
       "gloss": "جنکان"
     },
     {
-      "surface": "יְהוּדָ֑ה",
+      "surface": "יהודה",
       "gloss": "یہوداہءِ"
     },
     {
-      "surface": "לְמַ֖עַן",
+      "surface": "למען",
       "gloss": "پہ"
     },
     {
-      "surface": "מִשְׁפָּטֶ֣יךָ",
+      "surface": "משפטיך",
       "gloss": "تیءِ انصافان"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:49:17.397515126Z",
-  "model": "glm-5.3"
+  ]
 }

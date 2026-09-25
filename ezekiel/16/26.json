@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "ezekiel 16:26",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:09:22.991674357Z",
+  "verse": 26,
+  "ref": "ezekiel 16:26",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ تی زنا کت چہ مِتسرایمی زہگانءَ، تی ہمسایگ، گیشءِ گوشتءَ، ءُ تی زنائیءَ گیشتر کت، ⟨את⟩ تی زنائیءَ، پہ مءِ غم گیشتر کنت۔",
   "tokens": [
     {
-      "surface": "וַתִּזְנִ֧י",
+      "surface": "ותזני",
       "gloss": "ءُ تی زنا کت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "چہ"
     },
     {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "زہگانءَ"
     },
     {
-      "surface": "מִצְרַ֛יִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایم"
     },
     {
-      "surface": "שְׁכֵנַ֖יִךְ",
+      "surface": "שכניך",
       "gloss": "تی ہمسایگ"
     },
     {
-      "surface": "גִּדְלֵ֣י",
+      "surface": "גדלי",
       "gloss": "گیشءِ"
     },
     {
-      "surface": "בָּשָׂ֑ר",
+      "surface": "בשר",
       "gloss": "گوشت"
     },
     {
-      "surface": "וַתַּרְבִּ֥י",
+      "surface": "ותרבי",
       "gloss": "ءُ تی گیشتر کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تی زنائی"
     },
     {
-      "surface": "תַּזְנֻתֵ֖ךְ",
+      "surface": "תזנתך",
       "gloss": "تی زنائی"
     },
     {
-      "surface": "לְהַכְעִיסֵֽנִי",
+      "surface": "להכעיסני",
       "gloss": "پہ مءِ غم گیشتر کنت"
     }
-  ],
-  "timestamp": "2026-09-25T16:09:22.991674357Z",
-  "model": "glm-5.3"
+  ]
 }

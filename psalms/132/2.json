@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "psalms 132:2",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:30:27.026345896Z",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "tier": "glm-5.2",
   "chapter": 132,
   "translation": "کہ گوں یاہوہءَ سوگند گشت، پہ یعقوبءِ اَبیرءَ نذر کت؛",
   "tokens": [
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נִ֭שְׁבַּע",
+      "surface": "נשבע",
       "gloss": "سوگند گشت"
     },
     {
-      "surface": "לַיהוָ֑ה",
+      "surface": "ליהוה",
       "gloss": "گوں یاہوہءَ"
     },
     {
-      "surface": "נָ֝דַ֗ר",
+      "surface": "נדר",
       "gloss": "نذر کت"
     },
     {
-      "surface": "לַאֲבִ֥יר",
+      "surface": "לאביר",
       "gloss": "پہ اَبیرءَ"
     },
     {
-      "surface": "יַעֲקֹֽב",
+      "surface": "יעקב",
       "gloss": "یعقوبءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:30:27.026345896Z",
-  "model": "glm-5.3"
+  ]
 }

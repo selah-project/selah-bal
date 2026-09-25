@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "proverbs 11:15",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:11:42.032259538Z",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "برا رنج گندیت پرچا کہ بیگانءِ پہ ضامن بیت، ءُ اے کہ دست کپتنی چہ منیت آسودہ اِنت.",
   "tokens": [
     {
-      "surface": "רַע",
+      "surface": "רע",
       "gloss": "برا"
     },
     {
-      "surface": "יֵרוֹעַ",
+      "surface": "ירוע",
       "gloss": "رنج گندیت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "עָרַב",
+      "surface": "ערב",
       "gloss": "ضامن بیت"
     },
     {
-      "surface": "זָר",
+      "surface": "זר",
       "gloss": "بیگانءِ پہ"
     },
     {
-      "surface": "וְשֹׂנֵא",
+      "surface": "ושנא",
       "gloss": "ءُ چہ منیت"
     },
     {
-      "surface": "תֹקְעִים",
+      "surface": "תקעים",
       "gloss": "دست کپتنی"
     },
     {
-      "surface": "בּוֹטֵחַ",
+      "surface": "בוטח",
       "gloss": "آسودہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:11:42.032259538Z",
-  "model": "glm-5.3"
+  ]
 }

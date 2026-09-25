@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "job 17:6",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:11:45.866664405Z",
+  "verse": 6,
+  "ref": "job 17:6",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "ءُ من قومانی مثالءَ پیش کتگ، ءُ اگہانی روبروءَ زہمءِ نشان اَت۔",
   "tokens": [
     {
-      "surface": "וְֽהִצִּגַנִי",
+      "surface": "והצגני",
       "gloss": "ءُ من قومانی مثالءَ پیش کتگ"
     },
     {
-      "surface": "לִמְשֹׁל",
+      "surface": "למשל",
       "gloss": "مثالءَ"
     },
     {
-      "surface": "עַמִּים",
+      "surface": "עמים",
       "gloss": "قومانی"
     },
     {
-      "surface": "וְתֹפֶת",
+      "surface": "ותפת",
       "gloss": "ءُ زہمءِ نشان"
     },
     {
-      "surface": "לְפָנִים",
+      "surface": "לפנים",
       "gloss": "اگہانی روبروءَ"
     },
     {
-      "surface": "אֶהְיֶה",
+      "surface": "אהיה",
       "gloss": "اَت"
     }
-  ],
-  "timestamp": "2026-09-25T21:11:45.866664405Z",
-  "model": "glm-5.3"
+  ]
 }

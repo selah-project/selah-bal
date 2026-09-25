@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "esther 8:14",
   "book": "esther",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:40:36.470946941Z",
+  "verse": 14,
+  "ref": "esther 8:14",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "درواند، شاہی گھوڑانی سوار، بادشاہءِ حکمءَ بے‌چون ءُ ڈَہوڑیت روتنت؛ ءُ فرمان شوشانءِ قلعہءَ دات بیت۔",
   "tokens": [
     {
-      "surface": "הָרָצִים",
+      "surface": "הרצים",
       "gloss": "درواند"
     },
     {
-      "surface": "רֹכְבֵי",
+      "surface": "רכבי",
       "gloss": "سوار"
     },
     {
-      "surface": "הָרֶכֶשׁ",
+      "surface": "הרכש",
       "gloss": "گھوڑانی"
     },
     {
-      "surface": "הָאֲחַשְׁתְּרָנִים",
+      "surface": "האחשתרנים",
       "gloss": "شاہی"
     },
     {
-      "surface": "יָצְאוּ",
+      "surface": "יצאו",
       "gloss": "روتنت"
     },
     {
-      "surface": "מְבֹהָלִים",
+      "surface": "מבהלים",
       "gloss": "بے‌چون"
     },
     {
-      "surface": "וּדְחוּפִים",
+      "surface": "ודחופים",
       "gloss": "ءُ ڈَہوڑیت"
     },
     {
-      "surface": "בִּדְבַר",
+      "surface": "בדבר",
       "gloss": "حکمءَ"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "بادشاہءِ"
     },
     {
-      "surface": "וְהַדָּת",
+      "surface": "והדת",
       "gloss": "ءُ فرمان"
     },
     {
-      "surface": "נִתְּנָה",
+      "surface": "נתנה",
       "gloss": "دات بیت"
     },
     {
-      "surface": "בְּשׁוּשַׁן",
+      "surface": "בשושן",
       "gloss": "شوشانءِ"
     },
     {
-      "surface": "הַבִּירָה",
+      "surface": "הבירה",
       "gloss": "قلعہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:40:36.470946941Z",
-  "model": "glm-5.3"
+  ]
 }

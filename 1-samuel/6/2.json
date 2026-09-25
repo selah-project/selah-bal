@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "1-samuel 6:2",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:32:41.327036398Z",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ فلسطینیاں کاهنانءَ ءُ ساحرانءَ بانگ کت، گوَشتی: یاہوہءِ صندوقءَ پہ چہ کنیں؟ ماں چہ وانگ آییءَ آییءِ جاگہءَ وانگ چہ کنیں، ماءِ چم ءُ کن۔",
   "tokens": [
@@ -12,54 +14,52 @@
       "gloss": "ءُ بانگ کت"
     },
     {
-      "surface": "پلشتیم",
+      "surface": "פלשתים",
       "gloss": "فلسطینیاں"
     },
     {
-      "surface": "لکاهنیم",
+      "surface": "לכהנים",
       "gloss": "کاهنانءَ"
     },
     {
-      "surface": "ولقسمیم",
+      "surface": "ולקסמים",
       "gloss": "ءُ ساحرانءَ"
     },
     {
-      "surface": "لامر",
+      "surface": "לאמר",
       "gloss": "گوَشتی"
     },
     {
-      "surface": "ماہ",
+      "surface": "מה",
       "gloss": "چہ"
     },
     {
-      "surface": "نعسه",
+      "surface": "נעשה",
       "gloss": "کنیں"
     },
     {
-      "surface": "لارون",
+      "surface": "לארון",
       "gloss": "صندوقءَ پہ"
     },
     {
-      "surface": "یہوہ",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "هودعنو",
+      "surface": "הודענו",
       "gloss": "ماءِ چم ءُ کن"
     },
     {
-      "surface": "بماہ",
+      "surface": "במה",
       "gloss": "ماں چہ وانگ"
     },
     {
-      "surface": "نשلحنو",
+      "surface": "נשלחנו",
       "gloss": "وانگ چہ کنیں"
     },
     {
-      "surface": "لمقومو",
+      "surface": "למקומו",
       "gloss": "آییءِ جاگہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:32:41.327036398Z",
-  "model": "glm-5.3"
+  ]
 }

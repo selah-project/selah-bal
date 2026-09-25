@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "psalms 119:7",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:27:05.784086176Z",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "تہ من گوں راستیءِ دل ءُ ستائش کنت، ونڈا کہ من تہڑا انصافیں فیصلہ ءَ سیک کتون۔",
   "tokens": [
     {
-      "surface": "א֭וֹדְךָ",
+      "surface": "אודך",
       "gloss": "تہ من ستائش کنت"
     },
     {
-      "surface": "בְּיֹ֣שֶׁר",
+      "surface": "בישר",
       "gloss": "گوں راستیءِ"
     },
     {
-      "surface": "לֵבָ֑ב",
+      "surface": "לבב",
       "gloss": "دل"
     },
     {
-      "surface": "בְּ֝לָמְדִ֗י",
+      "surface": "בלמדי",
       "gloss": "ونڈا کہ من سیک کتون"
     },
     {
-      "surface": "מִשְׁפְּטֵ֥י",
+      "surface": "משפטי",
       "gloss": "فیصلہ ءَ"
     },
     {
-      "surface": "צִדְקֶֽךָ",
+      "surface": "צדקך",
       "gloss": "تہڑا انصافیں"
     }
-  ],
-  "timestamp": "2026-09-25T20:27:05.784086176Z",
-  "model": "glm-5.3"
+  ]
 }

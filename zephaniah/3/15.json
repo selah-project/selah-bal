@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "zephaniah 3:15",
   "book": "zephaniah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:59:25.522994118Z",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "یاہوہءَ تئیں حکم دوری کتگ ⟨اِنت⟩، تئیں دشمنءَ منڑ کتگ ⟨اِنت⟩؛ اسرائیلءِ شاہ، یاہوہ، تئی ماں ⟨اِنت⟩ — نہ ترسیں دگہ چہ بدی۔",
   "tokens": [
     {
-      "surface": "הֵסִ֤יר",
+      "surface": "הסיר",
       "gloss": "دوری کتگ"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "מִשְׁפָּטַ֔יִךְ",
+      "surface": "משפטיך",
       "gloss": "تئیں حکم"
     },
     {
-      "surface": "פִּנָּ֖ה",
+      "surface": "פנה",
       "gloss": "منڑ کتگ"
     },
     {
-      "surface": "אֹֽיְבֵ֑ךְ",
+      "surface": "איבך",
       "gloss": "تئیں دشمنءَ"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "יִשְׂרָאֵ֤ל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "בְּקִרְבֵּ֔ךְ",
+      "surface": "בקרבך",
       "gloss": "تئی ماں"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִּֽירְאִ֥י",
+      "surface": "תיראי",
       "gloss": "ترسیں"
     },
     {
-      "surface": "רָ֖ע",
+      "surface": "רע",
       "gloss": "بدی"
     },
     {
-      "surface": "עֽוֹד",
+      "surface": "עוד",
       "gloss": "دگہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:59:25.522994118Z",
-  "model": "glm-5.3"
+  ]
 }

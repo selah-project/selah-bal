@@ -1,26 +1,28 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "proverbs 18:22",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:15:07.925056488Z",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "جوکے جنکءَ لبیت آ یک چیزءِ چمءَ لبیت ءُ چہ یاہوہءَ رضامندیءَ گندیت۔",
   "tokens": [
     {
-      "surface": "מָצָא",
+      "surface": "מצא",
       "gloss": "لبیت"
     },
     {
-      "surface": "אִשָּׁה",
+      "surface": "אשה",
       "gloss": "جنکءَ"
     },
     {
-      "surface": "מָצָא",
+      "surface": "מצא",
       "gloss": "لبیت"
     },
     {
-      "surface": "טוֹב",
+      "surface": "טוב",
       "gloss": "یک چیزءِ چم"
     },
     {
@@ -35,7 +37,5 @@
       "surface": "מיהוה",
       "gloss": "چہ یاہوہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:15:07.925056488Z",
-  "model": "glm-5.3"
+  ]
 }

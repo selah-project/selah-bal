@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "deuteronomy 33:14",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:30:14.081667332Z",
+  "verse": 14,
+  "ref": "deuteronomy 33:14",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ چہ چیزانی بہترینءَ کہ آفتابءِ پیداکشت ءُ چہ چیزانی بہترینءَ کہ ماہءِ چنڈانی پیداکشت،",
   "tokens": [
     {
-      "surface": "וּמִמֶּ֖גֶד",
+      "surface": "וממגד",
       "gloss": "ءُ چہ چیزانی بہترینءَ"
     },
     {
-      "surface": "תְּבוּאֹ֣ת",
+      "surface": "תבואת",
       "gloss": "پیداکشت"
     },
     {
-      "surface": "שָּׁ֑מֶשׁ",
+      "surface": "שמש",
       "gloss": "آفتابءِ"
     },
     {
-      "surface": "וּמִמֶּ֖גֶד",
+      "surface": "וממגד",
       "gloss": "ءُ چہ چیزانی بہترینءَ"
     },
     {
-      "surface": "גֶּ֥רֶשׁ",
+      "surface": "גרש",
       "gloss": "پیداکشت"
     },
     {
-      "surface": "יְרָחִֽים",
+      "surface": "ירחים",
       "gloss": "ماہءِ چنڈانی"
     }
-  ],
-  "timestamp": "2026-09-25T15:30:14.081667332Z",
-  "model": "glm-5.3"
+  ]
 }

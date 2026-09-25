@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
-  "ref": "numbers 4:38",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:15:29.325197654Z",
+  "verse": 38,
+  "ref": "numbers 4:38",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ شمار بوتگانیں زہگانی گِرشوں، آیانی ٹولیانی ءُ آیانی پیوانی گریانی پہ،",
   "tokens": [
     {
-      "surface": "וּפְקוּדֵי",
+      "surface": "ופקודי",
       "gloss": "ءُ شمار بوتگانیں"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "גֵרְשׁוֹן",
+      "surface": "גרשון",
       "gloss": "گِرشوں"
     },
     {
-      "surface": "לְמִשְׁפְּחוֹתָם",
+      "surface": "למשפחותם",
       "gloss": "آیانی ٹولیانی پہ"
     },
     {
-      "surface": "וּלְבֵית",
+      "surface": "ולבית",
       "gloss": "ءُ آیانی پیوانی گریانی پہ"
     },
     {
-      "surface": "אֲבֹתָם",
+      "surface": "אבתם",
       "gloss": "آیانی پیوانی"
     }
-  ],
-  "timestamp": "2026-09-25T21:15:29.325197654Z",
-  "model": "glm-5.3"
+  ]
 }

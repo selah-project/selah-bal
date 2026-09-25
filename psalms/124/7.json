@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "psalms 124:7",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:28:38.665454383Z",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "tier": "glm-5.2",
   "chapter": 124,
   "translation": "مشی جن ءُ مَں گوں مرگ گوں دامءِ چہ فریوں ءُ مَں داماں چھوکءَ رَتِتِتِتِتِتِتِت",
   "tokens": [
     {
-      "surface": "נַפְשֵׁנוּ",
+      "surface": "נפשנו",
       "gloss": "مشی جن"
     },
     {
-      "surface": "כְּצִפּוֹר",
+      "surface": "כצפור",
       "gloss": "چوں مرگ"
     },
     {
-      "surface": "נִמְלְטָה",
+      "surface": "נמלטה",
       "gloss": "روتِتِت"
     },
     {
-      "surface": "מִפַּח",
+      "surface": "מפח",
       "gloss": "چہ دام"
     },
     {
-      "surface": "יוֹקְשִׁים",
+      "surface": "יוקשים",
       "gloss": "فریوں ءُ"
     },
     {
-      "surface": "הַפַּח",
+      "surface": "הפח",
       "gloss": "دام"
     },
     {
-      "surface": "נִשְׁבָּר",
+      "surface": "נשבר",
       "gloss": "شِستِتِت"
     },
     {
-      "surface": "וַאֲנַחְנוּ",
+      "surface": "ואנחנו",
       "gloss": "ءُ مَں"
     },
     {
-      "surface": "נִמְלָטְנוּ",
+      "surface": "נמלטנו",
       "gloss": "رَتِتِتِتِتِتِتِت"
     }
-  ],
-  "timestamp": "2026-09-25T20:28:38.665454383Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,102 +1,102 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
-  "ref": "judges 11:36",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:13:57.044694044Z",
+  "verse": 36,
+  "ref": "judges 11:36",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ آییءِ اگہ گوَشت: اے ئے منی پِت، تئے ⟨את⟩ لوئی یاہوہءِ اگہ کشاد کتا ئے؛ مئَ کار کن چوں چیزی کہ چہ تئے لوئیءَ در آتگ، پتءَ چہ آ یاہوہ تئَ پہ تئے دشمنانانت چہ عوممانی زہگانان انتقام کت۔",
   "tokens": [
     {
-      "surface": "וַתֹּאמֶר",
+      "surface": "ותאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אֵלָיו",
+      "surface": "אליו",
       "gloss": "آییءِ اگہ"
     },
     {
-      "surface": "אָבִי",
+      "surface": "אבי",
       "gloss": "اے ئے منی پِت"
     },
     {
-      "surface": "پָּצִיתָה",
+      "surface": "פציתה",
       "gloss": "کشاد کتا ئے"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تئے لوئیءَ"
     },
     {
-      "surface": "פִּיךָ",
+      "surface": "פיך",
       "gloss": "تئے لوئی"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "اگہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "עֲשֵׂה",
+      "surface": "עשה",
       "gloss": "کار کن"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "مئَ"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوں چیزی کہ"
     },
     {
-      "surface": "יָצָא",
+      "surface": "יצא",
       "gloss": "در آتگ"
     },
     {
-      "surface": "מִפִּיךָ",
+      "surface": "מפיך",
       "gloss": "چہ تئے لوئیءَ"
     },
     {
-      "surface": "אַחֲרֵי",
+      "surface": "אחרי",
       "gloss": "پتءَ چہ آ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ"
     },
     {
-      "surface": "עָשָׂה",
+      "surface": "עשה",
       "gloss": "کت"
     },
     {
-      "surface": "לְךָ",
+      "surface": "לך",
       "gloss": "تئَ پہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "נְקָמוֹת",
+      "surface": "נקמות",
       "gloss": "انتقام"
     },
     {
-      "surface": "מֵאֹיְבֶיךָ",
+      "surface": "מאיביך",
       "gloss": "تئے دشمنانانت چہ"
     },
     {
-      "surface": "מִבְּנֵי",
+      "surface": "מבני",
       "gloss": "چہ زہگانانِ"
     },
     {
-      "surface": "עַמּוֹן",
+      "surface": "עמון",
       "gloss": "عوممان"
     }
-  ],
-  "timestamp": "2026-09-25T21:13:57.044694044Z",
-  "model": "glm-5.3"
+  ]
 }

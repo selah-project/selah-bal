@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "deuteronomy 9:26",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:32:41.808221193Z",
+  "verse": 26,
+  "ref": "deuteronomy 9:26",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ مناں کت پہ یاہوہءَ ءُ گوَشت: اے ادونای یاہوہ، تُءِ قوم ءُ تُءِ ورثت تباہ مکن، آ کہ تُءِ گیشیءَ رہائی دیتگئے، آ کہ چہ مِتسرایمءَ گوں زورآورءِ دست در کتگئے.",
   "tokens": [
     {
-      "surface": "וָאֶתְפַּלֵּל",
+      "surface": "ואתפלל",
       "gloss": "ءُ مناں کت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "וָאֹמַר",
+      "surface": "ואמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תַּשְׁחֵת",
+      "surface": "תשחת",
       "gloss": "تباہ مکن"
     },
     {
-      "surface": "עַמְּךָ",
+      "surface": "עמך",
       "gloss": "تُءِ قوم"
     },
     {
-      "surface": "וְנַחֲלָתְךָ",
+      "surface": "ונחלתך",
       "gloss": "ءُ تُءِ ورثت"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "פָּדִיתָ",
+      "surface": "פדית",
       "gloss": "رہائی دیتگئے"
     },
     {
-      "surface": "בְּגָדְלְךָ",
+      "surface": "בגדלך",
       "gloss": "تُءِ گیشیءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "הוֹצֵאתָ",
+      "surface": "הוצאת",
       "gloss": "در کتگئے"
     },
     {
-      "surface": "מִמִּצְרַיִם",
+      "surface": "ממצרים",
       "gloss": "چہ مِتسرایمءَ"
     },
     {
-      "surface": "בְּיָד",
+      "surface": "ביד",
       "gloss": "گوں دست"
     },
     {
-      "surface": "חֲזָקָה",
+      "surface": "חזקה",
       "gloss": "زورآورءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:32:41.808221193Z",
-  "model": "glm-5.3"
+  ]
 }

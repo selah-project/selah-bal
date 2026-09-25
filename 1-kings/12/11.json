@@ -1,87 +1,87 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "1-kings 12:11",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:50:31.659928434Z",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "ءُ اِشا مئن پتءَ شمے سرءَ یک گیشتین یوک گِت، ءُ من شمے یوکءِ سرءَ گیش کیتءَ بیت؛ مئن پتءَ شمے چوٹانءَ گوں ⟨את⟩ سزا دیت، ءُ من شمے گزکانءَ گوں ⟨את⟩ سزا دیتءَ بیت.",
   "tokens": [
     {
-      "surface": "וְעַתָּה",
+      "surface": "ועתה",
       "gloss": "ءُ اِشا"
     },
     {
-      "surface": "אָבִי",
+      "surface": "אבי",
       "gloss": "مئن پت"
     },
     {
-      "surface": "הֶעְמִיס",
+      "surface": "העמיס",
       "gloss": "گِت"
     },
     {
-      "surface": "עֲלֵיכֶם",
+      "surface": "עליכם",
       "gloss": "شمے سرءَ"
     },
     {
-      "surface": "עֹל",
+      "surface": "על",
       "gloss": "یوک"
     },
     {
-      "surface": "כָּבֵד",
+      "surface": "כבד",
       "gloss": "گیشتین"
     },
     {
-      "surface": "וַאֲנִי",
+      "surface": "ואני",
       "gloss": "ءُ من"
     },
     {
-      "surface": "אוֹסִיף",
+      "surface": "אוסיף",
       "gloss": "گیش کیتءَ بیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "עֻלְּכֶם",
+      "surface": "עלכם",
       "gloss": "شمے یوک"
     },
     {
-      "surface": "אָבִי",
+      "surface": "אבי",
       "gloss": "مئن پت"
     },
     {
-      "surface": "יִסַּר",
+      "surface": "יסר",
       "gloss": "سزا دیت"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شمےءَ",
       "marks": "چوٹانءَ گوں"
     },
     {
-      "surface": "בַּשּׁוֹטִים",
+      "surface": "בשוטים",
       "gloss": "چوٹانءَ گوں"
     },
     {
-      "surface": "וַאֲנִי",
+      "surface": "ואני",
       "gloss": "ءُ من"
     },
     {
-      "surface": "אֲיַסֵּר",
+      "surface": "איסר",
       "gloss": "سزا دیتءَ بیت"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شمےءَ",
       "marks": "گزکانءَ گوں"
     },
     {
-      "surface": "בָּעַקְרַבִּים",
+      "surface": "בעקרבים",
       "gloss": "گزکانءَ گوں"
     }
-  ],
-  "timestamp": "2026-09-25T12:50:31.659928434Z",
-  "model": "glm-5.3"
+  ]
 }

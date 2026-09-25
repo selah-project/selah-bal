@@ -1,84 +1,84 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "exodus 10:11",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:47:47.340462253Z",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "نہ چوشے؛ گوشا اے مردمان، روت ءُ یاہوہءَ عبادت کنیت، پرچا کہ ⟨את⟩ آییءَ تومیں جست کنیت؛ ءُ اے ⟨את⟩ چہ فرعونءِ دیمءَ در کتگ بوتنت.",
   "tokens": [
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "כֵ֗ן",
+      "surface": "כן",
       "gloss": "چوشے"
     },
     {
-      "surface": "לְכֽוּ",
+      "surface": "לכו",
       "gloss": "گوشیت"
     },
     {
-      "surface": "נָ֤א",
+      "surface": "נא",
       "gloss": "گوشا"
     },
     {
-      "surface": "הַגְּבָרִים֙",
+      "surface": "הגברים",
       "gloss": "مردمان"
     },
     {
-      "surface": "וְעִבְד֣וּ",
+      "surface": "ועבדו",
       "gloss": "ءُ عبادت کنیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֹתָ֖הּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "تومیں جست کنیت"
     },
     {
-      "surface": "אַתֶּ֣ם",
+      "surface": "אתם",
       "gloss": "تومیں"
     },
     {
-      "surface": "מְבַקְשִׁ֑ים",
+      "surface": "מבקשים",
       "gloss": "جست کنیت"
     },
     {
-      "surface": "וַיְגָ֣רֶשׁ",
+      "surface": "ויגרש",
       "gloss": "ءُ در کت"
     },
     {
-      "surface": "אֹתָ֔ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ اِشاںءَ",
       "marks": "در کتگ بوتنت"
     },
     {
-      "surface": "מֵאֵ֖ת",
+      "surface": "מאת",
       "gloss": "⟨את⟩ چہ"
     },
     {
-      "surface": "פְּנֵ֥י",
+      "surface": "פני",
       "gloss": "دیمءِ"
     },
     {
-      "surface": "פַּרְעֹֽה",
+      "surface": "פרעה",
       "gloss": "فرعون"
     }
-  ],
-  "timestamp": "2026-09-25T15:47:47.340462253Z",
-  "model": "glm-5.3"
+  ]
 }

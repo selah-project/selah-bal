@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "genesis 41:2",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:56:05.323040373Z",
+  "verse": 2,
+  "ref": "genesis 41:2",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "ءُ گوَن اوشتیت کہ چہ روڈءَ ہپت مالِ شئین دیم ءُ گوشتءَ گوَنڈاں روتنت، ءُ گوَن آچوءَ چرتنت۔",
   "tokens": [
     {
-      "surface": "וְהִנֵּה",
+      "surface": "והנה",
       "gloss": "ءُ گوَن اوشتیت کہ"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַיְאֹר",
+      "surface": "היאר",
       "gloss": "روڈءَ"
     },
     {
-      "surface": "עֹלֹת",
+      "surface": "עלת",
       "gloss": "روتنت"
     },
     {
-      "surface": "שֶׁבַע",
+      "surface": "שבע",
       "gloss": "ہپت"
     },
     {
-      "surface": "פָּרוֹת",
+      "surface": "פרות",
       "gloss": "مال"
     },
     {
-      "surface": "יְפֹת",
+      "surface": "יפות",
       "gloss": "شئین"
     },
     {
-      "surface": "מַרְאֶה",
+      "surface": "מראה",
       "gloss": "دیم"
     },
     {
-      "surface": "וּבְרִיאֹת",
+      "surface": "ובריאת",
       "gloss": "ءُ گوشتءَ گوَنڈاں"
     },
     {
-      "surface": "בָּשָׂר",
+      "surface": "בשר",
       "gloss": "گوشت"
     },
     {
-      "surface": "וַתִּרְעֶינָה",
+      "surface": "ותרעינה",
       "gloss": "ءُ چرتنت"
     },
     {
-      "surface": "בָּאָחוּ",
+      "surface": "באחו",
       "gloss": "آچوءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:56:05.323040373Z",
-  "model": "glm-5.3"
+  ]
 }

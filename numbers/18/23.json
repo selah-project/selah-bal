@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "numbers 18:23",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:50:46.646516792Z",
+  "verse": 23,
+  "ref": "numbers 18:23",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ لاوی اے ⟨את⟩ ملاقاتءِ گadanءِ کار کنیت ءُ آئوک آئوکانی گناه چکیت؛ اے شومئیں تومءِ قاعدہ اِنت تماں نسلاںءَ پہ، ءُ یسرائیلءِ زہگانی ماں آئوک ورثہ نہ گنت۔",
   "tokens": [
     {
-      "surface": "וְעָבַד",
+      "surface": "ועבד",
       "gloss": "ءُ کنیت"
     },
     {
-      "surface": "הַלֵּוִי",
+      "surface": "הלוי",
       "gloss": "لاوی"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "اے"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ملاقاتءِ گadanءِ کار"
     },
     {
-      "surface": "עֲבֹדַת",
+      "surface": "עבדת",
       "gloss": "کار"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گadan"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     },
     {
-      "surface": "וְהֵם",
+      "surface": "והם",
       "gloss": "ءُ آئوک"
     },
     {
-      "surface": "יִשְׂאוּ",
+      "surface": "ישאו",
       "gloss": "چکیت"
     },
     {
-      "surface": "עֲוֹנָם",
+      "surface": "עונם",
       "gloss": "آئوکانی گناه"
     },
     {
-      "surface": "חֻקָּה",
+      "surface": "חקת",
       "gloss": "قاعدہ"
     },
     {
-      "surface": "עוֹלָם",
+      "surface": "עולם",
       "gloss": "شومئیں"
     },
     {
-      "surface": "לְדֹרֹתֵיכֶם",
+      "surface": "לדרתיכם",
       "gloss": "تماں نسلاںءَ پہ"
     },
     {
-      "surface": "וּבְתוֹךְ",
+      "surface": "ובתוך",
       "gloss": "ءُ ماں"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִנְחֲלוּ",
+      "surface": "ינחלו",
       "gloss": "ورثہ گنت"
     },
     {
-      "surface": "נַחֲלָה",
+      "surface": "נחלה",
       "gloss": "ورثہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:50:46.646516792Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "isaiah 4:6",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:22:29.578129581Z",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ یک سوکا بیت پہ تہاری روچءَ چہ گرمیءَ، ءُ پہ پناگاہ ءُ پہ لُکانڈی جاگہ چہ زرپ ءُ چہ مینءَ۔",
   "tokens": [
@@ -40,10 +42,8 @@
       "gloss": "چہ زرپ"
     },
     {
-      "surface": "وממטר",
+      "surface": "וממטר",
       "gloss": "ءُ چہ مینءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:22:29.578129581Z",
-  "model": "glm-5.3"
+  ]
 }

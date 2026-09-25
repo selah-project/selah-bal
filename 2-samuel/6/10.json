@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "2-samuel 6:10",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:39:17.404437078Z",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ داود راہ نہ کت یاہوہءِ صندوقءَ ⟨את⟩ اے داودءِ شہرءَ وتءَ پہ بدل بدایت؛ بلے داود آءَ عوبید-ادومءِ گتّیءِ گھرءَ بدال کت.",
   "tokens": [
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "אָבָ֣ה",
+      "surface": "אבה",
       "gloss": "راہ"
     },
     {
-      "surface": "דָוִ֗ד",
+      "surface": "דוד",
       "gloss": "داود"
     },
     {
-      "surface": "לְהָסִ֥יר",
+      "surface": "להסיר",
       "gloss": "پہ بدل بدایت"
     },
     {
-      "surface": "אֵלָ֛יו",
+      "surface": "אליו",
       "gloss": "وتءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "صندوق"
     },
     {
-      "surface": "אֲר֥וֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "עִ֣יר",
+      "surface": "עיר",
       "gloss": "شہر"
     },
     {
-      "surface": "דָּוִ֑ד",
+      "surface": "דוד",
       "gloss": "داودءِ"
     },
     {
-      "surface": "וַיַּטֵּ֣הוּ",
+      "surface": "ויטהו",
       "gloss": "ءُ آءَ بدال کت"
     },
     {
-      "surface": "דָוִ֔ד",
+      "surface": "דוד",
       "gloss": "داود"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "گھر"
     },
     {
-      "surface": "עֹבֵֽד",
+      "surface": "עבד",
       "gloss": "عوبید"
     },
     {
-      "surface": "אֱד֖וֹם",
+      "surface": "אדום",
       "gloss": "ادومءِ"
     },
     {
-      "surface": "הַגִּתִּֽי",
+      "surface": "הגתי",
       "gloss": "گتّی"
     }
-  ],
-  "timestamp": "2026-09-25T14:39:17.404437078Z",
-  "model": "glm-5.3"
+  ]
 }

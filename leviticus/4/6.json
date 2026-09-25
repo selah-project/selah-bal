@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "leviticus 4:6",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:28:01.266644984Z",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ کاہنءَ ⟨את⟩ وتی انگشت آپءَ جوڑ کت، ءُ چہ آپءَ ہپت وار یاہوہءِ پیشءَ ⟨את⟩ پاک پاروختءِ دیمءَ پروشیت.",
   "tokens": [
     {
-      "surface": "וְטָבַל",
+      "surface": "וטבל",
       "gloss": "ءُ جوڑ کت"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہنءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی انگشت"
     },
     {
-      "surface": "אֶצְבָּעוֹ",
+      "surface": "אצבעו",
       "gloss": "وتی انگشت"
     },
     {
-      "surface": "בַּדָּם",
+      "surface": "בדם",
       "gloss": "آپءَ"
     },
     {
-      "surface": "וְהִזָּה",
+      "surface": "והזה",
       "gloss": "ءُ پروشیت"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַדָּם",
+      "surface": "הדם",
       "gloss": "آپءَ"
     },
     {
-      "surface": "שֶׁבַע",
+      "surface": "שבע",
       "gloss": "ہپت"
     },
     {
-      "surface": "פְּעָמִים",
+      "surface": "פעמים",
       "gloss": "وار"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "دیم"
     },
     {
-      "surface": "פְּנֵי",
+      "surface": "פני",
       "gloss": "دیم"
     },
     {
-      "surface": "פָּרֹכֶת",
+      "surface": "פרכת",
       "gloss": "پاروخت"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "پاک"
     }
-  ],
-  "timestamp": "2026-09-25T19:28:01.266644984Z",
-  "model": "glm-5.3"
+  ]
 }

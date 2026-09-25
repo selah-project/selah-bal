@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "psalms 127:3",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:29:35.661238212Z",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "tier": "glm-5.2",
   "chapter": 127,
   "translation": "ائ، زہگان یاہوہءِ ورثت اِنت، رحمءِ پھال یک مزدوری اِنت۔",
   "tokens": [
     {
-      "surface": "הִנֵּה",
+      "surface": "הנה",
       "gloss": "ائ"
     },
     {
-      "surface": "נַחֲלַת",
+      "surface": "נחלת",
       "gloss": "ورثت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "בָּנִים",
+      "surface": "בנים",
       "gloss": "زہگان"
     },
     {
-      "surface": "שָׂכָר",
+      "surface": "שכר",
       "gloss": "مزدوری"
     },
     {
-      "surface": "פְּרִי",
+      "surface": "פרי",
       "gloss": "پھال"
     },
     {
-      "surface": "הַבָּטֶן",
+      "surface": "הבטן",
       "gloss": "رحمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:29:35.661238212Z",
-  "model": "glm-5.3"
+  ]
 }

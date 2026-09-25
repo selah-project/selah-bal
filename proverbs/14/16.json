@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "proverbs 14:16",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:10:56.531209928Z",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "دانشمند ڈرت ءُ چہ بدی دور بیت، ءُ کم‌عقل گوں چڑ ءُ بے‌پرواہ اِنت.",
   "tokens": [
     {
-      "surface": "חָכָ֣ם",
+      "surface": "חכם",
       "gloss": "دانشمند"
     },
     {
-      "surface": "יָ֭רֵא",
+      "surface": "ירא",
       "gloss": "ڈرت"
     },
     {
-      "surface": "וְסָ֣ר",
+      "surface": "וסר",
       "gloss": "ءُ دور بیت"
     },
     {
-      "surface": "מֵרָ֑ע",
+      "surface": "מרע",
       "gloss": "چہ بدی"
     },
     {
-      "surface": "וּ֝כְסִ֗יל",
+      "surface": "וכסיל",
       "gloss": "ءُ کم‌عقل"
     },
     {
-      "surface": "מִתְעַבֵּ֥ר",
+      "surface": "מתעבר",
       "gloss": "گوں چڑ"
     },
     {
-      "surface": "וּבוֹטֵֽחַ",
+      "surface": "ובוטח",
       "gloss": "ءُ بے‌پرواہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:10:56.531209928Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,29 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "joshua 19:3",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:44:34.020337410Z",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ حضر شوعال، ءُ بالہ، ءُ عاتسم،",
   "tokens": [
     {
-      "surface": "וַחֲצַ֥ר",
+      "surface": "וחצר",
       "gloss": "ءُ حضر"
     },
     {
-      "surface": "שׁוּעָ֛ל",
+      "surface": "שועל",
       "gloss": "شوعال"
     },
     {
-      "surface": "וּבָלָ֖ה",
+      "surface": "ובלה",
       "gloss": "ءُ بالہ"
     },
     {
-      "surface": "וָעָֽצֶם",
+      "surface": "ועצם",
       "gloss": "ءُ عاتسم"
     }
-  ],
-  "timestamp": "2026-09-25T18:44:34.020337410Z",
-  "model": "glm-5.3"
+  ]
 }

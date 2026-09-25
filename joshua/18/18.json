@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "joshua 18:18",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:42:46.703868063Z",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ گوزریت سزیءِ سرءَ کہ عرابہءِ روبڑ نہمیءَ اِنت، ءُ دگنت عرابہءَ،",
   "tokens": [
     {
-      "surface": "וְעָבַ֛ר",
+      "surface": "ועבר",
       "gloss": "ءُ گوزریت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "...ءَ پہ"
     },
     {
-      "surface": "כֶּ֥תֶף",
+      "surface": "כתף",
       "gloss": "سز"
     },
     {
-      "surface": "מֽוּל",
+      "surface": "מול",
       "gloss": "روبڑ"
     },
     {
-      "surface": "הָעֲרָבָ֖ה",
+      "surface": "הערבה",
       "gloss": "عرابہءِ"
     },
     {
-      "surface": "צָפ֑וֹנָה",
+      "surface": "צפונה",
       "gloss": "نہمیءَ"
     },
     {
-      "surface": "וְיָרַ֖ד",
+      "surface": "וירד",
       "gloss": "ءُ دگنت"
     },
     {
-      "surface": "הָעֲרָבָֽתָה",
+      "surface": "הערבתה",
       "gloss": "عرابہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:42:46.703868063Z",
-  "model": "glm-5.3"
+  ]
 }

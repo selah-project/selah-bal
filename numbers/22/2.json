@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "numbers 22:2",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:54:16.855494560Z",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ بَلَق زہگءِ زپور گُشت آ کہ یسیراٰیل ءُ ⟨את⟩ گیش کہ اموریانی راہءَ کتگ اوشت۔",
   "tokens": [
     {
-      "surface": "וַיַּ֥רְא",
+      "surface": "וירא",
       "gloss": "گُشت"
     },
     {
-      "surface": "בָּלָ֖ק",
+      "surface": "בלק",
       "gloss": "بَلَق"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בן",
       "gloss": "زہگءِ"
     },
     {
-      "surface": "צִפּ֑וֹר",
+      "surface": "צפור",
       "gloss": "زپور"
     },
     {
-      "surface": "אֵ֛ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گیش کہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیش کہ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "עָשָׂ֥ה",
+      "surface": "עשה",
       "gloss": "کتگ"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "ישראל",
       "gloss": "یسیراٰیل"
     },
     {
-      "surface": "לָֽאֱמֹרִֽי",
+      "surface": "לאמרי",
       "gloss": "اموریانی راہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:54:16.855494560Z",
-  "model": "glm-5.3"
+  ]
 }

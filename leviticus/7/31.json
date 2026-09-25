@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "leviticus 7:31",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:27:36.510968331Z",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ کاهن ⟨את⟩ چربیءَ قربانگاہءَ سوزانیت، ءُ سینی اہارونءِ ءُ اہارونءِ زہگانءِ بیت.",
   "tokens": [
     {
-      "surface": "וְהִקְטִיר",
+      "surface": "והקטיר",
       "gloss": "ءُ سوزانیت"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاهن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "چربی"
     },
     {
-      "surface": "הַחֵלֶב",
+      "surface": "החלב",
       "gloss": "چربی"
     },
     {
-      "surface": "הַמִּזְבֵּחָה",
+      "surface": "המזבחה",
       "gloss": "قربانگاہءَ"
     },
     {
-      "surface": "וְהָיָה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "הֶחָזֶה",
+      "surface": "החזה",
       "gloss": "سینی"
     },
     {
-      "surface": "לְאַהֲרֹן",
+      "surface": "לאהרן",
       "gloss": "اہارونءِ"
     },
     {
-      "surface": "וּלְבָנָיו",
+      "surface": "ולבניו",
       "gloss": "ءُ اہارونءِ زہگانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:27:36.510968331Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "psalms 32:7",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:36:59.115782801Z",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "تو منءِ پنہاںءِ جاگہ ئے، چہ تنگیءَ منءَ نگہ داریں، گوں نجاتءِ بانگان منءَ چیر کنیں۔ سلاہ۔",
   "tokens": [
@@ -32,7 +34,7 @@
       "gloss": "بانگ"
     },
     {
-      "surface": "پלט",
+      "surface": "פלט",
       "gloss": "پہ نجاتءِ"
     },
     {
@@ -43,7 +45,5 @@
       "surface": "סלה",
       "gloss": "سلاہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:36:59.115782801Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "genesis 46:16",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:00:35.363197532Z",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "tier": "glm-5.2",
   "chapter": 46,
   "translation": "ءُ گادءِ زہگان: صِپھیون ءُ حَگی، شونی ءُ اِتصبون، عیری ءُ اَرودی ءُ اَرئیلی.",
   "tokens": [
     {
-      "surface": "וּבְנֵ֣י",
+      "surface": "ובני",
       "gloss": "ءُ … ءِ زہگان"
     },
     {
-      "surface": "גָ֔ד",
+      "surface": "גד",
       "gloss": "گاد"
     },
     {
-      "surface": "צִפְי֥וֹן",
+      "surface": "צפיון",
       "gloss": "صِپھیون"
     },
     {
-      "surface": "וְחַגִּ֖י",
+      "surface": "וחגי",
       "gloss": "ءُ حَگی"
     },
     {
-      "surface": "שׁוּנִ֣י",
+      "surface": "שוני",
       "gloss": "شونی"
     },
     {
-      "surface": "וְאֶצְבֹּ֑ן",
+      "surface": "ואצבן",
       "gloss": "ءُ اِتصبون"
     },
     {
-      "surface": "עֵרִ֥י",
+      "surface": "ערי",
       "gloss": "عیری"
     },
     {
-      "surface": "וַֽאֲרוֹדִ֖י",
+      "surface": "וארודי",
       "gloss": "ءُ اَرودی"
     },
     {
-      "surface": "וְאַרְאֵלִֽי",
+      "surface": "ואראלי",
       "gloss": "ءُ اَرئیلی"
     }
-  ],
-  "timestamp": "2026-09-25T17:00:35.363197532Z",
-  "model": "glm-5.3"
+  ]
 }

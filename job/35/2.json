@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "job 35:2",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:29:27.570557761Z",
+  "verse": 2,
+  "ref": "job 35:2",
+  "tier": "glm-5.2",
   "chapter": 35,
   "translation": "اے تُو گننجیت پہ انصافءَ، کہ تُو گوَشتی: «منءِ راستی چہ ایلءِ گیشتر اِنت»؟",
   "tokens": [
     {
-      "surface": "הֲ֭זֹאת",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "חָשַׁ֣בְתָּ",
+      "surface": "חשבת",
       "gloss": "تُو گننجیت"
     },
     {
-      "surface": "לְמִשְׁפָּ֑ט",
+      "surface": "למשפט",
       "gloss": "پہ انصافءَ"
     },
     {
-      "surface": "אָ֝מַ֗רְתָּ",
+      "surface": "אמרת",
       "gloss": "تُو گوَشتی"
     },
     {
-      "surface": "צִדְקִ֥י",
+      "surface": "צדקי",
       "gloss": "منءِ راستی"
     },
     {
-      "surface": "מֵאֵֽל",
+      "surface": "מאל",
       "gloss": "چہ ایلءِ گیشتر"
     }
-  ],
-  "timestamp": "2026-09-25T18:29:27.570557761Z",
-  "model": "glm-5.3"
+  ]
 }

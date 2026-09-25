@@ -1,34 +1,36 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "job 4:7",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:31:48.406326036Z",
+  "verse": 7,
+  "ref": "job 4:7",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "یاد اَ کت، کِے کِے اُو بے قصہ تلف بوت؟ ءُ کجا راستان مِٹ بوتنت؟",
   "tokens": [
     {
-      "surface": "זְכָר",
+      "surface": "זכר",
       "gloss": "یاد کت"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
       "gloss": "اَ"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کِے"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "اُو"
     },
     {
-      "surface": "נָקִי",
+      "surface": "נקי",
       "gloss": "بے قصہ"
     },
     {
-      "surface": "אָבַד",
+      "surface": "אבד",
       "gloss": "تلف بوت"
     },
     {
@@ -36,14 +38,12 @@
       "gloss": "ءُ کجا"
     },
     {
-      "surface": "ישָׁרִים",
+      "surface": "ישרים",
       "gloss": "راستان"
     },
     {
-      "surface": "נִכְחָֽדוּ",
+      "surface": "נכחדו",
       "gloss": "مِٹ بوتنت"
     }
-  ],
-  "timestamp": "2026-09-25T18:31:48.406326036Z",
-  "model": "glm-5.3"
+  ]
 }

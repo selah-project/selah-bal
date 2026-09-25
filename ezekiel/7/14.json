@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "ezekiel 7:14",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:34:43.587206982Z",
+  "verse": 14,
+  "ref": "ezekiel 7:14",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "شپار کتگ ءُ ہمگ چیز تیار کتگ، پر کس جنگءَ نہ روت؛ پرچا کہ مٰیءِ غضب آییءِ پوریں ہجومءِ سرءَ اِنت۔",
   "tokens": [
     {
-      "surface": "תָּקְע֤וּ",
+      "surface": "תקעו",
       "gloss": "شپار کتگ"
     },
     {
-      "surface": "בַתָּק֨וֹעַ֙",
+      "surface": "בתקוע",
       "gloss": "شپار"
     },
     {
-      "surface": "וְהָכִ֣ין",
+      "surface": "והכין",
       "gloss": "ءُ تیار کتگ"
     },
     {
-      "surface": "הַכֹּ֔ל",
+      "surface": "הכל",
       "gloss": "ہمگ چیز"
     },
     {
-      "surface": "וְאֵ֥ין",
+      "surface": "ואין",
       "gloss": "پر کس نیست"
     },
     {
-      "surface": "הֹלֵ֖ךְ",
+      "surface": "הלך",
       "gloss": "روت"
     },
     {
-      "surface": "לַמִּלְחָמָ֑ה",
+      "surface": "למלחמה",
       "gloss": "جنگءَ"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "חֲרוֹנִ֖י",
+      "surface": "חרוני",
       "gloss": "مٰیءِ غضب"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "⟨تا⟩"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "הֲמוֹנָֽהּ",
+      "surface": "המונה",
       "gloss": "آییءِ ہجومءِ سرءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:34:43.587206982Z",
-  "model": "glm-5.3"
+  ]
 }

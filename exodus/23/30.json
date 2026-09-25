@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "exodus 23:30",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:51:59.292883696Z",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "کم کم ما آیانءَ چہ تُہءِ دیمءَ بِدرَم کنم، تا کہ تُیں پروش بگرٹیں ءُ ⟨את⟩ زمینءِ وارث بگرٹیں.",
   "tokens": [
     {
-      "surface": "מְעַט",
+      "surface": "מעט",
       "gloss": "کم"
     },
     {
-      "surface": "מְעַט",
+      "surface": "מעט",
       "gloss": "کم"
     },
     {
-      "surface": "אֲגָרְשֶׁנּוּ",
+      "surface": "אגרשנו",
       "gloss": "آیانءَ بِدرَم کنم"
     },
     {
-      "surface": "מִפָּנֶיךָ",
+      "surface": "מפניך",
       "gloss": "چہ تُہءِ دیمءَ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا کہ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "תִּפְרֶה",
+      "surface": "תפרה",
       "gloss": "تُیں پروش بگرٹیں"
     },
     {
-      "surface": "וְנָחַלְתָּ",
+      "surface": "ונחלת",
       "gloss": "ءُ وارث بگرٹیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زمین"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     }
-  ],
-  "timestamp": "2026-09-25T15:51:59.292883696Z",
-  "model": "glm-5.3"
+  ]
 }

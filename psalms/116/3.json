@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "psalms 116:3",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:25:13.538780710Z",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "tier": "glm-5.2",
   "chapter": 116,
   "translation": "موتءِ رسیاں منی سرا گپت، ءُ شیئولءِ تنگیان منی لبز کت؛ تنگی ءُ غم منی سرا آتنت.",
   "tokens": [
@@ -36,14 +38,12 @@
       "gloss": "تنگی"
     },
     {
-      "surface": "וגון",
+      "surface": "ויגון",
       "gloss": "ءُ غم"
     },
     {
       "surface": "אמצא",
       "gloss": "منی سرا آتنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:25:13.538780710Z",
-  "model": "glm-5.3"
+  ]
 }

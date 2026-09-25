@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "micah 7:9",
   "book": "micah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:34:45.845602072Z",
+  "verse": 9,
+  "ref": "micah 7:9",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "یاہوہءِ غضبءَ من بوراں، پرچا کہ من آییءَ نہ کتاں؛ اودر تا کہ آیی منی داڈی لڑیت ءُ منی انصافءَ کنیت، آءُ منءَ روشنائیءَ در کنیت، من آییءِ راستیءَ گندیت۔",
   "tokens": [
     {
-      "surface": "זַעַף",
+      "surface": "זעף",
       "gloss": "غضبءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֶשָּׂא",
+      "surface": "אשא",
       "gloss": "بوراں"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "חָטָאתִי",
+      "surface": "חטאתי",
       "gloss": "نہ کتاں"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "اودر تا کہ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "⟨کہ⟩"
     },
     {
-      "surface": "יָרִיב",
+      "surface": "יריב",
       "gloss": "لڑیت"
     },
     {
-      "surface": "רִיבִי",
+      "surface": "ריבי",
       "gloss": "منی داڈی"
     },
     {
-      "surface": "וְעָשָׂה",
+      "surface": "ועשה",
       "gloss": "ءُ … کنیت"
     },
     {
-      "surface": "מִשְׁפָּטִי",
+      "surface": "משפטי",
       "gloss": "منی انصاف"
     },
     {
-      "surface": "יוֹצִיאֵנִי",
+      "surface": "יוציאני",
       "gloss": "منءَ … در کنیت"
     },
     {
-      "surface": "לָאוֹר",
+      "surface": "לאור",
       "gloss": "روشنائیءَ"
     },
     {
-      "surface": "אֶרְאֶה",
+      "surface": "אראה",
       "gloss": "گندیت"
     },
     {
-      "surface": "בְּצִדְקָתוֹ",
+      "surface": "בצדקתו",
       "gloss": "آییءِ راستیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:34:45.845602072Z",
-  "model": "glm-5.3"
+  ]
 }

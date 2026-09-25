@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "proverbs 24:30",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:20:00.585492486Z",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "کاہلءِ مردءِ میدانءِ نزدیکی چہ گوزشتُم، ءُ دلی کَمءِ مردءِ انگورءِ باغءِ نزدیکی چہ۔",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "نزدیکی چہ"
     },
     {
-      "surface": "שְׂדֵה",
+      "surface": "שדה",
       "gloss": "میدان"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "مردءِ"
     },
     {
-      "surface": "עָצֵל",
+      "surface": "עצל",
       "gloss": "کاہلءِ"
     },
     {
-      "surface": "עָבַרְתִּי",
+      "surface": "עברתי",
       "gloss": "گوزشتُم"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ نزدیکی چہ"
     },
     {
-      "surface": "כֶּרֶם",
+      "surface": "כרם",
       "gloss": "انگورءِ باغءِ"
     },
     {
-      "surface": "אָדָם",
+      "surface": "אדם",
       "gloss": "مردءِ"
     },
     {
-      "surface": "חֲסַר",
+      "surface": "חסר",
       "gloss": "کَمءِ"
     },
     {
-      "surface": "לֵב",
+      "surface": "לב",
       "gloss": "دلی"
     }
-  ],
-  "timestamp": "2026-09-25T20:20:00.585492486Z",
-  "model": "glm-5.3"
+  ]
 }

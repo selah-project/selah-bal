@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "isaiah 51:12",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:28:45.081906079Z",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "tier": "glm-5.2",
   "chapter": 51,
   "translation": "من، من آ اِنت کہ شماءَ تسلی دنت؛ تو کے اِنت کہ ترسیں چہ اکے انسانی کہ مریت ءُ چہ آدمءِ زہگی کہ گاہءِ چوں دیت بیت؟",
   "tokens": [
     {
-      "surface": "אָנֹכִי",
+      "surface": "אנכי",
       "gloss": "من"
     },
     {
-      "surface": "אָנֹכִי",
+      "surface": "אנכי",
       "gloss": "من"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "מְנַחֶמְכֶם",
+      "surface": "מנחמכם",
       "gloss": "شماءَ تسلی دنت"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "אַתְּ",
+      "surface": "את",
       "gloss": "تو"
     },
     {
-      "surface": "וַתִּירְאִי",
+      "surface": "ותיראי",
       "gloss": "ءُ ترسیں"
     },
     {
-      "surface": "מֵאֱנוֹשׁ",
+      "surface": "מאנוש",
       "gloss": "چہ اکے انسانی"
     },
     {
-      "surface": "יָמוּת",
+      "surface": "ימות",
       "gloss": "کہ مریت"
     },
     {
-      "surface": "וּמִבֶּן",
+      "surface": "ומבן",
       "gloss": "ءُ چہ زہگی"
     },
     {
-      "surface": "אָדָם",
+      "surface": "אדם",
       "gloss": "آدمءِ"
     },
     {
-      "surface": "חָצִיר",
+      "surface": "חציר",
       "gloss": "گاہءِ چوں"
     },
     {
-      "surface": "יִנָּתֵן",
+      "surface": "ינתן",
       "gloss": "دیت بیت"
     }
-  ],
-  "timestamp": "2026-09-25T17:28:45.081906079Z",
-  "model": "glm-5.3"
+  ]
 }

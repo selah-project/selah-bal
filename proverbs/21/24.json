@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "proverbs 21:24",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:16:21.119471924Z",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "مزن ءُ سرفروش، مزاحمن ⟨اِنت⟩ آییءِ نام — آ کہ مزنیءِ غضبءَ کار کنیت۔",
   "tokens": [
     {
-      "surface": "זֵד",
+      "surface": "זד",
       "gloss": "مزن"
     },
     {
-      "surface": "יָהִיר",
+      "surface": "יהיר",
       "gloss": "سرفروش"
     },
     {
-      "surface": "לֵץ",
+      "surface": "לץ",
       "gloss": "مزاحمن"
     },
     {
-      "surface": "שְׁמוֹ",
+      "surface": "שמו",
       "gloss": "آییءِ نام"
     },
     {
-      "surface": "עֹשֵׂה",
+      "surface": "עושה",
       "gloss": "کار کنوک"
     },
     {
-      "surface": "בְּעֶבְרַת",
+      "surface": "בעברת",
       "gloss": "تہ غضبءَ"
     },
     {
-      "surface": "זָדוֹן",
+      "surface": "זדון",
       "gloss": "مزنیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:16:21.119471924Z",
-  "model": "glm-5.3"
+  ]
 }

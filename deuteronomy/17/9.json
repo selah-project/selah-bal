@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "deuteronomy 17:9",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:14:06.684852441Z",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "ءُ تو رسی ءَ کاهنانِ لۏی ءُ ءَ شپتکار کہ اُن روچاناں ہبیت، ءُ تو پُچشت، ءُ اِشاں تئَ ⟨את⟩ شپتءِ گال گوشیئنت،",
   "tokens": [
     {
-      "surface": "וּבָאתָ֗",
+      "surface": "ובאת",
       "gloss": "ءُ تو رسی ءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ"
     },
     {
-      "surface": "הַכֹּהֲנִים֙",
+      "surface": "הכהנים",
       "gloss": "کاهنان"
     },
     {
-      "surface": "הַלְוִיִּ֔ם",
+      "surface": "הלוים",
       "gloss": "لۏی"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "ءُ ءَ"
     },
     {
-      "surface": "הַשֹּׁפֵ֔ט",
+      "surface": "השפט",
       "gloss": "شپتکار"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יִהְיֶ֖ה",
+      "surface": "יהיה",
       "gloss": "ہبیت"
     },
     {
-      "surface": "בַּיָּמִ֣ים",
+      "surface": "בימים",
       "gloss": "روچاناں"
     },
     {
-      "surface": "הָהֵ֑ם",
+      "surface": "ההם",
       "gloss": "اُن"
     },
     {
-      "surface": "וְדָרַשְׁתָּ֙",
+      "surface": "ודרשת",
       "gloss": "ءُ تو پُچشت"
     },
     {
-      "surface": "וְהִגִּ֣ידוּ",
+      "surface": "והגידו",
       "gloss": "ءُ اِشاں گوشیئنت"
     },
     {
-      "surface": "לְךָ֔",
+      "surface": "לך",
       "gloss": "تئَ"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شپتءِ گال"
     },
     {
-      "surface": "דְּבַ֥ר",
+      "surface": "דבר",
       "gloss": "گال"
     },
     {
-      "surface": "הַמִּשְׁפָּֽט",
+      "surface": "המשפט",
       "gloss": "شپتءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:14:06.684852441Z",
-  "model": "glm-5.3"
+  ]
 }

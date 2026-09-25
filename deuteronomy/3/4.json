@@ -1,98 +1,98 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "deuteronomy 3:4",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:25:22.635262863Z",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ ما اے وہدءَ ⟨את⟩ آییءِ پوریں شہر گپت، اے وہدءَ ہچ یک شہر نہ بیت کہ ما آ چہ اِشاں نہ گپتگ بیت — شست شہر، پوریں ناگہ آربگ، اوگءِ شاہی، تہ بشانءَ۔",
   "tokens": [
     {
-      "surface": "וַנִּלְכֹּד",
+      "surface": "ונלכד",
       "gloss": "ءُ ما گپت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ پوریں شہر"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "עָרָיו",
+      "surface": "עריו",
       "gloss": "آییءِ شہر"
     },
     {
-      "surface": "בָּעֵת",
+      "surface": "בעת",
       "gloss": "اے وہدءَ"
     },
     {
-      "surface": "הַהִוא",
+      "surface": "ההוא",
       "gloss": "اے وہد"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "הָיְתָה",
+      "surface": "היתה",
       "gloss": "بیت"
     },
     {
-      "surface": "קִרְיָה",
+      "surface": "קריה",
       "gloss": "شہر"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "לָקַחְנוּ",
+      "surface": "לקחנו",
       "gloss": "ما گپتگ"
     },
     {
-      "surface": "מֵאִתָּם",
+      "surface": "מאתם",
       "gloss": "چہ ⟨את⟩ اِشاں"
     },
     {
-      "surface": "שִׁשִּׁים",
+      "surface": "ששים",
       "gloss": "شست"
     },
     {
-      "surface": "עִיר",
+      "surface": "עיר",
       "gloss": "شہر"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "חֶבֶל",
+      "surface": "חבל",
       "gloss": "ناگہ"
     },
     {
-      "surface": "אַרְגֹּב",
+      "surface": "ארגב",
       "gloss": "آربگ"
     },
     {
-      "surface": "מַמְלֶכֶת",
+      "surface": "ממלכת",
       "gloss": "شاہی"
     },
     {
-      "surface": "עוֹג",
+      "surface": "עוג",
       "gloss": "اوگ"
     },
     {
-      "surface": "בַּבָּשָׁן",
+      "surface": "בבשן",
       "gloss": "تہ بشانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:25:22.635262863Z",
-  "model": "glm-5.3"
+  ]
 }

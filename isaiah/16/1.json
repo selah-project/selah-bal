@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "isaiah 16:1",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:12:04.663296195Z",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "بریں لہڑ پہ زمینءِ والیءَ، چہ سِلا چہ بیابانءَ، تہ تسیونءِ جنکءِ کوٹ.",
   "tokens": [
     {
-      "surface": "שִׁלְחוּ",
+      "surface": "שלחו",
       "gloss": "بریں"
     },
     {
-      "surface": "כַ֥ר",
+      "surface": "כר",
       "gloss": "لہڑ"
     },
     {
-      "surface": "מֹשֵֽׁל",
+      "surface": "משל",
       "gloss": "والی"
     },
     {
-      "surface": "אֶ֖רֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "מִסֶּ֣לַע",
+      "surface": "מסלע",
       "gloss": "سِلا"
     },
     {
-      "surface": "מִדְבָּ֑רָה",
+      "surface": "מדברה",
       "gloss": "بیابانءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "הַ֖ר",
+      "surface": "הר",
       "gloss": "کوٹ"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنکءِ"
     },
     {
-      "surface": "צִיּֽוֹן",
+      "surface": "ציון",
       "gloss": "تسیونءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:12:04.663296195Z",
-  "model": "glm-5.3"
+  ]
 }

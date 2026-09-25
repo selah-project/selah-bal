@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "ezekiel 23:14",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:11:40.201145418Z",
+  "verse": 14,
+  "ref": "ezekiel 23:14",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "ءُ آ وتی زناکاریاں ءَ زیاد کت، ءُ آ گوشیت مردمانی کہ دیوارءَ تہ نقش بوتگ — کسدانیانی شکلان، شنگرفیں رنگءَ کتر بوتگین.",
   "tokens": [
     {
-      "surface": "וַתּוֹסֶף",
+      "surface": "ותוסף",
       "gloss": "ءُ زیاد کت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پیش"
     },
     {
-      "surface": "תַּזְנוּתֶיהָ",
+      "surface": "תזנותיה",
       "gloss": "وتی زناکاریاں"
     },
     {
-      "surface": "וַתֵּרֶא",
+      "surface": "ותרא",
       "gloss": "ءُ آ گوشیت"
     },
     {
-      "surface": "אַנְשֵׁי",
+      "surface": "אנשי",
       "gloss": "مردمانی"
     },
     {
-      "surface": "מְחֻקֶּה",
+      "surface": "מחקה",
       "gloss": "نقش بوتگ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "הַקִּיר",
+      "surface": "הקיר",
       "gloss": "دیوارءَ"
     },
     {
-      "surface": "צַלְמֵי",
+      "surface": "צלמי",
       "gloss": "شکلان"
     },
     {
-      "surface": "כַּשְׂדִים",
+      "surface": "כשדיים",
       "gloss": "کسدانیانی"
     },
     {
-      "surface": "חֲקֻקִים",
+      "surface": "חקקים",
       "gloss": "کتر بوتگین"
     },
     {
-      "surface": "בַּשָּׁשַׁר",
+      "surface": "בששר",
       "gloss": "شنگرفیں رنگءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:11:40.201145418Z",
-  "model": "glm-5.3"
+  ]
 }

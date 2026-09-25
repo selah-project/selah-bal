@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "deuteronomy 14:15",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:12:24.835575209Z",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ ⟨את⟩ شترمرگ ءُ ⟨את⟩ تہماس ءُ ⟨את⟩ شحاف ءُ ⟨את⟩ باز پہ وتۓ گونہءَ",
   "tokens": [
@@ -48,10 +50,8 @@
       "gloss": "باز"
     },
     {
-      "surface": "למינהو",
+      "surface": "למינהו",
       "gloss": "پہ وتۓ گونہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:12:24.835575209Z",
-  "model": "glm-5.3"
+  ]
 }

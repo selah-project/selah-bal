@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 49,
-  "ref": "psalms 78:49",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:46:28.537498928Z",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "tier": "glm-5.2",
   "chapter": 78,
   "translation": "آییءَ اِشانی سرءَ وتی اَپءِ سوزی غزا، زہم ءُ غصہ ءُ گنڈاٹ لہت — شر پیغمانیں لہتینگ۔",
   "tokens": [
     {
-      "surface": "יְשַׁלַּח",
+      "surface": "ישלח",
       "gloss": "لہت"
     },
     {
-      "surface": "בָּם",
+      "surface": "בם",
       "gloss": "اِشانی سرءَ"
     },
     {
-      "surface": "חֲרוֹן",
+      "surface": "חרון",
       "gloss": "سوزی"
     },
     {
-      "surface": "אַפּוֹ",
+      "surface": "אפו",
       "gloss": "وتی اَپءِ"
     },
     {
-      "surface": "עֶבְרָה",
+      "surface": "עברה",
       "gloss": "غزا"
     },
     {
-      "surface": "וָזַעַם",
+      "surface": "וזעם",
       "gloss": "ءُ زہم"
     },
     {
-      "surface": "וְצָרָה",
+      "surface": "וצרה",
       "gloss": "ءُ غصہ ءُ گنڈاٹ"
     },
     {
-      "surface": "מִשְׁלַחַת",
+      "surface": "משלחת",
       "gloss": "لہتینگ"
     },
     {
-      "surface": "מַלְאֲכֵי",
+      "surface": "מלאכי",
       "gloss": "پیغمانیں"
     },
     {
-      "surface": "רָעִֽים",
+      "surface": "רעים",
       "gloss": "شر"
     }
-  ],
-  "timestamp": "2026-09-25T20:46:28.537498928Z",
-  "model": "glm-5.3"
+  ]
 }

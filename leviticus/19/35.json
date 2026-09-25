@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "leviticus 19:35",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:21:04.643595737Z",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "نہ کنیت بے‌راستی تہ انصافءَ، تہ درازءِ اندازہءَ، تہ وزنءَ ءُ تہ پیمانشءَ۔",
   "tokens": [
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תַעֲשׂ֥וּ",
+      "surface": "תעשו",
       "gloss": "کنیت"
     },
     {
-      "surface": "עָ֖וֶל",
+      "surface": "עול",
       "gloss": "بے‌راستی"
     },
     {
-      "surface": "בַּמִּשְׁפָּ֑ט",
+      "surface": "במשפט",
       "gloss": "تہ انصافءَ"
     },
     {
-      "surface": "בַּמִּדָּ֕ה",
+      "surface": "במדה",
       "gloss": "تہ درازءِ اندازہءَ"
     },
     {
-      "surface": "בַּמִּשְׁקָ֖ל",
+      "surface": "במשקל",
       "gloss": "تہ وزنءَ"
     },
     {
-      "surface": "וּבַמְּשׂוּרָֽה",
+      "surface": "ובמשורה",
       "gloss": "ءُ تہ پیمانشءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:21:04.643595737Z",
-  "model": "glm-5.3"
+  ]
 }

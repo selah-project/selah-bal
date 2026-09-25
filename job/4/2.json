@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "job 4:2",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:31:18.199144865Z",
+  "verse": 2,
+  "ref": "job 4:2",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "اگر یک تے گوں یک گپ آزمایش کنت، تُو شکستگ بیت؟ ءُ گپانی جہلءَ کے شکت بیت؟",
   "tokens": [
     {
-      "surface": "הֲנִסָּה",
+      "surface": "הנסה",
       "gloss": "اگر … آزمایش کنت"
     },
     {
-      "surface": "דָּבָר",
+      "surface": "דבר",
       "gloss": "یک گپ"
     },
     {
-      "surface": "אֵלֶיךָ",
+      "surface": "אליך",
       "gloss": "تے لڑ"
     },
     {
-      "surface": "תִּלְאֶה",
+      "surface": "תלאה",
       "gloss": "شکستگ بیت"
     },
     {
-      "surface": "וַעֲצֹר",
+      "surface": "ועצר",
       "gloss": "ءُ دامبیت"
     },
     {
-      "surface": "בְּמִלִּין",
+      "surface": "במלין",
       "gloss": "گپانی جہلءَ"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יוּכָל",
+      "surface": "יוכל",
       "gloss": "شکت بیت"
     }
-  ],
-  "timestamp": "2026-09-25T18:31:18.199144865Z",
-  "model": "glm-5.3"
+  ]
 }

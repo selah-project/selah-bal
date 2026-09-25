@@ -1,112 +1,112 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "zechariah 13:2",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:57:10.684489827Z",
+  "verse": 2,
+  "ref": "zechariah 13:2",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ بیت اے روچءَ، یاہوہ سباؤتءِ گال اِنت، من بتانی نامان ⟨את⟩ چہ زمین بُر کنتءَ، ءُ مزن چہ یاد نہ بنت؛ ءُ ہم ⟨את⟩ پیغمبران ءُ ⟨את⟩ ناپاکیءِ روح چہ زمین در کنتءَ۔",
   "tokens": [
     {
-      "surface": "וְהָיָה֩",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "בַיּ֨וֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "הַה֜וּא",
+      "surface": "ההוא",
       "gloss": "اے"
     },
     {
-      "surface": "נְאֻ֣ם",
+      "surface": "נאם",
       "gloss": "گال"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "צְבָא֗וֹת",
+      "surface": "צבאות",
       "gloss": "سباؤت"
     },
     {
-      "surface": "אַכְרִ֞ית",
+      "surface": "אכרית",
       "gloss": "بُر کنتءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "بتانی نامان"
     },
     {
-      "surface": "שְׁמ֤וֹת",
+      "surface": "שמות",
       "gloss": "نامان"
     },
     {
-      "surface": "הָֽעֲצַבִּים֙",
+      "surface": "העצבים",
       "gloss": "بتانی"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָאָ֔רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "וְלֹ֥א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִזָּכְר֖וּ",
+      "surface": "יזכרו",
       "gloss": "یاد بنت"
     },
     {
-      "surface": "ע֑וֹד",
+      "surface": "עוד",
       "gloss": "مزن"
     },
     {
-      "surface": "וְגַ֧ם",
+      "surface": "וגם",
       "gloss": "ءُ ہم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پیغمبران"
     },
     {
-      "surface": "הַנְּבִיאִ֛ים",
+      "surface": "הנביאים",
       "gloss": "پیغمبران"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ناپاکیءِ روح"
     },
     {
-      "surface": "ר֥וּחַ",
+      "surface": "רוח",
       "gloss": "روح"
     },
     {
-      "surface": "הַטֻּמְאָ֖ה",
+      "surface": "הטמאה",
       "gloss": "ناپاکیءِ"
     },
     {
-      "surface": "אַעֲבִ֥יר",
+      "surface": "אעביר",
       "gloss": "در کنتءَ"
     },
     {
-      "surface": "مִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָאָֽרֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     }
-  ],
-  "timestamp": "2026-09-25T20:57:10.684489827Z",
-  "model": "glm-5.3"
+  ]
 }

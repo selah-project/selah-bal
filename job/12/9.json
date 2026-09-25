@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "job 12:9",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:20:23.919445453Z",
+  "verse": 9,
+  "ref": "job 12:9",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "کے چہ اِشاں گم نہ زانت کہ یاہوہءِ دست آییءَ جوڑ کتگ اِنت؟",
   "tokens": [
     {
-      "surface": "מִ֭י",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָדַ֣ע",
+      "surface": "ידע",
       "gloss": "زانت"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "چہ گم"
     },
     {
-      "surface": "אֵ֑לֶּה",
+      "surface": "אלה",
       "gloss": "اِشاں"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "יָד",
+      "surface": "יד",
       "gloss": "دست"
     },
     {
-      "surface": "יְהוָֹ",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "עָֽשְׂתָ֗ה",
+      "surface": "עשתה",
       "gloss": "جوڑ کتگ"
     },
     {
-      "surface": "זֹּֽאת",
+      "surface": "זאת",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:20:23.919445453Z",
-  "model": "glm-5.3"
+  ]
 }

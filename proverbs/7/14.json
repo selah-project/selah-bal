@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "proverbs 7:14",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:21:24.814159993Z",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "سلامتیءِ قربانیاں منیٰ لبءَ اِنت؛ اے روچ ماں منیٰ نذراں پورہ کتنت۔",
   "tokens": [
     {
-      "surface": "זִבְחֵ֣י",
+      "surface": "זבחי",
       "gloss": "قربانیاں"
     },
     {
-      "surface": "שְׁלָמִ֣ים",
+      "surface": "שלמים",
       "gloss": "سلامتیءِ"
     },
     {
-      "surface": "עָלָ֑י",
+      "surface": "עלי",
       "gloss": "منیٰ لبءَ"
     },
     {
-      "surface": "הַ֝יּ֗וֹם",
+      "surface": "היום",
       "gloss": "اے روچ"
     },
     {
-      "surface": "שִׁלַּ֥מְתִּי",
+      "surface": "שלמתי",
       "gloss": "پورہ کتنت"
     },
     {
-      "surface": "נְדָרָֽי",
+      "surface": "נדרי",
       "gloss": "منیٰ نذراں"
     }
-  ],
-  "timestamp": "2026-09-25T20:21:24.814159993Z",
-  "model": "glm-5.3"
+  ]
 }

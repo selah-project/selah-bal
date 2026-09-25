@@ -1,131 +1,131 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "2-samuel 21:10",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:37:51.146431870Z",
+  "verse": 10,
+  "ref": "2-samuel 21:10",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "ءُ رِصفہ، آیہءِ جنک، گون ⟨את⟩ لے کت ءُ آءِ پہ خود سنگءِ سرءَ پسار کت، چہ دروءِ بنگیجا ریتءَ اے وخت کہ آپ آسماناں آیانی سرءَ برزا؛ ءُ آءِ مرگانی آسمانءَ پہ روچ نہ دات کہ آیانی سرءَ بشینت، ءُ نہ ⟨את⟩ میدانءِ جانوران پہ شپ",
   "tokens": [
     {
-      "surface": "וַתִּקַּח",
+      "surface": "ותקח",
       "gloss": "ءُ لے کت"
     },
     {
-      "surface": "רִצְפָּה",
+      "surface": "רצפה",
       "gloss": "رِصفہ"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنک"
     },
     {
-      "surface": "אַיָּה",
+      "surface": "איה",
       "gloss": "آیہ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گون"
     },
     {
-      "surface": "הַשָּׂק",
+      "surface": "השק",
       "gloss": "گون"
     },
     {
-      "surface": "וַתַּטֵּהוּ",
+      "surface": "ותטהו",
       "gloss": "ءُ پسار کت"
     },
     {
-      "surface": "לָּהּ",
+      "surface": "לה",
       "gloss": "پہ خود"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הַצּוּר",
+      "surface": "הצור",
       "gloss": "سنگ"
     },
     {
-      "surface": "מִתְּחִלַּת",
+      "surface": "מתחלת",
       "gloss": "چہ بنگیجا"
     },
     {
-      "surface": "קָצִיר",
+      "surface": "קציר",
       "gloss": "درو"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "ریتءَ"
     },
     {
-      "surface": "נִתַּךְ",
+      "surface": "נתך",
       "gloss": "برزا"
     },
     {
-      "surface": "מַיִם",
+      "surface": "מים",
       "gloss": "آپ"
     },
     {
-      "surface": "עֲלֵיהֶם",
+      "surface": "עליהם",
       "gloss": "آیانی سرءَ"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַשָּׁמַיִם",
+      "surface": "השמים",
       "gloss": "آسماناں"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "נָתְנָה",
+      "surface": "נתנה",
       "gloss": "دات"
     },
     {
-      "surface": "עוֹף",
+      "surface": "עוף",
       "gloss": "مرگ"
     },
     {
-      "surface": "הַשָּׁמַיִם",
+      "surface": "השמים",
       "gloss": "آسمانءِ"
     },
     {
-      "surface": "לָנוּחַ",
+      "surface": "לנוח",
       "gloss": "کہ بشینت"
     },
     {
-      "surface": "עֲלֵיהֶם",
+      "surface": "עליהם",
       "gloss": "آیانی سرءَ"
     },
     {
-      "surface": "יוֹמָם",
+      "surface": "יומם",
       "gloss": "پہ روچ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "میدانءِ جانوران"
     },
     {
-      "surface": "חַיַּת",
+      "surface": "חית",
       "gloss": "جانوران"
     },
     {
-      "surface": "הַשָּׂדֶה",
+      "surface": "השדה",
       "gloss": "میدانءِ"
     },
     {
-      "surface": "לָיְלָה",
+      "surface": "לילה",
       "gloss": "پہ شپ"
     }
-  ],
-  "timestamp": "2026-09-25T14:37:51.146431870Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "job 9:34",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:33:08.784156415Z",
+  "verse": 34,
+  "ref": "job 9:34",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "آییءَ وتی چڑ منءِ سرچہ پرٹیت، ءُ آییءِ ڈر مءَ نہ ڈرائیت۔",
   "tokens": [
     {
-      "surface": "יָסֵ֣ר",
+      "surface": "יסר",
       "gloss": "پرٹیت"
     },
     {
-      "surface": "מֵעָלַ֣י",
+      "surface": "מעלי",
       "gloss": "منءِ سرچہ"
     },
     {
-      "surface": "שִׁבְט֑וֹ",
+      "surface": "שבטו",
       "gloss": "وتی چڑ"
     },
     {
-      "surface": "וְ֝אֵמָת֗וֹ",
+      "surface": "ואמתו",
       "gloss": "ءُ آییءِ ڈر"
     },
     {
-      "surface": "אַֽל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תְּבַעֲתַֽנִּי",
+      "surface": "תבעתני",
       "gloss": "مءَ ڈرائیت"
     }
-  ],
-  "timestamp": "2026-09-25T18:33:08.784156415Z",
-  "model": "glm-5.3"
+  ]
 }

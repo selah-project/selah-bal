@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 15:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:33:35.017215591Z",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "مزموہر پہ داودءِ۔ اے یاہوہ، کے توءِ گدانءَ مہمان بیت؟ کے توءِ پکءِ کوهءَ وسیت؟",
   "tokens": [
     {
-      "surface": "מִזְמוֹר",
+      "surface": "מזמור",
       "gloss": "مزموہر"
     },
     {
-      "surface": "לְדָ֫וִ֥ד",
+      "surface": "לדוד",
       "gloss": "پہ داودءِ"
     },
     {
-      "surface": "יְ֭הֹוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יָג֣וּר",
+      "surface": "יגור",
       "gloss": "مہمان بیت"
     },
     {
-      "surface": "בְּאָהֳלֶ֑ךָ",
+      "surface": "באהלך",
       "gloss": "توءِ گدانءَ"
     },
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יִ֝שְׁכֹּ֗ן",
+      "surface": "ישכן",
       "gloss": "وسیت"
     },
     {
-      "surface": "בְּהַ֣ר",
+      "surface": "בהר",
       "gloss": "تہ کوهءَ"
     },
     {
-      "surface": "קָדְשֶֽׁךָ",
+      "surface": "קדשך",
       "gloss": "توءِ پکءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:33:35.017215591Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,93 +1,93 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "daniel 9:27",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:02:55.061252388Z",
+  "verse": 27,
+  "ref": "daniel 9:27",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ ⟨او⟩ عہد پہ رندءَ گوں پک کت، یک شبوعءِ پہ، ءُ شبوعءِ نیمءَ قربانی ءُ نذر بند کت، ءُ گندگاںءِ پرءِ سرءَ ویران کنوک ⟨اِنت⟩، ءُ تا پوریاڑی ءُ فرمان بوتگیں، ویران کنوکءَ سرءَ ڈولیت.",
   "tokens": [
     {
-      "surface": "וְהִגְבִּיר",
+      "surface": "והגביר",
       "gloss": "ءُ پک کت"
     },
     {
-      "surface": "בְּרִית",
+      "surface": "ברית",
       "gloss": "عہد"
     },
     {
-      "surface": "לָרַבִּים",
+      "surface": "לרבים",
       "gloss": "پہ رندءَ"
     },
     {
-      "surface": "שָׁבוּעַ",
+      "surface": "שבוע",
       "gloss": "شبوع"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "וַחֲצִי",
+      "surface": "וחצי",
       "gloss": "ءُ نیم"
     },
     {
-      "surface": "הַשָּׁבוּעַ",
+      "surface": "השבוע",
       "gloss": "شبوعءِ"
     },
     {
-      "surface": "יַשְׁבִּית",
+      "surface": "ישבית",
       "gloss": "بند کت"
     },
     {
-      "surface": "זֶבַח",
+      "surface": "זבח",
       "gloss": "قربانی"
     },
     {
-      "surface": "וּמִנְחָה",
+      "surface": "ומנחה",
       "gloss": "ءُ نذر"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "כְּנַף",
+      "surface": "כנף",
       "gloss": "پرءِ"
     },
     {
-      "surface": "שִׁקּוּצִים",
+      "surface": "שקוצים",
       "gloss": "گندگاںءِ"
     },
     {
-      "surface": "מְשֹׁמֵם",
+      "surface": "משמם",
       "gloss": "ویران کنوک"
     },
     {
-      "surface": "וְעַד",
+      "surface": "ועד",
       "gloss": "ءُ تا"
     },
     {
-      "surface": "כָלָה",
+      "surface": "כלה",
       "gloss": "پوریاڑی"
     },
     {
-      "surface": "וְנֶחֱרָצָה",
+      "surface": "ונחרצה",
       "gloss": "ءُ فرمان بوتگیں"
     },
     {
-      "surface": "תִּתַּךְ",
+      "surface": "תתך",
       "gloss": "ڈولیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "שֹׁמֵם",
+      "surface": "שמם",
       "gloss": "ویران کنوکءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:02:55.061252388Z",
-  "model": "glm-5.3"
+  ]
 }

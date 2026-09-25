@@ -1,94 +1,94 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "2-chronicles 7:20",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:59:26.589291796Z",
+  "verse": 20,
+  "ref": "2-chronicles 7:20",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ اِشاں چہ مئے زمینءَ، آ کہ من اِشاںءَ دیتگ اَت، کم کنگ بنت؛ ءُ ⟨את⟩ اے گدان کہ من آییءَ پہ مئے نامءَ پاک کتگ اَت، چہ مئے دیسءَ پرت کنگ بنت؛ ءُ من آییءَ پہ مثال ءُ پہ تشر تہ همه قومانءَ دیئر بیت.",
   "tokens": [
     {
-      "surface": "וּנְתַשְׁתִּים",
+      "surface": "ונתשתים",
       "gloss": "ءُ کم کنگ بنت"
     },
     {
-      "surface": "מֵעַל",
+      "surface": "מעל",
       "gloss": "چہ"
     },
     {
-      "surface": "אַדְמָתִי",
+      "surface": "אדמתי",
       "gloss": "مئے زمین"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "נָתַתִּי",
+      "surface": "נתתי",
       "gloss": "من دیتگ اَت"
     },
     {
-      "surface": "לָהֶם",
+      "surface": "להם",
       "gloss": "اِشاںءَ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "اے گدان"
     },
     {
-      "surface": "הַבַּיִת",
+      "surface": "הבית",
       "gloss": "گدان"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "הִקְדַּשְׁתִּי",
+      "surface": "הקדשתי",
       "gloss": "من پاک کتگ اَت"
     },
     {
-      "surface": "לִשְׁמִי",
+      "surface": "לשמי",
       "gloss": "پہ مئے نامءَ"
     },
     {
-      "surface": "אַשְׁלִיךְ",
+      "surface": "אשליך",
       "gloss": "پرت کنگ بنت"
     },
     {
-      "surface": "מֵעַל",
+      "surface": "מעל",
       "gloss": "چہ"
     },
     {
-      "surface": "פָּנָי",
+      "surface": "פני",
       "gloss": "مئے دیس"
     },
     {
-      "surface": "וְאֶתְּנֶנּוּ",
+      "surface": "ואתננו",
       "gloss": "ءُ من آییءَ دیئر بیت"
     },
     {
-      "surface": "לְמָשָׁל",
+      "surface": "למשל",
       "gloss": "پہ مثال"
     },
     {
-      "surface": "וְלִשְׁנִינָה",
+      "surface": "ולשנינה",
       "gloss": "ءُ پہ تشر"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "تہ همه"
     },
     {
-      "surface": "הָעַמִּים",
+      "surface": "העמים",
       "gloss": "قومان"
     }
-  ],
-  "timestamp": "2026-09-25T13:59:26.589291796Z",
-  "model": "glm-5.3"
+  ]
 }

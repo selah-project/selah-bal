@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "exodus 37:1",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:59:06.740024601Z",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "tier": "glm-5.2",
   "chapter": 37,
   "translation": "ءُ بِتسالءیل ⟨את⟩ صندوقءَ چہ چھڈءِ دارانا جوڑ کت — آییءِ تیرا دو ءُ نیم اَمات، ءُ یک ءُ نیم آییءِ دَرازی، ءُ یک ءُ نیم آییءِ پَٹی، ءُ یک ءُ نیم آییءِ اُچائی۔",
   "tokens": [
     {
-      "surface": "וַיַּ֧עַשׂ",
+      "surface": "ויעש",
       "gloss": "ءُ جوڑ کت"
     },
     {
-      "surface": "בְּצַלְאֵ֛ל",
+      "surface": "בצלאל",
       "gloss": "بِتسالءیل"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "صندوق"
     },
     {
-      "surface": "הָאָרֹ֖ן",
+      "surface": "הארן",
       "gloss": "صندوق"
     },
     {
-      "surface": "עֲצֵ֣י",
+      "surface": "עצי",
       "gloss": "دارانی"
     },
     {
-      "surface": "שִׁטִּ֑ים",
+      "surface": "שטים",
       "gloss": "چھڈ"
     },
     {
-      "surface": "אַמָּתַ֨יִם",
+      "surface": "אמתים",
       "gloss": "دو اَمات"
     },
     {
-      "surface": "וָחֵ֜צִי",
+      "surface": "וחצי",
       "gloss": "ءُ نیم"
     },
     {
-      "surface": "אָרְכּ֗וֹ",
+      "surface": "ארכו",
       "gloss": "آییءِ دَرازی"
     },
     {
-      "surface": "וְאַמָּ֤ה",
+      "surface": "ואמה",
       "gloss": "ءُ یک اَمات"
     },
     {
-      "surface": "וָחֵ֨צִי֙",
+      "surface": "וחצי",
       "gloss": "ءُ نیم"
     },
     {
-      "surface": "רָחְבּ֔וֹ",
+      "surface": "רחבו",
       "gloss": "آییءِ پَٹی"
     },
     {
-      "surface": "וְאַמָּ֥ה",
+      "surface": "ואמה",
       "gloss": "ءُ یک اَمات"
     },
     {
-      "surface": "וָחֵ֖צִי",
+      "surface": "וחצי",
       "gloss": "ءُ نیم"
     },
     {
-      "surface": "קֹמָתֽוֹ",
+      "surface": "קמתו",
       "gloss": "آییءِ اُچائی"
     }
-  ],
-  "timestamp": "2026-09-25T15:59:06.740024601Z",
-  "model": "glm-5.3"
+  ]
 }

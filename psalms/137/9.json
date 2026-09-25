@@ -1,42 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "psalms 137:9",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:31:14.823725336Z",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "tier": "glm-5.2",
   "chapter": 137,
   "translation": "خوش‌بخت اِنت آ کہ گرپت ءُ تُری ⟨את⟩ تری جنینانءَ گوَنڈیں ڈگارءَ شکنیت۔",
   "tokens": [
     {
-      "surface": "אַשְׁרֵ֤י",
+      "surface": "אשרי",
       "gloss": "خوش‌بخت"
     },
     {
-      "surface": "שֶׁיֹּאחֵ֓ז",
+      "surface": "שיאחז",
       "gloss": "آ کہ گرپت"
     },
     {
-      "surface": "וְנִפֵּ֬ץ",
+      "surface": "ונפץ",
       "gloss": "ءُ تُری شکنیت"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تری جنینانءَ"
     },
     {
-      "surface": "עֹ֝לָלַ֗יִךְ",
+      "surface": "עלליך",
       "gloss": "تری جنینانءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "گوَنڈیں ڈگارءَ"
     },
     {
-      "surface": "הַסָּֽלַע",
+      "surface": "הסלע",
       "gloss": "ڈگار"
     }
-  ],
-  "timestamp": "2026-09-25T20:31:14.823725336Z",
-  "model": "glm-5.3"
+  ]
 }

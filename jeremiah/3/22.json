@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "jeremiah 3:22",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:56:50.765425523Z",
+  "verse": 22,
+  "ref": "jeremiah 3:22",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "پدا آئو، زہگانِ پدا-گرتگ، من تساںءِ پدا-گرگاںءَ ساپ کنءُاں۔ اے نگاہ، آءِ تساںءَ روت، پرچا کہ تو یاہوہ، اسپءِ ایلوہیم، اِنت۔",
   "tokens": [
     {
-      "surface": "שׁוּבוּ",
+      "surface": "שובו",
       "gloss": "پدا آئو"
     },
     {
-      "surface": "בָּנִים",
+      "surface": "בנים",
       "gloss": "زہگان"
     },
     {
-      "surface": "שׁוֹבָבִים",
+      "surface": "שובבים",
       "gloss": "پدا-گرتگ"
     },
     {
-      "surface": "אֶרְפָּה",
+      "surface": "ארפה",
       "gloss": "ساپ کنءُاں"
     },
     {
-      "surface": "מְשׁוּבֹתֵיכֶם",
+      "surface": "משובתיכם",
       "gloss": "تساںءِ پدا-گرگاں"
     },
     {
-      "surface": "הִנְנוּ",
+      "surface": "הננו",
       "gloss": "اے نگاہ"
     },
     {
-      "surface": "אָתָנוּ",
+      "surface": "אתנו",
       "gloss": "روت"
     },
     {
-      "surface": "לָךְ",
+      "surface": "לך",
       "gloss": "تساںءَ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "יְהֹוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵינוּ",
+      "surface": "אלהינו",
       "gloss": "اسپءِ ایلوہیم"
     }
-  ],
-  "timestamp": "2026-09-25T17:56:50.765425523Z",
-  "model": "glm-5.3"
+  ]
 }

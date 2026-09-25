@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "ezekiel 16:30",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:07:33.990527200Z",
+  "verse": 30,
+  "ref": "ezekiel 16:30",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "چت سُست اِنت تیری دل، ادونای یاہوہءِ گال، وہدے کہ تُءَ ⟨את⟩ ہمگ اے کاراں کنیں — یک زناکار جنکءِ کار، یک سرکشیں۔",
   "tokens": [
     {
-      "surface": "מָה",
+      "surface": "מה",
       "gloss": "چت"
     },
     {
-      "surface": "אֲמֻלָה",
+      "surface": "אמלה",
       "gloss": "سُست"
     },
     {
-      "surface": "לִבָּתֵךְ",
+      "surface": "לבתך",
       "gloss": "تیری دل"
     },
     {
-      "surface": "נְאֻם",
+      "surface": "נאם",
       "gloss": "گال"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "בַּעֲשׂוֹתֵךְ",
+      "surface": "בעשותך",
       "gloss": "تُءَ کنیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہمگ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "אֵלֶּה",
+      "surface": "אלה",
       "gloss": "اے"
     },
     {
-      "surface": "מַעֲשֵׂה",
+      "surface": "מעשה",
       "gloss": "کار"
     },
     {
-      "surface": "אִשָּׁה",
+      "surface": "אשה",
       "gloss": "جنک"
     },
     {
-      "surface": "זוֹנָה",
+      "surface": "זונה",
       "gloss": "زناکار"
     },
     {
-      "surface": "שַׁלָּטֶת",
+      "surface": "שלטת",
       "gloss": "سرکشیں"
     }
-  ],
-  "timestamp": "2026-09-25T16:07:33.990527200Z",
-  "model": "glm-5.3"
+  ]
 }

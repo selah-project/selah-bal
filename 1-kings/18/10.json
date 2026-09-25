@@ -1,107 +1,107 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "1-kings 18:10",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:56:41.522246497Z",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "یاہوہ، توءِ ایلوہیم، زندگ اِنت کہ ہچ قوم ءُ مملکت نیست کہ ادونای ادا توءِ لبیگءَ پہ نہ شت؛ ءُ اِشاں گوَشتنت، نیست؛ ءُ اِشاںءَ قسم بزدات — ⟨את⟩ مملکتءَ ءُ ⟨את⟩ قومءَ — کہ تو نہ لبت بیت۔",
   "tokens": [
     {
-      "surface": "חַ֣י",
+      "surface": "חי",
       "gloss": "زندگ اِنت"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶ֗יךָ",
+      "surface": "אלהיך",
       "gloss": "توءِ ایلوہیم"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "کہ"
     },
     {
-      "surface": "יֶשׁ",
+      "surface": "יש",
       "gloss": "هست"
     },
     {
-      "surface": "גּ֤וֹי",
+      "surface": "גוי",
       "gloss": "قوم"
     },
     {
-      "surface": "וּמַמְלָכָה֙",
+      "surface": "וממלכה",
       "gloss": "ءُ مملکت"
     },
     {
-      "surface": "אֲ֠שֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "שָׁלַ֨ח",
+      "surface": "שלח",
       "gloss": "شت"
     },
     {
-      "surface": "אֲדֹנִ֥י",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "שָׁם֙",
+      "surface": "שם",
       "gloss": "ادا"
     },
     {
-      "surface": "לְבַקֶּשְׁךָ֔",
+      "surface": "לבקשך",
       "gloss": "توءِ لبیگءَ پہ"
     },
     {
-      "surface": "וְאָמְר֖וּ",
+      "surface": "ואמרו",
       "gloss": "ءُ گوَشتنت"
     },
     {
-      "surface": "אָ֑יִן",
+      "surface": "אין",
       "gloss": "نیست"
     },
     {
-      "surface": "וְהִשְׁבִּ֤יעַ",
+      "surface": "והשביע",
       "gloss": "ءُ قسم بزدات"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مملکتءَ"
     },
     {
-      "surface": "הַמַּמְלָכָה֙",
+      "surface": "הממלכה",
       "gloss": "مملکتءَ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "قومءَ"
     },
     {
-      "surface": "הַגּ֔וֹי",
+      "surface": "הגוי",
       "gloss": "قومءَ"
     },
     {
-      "surface": "כִּ֖י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִמְצָאֶֽכָּה",
+      "surface": "ימצאכה",
       "gloss": "تو نہ لبت بیت"
     }
-  ],
-  "timestamp": "2026-09-25T12:56:41.522246497Z",
-  "model": "glm-5.3"
+  ]
 }

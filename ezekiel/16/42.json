@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
-  "ref": "ezekiel 16:42",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:07:45.137729535Z",
+  "verse": 42,
+  "ref": "ezekiel 16:42",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ مہ جنگءِ غضبءَ تہ آرم بیت گم کنیں ءُ مہ غیرت چہ تہ سر کپیت ءُ مہ آرم گم ءُ دگہ ہچبر غصہ نہ کنیں.",
   "tokens": [
     {
-      "surface": "וַהֲנִחֹתִ֤י",
+      "surface": "והנחתי",
       "gloss": "ءُ مہ … آرام گم کنیں"
     },
     {
-      "surface": "חֲמָתִי֙",
+      "surface": "חמתי",
       "gloss": "مہ جنگ"
     },
     {
-      "surface": "בָּ֔ךְ",
+      "surface": "בך",
       "gloss": "تہ"
     },
     {
-      "surface": "וְסָ֥רָה",
+      "surface": "וסרה",
       "gloss": "ءُ سر کپیت"
     },
     {
-      "surface": "קִנְאָתִ֖י",
+      "surface": "קנאתי",
       "gloss": "مہ غیرت"
     },
     {
-      "surface": "מִמֵּ֑ךְ",
+      "surface": "ממך",
       "gloss": "چہ تہ"
     },
     {
-      "surface": "וְשָׁקַטְתִּ֔י",
+      "surface": "ושקטתי",
       "gloss": "ءُ مہ آرام گم"
     },
     {
-      "surface": "וְלֹ֥א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "אֶכְעַ֖ס",
+      "surface": "אכעס",
       "gloss": "غصہ کنیں"
     },
     {
-      "surface": "עֽוֹד",
+      "surface": "עוד",
       "gloss": "دگہ"
     }
-  ],
-  "timestamp": "2026-09-25T16:07:45.137729535Z",
-  "model": "glm-5.3"
+  ]
 }

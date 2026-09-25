@@ -1,110 +1,110 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "zephaniah 1:18",
   "book": "zephaniah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:00:34.260718284Z",
+  "verse": 18,
+  "ref": "zephaniah 1:18",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ہمے رند اِشانی رُپ، ہمے رند اِشانی زرں، نہ توانیت اِشاں نجات دنت یاہوہءِ غضبءِ روچءَ؛ ءُ آییءِ رشکءِ آتشءَ پوری زمین کُشت بیت — پرچا کہ یک پوریں کار، بلے یک شتابیں، یاہوہ ⟨את⟩ زمینءِ تمامیں گنندگیں کنیت.",
   "tokens": [
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "ہمے رند"
     },
     {
-      "surface": "כַּסְפָּ֨ם",
+      "surface": "כספם",
       "gloss": "اِشانی رُپ"
     },
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "ہمے رند"
     },
     {
-      "surface": "זְהָבָ֜ם",
+      "surface": "זהבם",
       "gloss": "اِشانی زرں"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יוּכַ֣ל",
+      "surface": "יוכל",
       "gloss": "توانیت"
     },
     {
-      "surface": "לְהַצִּילָ֗ם",
+      "surface": "להצילם",
       "gloss": "اِشاں نجات دنت"
     },
     {
-      "surface": "בְּיוֹם֙",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "עֶבְרַ֣ת",
+      "surface": "עברת",
       "gloss": "غضب"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וּבְאֵשׁ֙",
+      "surface": "ובאש",
       "gloss": "ءُ آتشءَ"
     },
     {
-      "surface": "קִנְאָת֔וֹ",
+      "surface": "קנאתו",
       "gloss": "آییءِ رشک"
     },
     {
-      "surface": "תֵּאָכֵ֖ל",
+      "surface": "תאכל",
       "gloss": "کُشت بیت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوری"
     },
     {
-      "surface": "הָאָ֑רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "כָלָ֤ה",
+      "surface": "כלה",
       "gloss": "پوریں کار"
     },
     {
-      "surface": "אַךְ",
+      "surface": "אך",
       "gloss": "بلے یک"
     },
     {
-      "surface": "נִבְהָלָה֙",
+      "surface": "נבהלה",
       "gloss": "شتابیں"
     },
     {
-      "surface": "יַֽעֲשֶׂ֔ה",
+      "surface": "יעשה",
       "gloss": "کنیت"
     },
     {
-      "surface": "אֵ֥ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زمینءِ تمامیں گنندگیں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمامیں"
     },
     {
-      "surface": "יֹשְׁבֵ֖י",
+      "surface": "ישבי",
       "gloss": "گنندگیں"
     },
     {
-      "surface": "הָאָֽרֶץ",
+      "surface": "הארץ",
       "gloss": "زمینءِ"
     }
-  ],
-  "timestamp": "2026-09-25T21:00:34.260718284Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,47 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "exodus 30:26",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:58:06.289273723Z",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "ءُ آییءَ گوں مسح کن ⟨את⟩ ملاقاتءِ گدان ءُ ⟨את⟩ گواہیءِ صندوقءَ،",
   "tokens": [
     {
-      "surface": "וּמָשַׁחְתָּ֥",
+      "surface": "ומשחת",
       "gloss": "ءُ مسح کن"
     },
     {
-      "surface": "ב֖וֹ",
+      "surface": "בו",
       "gloss": "آییءَ گوں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ملاقاتءِ گدان"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵ֑ד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     },
     {
-      "surface": "וְאֵ֖ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گواہیءِ صندوق"
     },
     {
-      "surface": "אֲר֥וֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "הָעֵדֻֽת",
+      "surface": "העדת",
       "gloss": "گواہیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:58:06.289273723Z",
-  "model": "glm-5.3"
+  ]
 }

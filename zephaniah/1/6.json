@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "zephaniah 1:6",
   "book": "zephaniah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:00:04.722989774Z",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ ⟨את⟩ پس شتگ ءُ گوں یاہوہ نہ گشکیت ءُ گوں یاہوہ نہ پُچھیت، ءُ آے کہ آییءَ نہ جست کت ءُ آییءَ نہ گشتگو کت۔",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پس شتگ"
     },
     {
-      "surface": "הַנְּסוֹגִים",
+      "surface": "הנסוגים",
       "gloss": "پس شتگ"
     },
     {
-      "surface": "מֵאַחֲרֵי",
+      "surface": "מאחרי",
       "gloss": "چہ پشتہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וַאֲשֶׁר",
+      "surface": "ואשר",
       "gloss": "ءُ آے کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "בִקְשׁוּ",
+      "surface": "בקשו",
       "gloss": "جست نہ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "דְרָשֻׁהוּ",
+      "surface": "דרשהו",
       "gloss": "آییءَ نہ گشتگو کت"
     }
-  ],
-  "timestamp": "2026-09-25T21:00:04.722989774Z",
-  "model": "glm-5.3"
+  ]
 }

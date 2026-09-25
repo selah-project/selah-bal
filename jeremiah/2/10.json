@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "jeremiah 2:10",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:45:57.972408137Z",
+  "verse": 10,
+  "ref": "jeremiah 2:10",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "کہ کِتیانی جزیرانی تہءَ گوز کیت ءُ گندیت، ءُ قیدارءَ نامہ شیت ءُ گیش پْل داریت، ءُ گندیت — آیا چوش اے چیز گشتگ گنت؟",
   "tokens": [
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "עִבְר֞וּ",
+      "surface": "עברו",
       "gloss": "گوز کیت"
     },
     {
-      "surface": "אִיֵּ֤י",
+      "surface": "איי",
       "gloss": "جزیرانی تہءَ"
     },
     {
-      "surface": "כִתִּיִּים֙",
+      "surface": "כתיים",
       "gloss": "کِتیانی"
     },
     {
-      "surface": "וּרְא֔וּ",
+      "surface": "וראו",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "וְקֵדָ֛ר",
+      "surface": "וקדר",
       "gloss": "ءُ قیدارءَ"
     },
     {
-      "surface": "שִׁלְח֥וּ",
+      "surface": "שלחו",
       "gloss": "نامہ شیت"
     },
     {
-      "surface": "וְהִֽתְבּוֹנְנ֖וּ",
+      "surface": "והתבוננו",
       "gloss": "ءُ گیش پْل داریت"
     },
     {
-      "surface": "מְאֹ֑ד",
+      "surface": "מאד",
       "gloss": "گیش"
     },
     {
-      "surface": "וּרְא֕וּ",
+      "surface": "וראו",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "הֵ֥ן",
+      "surface": "הן",
       "gloss": "آیا"
     },
     {
-      "surface": "הָיְתָ֖ה",
+      "surface": "היתה",
       "gloss": "گشتگ گنت"
     },
     {
-      "surface": "כָּזֹֽאת",
+      "surface": "כזאת",
       "gloss": "چوش اے چیز"
     }
-  ],
-  "timestamp": "2026-09-25T17:45:57.972408137Z",
-  "model": "glm-5.3"
+  ]
 }

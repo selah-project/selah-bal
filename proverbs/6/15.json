@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "proverbs 6:15",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:22:09.406703983Z",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "پہ اے سبب یکدم آییءِ بربادی رُوئیت؛ یک وشمءَ ءُ شکیت ءُ ہچ شفا نیست.",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵ֗ן",
+      "surface": "כן",
       "gloss": "اے سبب"
     },
     {
-      "surface": "פִּתְאֹם",
+      "surface": "פתאם",
       "gloss": "یکدم"
     },
     {
-      "surface": "יָבֹ֣א",
+      "surface": "יבוא",
       "gloss": "رُوئیت"
     },
     {
-      "surface": "אֵיד֑וֹ",
+      "surface": "אידו",
       "gloss": "آییءِ بربادی"
     },
     {
-      "surface": "פֶּ֥תַע",
+      "surface": "פתע",
       "gloss": "یک وشمءَ"
     },
     {
-      "surface": "יִּשָּׁבֵ֗ר",
+      "surface": "ישבר",
       "gloss": "ءُ شکیت"
     },
     {
-      "surface": "וְאֵ֣ין",
+      "surface": "ואין",
       "gloss": "ءُ ہچ"
     },
     {
-      "surface": "מַרְפֵּֽא",
+      "surface": "מרפא",
       "gloss": "شفا نیست"
     }
-  ],
-  "timestamp": "2026-09-25T20:22:09.406703983Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "proverbs 1:3",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:09:36.670087919Z",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "پہ آ گیتنءَ ءُ داناییں سبقءَ پہ گرانے — راستی، ءُ انصاف، ءُ راویں روی",
   "tokens": [
     {
-      "surface": "לָ֭קַחַת",
+      "surface": "לקחת",
       "gloss": "پہ گیتنءَ"
     },
     {
-      "surface": "מוּסַ֣ר",
+      "surface": "מוסר",
       "gloss": "سبق"
     },
     {
-      "surface": "הַשւְכֵּ֑ל",
+      "surface": "השכל",
       "gloss": "داناییں"
     },
     {
-      "surface": "צֶ֥דֶק",
+      "surface": "צדק",
       "gloss": "راستی"
     },
     {
-      "surface": "וּ֝מִשְׁפָּ֗ט",
+      "surface": "ומשפט",
       "gloss": "ءُ انصاف"
     },
     {
-      "surface": "וּ֝מֵישָׁרִֽים",
+      "surface": "ומישרים",
       "gloss": "ءُ راویں روی"
     }
-  ],
-  "timestamp": "2026-09-25T20:09:36.670087919Z",
-  "model": "glm-5.3"
+  ]
 }

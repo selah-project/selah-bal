@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "joshua 15:4",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:41:37.073467203Z",
+  "verse": 4,
+  "ref": "joshua 15:4",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ آ چہ اَصمونہ ⟨موں⟩ گوَشت، ءُ مِتسرایمءِ نچلءَ ءَ برأت، ءُ سرحدءِ درآمدگیاں گوں سمندراں بنت؛ اے مَں پہ تُماں جنوبءِ سرحد بیت۔",
   "tokens": [
     {
-      "surface": "וְעָבַ֣ר",
+      "surface": "ועבר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "עַצְמ֗וֹנָה",
+      "surface": "עצמונה",
       "gloss": "اَصمونہءَ"
     },
     {
-      "surface": "וְיָצָא֙",
+      "surface": "ויצא",
       "gloss": "ءُ برأت"
     },
     {
-      "surface": "נַ֣חַל",
+      "surface": "נחל",
       "gloss": "نچلءَ ءَ"
     },
     {
-      "surface": "מִצְרַ֔יִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     },
     {
-      "surface": "וְהָיָ֥ה",
+      "surface": "והיה",
       "gloss": "ءُ بنت"
     },
     {
-      "surface": "תֹּצְא֥וֹת",
+      "surface": "תצאות",
       "gloss": "درآمدگیاں"
     },
     {
-      "surface": "הַגְּב֖וּל",
+      "surface": "הגבול",
       "gloss": "سرحدءِ"
     },
     {
-      "surface": "יָ֑מָּה",
+      "surface": "ימה",
       "gloss": "گوں سمندراں"
     },
     {
-      "surface": "זֶה",
+      "surface": "זה",
       "gloss": "اے مَں"
     },
     {
-      "surface": "יִהְיֶ֥ה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לָכֶ֖ם",
+      "surface": "לכם",
       "gloss": "پہ تُماں"
     },
     {
-      "surface": "גְּב֥וּל",
+      "surface": "גבול",
       "gloss": "سرحد"
     },
     {
-      "surface": "נֶֽגֶב",
+      "surface": "נגב",
       "gloss": "جنوب"
     }
-  ],
-  "timestamp": "2026-09-25T18:41:37.073467203Z",
-  "model": "glm-5.3"
+  ]
 }

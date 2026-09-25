@@ -1,102 +1,102 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "judges 11:2",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:58:03.190174270Z",
+  "verse": 2,
+  "ref": "judges 11:2",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ گِلعادءِ زنا ءُچہ آییءَ زہگانی بوتنت؛ ءُ آ زنائی زہگان گیش بوتنت ءُ ⟨את⟩ یِفتاح پروش کتنت ءُ آییءَ گوَشتنت: «تُو مانی پدرءِ گدانءَ میراث نہ گِرِنت، پرچا کہ تُو یک دگہ زنائی زہگ اِتّی.»",
   "tokens": [
     {
-      "surface": "וַתֵּלֶד",
+      "surface": "ותלד",
       "gloss": "ءُ زہگانی بوتنت"
     },
     {
-      "surface": "אֵשֶׁת",
+      "surface": "אשת",
       "gloss": "زنائِ"
     },
     {
-      "surface": "גִּלְעָד",
+      "surface": "גלעד",
       "gloss": "گِلعادءِ"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "בָּנִים",
+      "surface": "בנים",
       "gloss": "زہگان"
     },
     {
-      "surface": "וַיִּגְדְּלוּ",
+      "surface": "ויגדלו",
       "gloss": "ءُ گیش بوتنت"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگانِ"
     },
     {
-      "surface": "הָאִשָּׁה",
+      "surface": "האשה",
       "gloss": "آ زنائی"
     },
     {
-      "surface": "וַיְגָרְשׁוּ",
+      "surface": "ויגרשו",
       "gloss": "ءُ پروش کتنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یِفتاح"
     },
     {
-      "surface": "יִפְתָּח",
+      "surface": "יפתח",
       "gloss": "یِفتاح"
     },
     {
-      "surface": "וַיֹּאמְרוּ",
+      "surface": "ויאמרו",
       "gloss": "ءُ گوَشتنت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִּנְחַל",
+      "surface": "תנחל",
       "gloss": "میراث گِرِنت"
     },
     {
-      "surface": "בְּבֵית",
+      "surface": "בבית",
       "gloss": "تہ گدان"
     },
     {
-      "surface": "אָבִינוּ",
+      "surface": "אבינו",
       "gloss": "مانی پدرءِ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "אִשָּׁה",
+      "surface": "אשה",
       "gloss": "زنائی"
     },
     {
-      "surface": "אַחֶרֶת",
+      "surface": "אחרת",
       "gloss": "دگہ"
     },
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "تُو اِتّی"
     }
-  ],
-  "timestamp": "2026-09-25T18:58:03.190174270Z",
-  "model": "glm-5.3"
+  ]
 }

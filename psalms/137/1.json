@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 137:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:31:27.061629371Z",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "tier": "glm-5.2",
   "chapter": 137,
   "translation": "بابلءِ ڈراوانی سرءَ اودا مہ گیشت ءُ روئے کت، چہ زکری ءَ ⟨את⟩ صییونءَ.",
   "tokens": [
     {
-      "surface": "עַ֥ל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "נַהֲר֨וֹת",
+      "surface": "נהרות",
       "gloss": "ڈراوانی"
     },
     {
-      "surface": "בָּבֶ֗ל",
+      "surface": "בבל",
       "gloss": "بابلءِ"
     },
     {
-      "surface": "שָׁ֣ם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "יָ֭שַׁבְנוּ",
+      "surface": "ישבנו",
       "gloss": "مہ گیشت"
     },
     {
-      "surface": "גַּ֣ם",
+      "surface": "גם",
       "gloss": "ءُ"
     },
     {
-      "surface": "בָּכִ֑ינוּ",
+      "surface": "בכינו",
       "gloss": "روئے کت"
     },
     {
-      "surface": "בְּזָכְרֵ֗נוּ",
+      "surface": "בזכרנו",
       "gloss": "چہ زکری ءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "صییونءَ"
     },
     {
-      "surface": "צִיּֽוֹן",
+      "surface": "ציון",
       "gloss": "صییون"
     }
-  ],
-  "timestamp": "2026-09-25T20:31:27.061629371Z",
-  "model": "glm-5.3"
+  ]
 }

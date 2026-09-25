@@ -1,129 +1,129 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "ezekiel 25:3",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:18:28.381637813Z",
+  "verse": 3,
+  "ref": "ezekiel 25:3",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ تو گوَشیت پہ عمونءِ زہگاناں: گوشنت د ادونای یاہوہءِ گال؛ اے چوں گوَشت ادونای یاہوہ: پہ اے چہ کہ تو گوَشتی «ہاہ!» پہ منی مِقدسءَ چون آ ناپاک بوت، ءُ پہ اسرائیلءِ زمینءَ چون آ ویران بوت، ءُ پہ یہوداہءِ خانوادہءَ چون آ گوں جلاوطیءَ روتنت.",
   "tokens": [
     {
-      "surface": "וְאָֽמַרְתָּ֙",
+      "surface": "ואמרת",
       "gloss": "ءُ تو گوَشیت"
     },
     {
-      "surface": "לִבְנֵ֣י",
+      "surface": "לבני",
       "gloss": "پہ …ءِ زہگاناں"
     },
     {
-      "surface": "עַמּ֔וֹן",
+      "surface": "עמון",
       "gloss": "عمون"
     },
     {
-      "surface": "שִׁמְע֖וּ",
+      "surface": "שמעו",
       "gloss": "گوشنت"
     },
     {
-      "surface": "דְּבַר",
+      "surface": "דבר",
       "gloss": "…ءِ گال"
     },
     {
-      "surface": "אֲדֹנָ֣י",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "כֹּה",
+      "surface": "כה",
       "gloss": "اے چوں"
     },
     {
-      "surface": "אָמַ֣ר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "אֲדֹנָ֣י",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִ֡ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "יַעַן֩",
+      "surface": "יען",
       "gloss": "پہ اے چہ"
     },
     {
-      "surface": "אָמְרֵ֨ךְ",
+      "surface": "אמרך",
       "gloss": "تو گوَشتی"
     },
     {
-      "surface": "הֶאָ֜ח",
+      "surface": "האח",
       "gloss": "«ہاہ!»"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ …ءَ"
     },
     {
-      "surface": "מִקְדָּשִׁ֣י",
+      "surface": "מקדשי",
       "gloss": "منی مِقدس"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "چون"
     },
     {
-      "surface": "נִחָ֗ל",
+      "surface": "נחל",
       "gloss": "ناپاک بوت"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "ءُ پہ …ءَ"
     },
     {
-      "surface": "אַדְמַ֤ת",
+      "surface": "אדמת",
       "gloss": "…ءِ زمین"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "چون"
     },
     {
-      "surface": "נָשַׁ֔מָּה",
+      "surface": "נשמה",
       "gloss": "ویران بوت"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "ءُ پہ …ءَ"
     },
     {
-      "surface": "בֵּ֣ית",
+      "surface": "בית",
       "gloss": "…ءِ خانوادہ"
     },
     {
-      "surface": "יְהוּדָ֔ה",
+      "surface": "יהודה",
       "gloss": "یہوداہ"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "چون"
     },
     {
-      "surface": "הָלְכ֖וּ",
+      "surface": "הלכו",
       "gloss": "روتنت"
     },
     {
-      "surface": "בַּגּוֹלָֽה",
+      "surface": "בגולה",
       "gloss": "گوں جلاوطیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:18:28.381637813Z",
-  "model": "glm-5.3"
+  ]
 }

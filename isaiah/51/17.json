@@ -1,83 +1,83 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "isaiah 51:17",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:31:31.712406319Z",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "tier": "glm-5.2",
   "chapter": 51,
   "translation": "جاگ بیت، جاگ بیت، اُستا بیت، اے یروشلم، تو کہ چہ یاہوہءِ دستءَ ⟨את⟩ آییءِ غضبءِ پیالہ نوش کتگ، ⟨את⟩ پیالہءِ گومبڑ — لرزوکیں پیالہ — نوش کتگ، ءُ آییءَ چوچ کتگ.",
   "tokens": [
     {
-      "surface": "הִתְעוֹרְרִ֣י",
+      "surface": "התעוררי",
       "gloss": "جاگ بیت"
     },
     {
-      "surface": "הִֽתְעוֹרְרִ֗י",
+      "surface": "התעוררי",
       "gloss": "جاگ بیت"
     },
     {
-      "surface": "ק֚וּמִי",
+      "surface": "קומי",
       "gloss": "اُستا بیت"
     },
     {
-      "surface": "יְרוּשָׁלִַ֔ם",
+      "surface": "ירושלם",
       "gloss": "یروشلم"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "تو کہ"
     },
     {
-      "surface": "שָׁתִ֛ית",
+      "surface": "שתית",
       "gloss": "نوش کتگ"
     },
     {
-      "surface": "מִיַּ֥ד",
+      "surface": "מיד",
       "gloss": "چہ دستءَ"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پیالہ"
     },
     {
-      "surface": "כּ֣וֹס",
+      "surface": "כוס",
       "gloss": "پیالہ"
     },
     {
-      "surface": "חֲמָת֑וֹ",
+      "surface": "חמתו",
       "gloss": "آییءِ غضبءِ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گومبڑ"
     },
     {
-      "surface": "קֻבַּ֜עַת",
+      "surface": "קבעת",
       "gloss": "گومبڑ"
     },
     {
-      "surface": "כּ֧וֹס",
+      "surface": "כוס",
       "gloss": "پیالہءِ"
     },
     {
-      "surface": "הַתַּרְעֵלָ֛ה",
+      "surface": "התרעלה",
       "gloss": "لرزوکیں"
     },
     {
-      "surface": "שָׁתִ֖ית",
+      "surface": "שתית",
       "gloss": "نوش کتگ"
     },
     {
-      "surface": "מָצִֽית",
+      "surface": "מצית",
       "gloss": "چوچ کتگ"
     }
-  ],
-  "timestamp": "2026-09-25T17:31:31.712406319Z",
-  "model": "glm-5.3"
+  ]
 }

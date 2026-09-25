@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "psalms 78:2",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:46:35.471844275Z",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "tier": "glm-5.2",
   "chapter": 78,
   "translation": "زہنگوں گوں ماشالءَ گشاہ کورم، چستانیان چہ اولی زمانگیءَ اِشٹ کورم۔",
   "tokens": [
     {
-      "surface": "אֶפְתְּחָה",
+      "surface": "אפתחה",
       "gloss": "گشاہ کورم"
     },
     {
-      "surface": "בְמָשָׁל",
+      "surface": "במשל",
       "gloss": "گوں ماشالءَ"
     },
     {
-      "surface": "פִּי",
+      "surface": "פי",
       "gloss": "زہنگوں"
     },
     {
-      "surface": "אַבִּיעָה",
+      "surface": "אביעה",
       "gloss": "اِشٹ کورم"
     },
     {
-      "surface": "חִידוֹת",
+      "surface": "חידות",
       "gloss": "چستانیان"
     },
     {
-      "surface": "מִנִּי",
+      "surface": "מני",
       "gloss": "چہ"
     },
     {
-      "surface": "קֶדֶם",
+      "surface": "קדם",
       "gloss": "اولی زمانگیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:46:35.471844275Z",
-  "model": "glm-5.3"
+  ]
 }

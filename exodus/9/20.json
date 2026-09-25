@@ -1,68 +1,68 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "exodus 9:20",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:04:19.092299374Z",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "چہ پیراؤءِ غلامانی چه کہ یاہوہءِ گالءَ چہ ترانیت، آ وتی غلامان ءُ وتی مالانءَ ہنِّیس کت ءُ گدکانءَ شوڑ کت.",
   "tokens": [
     {
-      "surface": "הַיָּרֵא",
+      "surface": "הירא",
       "gloss": "چه ترانوکءِ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گال"
     },
     {
-      "surface": "דְּבַר",
+      "surface": "דבר",
       "gloss": "گال"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "מֵעַבְדֵי",
+      "surface": "מעבדי",
       "gloss": "چہ غلامانی"
     },
     {
-      "surface": "פַּרְעֹה",
+      "surface": "פרעה",
       "gloss": "پیراؤءِ"
     },
     {
-      "surface": "הֵנִיס",
+      "surface": "הניס",
       "gloss": "ہنِّیس کت ءُ شوڑ کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی غلامان"
     },
     {
-      "surface": "עֲבָדָיו",
+      "surface": "עבדיו",
       "gloss": "وتی غلامان"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "وتی مالان"
     },
     {
-      "surface": "מִקְנֵהוּ",
+      "surface": "מקנהו",
       "gloss": "وتی مالان"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "הַבָּתִּים",
+      "surface": "הבתים",
       "gloss": "گدکانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:04:19.092299374Z",
-  "model": "glm-5.3"
+  ]
 }

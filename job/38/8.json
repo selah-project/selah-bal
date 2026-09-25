@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "job 38:8",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:30:14.040314916Z",
+  "verse": 8,
+  "ref": "job 38:8",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "ءُ کَیں ⟨اُو⟩ سمندرءَ گوں دو دروازگ بند کت، وہدے کہ ⟨اُو⟩ چہ ماںءَ راند بوت ءُ درات؟",
   "tokens": [
     {
-      "surface": "וַיָּ֣סֶךְ",
+      "surface": "ויסך",
       "gloss": "بند کت"
     },
     {
-      "surface": "בִּדְלָתַ֣יִם",
+      "surface": "בדלתים",
       "gloss": "گوں دو دروازگ"
     },
     {
-      "surface": "יָ֑ם",
+      "surface": "ים",
       "gloss": "سمندر"
     },
     {
-      "surface": "בְּ֝גִיח֗וֹ",
+      "surface": "בגיחו",
       "gloss": "وہدے کہ ⟨اُو⟩ راند بوت"
     },
     {
-      "surface": "מֵרֶ֥חֶם",
+      "surface": "מרחם",
       "gloss": "چہ ماںءَ"
     },
     {
-      "surface": "יֵצֵֽא",
+      "surface": "יצא",
       "gloss": "درات"
     }
-  ],
-  "timestamp": "2026-09-25T18:30:14.040314916Z",
-  "model": "glm-5.3"
+  ]
 }

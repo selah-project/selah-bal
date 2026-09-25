@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "leviticus 10:11",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:15:57.669184389Z",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ پہ آیانءَ بنی‌ئے اسرائیلءَ ⟨את⟩ گچ چیں حکمانی کہ یاہوہ آیانءَ گوں موشہءِ دستءَ ھشت گوَشت۔",
   "tokens": [
     {
-      "surface": "וּלְהוֹרֹ֖ת",
+      "surface": "ולהורת",
       "gloss": "ءُ پہ آیانءَ بچار کتگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اسرائیلانی زہگان"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گچ حکم"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گچ"
     },
     {
-      "surface": "הַחֻקִּ֔ים",
+      "surface": "החקים",
       "gloss": "حکم"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "דִּבֶּ֧ר",
+      "surface": "דבר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֲלֵיהֶ֖ם",
+      "surface": "אליהם",
       "gloss": "آیانءَ"
     },
     {
-      "surface": "בְּיַ֣ד",
+      "surface": "ביד",
       "gloss": "دستءَ"
     },
     {
-      "surface": "מֹשֶֽׁׁה",
+      "surface": "משה",
       "gloss": "موشہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:15:57.669184389Z",
-  "model": "glm-5.3"
+  ]
 }

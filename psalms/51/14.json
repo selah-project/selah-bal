@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "psalms 51:14",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:40:36.417319129Z",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "tier": "glm-5.2",
   "chapter": 51,
   "translation": "مہ پدا چمڑاٹ ءُ گوں چم بیتگءِ روچ اِشتیوار کن، ءُ یک نڈیوں روح مہ ءَ سہار بیت۔",
   "tokens": [
     {
-      "surface": "הָשִׁיבָה",
+      "surface": "השיבה",
       "gloss": "پدا دے"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "مہ ءَ"
     },
     {
-      "surface": "שְׂשׂוֹן",
+      "surface": "ששון",
       "gloss": "چم بیتگ"
     },
     {
-      "surface": "יִשְׁעֶךָ",
+      "surface": "ישעך",
       "gloss": "توءِ چمڑاٹءِ"
     },
     {
-      "surface": "וְרוּחַ",
+      "surface": "ורוח",
       "gloss": "ءُ روح"
     },
     {
-      "surface": "נְדִיבָה",
+      "surface": "נדיבה",
       "gloss": "نڈیوں"
     },
     {
-      "surface": "תִסְמְכֵנִי",
+      "surface": "תסמכני",
       "gloss": "مہ ءَ سہار بیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:40:36.417319129Z",
-  "model": "glm-5.3"
+  ]
 }

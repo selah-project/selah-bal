@@ -1,106 +1,106 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "hosea 3:1",
   "book": "hosea",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:08:56.524813970Z",
+  "verse": 1,
+  "ref": "hosea 3:1",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ یاہوہءَ مءَ گوَشت: پدا گُڈ، یک زنان ءُ دل بگر — رفیمی ءُ دلدادی ءُ زناکار — چوش کہ یاہوہ ⟨את⟩ یسرائیلءِ زہگان ءُ دل بگر، ءُ اَنت کہ دگہ ہدایانی روپڑ گوں دیتنت ءُ انگوری کلچانی ءُ دل بگر.",
   "tokens": [
     {
-      "surface": "וַיֹּ֨אמֶר",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "יְהוָ֜ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֵלַ֗י",
+      "surface": "אלי",
       "gloss": "مءَ"
     },
     {
-      "surface": "ע֚וֹד",
+      "surface": "עוד",
       "gloss": "پدا"
     },
     {
-      "surface": "לֵ֣ךְ",
+      "surface": "לך",
       "gloss": "گُڈ"
     },
     {
-      "surface": "אֱֽהַב",
+      "surface": "אהב",
       "gloss": "دل بگر"
     },
     {
-      "surface": "אִשָּׁ֔ה",
+      "surface": "אשה",
       "gloss": "زنان"
     },
     {
-      "surface": "אֲהֻ֥בַת",
+      "surface": "אהבת",
       "gloss": "دلدادی"
     },
     {
-      "surface": "רֵ֖עַ",
+      "surface": "רע",
       "gloss": "رفیمی"
     },
     {
-      "surface": "וּמְנָאָ֑פֶת",
+      "surface": "ומנאפת",
       "gloss": "ءُ زناکار"
     },
     {
-      "surface": "כְּאַהֲבַ֤ת",
+      "surface": "כאהבת",
       "gloss": "چوش کہ دل بگرگ"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یسرائیلءِ زہگان"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵ֔ל",
+      "surface": "ישראל",
       "gloss": "یسرائیلءِ"
     },
     {
-      "surface": "וְהֵ֗ם",
+      "surface": "והם",
       "gloss": "ءُ اَنت کہ"
     },
     {
-      "surface": "פֹּנִים֙",
+      "surface": "פנים",
       "gloss": "روپڑ دیتنت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "گوں"
     },
     {
-      "surface": "אֱלֹהִ֣ים",
+      "surface": "אלהים",
       "gloss": "دگہ ہدایانی"
     },
     {
-      "surface": "אֲחֵרִ֔ים",
+      "surface": "אחרים",
       "gloss": "دگہ"
     },
     {
-      "surface": "וְאֹהֲבֵ֖י",
+      "surface": "ואהבי",
       "gloss": "ءُ دل بگران"
     },
     {
-      "surface": "אֲשִׁישֵׁ֥י",
+      "surface": "אשישי",
       "gloss": "انگوری کلچانی"
     },
     {
-      "surface": "עֲנָבִֽים",
+      "surface": "ענבים",
       "gloss": "انگوری"
     }
-  ],
-  "timestamp": "2026-09-25T17:08:56.524813970Z",
-  "model": "glm-5.3"
+  ]
 }

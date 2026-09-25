@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
-  "ref": "leviticus 19:36",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:21:17.137323412Z",
+  "verse": 36,
+  "ref": "leviticus 19:36",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ترازوئی راستی، سنگانی راستی، ایفہءِ راستی ءُ ہینءِ راستی تہاں بہ تانءَ؛ من یاہوہ تانی ایلوہیم اَنت کہ تانءَ ⟨את⟩ چہ مِتسرایمءِ زمینءَ در کورتم۔",
   "tokens": [
     {
-      "surface": "מֹ֧אזְנֵי",
+      "surface": "מאזני",
       "gloss": "ترازوئی"
     },
     {
-      "surface": "צֶ֣דֶק",
+      "surface": "צדק",
       "gloss": "راستی"
     },
     {
-      "surface": "אַבְנֵי",
+      "surface": "אבני",
       "gloss": "سنگانی"
     },
     {
-      "surface": "צֶ֗דֶק",
+      "surface": "צדק",
       "gloss": "راستی"
     },
     {
-      "surface": "אֵ֥יפַת",
+      "surface": "איפת",
       "gloss": "ایفہءِ"
     },
     {
-      "surface": "צֶ֛דֶק",
+      "surface": "צדק",
       "gloss": "راستی"
     },
     {
-      "surface": "וְהִ֥ין",
+      "surface": "והין",
       "gloss": "ءُ ہینءِ"
     },
     {
-      "surface": "צֶ֖דֶק",
+      "surface": "צדק",
       "gloss": "راستی"
     },
     {
-      "surface": "יִהְיֶ֣ה",
+      "surface": "יהיה",
       "gloss": "بہ بیت"
     },
     {
-      "surface": "לָכֶ֑ם",
+      "surface": "לכם",
       "gloss": "تانءَ"
     },
     {
-      "surface": "אֲנִי֙",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹֽהֵיכֶ֔ם",
+      "surface": "אלהיכם",
       "gloss": "تانی ایلوہیم"
     },
     {
-      "surface": "אֲשֶׁ֙ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הוֹצֵ֥אתִי",
+      "surface": "הוצאתי",
       "gloss": "در کورتم"
     },
     {
-      "surface": "אֶתְכֶ֖ם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ تانءَ",
       "marks": "تانءَ"
     },
     {
-      "surface": "מֵאֶ֥רֶץ",
+      "surface": "מארץ",
       "gloss": "چہ زمینءَ"
     },
     {
-      "surface": "מִצְרָֽיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایم"
     }
-  ],
-  "timestamp": "2026-09-25T19:21:17.137323412Z",
-  "model": "glm-5.3"
+  ]
 }

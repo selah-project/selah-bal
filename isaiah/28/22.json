@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "isaiah 28:22",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:16:38.586200083Z",
+  "verse": 22,
+  "ref": "isaiah 28:22",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ اِشے نہ مَنجھیں، ناں کہ تماہیءِ بَندھ گشتیں ببنت؛ پرچا کہ یک پوری ءُ پکّیں بربادیءَ چہ ⟨את⟩ اَدونای یاہوہ سباؤتءَ چہ گوشگم، گوں پوریں زمینءِ سرءَ۔",
   "tokens": [
     {
-      "surface": "וְעַתָּה",
+      "surface": "ועתה",
       "gloss": "ءُ اِشے"
     },
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תִּתְלוֹצֲצוּ",
+      "surface": "תתלוצצו",
       "gloss": "مَنجھیں"
     },
     {
-      "surface": "פֶּן",
+      "surface": "פן",
       "gloss": "ناں کہ"
     },
     {
-      "surface": "יֶחְזְקוּ",
+      "surface": "יחזקו",
       "gloss": "گشتیں ببنت"
     },
     {
-      "surface": "מוֹסְרֵיכֶם",
+      "surface": "מוסריכם",
       "gloss": "تماہیءِ بَندھ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "כָלָה",
+      "surface": "כלה",
       "gloss": "پوری ءُ پکّیں بربادیءَ"
     },
     {
-      "surface": "וְנֶחֱרָצָה",
+      "surface": "ונחרצה",
       "gloss": "⟨پکّیں⟩"
     },
     {
-      "surface": "שָׁמַעְתִּי",
+      "surface": "שמעתי",
       "gloss": "چہ گوشگم"
     },
     {
-      "surface": "מֵאֵת",
+      "surface": "מאת",
       "gloss": "چہ ⟨את⟩",
       "marks": "اَدونای یاہوہ سباؤتءَ"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "اَدونای"
     },
     {
-      "surface": "יְהֹוִה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "צְבָא֖וֹת",
+      "surface": "צבאות",
       "gloss": "سباؤت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "گوں … سرءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "הָאָָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمینءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:16:38.586200083Z",
-  "model": "glm-5.3"
+  ]
 }

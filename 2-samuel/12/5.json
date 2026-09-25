@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "2-samuel 12:5",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:27:52.929352158Z",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "ءُ داودءِ غصہ چہ اے مردَمءَ گیش چرنگ کت، ءُ ناتَنءَ گوَشت: یاہوہ زندگ اِنت، کہ اے مردم کہ اے کار کنت، مرگءِ زہگ اِنت —",
   "tokens": [
     {
-      "surface": "וַיִּֽחַר",
+      "surface": "ויחר",
       "gloss": "چرنگ کت"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "غصہ"
     },
     {
-      "surface": "דָּוִ֛ד",
+      "surface": "דוד",
       "gloss": "داودءِ"
     },
     {
-      "surface": "בָּאִ֖ישׁ",
+      "surface": "באיש",
       "gloss": "چہ اے مردَمءَ"
     },
     {
-      "surface": "מְאֹ֑ד",
+      "surface": "מאד",
       "gloss": "گیش"
     },
     {
-      "surface": "וַיֹּ֨אמֶר֙",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "⟨اے⟩"
     },
     {
-      "surface": "נָתָ֔ן",
+      "surface": "נתן",
       "gloss": "ناتَنءَ"
     },
     {
-      "surface": "חַי",
+      "surface": "חי",
       "gloss": "زندگ"
     },
     {
-      "surface": "יְהוָ֕ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "מָ֫וֶת",
+      "surface": "מות",
       "gloss": "مرگءِ"
     },
     {
-      "surface": "הָאִ֖ישׁ",
+      "surface": "האיש",
       "gloss": "اے مردم"
     },
     {
-      "surface": "הָעֹשֶׂ֥ה",
+      "surface": "העשה",
       "gloss": "کہ کنت"
     },
     {
-      "surface": "זֹֽאת",
+      "surface": "זאת",
       "gloss": "اے کار"
     }
-  ],
-  "timestamp": "2026-09-25T14:27:52.929352158Z",
-  "model": "glm-5.3"
+  ]
 }

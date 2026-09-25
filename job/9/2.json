@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "job 9:2",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:33:29.308322106Z",
+  "verse": 2,
+  "ref": "job 9:2",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "سچءَ من زانیں کہ آ دگہ اِنت، ءُ چوش یک جنین گوں ایل راست بیت؟",
   "tokens": [
     {
-      "surface": "אָ֭מְנָם",
+      "surface": "אמנם",
       "gloss": "سچءَ"
     },
     {
-      "surface": "יָדַ֣עְתִּי",
+      "surface": "ידעתי",
       "gloss": "من زانیں"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "כֵּ֑ן",
+      "surface": "כן",
       "gloss": "آ دگہ اِنت"
     },
     {
-      "surface": "וּמַה",
+      "surface": "ומה",
       "gloss": "ءُ چوش"
     },
     {
-      "surface": "יִּצְדַּ֖ק",
+      "surface": "יצדק",
       "gloss": "راست بیت"
     },
     {
-      "surface": "אֱנ֣וֹשׁ",
+      "surface": "אנוש",
       "gloss": "جنین"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "אֵֽל",
+      "surface": "אל",
       "gloss": "ایل"
     }
-  ],
-  "timestamp": "2026-09-25T18:33:29.308322106Z",
-  "model": "glm-5.3"
+  ]
 }

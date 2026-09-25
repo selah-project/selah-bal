@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "proverbs 31:2",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:21:50.600524518Z",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "چہ، زہگمءے؟ ءُ چہ، ماتہءِ زہگ؟ ءُ چہ، ندراںءِ زہگ؟",
   "tokens": [
     {
-      "surface": "מַה",
+      "surface": "מה",
       "gloss": "چہ"
     },
     {
-      "surface": "בְּרִי",
+      "surface": "ברי",
       "gloss": "زہگمءے"
     },
     {
-      "surface": "וּמַה",
+      "surface": "ומה",
       "gloss": "ءُ چہ"
     },
     {
-      "surface": "בַּר",
+      "surface": "בר",
       "gloss": "زہگ"
     },
     {
-      "surface": "בִּטְנִי",
+      "surface": "בטני",
       "gloss": "ماتہءِ"
     },
     {
-      "surface": "וּמַה",
+      "surface": "ומה",
       "gloss": "ءُ چہ"
     },
     {
-      "surface": "בַּר",
+      "surface": "בר",
       "gloss": "زہگ"
     },
     {
-      "surface": "נְדָרָי",
+      "surface": "נדרי",
       "gloss": "ندراںءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:21:50.600524518Z",
-  "model": "glm-5.3"
+  ]
 }

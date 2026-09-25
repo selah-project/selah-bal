@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "ezekiel 45:19",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:31:55.624674549Z",
+  "verse": 19,
+  "ref": "ezekiel 45:19",
+  "tier": "glm-5.2",
   "chapter": 45,
   "translation": "ءُ کاہن گنہءِ آپءَ چہ گرپت ءُ خانہءِ دہلیزءَ تہ ءُ قربانگاہءِ سرئےءِ چار گوشت ءُ اندرونی حیاطءِ دروازہءِ دہلیزءَ سرءَ دیت۔",
   "tokens": [
     {
-      "surface": "וְלָקַח",
+      "surface": "ולקח",
       "gloss": "ءُ گرپت"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "מִדַּם",
+      "surface": "מדם",
       "gloss": "چہ آپ"
     },
     {
-      "surface": "הַחַטָּאת",
+      "surface": "החטאת",
       "gloss": "گنہءِ"
     },
     {
-      "surface": "וְנָתַן",
+      "surface": "ונתן",
       "gloss": "ءُ دیت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "מְזוּזַת",
+      "surface": "מזוזת",
       "gloss": "دہلیزءَ"
     },
     {
-      "surface": "הַבַּיִת",
+      "surface": "הבית",
       "gloss": "خانہءِ"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "ءُ تہ"
     },
     {
-      "surface": "אַרְבַּע",
+      "surface": "ארבע",
       "gloss": "چار"
     },
     {
-      "surface": "פִּנּוֹת",
+      "surface": "פנות",
       "gloss": "گوشت"
     },
     {
-      "surface": "הָעֲזָרָה",
+      "surface": "העזרה",
       "gloss": "حیاطءِ"
     },
     {
-      "surface": "לַמִּזְבֵּחַ",
+      "surface": "למזבח",
       "gloss": "قربانگاہءَ پہ"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "מְזוּזַת",
+      "surface": "מזוזת",
       "gloss": "دہلیزءِ"
     },
     {
-      "surface": "שַׁעַר",
+      "surface": "שער",
       "gloss": "دروازہءِ"
     },
     {
-      "surface": "הֶחָצֵר",
+      "surface": "החצר",
       "gloss": "حیاطءِ"
     },
     {
-      "surface": "הַפְּנִימִית",
+      "surface": "הפנימית",
       "gloss": "اندرونی"
     }
-  ],
-  "timestamp": "2026-09-25T16:31:55.624674549Z",
-  "model": "glm-5.3"
+  ]
 }

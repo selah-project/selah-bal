@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "ezekiel 41:3",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:27:15.441369900Z",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "ءُ اندروچ روت، ءُ دروازہءِ زبرءَ دو اَمّہ ءُ چوئے دروازہ شش اَمّہ ءُ دروازہءِ رپتال ہپت اَمّہ۔",
   "tokens": [
     {
-      "surface": "וּבָ֣א",
+      "surface": "ובא",
       "gloss": "ءُ روت"
     },
     {
-      "surface": "לִפְנִ֔ימָה",
+      "surface": "לפנימה",
       "gloss": "اندروچ"
     },
     {
-      "surface": "וַיָּ֥מָד",
+      "surface": "וימד",
       "gloss": "ءُ پیمایش کت"
     },
     {
-      "surface": "אֵֽיל",
+      "surface": "איל",
       "gloss": "زبر"
     },
     {
-      "surface": "הַפֶּ֖תַח",
+      "surface": "הפתח",
       "gloss": "دروازہءِ"
     },
     {
-      "surface": "שְׁתַּ֣יִם",
+      "surface": "שתים",
       "gloss": "دو"
     },
     {
-      "surface": "אַמּ֑וֹת",
+      "surface": "אמות",
       "gloss": "اَمّہ"
     },
     {
-      "surface": "וְהַפֶּ֨תַח֙",
+      "surface": "והפתח",
       "gloss": "ءُ چوئے دروازہ"
     },
     {
-      "surface": "שֵׁ֣שׁ",
+      "surface": "שש",
       "gloss": "شش"
     },
     {
-      "surface": "אַמּ֔וֹת",
+      "surface": "אמות",
       "gloss": "اَمّہ"
     },
     {
-      "surface": "וְרֹ֥חַב",
+      "surface": "ורחב",
       "gloss": "ءُ رپتال"
     },
     {
-      "surface": "הַפֶּ֖תַח",
+      "surface": "הפתח",
       "gloss": "دروازہءِ"
     },
     {
-      "surface": "שֶׁ֥בַע",
+      "surface": "שבע",
       "gloss": "ہپت"
     },
     {
-      "surface": "אַמּֽוֹת",
+      "surface": "אמות",
       "gloss": "اَمّہ"
     }
-  ],
-  "timestamp": "2026-09-25T16:27:15.441369900Z",
-  "model": "glm-5.3"
+  ]
 }

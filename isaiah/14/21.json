@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "isaiah 14:21",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:12:29.300632092Z",
+  "verse": 21,
+  "ref": "isaiah 14:21",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "آیءِ زہگانءَ پہ لبزار پدا کنیت، آوانی پشتانی پشتءَ؛ آیان ہچبر نہ اُٹہنت ءُ نہ زمین ءَ مل کننت، ءُ نہ دنیاءِ رُخءَ شہران ءَ پُر کننت.",
   "tokens": [
     {
-      "surface": "הָכִ֧ינוּ",
+      "surface": "הכינו",
       "gloss": "پدا کنیت"
     },
     {
-      "surface": "לְבָנָ֛יו",
+      "surface": "לבניו",
       "gloss": "آیءِ زہگانءَ"
     },
     {
-      "surface": "מַטְבֵּ֖חַ",
+      "surface": "מטבח",
       "gloss": "لبزار"
     },
     {
-      "surface": "בַּעֲוֺ֣ן",
+      "surface": "בעון",
       "gloss": "پشتءَ"
     },
     {
-      "surface": "אֲבוֹתָ֑ם",
+      "surface": "אבותם",
       "gloss": "آوانی پشتان"
     },
     {
-      "surface": "בַּל",
+      "surface": "בל",
       "gloss": "ہچبر نہ"
     },
     {
-      "surface": "יָקֻ֨מוּ֙",
+      "surface": "יקמו",
       "gloss": "اُٹہنت"
     },
     {
-      "surface": "וְיָ֣רְשׁוּ",
+      "surface": "וירשו",
       "gloss": "ءُ مل کننت"
     },
     {
-      "surface": "אָ֔רֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "וּמָלְא֥וּ",
+      "surface": "ומלאו",
       "gloss": "ءُ پُر کننت"
     },
     {
-      "surface": "פְּנֵֽי",
+      "surface": "פני",
       "gloss": "رُخءَ"
     },
     {
-      "surface": "תֵּבֵ֖ל",
+      "surface": "תבל",
       "gloss": "دنیا"
     },
     {
-      "surface": "עָרִֽים",
+      "surface": "ערים",
       "gloss": "شہران"
     }
-  ],
-  "timestamp": "2026-09-25T17:12:29.300632092Z",
-  "model": "glm-5.3"
+  ]
 }

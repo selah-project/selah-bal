@@ -1,102 +1,102 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "ezekiel 43:17",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:29:25.226547898Z",
+  "verse": 17,
+  "ref": "ezekiel 43:17",
+  "tier": "glm-5.2",
   "chapter": 43,
   "translation": "ءُ آییءِ پاند چار دہ اَمّہ دراز ءُ چار دہ اَمّہ کشاد اِنت، پہ آییءِ چاریں گوشہ؛ ءُ حد آییءَ ⟨את⟩ چوطرت ادھ اَمّہ اِنت، ءُ آییءِ گود پہ آییءَ یک اَمّہ چوطرت، ءُ آییءِ چڑھانءِ رخ روچ کپتانءَ اِنت۔",
   "tokens": [
     {
-      "surface": "וְהָעֲזָרָה",
+      "surface": "והעזרה",
       "gloss": "ءُ آییءِ پاند"
     },
     {
-      "surface": "אַרְבַּע",
+      "surface": "ארבע",
       "gloss": "چار"
     },
     {
-      "surface": "עֶשְׂרֵה",
+      "surface": "עשרה",
       "gloss": "دہ"
     },
     {
-      "surface": "אֹרֶךְ",
+      "surface": "ארך",
       "gloss": "اَمّہ دراز"
     },
     {
-      "surface": "בְּאַרְבַּע",
+      "surface": "בארבע",
       "gloss": "پہ چار"
     },
     {
-      "surface": "עֶשְׂרֵה",
+      "surface": "עשרה",
       "gloss": "دہ"
     },
     {
-      "surface": "רֹחַב",
+      "surface": "רחב",
       "gloss": "اَمّہ کشاد"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "אַרְבַּעַת",
+      "surface": "ארבעת",
       "gloss": "چاریں"
     },
     {
-      "surface": "רְבָעֶיהָ",
+      "surface": "רבעיה",
       "gloss": "آییءِ گوشہ"
     },
     {
-      "surface": "וְהַגְּבוּל",
+      "surface": "והגבול",
       "gloss": "ءُ حد"
     },
     {
-      "surface": "סָבִיב",
+      "surface": "סביב",
       "gloss": "چوطرت"
     },
     {
-      "surface": "אוֹתָהּ",
+      "surface": "אותה",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "ادھ اَمّہ"
     },
     {
-      "surface": "חֲצִי",
+      "surface": "חצי",
       "gloss": "ادھ"
     },
     {
-      "surface": "הָאַמָּה",
+      "surface": "האמה",
       "gloss": "اَمّہ"
     },
     {
-      "surface": "וְהַחֵיק",
+      "surface": "והחיק",
       "gloss": "ءُ آییءِ گود"
     },
     {
-      "surface": "לָהּ",
+      "surface": "לה",
       "gloss": "پہ آییءَ"
     },
     {
-      "surface": "אַמָּה",
+      "surface": "אמה",
       "gloss": "یک اَمّہ"
     },
     {
-      "surface": "סָבִיב",
+      "surface": "סביב",
       "gloss": "چوطرت"
     },
     {
-      "surface": "וּמַעֲלֹתֵהוּ",
+      "surface": "ומעלתהו",
       "gloss": "ءُ آییءِ چڑھان"
     },
     {
-      "surface": "פְּנוֹת",
+      "surface": "פנות",
       "gloss": "رخ"
     },
     {
-      "surface": "קָדִים",
+      "surface": "קדים",
       "gloss": "روچ کپتان"
     }
-  ],
-  "timestamp": "2026-09-25T16:29:25.226547898Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,51 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "2-chronicles 6:35",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:56:32.572439028Z",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ تو چہ آسمانءَ ⟨את⟩ اِشانیءِ دعا ءُ ⟨את⟩ اِشانیءِ التجا گوشیت، ءُ اِشانیءِ انصاف کنیت۔",
   "tokens": [
     {
-      "surface": "וְשָׁמַעְתָּ֙",
+      "surface": "ושמעת",
       "gloss": "ءُ تو … گوشیت"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַשָּׁמַ֔יִם",
+      "surface": "השמים",
       "gloss": "آسمانءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اِشانیءِ دعا"
     },
     {
-      "surface": "תְּפִלָּתָ֖ם",
+      "surface": "תפלתם",
       "gloss": "اِشانیءِ دعا"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "اِشانیءِ التجا"
     },
     {
-      "surface": "תְּחִנָּתָ֑ם",
+      "surface": "תחנתם",
       "gloss": "اِشانیءِ التجا"
     },
     {
-      "surface": "וְעָשִׂ֖יתָ",
+      "surface": "ועשית",
       "gloss": "ءُ … کنیت"
     },
     {
-      "surface": "מִשְׁפָּטָֽם",
+      "surface": "משפטם",
       "gloss": "اِشانیءِ انصاف"
     }
-  ],
-  "timestamp": "2026-09-25T13:56:32.572439028Z",
-  "model": "glm-5.3"
+  ]
 }

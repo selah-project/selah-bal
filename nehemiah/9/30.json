@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "nehemiah 9:30",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:42:06.163466041Z",
+  "verse": 30,
+  "ref": "nehemiah 9:30",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ تُو اِشانی سر گیش سالان کشیءُ اِشتی، ءُ تیءِ روحءَ تیءِ پیغمبرانی دستءَ اِشانی تہءَ گواہی دیت، ءُ اِشے گوش نہ کت، ءُ تُو اِشانءَ زمینانی قومانی دستءَ دیت۔",
   "tokens": [
     {
-      "surface": "וַתִּמְשֹׁךְ",
+      "surface": "ותמשך",
       "gloss": "ءُ کشیءُ اِشتی"
     },
     {
-      "surface": "עֲלֵיהֶם",
+      "surface": "עליהם",
       "gloss": "اِشانی سر"
     },
     {
-      "surface": "שָׁנִים",
+      "surface": "שנים",
       "gloss": "سالان"
     },
     {
-      "surface": "רַבּוֹת",
+      "surface": "רבות",
       "gloss": "گیش"
     },
     {
-      "surface": "וַתָּעַד",
+      "surface": "ותעד",
       "gloss": "ءُ گواہی دیت"
     },
     {
-      "surface": "בָּם",
+      "surface": "בם",
       "gloss": "اِشانی تہءَ"
     },
     {
-      "surface": "בְּרוּחֲךָ",
+      "surface": "ברוחך",
       "gloss": "تیءِ روحءَ"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "دستءَ"
     },
     {
-      "surface": "נְבִיאֶיךָ",
+      "surface": "נביאיך",
       "gloss": "تیءِ پیغمبران"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "הֶאֱזִינוּ",
+      "surface": "האזינו",
       "gloss": "گوش نہ کت"
     },
     {
-      "surface": "וַתִּתְּנֵם",
+      "surface": "ותתנם",
       "gloss": "ءُ اِشانءَ دیت"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "دستءَ"
     },
     {
-      "surface": "עַמֵּי",
+      "surface": "עמי",
       "gloss": "قومانی"
     },
     {
-      "surface": "הָאֲרָצֹת",
+      "surface": "הארצת",
       "gloss": "زمینانی"
     }
-  ],
-  "timestamp": "2026-09-25T19:42:06.163466041Z",
-  "model": "glm-5.3"
+  ]
 }

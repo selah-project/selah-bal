@@ -1,100 +1,100 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "jeremiah 27:7",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:52:22.597543429Z",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ تمام قوم آییءَ ⟨את⟩ کار کننت، ءُ ⟨את⟩ آییءِ زہگءَ ءُ ⟨את⟩ زہگءِ زہگءَ، تا کہ آییءِ زمینءِ وہد رسیگ — آ ہم؛ ءُ گیشتر قوم ءُ مزنین پادشاہ آییءَ کار کننت.",
   "tokens": [
     {
-      "surface": "וְעָבְדוּ",
+      "surface": "ועבדו",
       "gloss": "ءُ کار کننت"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "تمام قوم"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "הַגּוֹיִם",
+      "surface": "הגוים",
       "gloss": "قوم"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ زہگ"
     },
     {
-      "surface": "בְּנוֹ",
+      "surface": "בנו",
       "gloss": "آییءِ زہگ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "زہگءِ زہگ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "בְּנוֹ",
+      "surface": "בנו",
       "gloss": "آییءِ زہگ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "בֹּא",
+      "surface": "בא",
       "gloss": "رسیگ"
     },
     {
-      "surface": "עֵת",
+      "surface": "עת",
       "gloss": "وہد"
     },
     {
-      "surface": "אַרְצוֹ",
+      "surface": "ארצו",
       "gloss": "آییءِ زمین"
     },
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "ہم"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "וְעָבְדוּ",
+      "surface": "ועבדו",
       "gloss": "ءُ کار کننت"
     },
     {
-      "surface": "בּוֹ",
+      "surface": "בו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "גּוֹיִם",
+      "surface": "גוים",
       "gloss": "قوم"
     },
     {
-      "surface": "רַבִּים",
+      "surface": "רבים",
       "gloss": "گیشتر"
     },
     {
-      "surface": "וּמְלָכִים",
+      "surface": "ומלכים",
       "gloss": "ءُ پادشاہان"
     },
     {
-      "surface": "גְּדֹלִים",
+      "surface": "גדלים",
       "gloss": "مزنین"
     }
-  ],
-  "timestamp": "2026-09-25T17:52:22.597543429Z",
-  "model": "glm-5.3"
+  ]
 }

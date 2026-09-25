@@ -1,91 +1,91 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "1-kings 3:9",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:59:40.330553762Z",
+  "verse": 9,
+  "ref": "1-kings 3:9",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ تُءِ بندہءَ دہ یک گوشنوکءِ دل، پہ ⟨את⟩ تُءِ قومءَ انصاف کنگ، پہ دانستن درمیناں چنگ ءُ لُڑڑ، پرچا کہ کے اِشٹیت ⟨את⟩ تُءِ اے گیش قومءَ انصاف کنت؟",
   "tokens": [
     {
-      "surface": "וְנָתַתָּ",
+      "surface": "ונתת",
       "gloss": "ءُ دہ"
     },
     {
-      "surface": "לְעַבְדְּךָ",
+      "surface": "לעבדך",
       "gloss": "تُءِ بندہءَ"
     },
     {
-      "surface": "לֵב",
+      "surface": "לב",
       "gloss": "دل"
     },
     {
-      "surface": "שֹׁמֵעַ",
+      "surface": "שמע",
       "gloss": "گوشنوک"
     },
     {
-      "surface": "לִשְׁפֹּט",
+      "surface": "לשפט",
       "gloss": "پہ انصاف کنگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُءِ قومءَ"
     },
     {
-      "surface": "עַמְּךָ",
+      "surface": "עמך",
       "gloss": "تُءِ قومءَ"
     },
     {
-      "surface": "לְהָבִין",
+      "surface": "להבין",
       "gloss": "پہ دانستن"
     },
     {
-      "surface": "בֵּין",
+      "surface": "בין",
       "gloss": "درمیناں"
     },
     {
-      "surface": "טוֹב",
+      "surface": "טוב",
       "gloss": "چنگ"
     },
     {
-      "surface": "לְרָע",
+      "surface": "לרע",
       "gloss": "ءُ لُڑڑ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יוּכַל",
+      "surface": "יוכל",
       "gloss": "اِشٹیت"
     },
     {
-      "surface": "לִשְׁפֹּט",
+      "surface": "לשפט",
       "gloss": "پہ انصاف کنگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُءِ اے گیش قومءَ"
     },
     {
-      "surface": "עַמְּךָ",
+      "surface": "עמך",
       "gloss": "تُءِ قومءَ"
     },
     {
-      "surface": "הַכָּבֵד",
+      "surface": "הכבד",
       "gloss": "گیش"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T12:59:40.330553762Z",
-  "model": "glm-5.3"
+  ]
 }

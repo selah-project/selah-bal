@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "daniel 11:24",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:48:41.298559559Z",
+  "verse": 24,
+  "ref": "daniel 11:24",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "آسائشءِ وہدءَ ءُ مدینہءِ ملیریں جاگہانی چمءَ روت، ءُ آ کنت کہ آییءِ پدران ءُ آییانی پدرانی پدران نہ کتگ — لُٹ ءُ مال ءُ دولت اِشانی میانءَ پشکنیت، ءُ قلعانی سرءَ وتی چالان سوچیت — تا یک وہتءَ۔",
   "tokens": [
     {
-      "surface": "בְּשַׁלְוָה",
+      "surface": "בשלוה",
       "gloss": "آسائشءِ وہدءَ"
     },
     {
-      "surface": "וּבְמִשְׁמַנֵּי",
+      "surface": "ובמשמני",
       "gloss": "ءُ ملیریں جاگہانی چمءَ"
     },
     {
-      "surface": "מְדִינָה",
+      "surface": "מדינה",
       "gloss": "مدینہءِ"
     },
     {
-      "surface": "יָבוֹא",
+      "surface": "יבוא",
       "gloss": "روت"
     },
     {
-      "surface": "וְעָשָׂה",
+      "surface": "ועשה",
       "gloss": "ءُ کنت"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "עָשׂוּ",
+      "surface": "עשו",
       "gloss": "کتگ"
     },
     {
-      "surface": "אֲבֹתָיו",
+      "surface": "אבתיו",
       "gloss": "آییءِ پدران"
     },
     {
-      "surface": "וַאֲבֹת",
+      "surface": "ואבות",
       "gloss": "ءُ پدرانی"
     },
     {
-      "surface": "אֲבֹתָיו",
+      "surface": "אבתיו",
       "gloss": "پدران"
     },
     {
-      "surface": "בִּזָּה",
+      "surface": "בזה",
       "gloss": "لُٹ"
     },
     {
-      "surface": "וְשָׁלָל",
+      "surface": "ושלל",
       "gloss": "ءُ مال"
     },
     {
-      "surface": "וּרְכוּשׁ",
+      "surface": "ורכוש",
       "gloss": "ءُ دولت"
     },
     {
-      "surface": "לָהֶם",
+      "surface": "להם",
       "gloss": "اِشانی میانءَ"
     },
     {
-      "surface": "יִבְזֹר",
+      "surface": "יבזור",
       "gloss": "پشکنیت"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ … سرءَ"
     },
     {
-      "surface": "מִבְצָרִים",
+      "surface": "מבצרים",
       "gloss": "قلعانی"
     },
     {
-      "surface": "יְחַשֵּׁב",
+      "surface": "יחשב",
       "gloss": "سوچیت"
     },
     {
-      "surface": "מַחְשְׁבֹתָיו",
+      "surface": "מחשבתיו",
       "gloss": "وتی چالان"
     },
     {
-      "surface": "וְעַד",
+      "surface": "ועד",
       "gloss": "— تا"
     },
     {
-      "surface": "עֵת",
+      "surface": "עת",
       "gloss": "یک وہتءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:48:41.298559559Z",
-  "model": "glm-5.3"
+  ]
 }

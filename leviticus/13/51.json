@@ -1,114 +1,114 @@
 {
-  "tier": "glm-5.2",
-  "verse": 51,
-  "ref": "leviticus 13:51",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:18:06.174910508Z",
+  "verse": 51,
+  "ref": "leviticus 13:51",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ گندیت ⟨את⟩ نشانءَ ہپتمی روچءَ، کہ نشان پوشتگ اِنت تہ کپڑءَ یا تہ تانابءَ یا تہ چوںءَ یا تہ چمءَ، پہ ہمگ چیزیں کہ چم چہ آییءَ کار بیت — صرعءِ گسڑیں شکل اِنت؛ آ ناپاک اِنت.",
   "tokens": [
     {
-      "surface": "וְרָאָ֨ה",
+      "surface": "וראה",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "نشانءَ"
     },
     {
-      "surface": "הַנֶּ֜גַע",
+      "surface": "הנגע",
       "gloss": "نشانءَ"
     },
     {
-      "surface": "בַּיּ֣וֹם",
+      "surface": "ביום",
       "gloss": "تہ روچءَ"
     },
     {
-      "surface": "הַשְּׁבִיעִ֗י",
+      "surface": "השביעי",
       "gloss": "ہپتمی"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "פָשָׂ֤ה",
+      "surface": "פשה",
       "gloss": "پوشتگ اِنت"
     },
     {
-      "surface": "הַנֶּ֨גַע֙",
+      "surface": "הנגע",
       "gloss": "نشان"
     },
     {
-      "surface": "בַּבֶּ֠גֶד",
+      "surface": "בבגד",
       "gloss": "تہ کپڑءَ"
     },
     {
-      "surface": "אֽוֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "בַּשְּׁתִ֤י",
+      "surface": "בשתי",
       "gloss": "تہ تانابءَ"
     },
     {
-      "surface": "אֽוֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "בָּעֵ֨רֶב֙",
+      "surface": "בערב",
       "gloss": "تہ چوںءَ"
     },
     {
-      "surface": "א֣וֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "בָּע֔וֹר",
+      "surface": "בעור",
       "gloss": "تہ چمءَ"
     },
     {
-      "surface": "לְכֹ֛ל",
+      "surface": "לכל",
       "gloss": "پہ ہمگ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יֵעָשֶׂ֥ה",
+      "surface": "יעשה",
       "gloss": "کار بیت"
     },
     {
-      "surface": "הָע֖וֹר",
+      "surface": "העור",
       "gloss": "چم"
     },
     {
-      "surface": "לִמְלָאכָ֑ה",
+      "surface": "למלאכה",
       "gloss": "چہ آییءَ کارءَ پہ"
     },
     {
-      "surface": "צָרַ֧עַת",
+      "surface": "צרעת",
       "gloss": "صرع"
     },
     {
-      "surface": "מַמְאֶ֛רֶת",
+      "surface": "ממארת",
       "gloss": "گسڑیں"
     },
     {
-      "surface": "הַנֶּ֖גַע",
+      "surface": "הנגע",
       "gloss": "نشانءِ"
     },
     {
-      "surface": "טָמֵ֥א",
+      "surface": "טמא",
       "gloss": "ناپاک"
     },
     {
-      "surface": "הֽוּא",
+      "surface": "הוא",
       "gloss": "آ اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:18:06.174910508Z",
-  "model": "glm-5.3"
+  ]
 }

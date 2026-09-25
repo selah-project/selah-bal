@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "leviticus 16:22",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:18:46.481399633Z",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ بز آییءِ سرءَ ⟨את⟩ اَشاںءِ تمام گنہاں یک جتائیں زمینءَ چکیت ءُ ⟨את⟩ بز دیسءَ رہا کت۔",
   "tokens": [
     {
-      "surface": "וְנָשָׂא",
+      "surface": "ונשא",
       "gloss": "ءُ چکیت"
     },
     {
-      "surface": "הַשָּׂעִיר",
+      "surface": "השעיר",
       "gloss": "بز"
     },
     {
-      "surface": "עָלָיו",
+      "surface": "עליו",
       "gloss": "آییءِ سرءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَشاںءِ تمام گنہاں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "עֲוֺנֹתָם",
+      "surface": "עונתם",
       "gloss": "اَشاںءِ گنہاں"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ"
     },
     {
-      "surface": "אֶרֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "גְּזֵרָה",
+      "surface": "גזרה",
       "gloss": "جتائیں"
     },
     {
-      "surface": "וְשִׁלַּח",
+      "surface": "ושלח",
       "gloss": "ءُ رہا کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "بز"
     },
     {
-      "surface": "הַשָּׂעִיר",
+      "surface": "השעיר",
       "gloss": "بز"
     },
     {
-      "surface": "בַּמִּדְבָּר",
+      "surface": "במדבר",
       "gloss": "دیسءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:18:46.481399633Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "2-chronicles 28:5",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:50:11.543888165Z",
+  "verse": 5,
+  "ref": "2-chronicles 28:5",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ یاہوہ آییءِ ایلوہیم ⟨آییءَ⟩ آرامءِ شاہءِ دستءَ دات، ءُ اِشاں آییءَ مارت، ءُ چہ آییءَ یک گیش اسیری گپت ءُ اِشاںءَ دمشقءَ آورت؛ ءُ ہم اسرائیلءِ شاہءِ دستءَ دات بوت، ءُ آیءَ یک گیش مار ءُ مارت.",
   "tokens": [
@@ -12,94 +14,92 @@
       "gloss": "ءُ دات"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהָיו",
+      "surface": "אלהיו",
       "gloss": "آییءِ ایلوہیم"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "دستءَ"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "אֲרָם",
+      "surface": "ארם",
       "gloss": "آرامءِ"
     },
     {
-      "surface": "וַיַּכּוּ",
+      "surface": "ויכו",
       "gloss": "ءُ مارت"
     },
     {
-      "surface": "בּוֹ",
+      "surface": "בו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "וַיִּשְׁבּוּ",
+      "surface": "וישבו",
       "gloss": "ءُ اسیر کت"
     },
     {
-      "surface": "מִמֶּנּוּ",
+      "surface": "ממנו",
       "gloss": "چہ آییءَ"
     },
     {
-      "surface": "שִׁבְיָה",
+      "surface": "שביה",
       "gloss": "اسیری"
     },
     {
-      "surface": "גְדוֹלָה",
+      "surface": "גדולה",
       "gloss": "گیش"
     },
     {
-      "surface": "וַיָּבִיאוּ",
+      "surface": "ויביאו",
       "gloss": "ءُ آورت"
     },
     {
-      "surface": "דַּרְמָשֶׂק",
+      "surface": "דרמשק",
       "gloss": "دمشقءَ"
     },
     {
-      "surface": "וְגַם",
+      "surface": "וגם",
       "gloss": "ءُ ہم"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "دستءَ"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     },
     {
-      "surface": "נִתָּן",
+      "surface": "נתן",
       "gloss": "دات بوت"
     },
     {
-      "surface": "וַיַּךְ",
+      "surface": "ויך",
       "gloss": "ءُ مارت"
     },
     {
-      "surface": "בּוֹ",
+      "surface": "בו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "מַכָּה",
+      "surface": "מכה",
       "gloss": "مار"
     },
     {
-      "surface": "גְדוֹלָה",
+      "surface": "גדולה",
       "gloss": "گیش"
     }
-  ],
-  "timestamp": "2026-09-25T13:50:11.543888165Z",
-  "model": "glm-5.3"
+  ]
 }

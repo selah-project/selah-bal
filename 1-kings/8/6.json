@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "1-kings 8:6",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:06:57.174901552Z",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ کہنان یاہوہءِ عہدءِ صندوقءَ ⟨את⟩ آییءِ جاگہءَ آنتگ — گدانءِ دیبرءَ، قدسءِ قدساںءَ، کروباںءِ پراںءِ تہءَ۔",
   "tokens": [
     {
-      "surface": "וַיָּבִ֣אוּ",
+      "surface": "ויבאו",
       "gloss": "ءُ آنتگ"
     },
     {
-      "surface": "הַכֹּהֲנִ֠ים",
+      "surface": "הכהנים",
       "gloss": "کہنان"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "عہدءِ صندوقءَ"
     },
     {
-      "surface": "אֲר֨וֹן",
+      "surface": "ארון",
       "gloss": "صندوقءَ"
     },
     {
-      "surface": "בְּרִית",
+      "surface": "ברית",
       "gloss": "عہدءِ"
     },
     {
-      "surface": "יְהוָ֧ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "(آنتگ) -ءَ"
     },
     {
-      "surface": "מְקוֹמ֛וֹ",
+      "surface": "מקומו",
       "gloss": "آییءِ جاگہءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "-ءَ"
     },
     {
-      "surface": "דְּבִ֥יר",
+      "surface": "דביר",
       "gloss": "دیبرءَ"
     },
     {
-      "surface": "הַבַּ֖יִת",
+      "surface": "הבית",
       "gloss": "گدانءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "-ءَ"
     },
     {
-      "surface": "קֹ֣דֶשׁ",
+      "surface": "קדש",
       "gloss": "قدسءَ"
     },
     {
-      "surface": "הַקֳּדָשִׁ֑ים",
+      "surface": "הקדשים",
       "gloss": "قدساںءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "-ءَ"
     },
     {
-      "surface": "תַּ֖חַת",
+      "surface": "תחת",
       "gloss": "تہءَ"
     },
     {
-      "surface": "כַּנְפֵ֥י",
+      "surface": "כנפי",
       "gloss": "پراںءِ"
     },
     {
-      "surface": "הַכְּרוּבִֽים",
+      "surface": "הכרובים",
       "gloss": "کروباںءِ"
     }
-  ],
-  "timestamp": "2026-09-25T13:06:57.174901552Z",
-  "model": "glm-5.3"
+  ]
 }

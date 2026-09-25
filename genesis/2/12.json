@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "genesis 2:12",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:45:12.200959877Z",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ اُوزءِ زمین اے چنگ اِنت، اُودا بیدولچ ءُ شوہامءِ سنگ ہست اِنت۔",
   "tokens": [
     {
-      "surface": "וּזֲהַב",
+      "surface": "וזהב",
       "gloss": "ءُ اُوز"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "הַהִוא",
+      "surface": "ההוא",
       "gloss": "اے"
     },
     {
-      "surface": "טוֹב",
+      "surface": "טוב",
       "gloss": "چنگ"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "اُودا"
     },
     {
-      "surface": "הַבְּדֹלַח",
+      "surface": "הבדלח",
       "gloss": "بیدولچ"
     },
     {
-      "surface": "וְאֶבֶן",
+      "surface": "ואבן",
       "gloss": "ءُ سنگ"
     },
     {
-      "surface": "הַשֹּׁהַם",
+      "surface": "השהם",
       "gloss": "شوہامءِ"
     }
-  ],
-  "timestamp": "2026-09-25T16:45:12.200959877Z",
-  "model": "glm-5.3"
+  ]
 }

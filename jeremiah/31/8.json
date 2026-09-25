@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "jeremiah 31:8",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:56:17.831916491Z",
+  "verse": 8,
+  "ref": "jeremiah 31:8",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "چُو من اِشاں ⟨את⟩ چہ اُتریں ملکءَ گن ءُ اِشاں چہ زمینءِ چیڑانی چیڑاں گنیت۔ اِشانی پُشتءَ کوڑ ءُ لنگ، ماں ءُ زائنک ہمیشان۔ یک گیش ٹولی اِنت کہ اِنت پدا لٹیت۔",
   "tokens": [
     {
-      "surface": "הִנְנִי֩",
+      "surface": "הנני",
       "gloss": "چُو من"
     },
     {
-      "surface": "מֵבִ֨יא",
+      "surface": "מביא",
       "gloss": "گن"
     },
     {
-      "surface": "אוֹתָ֜ם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ اِشاںءَ",
       "marks": "اُتریں ملک"
     },
     {
-      "surface": "מֵאֶ֣רֶץ",
+      "surface": "מארץ",
       "gloss": "چہ ملکءَ"
     },
     {
-      "surface": "צָפ֗וֹן",
+      "surface": "צפון",
       "gloss": "اُتریں"
     },
     {
-      "surface": "וְקִבַּצְתִּים֮",
+      "surface": "וקבצתים",
       "gloss": "ءُ اِشاں گنیت"
     },
     {
-      "surface": "מִיַּרְכְּתֵי֒",
+      "surface": "מירכתי",
       "gloss": "چہ چیڑانی"
     },
     {
-      "surface": "אָרֶץ֒",
+      "surface": "ארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "בָּ֚ם",
+      "surface": "בם",
       "gloss": "اِشانی پُشتءَ"
     },
     {
-      "surface": "עִוֵּ֣ר",
+      "surface": "עור",
       "gloss": "کوڑ"
     },
     {
-      "surface": "וּפִסֵּ֔חַ",
+      "surface": "ופסח",
       "gloss": "ءُ لنگ"
     },
     {
-      "surface": "הָרָ֥ה",
+      "surface": "הרה",
       "gloss": "ماں"
     },
     {
-      "surface": "וְיֹלֶ֖דֶת",
+      "surface": "וילדת",
       "gloss": "ءُ زائنک"
     },
     {
-      "surface": "יַחְדָּ֑ו",
+      "surface": "יחדו",
       "gloss": "ہمیشان"
     },
     {
-      "surface": "קָהָ֥ל",
+      "surface": "קהל",
       "gloss": "ٹولی"
     },
     {
-      "surface": "גָּד֖וֹל",
+      "surface": "גדול",
       "gloss": "گیش"
     },
     {
-      "surface": "יָשׁ֥וּבוּ",
+      "surface": "ישובו",
       "gloss": "پدا لٹیت"
     },
     {
-      "surface": "הֵֽנָּה",
+      "surface": "הנה",
       "gloss": "اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T17:56:17.831916491Z",
-  "model": "glm-5.3"
+  ]
 }

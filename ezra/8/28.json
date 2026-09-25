@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "ezra 8:28",
   "book": "ezra",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:40:41.511312890Z",
+  "verse": 28,
+  "ref": "ezra 8:28",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ ما اِشاںءَ گوَشت: اے شما پہ یاہوہ پاک ⟨اِنت⟩، ءُ کیل پاک ⟨اِنت⟩، ءُ زر ءُ سون خوش‌دلیءِ پیشکش ⟨اِنت⟩ پہ یاہوہ، شمانی پدرانءِ ایلوہیم.",
   "tokens": [
     {
-      "surface": "וָאֹמְרָה",
+      "surface": "ואמרה",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אֲלֵהֶם",
+      "surface": "אלהם",
       "gloss": "اِشاںءَ"
     },
     {
-      "surface": "אַתֶּם",
+      "surface": "אתם",
       "gloss": "شما"
     },
     {
-      "surface": "קֹדֶשׁ",
+      "surface": "קדש",
       "gloss": "پاک"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "پہ یاہوہ"
     },
     {
-      "surface": "וְהַכֵּלִים",
+      "surface": "והכלים",
       "gloss": "ءُ کیل"
     },
     {
-      "surface": "קֹדֶשׁ",
+      "surface": "קדש",
       "gloss": "پاک"
     },
     {
-      "surface": "וְהַכֶּסֶף",
+      "surface": "והכסף",
       "gloss": "ءُ زر"
     },
     {
-      "surface": "וְהַזָּהָב",
+      "surface": "והזהב",
       "gloss": "ءُ سون"
     },
     {
-      "surface": "נְדָבָה",
+      "surface": "נדבה",
       "gloss": "خوش‌دلیءِ پیشکش"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "پہ یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵי",
+      "surface": "אלהי",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "אֲבֹתֵיכֶם",
+      "surface": "אבתיכם",
       "gloss": "شمانی پدران"
     }
-  ],
-  "timestamp": "2026-09-25T16:40:41.511312890Z",
-  "model": "glm-5.3"
+  ]
 }

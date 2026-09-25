@@ -1,87 +1,87 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "isaiah 9:20",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:35:39.695183472Z",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "منشہ ⟨את⟩ افرایمءَ گندیت ءُ افرایم ⟨את⟩ منشہءَ گندیت — اِشاں همگ گوں یہودہءِ سرا اَنت۔ اے همگءِ باوجود آییءِ غضب پس نہ گشتگ ءُ آییءِ دست ہنچا دراز اِنت۔",
   "tokens": [
     {
-      "surface": "מְנַשֶּׁה",
+      "surface": "מנשה",
       "gloss": "منشہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "افرایم"
     },
     {
-      "surface": "אֶפְרַיִם",
+      "surface": "אפרים",
       "gloss": "افرایمءَ"
     },
     {
-      "surface": "וְאֶפְרַיִם",
+      "surface": "ואפרים",
       "gloss": "ءُ افرایم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منشہ"
     },
     {
-      "surface": "מְנַשֶּׁה",
+      "surface": "מנשה",
       "gloss": "منشہءَ"
     },
     {
-      "surface": "יַחְדָּו",
+      "surface": "יחדו",
       "gloss": "همگ"
     },
     {
-      "surface": "הֵמָּה",
+      "surface": "המה",
       "gloss": "اِشاں"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "گوں …ءِ سرا"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہودہ"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "اے همگءِ باوجود"
     },
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "⟨اے⟩"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "שָׁב",
+      "surface": "שב",
       "gloss": "پس نہ گشتگ"
     },
     {
-      "surface": "אַפּוֹ",
+      "surface": "אפו",
       "gloss": "آییءِ غضب"
     },
     {
-      "surface": "וְעוֹד",
+      "surface": "ועוד",
       "gloss": "ءُ ہنچا"
     },
     {
-      "surface": "יָדוֹ",
+      "surface": "ידו",
       "gloss": "آییءِ دست"
     },
     {
-      "surface": "נְטוּיָה",
+      "surface": "נטויה",
       "gloss": "دراز اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T17:35:39.695183472Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "jeremiah 1:1",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:40:32.789808161Z",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "یرمیاہوءِ گالان، چلقیاہوءِ زہگ، چہ کوهنانان کہ عناتوتءَ اِنتنت، بنیامینءِ زمینءَ تہ.",
   "tokens": [
     {
-      "surface": "דִּבְרֵי",
+      "surface": "דברי",
       "gloss": "گالان"
     },
     {
-      "surface": "יִרְמְיָהוּ",
+      "surface": "ירמיהו",
       "gloss": "یرمیاہوءِ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "חִלְקִיָּהוּ",
+      "surface": "חלקיהו",
       "gloss": "چلقیاہوءِ"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַכֹּהֲנִים",
+      "surface": "הכהנים",
       "gloss": "کوهنانان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בַּעֲנָתוֹת",
+      "surface": "בענתות",
       "gloss": "عناتوتءَ"
     },
     {
-      "surface": "בְּאֶרֶץ",
+      "surface": "בארץ",
       "gloss": "زمینءَ تہ"
     },
     {
-      "surface": "בִּנְיָמִן",
+      "surface": "בנימן",
       "gloss": "بنیامینءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:40:32.789808161Z",
-  "model": "glm-5.3"
+  ]
 }

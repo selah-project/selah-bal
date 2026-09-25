@@ -1,99 +1,99 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "ezekiel 38:4",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:26:03.977138117Z",
+  "verse": 4,
+  "ref": "ezekiel 38:4",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "ءُ تُءَ پدا گرزانیں ءُ زولاں تُئی ترڑانءَ گرگ ءُ تُءَ ⟨את⟩ ءُ ⟨את⟩ تُئی گیش لشکرءَ در کنت — گھوڑے ءُ سوار، ہمگ لباس کرتگ پوریں زرہءَ گوں، یک گیشیں کانگ، سپر ءُ دال، شمشیرئے گرفتگ — ہمگ ئے۔",
   "tokens": [
     {
-      "surface": "וְשׁ֣וֹבַבְתִּ֔יךָ",
+      "surface": "ושובבתיך",
       "gloss": "ءُ تُءَ پدا گرزانیں"
     },
     {
-      "surface": "וְנָתַתִּ֥י",
+      "surface": "ונתתי",
       "gloss": "ءُ گرگ"
     },
     {
-      "surface": "חַחִ֖ים",
+      "surface": "חחים",
       "gloss": "زولاں"
     },
     {
-      "surface": "בִּלְחָיֶ֑יךָ",
+      "surface": "בלחייך",
       "gloss": "تُئی ترڑانءَ"
     },
     {
-      "surface": "וְהוֹצֵאתִי֩",
+      "surface": "והוצאתי",
       "gloss": "ءُ در کنت"
     },
     {
-      "surface": "אוֹתְךָ֨",
+      "surface": "אותך",
       "gloss": "⟨את⟩",
       "marks": "تُءَ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "تُئی گیش لشکر"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیش"
     },
     {
-      "surface": "חֵילֶ֜ךָ",
+      "surface": "חילך",
       "gloss": "تُئی لشکر"
     },
     {
-      "surface": "סוּסִ֣ים",
+      "surface": "סוסים",
       "gloss": "گھوڑے"
     },
     {
-      "surface": "וּפָרָשִׁ֗ים",
+      "surface": "ופרשים",
       "gloss": "ءُ سوار"
     },
     {
-      "surface": "לְבֻשֵׁ֤י",
+      "surface": "לבשי",
       "gloss": "لباس کرتگ"
     },
     {
-      "surface": "מִכְלוֹל֙",
+      "surface": "מכלול",
       "gloss": "پوریں زرہءَ"
     },
     {
-      "surface": "כֻּלָּ֔ם",
+      "surface": "כלם",
       "gloss": "ہمگ"
     },
     {
-      "surface": "קָהָ֥ל",
+      "surface": "קהל",
       "gloss": "کانگ"
     },
     {
-      "surface": "רָב֙",
+      "surface": "רב",
       "gloss": "گیشیں"
     },
     {
-      "surface": "צִנָּ֣ה",
+      "surface": "צנה",
       "gloss": "سپر"
     },
     {
-      "surface": "וּמָגֵ֔ן",
+      "surface": "ומגן",
       "gloss": "ءُ دال"
     },
     {
-      "surface": "תֹּפְשֵׂ֥י",
+      "surface": "תפשי",
       "gloss": "گرفتگ"
     },
     {
-      "surface": "חֲרָב֖וֹת",
+      "surface": "חרבות",
       "gloss": "شمشیرئے"
     },
     {
-      "surface": "כֻּלָּֽם",
+      "surface": "כלם",
       "gloss": "ہمگ ئے"
     }
-  ],
-  "timestamp": "2026-09-25T16:26:03.977138117Z",
-  "model": "glm-5.3"
+  ]
 }

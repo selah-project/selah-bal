@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "1-kings 7:3",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:03:58.068349107Z",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ چہ لہرءَ گوں دارئے ارز پُوششت بوت، چہ سرءَ، سر کتگیں پاس ءُ آ کہ سر کتگیں ستونان، چار ءُ پنچ، پنچ دہ یک رجءَ۔",
   "tokens": [
     {
-      "surface": "וְסָפֻ֣ן",
+      "surface": "וספן",
       "gloss": "ءُ پُوششت بوت"
     },
     {
-      "surface": "בָּאֶ֫רֶז",
+      "surface": "בארז",
       "gloss": "گوں دارئے ارز"
     },
     {
-      "surface": "מִמַּ֨עַל֙",
+      "surface": "ממעל",
       "gloss": "چہ سرءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سر کتگیں"
     },
     {
-      "surface": "הַצְּלָעֹת֙",
+      "surface": "הצלעת",
       "gloss": "پاس"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سر کتگیں"
     },
     {
-      "surface": "הָֽעַמּוּדִ֔ים",
+      "surface": "העמודים",
       "gloss": "ستونان"
     },
     {
-      "surface": "אַרְבָּעִ֖ים",
+      "surface": "ארבעים",
       "gloss": "چار"
     },
     {
-      "surface": "וַחֲמִשָּׁ֑ה",
+      "surface": "וחמשה",
       "gloss": "ءُ پنچ"
     },
     {
-      "surface": "חֲמִשָּׁ֥ה",
+      "surface": "חמשה",
       "gloss": "پنچ"
     },
     {
-      "surface": "עָשָׂ֖ר",
+      "surface": "עשר",
       "gloss": "دہ"
     },
     {
-      "surface": "הַטּֽוּר",
+      "surface": "הטור",
       "gloss": "یک رجءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:03:58.068349107Z",
-  "model": "glm-5.3"
+  ]
 }

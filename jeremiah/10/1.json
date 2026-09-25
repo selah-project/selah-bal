@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "jeremiah 10:1",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:40:11.590747746Z",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "اے بیت یِسرائل، گوش کنیں ⟨את⟩ گالءِ کہ یاہوہءَ تہ ئشاںءَ گوَشت اِنت،",
   "tokens": [
     {
-      "surface": "שִׁמְע֣וּ",
+      "surface": "שמעו",
       "gloss": "گوش کنیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گالءِ"
     },
     {
-      "surface": "הַדָּבָ֗ר",
+      "surface": "הדבר",
       "gloss": "گالءِ"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "דִּבֶּ֧ר",
+      "surface": "דבר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "עֲלֵיכֶ֖ם",
+      "surface": "עליכם",
       "gloss": "تہ ئشاںءَ"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "بیت"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "یِسرائل"
     }
-  ],
-  "timestamp": "2026-09-25T17:40:11.590747746Z",
-  "model": "glm-5.3"
+  ]
 }

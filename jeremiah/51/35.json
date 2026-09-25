@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "jeremiah 51:35",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:16:24.186000078Z",
+  "verse": 35,
+  "ref": "jeremiah 51:35",
+  "tier": "glm-5.2",
   "chapter": 51,
   "translation": "«مءِ زولم ءُ مءِ گوشت بابلءِ سرءَ بُت» زئونءِ رہندوک گوشیت، ءُ «مءِ خون کسدیانی رہندوکانی سرءَ بُت» یروشلم گوشیت۔",
   "tokens": [
     {
-      "surface": "חֲמָסִי",
+      "surface": "חמסי",
       "gloss": "مءِ زولم"
     },
     {
-      "surface": "וּשְׁאֵרִי",
+      "surface": "ושארי",
       "gloss": "ءُ مءِ گوشت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "בָּבֶל",
+      "surface": "בבל",
       "gloss": "بابل"
     },
     {
-      "surface": "תֹּאמַר",
+      "surface": "תאמר",
       "gloss": "گوشیت"
     },
     {
-      "surface": "יוֹשֶׁבֶת",
+      "surface": "ישבת",
       "gloss": "رہندوک"
     },
     {
-      "surface": "צִיּוֹן",
+      "surface": "ציון",
       "gloss": "زئون"
     },
     {
-      "surface": "וְדָמִי",
+      "surface": "ודמי",
       "gloss": "ءُ مءِ خون"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "سرءَ"
     },
     {
-      "surface": "יוֹשְׁבֵי",
+      "surface": "ישבי",
       "gloss": "رہندوکانی"
     },
     {
-      "surface": "כַּשְׂדִּים",
+      "surface": "כשדים",
       "gloss": "کسدیان"
     },
     {
-      "surface": "תֹּאמַר",
+      "surface": "תאמר",
       "gloss": "گوشیت"
     },
     {
-      "surface": "יְרוּשָׁלִַ͏ם",
+      "surface": "ירושלם",
       "gloss": "یروشلم"
     }
-  ],
-  "timestamp": "2026-09-25T18:16:24.186000078Z",
-  "model": "glm-5.3"
+  ]
 }

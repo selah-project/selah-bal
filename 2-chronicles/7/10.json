@@ -1,98 +1,98 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "2-chronicles 7:10",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:57:55.991197910Z",
+  "verse": 10,
+  "ref": "2-chronicles 7:10",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ ہبدہ ءُ سئیمی روچءَ ہپتمی ماہءَ، قومءَ آییءِ گدانیں روت، شاد ءُ دلءَ خوش چہ آ خوبیءِ پہ کہ یاہوہ داودءَ ءُ سلیمانءَ ءُ اسرائیلءَ — آییءِ قومءَ — پہ کتگ اِنت۔",
   "tokens": [
     {
-      "surface": "וּבְיוֹם",
+      "surface": "וביום",
       "gloss": "ءُ ہبدہ ءُ سئیمی روچءَ"
     },
     {
-      "surface": "עֶשְׂרִים",
+      "surface": "עשרים",
       "gloss": "دہ"
     },
     {
-      "surface": "וּשְׁלֹשָׁה",
+      "surface": "ושלשה",
       "gloss": "ءُ سئے"
     },
     {
-      "surface": "לַחֹדֶשׁ",
+      "surface": "לחדש",
       "gloss": "ماہءَ"
     },
     {
-      "surface": "הַשְּׁבִיעִי",
+      "surface": "השביעי",
       "gloss": "ہپتمی"
     },
     {
-      "surface": "שִׁלַּח",
+      "surface": "שלח",
       "gloss": "روت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "قومءَ"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "قومءَ"
     },
     {
-      "surface": "לְאָהֳלֵיהֶם",
+      "surface": "לאהליהם",
       "gloss": "آییءِ گدانیں"
     },
     {
-      "surface": "שְׂמֵחִים",
+      "surface": "שמחים",
       "gloss": "شاد"
     },
     {
-      "surface": "וְטוֹבֵי",
+      "surface": "וטובי",
       "gloss": "ءُ خوش"
     },
     {
-      "surface": "לֵב",
+      "surface": "לב",
       "gloss": "دلءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "چہ"
     },
     {
-      "surface": "הַטּוֹבָה",
+      "surface": "הטובה",
       "gloss": "آ خوبیءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָשָׂה",
+      "surface": "עשה",
       "gloss": "پہ کتگ اِنت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "לְדָוִיד",
+      "surface": "לדויד",
       "gloss": "داودءَ ءُ"
     },
     {
-      "surface": "וְלִשְׁלֹמֹה",
+      "surface": "ולשלמה",
       "gloss": "سلیمانءَ ءُ"
     },
     {
-      "surface": "וּלְיִשְׂרָאֵל",
+      "surface": "ולישראל",
       "gloss": "اسرائیلءَ"
     },
     {
-      "surface": "עַמּוֹ",
+      "surface": "עמו",
       "gloss": "آییءِ قومءَ —"
     }
-  ],
-  "timestamp": "2026-09-25T13:57:55.991197910Z",
-  "model": "glm-5.3"
+  ]
 }

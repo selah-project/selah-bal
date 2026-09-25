@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "isaiah 24:8",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:16:50.401222586Z",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ڈمامانی شادمانی بوچیت، شاداںءِ شور رُکیت، کنورءِ شادمانی بوچیت۔",
   "tokens": [
     {
-      "surface": "שָׁבַת",
+      "surface": "שבת",
       "gloss": "بوچیت"
     },
     {
-      "surface": "מְשׂוֹשׂ",
+      "surface": "משוש",
       "gloss": "شادمانی"
     },
     {
-      "surface": "תֻּפִּים",
+      "surface": "תפים",
       "gloss": "ڈمامان"
     },
     {
-      "surface": "חָדַל",
+      "surface": "חדל",
       "gloss": "رُکیت"
     },
     {
-      "surface": "שְׁאוֹן",
+      "surface": "שאון",
       "gloss": "شور"
     },
     {
-      "surface": "עַלִּיזִים",
+      "surface": "עליזים",
       "gloss": "شاداں"
     },
     {
-      "surface": "שָׁבַת",
+      "surface": "שבת",
       "gloss": "بوچیت"
     },
     {
-      "surface": "מְשׂוֹשׂ",
+      "surface": "משוש",
       "gloss": "شادمانی"
     },
     {
-      "surface": "כִּנּוֹר",
+      "surface": "כנור",
       "gloss": "کنور"
     }
-  ],
-  "timestamp": "2026-09-25T17:16:50.401222586Z",
-  "model": "glm-5.3"
+  ]
 }

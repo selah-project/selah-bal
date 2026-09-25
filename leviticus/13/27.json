@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "leviticus 13:27",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:16:46.424188129Z",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ کاہن آییءَ ہپتمی روچءَ گندیت؛ اگر آ پوشیت ءُ چہ ایشی گیشتر پوشیت، ءُ کاہن آییءَ ناپاک اِشکنیت ⟨את⟩ — آ یک زہالیں نگہءِ نشان اِنت ءُ چوں تپ ءُ روت۔",
   "tokens": [
     {
-      "surface": "וְרָאָ֥הוּ",
+      "surface": "וראהו",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "הַכֹּהֵ֖ן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "בַּיּ֣וֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "הַשְּׁבִיעִ֑י",
+      "surface": "השביעי",
       "gloss": "ہپتمی"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "اگر"
     },
     {
-      "surface": "פָּשֹׂ֤ה",
+      "surface": "פשה",
       "gloss": "پوشیت"
     },
     {
-      "surface": "תִּפְשֶׂה֙",
+      "surface": "תפשה",
       "gloss": "پوشیت"
     },
     {
-      "surface": "בָּע֔וֹר",
+      "surface": "בעור",
       "gloss": "چہ ایشی"
     },
     {
-      "surface": "וְטִמֵּ֥א",
+      "surface": "וטמא",
       "gloss": "ءُ ناپاک اِشکنیت"
     },
     {
-      "surface": "הַכֹּהֵ֖ן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "אֹת֔וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ"
     },
     {
-      "surface": "נֶ֥גַע",
+      "surface": "נגע",
       "gloss": "زگہالیں نگہءِ نشان"
     },
     {
-      "surface": "צָרַ֖עַת",
+      "surface": "צרעת",
       "gloss": "چوں تپ"
     },
     {
-      "surface": "הִֽוא",
+      "surface": "הוא",
       "gloss": "اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:16:46.424188129Z",
-  "model": "glm-5.3"
+  ]
 }

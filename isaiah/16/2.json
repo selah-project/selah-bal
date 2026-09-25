@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "isaiah 16:2",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:12:54.702210019Z",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ بیت چوش کہ وشوک مرگ، کِش کہ ڈنگ بوتگ — مُوآبءِ جنکان پہ آرنُنءِ پار بنت.",
   "tokens": [
     {
-      "surface": "וְהָיָ֥ה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "כְעוֹף",
+      "surface": "כעוף",
       "gloss": "چوش کہ مرگ"
     },
     {
-      "surface": "נוֹדֵ֖ד",
+      "surface": "נודד",
       "gloss": "وشوک"
     },
     {
-      "surface": "קֵ֣ן",
+      "surface": "קן",
       "gloss": "کِش"
     },
     {
-      "surface": "מְשֻׁלָּ֑ח",
+      "surface": "משלח",
       "gloss": "ڈنگ بوتگ"
     },
     {
-      "surface": "תִּֽהְיֶ֨ינָה֙",
+      "surface": "תהיינה",
       "gloss": "بنت"
     },
     {
-      "surface": "בְּנ֣וֹת",
+      "surface": "בנות",
       "gloss": "جنکان"
     },
     {
-      "surface": "מוֹאָ֔ב",
+      "surface": "מואב",
       "gloss": "مُوآبءِ"
     },
     {
-      "surface": "מַעְבָּרֹ֖ת",
+      "surface": "מעברת",
       "gloss": "پار"
     },
     {
-      "surface": "לְאַרְנֽוֹן",
+      "surface": "לארנון",
       "gloss": "پہ آرنُن"
     }
-  ],
-  "timestamp": "2026-09-25T17:12:54.702210019Z",
-  "model": "glm-5.3"
+  ]
 }

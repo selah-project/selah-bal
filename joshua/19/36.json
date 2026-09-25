@@ -1,25 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
-  "ref": "joshua 19:36",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:44:37.230208018Z",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ اَدامہ، ءُ رامہ، ءُ حاصور،",
   "tokens": [
     {
-      "surface": "וַאֲדָמָ֥ה",
+      "surface": "ואדמה",
       "gloss": "ءُ اَدامہ"
     },
     {
-      "surface": "וְהָרָמָ֖ה",
+      "surface": "והרמה",
       "gloss": "ءُ رامہ"
     },
     {
-      "surface": "וְחָצֽוֹר",
+      "surface": "וחצור",
       "gloss": "ءُ حاصور"
     }
-  ],
-  "timestamp": "2026-09-25T18:44:37.230208018Z",
-  "model": "glm-5.3"
+  ]
 }

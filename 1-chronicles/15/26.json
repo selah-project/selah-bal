@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "1-chronicles 15:26",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:33:58.783357284Z",
+  "verse": 26,
+  "ref": "1-chronicles 15:26",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ اِشاں بوت چہ ایلوہیمءَ ⟨את⟩ هالویانءَ مدد کت — یاہوہءِ عہدءِ صندوقءِ کشوک — ءُ ؁یں ہپت گائان ءُ ہپت قوچکان قربانی کت.",
   "tokens": [
     {
-      "surface": "וַֽיְהִי֙",
+      "surface": "ויהי",
       "gloss": "ءُ اِشاں بوت"
     },
     {
-      "surface": "בֶּעְזֹ֣ר",
+      "surface": "בעזר",
       "gloss": "مددءِ سرءَ"
     },
     {
-      "surface": "הָאֱלֹהִ֔ים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءَ"
     },
     {
-      "surface": "אֶ֨ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "هالویانءَ"
     },
     {
-      "surface": "הַלְוִיִּ֔ם",
+      "surface": "הלוים",
       "gloss": "هالویانءَ"
     },
     {
-      "surface": "נֹשְׂאֵ֖י",
+      "surface": "נשאי",
       "gloss": "کشوک"
     },
     {
-      "surface": "אֲר֣וֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "בְּרִ֥ית",
+      "surface": "ברית",
       "gloss": "عہدءِ"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וַיִּזְבְּח֥וּ",
+      "surface": "ויזבחו",
       "gloss": "ءُ قربانی کت"
     },
     {
-      "surface": "שִׁבְעָֽה",
+      "surface": "שבעה",
       "gloss": "ہپت"
     },
     {
-      "surface": "פָרִ֖ים",
+      "surface": "פרים",
       "gloss": "گائان"
     },
     {
-      "surface": "וְשִׁבְעָ֥ה",
+      "surface": "ושבעה",
       "gloss": "ءُ ہپت"
     },
     {
-      "surface": "אֵילִֽים",
+      "surface": "אילים",
       "gloss": "قوچکان"
     }
-  ],
-  "timestamp": "2026-09-25T12:33:58.783357284Z",
-  "model": "glm-5.3"
+  ]
 }

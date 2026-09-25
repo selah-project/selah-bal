@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "haggai 2:16",
   "book": "haggai",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:05:56.633209789Z",
+  "verse": 16,
+  "ref": "haggai 2:16",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "چہ اے وہدءَ کہ یکے دست ءِ وارءَ روت، دہ بیتا؛ کہ یکے انگورءِ دَبءَ روت پہ پنجاه پورہ کشگ، دست بیتا۔",
   "tokens": [
     {
-      "surface": "מִֽהְיוֹתָ֥ם",
+      "surface": "מהיותם",
       "gloss": "چہ اے وہدءَ کہ"
     },
     {
-      "surface": "בָּא֙",
+      "surface": "בא",
       "gloss": "روت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "-ءَ"
     },
     {
-      "surface": "עֲרֵמַ֣ת",
+      "surface": "ערמת",
       "gloss": "وار"
     },
     {
-      "surface": "עֶשְׂרִ֔ים",
+      "surface": "עשרים",
       "gloss": "دست"
     },
     {
-      "surface": "וְהָיְתָ֖ה",
+      "surface": "והיתה",
       "gloss": "ءُ بیتا"
     },
     {
-      "surface": "עֲשָׂרָ֑ה",
+      "surface": "עשרה",
       "gloss": "دہ"
     },
     {
-      "surface": "בָּ֣א",
+      "surface": "בא",
       "gloss": "روت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "-ءَ"
     },
     {
-      "surface": "הַיֶּ֗קֶב",
+      "surface": "היקב",
       "gloss": "انگورءِ دَب"
     },
     {
-      "surface": "לַחְשֹׂף֙",
+      "surface": "לחשף",
       "gloss": "پہ کشگ"
     },
     {
-      "surface": "חֲמִשִּׁ֣ים",
+      "surface": "חמשים",
       "gloss": "پنجاه"
     },
     {
-      "surface": "פּוּרָ֔ה",
+      "surface": "פורה",
       "gloss": "پورہ"
     },
     {
-      "surface": "וְהָיְתָ֖ה",
+      "surface": "והיתה",
       "gloss": "ءُ بیتا"
     },
     {
-      "surface": "עֶשְׂרִֽים",
+      "surface": "עשרים",
       "gloss": "دست"
     }
-  ],
-  "timestamp": "2026-09-25T17:05:56.633209789Z",
-  "model": "glm-5.3"
+  ]
 }

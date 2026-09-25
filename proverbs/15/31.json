@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "proverbs 15:31",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:11:50.872059120Z",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "گوش کہ شندءِ زندگیءِ بازخاست کنت، ماں حکیمانی تہ رندیت۔",
   "tokens": [
     {
-      "surface": "אֹ֗זֶן",
+      "surface": "אזן",
       "gloss": "گوش"
     },
     {
-      "surface": "שֹׁ֭מַעַת",
+      "surface": "שמעת",
       "gloss": "کہ شندءِ کنت"
     },
     {
-      "surface": "תּוֹכַ֣חַת",
+      "surface": "תוכחת",
       "gloss": "بازخاست"
     },
     {
-      "surface": "חַיִּ֑ים",
+      "surface": "חיים",
       "gloss": "زندگیءِ"
     },
     {
-      "surface": "בְּקֶ֖רֶב",
+      "surface": "בקרב",
       "gloss": "ماں … تہ"
     },
     {
-      "surface": "חֲכָמִ֣ים",
+      "surface": "חכמים",
       "gloss": "حکیمانی"
     },
     {
-      "surface": "תָּלִֽין",
+      "surface": "תלין",
       "gloss": "رندیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:11:50.872059120Z",
-  "model": "glm-5.3"
+  ]
 }

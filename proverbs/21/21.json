@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "proverbs 21:21",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:15:48.230788142Z",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "جوکے راستی ءُ ہیسیدءَ رُوڈیت، آ زندگی، راستی ءُ وتر چپیت۔",
   "tokens": [
     {
-      "surface": "רֹדֵף",
+      "surface": "רדף",
       "gloss": "رُوڈیت"
     },
     {
-      "surface": "צְדָקָה",
+      "surface": "צדקה",
       "gloss": "راستی"
     },
     {
-      "surface": "וָחָסֶד",
+      "surface": "וחסד",
       "gloss": "ءُ ہیسید"
     },
     {
-      "surface": "יִמְצָא",
+      "surface": "ימצא",
       "gloss": "چپیت"
     },
     {
-      "surface": "חַיִּים",
+      "surface": "חיים",
       "gloss": "زندگی"
     },
     {
-      "surface": "צְדָקָה",
+      "surface": "צדקה",
       "gloss": "راستی"
     },
     {
-      "surface": "וְכָבוֹד",
+      "surface": "וכבוד",
       "gloss": "ءُ وتر"
     }
-  ],
-  "timestamp": "2026-09-25T20:15:48.230788142Z",
-  "model": "glm-5.3"
+  ]
 }

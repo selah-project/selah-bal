@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "jeremiah 18:20",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:46:30.526147814Z",
+  "verse": 20,
+  "ref": "jeremiah 18:20",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "آیا رَئے چنگیزءِ بدلیا بدلہ بیت، پرچا کہ اشنءَ ماءِ نپسءِ پہ یک گڈی کندگ کت؟ یاد دار کہ من تری رُوءِ اِشتانت، تا اشناءِ پہ چنگیں گپ گوَشت، تا تُءِ قہر ⟨את⟩ چہ اشنءَ پدا گرزانیت۔",
   "tokens": [
     {
-      "surface": "הֲיֻשַּׁלָּם",
+      "surface": "הישלם",
       "gloss": "بدلہ بیت"
     },
     {
-      "surface": "תַּחַת",
+      "surface": "תחת",
       "gloss": "بدلیا"
     },
     {
-      "surface": "טוֹבָה",
+      "surface": "טובה",
       "gloss": "چنگیں"
     },
     {
-      "surface": "רָעָה",
+      "surface": "רעה",
       "gloss": "رَئے"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "כָּרוּ",
+      "surface": "כרו",
       "gloss": "کَندگ کت"
     },
     {
-      "surface": "שׁוּחָה",
+      "surface": "שוחה",
       "gloss": "گڈی"
     },
     {
-      "surface": "לְנַפְשִׁי",
+      "surface": "לנפשי",
       "gloss": "ماءِ نپسءِ پہ"
     },
     {
-      "surface": "זְכֹר",
+      "surface": "זכר",
       "gloss": "یاد دار"
     },
     {
-      "surface": "עָמְדִי",
+      "surface": "עמדי",
       "gloss": "مَن اِشتانت"
     },
     {
-      "surface": "לְפָנֶיךָ",
+      "surface": "לפניך",
       "gloss": "تری رُوءَ"
     },
     {
-      "surface": "לְדַבֵּר",
+      "surface": "לדבר",
       "gloss": "گوَشتنءِ پہ"
     },
     {
-      "surface": "עֲלֵיהֶם",
+      "surface": "עליהם",
       "gloss": "اشناءِ پہ"
     },
     {
-      "surface": "טוֹבָה",
+      "surface": "טובה",
       "gloss": "چنگیں گپ"
     },
     {
-      "surface": "לְהָשִׁיב",
+      "surface": "להשיב",
       "gloss": "پدا گرزانیتءِ پہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُءِ قہر"
     },
     {
-      "surface": "חֲמָתְךָ",
+      "surface": "חמתך",
       "gloss": "تُءِ قہر"
     },
     {
-      "surface": "מֵהֶם",
+      "surface": "מהם",
       "gloss": "چہ اشنءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:46:30.526147814Z",
-  "model": "glm-5.3"
+  ]
 }

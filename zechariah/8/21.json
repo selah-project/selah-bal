@@ -1,91 +1,91 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "zechariah 8:21",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:56:13.092149716Z",
+  "verse": 21,
+  "ref": "zechariah 8:21",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ یک شہری رہندیں یک شہر چہ دگہ شہرءَ رونت، گوَشنت گوں: آئوں روتے روتے رؤں، ⟨את⟩ یاہوہءِ منڑ لال بکریں ءُ ⟨את⟩ یاہوہ سباؤتءَ لبھیں؛ من ہم رون۔",
   "tokens": [
     {
-      "surface": "וְֽהָלְכ֡וּ",
+      "surface": "והלכו",
       "gloss": "ءُ روئنت"
     },
     {
-      "surface": "יֹשְׁבֵי֩",
+      "surface": "ישבי",
       "gloss": "رہندیں"
     },
     {
-      "surface": "אַחַ֨ת",
+      "surface": "אחת",
       "gloss": "یک شہر"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "چہ"
     },
     {
-      "surface": "אַחַ֜ת",
+      "surface": "אחת",
       "gloss": "دگہ شہرءَ"
     },
     {
-      "surface": "לֵאמֹ֗ר",
+      "surface": "לאמר",
       "gloss": "گوَشنت گوں"
     },
     {
-      "surface": "נֵלְכָ֤ה",
+      "surface": "נלכה",
       "gloss": "آئوں رؤں"
     },
     {
-      "surface": "הָלוֹךְ֙",
+      "surface": "הלוך",
       "gloss": "روتے روتے"
     },
     {
-      "surface": "לְחַלּוֹת֙",
+      "surface": "לחלות",
       "gloss": "لال بکریں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءِ منڑ"
     },
     {
-      "surface": "פְּנֵ֣י",
+      "surface": "פני",
       "gloss": "منڑ"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וּלְבַקֵּ֖שׁ",
+      "surface": "ולבקש",
       "gloss": "ءُ پہ لبھگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ سباؤتءَ"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "צְבָא֑וֹת",
+      "surface": "צבאות",
       "gloss": "سباؤت"
     },
     {
-      "surface": "אֵלְכָ֖ה",
+      "surface": "אלכה",
       "gloss": "رون"
     },
     {
-      "surface": "גַּ֝ם",
+      "surface": "גם",
       "gloss": "ہم"
     },
     {
-      "surface": "אָֽנִי",
+      "surface": "אני",
       "gloss": "من"
     }
-  ],
-  "timestamp": "2026-09-25T20:56:13.092149716Z",
-  "model": "glm-5.3"
+  ]
 }

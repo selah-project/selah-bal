@@ -1,121 +1,121 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "1-chronicles 29:2",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:45:51.107493784Z",
+  "verse": 2,
+  "ref": "1-chronicles 29:2",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ گوں مئی پوریں زورءَ من مئی ایلوہیمءِ گُدانءِ پہ تیار کت — زر پہ زر، ءُ رُپ پہ رُپ، ءُ مس پہ مس، آہن پہ آہن، ءُ دار پہ دار — شہمءِ سنگان، ءُ جانتنی سنگان، پُوکءِ سنگان ءُ کڑھائی، ءُ ہر گرانیں سنگ، ءُ سفید مرمرءِ سنگان چہ فراوانی۔",
   "tokens": [
     {
-      "surface": "וֽכְכָל",
+      "surface": "וככל",
       "gloss": "ءُ گوں پوریں"
     },
     {
-      "surface": "כֹּחִ֞י",
+      "surface": "כחי",
       "gloss": "مئی زور"
     },
     {
-      "surface": "הֲכִינ֣וֹתִי",
+      "surface": "הכינותי",
       "gloss": "تیار کت"
     },
     {
-      "surface": "לְבֵית",
+      "surface": "לבית",
       "gloss": "گُدانءِ پہ"
     },
     {
-      "surface": "אֱלֹהַ֗י",
+      "surface": "אלהי",
       "gloss": "مئی ایلوہیمءِ"
     },
     {
-      "surface": "הַזָּהָ֣ב",
+      "surface": "הזהב",
       "gloss": "زر"
     },
     {
-      "surface": "לַ֠זָּהָב",
+      "surface": "לזהב",
       "gloss": "پہ زر"
     },
     {
-      "surface": "וְהַכֶּ֨סֶף",
+      "surface": "והכסף",
       "gloss": "ءُ رُپ"
     },
     {
-      "surface": "לַכֶּ֜סֶף",
+      "surface": "לכסף",
       "gloss": "پہ رُپ"
     },
     {
-      "surface": "וְהַנְּחֹ֣שֶׁת",
+      "surface": "והנחשת",
       "gloss": "ءُ مس"
     },
     {
-      "surface": "לַנְּחֹ֗שֶׁת",
+      "surface": "לנחשת",
       "gloss": "پہ مس"
     },
     {
-      "surface": "הַבַּרְזֶל֙",
+      "surface": "הברזל",
       "gloss": "آہن"
     },
     {
-      "surface": "לַבַּרְזֶ֔ל",
+      "surface": "לברזל",
       "gloss": "پہ آہن"
     },
     {
-      "surface": "וְהָעֵצִ֖ים",
+      "surface": "והעצים",
       "gloss": "ءُ دار"
     },
     {
-      "surface": "לָעֵצִ֑ים",
+      "surface": "לעצים",
       "gloss": "پہ دار"
     },
     {
-      "surface": "אַבְנֵ֣י",
+      "surface": "אבני",
       "gloss": "سنگانءِ"
     },
     {
-      "surface": "שֹׁ֨הַם",
+      "surface": "שהם",
       "gloss": "شہم"
     },
     {
-      "surface": "וּמִלּוּאִ֜ים",
+      "surface": "ומלואים",
       "gloss": "ءُ جانتنی"
     },
     {
-      "surface": "אַבְנֵ֣י",
+      "surface": "אבני",
       "gloss": "سنگانءِ"
     },
     {
-      "surface": "פ֖וּךְ",
+      "surface": "פוך",
       "gloss": "پُوک"
     },
     {
-      "surface": "וְרִקְמָ֗ה",
+      "surface": "ורקמה",
       "gloss": "ءُ کڑھائی"
     },
     {
-      "surface": "וְכֹ֨ל",
+      "surface": "וכל",
       "gloss": "ءُ ہر"
     },
     {
-      "surface": "אֶ֥בֶן",
+      "surface": "אבן",
       "gloss": "سنگ"
     },
     {
-      "surface": "יְקָרָ֛ה",
+      "surface": "יקרה",
       "gloss": "گرانیں"
     },
     {
-      "surface": "וְאַבְנֵ֥י",
+      "surface": "ואבני",
       "gloss": "ءُ سنگانءِ"
     },
     {
-      "surface": "שָׁ֖יִשׁ",
+      "surface": "שיש",
       "gloss": "سفید مرمر"
     },
     {
-      "surface": "לָרֹֽב",
+      "surface": "לרב",
       "gloss": "چہ فراوانی"
     }
-  ],
-  "timestamp": "2026-09-25T12:45:51.107493784Z",
-  "model": "glm-5.3"
+  ]
 }

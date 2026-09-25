@@ -1,62 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "jeremiah 15:14",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:47:08.808856432Z",
+  "verse": 14,
+  "ref": "jeremiah 15:14",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ مہ ⟨توءَ⟩ گوں ⟨את⟩ تُءِ دشمنانءَ تہ اے زمینءَ کہ تو نہ زانتیائی گوزارتءَ کنں، پرچا کہ آتش مہ غصہءَ تہ جاگ بوتگ، تُہاںءِ سرءَ سوزئیت۔",
   "tokens": [
     {
-      "surface": "וְהַֽעֲבַרְתִּי",
+      "surface": "והעברתי",
       "gloss": "ءُ مہ گوزارتءَ کنں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُءِ دشمنانءَ"
     },
     {
-      "surface": "אֹיְבֶיךָ",
+      "surface": "איביך",
       "gloss": "تُءِ دشمنانءَ"
     },
     {
-      "surface": "בְּאֶרֶץ",
+      "surface": "בארץ",
       "gloss": "تہ اے زمینءَ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָדַעְתָּ",
+      "surface": "ידעת",
       "gloss": "زانتیائی"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֵשׁ",
+      "surface": "אש",
       "gloss": "آتش"
     },
     {
-      "surface": "קָדְחָה",
+      "surface": "קדחה",
       "gloss": "جاگ بوتگ"
     },
     {
-      "surface": "בְּאַפִּי",
+      "surface": "באפי",
       "gloss": "مہ غصہءَ تہ"
     },
     {
-      "surface": "עֲלֵיכֶם",
+      "surface": "עליכם",
       "gloss": "تُہاںءِ سرءَ"
     },
     {
-      "surface": "תּוּקָד",
+      "surface": "תוקד",
       "gloss": "سوزئیت"
     }
-  ],
-  "timestamp": "2026-09-25T17:47:08.808856432Z",
-  "model": "glm-5.3"
+  ]
 }

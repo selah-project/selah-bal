@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "leviticus 2:16",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:21:43.076373038Z",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ کاهن آییءِ یادگارءَ ⟨את⟩ — چہ آییءِ کُٹاں ءُ چہ آییءِ تیل — گوں آییءِ مچ لبانہءَ یاہوہءَ پہ سوچگیں قربانیءِ چوں دُکیت.",
   "tokens": [
     {
-      "surface": "וְהִקְטִ֨יר",
+      "surface": "והקטיר",
       "gloss": "ءُ دُکیت"
     },
     {
-      "surface": "הַכֹּהֵ֜ן",
+      "surface": "הכהן",
       "gloss": "کاهن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ یادگار"
     },
     {
-      "surface": "אַזְכָּרָתָ֗הּ",
+      "surface": "אזכרתה",
       "gloss": "آییءِ یادگار"
     },
     {
-      "surface": "מִגֵּרְשָׂהָּ",
+      "surface": "מגרשה",
       "gloss": "چہ آییءِ کُٹاں"
     },
     {
-      "surface": "וּמִשַּׁמְנָ֔הָּ",
+      "surface": "ומשמנה",
       "gloss": "ءُ چہ آییءِ تیل"
     },
     {
-      "surface": "עַ֖ל",
+      "surface": "על",
       "gloss": "گوں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "مچ"
     },
     {
-      "surface": "לְבֹנָתָ֑הּ",
+      "surface": "לבנתה",
       "gloss": "آییءِ لبانہ"
     },
     {
-      "surface": "אִשֶּׁ֖ה",
+      "surface": "אשה",
       "gloss": "سوچگیں قربانی"
     },
     {
-      "surface": "לַיהוָֽה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءَ پہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:21:43.076373038Z",
-  "model": "glm-5.3"
+  ]
 }

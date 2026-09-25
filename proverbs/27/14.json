@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "proverbs 27:14",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:19:29.322609341Z",
+  "verse": 14,
+  "ref": "proverbs 27:14",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "جو کہ وتی یارءَ گوں یک بلندں آوازءَ صبحءِ شروءَ برکت دنت، یک ملیمت آیءَ حساب بیت.",
   "tokens": [
     {
-      "surface": "מְבָ֘רֵ֤ךְ",
+      "surface": "מברך",
       "gloss": "برکت دنت"
     },
     {
-      "surface": "רֵעֵ֨הוּ",
+      "surface": "רעהו",
       "gloss": "وتی یارءَ"
     },
     {
-      "surface": "בְּק֣וֹל",
+      "surface": "בקול",
       "gloss": "گوں آوازءَ"
     },
     {
-      "surface": "גָּ֭דוֹל",
+      "surface": "גדול",
       "gloss": "بلندں"
     },
     {
-      "surface": "בַּבֹּ֣קֶר",
+      "surface": "בבקר",
       "gloss": "صبحءَ"
     },
     {
-      "surface": "הַשְׁכֵּ֑ים",
+      "surface": "השכים",
       "gloss": "شروءَ"
     },
     {
-      "surface": "קְלָלָ֗ה",
+      "surface": "קללה",
       "gloss": "ملیمت"
     },
     {
-      "surface": "תֵּחָ֥שֶׁב",
+      "surface": "תחשב",
       "gloss": "حساب بیت"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "آیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:19:29.322609341Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "psalms 12:5",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:28:52.520871693Z",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "آ کہ گوَشنت: وتی زبانءَ گشتری کنیں، ہمے لبزار گوں ⟨את⟩ ماں اِنت، کے ماںءِ مالک اِنت؟",
   "tokens": [
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "אָמְרוּ",
+      "surface": "אמרו",
       "gloss": "گوَشنت"
     },
     {
-      "surface": "לִלְשֹׁנֵנוּ",
+      "surface": "ללשננו",
       "gloss": "وتی زبانءَ"
     },
     {
-      "surface": "נַגְבִּיר",
+      "surface": "נגביר",
       "gloss": "گشتری کنیں"
     },
     {
-      "surface": "שְׂפָתֵינוּ",
+      "surface": "שפתינו",
       "gloss": "ہمے لبزار"
     },
     {
-      "surface": "אִתָּנוּ",
+      "surface": "אתנו",
       "gloss": "گوں ⟨את⟩ ماں",
       "marks": "ہمے لبزار"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "אָדוֹן",
+      "surface": "אדון",
       "gloss": "مالک"
     },
     {
-      "surface": "לָנוּ",
+      "surface": "לנו",
       "gloss": "ماںءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:28:52.520871693Z",
-  "model": "glm-5.3"
+  ]
 }

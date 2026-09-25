@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "numbers 4:7",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:04:09.917194500Z",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ منہانی میزءِ سرءَ یک تکltی جما پشوکننت، ءُ آیءِ سرءَ ⟨את⟩ کاسہان ءُ ⟨את⟩ کالوٹیان ءُ ⟨את⟩ منکیتان ءُ ⟨את⟩ نذریں شربتءِ کولہان دنت، ءُ ہمیشگی نان آیءِ سرءَ ہوئیت۔",
   "tokens": [
     {
-      "surface": "וְעַ֣ל",
+      "surface": "ועל",
       "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "שֻׁלְחַ֣ן",
+      "surface": "שלחן",
       "gloss": "میز"
     },
     {
-      "surface": "הַפָּנִ֗ים",
+      "surface": "הפנים",
       "gloss": "منہان"
     },
     {
-      "surface": "יִפְרְשׂוּ֮",
+      "surface": "יפרשו",
       "gloss": "پشوکننت"
     },
     {
-      "surface": "בֶּ֣גֶד",
+      "surface": "בגד",
       "gloss": "جما"
     },
     {
-      "surface": "תְּכֵלֶת֒",
+      "surface": "תכלת",
       "gloss": "تکلتی"
     },
     {
-      "surface": "וְנָתְנ֣וּ",
+      "surface": "ונתנו",
       "gloss": "ءُ دنت"
     },
     {
-      "surface": "עָ֠לָיו",
+      "surface": "עליו",
       "gloss": "آیءِ سرءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کاسہان"
     },
     {
-      "surface": "הַקְּעָרֹ֤ת",
+      "surface": "הקערת",
       "gloss": "کاسہان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "کالوٹیان"
     },
     {
-      "surface": "הַכַּפֹּת֙",
+      "surface": "הכפת",
       "gloss": "کالوٹیان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "منکیتان"
     },
     {
-      "surface": "הַמְּנַקִּיֹּ֔ת",
+      "surface": "המנקית",
       "gloss": "منکیتان"
     },
     {
-      "surface": "וְאֵ֖ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "کولہان"
     },
     {
-      "surface": "קְשֹׂ֣וֹת",
+      "surface": "קשות",
       "gloss": "کولہان"
     },
     {
-      "surface": "הַנָּ֑סֶךְ",
+      "surface": "הנסך",
       "gloss": "نذریں شربتءِ"
     },
     {
-      "surface": "וְלֶ֥חֶם",
+      "surface": "ולחם",
       "gloss": "ءُ نان"
     },
     {
-      "surface": "הַתָּמִ֖יד",
+      "surface": "התמיד",
       "gloss": "ہمیشگی"
     },
     {
-      "surface": "עָלָ֥יו",
+      "surface": "עליו",
       "gloss": "آیءِ سرءَ"
     },
     {
-      "surface": "יִהְיֶֽה",
+      "surface": "יהיה",
       "gloss": "ہوئیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:04:09.917194500Z",
-  "model": "glm-5.3"
+  ]
 }

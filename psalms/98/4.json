@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "psalms 98:4",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:49:21.397839426Z",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "tier": "glm-5.2",
   "chapter": 98,
   "translation": "اے ساری زمین، یاہوہءَ بانگ برت؛ دَرَست کن ءُ شوخ بیت ءُ سرود وانت کن۔",
   "tokens": [
     {
-      "surface": "הָרִיעוּ",
+      "surface": "הריעו",
       "gloss": "بانگ برت"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ساری"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "פִּצְחוּ",
+      "surface": "פצחו",
       "gloss": "دَرَست کن"
     },
     {
-      "surface": "וְרַנְּנוּ",
+      "surface": "ורננו",
       "gloss": "ءُ شوخ بیت"
     },
     {
-      "surface": "וְזַמֵּרוּ",
+      "surface": "וזמרו",
       "gloss": "ءُ سرود وانت کن"
     }
-  ],
-  "timestamp": "2026-09-25T20:49:21.397839426Z",
-  "model": "glm-5.3"
+  ]
 }

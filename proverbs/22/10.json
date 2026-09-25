@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "proverbs 22:10",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:16:48.720623116Z",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "مذموگریں در کت، ءُ جگڑا بیرگ روت، ءُ جگڑا ءُ بے-عزتی آرام گنت.",
   "tokens": [
     {
-      "surface": "גָּ֣רֵֽשׁ",
+      "surface": "גרש",
       "gloss": "در کت"
     },
     {
-      "surface": "לֵ֭ץ",
+      "surface": "לץ",
       "gloss": "مذموگریں"
     },
     {
-      "surface": "וְיֵצֵ֣א",
+      "surface": "ויצא",
       "gloss": "ءُ بیرگ روت"
     },
     {
-      "surface": "מָד֑וֹן",
+      "surface": "מדון",
       "gloss": "جگڑا"
     },
     {
-      "surface": "וְ֝יִשְׁבֹּ֗ת",
+      "surface": "וישבת",
       "gloss": "ءُ آرام گنت"
     },
     {
-      "surface": "דִּ֣ין",
+      "surface": "דין",
       "gloss": "جگڑا"
     },
     {
-      "surface": "וְקָלֽוֹן",
+      "surface": "וקלון",
       "gloss": "ءُ بے-عزتی"
     }
-  ],
-  "timestamp": "2026-09-25T20:16:48.720623116Z",
-  "model": "glm-5.3"
+  ]
 }

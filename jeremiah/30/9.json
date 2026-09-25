@@ -1,55 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "jeremiah 30:9",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:55:22.802539166Z",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "ءُ اِشاں ⟨את⟩ یاہوہءَ، وتءِ ایلوہیمءَ، نانءِ واسبت کنت ءُ ⟨את⟩ داودءَ، وتءِ شاہءَ، کہ آءُ آیانءِ پہ بلند کنت۔",
   "tokens": [
     {
-      "surface": "וְעָ֣בְד֔וּ",
+      "surface": "ועבדו",
       "gloss": "ءُ اِشاں نانءِ واسبت کنت"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءَ"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֱלֹֽהֵיהֶ֑ם",
+      "surface": "אלהיהם",
       "gloss": "وتءِ ایلوہیمءَ"
     },
     {
-      "surface": "וְאֵת֙",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "داودءَ"
     },
     {
-      "surface": "דָּוִ֣ד",
+      "surface": "דוד",
       "gloss": "داودءَ"
     },
     {
-      "surface": "מַלְכָּ֔ם",
+      "surface": "מלכם",
       "gloss": "وتءِ شاہءَ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אָקִ֖ים",
+      "surface": "אקים",
       "gloss": "بلند کنت"
     },
     {
-      "surface": "לָהֶֽם",
+      "surface": "להם",
       "gloss": "آیانءِ پہ"
     }
-  ],
-  "timestamp": "2026-09-25T17:55:22.802539166Z",
-  "model": "glm-5.3"
+  ]
 }

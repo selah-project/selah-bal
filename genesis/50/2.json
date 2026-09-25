@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "genesis 50:2",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:02:55.330180194Z",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "tier": "glm-5.2",
   "chapter": 50,
   "translation": "ءُ یوسف ءَ وتی غلامانءَ، حکمانءَ، حکم کت کہ وتی پیتءَ مرہون کننت؛ ءُ حکمانءَ ⟨את⟩ یسرایل مرہون کت.",
   "tokens": [
     {
-      "surface": "וַיְצַ֨ו",
+      "surface": "ויצו",
       "gloss": "ءُ … حکم کت"
     },
     {
-      "surface": "יוֹסֵ֤ף",
+      "surface": "יוסף",
       "gloss": "یوسف"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی غلامان"
     },
     {
-      "surface": "עֲבָדָיו֙",
+      "surface": "עבדיו",
       "gloss": "وتی غلامان"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "حکمان"
     },
     {
-      "surface": "הָרֹ֣פְאִ֔ים",
+      "surface": "הרפאים",
       "gloss": "حکمان"
     },
     {
-      "surface": "לַחֲנֹ֖ט",
+      "surface": "לחנט",
       "gloss": "کہ مرہون کننت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی پیت"
     },
     {
-      "surface": "אָבִ֑יו",
+      "surface": "אביו",
       "gloss": "وتی پیت"
     },
     {
-      "surface": "וַיַּחַנְט֥וּ",
+      "surface": "ויחנטו",
       "gloss": "ءُ مرہون کت"
     },
     {
-      "surface": "הָרֹפְאִ֖ים",
+      "surface": "הרפאים",
       "gloss": "حکمان"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یسرایل"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "یسرایل"
     }
-  ],
-  "timestamp": "2026-09-25T17:02:55.330180194Z",
-  "model": "glm-5.3"
+  ]
 }

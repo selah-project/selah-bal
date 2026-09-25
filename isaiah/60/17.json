@@ -1,89 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "isaiah 60:17",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:38:32.382302971Z",
+  "verse": 17,
+  "ref": "isaiah 60:17",
+  "tier": "glm-5.2",
   "chapter": 60,
   "translation": "مسءِ بدلءَ سون انتیں، ءُ آہنءِ بدلءَ رپ انتیں، ءُ دارءِ بدلءَ مس، ءُ سنگانی بدلءَ آہن؛ ءُ تئی نگرانیءَ سلامتی منت کننت، ءُ تئی سودگرانی راستی۔",
   "tokens": [
     {
-      "surface": "תַּ֣חַת",
+      "surface": "תחת",
       "gloss": "بدلءَ"
     },
     {
-      "surface": "הַנְּחֹ֜שֶׁת",
+      "surface": "הנחשת",
       "gloss": "مسءِ"
     },
     {
-      "surface": "אָבִ֣יא",
+      "surface": "אביא",
       "gloss": "انتیں"
     },
     {
-      "surface": "זָהָ֗ב",
+      "surface": "זהב",
       "gloss": "سون"
     },
     {
-      "surface": "וְתַ֤חַת",
+      "surface": "ותחת",
       "gloss": "ءُ بدلءَ"
     },
     {
-      "surface": "הַבַּרְזֶל֙",
+      "surface": "הברזל",
       "gloss": "آہنءِ"
     },
     {
-      "surface": "אָבִ֣יא",
+      "surface": "אביא",
       "gloss": "انتیں"
     },
     {
-      "surface": "כֶ֔סֶף",
+      "surface": "כסף",
       "gloss": "رپ"
     },
     {
-      "surface": "וְתַ֤חַת",
+      "surface": "ותחת",
       "gloss": "ءُ بدلءَ"
     },
     {
-      "surface": "הָֽעֵצִים֙",
+      "surface": "העצים",
       "gloss": "دارءِ"
     },
     {
-      "surface": "נְחֹ֔שֶׁת",
+      "surface": "נחשת",
       "gloss": "مس"
     },
     {
-      "surface": "וְתַ֥חַת",
+      "surface": "ותחת",
       "gloss": "ءُ بدلءَ"
     },
     {
-      "surface": "הָאֲבָנִ֖ים",
+      "surface": "האבנים",
       "gloss": "سنگانی"
     },
     {
-      "surface": "בַּרְזֶ֑ל",
+      "surface": "ברזל",
       "gloss": "آہن"
     },
     {
-      "surface": "וְשַׂמְתִּ֤י",
+      "surface": "ושמתי",
       "gloss": "ءُ منت کننت"
     },
     {
-      "surface": "פְקֻדָּתֵךְ֙",
+      "surface": "פקדתך",
       "gloss": "تئی نگرانیءَ"
     },
     {
-      "surface": "שָׁל֔וֹם",
+      "surface": "שלום",
       "gloss": "سلامتی"
     },
     {
-      "surface": "וְנֹגְשַׂ֖יִךְ",
+      "surface": "ונגשיך",
       "gloss": "ءُ تئی سودگرانی"
     },
     {
-      "surface": "צְדָקָֽה",
+      "surface": "צדקה",
       "gloss": "راستی"
     }
-  ],
-  "timestamp": "2026-09-25T17:38:32.382302971Z",
-  "model": "glm-5.3"
+  ]
 }

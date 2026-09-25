@@ -1,97 +1,97 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "deuteronomy 7:12",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:34:57.326950336Z",
+  "verse": 12,
+  "ref": "deuteronomy 7:12",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ بیت، پدا کہ اے میثقانءَ گوشیں ءُ آیانءَ نگاہ کنیں ءُ ⟨את⟩ آیانءَ کنیں، یاہوہ تُرءِ ایلوہیم تُءِ پہ ⟨את⟩ عہد ءُ ⟨את⟩ ہیسید نگاہ کنیت کہ چہ تُرانی پیتارانءَ سوگند وارت.",
   "tokens": [
     {
-      "surface": "וְהָיָ֣ה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "עֵ֣קֶב",
+      "surface": "עקב",
       "gloss": "پدا کہ"
     },
     {
-      "surface": "תִּשְׁמְע֗וּן",
+      "surface": "תשמעון",
       "gloss": "گوشیں"
     },
     {
-      "surface": "אֵ֤ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے میثقان"
     },
     {
-      "surface": "הַמִּשְׁפָּטִים֙",
+      "surface": "המשפטים",
       "gloss": "میثقان"
     },
     {
-      "surface": "הָאֵ֔לֶּה",
+      "surface": "האלה",
       "gloss": "اے"
     },
     {
-      "surface": "וּשְׁמַרְתֶּ֥ם",
+      "surface": "ושמרתם",
       "gloss": "ءُ آیانءَ نگاہ کنیں"
     },
     {
-      "surface": "וַעֲשִׂיתֶ֖ם",
+      "surface": "ועשיתם",
       "gloss": "ءُ کنیں"
     },
     {
-      "surface": "אֹתָ֑ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "میثقان"
     },
     {
-      "surface": "וְשָׁמַר֩",
+      "surface": "ושמר",
       "gloss": "ءُ نگاہ کنیت"
     },
     {
-      "surface": "יְהוָ֨ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶ֜יךָ",
+      "surface": "אלהיך",
       "gloss": "تُرءِ ایلوہیم"
     },
     {
-      "surface": "לְךָ֗",
+      "surface": "לך",
       "gloss": "تُءِ پہ"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "عہد"
     },
     {
-      "surface": "הַבְּרִית֙",
+      "surface": "הברית",
       "gloss": "عہد"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ہیسید"
     },
     {
-      "surface": "הַחֶ֔סֶד",
+      "surface": "החסד",
       "gloss": "ہیسید"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נִשְׁבַּ֖ע",
+      "surface": "נשבע",
       "gloss": "سوگند وارت"
     },
     {
-      "surface": "לַאֲבֹתֶֽיךָ",
+      "surface": "לאבתיך",
       "gloss": "تُرانی پیتارانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:34:57.326950336Z",
-  "model": "glm-5.3"
+  ]
 }

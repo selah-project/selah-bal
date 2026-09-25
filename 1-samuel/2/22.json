@@ -1,96 +1,96 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "1-samuel 2:22",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:03:27.844066145Z",
+  "verse": 22,
+  "ref": "1-samuel 2:22",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ ایلی چیشک اَت، ءُ گوشیت ⟨את⟩ همگ آ کہ آییءِ زہگان پہ همگ اِسرائیل کنتنت، ءُ ⟨את⟩ آ کہ آیان گوں ⟨את⟩ زنانی کہ ملاقاتءِ گدانی دروازہءَ خدمت کننت کرارت گنت۔",
   "tokens": [
     {
-      "surface": "וְעֵלִ֖י",
+      "surface": "ועלי",
       "gloss": "ءُ ایلی"
     },
     {
-      "surface": "זָקֵ֣ן",
+      "surface": "זקן",
       "gloss": "چیشک اَت"
     },
     {
-      "surface": "מְאֹ֑ד",
+      "surface": "מאד",
       "gloss": "چیشک"
     },
     {
-      "surface": "וְשָׁמַ֗ע",
+      "surface": "ושמע",
       "gloss": "ءُ گوشیت"
     },
     {
-      "surface": "אֵת֩",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "همگ آ کہ آییءِ زہگان کنتنت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "همگ"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יַעֲשׂ֤וּן",
+      "surface": "יעשון",
       "gloss": "کنتنت"
     },
     {
-      "surface": "בָּנָיו֙",
+      "surface": "בניו",
       "gloss": "آییءِ زہگان"
     },
     {
-      "surface": "לְכָל",
+      "surface": "לכל",
       "gloss": "پہ همگ"
     },
     {
-      "surface": "יִשְׂרָאֵ֔ל",
+      "surface": "ישראל",
       "gloss": "اِسرائیل"
     },
     {
-      "surface": "וְאֵ֤ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آ کہ آیان کرارت گنت"
     },
     {
-      "surface": "אֲשֶֽׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יִשְׁכְּב֖וּן",
+      "surface": "ישכבון",
       "gloss": "کرارت گنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زنانی"
     },
     {
-      "surface": "הַנָּשִׁ֔ים",
+      "surface": "הנשים",
       "gloss": "زنانی"
     },
     {
-      "surface": "הַצֹּ֣בְא֔וֹת",
+      "surface": "הצבאות",
       "gloss": "خدمت کننت"
     },
     {
-      "surface": "פֶּ֖תַח",
+      "surface": "פתח",
       "gloss": "دروازہءَ"
     },
     {
-      "surface": "אֹ֥הֶל",
+      "surface": "אהל",
       "gloss": "گدانءِ"
     },
     {
-      "surface": "מוֹעֵֽד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     }
-  ],
-  "timestamp": "2026-09-25T21:03:27.844066145Z",
-  "model": "glm-5.3"
+  ]
 }

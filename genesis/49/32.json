@@ -1,46 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "genesis 49:32",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:03:24.826471642Z",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "tier": "glm-5.2",
   "chapter": 49,
   "translation": "زمینءِ خرید ءُ غار کہ آییءِ تہءَ اِنت، چہ ⟨את⟩ حِتءِ زہگانءَ اِنت.",
   "tokens": [
     {
-      "surface": "מִקְנֵ֧ה",
+      "surface": "מקנה",
       "gloss": "خرید"
     },
     {
-      "surface": "הַשָּׂדֶ֛ה",
+      "surface": "השדה",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "וְהַמְּעָרָ֥ה",
+      "surface": "והמערה",
       "gloss": "ءُ غار"
     },
     {
-      "surface": "אֲשֶׁר־",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בּ֖וֹ",
+      "surface": "בו",
       "gloss": "آییءِ تہءَ"
     },
     {
-      "surface": "מֵאֵ֥ת",
+      "surface": "מאת",
       "gloss": "چہ ⟨את⟩",
       "marks": "حِتءِ زہگان"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگانءِ"
     },
     {
-      "surface": "חֵֽת",
+      "surface": "חת",
       "gloss": "حِت"
     }
-  ],
-  "timestamp": "2026-09-25T17:03:24.826471642Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "jeremiah 23:19",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:48:02.040921910Z",
+  "verse": 19,
+  "ref": "jeremiah 23:19",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "وانئے، یاہوہءِ توپان — غضب در بیتگ، ءُ یک گشنگ توپان سر روت، سرِ زالمانءِ سرءَ گشتایت بیت.",
   "tokens": [
     {
-      "surface": "הִנֵּה",
+      "surface": "הנה",
       "gloss": "وانئے"
     },
     {
-      "surface": "סַעֲרַת",
+      "surface": "סערת",
       "gloss": "توپان"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "חֵמָה",
+      "surface": "חמה",
       "gloss": "غضب"
     },
     {
-      "surface": "יָצְאָה",
+      "surface": "יצאה",
       "gloss": "در بیتگ"
     },
     {
-      "surface": "וְסַעַר",
+      "surface": "וסער",
       "gloss": "ءُ توپان"
     },
     {
-      "surface": "מִתְחוֹלֵל",
+      "surface": "מתחולל",
       "gloss": "گشنگ سر روت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "רֹאשׁ",
+      "surface": "ראש",
       "gloss": "سرِ"
     },
     {
-      "surface": "רְשָׁעִים",
+      "surface": "רשעים",
       "gloss": "زالمانءِ"
     },
     {
-      "surface": "יָחוּל",
+      "surface": "יחול",
       "gloss": "گشتایت بیت"
     }
-  ],
-  "timestamp": "2026-09-25T17:48:02.040921910Z",
-  "model": "glm-5.3"
+  ]
 }

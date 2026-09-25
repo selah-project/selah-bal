@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "proverbs 21:27",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:16:00.700282091Z",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "بدکارانی کشتار تہاریءِ اِنت — بے تیزتر کہ آ گوں بدکاریءَ آییءَ آنیءُ۔",
   "tokens": [
     {
-      "surface": "זֶ֣בַח",
+      "surface": "זבח",
       "gloss": "کشتار"
     },
     {
-      "surface": "רְ֭שָׁעִים",
+      "surface": "רשעים",
       "gloss": "بدکارانی"
     },
     {
-      "surface": "תּוֹעֵבָ֑ה",
+      "surface": "תועבה",
       "gloss": "تہاریءِ اِنت"
     },
     {
-      "surface": "אַ֝֗ף",
+      "surface": "אף",
       "gloss": "بے تیزتر"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "בְזִמָּ֥ה",
+      "surface": "בזמה",
       "gloss": "گوں بدکاریءَ"
     },
     {
-      "surface": "יְבִיאֶֽנּוּ",
+      "surface": "יביאנו",
       "gloss": "آییءَ آنیءُ"
     }
-  ],
-  "timestamp": "2026-09-25T20:16:00.700282091Z",
-  "model": "glm-5.3"
+  ]
 }

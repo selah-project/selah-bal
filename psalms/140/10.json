@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "psalms 140:10",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:32:08.266077459Z",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "tier": "glm-5.2",
   "chapter": 140,
   "translation": "سرءِ گھیراکانی منیءِ — اِشانیءِ لبانی زحمت اِشانیءَ ڈپنت.",
   "tokens": [
     {
-      "surface": "רֹאשׁ",
+      "surface": "ראש",
       "gloss": "سر"
     },
     {
-      "surface": "מְסִבָּי",
+      "surface": "מסבי",
       "gloss": "گھیراکانی منیءِ"
     },
     {
-      "surface": "עֲמַל",
+      "surface": "עמל",
       "gloss": "زحمت"
     },
     {
-      "surface": "שְׂפָתֵימוֹ",
+      "surface": "שפתימו",
       "gloss": "اِشانیءِ لبانی"
     },
     {
-      "surface": "יְכַסֻּמוֹ",
+      "surface": "יכסומו",
       "gloss": "اِشانیءَ ڈپنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:32:08.266077459Z",
-  "model": "glm-5.3"
+  ]
 }

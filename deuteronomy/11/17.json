@@ -1,111 +1,111 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "deuteronomy 11:17",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:04:09.457598058Z",
+  "verse": 17,
+  "ref": "deuteronomy 11:17",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ یاہوہءِ غضب تہ٘ماں شیت، ءُ ⟨את⟩ آسمانان بند کیت ءُ مینہ نہ بیت، ءُ زمین وتی ⟨את⟩ پیداور نہ دیت؛ ءُ تہ٘ماں چہ شتابی چہ درنگاہ شیرین زمینءَ هلاک بیت، کہ یاہوہ تہ٘ماںءَ دیت.",
   "tokens": [
     {
-      "surface": "וְחָרָ֨ה",
+      "surface": "וחרה",
       "gloss": "ءُ شیت"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "غضب"
     },
     {
-      "surface": "יְהוָ֜ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "בָּכֶ֗ם",
+      "surface": "בכם",
       "gloss": "تہ٘ماں سرا"
     },
     {
-      "surface": "וְעָצַ֤ר",
+      "surface": "ועצר",
       "gloss": "ءُ بند کیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آسمانان"
     },
     {
-      "surface": "הַשָּׁמַ֨יִם֙",
+      "surface": "השמים",
       "gloss": "آسمانان"
     },
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִהְיֶ֣ה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "מָטָ֔ר",
+      "surface": "מטר",
       "gloss": "مینہ"
     },
     {
-      "surface": "וְהָ֣אֲדָמָ֔ה",
+      "surface": "והאדמה",
       "gloss": "ءُ زمین"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִּתֵּ֖ן",
+      "surface": "תתן",
       "gloss": "دیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پیداور"
     },
     {
-      "surface": "יְבוּלָ֑הּ",
+      "surface": "יבולה",
       "gloss": "وتی پیداور"
     },
     {
-      "surface": "וַאֲבַדְתֶּ֣ם",
+      "surface": "ואבדתם",
       "gloss": "ءُ تہ٘ماں هلاک بیت"
     },
     {
-      "surface": "מְהֵרָ֗ה",
+      "surface": "מהרה",
       "gloss": "چہ شتابی"
     },
     {
-      "surface": "מֵעַל֙",
+      "surface": "מעל",
       "gloss": "چہ درنگاہ"
     },
     {
-      "surface": "הָאָ֣רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "הַטֹּבָ֔ה",
+      "surface": "הטבה",
       "gloss": "شیرین"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "נֹתֵ֥ן",
+      "surface": "נתן",
       "gloss": "دیت"
     },
     {
-      "surface": "לָכֶֽם",
+      "surface": "לכם",
       "gloss": "تہ٘ماںءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:04:09.457598058Z",
-  "model": "glm-5.3"
+  ]
 }

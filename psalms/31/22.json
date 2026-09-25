@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "psalms 31:22",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:36:38.117000438Z",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "برکت والگ اِنت یاہوہ، پرچا کہ آییءِ ہیسید منءَ شاندار گشت شارءِ ماتسرءِ تہ۔",
   "tokens": [
     {
-      "surface": "בָּר֥וּךְ",
+      "surface": "ברוך",
       "gloss": "برکت والگ"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "הִפְלִ֘יא",
+      "surface": "הפליא",
       "gloss": "شاندار گشت"
     },
     {
-      "surface": "חַסְדּ֥וֹ",
+      "surface": "חסדו",
       "gloss": "آییءِ ہیسید"
     },
     {
-      "surface": "לִ֝֗י",
+      "surface": "לי",
       "gloss": "منءَ"
     },
     {
-      "surface": "בְּעִ֣יר",
+      "surface": "בעיר",
       "gloss": "شارءِ تہ"
     },
     {
-      "surface": "מָצֽוֹר",
+      "surface": "מצור",
       "gloss": "ماتسر"
     }
-  ],
-  "timestamp": "2026-09-25T20:36:38.117000438Z",
-  "model": "glm-5.3"
+  ]
 }

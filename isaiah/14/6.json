@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "isaiah 14:6",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:11:48.918453901Z",
+  "verse": 6,
+  "ref": "isaiah 14:6",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "مارنیوک قومان تہ غضبءَ مارت گوں بے بند، پامال کنوک ملتان تہ غصہَ، رَداوتگ بے روک۔",
   "tokens": [
     {
-      "surface": "מַכֶּה",
+      "surface": "מכה",
       "gloss": "مارنیوک"
     },
     {
-      "surface": "עַמִּים",
+      "surface": "עמים",
       "gloss": "قومان"
     },
     {
-      "surface": "בְּעֶבְרָה",
+      "surface": "בעברה",
       "gloss": "تہ غضبءَ"
     },
     {
-      "surface": "מַכַּת",
+      "surface": "מכת",
       "gloss": "مارت"
     },
     {
-      "surface": "בִּלְתִּי",
+      "surface": "בלתי",
       "gloss": "بے"
     },
     {
-      "surface": "סָרָה",
+      "surface": "סרה",
       "gloss": "بند"
     },
     {
-      "surface": "רֹדֶה",
+      "surface": "רדה",
       "gloss": "پامال کنوک"
     },
     {
-      "surface": "בָאַף",
+      "surface": "באף",
       "gloss": "تہ غصہَ"
     },
     {
-      "surface": "גּוֹיִם",
+      "surface": "גוים",
       "gloss": "ملتان"
     },
     {
-      "surface": "מֻרְדָּף",
+      "surface": "מרדף",
       "gloss": "رَداوتگ"
     },
     {
-      "surface": "בְּלִי",
+      "surface": "בלי",
       "gloss": "بے"
     },
     {
-      "surface": "חָשָׂךְ",
+      "surface": "חשך",
       "gloss": "روک"
     }
-  ],
-  "timestamp": "2026-09-25T17:11:48.918453901Z",
-  "model": "glm-5.3"
+  ]
 }

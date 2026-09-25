@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "1-kings 6:19",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:01:53.541312031Z",
+  "verse": 19,
+  "ref": "1-kings 6:19",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ دبیر گدانی ماں، چہ نیمگئیں پشتئیں، آ چیرہ کت پہ اودا گندیت ⟨את⟩ یاہوہءِ عہدءِ سنڈوک.",
   "tokens": [
     {
-      "surface": "וּדְבִ֧יר",
+      "surface": "ודביר",
       "gloss": "ءُ دبیر"
     },
     {
-      "surface": "בְּתוֹךְ",
+      "surface": "בתוך",
       "gloss": "ماں"
     },
     {
-      "surface": "הַבַּ֛יִת",
+      "surface": "הבית",
       "gloss": "گدانی"
     },
     {
-      "surface": "מִפְּנִ֖ימָה",
+      "surface": "מפנימה",
       "gloss": "چہ نیمگئیں پشتئیں"
     },
     {
-      "surface": "הֵכִ֑ין",
+      "surface": "הכין",
       "gloss": "آ چیرہ کت"
     },
     {
-      "surface": "לָתֵֵ֣ת שָׁ֔ם",
+      "surface": "לתתן",
       "gloss": "پہ اودا گندیت"
     },
     {
-      "surface": "שָׁ֔ם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سنڈوک"
     },
     {
-      "surface": "אֲר֖וֹן",
+      "surface": "ארון",
       "gloss": "سنڈوک"
     },
     {
-      "surface": "בְּרִ֥ית",
+      "surface": "ברית",
       "gloss": "عہدءِ"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T21:01:53.541312031Z",
-  "model": "glm-5.3"
+  ]
 }

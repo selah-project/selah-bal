@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "psalms 119:20",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:27:34.606214108Z",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "میری جان کش بیت پہ تریں مانءِ گوں تُہءِ مِشتان، ہر وہدءَ",
   "tokens": [
     {
-      "surface": "גָּרְסָ֣ה",
+      "surface": "גרסה",
       "gloss": "کش بیت"
     },
     {
-      "surface": "נַפְשִׁ֣י",
+      "surface": "נפשי",
       "gloss": "میری جان"
     },
     {
-      "surface": "לְתַאֲבָ֑ה",
+      "surface": "לתאבה",
       "gloss": "پہ تریں مانءِ"
     },
     {
-      "surface": "אֶֽל",
+      "surface": "אל",
       "gloss": "گوں"
     },
     {
-      "surface": "מִשְׁפָּטֶ֥יךָ",
+      "surface": "משפטיך",
       "gloss": "تُہءِ مِشتان"
     },
     {
-      "surface": "בְכָל",
+      "surface": "בכל",
       "gloss": "ہر"
     },
     {
-      "surface": "עֵֽת",
+      "surface": "עת",
       "gloss": "وہدءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:27:34.606214108Z",
-  "model": "glm-5.3"
+  ]
 }

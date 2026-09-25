@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "lamentations 5:11",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:14:52.925285262Z",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "زناناں تسیّونءَ اِشکنیت بوتگنت، کنیزان یہوداہءِ شہرانی تہ.",
   "tokens": [
     {
-      "surface": "נָשִׁים",
+      "surface": "נשים",
       "gloss": "زناناں"
     },
     {
-      "surface": "בְּצִיּוֹן",
+      "surface": "בציון",
       "gloss": "تسیّونءَ"
     },
     {
-      "surface": "עִנּוּ",
+      "surface": "ענו",
       "gloss": "اِشکنیت بوتگنت"
     },
     {
-      "surface": "בְּתוּלֹת",
+      "surface": "בתלת",
       "gloss": "کنیزان"
     },
     {
-      "surface": "בְּעָרֵי",
+      "surface": "בערי",
       "gloss": "شہرانی تہ"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:14:52.925285262Z",
-  "model": "glm-5.3"
+  ]
 }

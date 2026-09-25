@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "jonah 3:9",
   "book": "jonah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:36:15.699928479Z",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "کے زانت؟ شاید ایلوہیم پدا گرگ بیت ءُ دلءِ غمءَ چہ آییءِ سوزیں قہرءَ باز گنت، ءُ ما ہلاک نہ بوں۔",
   "tokens": [
@@ -44,10 +46,8 @@
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "نאבד",
+      "surface": "נאבד",
       "gloss": "ہلاک بوں"
     }
-  ],
-  "timestamp": "2026-09-25T18:36:15.699928479Z",
-  "model": "glm-5.3"
+  ]
 }

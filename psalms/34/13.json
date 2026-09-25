@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "psalms 34:13",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:39:01.453696500Z",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "کے ءُ اِنت اے مرد کہ زندگیءَ چاہیت، روچانیءَ دوست داریت، پہ چا کہ خوبیءَ گندیت؟",
   "tokens": [
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "הָ֭אִישׁ",
+      "surface": "האיש",
       "gloss": "اے مرد"
     },
     {
-      "surface": "הֶחָפֵ֣ץ",
+      "surface": "החפץ",
       "gloss": "چاہیت"
     },
     {
-      "surface": "חַיִּ֑ים",
+      "surface": "חיים",
       "gloss": "زندگیءَ"
     },
     {
-      "surface": "אֹהֵ֥ב",
+      "surface": "אהב",
       "gloss": "دوست داریت"
     },
     {
-      "surface": "יָ֝מִ֗ים",
+      "surface": "ימים",
       "gloss": "روچان"
     },
     {
-      "surface": "לִרְא֥וֹת",
+      "surface": "לראות",
       "gloss": "پہ گندیت"
     },
     {
-      "surface": "טֽוֹב",
+      "surface": "טוב",
       "gloss": "خوبیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:39:01.453696500Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "joshua 13:28",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:40:07.618891344Z",
+  "verse": 28,
+  "ref": "joshua 13:28",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "اے گادءِ زہگانی میراث اِنت، آیانی ٹولیانی پہ — شہران ءُ آیانی دہات.",
   "tokens": [
     {
-      "surface": "זֹ֛את",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "נַחֲלַ֥ת",
+      "surface": "נחלת",
       "gloss": "میراث"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "גָ֖ד",
+      "surface": "גד",
       "gloss": "گاد"
     },
     {
-      "surface": "לְמִשְׁפְּחֹתָ֑ם",
+      "surface": "למשפחתם",
       "gloss": "آیانی ٹولیانی پہ"
     },
     {
-      "surface": "הֶעָרִ֖ים",
+      "surface": "הערים",
       "gloss": "شہران"
     },
     {
-      "surface": "וְחַצְרֵיהֶֽם",
+      "surface": "וחצריהם",
       "gloss": "ءُ آیانی دہات"
     }
-  ],
-  "timestamp": "2026-09-25T18:40:07.618891344Z",
-  "model": "glm-5.3"
+  ]
 }

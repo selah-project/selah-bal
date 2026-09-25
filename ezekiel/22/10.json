@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "ezekiel 22:10",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:12:14.301119407Z",
+  "verse": 10,
+  "ref": "ezekiel 22:10",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "پدءِ برہنگی تیار ءُ اشکر کت، ءُ ماہانگی ناپاکیءِ ناپاکءَ تیار ءُ مار کت.",
   "tokens": [
     {
-      "surface": "עֶרְוַת",
+      "surface": "ערות",
       "gloss": "برہنگی"
     },
     {
-      "surface": "אָב",
+      "surface": "אב",
       "gloss": "پدءِ"
     },
     {
-      "surface": "גִּלָּה",
+      "surface": "גלה",
       "gloss": "اشکر کت"
     },
     {
-      "surface": "בָּךְ",
+      "surface": "בך",
       "gloss": "تیار"
     },
     {
-      "surface": "טְמֵאַת",
+      "surface": "טמאת",
       "gloss": "ناپاکی"
     },
     {
-      "surface": "הַנִּדָּה",
+      "surface": "הנדה",
       "gloss": "ماہانگی ناپاکیءِ"
     },
     {
-      "surface": "עִנּוּ",
+      "surface": "ענו",
       "gloss": "مار کت"
     },
     {
-      "surface": "בָּךְ",
+      "surface": "בך",
       "gloss": "تیار"
     }
-  ],
-  "timestamp": "2026-09-25T16:12:14.301119407Z",
-  "model": "glm-5.3"
+  ]
 }

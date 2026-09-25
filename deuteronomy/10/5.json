@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "deuteronomy 10:5",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:03:44.300120475Z",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ من پدا گریتم ءُ چہ کوهءَ دیم کتم ءُ ⟨את⟩ لوحانءَ تہ آرُنءَ گوتگ کت کہ من آیی جوڑ کتگ اَت، ءُ آ اوتا اوشتنت، چوش کہ یاہوہءَ منءَ حکم کتگ اَت۔",
   "tokens": [
     {
-      "surface": "וָאֵ֗פֶן",
+      "surface": "ואפן",
       "gloss": "ءُ من پدا گریتم"
     },
     {
-      "surface": "וָֽאֵרֵד֙",
+      "surface": "וארד",
       "gloss": "ءُ دیم کتم"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָהָ֔ר",
+      "surface": "ההר",
       "gloss": "کوهءَ"
     },
     {
-      "surface": "וָֽאָשִׂם֙",
+      "surface": "ואשם",
       "gloss": "ءُ گوتگ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "لوحانءَ"
     },
     {
-      "surface": "הַלֻּחֹ֔ת",
+      "surface": "הלחת",
       "gloss": "لوحانءَ"
     },
     {
-      "surface": "בָּאָר֖וֹן",
+      "surface": "בארון",
       "gloss": "تہ آرُنءَ"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָשִׂ֫יתִי",
+      "surface": "עשיתי",
       "gloss": "من آیی جوڑ کتگ اَت"
     },
     {
-      "surface": "וַיִּ֣הְיוּ",
+      "surface": "ויהיו",
       "gloss": "ءُ آ اوشتنت"
     },
     {
-      "surface": "שָׁ֔ם",
+      "surface": "שם",
       "gloss": "اوتا"
     },
     {
-      "surface": "כַּאֲשֶׁ֥ר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "צִוַּ֖נִי",
+      "surface": "צוני",
       "gloss": "منءَ حکم کتگ اَت"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:03:44.300120475Z",
-  "model": "glm-5.3"
+  ]
 }

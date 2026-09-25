@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "1-chronicles 7:21",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:47:43.098373419Z",
+  "verse": 21,
+  "ref": "1-chronicles 7:21",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ زابد آییءِ زہگ ءُ شوتلح آییءِ زہگ ءُ عِزر ءُ اِلعاد؛ ءُ آیانءَ مارگ کت گتءِ مردمان کہ تہ آے زمینءَ پیدا بوتگ اَنت، پرچا کہ آیان داتی چہ آیانی مالان ⟨את⟩ گپتنت۔",
   "tokens": [
     {
-      "surface": "וְזָבָ֥ד",
+      "surface": "וזבד",
       "gloss": "ءُ زابد"
     },
     {
-      "surface": "בְּנ֛וֹ",
+      "surface": "בנו",
       "gloss": "آییءِ زہگ"
     },
     {
-      "surface": "וְשׁוּתֶ֥לַח",
+      "surface": "ושותלח",
       "gloss": "ءُ شوتلح"
     },
     {
-      "surface": "בְּנ֖וֹ",
+      "surface": "בנו",
       "gloss": "آییءِ زہگ"
     },
     {
-      "surface": "וְעֵ֣זֶר",
+      "surface": "ועזר",
       "gloss": "ءُ عِزر"
     },
     {
-      "surface": "וְאֶלְעָ֑ד",
+      "surface": "ואלעד",
       "gloss": "ءُ اِلعاد"
     },
     {
-      "surface": "וַהֲרָג֗וּם",
+      "surface": "והרגום",
       "gloss": "ءُ آیانءَ مارگ کت"
     },
     {
-      "surface": "אַנְשֵׁי",
+      "surface": "אנשי",
       "gloss": "گتءِ مردمان"
     },
     {
-      "surface": "גַת֙",
+      "surface": "גת",
       "gloss": "گت"
     },
     {
-      "surface": "הַנּוֹלָדִ֣ים",
+      "surface": "הנולדים",
       "gloss": "پیدا بوتگ"
     },
     {
-      "surface": "בָּאָ֔רֶץ",
+      "surface": "בארץ",
       "gloss": "تہ آے زمینءَ"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "יָרְד֔וּ",
+      "surface": "ירדו",
       "gloss": "داتی"
     },
     {
-      "surface": "לָקַ֖חַת",
+      "surface": "לקחת",
       "gloss": "گپتنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آیانی مالانءَ"
     },
     {
-      "surface": "מִקְנֵיהֶֽם",
+      "surface": "מקניהם",
       "gloss": "آیانی مالان"
     }
-  ],
-  "timestamp": "2026-09-25T12:47:43.098373419Z",
-  "model": "glm-5.3"
+  ]
 }

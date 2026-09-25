@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "jeremiah 8:5",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:18:57.674312191Z",
+  "verse": 5,
+  "ref": "jeremiah 8:5",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "چی پہ اے قومِ یروشلیم وت گپتگ روت، ⟨هستی⟩ یک ہمیشگیں مَشرُوبیءَ؟ آ اِشtnی ترمیتءَ مضبوط کت، آیان پدا گرگءَ انکار کت۔",
   "tokens": [
     {
-      "surface": "מַדּ֨וּעַ",
+      "surface": "מדוע",
       "gloss": "چی پہ"
     },
     {
-      "surface": "שׁוֹבְבָ֜ה",
+      "surface": "שובבה",
       "gloss": "وت گپتگ روت"
     },
     {
-      "surface": "הָעָ֥ם",
+      "surface": "העם",
       "gloss": "قوم"
     },
     {
-      "surface": "הַזֶּ֛ה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "יְרוּשָׁלִַ֖ם",
+      "surface": "ירושלם",
       "gloss": "یروشلیم"
     },
     {
-      "surface": "מְשֻׁבָ֣ה",
+      "surface": "משבה",
       "gloss": "مَشرُوبی"
     },
     {
-      "surface": "נִצַּ֑חַת",
+      "surface": "נצחת",
       "gloss": "ہمیشگیں"
     },
     {
-      "surface": "הֶחֱזִ֨יקוּ֙",
+      "surface": "החזיקו",
       "gloss": "مضبوط کت"
     },
     {
-      "surface": "בַּתַּרְמִ֔ית",
+      "surface": "בתרמית",
       "gloss": "ترمیتءَ"
     },
     {
-      "surface": "מֵאֲנ֖וּ",
+      "surface": "מאנו",
       "gloss": "انکار کت"
     },
     {
-      "surface": "לָשֽׁוּב",
+      "surface": "לשוב",
       "gloss": "پدا گرگءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:18:57.674312191Z",
-  "model": "glm-5.3"
+  ]
 }

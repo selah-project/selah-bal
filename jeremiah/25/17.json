@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "jeremiah 25:17",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:50:14.678799575Z",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ من کوسءَ چہ یاہوہءِ دستءَ گرت، ءُ ⟨את⟩ سئے قوماںءَ چکاندم — جنکاں یاہوہ منءَ آیانی وتی لاءِ شلت ءُ آیانی وتی لاءِ گشت.",
   "tokens": [
     {
-      "surface": "וָאֶקַּח",
+      "surface": "ואקח",
       "gloss": "ءُ گرتم"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کوسءَ"
     },
     {
-      "surface": "הַכּוֹס",
+      "surface": "הכוס",
       "gloss": "کوس"
     },
     {
-      "surface": "מִיַּד",
+      "surface": "מיד",
       "gloss": "چہ دستءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וָאַשְׁקֶה",
+      "surface": "ואשקה",
       "gloss": "ءُ چکاندُم"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سئے قوماں"
     },
     {
-      "surface": "כֹּל",
+      "surface": "כל",
       "gloss": "سئے"
     },
     {
-      "surface": "הַגּוֹיִם",
+      "surface": "הגוים",
       "gloss": "قوم"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "جنکاں"
     },
     {
-      "surface": "שְׁלָחַנִי",
+      "surface": "שלחני",
       "gloss": "شلت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֲלֵיהֶם",
+      "surface": "אליהם",
       "gloss": "آیانی وتی لاءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:50:14.678799575Z",
-  "model": "glm-5.3"
+  ]
 }

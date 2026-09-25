@@ -1,106 +1,106 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "1-samuel 28:21",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:26:35.831091645Z",
+  "verse": 21,
+  "ref": "1-samuel 28:21",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ جنک شاؤلءَ گوت، ءُ گندیت کہ آ گیش ترسیتگ، ءُ آیءَ گوَشت: اےش، تُنیں کنیز تُنیں آوازءَ شند کت، ءُ من مئے جان مئے ہاتءَ تہ شت، ءُ من ⟨את⟩ تُنیں گالان شند کت کہ تُو منءَ گوَشتی اَنت۔",
   "tokens": [
     {
-      "surface": "וַתָּב֤וֹא",
+      "surface": "ותבוא",
       "gloss": "ءُ گوت"
     },
     {
-      "surface": "הָֽאִשָּׁה֙",
+      "surface": "האשה",
       "gloss": "جنک"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "שָׁא֔וּל",
+      "surface": "שאול",
       "gloss": "شاؤلءَ"
     },
     {
-      "surface": "וַתֵּ֖רֶא",
+      "surface": "ותרא",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "נִבְהַ֣ל",
+      "surface": "נבהל",
       "gloss": "ترسیتگ"
     },
     {
-      "surface": "מְאֹ֑ד",
+      "surface": "מאד",
       "gloss": "گیش"
     },
     {
-      "surface": "וַתֹּ֣אמֶר",
+      "surface": "ותאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אֵלָ֗יו",
+      "surface": "אליו",
       "gloss": "آیءَ"
     },
     {
-      "surface": "הִנֵּ֨ה",
+      "surface": "הנה",
       "gloss": "اےش"
     },
     {
-      "surface": "שָׁמְעָ֤ה",
+      "surface": "שמעה",
       "gloss": "شند کت"
     },
     {
-      "surface": "שִׁפְחָֽתְךָ֙",
+      "surface": "שפחתך",
       "gloss": "تُنیں کنیز"
     },
     {
-      "surface": "בְּקוֹלֶ֔ךָ",
+      "surface": "בקולך",
       "gloss": "تُنیں آوازءَ"
     },
     {
-      "surface": "וָאָשִׂ֤ים",
+      "surface": "ואשים",
       "gloss": "ءُ شت"
     },
     {
-      "surface": "נַפְשִׁי֙",
+      "surface": "נפשי",
       "gloss": "مئے جان"
     },
     {
-      "surface": "בְּכַפִּ֔י",
+      "surface": "בכפי",
       "gloss": "مئے ہاتءَ تہ"
     },
     {
-      "surface": "וָֽאֶשְׁמַע֙",
+      "surface": "ואשמע",
       "gloss": "ءُ شند کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُنیں گالان"
     },
     {
-      "surface": "דְּבָרֶ֔יךָ",
+      "surface": "דבריך",
       "gloss": "تُنیں گالان"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "דִּבַּ֖רְתָּ",
+      "surface": "דברת",
       "gloss": "گوَشتی"
     },
     {
-      "surface": "אֵלָֽי",
+      "surface": "אלי",
       "gloss": "منءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:26:35.831091645Z",
-  "model": "glm-5.3"
+  ]
 }

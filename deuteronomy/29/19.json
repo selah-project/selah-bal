@@ -1,118 +1,118 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "deuteronomy 29:19",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:23:47.452199932Z",
+  "verse": 19,
+  "ref": "deuteronomy 29:19",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "یاہوہ ریتی نہ کنیت کہ آییءَ ببخشت، چون اَز یاہوہءِ غصہ ءُ آییءِ غیرت اے مردمءَcmb دھوک بنت، ءُcmb ہمگ ہلہ کہ اے کتابءَcmb نبشتگcmb اِنتcmb آییءَcmb سرcmb ڈہcmb بنت، ءُcmb یاہوہ آییءِ نام cmb چہcmb آسمانانیcmb تہاریءَcmb پاکcmb کنت.",
   "tokens": [
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יֹאבֶה",
+      "surface": "יאבה",
       "gloss": "ریتی کنیت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "סְלֹחַ",
+      "surface": "סלח",
       "gloss": "ببخشت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "چون"
     },
     {
-      "surface": "אָז",
+      "surface": "אז",
       "gloss": "اَز"
     },
     {
-      "surface": "יֶעְשַׁן",
+      "surface": "יעשן",
       "gloss": "دھوکcmb بنت"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "غصہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וְקִנְאָתוֹ",
+      "surface": "וקנאתו",
       "gloss": "ءُcmb آییءِcmb غیرت"
     },
     {
-      "surface": "בָּאִישׁ",
+      "surface": "באיש",
       "gloss": "اے مردمءَcmb"
     },
     {
-      "surface": "הַהוּא",
+      "surface": "ההוא",
       "gloss": ""
     },
     {
-      "surface": "וְרָבְצָה",
+      "surface": "ורבצה",
       "gloss": "ڈہcmb بنت"
     },
     {
-      "surface": "בּוֹ",
+      "surface": "בו",
       "gloss": "آییءَcmb سرcmb"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "הָאָלָה",
+      "surface": "האלה",
       "gloss": "ہلہ"
     },
     {
-      "surface": "הַכְּתוּבָה",
+      "surface": "הכתובה",
       "gloss": "نبشتگcmb"
     },
     {
-      "surface": "בַּסֵּפֶר",
+      "surface": "בספר",
       "gloss": "اے کتابءَcmb"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": ""
     },
     {
-      "surface": "וּמָחָה",
+      "surface": "ומחה",
       "gloss": "ءُcmb پاکcmb کنت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ نامcmb"
     },
     {
-      "surface": "שְׁמוֹ",
+      "surface": "שמו",
       "gloss": "آییءِ نامcmb"
     },
     {
-      "surface": "מִתַּחַת",
+      "surface": "מתחת",
       "gloss": "تہاریءَcmb"
     },
     {
-      "surface": "הַשָּׁמָיִם",
+      "surface": "השמים",
       "gloss": "آسمانانcmb"
     }
-  ],
-  "timestamp": "2026-09-25T15:23:47.452199932Z",
-  "model": "glm-5.3"
+  ]
 }

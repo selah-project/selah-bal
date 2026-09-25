@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "1-chronicles 27:29",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:44:14.066434748Z",
+  "verse": 29,
+  "ref": "1-chronicles 27:29",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ مالانی سرءَ کہ شارونءَ چرتنت — شترائی شارونی؛ ءُ مالانی سرءَ کہ وادیاں تہ اَنت — شافط، عَدلائیءِ زہگ۔",
   "tokens": [
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ مالانی سرءَ"
     },
     {
-      "surface": "הַבָּקָר",
+      "surface": "הבקר",
       "gloss": "مالان"
     },
     {
-      "surface": "הָרֹעִים",
+      "surface": "הרעים",
       "gloss": "چرتنت"
     },
     {
-      "surface": "בַּשָּׁרוֹן",
+      "surface": "בשרון",
       "gloss": "شارونءَ"
     },
     {
-      "surface": "שִׁטְרַי",
+      "surface": "שטרי",
       "gloss": "شترائی"
     },
     {
-      "surface": "הַשָּׁרֹנִי",
+      "surface": "השרוני",
       "gloss": "شارونی"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ مالانی سرءَ"
     },
     {
-      "surface": "הַבָּקָר",
+      "surface": "הבקר",
       "gloss": "مالان"
     },
     {
-      "surface": "בָּעֲמָקִים",
+      "surface": "בעמקים",
       "gloss": "وادیاں تہ"
     },
     {
-      "surface": "שָׁפָט",
+      "surface": "שפט",
       "gloss": "شافط"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "עַדְלָי",
+      "surface": "עדלי",
       "gloss": "عَدلائی"
     }
-  ],
-  "timestamp": "2026-09-25T12:44:14.066434748Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "jeremiah 30:23",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:55:29.555898872Z",
+  "verse": 23,
+  "ref": "jeremiah 30:23",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "اے گندیت — یاہوہءِ طوفان، غضب، در بوتگ، یک گوَنڈاریں طوفان، بدکارانی سرءَ چیر لنگیت۔",
   "tokens": [
@@ -32,7 +34,7 @@
       "gloss": "طوفان"
     },
     {
-      "surface": "مתגורר",
+      "surface": "מתגורר",
       "gloss": "گوَنڈاریں"
     },
     {
@@ -51,7 +53,5 @@
       "surface": "יחול",
       "gloss": "لنگیت"
     }
-  ],
-  "timestamp": "2026-09-25T17:55:29.555898872Z",
-  "model": "glm-5.3"
+  ]
 }

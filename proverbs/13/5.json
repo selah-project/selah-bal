@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "proverbs 13:5",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:10:51.764360502Z",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "دروغءِ گپءَ راستگوں نفرت کنت، ءُ بدکار بدبو ءُ شرمناک بیت.",
   "tokens": [
     {
-      "surface": "דְּבַר",
+      "surface": "דבר",
       "gloss": "گپ"
     },
     {
-      "surface": "שֶׁקֶר",
+      "surface": "שקר",
       "gloss": "دروغءِ"
     },
     {
-      "surface": "יִשְׂנָא",
+      "surface": "ישנא",
       "gloss": "نفرت کنت"
     },
     {
-      "surface": "צַדִּיק",
+      "surface": "צדיק",
       "gloss": "راستگوں"
     },
     {
-      "surface": "וְרָשָׁע",
+      "surface": "ורשע",
       "gloss": "ءُ بدکار"
     },
     {
-      "surface": "יַבְאִישׁ",
+      "surface": "יבאיש",
       "gloss": "بدبو بیت"
     },
     {
-      "surface": "וְיַחְפִּיר",
+      "surface": "ויחפיר",
       "gloss": "ءُ شرمناک بیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:10:51.764360502Z",
-  "model": "glm-5.3"
+  ]
 }

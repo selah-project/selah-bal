@@ -1,87 +1,87 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "1-kings 5:7",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:02:20.948748139Z",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ اے اوشتگیں کارگزاراں شاہ شلومہءَ گوَندیت ءُ ءُ ⟨את⟩ گیشتر کہ شاہ شلومہءِ میزءَ وتی وتی ماںءَ رسنت، ہچ چیزءَ کم نہ کیتنت.",
   "tokens": [
     {
-      "surface": "וְכִלְכְּלוּ",
+      "surface": "וכלכלו",
       "gloss": "ءُ گوَندیت"
     },
     {
-      "surface": "הַנִּצָּבִים",
+      "surface": "הנצבים",
       "gloss": "اوشتگیں کارگزار"
     },
     {
-      "surface": "הָאֵלֶּה",
+      "surface": "האלה",
       "gloss": "اے"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شاہ شلومہ"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "שְׁלֹמֹה",
+      "surface": "שלמה",
       "gloss": "شلومہ"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گیشتر"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیشتر"
     },
     {
-      "surface": "הַקָּרֵב",
+      "surface": "הקרב",
       "gloss": "رسوک"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "שֻׁלְחַן",
+      "surface": "שלחן",
       "gloss": "میز"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہءِ"
     },
     {
-      "surface": "שְׁלֹמֹה",
+      "surface": "שלמה",
       "gloss": "شلومہءِ"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "ہر یک"
     },
     {
-      "surface": "חָדְשֹׁו",
+      "surface": "חדשו",
       "gloss": "وتی ماںءَ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְעַדְּרוּ",
+      "surface": "יעדרו",
       "gloss": "کم کیتنت"
     },
     {
-      "surface": "דָּבָר",
+      "surface": "דבר",
       "gloss": "چیز"
     }
-  ],
-  "timestamp": "2026-09-25T13:02:20.948748139Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "haggai 1:10",
   "book": "haggai",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:07:08.358641499Z",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "اے پہ اِشاں تُہانی پہ آسمان شبنمءَ بچ کت، ءُ زمین وتی حاصلءَ بچ کتگ ⟨اِنت⟩۔",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "اے پہ اِشاں"
     },
     {
-      "surface": "עֲלֵיכֶם",
+      "surface": "עליכם",
       "gloss": "تُہانی پہ"
     },
     {
-      "surface": "כָלְאוּ",
+      "surface": "כלאו",
       "gloss": "بچ کت"
     },
     {
-      "surface": "שָׁמַיִם",
+      "surface": "שמים",
       "gloss": "آسمان"
     },
     {
-      "surface": "מִטָּל",
+      "surface": "מטל",
       "gloss": "شبنمءَ"
     },
     {
-      "surface": "וְהָאָרֶץ",
+      "surface": "והארץ",
       "gloss": "ءُ زمین"
     },
     {
-      "surface": "כָלְאָה",
+      "surface": "כלאה",
       "gloss": "بچ کتگ"
     },
     {
-      "surface": "יְבוּלָהּ",
+      "surface": "יבולה",
       "gloss": "وتی حاصلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:07:08.358641499Z",
-  "model": "glm-5.3"
+  ]
 }

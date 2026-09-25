@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "deuteronomy 20:7",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:19:26.305151041Z",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "ءُ کہ اے مَرد ⟨اِنت⟩ کہ یک جنکءِ منگنی کت ءُ آییءَ نہ گرگیتگ — روت ءُ وتی گدءَ پسا بوت، نہ کہ جنگءَ مُرِّت ءُ دگہ مَردی آییءَ گرّیت۔",
   "tokens": [
     {
-      "surface": "וּמִֽי",
+      "surface": "ומי",
       "gloss": "ءُ کہ"
     },
     {
-      "surface": "הָאִישׁ",
+      "surface": "האיש",
       "gloss": "اے مَرد"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אֵרַ֥שׂ",
+      "surface": "ארש",
       "gloss": "منگنی کت"
     },
     {
-      "surface": "אִשָּׁ֖ה",
+      "surface": "אשה",
       "gloss": "جنک"
     },
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "לְקָחָ֑הּ",
+      "surface": "לקחה",
       "gloss": "آییءَ گرگیت"
     },
     {
-      "surface": "יֵלֵ֖ךְ",
+      "surface": "ילך",
       "gloss": "روت"
     },
     {
-      "surface": "וְיָשֹׁ֣ב",
+      "surface": "וישב",
       "gloss": "ءُ پسا بوت"
     },
     {
-      "surface": "לְבֵית֑וֹ",
+      "surface": "לביתו",
       "gloss": "وتی گدءَ"
     },
     {
-      "surface": "פֶּן֙",
+      "surface": "פן",
       "gloss": "نہ کہ"
     },
     {
-      "surface": "יָמ֥וּת",
+      "surface": "ימות",
       "gloss": "مُرِّت"
     },
     {
-      "surface": "בַּמִּלְחָמָ֖ה",
+      "surface": "במלחמה",
       "gloss": "جنگءَ"
     },
     {
-      "surface": "וְאִ֥ישׁ",
+      "surface": "ואיש",
       "gloss": "ءُ مَرد"
     },
     {
-      "surface": "אַחֵ֖ר",
+      "surface": "אחר",
       "gloss": "دگہ"
     },
     {
-      "surface": "יִקָּחֶֽנָּה",
+      "surface": "יקחנה",
       "gloss": "آییءَ گرّیت"
     }
-  ],
-  "timestamp": "2026-09-25T15:19:26.305151041Z",
-  "model": "glm-5.3"
+  ]
 }

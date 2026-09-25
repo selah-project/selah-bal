@@ -1,92 +1,92 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
-  "ref": "joshua 19:50",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:45:31.040912064Z",
+  "verse": 50,
+  "ref": "joshua 19:50",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "پہ یاہوہءِ گالءَ آیءَ ⟨את⟩ شہر داتنت کہ آیءَ منگشت اَت، ⟨את⟩ تمنت سِرَح، کوہءِ اپھرایمءَ؛ ءُ آءِ ⟨את⟩ شہرءَ جوڑ کت ءُ آیءِ تہ آباد بوت.",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "פִּי",
+      "surface": "פי",
       "gloss": "گالءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "נָתְנוּ",
+      "surface": "נתנו",
       "gloss": "داتنت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آءِ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شہر"
     },
     {
-      "surface": "הָעִיר",
+      "surface": "העיר",
       "gloss": "شہر"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "שָׁאָל",
+      "surface": "שאל",
       "gloss": "منگشت اَت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تمنت سِرَح"
     },
     {
-      "surface": "תִּמְנַת",
+      "surface": "תמנת",
       "gloss": "تمنت"
     },
     {
-      "surface": "סֶרַח",
+      "surface": "סרח",
       "gloss": "سِرَح"
     },
     {
-      "surface": "בְּהַר",
+      "surface": "בהר",
       "gloss": "کوہءِ"
     },
     {
-      "surface": "אֶפְרָיִם",
+      "surface": "אפרים",
       "gloss": "اپھرایمءَ"
     },
     {
-      "surface": "וַיִּבְנֶה",
+      "surface": "ויבנה",
       "gloss": "ءُ جوڑ کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شہر"
     },
     {
-      "surface": "הָעִיר",
+      "surface": "העיר",
       "gloss": "شہرءَ"
     },
     {
-      "surface": "וַיֵּשֶׁב",
+      "surface": "וישב",
       "gloss": "ءُ آباد بوت"
     },
     {
-      "surface": "בָּהּ",
+      "surface": "בה",
       "gloss": "آیءِ تہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:45:31.040912064Z",
-  "model": "glm-5.3"
+  ]
 }

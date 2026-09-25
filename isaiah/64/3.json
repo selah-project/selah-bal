@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "isaiah 64:3",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:37:07.157089184Z",
+  "verse": 3,
+  "ref": "isaiah 64:3",
+  "tier": "glm-5.2",
   "chapter": 64,
   "translation": "ءُ چہ زمانءِ اولءَ نہ گوشتنت، نہ گوشءَ داتنت؛ چم نہ گندیتگ ایلوہیمءَ چہ تہءَ بجز، کہ پہ آئی چاکنوکءَ کار کنت کہ آییءِ پہ اِنت۔",
   "tokens": [
     {
-      "surface": "וּמֵעוֹלָ֥ם",
+      "surface": "ומעולם",
       "gloss": "ءُ چہ زمانءِ اولءَ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "שָׁמְע֖וּ",
+      "surface": "שמעו",
       "gloss": "گوشتنت"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "הֶאֱזִ֑ינוּ",
+      "surface": "האזינו",
       "gloss": "گوشءَ داتنت"
     },
     {
-      "surface": "עַ֣יִן",
+      "surface": "עין",
       "gloss": "چم"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "רָאָ֗תָה",
+      "surface": "ראתה",
       "gloss": "گندیتگ"
     },
     {
-      "surface": "אֱלֹהִים֙",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "זוּלָ֣תְךָ֔",
+      "surface": "זולתך",
       "gloss": "چہ تہءَ بجز"
     },
     {
-      "surface": "יַעֲשֶׂ֖ה",
+      "surface": "יעשה",
       "gloss": "کار کنت"
     },
     {
-      "surface": "לִמְחַכֵּ֥ה",
+      "surface": "למחכה",
       "gloss": "پہ آئی چاکنوکءَ"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "آییءِ پہ"
     }
-  ],
-  "timestamp": "2026-09-25T17:37:07.157089184Z",
-  "model": "glm-5.3"
+  ]
 }

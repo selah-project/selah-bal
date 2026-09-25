@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "psalms 72:10",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:46:52.294952497Z",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "tier": "glm-5.2",
   "chapter": 72,
   "translation": "تَرشیشءِ شاہان ءُ جزیرگانی شاہان خراج پدا دینت؛ شباءِ شاہان ءُ سباءِ شاہان سوغات پیش کننت.",
   "tokens": [
     {
-      "surface": "מַלְכֵ֬י",
+      "surface": "מלכי",
       "gloss": "شاہان"
     },
     {
-      "surface": "תַרְשִׁ֣ישׁ",
+      "surface": "תרשיש",
       "gloss": "تَرشیشءِ"
     },
     {
-      "surface": "וְ֭אִיִּים",
+      "surface": "ואיים",
       "gloss": "ءُ جزیرگانی"
     },
     {
-      "surface": "מִנְחָ֣ה",
+      "surface": "מנחה",
       "gloss": "خراج"
     },
     {
-      "surface": "יָשִׁ֑יבוּ",
+      "surface": "ישיבו",
       "gloss": "پدا دینت"
     },
     {
-      "surface": "מַלְכֵ֥י",
+      "surface": "מלכי",
       "gloss": "شاہان"
     },
     {
-      "surface": "שְׁבָ֥א",
+      "surface": "שבא",
       "gloss": "شباءِ"
     },
     {
-      "surface": "וּ֝סְבָ֗א",
+      "surface": "וסבא",
       "gloss": "ءُ سباءِ"
     },
     {
-      "surface": "אֶשְׁכָּ֥ר",
+      "surface": "אשכר",
       "gloss": "سوغات"
     },
     {
-      "surface": "יַקְרִֽיבוּ",
+      "surface": "יקריבו",
       "gloss": "پیش کننت"
     }
-  ],
-  "timestamp": "2026-09-25T20:46:52.294952497Z",
-  "model": "glm-5.3"
+  ]
 }

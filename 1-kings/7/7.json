@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "1-kings 7:7",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:05:26.633051290Z",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ تختءِ گمان، آ کہ اودا دانست داریت — گمانءِ انصاف — آییءَ جوڑ کت، ءُ چہ ارزءَ پوشیت چہ یکے زمینءَ تا دگے زمینءَ.",
   "tokens": [
     {
-      "surface": "וְאוּלָ֤ם",
+      "surface": "ואולם",
       "gloss": "ءُ گمان"
     },
     {
-      "surface": "הַכִּסֵּא֙",
+      "surface": "הכסא",
       "gloss": "تختءِ"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יִשְׁפָּט֔",
+      "surface": "ישפט",
       "gloss": "دانست داریت"
     },
     {
-      "surface": "שָׁ֥ם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "אֻלָ֥ם",
+      "surface": "אלם",
       "gloss": "گمانءِ"
     },
     {
-      "surface": "הַמִּשְׁפָּ֖ט",
+      "surface": "המשפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "עָשָׂ֑ה",
+      "surface": "עשה",
       "gloss": "جوڑ کت"
     },
     {
-      "surface": "וְסָפ֣וּן",
+      "surface": "וספון",
       "gloss": "ءُ پوشیت"
     },
     {
-      "surface": "בָּאֶ֔רֶז",
+      "surface": "בארז",
       "gloss": "چہ ارزءَ"
     },
     {
-      "surface": "מֵהַקַּרְקַ֖ע",
+      "surface": "מהקרקע",
       "gloss": "چہ یکے زمینءَ"
     },
     {
-      "surface": "עַ֥ד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "הַקַּרְקָֽע",
+      "surface": "הקרקע",
       "gloss": "دگے زمینءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:05:26.633051290Z",
-  "model": "glm-5.3"
+  ]
 }

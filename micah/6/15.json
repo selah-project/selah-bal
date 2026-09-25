@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "micah 6:15",
   "book": "micah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:35:37.986081970Z",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "توءَ دان کنیں، بلے در نہ کنیں؛ توءَ زیتونءَ پَما، بلے چرب نہ مَلیں؛ ءُ تیرُوش ⟨پَما⟩، بلے شراب نہ شیں۔",
   "tokens": [
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "توءَ"
     },
     {
-      "surface": "תִזְרַע",
+      "surface": "תזרע",
       "gloss": "دان کنیں"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "بلے نہ"
     },
     {
-      "surface": "תִקְצוֹר",
+      "surface": "תקצור",
       "gloss": "در کنیں"
     },
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "توءَ"
     },
     {
-      "surface": "תִדְרֹךְ",
+      "surface": "תדרך",
       "gloss": "پَما"
     },
     {
-      "surface": "זַיִת",
+      "surface": "זית",
       "gloss": "زیتونءَ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "بلے نہ"
     },
     {
-      "surface": "תָסוּךְ",
+      "surface": "תסוך",
       "gloss": "چرب مَلیں"
     },
     {
-      "surface": "שֶׁמֶן",
+      "surface": "שמן",
       "gloss": "چرب"
     },
     {
-      "surface": "וְתִירוֹשׁ",
+      "surface": "ותירוש",
       "gloss": "ءُ تیرُوش"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "بلے نہ"
     },
     {
-      "surface": "תִשְׁתֶּה",
+      "surface": "תשתה",
       "gloss": "شیں"
     },
     {
-      "surface": "יַיִן",
+      "surface": "יין",
       "gloss": "شراب"
     }
-  ],
-  "timestamp": "2026-09-25T19:35:37.986081970Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "song-of-songs 3:11",
   "book": "song-of-songs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:17:49.320603030Z",
+  "verse": 11,
+  "ref": "song-of-songs 3:11",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "در کَت ءُ گندیت، صہیونی جنکان، شلوموءِ شاہءَ، آ تاجءَ کہ آییءِ مات آییءَ تاج پہ سِت، آییءِ شوءِ روچءَ ءُ آییءِ دلءِ شادیءِ روچءَ.",
   "tokens": [
     {
-      "surface": "צְאֶ֧ינָה",
+      "surface": "צאינה",
       "gloss": "در کَت"
     },
     {
-      "surface": "וּֽרְאֶ֛ינָה",
+      "surface": "וראינה",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "בְּנ֥וֹת",
+      "surface": "בנות",
       "gloss": "جنکان"
     },
     {
-      "surface": "צִיּ֖וֹן",
+      "surface": "ציון",
       "gloss": "صہیونی"
     },
     {
-      "surface": "בַּמֶּ֣לֶךְ",
+      "surface": "במלך",
       "gloss": "شاہءَ"
     },
     {
-      "surface": "שְׁלֹמֹ֑ה",
+      "surface": "שלמה",
       "gloss": "شلوموءِ"
     },
     {
-      "surface": "בָּעֲטָרָ֗ה",
+      "surface": "בעטרה",
       "gloss": "آ تاجءَ"
     },
     {
-      "surface": "שֶׁעִטְּרָ֥ה",
+      "surface": "שעטרה",
       "gloss": "کہ تاج پہ سِت"
     },
     {
-      "surface": "לּ֥וֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "אִמּֽוֹ",
+      "surface": "אמו",
       "gloss": "آییءِ مات"
     },
     {
-      "surface": "בְּי֣וֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "חֲתֻנָּתָ֔יו",
+      "surface": "חתנתו",
       "gloss": "شوءِ"
     },
     {
-      "surface": "וּבְי֖וֹם",
+      "surface": "וביום",
       "gloss": "ءُ روچءَ"
     },
     {
-      "surface": "שִׂמְחַ֥ת",
+      "surface": "שמחת",
       "gloss": "شادیءِ"
     },
     {
-      "surface": "לִבּֽוֹ",
+      "surface": "לבו",
       "gloss": "آییءِ دلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T21:17:49.320603030Z",
-  "model": "glm-5.3"
+  ]
 }

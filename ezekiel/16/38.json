@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
-  "ref": "ezekiel 16:38",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:08:15.873562999Z",
+  "verse": 38,
+  "ref": "ezekiel 16:38",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ من توءَ زناکارانءِ ءُ آپ رِنجانونکیں ترازوانءِ پہ ترازو کریں، ءُ من توءَ ترازوانی آپ — غضبءِ ءُ سرکشیءِ آپ — دیں۔",
   "tokens": [
     {
-      "surface": "וּשְׁפַטְתִּיךְ",
+      "surface": "ושפטתיך",
       "gloss": "ءُ توءَ ترازو کریں"
     },
     {
-      "surface": "מִשְׁפְּטֵי",
+      "surface": "משפטי",
       "gloss": "ترازوانی"
     },
     {
-      "surface": "נֹאֲפוֹת",
+      "surface": "נאפות",
       "gloss": "زناکارانءِ"
     },
     {
-      "surface": "וְשֹׁפְכֹת",
+      "surface": "ושפכת",
       "gloss": "ءُ آپ رِنجانونکیں"
     },
     {
-      "surface": "דָּם",
+      "surface": "דם",
       "gloss": "آپ"
     },
     {
-      "surface": "וּנְתַתִּיךְ",
+      "surface": "ונתתיך",
       "gloss": "ءُ توءَ دیں"
     },
     {
-      "surface": "דָּם",
+      "surface": "דם",
       "gloss": "آپ"
     },
     {
-      "surface": "חֵמָה",
+      "surface": "חמה",
       "gloss": "غضبءِ"
     },
     {
-      "surface": "וְקִנְאָה",
+      "surface": "וקנאה",
       "gloss": "ءُ سرکشیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T16:08:15.873562999Z",
-  "model": "glm-5.3"
+  ]
 }

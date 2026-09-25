@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "isaiah 13:12",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:13:08.427614570Z",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "جنینءَ چہ سئیچیں زر گیشتر گران کنان، ءُ مردمءَ چہ اوفیرءِ سئیچیں زر گران کنان.",
   "tokens": [
     {
-      "surface": "אוֹקִ֥יר",
+      "surface": "אוקיר",
       "gloss": "گران کنان"
     },
     {
-      "surface": "אֱנ֖וֹשׁ",
+      "surface": "אנוש",
       "gloss": "جنینءَ"
     },
     {
-      "surface": "מִפָּ֑ז",
+      "surface": "מפז",
       "gloss": "چہ سئیچیں زر"
     },
     {
-      "surface": "וְאָדָ֖ם",
+      "surface": "ואדם",
       "gloss": "ءُ مردمءَ"
     },
     {
-      "surface": "מִכֶּ֥תֶם",
+      "surface": "מכתם",
       "gloss": "چہ اوفیرءِ سئیچیں زر"
     },
     {
-      "surface": "אוֹפִֽיר",
+      "surface": "אופיר",
       "gloss": "اوفیر"
     }
-  ],
-  "timestamp": "2026-09-25T17:13:08.427614570Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "ezekiel 22:28",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:12:53.837711725Z",
+  "verse": 28,
+  "ref": "ezekiel 22:28",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ اُشیءِ پیغمبران اشانءَ گوں پچ نہ بوتگیں گل پل کتنت، دروگوءِ گوَشوک ءُ اشانءَ دروگءِ گیجگاران، آ گوَشنت: اے چوں گوَشت ادونای یاہوہ، ءُ یاہوہ نہ گوَشتگ.",
   "tokens": [
     {
-      "surface": "וּנְבִיאֶ֗יהָ",
+      "surface": "ונביאיה",
       "gloss": "ءُ اُشیءِ پیغمبران"
     },
     {
-      "surface": "טָח֤וּ",
+      "surface": "טחו",
       "gloss": "پل کتنت"
     },
     {
-      "surface": "לָהֶם֙",
+      "surface": "להם",
       "gloss": "اشانءَ"
     },
     {
-      "surface": "תָּפֵ֔ל",
+      "surface": "תפל",
       "gloss": "پچ نہ بوتگیں گل"
     },
     {
-      "surface": "חֹזִ֣ים",
+      "surface": "חזים",
       "gloss": "گوَشوک"
     },
     {
-      "surface": "שָׁ֔וְא",
+      "surface": "שוא",
       "gloss": "دروگو"
     },
     {
-      "surface": "וְקֹסְמִ֥ים",
+      "surface": "וקסמים",
       "gloss": "ءُ گیجگاران"
     },
     {
-      "surface": "לָהֶ֖ם",
+      "surface": "להם",
       "gloss": "اشانءَ"
     },
     {
-      "surface": "כָּזָ֑ב",
+      "surface": "כזב",
       "gloss": "دروگ"
     },
     {
-      "surface": "אֹמְרִ֗ים",
+      "surface": "אמרים",
       "gloss": "گوَشنت"
     },
     {
-      "surface": "כֹּ֤ה",
+      "surface": "כה",
       "gloss": "اے چوں"
     },
     {
-      "surface": "אָמַר֙",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "אֲדֹנָ֣י",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וַֽיהוָ֖ה",
+      "surface": "ויהוה",
       "gloss": "ءُ یاہوہ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "דִּבֵּֽר",
+      "surface": "דבר",
       "gloss": "گوَشت"
     }
-  ],
-  "timestamp": "2026-09-25T16:12:53.837711725Z",
-  "model": "glm-5.3"
+  ]
 }

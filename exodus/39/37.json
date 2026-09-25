@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
-  "ref": "exodus 39:37",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:03:59.784846365Z",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "tier": "glm-5.2",
   "chapter": 39,
   "translation": "⟨את⟩ پاکیں چراغدان، ⟨את⟩ آییءِ چراغان، صفءَ جوڑ بوتگیں چراغان، ءُ ⟨את⟩ آییءِ ہمگ کول، ءُ ⟨את⟩ روشنائیءِ تیل۔",
   "tokens": [
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پاکیں چراغدان"
     },
     {
-      "surface": "הַמְּנֹרָה",
+      "surface": "המנרה",
       "gloss": "چراغدان"
     },
     {
-      "surface": "הַטְּהֹרָה",
+      "surface": "הטהרה",
       "gloss": "پاکیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ چراغان"
     },
     {
-      "surface": "נֵרֹתֶיהָ",
+      "surface": "נרתיה",
       "gloss": "آییءِ چراغان"
     },
     {
-      "surface": "נֵרֹת",
+      "surface": "נרת",
       "gloss": "چراغان"
     },
     {
-      "surface": "הַמַּעֲרָכָה",
+      "surface": "המערכה",
       "gloss": "صفءَ جوڑ بوتگیں"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ ہمگ کول"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "כֵּלֶיהָ",
+      "surface": "כליה",
       "gloss": "آییءِ کول"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "روشنائیءِ تیل"
     },
     {
-      "surface": "שֶׁמֶן",
+      "surface": "שמן",
       "gloss": "تیل"
     },
     {
-      "surface": "הַמָּאוֹר",
+      "surface": "המאור",
       "gloss": "روشنائیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T16:03:59.784846365Z",
-  "model": "glm-5.3"
+  ]
 }

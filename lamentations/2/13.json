@@ -1,97 +1,97 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "lamentations 2:13",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:12:19.146322692Z",
+  "verse": 13,
+  "ref": "lamentations 2:13",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "چہ چی تُہءَ گواہی بدم؟ چہ چی تُہءَ برابر کنم، اے یروشلمءِ جنک؟ چہ چی تُہءَ همچو کنم ءُ تُہءَ تسلی بدم، اے صیہونءِ جنکءِ کُنجک؟ پہ چیں چی تُہءِ شِکست گوں سمندرءِ چوں گیش اِنت؛ کِے اِنت کہ تُہءَ شفا بہ دیت؟",
   "tokens": [
     {
-      "surface": "מָֽה",
+      "surface": "מה",
       "gloss": "چہ چی"
     },
     {
-      "surface": "אֲעִידֵ֞ךְ",
+      "surface": "אעידך",
       "gloss": "تُہءَ گواہی بدم"
     },
     {
-      "surface": "מָ֣ה",
+      "surface": "מה",
       "gloss": "چہ چی"
     },
     {
-      "surface": "אֲדַמֶּה",
+      "surface": "אדמה",
       "gloss": "برابر کنم"
     },
     {
-      "surface": "לָּ֗ךְ",
+      "surface": "לך",
       "gloss": "تُہءَ"
     },
     {
-      "surface": "הַבַּת֙",
+      "surface": "הבת",
       "gloss": "اے جنک"
     },
     {
-      "surface": "יְרוּשָׁלִַ֔ם",
+      "surface": "ירושלם",
       "gloss": "یروشلم"
     },
     {
-      "surface": "מָ֤ה",
+      "surface": "מה",
       "gloss": "چہ چی"
     },
     {
-      "surface": "אַשְׁוֶה",
+      "surface": "אשוה",
       "gloss": "همچو کنم"
     },
     {
-      "surface": "לָּךְ֙",
+      "surface": "לך",
       "gloss": "تُہءَ"
     },
     {
-      "surface": "וַאֲנַחֲמֵ֔ךְ",
+      "surface": "ואנחמך",
       "gloss": "ءُ تُہءَ تسلی بدم"
     },
     {
-      "surface": "בְּתוּלַ֖ת",
+      "surface": "בתולת",
       "gloss": "کُنجک"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنک"
     },
     {
-      "surface": "צִיּ֑וֹן",
+      "surface": "ציון",
       "gloss": "صیہون"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پہ چیں چی"
     },
     {
-      "surface": "גָּד֥וֹל",
+      "surface": "גדול",
       "gloss": "گیش"
     },
     {
-      "surface": "כַּיָּ֛ם",
+      "surface": "כים",
       "gloss": "گوں سمندرءِ چوں"
     },
     {
-      "surface": "שִׁבְרֵ֖ךְ",
+      "surface": "שברך",
       "gloss": "تُہءِ شِکست"
     },
     {
-      "surface": "מִ֥י",
+      "surface": "מי",
       "gloss": "کِے"
     },
     {
-      "surface": "יִרְפָּ֖א",
+      "surface": "ירפא",
       "gloss": "شفا بہ دیت"
     },
     {
-      "surface": "לָֽךְ",
+      "surface": "לך",
       "gloss": "تُہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:12:19.146322692Z",
-  "model": "glm-5.3"
+  ]
 }

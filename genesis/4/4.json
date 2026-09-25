@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "genesis 4:4",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:55:13.506814758Z",
+  "verse": 4,
+  "ref": "genesis 4:4",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ ہابل اِش اُو چہ وتی مالءِ اولیں زہگانی ءُ چہ اشیانءِ چربیءَ آورت؛ ءُ یاہوہ ہابلءَ ءُ اِیءِ پیشکشءَ نگاہ کت.",
   "tokens": [
     {
-      "surface": "וְהֶ֨בֶל",
+      "surface": "והבל",
       "gloss": "ءُ ہابل"
     },
     {
-      "surface": "הֵבִ֥יא",
+      "surface": "הביא",
       "gloss": "آورت"
     },
     {
-      "surface": "גַ֥ם",
+      "surface": "גם",
       "gloss": "اِش"
     },
     {
-      "surface": "ה֛וּא",
+      "surface": "הוא",
       "gloss": "اُو"
     },
     {
-      "surface": "מִבְּכֹר֥וֹת",
+      "surface": "מבכרות",
       "gloss": "چہ اولیں زہگانی"
     },
     {
-      "surface": "צֹאנ֖וֹ",
+      "surface": "צאנו",
       "gloss": "وتی مال"
     },
     {
-      "surface": "וּמֵֽחֶלְבֵהֶ֑ן",
+      "surface": "ומחלבהן",
       "gloss": "ءُ چہ اشیانءِ چربیءَ"
     },
     {
-      "surface": "וַיִּ֣שַׁע",
+      "surface": "וישע",
       "gloss": "نگاہ کت"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "…ءَ"
     },
     {
-      "surface": "הֶ֖בֶל",
+      "surface": "הבל",
       "gloss": "ہابلءَ"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "ءُ …ءَ"
     },
     {
-      "surface": "מִנְחָתֽוֹ",
+      "surface": "מנחתו",
       "gloss": "اِیءِ پیشکشءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:55:13.506814758Z",
-  "model": "glm-5.3"
+  ]
 }

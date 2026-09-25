@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "proverbs 9:4",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:20:11.416350729Z",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "کے سادہ اِنت، آ اِشا روت — دلءِ کماںءَ آءَ آییءَ گوَشیت",
   "tokens": [
@@ -16,7 +18,7 @@
       "gloss": "سادہ"
     },
     {
-      "surface": "יסור",
+      "surface": "יסר",
       "gloss": "روت"
     },
     {
@@ -39,7 +41,5 @@
       "surface": "לו",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:20:11.416350729Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "isaiah 23:8",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:15:19.609931451Z",
+  "verse": 8,
+  "ref": "isaiah 23:8",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "کے اے مشورت صُورءِ سرءَ کت، تاج دِنوکا، آییءِ سوداگر شہزادگ اَنت، آییءِ کنعانی زمینءِ گران اَنت؟",
   "tokens": [
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יָעַץ",
+      "surface": "יעץ",
       "gloss": "مشورت کت"
     },
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "צֹר",
+      "surface": "צר",
       "gloss": "صُورءِ سرءَ"
     },
     {
-      "surface": "הַמַּעֲטִירָה",
+      "surface": "המעטירה",
       "gloss": "تاج دِنوکا"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آییءِ"
     },
     {
-      "surface": "סֹחֲרֶיהָ",
+      "surface": "סחריה",
       "gloss": "سوداگر"
     },
     {
-      "surface": "שָׂרִים",
+      "surface": "שרים",
       "gloss": "شہزادگ"
     },
     {
-      "surface": "כִּנְעָנֶיהָ",
+      "surface": "כנעניה",
       "gloss": "کنعانی"
     },
     {
-      "surface": "נִכְבַּדֵּי",
+      "surface": "נכבדי",
       "gloss": "گران"
     },
     {
-      "surface": "אָרֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:15:19.609931451Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,103 +1,103 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "zechariah 7:12",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:57:42.828964060Z",
+  "verse": 12,
+  "ref": "zechariah 7:12",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ اِشانی دل اِشاں شمیر ءَ داتنت، نہ گوشگءَ پہ ⟨את⟩ تورا ءُ ⟨את⟩ گالان کہ یاہوہ سباؤت وتی رُوحاءَ گوں اولانی پیغمبرانی دستءَ شلیت — ءُ چہ یاہوہ سباؤتءَ یک گیش غضب بوت.",
   "tokens": [
     {
-      "surface": "וְלִבָּם",
+      "surface": "ולבם",
       "gloss": "ءُ اِشانی دل"
     },
     {
-      "surface": "שָׂמוּ",
+      "surface": "שמו",
       "gloss": "اِشاں … ءَ داتنت"
     },
     {
-      "surface": "שָׁמִיר",
+      "surface": "שמיר",
       "gloss": "شمیر"
     },
     {
-      "surface": "מִשְּׁמוֹעַ",
+      "surface": "משמוע",
       "gloss": "نہ گوشگءَ پہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تورا"
     },
     {
-      "surface": "הַתּוֹרָה",
+      "surface": "התורה",
       "gloss": "تورا"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گالان"
     },
     {
-      "surface": "הַדְּבָרִים",
+      "surface": "הדברים",
       "gloss": "گالان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "שָׁלַח",
+      "surface": "שלח",
       "gloss": "شلیت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "צְבָאוֹת",
+      "surface": "צבאות",
       "gloss": "سباؤت"
     },
     {
-      "surface": "בְּרוּחוֹ",
+      "surface": "ברוחו",
       "gloss": "وتی رُوحاءَ"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "گوں … دستءَ"
     },
     {
-      "surface": "הַנְּבִיאִים",
+      "surface": "הנביאים",
       "gloss": "پیغمبرانی"
     },
     {
-      "surface": "הָרִאשֹׁנִים",
+      "surface": "הראשנים",
       "gloss": "اولانی"
     },
     {
-      "surface": "וַיְהִי",
+      "surface": "ויהי",
       "gloss": "ءُ بوت"
     },
     {
-      "surface": "קֶצֶף",
+      "surface": "קצף",
       "gloss": "غضب"
     },
     {
-      "surface": "גָּדוֹל",
+      "surface": "גדול",
       "gloss": "گیش"
     },
     {
-      "surface": "מֵאֵת",
+      "surface": "מאת",
       "gloss": "چہ ⟨את⟩"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "צְבָאוֹת",
+      "surface": "צבאות",
       "gloss": "سباؤت"
     }
-  ],
-  "timestamp": "2026-09-25T20:57:42.828964060Z",
-  "model": "glm-5.3"
+  ]
 }

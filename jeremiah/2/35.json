@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "jeremiah 2:35",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:45:34.069080131Z",
+  "verse": 35,
+  "ref": "jeremiah 2:35",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ توءَ گوشیت: «من پاک اَں، اینت آییءِ زر چہ من پدا گشت۔» اے من ⟨את⟩ توءَ داوری کنین، پہ اے کہ توءَ گوَشت: «من گنہ نہ کت۔»",
   "tokens": [
     {
-      "surface": "וַתֹּֽאמְרִי֙",
+      "surface": "ותאמרי",
       "gloss": "ءُ توءَ گوشیت"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "נִקֵּ֔יתִי",
+      "surface": "נקיתי",
       "gloss": "من پاک اَں"
     },
     {
-      "surface": "אַ֛ךְ",
+      "surface": "אך",
       "gloss": "اینت"
     },
     {
-      "surface": "שָׁ֥ב",
+      "surface": "שב",
       "gloss": "پدا گشت"
     },
     {
-      "surface": "אַפּ֖וֹ",
+      "surface": "אפו",
       "gloss": "آییءِ زر"
     },
     {
-      "surface": "מִמֶּ֑נִּי",
+      "surface": "ממני",
       "gloss": "چہ من"
     },
     {
-      "surface": "הִנְנִי֙",
+      "surface": "הנני",
       "gloss": "اے"
     },
     {
-      "surface": "נִשְׁפָּ֣ט",
+      "surface": "נשפט",
       "gloss": "داوری کنین"
     },
     {
-      "surface": "אוֹתָ֔ךְ",
+      "surface": "אותך",
       "gloss": "⟨את⟩",
       "marks": "توءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "אָמְרֵ֖ךְ",
+      "surface": "אמרך",
       "gloss": "توءِ گوَشتگ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "חָטָֽאתִי",
+      "surface": "חטאתי",
       "gloss": "من گنہ کت"
     }
-  ],
-  "timestamp": "2026-09-25T17:45:34.069080131Z",
-  "model": "glm-5.3"
+  ]
 }

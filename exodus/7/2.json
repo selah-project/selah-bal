@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "exodus 7:2",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:03:25.551241387Z",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "تو گپ دیت ہمگ چہ مَں تُرءَ فرمان کنت، ءُ اہارون تُری بھرا پہ فرعونءَ گپ دیت، ءُ آ ⟨את⟩ اسرائیلیانی زہگانءَ چہ آییءِ زمینءَ رھانیت۔",
   "tokens": [
     {
-      "surface": "אַתָּ֣ה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "תְדַבֵּ֔ר",
+      "surface": "תדבר",
       "gloss": "گپ دیت"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہمگ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "چہ"
     },
     {
-      "surface": "אֲצַוֶּ֑ךָּ",
+      "surface": "אצוך",
       "gloss": "تُرءَ فرمان کنت"
     },
     {
-      "surface": "וְאַהֲרֹ֤ן",
+      "surface": "ואהרן",
       "gloss": "ءُ اہارون"
     },
     {
-      "surface": "אָחִ֨יךָ֙",
+      "surface": "אחיך",
       "gloss": "تُری بھرا"
     },
     {
-      "surface": "יְדַבֵּ֣ר",
+      "surface": "ידבר",
       "gloss": "گپ دیت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "פַּרְעֹ֔ה",
+      "surface": "פרעה",
       "gloss": "فرعونءَ"
     },
     {
-      "surface": "וְשִׁלַּ֥ח",
+      "surface": "ושלח",
       "gloss": "ءُ رھانیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اسرائیلیانی زہگانءَ"
     },
     {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "زہگانءِ"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "ישראל",
       "gloss": "اسرائیلیانی"
     },
     {
-      "surface": "מֵאַרְצֽוֹ",
+      "surface": "מארצו",
       "gloss": "چہ آییءِ زمینءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:03:25.551241387Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,51 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "2-samuel 3:11",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:43:03.480850749Z",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ باز نہ پتشت اَبنیرءَ ⟨את⟩ گال جواب دیت، چہ آییءِ ترسءَ ⟨את⟩ آییءَ۔",
   "tokens": [
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יָכֹ֣ל",
+      "surface": "יכל",
       "gloss": "پتشت"
     },
     {
-      "surface": "ע֔וֹד",
+      "surface": "עוד",
       "gloss": "باز"
     },
     {
-      "surface": "לְהָשִׁ֥יב",
+      "surface": "להשיב",
       "gloss": "جواب دیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَبنیرءَ"
     },
     {
-      "surface": "אַבְנֵ֖ר",
+      "surface": "אבנר",
       "gloss": "اَبنیر"
     },
     {
-      "surface": "דָּבָ֑ר",
+      "surface": "דבר",
       "gloss": "گال"
     },
     {
-      "surface": "מִיִּרְאָת֖וֹ",
+      "surface": "מיראתו",
       "gloss": "چہ آییءِ ترسءَ"
     },
     {
-      "surface": "אֹתֽוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ (اَبنیر)"
     }
-  ],
-  "timestamp": "2026-09-25T14:43:03.480850749Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "psalms 9:15",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:47:41.575497104Z",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "پرچا کہ من تہاریں وستیانی گوں بیت سیونءِ جنکی دروازگاں تہ شمار کنم، من تہاری نجاتءَ شاد بیت۔",
   "tokens": [
     {
-      "surface": "לְמַ֥עַן",
+      "surface": "למען",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֲסַפְּרָ֗ה",
+      "surface": "אספרה",
       "gloss": "من … شمار کنم"
     },
     {
-      "surface": "כָּֽל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "תְּהִלָּ֫תֶ֥יךָ",
+      "surface": "תהלתיך",
       "gloss": "تہاریں وستیانی"
     },
     {
-      "surface": "בְּשַֽׁעֲרֵ֥י",
+      "surface": "בשערי",
       "gloss": "دروازگاں تہ"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنکی"
     },
     {
-      "surface": "צִיּ֑וֹן",
+      "surface": "ציון",
       "gloss": "سیونءِ"
     },
     {
-      "surface": "אָ֝גִ֗ילָה",
+      "surface": "אגילה",
       "gloss": "من … شاد بیت"
     },
     {
-      "surface": "בְּיִשׁוּעָתֶֽךָ",
+      "surface": "בישועתך",
       "gloss": "تہاری نجاتءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:47:41.575497104Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "proverbs 19:12",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:14:02.710584134Z",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "گجگ چوش کہ شیرءِ، شاہءِ غضب اِنت؛ بلے آییءِ پسند چوش اِنت چوں شبنم گیاہءِ سرءَ۔",
   "tokens": [
     {
-      "surface": "נַהַם",
+      "surface": "נהם",
       "gloss": "گجگ"
     },
     {
-      "surface": "כַּכְּפִיר",
+      "surface": "ככפיר",
       "gloss": "چوش کہ شیرءِ"
     },
     {
-      "surface": "זַעַף",
+      "surface": "זעף",
       "gloss": "غضب"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "شاہءِ"
     },
     {
-      "surface": "וּכְטַל",
+      "surface": "וכטל",
       "gloss": "بلے چوش اِنت چوں شبنم"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "עֵשֶׂב",
+      "surface": "עשב",
       "gloss": "گیاہءِ"
     },
     {
-      "surface": "רְצוֹנוֹ",
+      "surface": "רצונו",
       "gloss": "آییءِ پسند"
     }
-  ],
-  "timestamp": "2026-09-25T20:14:02.710584134Z",
-  "model": "glm-5.3"
+  ]
 }

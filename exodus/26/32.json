@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "exodus 26:32",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:54:00.527156226Z",
+  "verse": 32,
+  "ref": "exodus 26:32",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ تو آیءَ ⟨את⟩ چار ستونیں شٹیمءِ دارءِ سرءَ داریں، زرءَ گپتگیں، آیانی کجھیال زرءِ اِنت، چار چاندیءِ بنیادءَ سرءَ۔",
   "tokens": [
     {
-      "surface": "וְנָתַתָּה",
+      "surface": "ונתתה",
       "gloss": "ءُ تو … داریں"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩",
       "marks": "آیءَ (پردہ)"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "אַרְבָּעָה",
+      "surface": "ארבעה",
       "gloss": "چار"
     },
     {
-      "surface": "עַמּוּדֵי",
+      "surface": "עמודי",
       "gloss": "ستونیں"
     },
     {
-      "surface": "שִׁטִּים",
+      "surface": "שטים",
       "gloss": "شٹیمءِ دار"
     },
     {
-      "surface": "מְצֻפִּים",
+      "surface": "מצפים",
       "gloss": "زرءَ گپتگیں"
     },
     {
-      "surface": "זָהָב",
+      "surface": "זהב",
       "gloss": "زر"
     },
     {
-      "surface": "וָוֵיהֶם",
+      "surface": "וויהם",
       "gloss": "آیانی کجھیال"
     },
     {
-      "surface": "זָהָב",
+      "surface": "זהב",
       "gloss": "زرءِ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "אַרְבָּעָה",
+      "surface": "ארבעה",
       "gloss": "چار"
     },
     {
-      "surface": "אַדְנֵי",
+      "surface": "אדני",
       "gloss": "بنیاد"
     },
     {
-      "surface": "כָּסֶף",
+      "surface": "כסף",
       "gloss": "چاندیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:54:00.527156226Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,129 +1,129 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "ezra 6:8",
   "book": "ezra",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:40:41.201414777Z",
+  "verse": 8,
+  "ref": "ezra 6:8",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ چہ منی یک حکم گپتگی اِنت پہ اے کہ اے گوں یہودیانی پیراں اِشاںءِ پہ کنیں — پہ اے ایلوہیمءِ بیتءِ جوڑ کتنے کہ اے اِنت — ءُ چہ شاہءِ مالءَ، چہ خراجءِ کہ روڈءِ اڈےءَ اِنت، بیں درنگءَ خرچ اِشاں مردمانءَ دیگ بیت، کہ کار نہ بند بیت۔",
   "tokens": [
     {
-      "surface": "וּמִנִּי",
+      "surface": "ומני",
       "gloss": "ءُ چہ منی"
     },
     {
-      "surface": "שִׂים",
+      "surface": "שים",
       "gloss": "گپتگ بوتگ"
     },
     {
-      "surface": "טְעֵם",
+      "surface": "טעם",
       "gloss": "یک حکم"
     },
     {
-      "surface": "לְמָא",
+      "surface": "למא",
       "gloss": "پہ اے کہ"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "תַעַבְדוּן",
+      "surface": "תעבדון",
       "gloss": "اے کنیں"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "שָׂבֵי",
+      "surface": "שבי",
       "gloss": "پیراں"
     },
     {
-      "surface": "יְהוּדָיֵא",
+      "surface": "יהודיא",
       "gloss": "یہودیانی"
     },
     {
-      "surface": "אִלֵּךְ",
+      "surface": "אלך",
       "gloss": "اِشاں"
     },
     {
-      "surface": "לְמִבְנֵא",
+      "surface": "למבנא",
       "gloss": "پہ جوڑ کتنے"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "بیت"
     },
     {
-      "surface": "אֱלָהָא",
+      "surface": "אלהא",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "דֵּךְ",
+      "surface": "דך",
       "gloss": "اے"
     },
     {
-      "surface": "וּמִנִּכְסֵי",
+      "surface": "ומנכסי",
       "gloss": "ءُ چہ مالءَ"
     },
     {
-      "surface": "מַלְכָּא",
+      "surface": "מלכא",
       "gloss": "شاہءِ"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "מִדַּת",
+      "surface": "מדת",
       "gloss": "خراجءِ"
     },
     {
-      "surface": "עֲבַר",
+      "surface": "עבר",
       "gloss": "اڈےءَ"
     },
     {
-      "surface": "נַהֲרָה",
+      "surface": "נהרה",
       "gloss": "روڈءِ"
     },
     {
-      "surface": "אָסְפַּרְנָא",
+      "surface": "אספרנא",
       "gloss": "بیں درنگءَ"
     },
     {
-      "surface": "נִפְקְתָא",
+      "surface": "נפקתא",
       "gloss": "خرچ"
     },
     {
-      "surface": "תֶּהֱוֵא",
+      "surface": "תהוא",
       "gloss": "دیگ بیت"
     },
     {
-      "surface": "מִתְיַהֲבָא",
+      "surface": "מתיהבא",
       "gloss": "دیگ بوتگی"
     },
     {
-      "surface": "לְגֻבְרַיָּא",
+      "surface": "לגבריא",
       "gloss": "مردمانءَ"
     },
     {
-      "surface": "אִלֵּךְ",
+      "surface": "אלך",
       "gloss": "اِشاں"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "לָא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "לְבַטָּלָא",
+      "surface": "לבטלא",
       "gloss": "بند بیت"
     }
-  ],
-  "timestamp": "2026-09-25T16:40:41.201414777Z",
-  "model": "glm-5.3"
+  ]
 }

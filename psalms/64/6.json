@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 64:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:43:35.349121213Z",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "tier": "glm-5.2",
   "chapter": 64,
   "translation": "اِشاں وتءَ یک شر گپءِ سرءَ محکم کننت، پناہءِ تہ جالانءِ بابتءَ گپ زننت؛ اِشاں گوَشتنت: کے آیاناں گندیت؟",
   "tokens": [
     {
-      "surface": "יְחַזְּקוּ",
+      "surface": "יחזקו",
       "gloss": "محکم کننت"
     },
     {
-      "surface": "לָמוֹ",
+      "surface": "למו",
       "gloss": "وتءَ"
     },
     {
-      "surface": "דָּבָר",
+      "surface": "דבר",
       "gloss": "گپ"
     },
     {
-      "surface": "רָע",
+      "surface": "רע",
       "gloss": "شر"
     },
     {
-      "surface": "יְסַפְּרוּ",
+      "surface": "יספרו",
       "gloss": "گپ زننت"
     },
     {
-      "surface": "לִטְמוֹן",
+      "surface": "לטמון",
       "gloss": "پناہءِ تہءَ"
     },
     {
-      "surface": "מוֹקְשִׁים",
+      "surface": "מוקשים",
       "gloss": "جالان"
     },
     {
-      "surface": "אָמְרוּ",
+      "surface": "אמרו",
       "gloss": "گوَشتنت"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יִרְאֶה",
+      "surface": "יראה",
       "gloss": "گندیت"
     },
     {
-      "surface": "לָמוֹ",
+      "surface": "למו",
       "gloss": "آیاناں"
     }
-  ],
-  "timestamp": "2026-09-25T20:43:35.349121213Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "numbers 28:9",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:15:19.671245127Z",
+  "verse": 9,
+  "ref": "numbers 28:9",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ شباتءِ روچءَ دو گوریچک، یک سالءَ، پوریں بےآیل، ءُ دو دہمی (ایفہءِ) سُوٹی آرد سوچگیں قربانیءِ پہ، تیلءَ گوں رچیتگ، ءُ آییءِ نوشانی پہ.",
   "tokens": [
     {
-      "surface": "וּבְיוֹם",
+      "surface": "וביום",
       "gloss": "ءُ … روچءَ"
     },
     {
-      "surface": "הַשַּׁבָּת",
+      "surface": "השבת",
       "gloss": "شباتءِ"
     },
     {
-      "surface": "שְׁנֵי",
+      "surface": "שני",
       "gloss": "دو"
     },
     {
-      "surface": "כְבָשִׂים",
+      "surface": "כבשים",
       "gloss": "گوریچک"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "…ءِ زہگ"
     },
     {
-      "surface": "שָׁנָה",
+      "surface": "שנה",
       "gloss": "یک سال"
     },
     {
-      "surface": "תְּמִימִם",
+      "surface": "תמימם",
       "gloss": "پوریں بےآیل"
     },
     {
-      "surface": "וּשְׁנֵי",
+      "surface": "ושני",
       "gloss": "ءُ دو"
     },
     {
-      "surface": "עֶשְׂרֹנִים",
+      "surface": "עשרנים",
       "gloss": "دہمی"
     },
     {
-      "surface": "סֹלֶת",
+      "surface": "סלת",
       "gloss": "سُوٹی آرد"
     },
     {
-      "surface": "מִנְחָה",
+      "surface": "מנחה",
       "gloss": "سوچگیں قربانی"
     },
     {
-      "surface": "בְּלוּלָה",
+      "surface": "בלולה",
       "gloss": "رچیتگ"
     },
     {
-      "surface": "בַּשֶּׁמֶן",
+      "surface": "בשמן",
       "gloss": "تیلءَ گوں"
     },
     {
-      "surface": "וְנִסְכּוֹ",
+      "surface": "ונסכו",
       "gloss": "ءُ آییءِ نوشانی"
     }
-  ],
-  "timestamp": "2026-09-25T21:15:19.671245127Z",
-  "model": "glm-5.3"
+  ]
 }

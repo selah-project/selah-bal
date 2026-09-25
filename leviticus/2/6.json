@@ -1,46 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "leviticus 2:6",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:21:28.978451490Z",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "⟨את⟩ آییءَ ٹکڑیں ٹکڑیں پٹیت، ءُ آییءِ سرا تیل ریت: آ مِنچها اِنت۔",
   "tokens": [
     {
-      "surface": "פָּת֤וֹת",
+      "surface": "פתות",
       "gloss": "پٹیت"
     },
     {
-      "surface": "אֹתָהּ֙",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "ٹکڑے (پٹیmania ٹکڑے)"
     },
     {
-      "surface": "פִּתִּ֔ים",
+      "surface": "פתים",
       "gloss": "ٹکڑیں ٹکڑیں"
     },
     {
-      "surface": "וְיָצַקְתָּ֥",
+      "surface": "ויצקת",
       "gloss": "ءُ ریت"
     },
     {
-      "surface": "עָלֶ֖יהָ",
+      "surface": "עליה",
       "gloss": "آییءِ سرا"
     },
     {
-      "surface": "שָׁ֑מֶן",
+      "surface": "שמן",
       "gloss": "تیل"
     },
     {
-      "surface": "מִנְחָ֖ה",
+      "surface": "מנחה",
       "gloss": "مِنچها"
     },
     {
-      "surface": "הִֽוא",
+      "surface": "הוא",
       "gloss": "اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:21:28.978451490Z",
-  "model": "glm-5.3"
+  ]
 }

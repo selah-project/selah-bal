@@ -1,18 +1,20 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "psalms 2:8",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:33:39.250366868Z",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "مچہ ماں بپرس ءُ ما قوماں تیءِ ورثت ءُ تیءِ اِشتیں زمینءِ کنڈالان آ دیم۔",
   "tokens": [
     {
-      "surface": "שְׁאַל",
+      "surface": "שאל",
       "gloss": "بپرس"
     },
     {
-      "surface": "מִמֶּנִּי",
+      "surface": "ממני",
       "gloss": "مچہ ماں"
     },
     {
@@ -39,7 +41,5 @@
       "surface": "ארץ",
       "gloss": "زمین"
     }
-  ],
-  "timestamp": "2026-09-25T20:33:39.250366868Z",
-  "model": "glm-5.3"
+  ]
 }

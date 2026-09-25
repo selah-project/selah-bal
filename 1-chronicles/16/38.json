@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
-  "ref": "1-chronicles 16:38",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:35:36.284353462Z",
+  "verse": 38,
+  "ref": "1-chronicles 16:38",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ اوبید-ادوم ءُ ایشانی براتان شصت ءُ ہشت؛ ءُ اوبید-ادوم زہگءِ یدوتون ءُ حسا پہ دربانان،",
   "tokens": [
     {
-      "surface": "וְעֹבֵ֥ד",
+      "surface": "ועבד",
       "gloss": "ءُ اوبید-ادوم"
     },
     {
-      "surface": "אֱדֹ֛ם",
+      "surface": "אדם",
       "gloss": "اوبید-ادوم"
     },
     {
-      "surface": "וַאֲחֵיהֶ֖ם",
+      "surface": "ואחיהם",
       "gloss": "ءُ ایشانی براتان"
     },
     {
-      "surface": "שִׁשִּׁ֣ים",
+      "surface": "ששים",
       "gloss": "شصت"
     },
     {
-      "surface": "וּשְׁמוֹנָ֑ה",
+      "surface": "ושמונה",
       "gloss": "ءُ ہشت"
     },
     {
-      "surface": "וְעֹבֵ֨ד",
+      "surface": "ועבד",
       "gloss": "ءُ اوبید-ادوم"
     },
     {
-      "surface": "אֱדֹ֧ם",
+      "surface": "אדם",
       "gloss": "اوبید-ادوم"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگءِ"
     },
     {
-      "surface": "יְדִית֛וּן",
+      "surface": "ידיתון",
       "gloss": "یدوتون"
     },
     {
-      "surface": "וְחֹסָ֖ה",
+      "surface": "וחסה",
       "gloss": "ءُ حسا"
     },
     {
-      "surface": "לְשֹׁעֲרִֽים",
+      "surface": "לשערים",
       "gloss": "پہ دربانان"
     }
-  ],
-  "timestamp": "2026-09-25T12:35:36.284353462Z",
-  "model": "glm-5.3"
+  ]
 }

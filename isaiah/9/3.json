@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "isaiah 9:3",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:38:13.194431571Z",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "کہ ⟨את⟩ جوءِ بار ءُ ⟨את⟩ شانءِ گوشتیں چوب، آییءَ گنوں ؤکیں عصا — آییءَ شکست کتگ اِنت، چوش مِدیانءِ روچءِ چوں۔",
   "tokens": [
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "جوءِ بار"
     },
     {
-      "surface": "עֹ֣ל",
+      "surface": "על",
       "gloss": "جوءِ بار"
     },
     {
-      "surface": "סֻבֳּל֗וֹ",
+      "surface": "סבלו",
       "gloss": "آییءِ بار"
     },
     {
-      "surface": "וְאֵת֙",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گوشتیں چوب"
     },
     {
-      "surface": "מַטֵּ֣ה",
+      "surface": "מטה",
       "gloss": "گوشتیں چوب"
     },
     {
-      "surface": "שִׁכְמ֔וֹ",
+      "surface": "שכמו",
       "gloss": "آییءِ شان"
     },
     {
-      "surface": "שֵׁ֖בֶט",
+      "surface": "שבט",
       "gloss": "عصا"
     },
     {
-      "surface": "הַנֹּגֵ֣שׂ",
+      "surface": "הנגש",
       "gloss": "گنوں ؤکیں"
     },
     {
-      "surface": "בּ֑וֹ",
+      "surface": "בו",
       "gloss": "آییءِ سرءَ"
     },
     {
-      "surface": "הַחִתֹּ֖תָ",
+      "surface": "החתת",
       "gloss": "شکست کتگ"
     },
     {
-      "surface": "כְּי֥וֹם",
+      "surface": "כיום",
       "gloss": "روچءِ چوں"
     },
     {
-      "surface": "מִדְיָֽן",
+      "surface": "מדין",
       "gloss": "مِدیان"
     }
-  ],
-  "timestamp": "2026-09-25T17:38:13.194431571Z",
-  "model": "glm-5.3"
+  ]
 }

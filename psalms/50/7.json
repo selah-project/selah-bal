@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "psalms 50:7",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:41:22.051630302Z",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "tier": "glm-5.2",
   "chapter": 50,
   "translation": "اے مُنءِ قوم، گوش کن ءُ من گپ کنیت؛ اے یِسرائل، ءُ من تئے گواہی دیت؛ من ایلوہیم اِنت، تئے ایلوہیم.",
   "tokens": [
     {
-      "surface": "שִׁמְעָה",
+      "surface": "שמעה",
       "gloss": "گوش کن"
     },
     {
-      "surface": "עַמִּי",
+      "surface": "עמי",
       "gloss": "مُنءِ قوم"
     },
     {
-      "surface": "וַאֲדַבֵּרָה",
+      "surface": "ואדברה",
       "gloss": "ءُ من گپ کنیت"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یِسرائل"
     },
     {
-      "surface": "וְאָעִידָה",
+      "surface": "ואעידה",
       "gloss": "ءُ من گواہی دیت"
     },
     {
-      "surface": "בָּךְ",
+      "surface": "בך",
       "gloss": "تئے"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "تئے ایلوہیم"
     },
     {
-      "surface": "אָנֹכִי",
+      "surface": "אנכי",
       "gloss": "من"
     }
-  ],
-  "timestamp": "2026-09-25T20:41:22.051630302Z",
-  "model": "glm-5.3"
+  ]
 }

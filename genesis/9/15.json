@@ -1,94 +1,94 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "genesis 9:15",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:07:13.616057684Z",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ من ءُ چہ ⟨את⟩ منی عہدءَ یاد کنم، آ کہ منی ءُ شماینی درمیان اِنت ءُ ہر یک جانمندیں نسمیءِ درمیان تہ ہر گوشتءَ — ءُ آپ ہچبر پدا طوفانءِ پہ نہ بنت پہ ہر گوشتءَ پروش دہنت۔",
   "tokens": [
     {
-      "surface": "וְזָכַרְתִּי",
+      "surface": "וזכרתי",
       "gloss": "ءُ من یاد کنم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منی عہدءَ"
     },
     {
-      "surface": "בְּרִיתִי",
+      "surface": "בריתי",
       "gloss": "منی عہدءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "בֵּינִי",
+      "surface": "ביני",
       "gloss": "منی درمیان"
     },
     {
-      "surface": "וּבֵינֵיכֶם",
+      "surface": "וביניכם",
       "gloss": "ءُ شماینی درمیان"
     },
     {
-      "surface": "וּבֵין",
+      "surface": "ובין",
       "gloss": "ءُ درمیان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر یک"
     },
     {
-      "surface": "נֶפֶשׁ",
+      "surface": "נפש",
       "gloss": "جانمندیں نسمیءِ"
     },
     {
-      "surface": "חַיָּה",
+      "surface": "חיה",
       "gloss": "زندگ"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "تہ ہر"
     },
     {
-      "surface": "בָּשָׂר",
+      "surface": "בשר",
       "gloss": "گوشتءَ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بنت"
     },
     {
-      "surface": "עוֹד",
+      "surface": "עוד",
       "gloss": "پدا ہچبر"
     },
     {
-      "surface": "הַמַּיִם",
+      "surface": "המים",
       "gloss": "آپ"
     },
     {
-      "surface": "לְמַבּוּל",
+      "surface": "למבול",
       "gloss": "طوفانءِ پہ"
     },
     {
-      "surface": "לְשַׁחֵת",
+      "surface": "לשחת",
       "gloss": "پہ پروش دہنت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "בָּשָׂר",
+      "surface": "בשר",
       "gloss": "گوشتءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:07:13.616057684Z",
-  "model": "glm-5.3"
+  ]
 }

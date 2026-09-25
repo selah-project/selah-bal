@@ -1,115 +1,115 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "deuteronomy 16:16",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:13:19.699664989Z",
+  "verse": 16,
+  "ref": "deuteronomy 16:16",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "سئے رند سالءَ تُئے ہر یک نر یاہوہ تُئے ایلوہیمءِ رُخءَ ⟨את⟩ آ جاگہءَ کہ آءُ چنیت، پیشائی بیت — بے خمیری نانءِ عیدءَ، ءُ ہپتگیانی عیدءَ، ءُ کپانی عیدءَ؛ ءُ یاہوہءِ رُخءَ ⟨את⟩ خالی پیشائی نہ بیت۔",
   "tokens": [
     {
-      "surface": "שָׁל֣וֹשׁ",
+      "surface": "שלוש",
       "gloss": "سئے"
     },
     {
-      "surface": "פְּעָמִ֣ים",
+      "surface": "פעמים",
       "gloss": "رند"
     },
     {
-      "surface": "בַּשָּׁנָ֡ה",
+      "surface": "בשנה",
       "gloss": "سالءَ"
     },
     {
-      "surface": "יֵרָאֶ֨ה",
+      "surface": "יראה",
       "gloss": "پیشائی بیت"
     },
     {
-      "surface": "כָל",
+      "surface": "כל",
       "gloss": "ہر یک"
     },
     {
-      "surface": "זְכוּרְךָ֜",
+      "surface": "זכורך",
       "gloss": "تُئے نر"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "رُخ"
     },
     {
-      "surface": "פְּנֵ֣י",
+      "surface": "פני",
       "gloss": "رُخ"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶ֗יךָ",
+      "surface": "אלהיך",
       "gloss": "تُئے ایلوہیم"
     },
     {
-      "surface": "בַּמָּקוֹם֙",
+      "surface": "במקום",
       "gloss": "جاگہءَ"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יִבְחָ֔ר",
+      "surface": "יבחר",
       "gloss": "چنیت"
     },
     {
-      "surface": "בְּחַ֧ג",
+      "surface": "בחג",
       "gloss": "عیدءَ"
     },
     {
-      "surface": "הַמַּצּ֛וֹת",
+      "surface": "המצות",
       "gloss": "بے خمیری نانءِ"
     },
     {
-      "surface": "וּבְחַ֥ג",
+      "surface": "ובחג",
       "gloss": "ءُ عیدءَ"
     },
     {
-      "surface": "הַשָּׁבֻע֖וֹת",
+      "surface": "השבעות",
       "gloss": "ہپتگیانی"
     },
     {
-      "surface": "וּבְחַ֣ג",
+      "surface": "ובחג",
       "gloss": "ءُ عیدءَ"
     },
     {
-      "surface": "הַסֻּכּ֑וֹת",
+      "surface": "הסכות",
       "gloss": "کپانی"
     },
     {
-      "surface": "וְלֹ֧א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יֵרָאֶ֛ה",
+      "surface": "יראה",
       "gloss": "پیشائی بیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "رُخ"
     },
     {
-      "surface": "פְּנֵ֥י",
+      "surface": "פני",
       "gloss": "رُخ"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "רֵיקָֽם",
+      "surface": "ריקם",
       "gloss": "خالی"
     }
-  ],
-  "timestamp": "2026-09-25T15:13:19.699664989Z",
-  "model": "glm-5.3"
+  ]
 }

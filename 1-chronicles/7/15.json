@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "1-chronicles 7:15",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:47:18.742440282Z",
+  "verse": 15,
+  "ref": "1-chronicles 7:15",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ ماکیر یک زال گپت چہ حُپیم ءُ چہ شُپیم؛ ءُ آییءِ خوشکی نام ماخاہ اِنت؛ ءُ دومےءِ نام تسلفحاد؛ ءُ تسلفحادءَ جنکیان بوتنت۔",
   "tokens": [
     {
-      "surface": "וּמָכִיר",
+      "surface": "ומכיר",
       "gloss": "ءُ ماکیر"
     },
     {
-      "surface": "לָקַח",
+      "surface": "לקח",
       "gloss": "گپت"
     },
     {
-      "surface": "אִשָּׁה",
+      "surface": "אשה",
       "gloss": "زال"
     },
     {
-      "surface": "לְחֻפִּים",
+      "surface": "לחפים",
       "gloss": "چہ حُپیم"
     },
     {
-      "surface": "וּלְשׁוּפִּים",
+      "surface": "ולשפים",
       "gloss": "ءُ چہ شُپیم"
     },
     {
-      "surface": "וְשֵׁם",
+      "surface": "ושם",
       "gloss": "ءُ نام"
     },
     {
-      "surface": "אֲחֹתוֹ",
+      "surface": "אחתו",
       "gloss": "آییءِ خوشک"
     },
     {
-      "surface": "מַעֲכָה",
+      "surface": "מעכה",
       "gloss": "ماخاہ"
     },
     {
-      "surface": "וְשֵׁם",
+      "surface": "ושם",
       "gloss": "ءُ نام"
     },
     {
-      "surface": "הַשֵּׁנִי",
+      "surface": "השני",
       "gloss": "دومے"
     },
     {
-      "surface": "צְלָפְחָד",
+      "surface": "צלפחד",
       "gloss": "تسلفحاد"
     },
     {
-      "surface": "וַתִּהְיֶינָה",
+      "surface": "ותהינה",
       "gloss": "ءُ بوتنت"
     },
     {
-      "surface": "לִצְלָפְחָד",
+      "surface": "לצלפחד",
       "gloss": "تسلفحادءَ"
     },
     {
-      "surface": "בָּנוֹת",
+      "surface": "בנות",
       "gloss": "جنکیان"
     }
-  ],
-  "timestamp": "2026-09-25T12:47:18.742440282Z",
-  "model": "glm-5.3"
+  ]
 }

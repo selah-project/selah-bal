@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "zechariah 8:20",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:56:17.857794064Z",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "اے گوَشت یاہوہ سباؤتءَ کہ هنگخت انت کہ قومان ءُ گیشتریں شہرانی رونک گآنت،",
   "tokens": [
@@ -24,7 +26,7 @@
       "gloss": "سباؤت"
     },
     {
-      "surface": "עוד",
+      "surface": "עד",
       "gloss": "هڠوت انت"
     },
     {
@@ -51,7 +53,5 @@
       "surface": "רבות",
       "gloss": "گیشتریں"
     }
-  ],
-  "timestamp": "2026-09-25T20:56:17.857794064Z",
-  "model": "glm-5.3"
+  ]
 }

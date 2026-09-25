@@ -1,91 +1,91 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "ezekiel 18:19",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:09:49.294941269Z",
+  "verse": 19,
+  "ref": "ezekiel 18:19",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ شما گوَشتێت: مدوءہ زہگ چچہءِ گنہ نہ چکیت؟ ءُ زہگ انصاف ءُ راستی کت، مئں ⟨את⟩ سب حکماں شمار کت ءُ ⟨את⟩ آیانءَ کت — آ زندگ بیت، البت زندگ بیت.",
   "tokens": [
     {
-      "surface": "וַאֲמַרְתֶּ֕ם",
+      "surface": "ואמרתם",
       "gloss": "ءُ شما گوَشتێت"
     },
     {
-      "surface": "מַדֻּ֛עַ",
+      "surface": "מדע",
       "gloss": "مدوءہ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "נָשָׂ֥א",
+      "surface": "נשא",
       "gloss": "چکیت"
     },
     {
-      "surface": "הַבֵּ֖ן",
+      "surface": "הבן",
       "gloss": "زہگ"
     },
     {
-      "surface": "בַּעֲוֺ֣ן",
+      "surface": "בעון",
       "gloss": "گنہءَ تہ"
     },
     {
-      "surface": "הָאָ֑ב",
+      "surface": "האב",
       "gloss": "چچہءِ"
     },
     {
-      "surface": "וְהַבֵּ֞ן",
+      "surface": "והבן",
       "gloss": "ءُ زہگ"
     },
     {
-      "surface": "מִשְׁפָּ֧ט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "וּצְדָקָ֣ה",
+      "surface": "וצדקה",
       "gloss": "ءُ راستی"
     },
     {
-      "surface": "עָשָׂ֗ה",
+      "surface": "עשה",
       "gloss": "کت"
     },
     {
-      "surface": "אֵ֣ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مئں سب حکماں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "سب"
     },
     {
-      "surface": "חֻקּוֹתַ֥י",
+      "surface": "חקותי",
       "gloss": "مئں حکمان"
     },
     {
-      "surface": "שָׁמַ֛ר",
+      "surface": "שמר",
       "gloss": "شمار کت"
     },
     {
-      "surface": "וַיַּעֲשֶׂ֥ה",
+      "surface": "ויעשה",
       "gloss": "ءُ کت"
     },
     {
-      "surface": "אֹתָ֖ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "حکمان"
     },
     {
-      "surface": "חָיֹ֥ה",
+      "surface": "חיה",
       "gloss": "زندگ بیت"
     },
     {
-      "surface": "יִחְיֶֽה",
+      "surface": "יחיה",
       "gloss": "البت زندگ بیت"
     }
-  ],
-  "timestamp": "2026-09-25T16:09:49.294941269Z",
-  "model": "glm-5.3"
+  ]
 }

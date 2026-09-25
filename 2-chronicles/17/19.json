@@ -1,62 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "2-chronicles 17:19",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:39:36.279851800Z",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "اے ⟨את⟩ بادشاہءَ پیش کرتگ اَنت، سوا آیانی چہ بادشاہ ہر چیزاں تہ مستریں شہراں تہ پوری یہوداہءَ جاہ دنت.",
   "tokens": [
     {
-      "surface": "אֵ֖לֶּה",
+      "surface": "אלה",
       "gloss": "اے"
     },
     {
-      "surface": "הַמְשָׁרְתִ֣ים",
+      "surface": "המשרתים",
       "gloss": "پیش کرتگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "بادشاہءَ"
     },
     {
-      "surface": "הַמֶּ֑לֶךְ",
+      "surface": "המלך",
       "gloss": "بادشاہءَ"
     },
     {
-      "surface": "מִלְּבַ֞ד",
+      "surface": "מלבד",
       "gloss": "سوا"
     },
     {
-      "surface": "אֲשֶׁר־",
+      "surface": "אשר",
       "gloss": "آیانی چہ"
     },
     {
-      "surface": "נָתַ֥ן",
+      "surface": "נתן",
       "gloss": "جاہ دنت"
     },
     {
-      "surface": "הַמֶּ֛לֶךְ",
+      "surface": "המלך",
       "gloss": "بادشاہ"
     },
     {
-      "surface": "בְּעָרֵ֥י",
+      "surface": "בערי",
       "gloss": "شہراں تہ"
     },
     {
-      "surface": "הַמִּבְצָ֖ר",
+      "surface": "המבצר",
       "gloss": "مستریں"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "پوری"
     },
     {
-      "surface": "יְהוּדָֽה",
+      "surface": "יהודה",
       "gloss": "یہوداہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:39:36.279851800Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "psalms 90:11",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:49:46.326916596Z",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "tier": "glm-5.2",
   "chapter": 90,
   "translation": "کَے زانت ⟨توں⟩ رشہءِ زور ءُ چوش توں ڈریں پہ ⟨توں⟩ کینہ؟",
   "tokens": [
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کَے"
     },
     {
-      "surface": "י֭וֹדֵעַ",
+      "surface": "יודע",
       "gloss": "زانت"
     },
     {
-      "surface": "עֹ֣ז",
+      "surface": "עז",
       "gloss": "زور"
     },
     {
-      "surface": "אַפֶּ֑ךָ",
+      "surface": "אפך",
       "gloss": "توں رشہ"
     },
     {
-      "surface": "וּ֝כְיִרְאָתְךָ֗",
+      "surface": "וכיראתך",
       "gloss": "ءُ چوش توں ڈریں پہ"
     },
     {
-      "surface": "עֶבְרָתֶֽךָ",
+      "surface": "עברתך",
       "gloss": "توں کینہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:49:46.326916596Z",
-  "model": "glm-5.3"
+  ]
 }

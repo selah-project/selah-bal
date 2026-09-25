@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "leviticus 23:21",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:22:03.897418717Z",
+  "verse": 21,
+  "ref": "leviticus 23:21",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "ءُ شمے اےدیں روچءِ خودءَ بانگ کنیت کہ پاکیں جمعائت تہ شمے بیت؛ ہر کارءِ خدمت نہ کنیت؛ یک قاعدہ پہ ہمیشہ تہ ہر شمے وستیانءَ، شمے جوانانءَ۔",
   "tokens": [
     {
-      "surface": "וּקְרָאתֶם",
+      "surface": "וקראתם",
       "gloss": "ءُ بانگ کنیت"
     },
     {
-      "surface": "בְּעֶצֶם",
+      "surface": "בעצם",
       "gloss": "خودءَ"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "روچ"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اےدیں"
     },
     {
-      "surface": "מִקְרָא",
+      "surface": "מקרא",
       "gloss": "جمعائت"
     },
     {
-      "surface": "קֹדֶשׁ",
+      "surface": "קדש",
       "gloss": "پاکیں"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "تہ شمے"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "מְלֶאכֶת",
+      "surface": "מלאכת",
       "gloss": "کار"
     },
     {
-      "surface": "עֲבֹדָה",
+      "surface": "עבדה",
       "gloss": "خدمت"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תַּעֲשׂוּ",
+      "surface": "תעשו",
       "gloss": "کنیت"
     },
     {
-      "surface": "חֻקָּה",
+      "surface": "חקת",
       "gloss": "قاعدہ"
     },
     {
-      "surface": "עוֹלָם",
+      "surface": "עולם",
       "gloss": "پہ ہمیشہ"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "تہ ہر"
     },
     {
-      "surface": "מוֹשְׁבֹתֵיכֶם",
+      "surface": "מושבתיכם",
       "gloss": "شمے وستیان"
     },
     {
-      "surface": "לְדֹרֹתֵיכֶם",
+      "surface": "לדרתיכם",
       "gloss": "شمے جوانانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:22:03.897418717Z",
-  "model": "glm-5.3"
+  ]
 }

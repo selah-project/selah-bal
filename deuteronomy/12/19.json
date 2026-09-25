@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "deuteronomy 12:19",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:06:43.938520702Z",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "خودءَ محافظت کن کہ ہچبر ⟨את⟩ لویءَ نہ چھوڑیں، تمامءِ روچاں تُہاریءِ زمینءَ سرءَ۔",
   "tokens": [
     {
-      "surface": "הִשָּׁ֣מֶר",
+      "surface": "השמר",
       "gloss": "خودءَ محافظت کن"
     },
     {
-      "surface": "לְךָ֔",
+      "surface": "לך",
       "gloss": "پہ تُءِ (خودءَ)"
     },
     {
-      "surface": "פֶּֽן",
+      "surface": "פן",
       "gloss": "کہ ہچبر… نہ"
     },
     {
-      "surface": "תַּעֲזֹ֖ב",
+      "surface": "תעזב",
       "gloss": "چھوڑیں"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "لویءَ"
     },
     {
-      "surface": "הַלֵּוִ֑י",
+      "surface": "הלוי",
       "gloss": "لویءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمامءِ"
     },
     {
-      "surface": "יָמֶ֖יךָ",
+      "surface": "ימיך",
       "gloss": "روچاں تُہاری"
     },
     {
-      "surface": "עַ֖ל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "אַדְמָתֶֽךָ",
+      "surface": "אדמתך",
       "gloss": "زمینءِ تُہاری"
     }
-  ],
-  "timestamp": "2026-09-25T21:06:43.938520702Z",
-  "model": "glm-5.3"
+  ]
 }

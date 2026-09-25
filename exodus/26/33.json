@@ -1,95 +1,95 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "exodus 26:33",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:53:47.411909693Z",
+  "verse": 33,
+  "ref": "exodus 26:33",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ تو ⟨את⟩ پردہ نیزوانءِ تلءَ لگا کت، ءُ اُدا آورت — چہ پردہءِ تہ — ⟨את⟩ گواہیءِ صندوق، ءُ پردہ اے شم میان پاک جا ءُ میان پاکتیریں پاک جا جدائی کت.",
   "tokens": [
     {
-      "surface": "וְנָתַתָּה",
+      "surface": "ונתתה",
       "gloss": "ءُ تو لگا کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پردہ"
     },
     {
-      "surface": "הַפָּרֹכֶת",
+      "surface": "הפרכת",
       "gloss": "پردہ"
     },
     {
-      "surface": "תַּחַת",
+      "surface": "תחת",
       "gloss": "تلءَ"
     },
     {
-      "surface": "הַקְּרָסִים",
+      "surface": "הקרסים",
       "gloss": "نیزوانءِ"
     },
     {
-      "surface": "וְהֵבֵאתָ",
+      "surface": "והבאת",
       "gloss": "ءُ تو آورت"
     },
     {
-      "surface": "שָׁמָּה",
+      "surface": "שמה",
       "gloss": "اُدا"
     },
     {
-      "surface": "מִבֵּית",
+      "surface": "מבית",
       "gloss": "تہ"
     },
     {
-      "surface": "לַפָּרֹכֶת",
+      "surface": "לפרכת",
       "gloss": "پردہءِ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گواہیءِ صندوق"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "הָעֵדֻת",
+      "surface": "העדות",
       "gloss": "گواہیءِ"
     },
     {
-      "surface": "וְהִבְדִּילָה",
+      "surface": "והבדילה",
       "gloss": "ءُ جدائی کت"
     },
     {
-      "surface": "הַפָּרֹכֶת",
+      "surface": "הפרכת",
       "gloss": "پردہءَ"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "اے شم"
     },
     {
-      "surface": "בֵּין",
+      "surface": "בין",
       "gloss": "میان"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "پاک جا"
     },
     {
-      "surface": "וּבֵין",
+      "surface": "ובין",
       "gloss": "ءُ میان"
     },
     {
-      "surface": "קֹדֶשׁ",
+      "surface": "קדש",
       "gloss": "پاکتیریں پاک"
     },
     {
-      "surface": "הַקָּדָשִׁים",
+      "surface": "הקדשים",
       "gloss": "جا"
     }
-  ],
-  "timestamp": "2026-09-25T15:53:47.411909693Z",
-  "model": "glm-5.3"
+  ]
 }

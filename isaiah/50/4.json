@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "isaiah 50:4",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:31:24.227798493Z",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "tier": "glm-5.2",
   "chapter": 50,
   "translation": "ادونای یاہوہءَ مَنءَ سکوتگانی زبان دات، کہ زانم گوں گلوار ⟨את⟩ تھکیا ءُ ہمدم آییءَ سہار گریت؛ سویر گوں سویر آیءَ مَنءَ گوش گوڑ کت پہ گوش کنگ چوش سکوتگانءِ۔",
   "tokens": [
     {
-      "surface": "אֲדֹנָ֣י",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהֹוִ֗ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "נָ֤תַן",
+      "surface": "נתן",
       "gloss": "دات"
     },
     {
-      "surface": "לִי֙",
+      "surface": "לי",
       "gloss": "مَنءَ"
     },
     {
-      "surface": "לְשׁ֣וֹן",
+      "surface": "לשון",
       "gloss": "زبان"
     },
     {
-      "surface": "לִמּוּדִ֔ים",
+      "surface": "למודים",
       "gloss": "سکوتگانی"
     },
     {
-      "surface": "לָדַ֛עַת",
+      "surface": "לדעת",
       "gloss": "پہ زانگ"
     },
     {
-      "surface": "לָע֥וּת",
+      "surface": "לעות",
       "gloss": "پہ سہار گرگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تھکیا ءُ ہمدم"
     },
     {
-      "surface": "יָעֵ֖ף",
+      "surface": "יעף",
       "gloss": "تھکیا ءُ ہمدم"
     },
     {
-      "surface": "דָּבָ֑ר",
+      "surface": "דבר",
       "gloss": "گوں گلوار"
     },
     {
-      "surface": "יָעִ֣יר",
+      "surface": "יעיר",
       "gloss": "گوڑ کنت"
     },
     {
-      "surface": "בַּבֹּ֣קֶר",
+      "surface": "בבקר",
       "gloss": "سویرءَ"
     },
     {
-      "surface": "בַּבֹּ֗קֶר",
+      "surface": "בבקר",
       "gloss": "گوں سویر"
     },
     {
-      "surface": "יָעִ֥יר",
+      "surface": "יעיר",
       "gloss": "گوڑ کنت"
     },
     {
-      "surface": "לִי֙",
+      "surface": "לי",
       "gloss": "مَنءَ"
     },
     {
-      "surface": "אֹ֔זֶן",
+      "surface": "אזן",
       "gloss": "گوش"
     },
     {
-      "surface": "לִשְׁמֹ֖עַ",
+      "surface": "לשמע",
       "gloss": "پہ گوش کنگ"
     },
     {
-      "surface": "כַּלִּמּוּדִֽים",
+      "surface": "כלמודים",
       "gloss": "چوش سکوتگانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:31:24.227798493Z",
-  "model": "glm-5.3"
+  ]
 }

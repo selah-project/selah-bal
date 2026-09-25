@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "psalms 85:13",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:47:59.273214224Z",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "tier": "glm-5.2",
   "chapter": 85,
   "translation": "بلی، یاہوہ نیکی دیت، ءُ زمین ئے‌ما وتی حاصل دیت.",
   "tokens": [
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "بلی هم"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "יִתֵּן",
+      "surface": "יתן",
       "gloss": "دیت"
     },
     {
-      "surface": "הַטּוֹב",
+      "surface": "הטוב",
       "gloss": "نیکی"
     },
     {
-      "surface": "וְאַרְצֵנוּ",
+      "surface": "וארצנו",
       "gloss": "ءُ زمین ئے‌ما"
     },
     {
-      "surface": "תִּתֵּן",
+      "surface": "תתן",
       "gloss": "دیت"
     },
     {
-      "surface": "יְבוּלָהּ",
+      "surface": "יבולה",
       "gloss": "وتی حاصل"
     }
-  ],
-  "timestamp": "2026-09-25T20:47:59.273214224Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "joshua 19:13",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:44:59.575776757Z",
+  "verse": 13,
+  "ref": "joshua 19:13",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ چز آ جاگہءَ گوزریت گوں رَوَندی پہ مزرقی — گت چفرءَ، ایت قاتسینءَ — ءُ رُچیت ریمون ہمیتوارءَ، ہنیعہءَ۔",
   "tokens": [
     {
-      "surface": "וּמִשָּׁם",
+      "surface": "ומשם",
       "gloss": "ءُ چز آ جاگہءَ"
     },
     {
-      "surface": "עָבַר",
+      "surface": "עבר",
       "gloss": "گوزریت"
     },
     {
-      "surface": "קָדְמָה",
+      "surface": "קדמה",
       "gloss": "گوں رَوَندی"
     },
     {
-      "surface": "מִזְרָחָה",
+      "surface": "מזרחה",
       "gloss": "پہ مزرقی"
     },
     {
-      "surface": "גִּתָּה",
+      "surface": "גתה",
       "gloss": "گت (چفر)"
     },
     {
-      "surface": "חֵפֶר",
+      "surface": "חפר",
       "gloss": "چفر"
     },
     {
-      "surface": "עִתָּה",
+      "surface": "עתה",
       "gloss": "ایت (قاتسین)"
     },
     {
-      "surface": "קָצִין",
+      "surface": "קצין",
       "gloss": "قاتسین"
     },
     {
-      "surface": "וְיָצָא",
+      "surface": "ויצא",
       "gloss": "ءُ رُچیت"
     },
     {
-      "surface": "רִמּוֹן",
+      "surface": "רמון",
       "gloss": "ریمون"
     },
     {
-      "surface": "הַמְּתֹאָר",
+      "surface": "המתאר",
       "gloss": "ہمیتوار"
     },
     {
-      "surface": "הַנֵּעָה",
+      "surface": "הנעה",
       "gloss": "ہنیعہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:44:59.575776757Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,14 +1,16 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "jeremiah 8:11",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:19:41.833336806Z",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ آیان ⟨את⟩ شکست جنکی چہ منی قومءَ ہلک شفایاب کت، آکہ گوشنت: سلامتی، سلامتی، ءُ سلامتی نیست۔",
   "tokens": [
     {
-      "surface": "וירפאו",
+      "surface": "וירפו",
       "gloss": "ءُ شفایاب کت"
     },
     {
@@ -56,7 +58,5 @@
       "surface": "שלום",
       "gloss": "سلامتی"
     }
-  ],
-  "timestamp": "2026-09-25T18:19:41.833336806Z",
-  "model": "glm-5.3"
+  ]
 }

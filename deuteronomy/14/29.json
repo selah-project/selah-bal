@@ -1,109 +1,109 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "deuteronomy 14:29",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:09:57.088096855Z",
+  "verse": 29,
+  "ref": "deuteronomy 14:29",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ لویءَ روگ کہ آییءَ گوں توءَ نہ رنگ اِنت ءُ نہ ورثت، ءُ مہمان ءُ یتیم ءُ بیوہ کہ تیڑاں دروازانءَ اَنت، ءُ خورنت ءُ سیر بنت، تا کہ یاہوہ، تیڑاں ایلوہیم، تیڑاں دستءِ ہر کارءَ تہ کہ کنیں، تُہءَ برکت دیت.",
   "tokens": [
     {
-      "surface": "וּבָא",
+      "surface": "ובא",
       "gloss": "ءُ روگ"
     },
     {
-      "surface": "הַלֵּוִי",
+      "surface": "הלוי",
       "gloss": "لویءَ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֵין",
+      "surface": "אין",
       "gloss": "نہ … اِنت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "חֵלֶק",
+      "surface": "חלק",
       "gloss": "رنگ"
     },
     {
-      "surface": "וְנַחֲלָה",
+      "surface": "ונחלה",
       "gloss": "ءُ ورثت"
     },
     {
-      "surface": "עִמָּךְ",
+      "surface": "עמך",
       "gloss": "گوں توءَ"
     },
     {
-      "surface": "וְהַגֵּר",
+      "surface": "והגר",
       "gloss": "ءُ مہمان"
     },
     {
-      "surface": "וְהַיָּתוֹם",
+      "surface": "והיתום",
       "gloss": "ءُ یتیم"
     },
     {
-      "surface": "וְהָאַלְמָנָה",
+      "surface": "והאלמנה",
       "gloss": "ءُ بیوہ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בִּשְׁעָרֶיךָ",
+      "surface": "בשעריך",
       "gloss": "تیڑاں دروازانءَ"
     },
     {
-      "surface": "וְאָכְלוּ",
+      "surface": "ואכלו",
       "gloss": "ءُ خورنت"
     },
     {
-      "surface": "וְשָׂבֵעוּ",
+      "surface": "ושבעו",
       "gloss": "ءُ سیر بنت"
     },
     {
-      "surface": "לְמַעַן",
+      "surface": "למען",
       "gloss": "تا کہ"
     },
     {
-      "surface": "יְבָרֶכְךָ",
+      "surface": "יברכך",
       "gloss": "تُہءَ برکت دیت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "تیڑاں ایلوہیم"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "تہ ہر"
     },
     {
-      "surface": "מַעֲשֵׂה",
+      "surface": "מעשה",
       "gloss": "کار"
     },
     {
-      "surface": "יָדְךָ",
+      "surface": "ידך",
       "gloss": "تیڑاں دستءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "תַּעֲשֶׂה",
+      "surface": "תעשה",
       "gloss": "کنیں"
     }
-  ],
-  "timestamp": "2026-09-25T15:09:57.088096855Z",
-  "model": "glm-5.3"
+  ]
 }

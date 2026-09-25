@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "leviticus 22:29",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:15:44.926956207Z",
+  "verse": 29,
+  "ref": "leviticus 22:29",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ چہ آیتءَ کہ شکرانی قربانی یاہوہءَ پہ کنیں، پہ اے کہ آییءَ پسند بیت، قربانی کنیں.",
   "tokens": [
     {
-      "surface": "וְכִֽי",
+      "surface": "וכי",
       "gloss": "ءُ چہ آیتءَ کہ"
     },
     {
-      "surface": "תִזְבְּח֥וּ",
+      "surface": "תזבחו",
       "gloss": "قربانی کنیں"
     },
     {
-      "surface": "זֶֽבַח",
+      "surface": "זבח",
       "gloss": "قربانی"
     },
     {
-      "surface": "תּוֹדָ֖ה",
+      "surface": "תודה",
       "gloss": "شکرانی"
     },
     {
-      "surface": "לַיהוָ֑ה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءَ پہ"
     },
     {
-      "surface": "לִֽרְצֹנְכֶ֖ם",
+      "surface": "לרצנכם",
       "gloss": "پہ اے کہ آییءَ پسند بیت"
     },
     {
-      "surface": "תִּזְבָּֽחוּ",
+      "surface": "תזבחו",
       "gloss": "قربانی کنیں"
     }
-  ],
-  "timestamp": "2026-09-25T21:15:44.926956207Z",
-  "model": "glm-5.3"
+  ]
 }

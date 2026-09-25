@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "1-chronicles 22:18",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:41:55.059617524Z",
+  "verse": 18,
+  "ref": "1-chronicles 22:18",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "مگر یاہوہ شماءِ ایلوہیم گوں شما نیست، ءُ آییءَ شماءَ چہ چار گنان آسودگ نہ دیتگ؟ پرچا کہ آ ⟨את⟩ زمینءِ نشتوکانءَ منی دستءَ دیتگ، ءُ زمین یاہوہءِ پیشءَ ءُ آییءِ قومیءِ پیشءَ رام بوتگ۔",
   "tokens": [
     {
-      "surface": "הֲלֹ֨א",
+      "surface": "הלא",
       "gloss": "مگر"
     },
     {
-      "surface": "יְהוָ֤ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹֽהֵיכֶם֙",
+      "surface": "אלהיכם",
       "gloss": "شماءِ ایلوہیم"
     },
     {
-      "surface": "עִמָּכֶ֔ם",
+      "surface": "עמכם",
       "gloss": "گوں شما"
     },
     {
-      "surface": "וְהֵנִ֥יחַ",
+      "surface": "והניח",
       "gloss": "ءُ آسودگ دیتگ"
     },
     {
-      "surface": "لָכֶ֖ם",
+      "surface": "לכם",
       "gloss": "شماءَ"
     },
     {
-      "surface": "מִסָּבִ֑יב",
+      "surface": "מסביב",
       "gloss": "چہ چار گنان"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "נָתַ֣ן",
+      "surface": "נתן",
       "gloss": "دیتگ"
     },
     {
-      "surface": "בְּיָדִ֗י",
+      "surface": "בידי",
       "gloss": "منی دستءَ"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زمینءِ نشتوکان"
     },
     {
-      "surface": "יֹשְׁבֵ֣י",
+      "surface": "ישבי",
       "gloss": "نشتوکان"
     },
     {
-      "surface": "הָאָ֔רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "וְנִכְבְּשָׁ֥ה",
+      "surface": "ונכבשה",
       "gloss": "ءُ رام بوتگ"
     },
     {
-      "surface": "הָאָ֛רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "לִפְנֵ֥י",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וְלִפְנֵ֥י",
+      "surface": "ולפני",
       "gloss": "ءُ پیشءَ"
     },
     {
-      "surface": "עַמּֽוֹ",
+      "surface": "עמו",
       "gloss": "آییءِ قوم"
     }
-  ],
-  "timestamp": "2026-09-25T12:41:55.059617524Z",
-  "model": "glm-5.3"
+  ]
 }

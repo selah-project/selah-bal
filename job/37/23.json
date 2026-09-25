@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "job 37:23",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:30:08.043030647Z",
+  "verse": 23,
+  "ref": "job 37:23",
+  "tier": "glm-5.2",
   "chapter": 37,
   "translation": "ایل شدّای — آئے نہ لبزیں؛ بلندیں زورءَ داریت، ءُ راستی ءُ گیش راستی ءَ — آ ظلم نہ کنت.",
   "tokens": [
     {
-      "surface": "שַׁדַּ֣י",
+      "surface": "שדי",
       "gloss": "ایل شدّای"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "מְ֭צָאנֻהוּ",
+      "surface": "מצאנהו",
       "gloss": "آئے نہ لبزیں"
     },
     {
-      "surface": "שַׂגִּיא",
+      "surface": "שגיא",
       "gloss": "بلندیں"
     },
     {
-      "surface": "כֹ֑חַ",
+      "surface": "כח",
       "gloss": "زورءَ"
     },
     {
-      "surface": "וּמִשְׁפָּ֥ט",
+      "surface": "ומשפט",
       "gloss": "ءُ راستی"
     },
     {
-      "surface": "וְרֹב",
+      "surface": "ורב",
       "gloss": "ءُ گوش"
     },
     {
-      "surface": "צְדָקָ֗ה",
+      "surface": "צדקה",
       "gloss": "راستی"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְעַנֶּֽה",
+      "surface": "יענה",
       "gloss": "ظلم نہ کنت"
     }
-  ],
-  "timestamp": "2026-09-25T18:30:08.043030647Z",
-  "model": "glm-5.3"
+  ]
 }

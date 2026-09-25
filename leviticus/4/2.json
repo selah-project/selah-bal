@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "leviticus 4:2",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:25:10.204253268Z",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "بنے اسرائیلیانی زہگانءَ گپ زیت کہ یک جان ⟨اگر⟩ بے خودیءَ چہ یاہوہءِ ساریں ہکمانءَ گنہ کنت، چہ آءِ کہ نہ کنتہ بنت، ءُ چہ اِشانی یکےءَ کنت:",
   "tokens": [
     {
-      "surface": "דַּבֵּר",
+      "surface": "דבר",
       "gloss": "گپ زیت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "...ءَ"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگ"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "کہ"
     },
     {
-      "surface": "נֶפֶשׁ",
+      "surface": "נפש",
       "gloss": "جان"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "⟨اگر⟩"
     },
     {
-      "surface": "תֶחֱטָא",
+      "surface": "תחטא",
       "gloss": "گنہ کنت"
     },
     {
-      "surface": "בִּשְׁגָגָה",
+      "surface": "בשגגה",
       "gloss": "بے خودیءَ"
     },
     {
-      "surface": "מִכֹּל",
+      "surface": "מכל",
       "gloss": "چہ ساریں"
     },
     {
-      "surface": "מִצְוֺת",
+      "surface": "מצות",
       "gloss": "ہکمانءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "چہ آءِ کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תֵעָשֶׂינָה",
+      "surface": "תעשינה",
       "gloss": "کنتہ بنت"
     },
     {
-      "surface": "וְעָשָׂה",
+      "surface": "ועשה",
       "gloss": "ءُ کنت"
     },
     {
-      "surface": "מֵאַחַת",
+      "surface": "מאחת",
       "gloss": "چہ یکےءَ"
     },
     {
-      "surface": "מֵהֵנָּה",
+      "surface": "מהנה",
       "gloss": "چہ اِشانی"
     }
-  ],
-  "timestamp": "2026-09-25T19:25:10.204253268Z",
-  "model": "glm-5.3"
+  ]
 }

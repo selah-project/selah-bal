@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "jeremiah 29:22",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:51:42.986790270Z",
+  "verse": 22,
+  "ref": "jeremiah 29:22",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ چہ اِشاں چہ یک لعنت گپت بیت پہ گشتیں گلوتی یہوداہ کہ بابلءَ اِنت، آ گوَنت: یاہوہ تئے چوش صدقیاہ ءُ چوش اخیاب بہ کت، اِشے کہ بابلءِ شاہ آیانءَ آتشءَ کلوں کت.",
   "tokens": [
     {
-      "surface": "וְלֻקַּח",
+      "surface": "ולקח",
       "gloss": "ءُ گپت بیت"
     },
     {
-      "surface": "מֵהֶם",
+      "surface": "מהם",
       "gloss": "چہ اِشاں"
     },
     {
-      "surface": "קְלָלָה",
+      "surface": "קללה",
       "gloss": "لعنت"
     },
     {
-      "surface": "לְכֹל",
+      "surface": "לכל",
       "gloss": "پہ گشتیں"
     },
     {
-      "surface": "גָּלוּת",
+      "surface": "גלות",
       "gloss": "گلوتی"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בְּבָבֶל",
+      "surface": "בבבל",
       "gloss": "بابلءَ"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "آ گوَنت"
     },
     {
-      "surface": "יְשִׂימְךָ",
+      "surface": "ישמך",
       "gloss": "تئے بہ کت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "כְּצִדְקִיָּהוּ",
+      "surface": "כצדקיהו",
       "gloss": "چوش صدقیاہ"
     },
     {
-      "surface": "וּכְאֶחָב",
+      "surface": "וכאחב",
       "gloss": "ءُ چوش اخیاب"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "اِشے کہ"
     },
     {
-      "surface": "קָלָם",
+      "surface": "קלם",
       "gloss": "کلوں کت"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "בָּבֶל",
+      "surface": "בבל",
       "gloss": "بابل"
     },
     {
-      "surface": "בָּאֵשׁ",
+      "surface": "באש",
       "gloss": "آتشءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:51:42.986790270Z",
-  "model": "glm-5.3"
+  ]
 }

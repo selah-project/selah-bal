@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "leviticus 7:7",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:29:02.130900632Z",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "چوش گناهءِ قربانی، اوش گُناهکارءِ قربانیءِ چوں — اِشاں پہ یک تورا اِنت؛ کاہن کہ آییءَ گوں پاک کنت، آ اِنت آییءِ پہ.",
   "tokens": [
     {
-      "surface": "כַּֽחַטָּאת",
+      "surface": "כחטאת",
       "gloss": "چوش گناهءِ قربانی"
     },
     {
-      "surface": "כָּֽאָשָׁם",
+      "surface": "כאשם",
       "gloss": "اوش گُناهکارءِ قربانیءِ چوں"
     },
     {
-      "surface": "תּוֹרָה",
+      "surface": "תורה",
       "gloss": "تورا"
     },
     {
-      "surface": "אַחַת",
+      "surface": "אחת",
       "gloss": "یک"
     },
     {
-      "surface": "לָהֶם",
+      "surface": "להם",
       "gloss": "اِشاں پہ"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יְכַפֶּר",
+      "surface": "יכפר",
       "gloss": "پاک کنت"
     },
     {
-      "surface": "בּוֹ",
+      "surface": "בו",
       "gloss": "آییءَ گوں"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءِ پہ"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:29:02.130900632Z",
-  "model": "glm-5.3"
+  ]
 }

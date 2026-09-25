@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "1-chronicles 5:22",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:45:11.412547267Z",
+  "verse": 22,
+  "ref": "1-chronicles 5:22",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "چیں کہ گیشتر زخمی کتنہ لگتنت، چیں کہ جنگ چہ ایلوہیم اِت؛ ءُ اِشاں آیانی جاگہءَ گورا کتنت ہجرتءَ۔",
   "tokens": [
@@ -20,7 +22,7 @@
       "gloss": "گیشتر"
     },
     {
-      "surface": "نפלו",
+      "surface": "נפלו",
       "gloss": "لگتنت"
     },
     {
@@ -51,7 +53,5 @@
       "surface": "הגלה",
       "gloss": "ہجرت"
     }
-  ],
-  "timestamp": "2026-09-25T12:45:11.412547267Z",
-  "model": "glm-5.3"
+  ]
 }

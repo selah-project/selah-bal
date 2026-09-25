@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "psalms 37:30",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:38:14.202356079Z",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "tier": "glm-5.2",
   "chapter": 37,
   "translation": "راستءِ زہگانی دَم چوش دگمگیت ءُ حکمت ہزاریت، ءُ ایشیءِ زبان انصاف گوَشت کنیت۔",
   "tokens": [
     {
-      "surface": "פִּֽי",
+      "surface": "פי",
       "gloss": "دَم"
     },
     {
-      "surface": "צַ֭דִּיק",
+      "surface": "צדיק",
       "gloss": "راست"
     },
     {
-      "surface": "יֶהְגֶּ֣ה",
+      "surface": "יהגה",
       "gloss": "دگمگیت ءُ ہزاریت"
     },
     {
-      "surface": "חָכְמָ֑ה",
+      "surface": "חכמה",
       "gloss": "حکمت"
     },
     {
-      "surface": "וּ֝לְשׁוֹנ֗וֹ",
+      "surface": "ולשונו",
       "gloss": "ءُ ایشیءِ زبان"
     },
     {
-      "surface": "תְּדַבֵּ֥ר",
+      "surface": "תדבר",
       "gloss": "گوَشت کنیت"
     },
     {
-      "surface": "מִשְׁפָּֽט",
+      "surface": "משפט",
       "gloss": "انصاف"
     }
-  ],
-  "timestamp": "2026-09-25T20:38:14.202356079Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "judges 1:20",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:56:29.045246640Z",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ اِشاں کالِبءَ ⟨את⟩ حِبرون دات، چوش کہ موشہ گوَشت، ءُ آیی چہ اُتا ⟨את⟩ سئے زہگانءِ عَناقءَ بے‌جاہ کت.",
   "tokens": [
     {
-      "surface": "וַיִּתְּנוּ",
+      "surface": "ויתנו",
       "gloss": "ءُ اِشاں دات"
     },
     {
-      "surface": "לְכָלֵב",
+      "surface": "לכלב",
       "gloss": "کالِبءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "حِبرون"
     },
     {
-      "surface": "חֶבְרוֹן",
+      "surface": "חברון",
       "gloss": "حِبرون"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "דִּבֶּר",
+      "surface": "דבר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "موشہ"
     },
     {
-      "surface": "וַיּוֹרֶשׁ",
+      "surface": "ויורש",
       "gloss": "ءُ آیی بے‌جاہ کت"
     },
     {
-      "surface": "מִשָּׁם",
+      "surface": "משם",
       "gloss": "چہ اُتا"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سئے زہگانءِ عَناقءَ"
     },
     {
-      "surface": "שְׁלֹשָׁה",
+      "surface": "שלשה",
       "gloss": "سئے"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگانءِ"
     },
     {
-      "surface": "הָעֲנָק",
+      "surface": "הענק",
       "gloss": "عَناق"
     }
-  ],
-  "timestamp": "2026-09-25T18:56:29.045246640Z",
-  "model": "glm-5.3"
+  ]
 }

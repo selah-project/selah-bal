@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "jeremiah 2:9",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:47:21.772108507Z",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "پس ہنے ءُ اِشماں گوں داوری کنیں، یاہوہءِ اِرا، ءُ گوں ⟨את⟩ اِشماںئیں زہگانی زہگاںءَ گوں داوری کنیں۔",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "پس"
     },
     {
-      "surface": "עוד",
+      "surface": "עד",
       "gloss": "ہنے ءُ"
     },
     {
@@ -49,7 +51,5 @@
       "surface": "אריב",
       "gloss": "داوری کنیں"
     }
-  ],
-  "timestamp": "2026-09-25T17:47:21.772108507Z",
-  "model": "glm-5.3"
+  ]
 }

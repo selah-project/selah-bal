@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "psalms 110:2",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:26:01.669129181Z",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "tier": "glm-5.2",
   "chapter": 110,
   "translation": "توئیں زوری سوت یاہوہ چہ زئونءَ لانٹ؛ تہ توئیں دشمنانی میانءَ حکومت بک.",
   "tokens": [
     {
-      "surface": "מַטֵּֽה",
+      "surface": "מטה",
       "gloss": "سوت"
     },
     {
-      "surface": "עֻזְּךָ֗",
+      "surface": "עזך",
       "gloss": "توئیں زور"
     },
     {
-      "surface": "יִשְׁלַ֣ח",
+      "surface": "ישלח",
       "gloss": "لانٹ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "מִצִּיּ֑וֹן",
+      "surface": "מציון",
       "gloss": "چہ زئونءَ"
     },
     {
-      "surface": "רְדֵ֗ה",
+      "surface": "רדה",
       "gloss": "حکومت بک"
     },
     {
-      "surface": "בְּקֶ֣רֶב",
+      "surface": "בקרב",
       "gloss": "تہ … میانءَ"
     },
     {
-      "surface": "אֹיְבֶֽיךָ",
+      "surface": "איביך",
       "gloss": "توئیں دشمنان"
     }
-  ],
-  "timestamp": "2026-09-25T20:26:01.669129181Z",
-  "model": "glm-5.3"
+  ]
 }

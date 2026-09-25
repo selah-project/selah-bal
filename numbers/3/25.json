@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "numbers 3:25",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:56:32.303632354Z",
+  "verse": 25,
+  "ref": "numbers 3:25",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ گیرشونءِ زہگانءِ نگرانی ملاقاتءِ گدانءَ اِنت: مِشکان ءُ گadan ⟨اے⟩ گadan، آییءِ ڈھکن، ءُ دروازہءِ پردہ ملاقاتءِ گadanءِ۔",
   "tokens": [
     {
-      "surface": "וּמִשְׁמֶרֶת",
+      "surface": "ומשמרת",
       "gloss": "ءُ نگرانی"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگانءِ"
     },
     {
-      "surface": "גֵרְשׁוֹן",
+      "surface": "גרשון",
       "gloss": "گیرشون ⟨گرشون⟩"
     },
     {
-      "surface": "בְּאֹהֶל",
+      "surface": "באהל",
       "gloss": "گadanءَ"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "הַמִּשְׁכָּן",
+      "surface": "המשכן",
       "gloss": "مِشکان"
     },
     {
-      "surface": "וְהָאֹהֶל",
+      "surface": "והאהל",
       "gloss": "ءُ گadan"
     },
     {
-      "surface": "מִכְסֵהוּ",
+      "surface": "מכסהו",
       "gloss": "آییءِ ڈھکن"
     },
     {
-      "surface": "וּמָסַךְ",
+      "surface": "ומסך",
       "gloss": "ءُ پردہ"
     },
     {
-      "surface": "פֶּתַח",
+      "surface": "פתח",
       "gloss": "دروازہءِ"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گadan"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:56:32.303632354Z",
-  "model": "glm-5.3"
+  ]
 }

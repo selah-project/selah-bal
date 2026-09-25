@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 116:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:25:13.043438362Z",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "tier": "glm-5.2",
   "chapter": 116,
   "translation": "یاہوہ سادہ مردمانءَ نگهب داریت؛ من کم بوتم ءُ منءَ نجات دَیت.",
   "tokens": [
     {
-      "surface": "שֹׁמֵ֣ר",
+      "surface": "שמר",
       "gloss": "نگهب داریت"
     },
     {
-      "surface": "פְּתָאיִ֣ם",
+      "surface": "פתאים",
       "gloss": "سادہ مردمانءَ"
     },
     {
-      "surface": "יְהֹוָ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "דַּ֝לּוֹתִ֗י",
+      "surface": "דלותי",
       "gloss": "من کم بوتم"
     },
     {
-      "surface": "וְלִ֣י",
+      "surface": "ולי",
       "gloss": "ءُ منءَ"
     },
     {
-      "surface": "יְהוֹשִֽׁיעַ",
+      "surface": "יהושיע",
       "gloss": "نجات دَیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:25:13.043438362Z",
-  "model": "glm-5.3"
+  ]
 }

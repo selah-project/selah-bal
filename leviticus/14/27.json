@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "leviticus 14:27",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:19:44.468337210Z",
+  "verse": 27,
+  "ref": "leviticus 14:27",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ کاہن ءُ آییءِ راستیں انگشتءَ چہ روغنءَ کہ آییءِ چپیں ہتھءِ تاکیءَ اِنت، ہپت وہد یاہوہءِ اگاہءَ پچ کیت.",
   "tokens": [
     {
-      "surface": "וְהִזָּה",
+      "surface": "והזה",
       "gloss": "ءُ پچ کیت"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "בְּאֶצְבָּעוֹ",
+      "surface": "באצבעו",
       "gloss": "آییءِ انگشتءَ"
     },
     {
-      "surface": "הַיְמָנִית",
+      "surface": "הימנית",
       "gloss": "راستیں"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַשֶּׁמֶן",
+      "surface": "השמן",
       "gloss": "روغن"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "כַּפּוֹ",
+      "surface": "כפו",
       "gloss": "آییءِ ہتھءِ تاکی"
     },
     {
-      "surface": "הַשְּׂמָאלִית",
+      "surface": "השמאלית",
       "gloss": "چپیں"
     },
     {
-      "surface": "שֶׁבַע",
+      "surface": "שבע",
       "gloss": "ہپت"
     },
     {
-      "surface": "פְּעָמִים",
+      "surface": "פעמים",
       "gloss": "وہد"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "اگاہءَ"
     },
     {
-      "surface": "יְהֹוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:19:44.468337210Z",
-  "model": "glm-5.3"
+  ]
 }

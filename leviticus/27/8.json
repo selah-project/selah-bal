@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "leviticus 27:8",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:25:41.037118809Z",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ اگر آ چہ تیریں اندازءَ کم‌دولت اِنت، آءَ کاہنءِ پیشءَ درا کیت ءُ کاہن ⟨את⟩ آءَ انداز کت؛ تہ گالءِ آ چیز کہ نذر کنوکءِ دست رسیت، کاہن آءَ انداز کنت.",
   "tokens": [
     {
-      "surface": "וְאִם",
+      "surface": "ואם",
       "gloss": "ءُ اگر"
     },
     {
-      "surface": "מָךְ",
+      "surface": "מך",
       "gloss": "کم‌دولت"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "מֵעֶרְכֶּךָ",
+      "surface": "מערכך",
       "gloss": "تیریں اندازءَ"
     },
     {
-      "surface": "וְהֶעֱמִידוֹ",
+      "surface": "והעמידו",
       "gloss": "آءَ درا کیت"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہنءِ"
     },
     {
-      "surface": "וְהֶעֱרִיךְ",
+      "surface": "והעריך",
       "gloss": "ءُ انداز کت"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آءَ",
       "marks": "کاہن"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "פִּי",
+      "surface": "פי",
       "gloss": "گالءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ چیز کہ"
     },
     {
-      "surface": "תַּשִּׂיג",
+      "surface": "תשיג",
       "gloss": "رسیت"
     },
     {
-      "surface": "יָד",
+      "surface": "יד",
       "gloss": "دست"
     },
     {
-      "surface": "הַנֹּדֵר",
+      "surface": "הנדר",
       "gloss": "نذر کنوکءِ"
     },
     {
-      "surface": "יַעֲרִיכֶנּוּ",
+      "surface": "יעריכנו",
       "gloss": "انداز کنت آءَ"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     }
-  ],
-  "timestamp": "2026-09-25T19:25:41.037118809Z",
-  "model": "glm-5.3"
+  ]
 }

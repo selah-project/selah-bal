@@ -1,84 +1,84 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "deuteronomy 5:11",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:31:39.783262934Z",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "یاہوہءِ نامءَ کہ تُءِ ایلوہیم اِنت، پہ بے کارگی نہ چنگیت — پرچا کہ یاہوہ آئے کہ آییءِ نامءَ پہ بے کارگی چنگیت، آییءَ پاک نہ کنت.",
   "tokens": [
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִשָּׂא",
+      "surface": "תשא",
       "gloss": "چنگیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "نام"
     },
     {
-      "surface": "שֵׁם",
+      "surface": "שם",
       "gloss": "نام"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "تُءِ ایلوہیم"
     },
     {
-      "surface": "לַשָּׁוְא",
+      "surface": "לשוא",
       "gloss": "پہ بے کارگی"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְנַקֶּה",
+      "surface": "ינקה",
       "gloss": "پاک نہ کنت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آئے کہ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آئے کہ"
     },
     {
-      "surface": "יִשָּׂא",
+      "surface": "ישא",
       "gloss": "چنگیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ نام"
     },
     {
-      "surface": "שְׁמוֹ",
+      "surface": "שמו",
       "gloss": "آییءِ نام"
     },
     {
-      "surface": "לַשָּׁוְא",
+      "surface": "לשוא",
       "gloss": "پہ بے کارگی"
     }
-  ],
-  "timestamp": "2026-09-25T15:31:39.783262934Z",
-  "model": "glm-5.3"
+  ]
 }

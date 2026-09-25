@@ -1,88 +1,88 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "ezekiel 32:29",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:21:08.587458606Z",
+  "verse": 29,
+  "ref": "ezekiel 32:29",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "اودا اَدُوم اِنت — آییءِ شاہان ءُ آییءِ گیشتر نیشامان، کہ گوں وتءِ زوراں دگ بوتنت گوں ⟨את⟩ تلوارءِ کسلیں؛ آ گوں ⟨את⟩ ختنا نکٹاں چپنت ءُ گوں ⟨את⟩ گودانءَ درکنوکیں۔",
   "tokens": [
     {
-      "surface": "שָׁ֣מָּה",
+      "surface": "שמה",
       "gloss": "اودا"
     },
     {
-      "surface": "אֱד֗וֹם",
+      "surface": "אדום",
       "gloss": "اَدُوم"
     },
     {
-      "surface": "מְלָכֶ֨יהָ֙",
+      "surface": "מלכיה",
       "gloss": "آییءِ شاہان"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ گیشتر"
     },
     {
-      "surface": "נְשִׂיאֶ֔יהָ",
+      "surface": "נשיאיה",
       "gloss": "آییءِ نیشامان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נִתְּנ֥וּ",
+      "surface": "נתנו",
       "gloss": "دگ بوتنت"
     },
     {
-      "surface": "בִגְבוּרָתָ֖ם",
+      "surface": "בגבורתם",
       "gloss": "گوں وتءِ زوراں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تلوارءِ کسلیں"
     },
     {
-      "surface": "חַלְלֵי",
+      "surface": "חללי",
       "gloss": "کسلیں"
     },
     {
-      "surface": "חָ֑רֶב",
+      "surface": "חרב",
       "gloss": "تلوار"
     },
     {
-      "surface": "הֵ֛מָּה",
+      "surface": "המה",
       "gloss": "آ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ختنا نکٹاں"
     },
     {
-      "surface": "עֲרֵלִ֥ים",
+      "surface": "ערלים",
       "gloss": "ختنا نکٹان"
     },
     {
-      "surface": "יִשְׁכָּ֖בוּ",
+      "surface": "ישכבו",
       "gloss": "چپنت"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گودانءَ درکنوکی"
     },
     {
-      "surface": "יֹ֥רְדֵי",
+      "surface": "ירדי",
       "gloss": "درکنوکی"
     },
     {
-      "surface": "בֽוֹר",
+      "surface": "בור",
       "gloss": "گودان"
     }
-  ],
-  "timestamp": "2026-09-25T16:21:08.587458606Z",
-  "model": "glm-5.3"
+  ]
 }

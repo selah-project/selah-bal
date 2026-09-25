@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "isaiah 32:1",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:20:22.048672625Z",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "گندیں! یک بادشاہ راستیءَ بادشاہی کنت، ءُ سردارن انصافءَ حکومت کننت.",
   "tokens": [
     {
-      "surface": "הֵן",
+      "surface": "הן",
       "gloss": "گندیں"
     },
     {
-      "surface": "לְצֶדֶק",
+      "surface": "לצדק",
       "gloss": "راستیءَ"
     },
     {
-      "surface": "יִמְלָךְ",
+      "surface": "ימלך",
       "gloss": "بادشاہی کنت"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "یک بادشاہ"
     },
     {
-      "surface": "וּלְשָׂרִים",
+      "surface": "ולשרים",
       "gloss": "ءُ سردارن"
     },
     {
-      "surface": "לְמִשְׁפָּט",
+      "surface": "למשפט",
       "gloss": "انصافءَ"
     },
     {
-      "surface": "יָשֹׂרוּ",
+      "surface": "ישרו",
       "gloss": "حکومت کننت"
     }
-  ],
-  "timestamp": "2026-09-25T17:20:22.048672625Z",
-  "model": "glm-5.3"
+  ]
 }

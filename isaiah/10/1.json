@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "isaiah 10:1",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:10:04.111049320Z",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "وائے اِشاں کہ بے‌راستیءِ حکمان جوڑ کننت ءُ ستمءِ فرمان نبسیتنت،",
   "tokens": [
     {
-      "surface": "ה֥וֹי",
+      "surface": "הוי",
       "gloss": "وائے"
     },
     {
-      "surface": "הַחֹֽקְקִ֖ים",
+      "surface": "החקקים",
       "gloss": "جوڑ کنوک (اِشاں کہ)"
     },
     {
-      "surface": "חִקְקֵי",
+      "surface": "חקקי",
       "gloss": "حکمان"
     },
     {
-      "surface": "אָ֑וֶן",
+      "surface": "און",
       "gloss": "بے‌رastiءِ"
     },
     {
-      "surface": "וּֽמְכַתְּבִ֥ים",
+      "surface": "ומכתבים",
       "gloss": "ءُ نبسیتوک"
     },
     {
-      "surface": "עָמָ֖ל",
+      "surface": "עמל",
       "gloss": "ستم (زحمت)"
     },
     {
-      "surface": "כִּתֵּֽבוּ",
+      "surface": "כתבו",
       "gloss": "نبسیتنت"
     }
-  ],
-  "timestamp": "2026-09-25T17:10:04.111049320Z",
-  "model": "glm-5.3"
+  ]
 }

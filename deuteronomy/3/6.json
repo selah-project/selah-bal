@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "deuteronomy 3:6",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:24:43.297872126Z",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ ما آیانءَ حرام کت، چوش کہ سیحونءَ، حشبونءِ شاہ، کار کتءَ ءُ ہر شہر، مرتانءَ، زنانءَ ءُ زہگانءَ ⟨את⟩ حرام کت",
   "tokens": [
     {
-      "surface": "וַנַּחֲרֵ֣ם",
+      "surface": "ונחרם",
       "gloss": "حرام کت"
     },
     {
-      "surface": "אוֹתָ֔ם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "آیانءَ (سیحونءِ شہران)"
     },
     {
-      "surface": "כַּאֲשֶׁ֣ר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "עָשִׂ֔ינוּ",
+      "surface": "עשינו",
       "gloss": "کار کتءَ"
     },
     {
-      "surface": "לְסִיחֹ֖ן",
+      "surface": "לסיחן",
       "gloss": "سیحونءَ"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "חֶשְׁבּ֑וֹן",
+      "surface": "חשבון",
       "gloss": "حشبونءِ"
     },
     {
-      "surface": "הַחֲרֵם֙",
+      "surface": "החרם",
       "gloss": "حرام کت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "עִ֣יר",
+      "surface": "עיר",
       "gloss": "شہر"
     },
     {
-      "surface": "מְתִ֔ם",
+      "surface": "מתם",
       "gloss": "مرتانءَ"
     },
     {
-      "surface": "הַנָּשִׁ֖ים",
+      "surface": "הנשים",
       "gloss": "زنانءَ"
     },
     {
-      "surface": "וְהַטָּֽף",
+      "surface": "והטף",
       "gloss": "ءُ زہگانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:24:43.297872126Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "genesis 2:16",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:45:23.920927340Z",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ یاہوہ ایلوہیم آ مردمءَ حکم کت کہ گوش: چہ گدانءِ ہر یک دارءَ بے شک بگوشیت؛",
   "tokens": [
@@ -12,46 +14,44 @@
       "gloss": "ءُ … حکم کت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "הָֽאָדָם",
+      "surface": "האדם",
       "gloss": "آ مردمءَ"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "کہ گوش"
     },
     {
-      "surface": "מִכֹּל",
+      "surface": "מכל",
       "gloss": "چہ ہر یک"
     },
     {
-      "surface": "עֵ֥ץ",
+      "surface": "עץ",
       "gloss": "دارءَ"
     },
     {
-      "surface": "הַגָּן",
+      "surface": "הגן",
       "gloss": "گدانءِ"
     },
     {
-      "surface": "אָכֹ֥ל",
+      "surface": "אכל",
       "gloss": "بگوشیت ⟨بے شک⟩"
     },
     {
-      "surface": "תֹּאכֵֽל",
+      "surface": "תאכל",
       "gloss": "بگوشیت"
     }
-  ],
-  "timestamp": "2026-09-25T16:45:23.920927340Z",
-  "model": "glm-5.3"
+  ]
 }

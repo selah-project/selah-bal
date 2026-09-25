@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "ecclesiastes 8:11",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:36:44.368744049Z",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "چہ آ کہ فیصلہ بدیں کارءِ سرءَ گوں تیزئی نہ کت بیت، اے پہ سبب آدمءِ زہگانی دل آیانی تہ چہ بدی کنگءَ پُر اِنت.",
   "tokens": [
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "چہ آ کہ"
     },
     {
-      "surface": "אֵין",
+      "surface": "אין",
       "gloss": "نہ"
     },
     {
-      "surface": "נַעֲשָׂה",
+      "surface": "נעשה",
       "gloss": "کت بیت"
     },
     {
-      "surface": "פִתְגָּם",
+      "surface": "פתגם",
       "gloss": "فیصلہ"
     },
     {
-      "surface": "מַעֲשֵׂה",
+      "surface": "מעשה",
       "gloss": "کار"
     },
     {
-      "surface": "הָרָעָה",
+      "surface": "הרעה",
       "gloss": "بدیں"
     },
     {
-      "surface": "מְהֵרָה",
+      "surface": "מהרה",
       "gloss": "گوں تیزئی"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "سبب"
     },
     {
-      "surface": "מָלֵא",
+      "surface": "מלא",
       "gloss": "پُر"
     },
     {
-      "surface": "לֵב",
+      "surface": "לב",
       "gloss": "دل"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "הָאָדָם",
+      "surface": "האדם",
       "gloss": "آدمءِ"
     },
     {
-      "surface": "בָּהֶם",
+      "surface": "בהם",
       "gloss": "آیانی تہ"
     },
     {
-      "surface": "לַעֲשׂוֹת",
+      "surface": "לעשות",
       "gloss": "چہ کنگءَ"
     },
     {
-      "surface": "רָע",
+      "surface": "רע",
       "gloss": "بدی"
     }
-  ],
-  "timestamp": "2026-09-25T15:36:44.368744049Z",
-  "model": "glm-5.3"
+  ]
 }

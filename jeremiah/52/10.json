@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "jeremiah 52:10",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:15:11.295879597Z",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "tier": "glm-5.2",
   "chapter": 52,
   "translation": "ءُ بابلءِ بادشاہءَ آییءِ چشمی پیشءَ ⟨את⟩ زیدقیاہءِ زہگان شہ کت، ءُ ھم یہوداہءِ گشترین سرداراں ⟨את⟩ ربلہءَ شہ کت.",
   "tokens": [
     {
-      "surface": "וַיִּשְׁחַ֧ט",
+      "surface": "וישחט",
       "gloss": "ءُ … شہ کت"
     },
     {
-      "surface": "מֶֽלֶךְ",
+      "surface": "מלך",
       "gloss": "بادشاہ"
     },
     {
-      "surface": "בָּבֶ֛ל",
+      "surface": "בבל",
       "gloss": "بابل"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زیدقیاہءِ زہگان"
     },
     {
-      "surface": "בְּנֵ֥י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "צִדְקִיָּ֖הוּ",
+      "surface": "צדקיהו",
       "gloss": "زیدقیاہ"
     },
     {
-      "surface": "לְעֵינָ֑יו",
+      "surface": "לעיניו",
       "gloss": "آییءِ چشمی پیشءَ"
     },
     {
-      "surface": "וְגַ֛ם",
+      "surface": "וגם",
       "gloss": "ءُ ھم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یہوداہءِ گشترین سرداراں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گشترین"
     },
     {
-      "surface": "שָׂרֵ֥י",
+      "surface": "שרי",
       "gloss": "سرداراں"
     },
     {
-      "surface": "יְהוּדָ֖ה",
+      "surface": "יהודה",
       "gloss": "یہوداہ"
     },
     {
-      "surface": "שָׁחַ֥ט",
+      "surface": "שחט",
       "gloss": "شہ کت"
     },
     {
-      "surface": "בְּרִבְלָֽתָה",
+      "surface": "ברבלתה",
       "gloss": "ربلہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:15:11.295879597Z",
-  "model": "glm-5.3"
+  ]
 }

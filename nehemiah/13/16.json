@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "nehemiah 13:16",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:14:56.659930330Z",
+  "verse": 16,
+  "ref": "nehemiah 13:16",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ صُورءِ مردم آءَ کیشتنت، ماہیگ ءُ ہرے جنسءَ اِشکنیت ءُ یہوداءِ زہگانءَ شباتءَ تہ ءُ جروشلمءَ تہ فروشیت۔",
   "tokens": [
     {
-      "surface": "וְהַצֹּרִים",
+      "surface": "והצרים",
       "gloss": "ءُ صُورءِ مردم"
     },
     {
-      "surface": "יָשְׁבוּ",
+      "surface": "ישבו",
       "gloss": "کیشتنت"
     },
     {
-      "surface": "בָּהּ",
+      "surface": "בה",
       "gloss": "آءَ"
     },
     {
-      "surface": "מְבִיאִים",
+      "surface": "מביאים",
       "gloss": "اِشکنیت"
     },
     {
-      "surface": "דָּאג",
+      "surface": "דאג",
       "gloss": "ماہیگ"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ ہرے"
     },
     {
-      "surface": "מֶכֶר",
+      "surface": "מכר",
       "gloss": "جنس"
     },
     {
-      "surface": "וּמֹכְרִים",
+      "surface": "ומכרים",
       "gloss": "ءُ فروشیت"
     },
     {
-      "surface": "בַּשַּׁבָּת",
+      "surface": "בשבת",
       "gloss": "شباتءَ تہ"
     },
     {
-      "surface": "לִבְנֵי",
+      "surface": "לבני",
       "gloss": "زہگانءَ"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہودا"
     },
     {
-      "surface": "וּבִירוּשָׁלָם",
+      "surface": "ובירושלם",
       "gloss": "ءُ جروشلمءَ تہ"
     }
-  ],
-  "timestamp": "2026-09-25T21:14:56.659930330Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "jeremiah 49:11",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:10:04.125724701Z",
+  "verse": 11,
+  "ref": "jeremiah 49:11",
+  "tier": "glm-5.2",
   "chapter": 49,
   "translation": "تُو یتیماں رہا کن — اِنہں من زندگ داریں — ءُ تُڑی بیوگانی منءَ سرا بھروسہ کنن.",
   "tokens": [
     {
-      "surface": "עָזְבָ֥ה",
+      "surface": "עזבה",
       "gloss": "رہا کن"
     },
     {
-      "surface": "יְתֹמֶ֖יךָ",
+      "surface": "יתמיך",
       "gloss": "تُو یتیماں"
     },
     {
-      "surface": "אֲנִ֣י",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "אֲחַיֶּ֑ה",
+      "surface": "אחיה",
       "gloss": "زندگ داریں"
     },
     {
-      "surface": "וְאַלְמְנֹתֶ֖יךָ",
+      "surface": "ואלמנתיך",
       "gloss": "ءُ تُڑی بیوگان"
     },
     {
-      "surface": "עָלַ֥י",
+      "surface": "עלי",
       "gloss": "منءَ سرا"
     },
     {
-      "surface": "תִּבְטָֽחוּ",
+      "surface": "תבטחו",
       "gloss": "بھروسہ کنن"
     }
-  ],
-  "timestamp": "2026-09-25T18:10:04.125724701Z",
-  "model": "glm-5.3"
+  ]
 }

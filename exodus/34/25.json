@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "exodus 34:25",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:00:38.892874720Z",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "چہ ترشءِ سرءَ تو منءِ زہفءِ خون نہ کٹی؛ ءُ زہفءِ حجءِ پسہءِ شام تہ صبحءَ نہ منیت.",
   "tokens": [
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִשְׁחַ֥ט",
+      "surface": "תשחט",
       "gloss": "کٹی"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "چہ … ءِ سرءَ"
     },
     {
-      "surface": "חָמֵ֖ץ",
+      "surface": "חמץ",
       "gloss": "ترش"
     },
     {
-      "surface": "דָּם",
+      "surface": "דם",
       "gloss": "خون"
     },
     {
-      "surface": "זִבְחִ֑י",
+      "surface": "זבחי",
       "gloss": "منءِ زہف"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יָלִ֣ין",
+      "surface": "ילין",
       "gloss": "منیت"
     },
     {
-      "surface": "לַבֹּ֔קֶר",
+      "surface": "לבקר",
       "gloss": "تہ صبحءَ"
     },
     {
-      "surface": "זֶ֖בַח",
+      "surface": "זבח",
       "gloss": "زہف"
     },
     {
-      "surface": "חַ֥ג",
+      "surface": "חג",
       "gloss": "حجءِ"
     },
     {
-      "surface": "הַפָּֽסַח",
+      "surface": "הפסח",
       "gloss": "پسہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T16:00:38.892874720Z",
-  "model": "glm-5.3"
+  ]
 }

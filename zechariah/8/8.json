@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "zechariah 8:8",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:58:40.026992443Z",
+  "verse": 8,
+  "ref": "zechariah 8:8",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ ما ⟨את⟩ آیانءَ شپت کنیں ءُ اِشاں یورشلمءِ میانءَ جاگرا بنت، ءُ اِشاں ماءِ پہ قوم بنت، ءُ ما اِشانی پہ ایلوہیم بیت، راستیءَ ءُ انصافءَ.",
   "tokens": [
     {
-      "surface": "וְהֵבֵאתִ֣י",
+      "surface": "והבאתי",
       "gloss": "ءُ ما شپت کنیں"
     },
     {
-      "surface": "אֹתָ֔ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "آیانءَ (موں جاگرا بنت)"
     },
     {
-      "surface": "וְשָׁכְנ֖וּ",
+      "surface": "ושכנו",
       "gloss": "ءُ جاگرا بنت"
     },
     {
-      "surface": "בְּת֣וֹךְ",
+      "surface": "בתוך",
       "gloss": "میانءَ"
     },
     {
-      "surface": "יְרוּשָׁלִָ֑ם",
+      "surface": "ירושלם",
       "gloss": "یورشلمءِ"
     },
     {
-      "surface": "וְהָי֣וּ",
+      "surface": "והיו",
       "gloss": "ءُ بنت"
     },
     {
-      "surface": "לִ֣י",
+      "surface": "לי",
       "gloss": "ماءِ پہ"
     },
     {
-      "surface": "לְעָ֗ם",
+      "surface": "לעם",
       "gloss": "قوم"
     },
     {
-      "surface": "וַֽאֲנִי֙",
+      "surface": "ואני",
       "gloss": "ءُ ما"
     },
     {
-      "surface": "אֶהְיֶ֤ה",
+      "surface": "אהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לָהֶם֙",
+      "surface": "להם",
       "gloss": "اِشانی پہ"
     },
     {
-      "surface": "לֵֽאלֹהִ֔ים",
+      "surface": "לאלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "בֶּאֱמֶ֖ת",
+      "surface": "באמת",
       "gloss": "راستیءَ"
     },
     {
-      "surface": "וּבִצְדָקָֽה",
+      "surface": "ובצדקה",
       "gloss": "ءُ انصافءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:58:40.026992443Z",
-  "model": "glm-5.3"
+  ]
 }

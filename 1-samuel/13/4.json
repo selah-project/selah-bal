@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "1-samuel 13:4",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:12:38.640227527Z",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ سراسری یسرائیل گوشیت کہ شاؤلءَ فلستانیانی پہرےءَ ⟨את⟩ مار کت، ءُ یسرائیل تہ فلستانیانءَ بدبو بوت، ءُ مردم شاؤلءِ پسءَ گلگلءَ بانگ کت.",
   "tokens": [
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ سراسری"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "שָׁמְע֣וּ",
+      "surface": "שמעו",
       "gloss": "گوشیت"
     },
     {
-      "surface": "לֵאמֹ֗ר",
+      "surface": "לאמר",
       "gloss": "کہ"
     },
     {
-      "surface": "הִכָּ֤ה",
+      "surface": "הכה",
       "gloss": "مار کت"
     },
     {
-      "surface": "שָׁאוּל",
+      "surface": "שאול",
       "gloss": "شاؤلءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پہرےءِ فلستانیان"
     },
     {
-      "surface": "נְצִ֣יב",
+      "surface": "נציב",
       "gloss": "پہرے"
     },
     {
-      "surface": "פְּלִשְׁתִּ֔ים",
+      "surface": "פלשתים",
       "gloss": "فلستانیانی"
     },
     {
-      "surface": "וְגַם",
+      "surface": "וגם",
       "gloss": "ءُ"
     },
     {
-      "surface": "נִבְאַשׁ",
+      "surface": "נבאש",
       "gloss": "بدبو بوت"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "בַּפְּלִשְׁתִּ֑ים",
+      "surface": "בפלשתים",
       "gloss": "تہ فلستانیانءَ"
     },
     {
-      "surface": "וַיִּצָּעֲק֥וּ",
+      "surface": "ויצעקו",
       "gloss": "ءُ بانگ کت"
     },
     {
-      "surface": "הָעָ֛ם",
+      "surface": "העם",
       "gloss": "مردم"
     },
     {
-      "surface": "אַחֲרֵ֥י",
+      "surface": "אחרי",
       "gloss": "پسءَ"
     },
     {
-      "surface": "שָׁא֖וּל",
+      "surface": "שאול",
       "gloss": "شاؤلءِ"
     },
     {
-      "surface": "הַגִּלְגָּֽל",
+      "surface": "הגלגל",
       "gloss": "گلگلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:12:38.640227527Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 54,
-  "ref": "leviticus 14:54",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:17:57.969508413Z",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "اے تورا اِنت پہ ہر نگہءِ چمڑیں روگی ءُ پہ ناتیک",
   "tokens": [
     {
-      "surface": "זֹ֖את",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "הַתּוֹרָ֑ה",
+      "surface": "התורה",
       "gloss": "تورا"
     },
     {
-      "surface": "לְכָל",
+      "surface": "לכל",
       "gloss": "پہ ہر"
     },
     {
-      "surface": "נֶ֥גַע",
+      "surface": "נגע",
       "gloss": "نگہءِ چمڑیں روگی"
     },
     {
-      "surface": "הַצָּרַ֖עַת",
+      "surface": "הצרעת",
       "gloss": "بیماریءِ ءُ"
     },
     {
-      "surface": "וְלַנָּֽתֶק",
+      "surface": "ולנתק",
       "gloss": "ءُ پہ ناتیک"
     }
-  ],
-  "timestamp": "2026-09-25T19:17:57.969508413Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "deuteronomy 19:3",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:15:21.188776873Z",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "توءَ پہ وت رستہ تیار کن، ءُ ⟨את⟩ وتءِ ملکءِ سرحدءَ سئے جتاہ بکن، آیی کہ یاہوہ وتءِ ایلوہیم وتءَ آییءِ وارث کنت، ءُ آ اِنت کہ ہر یک قاتل اودا پناه گنت۔",
   "tokens": [
     {
-      "surface": "תָּכִ֣ין",
+      "surface": "תכין",
       "gloss": "تیار کن"
     },
     {
-      "surface": "לְךָ֮",
+      "surface": "לך",
       "gloss": "توءَ پہ وت"
     },
     {
-      "surface": "הַדֶּרֶךְ",
+      "surface": "הדרך",
       "gloss": "رستہ"
     },
     {
-      "surface": "וְשִׁלַּשְׁתָּ֙",
+      "surface": "ושלשת",
       "gloss": "ءُ سئے جتاہ بکن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتءِ ملکءِ سرحدءَ"
     },
     {
-      "surface": "גְּב֣וּל",
+      "surface": "גבול",
       "gloss": "سرحد"
     },
     {
-      "surface": "אַרְצְךָ֔",
+      "surface": "ארצך",
       "gloss": "وتءِ ملک"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "آیی کہ"
     },
     {
-      "surface": "יַנְחִֽילְךָ֖",
+      "surface": "ינחילך",
       "gloss": "وتءَ وارث کنت"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶ֑יךָ",
+      "surface": "אלהיך",
       "gloss": "وتءِ ایلوہیم"
     },
     {
-      "surface": "וְהָיָ֕ה",
+      "surface": "והיה",
       "gloss": "ءُ آ اِنت"
     },
     {
-      "surface": "לָנ֥וּס",
+      "surface": "לנוס",
       "gloss": "پناهءِ پہ"
     },
     {
-      "surface": "שָׁ֖מָּה",
+      "surface": "שמה",
       "gloss": "اودا"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر یک"
     },
     {
-      "surface": "רֹצֵֽחַ",
+      "surface": "רצח",
       "gloss": "قاتل"
     }
-  ],
-  "timestamp": "2026-09-25T15:15:21.188776873Z",
-  "model": "glm-5.3"
+  ]
 }

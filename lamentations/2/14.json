@@ -1,50 +1,52 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "lamentations 2:14",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:11:51.947778724Z",
+  "verse": 14,
+  "ref": "lamentations 2:14",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "تُہءِ پیغمبران تُہ پہ بے‌یاری ءُ ترش گشتیت، ءُ تُہءِ گناہان ءُ نه آشکار کت، پہ تُہءِ شپتءَ پدا گرگ؛ ءُ تُہ پہ بے‌یاریءِ باران ءُ لُٹانتے گوَشتیت۔",
   "tokens": [
     {
-      "surface": "נְבִיאַ֗יִךְ",
+      "surface": "נביאיך",
       "gloss": "تُہءِ پیغمبران"
     },
     {
-      "surface": "חָ֤זוּ",
+      "surface": "חזו",
       "gloss": "گشتیت"
     },
     {
-      "surface": "לָךְ֙",
+      "surface": "לך",
       "gloss": "تُہ پہ"
     },
     {
-      "surface": "שָׁ֣וְא",
+      "surface": "שוא",
       "gloss": "بے‌یاری"
     },
     {
-      "surface": "וְתָפֵ֔ל",
+      "surface": "ותפל",
       "gloss": "ءُ ترش"
     },
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نه"
     },
     {
-      "surface": "גִלּ֥וּ",
+      "surface": "גלו",
       "gloss": "آشکار کت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ … سرءَ"
     },
     {
-      "surface": "עֲוֺנֵ֖ךְ",
+      "surface": "עונך",
       "gloss": "تُہءِ گناہان"
     },
     {
-      "surface": "לְהָשִׁ֣יב",
+      "surface": "להשיב",
       "gloss": "پہ پدا گرگ"
     },
     {
@@ -52,26 +54,24 @@
       "gloss": "تُہءِ شپتءَ"
     },
     {
-      "surface": "וַיֶּ֣חֱזוּ",
+      "surface": "ויחזו",
       "gloss": "ءُ گشتیت"
     },
     {
-      "surface": "לָ֔ךְ",
+      "surface": "לך",
       "gloss": "تُہ پہ"
     },
     {
-      "surface": "מַשְׂא֥וֹת",
+      "surface": "משאות",
       "gloss": "باران"
     },
     {
-      "surface": "שָׁ֖וְא",
+      "surface": "שוא",
       "gloss": "بے‌یاریءِ"
     },
     {
-      "surface": "וּמַדּוּחִֽים",
+      "surface": "ומדוחים",
       "gloss": "ءُ لُٹانتے"
     }
-  ],
-  "timestamp": "2026-09-25T19:11:51.947778724Z",
-  "model": "glm-5.3"
+  ]
 }

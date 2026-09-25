@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "deuteronomy 32:4",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:27:59.878234363Z",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "آ صخرءِ کار پورا اِنت، پرچا کہ آییءِ ہمگ راہان انصاف اَنت؛ ایل پورا وفا اِنت ءُ بے راستی نیست؛ راست ءُ سدھ آ اِنت۔",
   "tokens": [
     {
-      "surface": "הַצּוּר",
+      "surface": "הצור",
       "gloss": "آ صخر"
     },
     {
-      "surface": "תָּמִים",
+      "surface": "תמים",
       "gloss": "پورا"
     },
     {
-      "surface": "פָּעֳלוֹ",
+      "surface": "פעלו",
       "gloss": "آییءِ کار"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "כָל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "דְּרָכָיו",
+      "surface": "דרכיו",
       "gloss": "آییءِ راہان"
     },
     {
-      "surface": "מִשְׁפָּט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "אֵל",
+      "surface": "אל",
       "gloss": "ایل"
     },
     {
-      "surface": "אֱמוּנָה",
+      "surface": "אמונה",
       "gloss": "وفا"
     },
     {
-      "surface": "וְאֵין",
+      "surface": "ואין",
       "gloss": "ءُ نیست"
     },
     {
-      "surface": "עָוֶל",
+      "surface": "עול",
       "gloss": "بے راستی"
     },
     {
-      "surface": "צַדִּיק",
+      "surface": "צדיק",
       "gloss": "راست"
     },
     {
-      "surface": "וְיָשָׁר",
+      "surface": "וישר",
       "gloss": "ءُ سدھ"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آ"
     }
-  ],
-  "timestamp": "2026-09-25T15:27:59.878234363Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "ezekiel 20:11",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:13:26.509073885Z",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "ءُ ما اِشاںءَ ⟨את⟩ میریں حکمان دات، ءُ ⟨את⟩ میریں انصافان اِشاںءَ پہ زانت کنت — آ کہ ⟨את⟩ آیان یک مردم کنیت، ⟨את⟩ آ زندگی کنیت.",
   "tokens": [
     {
-      "surface": "וָאֶתֵּן",
+      "surface": "ואתן",
       "gloss": "ءُ دات"
     },
     {
-      "surface": "לָהֶם",
+      "surface": "להם",
       "gloss": "اِشاںءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "میریں حکمان"
     },
     {
-      "surface": "חֻקֹּתַי",
+      "surface": "חקותי",
       "gloss": "میریں حکمان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "میریں انصافان"
     },
     {
-      "surface": "מִשְׁפָּטַי",
+      "surface": "משפטי",
       "gloss": "میریں انصافان"
     },
     {
-      "surface": "הוֹדַעְתִּי",
+      "surface": "הודעתי",
       "gloss": "پہ زانت کنت"
     },
     {
-      "surface": "אוֹתָם",
+      "surface": "אותם",
       "gloss": "⟨את⟩",
       "marks": "اِشاںءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יַעֲשֶׂה",
+      "surface": "יעשה",
       "gloss": "کنیت"
     },
     {
-      "surface": "אוֹתָם",
+      "surface": "אותם",
       "gloss": "⟨את⟩",
       "marks": "آیان"
     },
     {
-      "surface": "הָאָדָם",
+      "surface": "האדם",
       "gloss": "یک مردم"
     },
     {
-      "surface": "וָחַי",
+      "surface": "וחי",
       "gloss": "ءُ زندگی کنیت"
     },
     {
-      "surface": "בָּהֶם",
+      "surface": "בהם",
       "gloss": "گوں آیان"
     }
-  ],
-  "timestamp": "2026-09-25T16:13:26.509073885Z",
-  "model": "glm-5.3"
+  ]
 }

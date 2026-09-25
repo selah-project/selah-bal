@@ -1,94 +1,94 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "exodus 33:13",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:57:16.344219729Z",
+  "verse": 13,
+  "ref": "exodus 33:13",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ اِشا اگر منا چم تُہءِ چشمانءَ تہ بزنم، منا زان کن کہ ⟨את⟩ تُہءِ رہ، ءُ تُہءَ بزانم، پہ اے کہ چم تُہءِ چشمانءَ تہ بزنم؛ ءُ بزنر کہ اے قوم تُہءِ قوم اِنت.",
   "tokens": [
     {
-      "surface": "וְעַתָּ֡ה",
+      "surface": "ועתה",
       "gloss": "ءُ اِشا"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "اگر"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
       "gloss": "منا"
     },
     {
-      "surface": "מָצָאתִי",
+      "surface": "מצאתי",
       "gloss": "تہ بزنم"
     },
     {
-      "surface": "חֵן",
+      "surface": "חן",
       "gloss": "چم"
     },
     {
-      "surface": "בְּעֵינֶיךָ",
+      "surface": "בעיניך",
       "gloss": "تُہءِ چشمانءَ"
     },
     {
-      "surface": "הוֹדִעֵנִי",
+      "surface": "הודעני",
       "gloss": "منا زان کن"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
       "gloss": "کہ منا"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُہءِ رہ"
     },
     {
-      "surface": "דְּרָכֶךָ",
+      "surface": "דרכך",
       "gloss": "تُہءِ رہ"
     },
     {
-      "surface": "וְאֵדָעֲךָ",
+      "surface": "ואדעך",
       "gloss": "ءُ تُہءَ بزانم"
     },
     {
-      "surface": "לְמַעַן",
+      "surface": "למען",
       "gloss": "پہ اے کہ"
     },
     {
-      "surface": "אֶמְצָא",
+      "surface": "אמצא",
       "gloss": "تہ بزنم"
     },
     {
-      "surface": "חֵן",
+      "surface": "חן",
       "gloss": "چم"
     },
     {
-      "surface": "בְּעֵינֶיךָ",
+      "surface": "בעיניך",
       "gloss": "تُہءِ چشمانءَ"
     },
     {
-      "surface": "וּרְאֵה",
+      "surface": "וראה",
       "gloss": "ءُ بزنر"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "עַמְּךָ",
+      "surface": "עמך",
       "gloss": "تُہءِ قوم"
     },
     {
-      "surface": "הַגּוֹי",
+      "surface": "הגוי",
       "gloss": "قوم"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T15:57:16.344219729Z",
-  "model": "glm-5.3"
+  ]
 }

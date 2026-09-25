@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "2-chronicles 12:12",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:39:17.688330584Z",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "ءُ چون آییءَ نزا کت، یاہوہءِ غم چہ آییءَ پس شت، تا آییءَ پوریں چیر نہ کنت؛ ءُ یہوداہءَ تہ ہم گیشتار چیزان ہست اَتنت۔",
   "tokens": [
     {
-      "surface": "וּבְהִכָּֽנְע֗וֹ",
+      "surface": "ובהכנעו",
       "gloss": "ءُ چون آییءَ نزا کت"
     },
     {
-      "surface": "שָׁ֤ב",
+      "surface": "שב",
       "gloss": "پس شت"
     },
     {
-      "surface": "מִמֶּ֨נּוּ֙",
+      "surface": "ממנו",
       "gloss": "چہ آییءَ"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "غَم"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וְלֹ֥א",
+      "surface": "ולא",
       "gloss": "نہ"
     },
     {
-      "surface": "לְהַשְׁחִ֖ית",
+      "surface": "להשחית",
       "gloss": "چیر کنت"
     },
     {
-      "surface": "לְכָלָ֑ה",
+      "surface": "לכלה",
       "gloss": "پوریں"
     },
     {
-      "surface": "וְגַם֙",
+      "surface": "וגם",
       "gloss": "ءُ ہم"
     },
     {
-      "surface": "בִּֽיהוּדָ֔ה",
+      "surface": "ביהודה",
       "gloss": "یہوداہءَ تہ"
     },
     {
-      "surface": "הָיָ֖ה",
+      "surface": "היה",
       "gloss": "اَتنت"
     },
     {
-      "surface": "דְּבָרִ֥ים",
+      "surface": "דברים",
       "gloss": "چیزان"
     },
     {
-      "surface": "טוֹבִֽים",
+      "surface": "טובים",
       "gloss": "گیشتار"
     }
-  ],
-  "timestamp": "2026-09-25T13:39:17.688330584Z",
-  "model": "glm-5.3"
+  ]
 }

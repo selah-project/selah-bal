@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "joshua 19:28",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:45:07.101277719Z",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ عبرون ءُ رہوب ءُ حامون ءُکانہ، تا گیش زیدونءَ؛",
   "tokens": [
     {
-      "surface": "וְעֶבְרֹ֥ן",
+      "surface": "ועברן",
       "gloss": "ءُ عبرون"
     },
     {
-      "surface": "וּרְחֹ֖ב",
+      "surface": "ורחב",
       "gloss": "ءُ رہوب"
     },
     {
-      "surface": "וְחַמּ֣וֹן",
+      "surface": "וחמון",
       "gloss": "ءُ حامون"
     },
     {
-      "surface": "וְקָנָ֑ה",
+      "surface": "וקנה",
       "gloss": "ءُ کانہ"
     },
     {
-      "surface": "עַ֖ד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "צִיד֥וֹן",
+      "surface": "צידון",
       "gloss": "زیدون"
     },
     {
-      "surface": "רַבָּֽה",
+      "surface": "רבה",
       "gloss": "گیش"
     }
-  ],
-  "timestamp": "2026-09-25T18:45:07.101277719Z",
-  "model": "glm-5.3"
+  ]
 }

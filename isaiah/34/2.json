@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "isaiah 34:2",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:18:11.590715429Z",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "چو کہ یاہوہءِ غصہ گوں تمام قومانءَ اِنت ءُ پیشی گوں تمام اِشانی لشکر — آیانءَ حرام کت، آیانءَ پہ کشتار دات.",
   "tokens": [
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "چو کہ"
     },
     {
-      "surface": "קֶ֤צֶף",
+      "surface": "קצף",
       "gloss": "غصہ"
     },
     {
-      "surface": "לַֽיהוָה֙",
+      "surface": "ליהוה",
       "gloss": "پہ یاہوہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "گوں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "הַגּוֹיִ֔ם",
+      "surface": "הגוים",
       "gloss": "قومان"
     },
     {
-      "surface": "וְחֵמָ֖ה",
+      "surface": "וחמה",
       "gloss": "ءُ پیشی"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "گوں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "צְבָאָ֑ם",
+      "surface": "צבאם",
       "gloss": "اِشانی لشکر"
     },
     {
-      "surface": "הֶחֱרִימָ֖ם",
+      "surface": "החרימם",
       "gloss": "آیانءَ حرام کت"
     },
     {
-      "surface": "נְתָנָ֥ם",
+      "surface": "נתנם",
       "gloss": "آیانءَ دات"
     },
     {
-      "surface": "לַטָּֽבַח",
+      "surface": "לטבח",
       "gloss": "پہ کشتار"
     }
-  ],
-  "timestamp": "2026-09-25T17:18:11.590715429Z",
-  "model": "glm-5.3"
+  ]
 }

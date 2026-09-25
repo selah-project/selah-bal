@@ -1,89 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "jeremiah 5:1",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:12:18.741160195Z",
+  "verse": 1,
+  "ref": "jeremiah 5:1",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "یروشلمءِ کوچاںءَ شوت ءُ پیش گوَریت، ءُ ہن ؁ گندیت ءُ زانیت، ءُ آییءِ کشادگیں جاگاںءَ لبزیت، اگر یک مردے لبزیت، اگر ہست کہ انصافءِ کار کنت، وفاءِ لبزوک بیت — ءُ من آییءَ بخشم.",
   "tokens": [
     {
-      "surface": "שׁוֹטְט֞וּ",
+      "surface": "שוטטו",
       "gloss": "شوت ءُ پیش گوَریت"
     },
     {
-      "surface": "בְּחוּצ֣וֹת",
+      "surface": "בחוצות",
       "gloss": "کوچاںءَ تہ"
     },
     {
-      "surface": "יְרוּשָׁלִַ֗ם",
+      "surface": "ירושלם",
       "gloss": "یروشلمءِ"
     },
     {
-      "surface": "וּרְאוּ",
+      "surface": "וראו",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "נָ֤א",
+      "surface": "נא",
       "gloss": "ہن ؁"
     },
     {
-      "surface": "וּדְעוּ֙",
+      "surface": "ודעו",
       "gloss": "ءُ زانیت"
     },
     {
-      "surface": "וּבַקְשׁ֣וּ",
+      "surface": "ובקשו",
       "gloss": "ءُ لبزیت"
     },
     {
-      "surface": "בִרְחוֹבוֹתֶ֔יהָ",
+      "surface": "ברחובותיה",
       "gloss": "آییءِ کشادگیں جاگاںءَ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "اگر"
     },
     {
-      "surface": "תִּמְצְא֣וּ",
+      "surface": "תמצאו",
       "gloss": "لبزیت"
     },
     {
-      "surface": "אִ֔ישׁ",
+      "surface": "איש",
       "gloss": "مردے"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "اگر"
     },
     {
-      "surface": "יֵ֛שׁ",
+      "surface": "יש",
       "gloss": "ہست"
     },
     {
-      "surface": "עֹשֶׂ֥ה",
+      "surface": "עשה",
       "gloss": "کار کنت"
     },
     {
-      "surface": "מִשְׁפָּ֖ט",
+      "surface": "משפט",
       "gloss": "انصافءِ"
     },
     {
-      "surface": "מְבַקֵּ֣שׁ",
+      "surface": "מבקש",
       "gloss": "لبزوک"
     },
     {
-      "surface": "אֱמוּנָ֑ה",
+      "surface": "אמונה",
       "gloss": "وفا"
     },
     {
-      "surface": "וְאֶסְלַ֖ח",
+      "surface": "ואסלח",
       "gloss": "ءُ من بخشم"
     },
     {
-      "surface": "לָֽהּ",
+      "surface": "לה",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:12:18.741160195Z",
-  "model": "glm-5.3"
+  ]
 }

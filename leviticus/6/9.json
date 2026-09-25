@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "leviticus 6:9",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:30:11.714757917Z",
+  "verse": 9,
+  "ref": "leviticus 6:9",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ اے کہ چے آیاءَ چو بُوت، اہرون ءُ آییءِ زہگان ماچزءَ وان بنت، تہ پاک جاگہءَ، تہ ملاقاتءِ گانیءِ چواردمانَ آءَ وان بنت.",
   "tokens": [
     {
-      "surface": "וְהַנּוֹתֶ֣רֶת",
+      "surface": "והנותרת",
       "gloss": "ءُ اے کہ چے آیاءَ چو بوت"
     },
     {
-      "surface": "מִמֶּ֔נָּה",
+      "surface": "ממנה",
       "gloss": "آیاءَ چو"
     },
     {
-      "surface": "יֹאכְל֖וּ",
+      "surface": "יאכלו",
       "gloss": "وان بنت"
     },
     {
-      "surface": "אַהֲרֹ֣ן",
+      "surface": "אהרן",
       "gloss": "اہرون"
     },
     {
-      "surface": "וּבָנָ֑יו",
+      "surface": "ובניו",
       "gloss": "ءُ آییءِ زہگان"
     },
     {
-      "surface": "מַצּ֥וֹת",
+      "surface": "מצות",
       "gloss": "ماچز"
     },
     {
-      "surface": "תֵּֽאָכֵ֖ל",
+      "surface": "תאכל",
       "gloss": "وان بیت"
     },
     {
-      "surface": "בְּמָק֥וֹם",
+      "surface": "במקום",
       "gloss": "تہ جاگہءَ"
     },
     {
-      "surface": "קָדֹ֖שׁ",
+      "surface": "קדש",
       "gloss": "پاک"
     },
     {
-      "surface": "בְּחַצֵּ֥ר",
+      "surface": "בחצר",
       "gloss": "تہ چواردمانَ"
     },
     {
-      "surface": "אֹ֖הֶל",
+      "surface": "אהל",
       "gloss": "گانی"
     },
     {
-      "surface": "מוֹעֵֽד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     },
     {
-      "surface": "יֹאכְלֽוּהָ",
+      "surface": "יאכלוה",
       "gloss": "آءَ وان بنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:30:11.714757917Z",
-  "model": "glm-5.3"
+  ]
 }

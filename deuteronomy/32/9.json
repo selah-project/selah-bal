@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "deuteronomy 32:9",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:28:33.522874916Z",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "کی یاہوہءِ حصہ وتئے قوم اِنت، یاعقوب آییءِ میراثءِ رسی اِنت۔",
   "tokens": [
     {
-      "surface": "כִּ֛י",
+      "surface": "כי",
       "gloss": "کی"
     },
     {
-      "surface": "חֵ֥לֶק",
+      "surface": "חלק",
       "gloss": "حصہ"
     },
     {
-      "surface": "יְהֹוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "עַמּ֑וֹ",
+      "surface": "עמו",
       "gloss": "وتئے قوم"
     },
     {
-      "surface": "יַעֲקֹ֖ב",
+      "surface": "יעקב",
       "gloss": "یاعقوب"
     },
     {
-      "surface": "חֶ֥בֶל",
+      "surface": "חבל",
       "gloss": "رسی"
     },
     {
-      "surface": "נַחֲלָתֽוֹ",
+      "surface": "נחלתו",
       "gloss": "آییءِ میراثءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:28:33.522874916Z",
-  "model": "glm-5.3"
+  ]
 }

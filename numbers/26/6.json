@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "numbers 26:6",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:14:29.756570370Z",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "چہ حصرونءَ حصرونی ٹولی، چہ کرمیءَ کرمی ٹولی۔",
   "tokens": [
     {
-      "surface": "לְחֶצְרֹ֕ן",
+      "surface": "לחצרן",
       "gloss": "چہ حصرونءَ"
     },
     {
-      "surface": "מִשְׁפַּ֖חַת",
+      "surface": "משפחת",
       "gloss": "ٹولی"
     },
     {
-      "surface": "הַֽחֶצְרֹנִ֑י",
+      "surface": "החצרוני",
       "gloss": "حصرونی"
     },
     {
-      "surface": "לְכַרְמִ֕י",
+      "surface": "לכרמי",
       "gloss": "چہ کرمیءَ"
     },
     {
-      "surface": "מִשְׁפַּ֖חַת",
+      "surface": "משפחת",
       "gloss": "ٹولی"
     },
     {
-      "surface": "הַכַּרְמִֽי",
+      "surface": "הכרמי",
       "gloss": "کرمی"
     }
-  ],
-  "timestamp": "2026-09-25T21:14:29.756570370Z",
-  "model": "glm-5.3"
+  ]
 }

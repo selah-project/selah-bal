@@ -1,62 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 41,
-  "ref": "jeremiah 32:41",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:58:18.487023451Z",
+  "verse": 41,
+  "ref": "jeremiah 32:41",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "ءُ من آشپت کنتءَ آیانی سرا چہ آیانءَ چنگیں کار کنم، ءُ من ⟨את⟩ آیانءَ اے زمینءَ تہ راستیءَ گوں پورا دلءَ ءُ پورا جانءَ کنت.",
   "tokens": [
     {
-      "surface": "וְשַׂשְׂתִּ֥י",
+      "surface": "וששתי",
       "gloss": "ءُ آشپت کنتءَ"
     },
     {
-      "surface": "עֲלֵיהֶ֖ם",
+      "surface": "עליהם",
       "gloss": "آیانی سرا"
     },
     {
-      "surface": "לְהֵטִ֣יב",
+      "surface": "להטיב",
       "gloss": "چنگیں کار کنگءِ پہ"
     },
     {
-      "surface": "אוֹתָ֑ם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "آیانءَ کنت"
     },
     {
-      "surface": "וּנְטַעְתִּ֞ים",
+      "surface": "ונטעתים",
       "gloss": "ءُ آیانءَ کنت"
     },
     {
-      "surface": "בָּאָ֤רֶץ",
+      "surface": "בארץ",
       "gloss": "زمینءَ تہ"
     },
     {
-      "surface": "הַזֹּאת֙",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "בֶּאֱמֶ֔ת",
+      "surface": "באמת",
       "gloss": "راستیءَ گوں"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "گوں پورا"
     },
     {
-      "surface": "לִבִּ֖י",
+      "surface": "לבי",
       "gloss": "دلءَ"
     },
     {
-      "surface": "וּבְכָל",
+      "surface": "ובכל",
       "gloss": "ءُ گوں پورا"
     },
     {
-      "surface": "נַפְשִֽׁי",
+      "surface": "נפשי",
       "gloss": "جانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:58:18.487023451Z",
-  "model": "glm-5.3"
+  ]
 }

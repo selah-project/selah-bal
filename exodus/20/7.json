@@ -1,84 +1,84 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "exodus 20:7",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:50:38.590890306Z",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "تُو ⟨את⟩ یاہوہ تُئے ایلوہیمءِ ناں بے چم ءَ نہ اُچلی، پرچا کہ یاہوہ ⟨את⟩ آ کہ آییءِ ناں بے چم ءَ اُچلنت آییءَ پاک نہ کنت۔",
   "tokens": [
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִשָּׂא",
+      "surface": "תשא",
       "gloss": "اُچلی"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ تُئے ایلوہیمءِ ناں"
     },
     {
-      "surface": "שֵׁם",
+      "surface": "שם",
       "gloss": "ناں"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "تُئے ایلوہیم"
     },
     {
-      "surface": "לַשָּׁוְא",
+      "surface": "לשוא",
       "gloss": "بے چم ءَ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְנַקֶּה",
+      "surface": "ינקה",
       "gloss": "پاک نہ کنیت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آ کہ آییءِ ناں بے چم ءَ اُچلنت"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יִשָּׂא",
+      "surface": "ישא",
       "gloss": "اُچلنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ ناں"
     },
     {
-      "surface": "שְׁמוֹ",
+      "surface": "שמו",
       "gloss": "آییءِ ناں"
     },
     {
-      "surface": "לַשָּׁוְא",
+      "surface": "לשוא",
       "gloss": "بے چم ءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:50:38.590890306Z",
-  "model": "glm-5.3"
+  ]
 }

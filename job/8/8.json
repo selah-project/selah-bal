@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "job 8:8",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:34:16.768138287Z",
+  "verse": 8,
+  "ref": "job 8:8",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "چوک اولیں نسلءَ مہربانی کن ءُ پُچھ، ءُ اشانی پتانی پدا گرگءَ تیار بیت،",
   "tokens": [
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "چوک"
     },
     {
-      "surface": "שְׁאַל",
+      "surface": "שאל",
       "gloss": "پُچھ"
     },
     {
-      "surface": "נָ֭א",
+      "surface": "נא",
       "gloss": "مہربانی کن"
     },
     {
-      "surface": "לְדֹ֣ר",
+      "surface": "לדר",
       "gloss": "نسلءَ"
     },
     {
-      "surface": "רִישׁ֑וֹן",
+      "surface": "רישון",
       "gloss": "اولیں"
     },
     {
-      "surface": "וְ֝כוֹנֵ֗ן",
+      "surface": "וכונן",
       "gloss": "ءُ تیار بیت"
     },
     {
-      "surface": "לְחֵ֣קֶר",
+      "surface": "לחקר",
       "gloss": "پدا گرگءَ"
     },
     {
-      "surface": "אֲבוֹתָֽם",
+      "surface": "אבותם",
       "gloss": "اشانی پتانی"
     }
-  ],
-  "timestamp": "2026-09-25T18:34:16.768138287Z",
-  "model": "glm-5.3"
+  ]
 }

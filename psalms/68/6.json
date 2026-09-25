@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 68:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:43:55.098420688Z",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "tier": "glm-5.2",
   "chapter": 68,
   "translation": "یتیمانی پیو ءُ بی‌شوہیں زنانی دایی — ایلوہیم آییءِ مقدس بستگانءَ.",
   "tokens": [
     {
-      "surface": "אֲבִ֣י",
+      "surface": "אבי",
       "gloss": "پیو"
     },
     {
-      "surface": "יְ֭תוֹמִים",
+      "surface": "יתומים",
       "gloss": "یتیمانءِ"
     },
     {
-      "surface": "וְדַיַּ֣ן",
+      "surface": "ודין",
       "gloss": "ءُ دایی"
     },
     {
-      "surface": "אַלְמָנ֑וֹת",
+      "surface": "אלמנות",
       "gloss": "بی‌شوہیں زنانءِ"
     },
     {
-      "surface": "אֱ֝לֹהִ֗ים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "בִּמְע֥וֹן",
+      "surface": "במעון",
       "gloss": "بستگانءَ"
     },
     {
-      "surface": "קָדְשֽׁוֹ",
+      "surface": "קדשו",
       "gloss": "آییءِ مقدس"
     }
-  ],
-  "timestamp": "2026-09-25T20:43:55.098420688Z",
-  "model": "glm-5.3"
+  ]
 }

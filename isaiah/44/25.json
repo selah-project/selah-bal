@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "isaiah 44:25",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:25:17.964555948Z",
+  "verse": 25,
+  "ref": "isaiah 44:25",
+  "tier": "glm-5.2",
   "chapter": 44,
   "translation": "کہ دروگیں نشاناں پوشیت ءُ فال‌گوکاں دیوانہ کنیت، داناں پسا گرزاندیت ءُ ایشانی دانشءَ کودنہ کنیت۔",
   "tokens": [
     {
-      "surface": "מֵפֵר",
+      "surface": "מפר",
       "gloss": "پوشیت"
     },
     {
-      "surface": "אֹתֹת",
+      "surface": "אתות",
       "gloss": "نشاناں"
     },
     {
-      "surface": "בַּדִּים",
+      "surface": "בדים",
       "gloss": "دروگیں"
     },
     {
-      "surface": "וְקֹסְמִים",
+      "surface": "וקסמים",
       "gloss": "ءُ فال‌گوکاں"
     },
     {
-      "surface": "יְהוֹלֵל",
+      "surface": "יהולל",
       "gloss": "دیوانہ کنیت"
     },
     {
-      "surface": "מֵשִׁיב",
+      "surface": "משיב",
       "gloss": "پسا گرزاندیت"
     },
     {
-      "surface": "חֲכָמִים",
+      "surface": "חכמים",
       "gloss": "داناںءَ"
     },
     {
-      "surface": "אָחוֹר",
+      "surface": "אחור",
       "gloss": "پسا"
     },
     {
-      "surface": "וְדַעְתָּם",
+      "surface": "ודעתם",
       "gloss": "ءُ ایشانی دانشءَ"
     },
     {
-      "surface": "יְסַכֵּל",
+      "surface": "ישכל",
       "gloss": "کودنہ کنیت"
     }
-  ],
-  "timestamp": "2026-09-25T17:25:17.964555948Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,78 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "leviticus 4:30",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:26:07.829628719Z",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ کاہن آییءِ آپءَ چہ آییءِ انگُٹیءَ گرت ءُ سوچگیں قربانیءِ قربانگاہءِ شنگاناں سرءَ دیت، ءُ ⟨את⟩ آییءِ پوریں آپ قربانگاہءِ بنیاءَ تہ چیکت۔",
   "tokens": [
     {
-      "surface": "וְלָקַ֨ח",
+      "surface": "ולקח",
       "gloss": "ءُ گرت"
     },
     {
-      "surface": "הַכֹּהֵ֤ן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "מִדָּמָהּ֙",
+      "surface": "מדמה",
       "gloss": "آییءِ آپءَ چہ"
     },
     {
-      "surface": "בְּאֶצְבָּע֔וֹ",
+      "surface": "באצבעו",
       "gloss": "آییءِ انگُٹیءَ گوں"
     },
     {
-      "surface": "וְנָתַ֕ן",
+      "surface": "ונתן",
       "gloss": "ءُ دیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "קַרְנֹ֖ת",
+      "surface": "קרנת",
       "gloss": "شنگاناں"
     },
     {
-      "surface": "מִזְבַּ֣ח",
+      "surface": "מזבח",
       "gloss": "قربانگاہءِ"
     },
     {
-      "surface": "הָעֹלָ֑ה",
+      "surface": "העלה",
       "gloss": "سوچگیں قربانیءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پوریں آپ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "דָּמָ֣הּ",
+      "surface": "דמה",
       "gloss": "آییءِ آپ"
     },
     {
-      "surface": "יִשְׁפֹּ֔ךְ",
+      "surface": "ישפך",
       "gloss": "چیکت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "יְס֖וֹד",
+      "surface": "יסוד",
       "gloss": "بنیاءَ"
     },
     {
-      "surface": "הַמִּזְבֵּֽחַ",
+      "surface": "המזבח",
       "gloss": "قربانگاہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:26:07.829628719Z",
-  "model": "glm-5.3"
+  ]
 }

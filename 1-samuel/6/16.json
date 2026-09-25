@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "1-samuel 6:16",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:32:25.270349660Z",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ پلشتانی پنچ سرن گندیت ءُ آ روچءَ عکرونءَ پدا روتنت۔",
   "tokens": [
     {
-      "surface": "וַחֲמִשָּׁה",
+      "surface": "וחמשה",
       "gloss": "ءُ پنچ"
     },
     {
-      "surface": "סַרְנֵי",
+      "surface": "סרני",
       "gloss": "سرن"
     },
     {
-      "surface": "פְלִשְׁתִּים",
+      "surface": "פלשתים",
       "gloss": "پلشتانی"
     },
     {
-      "surface": "רָאוּ",
+      "surface": "ראו",
       "gloss": "گندیت"
     },
     {
-      "surface": "וַיָּשֻׁבוּ",
+      "surface": "וישבו",
       "gloss": "ءُ پدا روتنت"
     },
     {
-      "surface": "עֶקְרוֹן",
+      "surface": "עקרון",
       "gloss": "عکرونءَ"
     },
     {
-      "surface": "בַּיּוֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "הַהוּא",
+      "surface": "ההוא",
       "gloss": "آ"
     }
-  ],
-  "timestamp": "2026-09-25T13:32:25.270349660Z",
-  "model": "glm-5.3"
+  ]
 }

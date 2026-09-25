@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 44,
-  "ref": "psalms 105:44",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:24:02.796074326Z",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "tier": "glm-5.2",
   "chapter": 105,
   "translation": "ءُ ایشاںَ ئے دات چہ قومانءِ زمینان، ءُ قومانءِ محنتءَ ورثہ گنت",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "ءُ دات"
     },
     {
-      "surface": "لהם",
+      "surface": "להם",
       "gloss": "ایشاںَ ئے"
     },
     {
@@ -35,7 +37,5 @@
       "surface": "יירשו",
       "gloss": "ورثہ گنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:24:02.796074326Z",
-  "model": "glm-5.3"
+  ]
 }

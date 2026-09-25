@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "genesis 25:1",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:46:57.837094216Z",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ اَوراہامءَ پدا یک زن گپت، ءُ آییءِ نام قتورہ ⟨اِنت⟩.",
   "tokens": [
     {
-      "surface": "וַיֹּסֶף",
+      "surface": "ויסף",
       "gloss": "پدا"
     },
     {
-      "surface": "אַבְרָהָם",
+      "surface": "אברהם",
       "gloss": "اَوراہام"
     },
     {
-      "surface": "וַיִּקַּח",
+      "surface": "ויקח",
       "gloss": "ءُ گپت"
     },
     {
-      "surface": "אִשָּׁה",
+      "surface": "אשה",
       "gloss": "یک زن"
     },
     {
-      "surface": "וּשְׁמָהּ",
+      "surface": "ושמה",
       "gloss": "ءُ آییءِ نام"
     },
     {
-      "surface": "קְטוּרָה",
+      "surface": "קטורה",
       "gloss": "قتورہ"
     }
-  ],
-  "timestamp": "2026-09-25T16:46:57.837094216Z",
-  "model": "glm-5.3"
+  ]
 }

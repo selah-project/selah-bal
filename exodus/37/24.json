@@ -1,47 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "exodus 37:24",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:06:51.702371245Z",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "tier": "glm-5.2",
   "chapter": 37,
   "translation": "کِکَرے زرِ پاکءَ آییءَ ⟨את⟩ جوڑ کت ءُ ⟨את⟩ آییءِ پوریں برتنان.",
   "tokens": [
     {
-      "surface": "כִּכָּ֛ר",
+      "surface": "ככר",
       "gloss": "کِکَرے"
     },
     {
-      "surface": "זָהָ֥ב",
+      "surface": "זהב",
       "gloss": "زرِ"
     },
     {
-      "surface": "טָה֖וֹר",
+      "surface": "טהור",
       "gloss": "پاک"
     },
     {
-      "surface": "עָשָׂ֣ה",
+      "surface": "עשה",
       "gloss": "جوڑ کت"
     },
     {
-      "surface": "אֹתָ֑הּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "منورا — آییءَ"
     },
     {
-      "surface": "וְאֵ֖ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ پوریں برتنان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "כֵּלֶֽיהָ",
+      "surface": "כליה",
       "gloss": "برتنان"
     }
-  ],
-  "timestamp": "2026-09-25T21:06:51.702371245Z",
-  "model": "glm-5.3"
+  ]
 }

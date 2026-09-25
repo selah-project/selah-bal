@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "leviticus 27:19",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:25:23.793541259Z",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ ئے گوَن کہ زمیںءَ پاک کنوک پدا چیڑیت ⟨את⟩ زمیںءَ، ءُ ⟨את⟩ آءَ چہ آءِ چیڑیت، ءُ پنجم حصہ چہ زرءِ آءِ تھا شمار کتگ گوَں آءَ ءُ آءَ پہ آءِ بیت۔",
   "tokens": [
     {
-      "surface": "וְאִם",
+      "surface": "ואם",
       "gloss": "ءُ ئے گوَن کہ"
     },
     {
-      "surface": "גָּאֹל",
+      "surface": "גאל",
       "gloss": "چیڑیگ"
     },
     {
-      "surface": "יִגְאַל",
+      "surface": "יגאל",
       "gloss": "چیڑیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زمیںءَ"
     },
     {
-      "surface": "הַשָּׂדֶה",
+      "surface": "השדה",
       "gloss": "زمیںءَ"
     },
     {
-      "surface": "הַמַּקְדִּישׁ",
+      "surface": "המקדיש",
       "gloss": "پاک کنوک"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آءَ",
       "marks": "آءَ"
     },
     {
-      "surface": "וְיָסַף",
+      "surface": "ויסף",
       "gloss": "ءُ آءَ پیوند بیت"
     },
     {
-      "surface": "חֲמִשִׁית",
+      "surface": "חמשית",
       "gloss": "پنجم حصہ"
     },
     {
-      "surface": "כֶּסֶף",
+      "surface": "כסף",
       "gloss": "زر"
     },
     {
-      "surface": "עֶרְכְּךָ",
+      "surface": "ערכך",
       "gloss": "تّوئی شمار"
     },
     {
-      "surface": "עָלָיו",
+      "surface": "עליו",
       "gloss": "گوَں آءَ"
     },
     {
-      "surface": "וְקָם",
+      "surface": "וקם",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "پہ آءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:25:23.793541259Z",
-  "model": "glm-5.3"
+  ]
 }

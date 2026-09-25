@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "numbers 32:14",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:59:55.442719816Z",
+  "verse": 14,
+  "ref": "numbers 32:14",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "ءُ اے گوش — شمی گوں آیانی پِتّرانی جاگہءَ اُستیت، گنہگار مردمانی نسلءِ گیش کنوک، پہ اے کہ یاہوہءِ غضبءِ شرورءَ اگت پہ اسرائیل ءُ گیش کنیں۔",
   "tokens": [
     {
-      "surface": "וְהִנֵּה",
+      "surface": "והנה",
       "gloss": "ءُ اے گوش"
     },
     {
-      "surface": "קַמְתֶּם",
+      "surface": "קמתם",
       "gloss": "شمی اُستیت"
     },
     {
-      "surface": "תַּחַת",
+      "surface": "תחת",
       "gloss": "گوں … جاگہءَ"
     },
     {
-      "surface": "אֲבֹתֵיכֶם",
+      "surface": "אבתיכם",
       "gloss": "آیانی پِتّرانی"
     },
     {
-      "surface": "תַּרְבּוּת",
+      "surface": "תרבות",
       "gloss": "نسلءِ گیش کنوک"
     },
     {
-      "surface": "אֲנָשִׁים",
+      "surface": "אנשים",
       "gloss": "مردمانی"
     },
     {
-      "surface": "חַטָּאִים",
+      "surface": "חטאים",
       "gloss": "گنہگار"
     },
     {
-      "surface": "לִסְפּוֹת",
+      "surface": "לספות",
       "gloss": "پہ اے کہ … اگت"
     },
     {
-      "surface": "עוֹד",
+      "surface": "עוד",
       "gloss": "ءُ گیش کنیں"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "חֲרוֹן",
+      "surface": "חרון",
       "gloss": "شرورءِ"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "غضبءِ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     }
-  ],
-  "timestamp": "2026-09-25T19:59:55.442719816Z",
-  "model": "glm-5.3"
+  ]
 }

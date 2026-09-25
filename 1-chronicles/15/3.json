@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "1-chronicles 15:3",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:34:50.955187549Z",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ داودءَ ⟨את⟩ پوریں یسرائیل یروشلمءَ جم کت، پہ آیی کہ یاہوہءِ ⟨את⟩ صندوقءَ آییءِ جاگہءَ پہڈ بکنت، آ جاگہ کہ آییءَ پہ آییءَ تیار کتگ اِنت۔",
   "tokens": [
     {
-      "surface": "וַיַּקְהֵ֥ל",
+      "surface": "ויקהל",
       "gloss": "ءُ … جم کت"
     },
     {
-      "surface": "דָּוִ֛יד",
+      "surface": "דויד",
       "gloss": "داودءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوریں یسرائیل"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ"
     },
     {
-      "surface": "יְרֽוּשָׁלִָ֑ם",
+      "surface": "ירושלם",
       "gloss": "یروشلمءَ"
     },
     {
-      "surface": "לְהַעֲלוֹת֙",
+      "surface": "להעלות",
       "gloss": "پہ پہڈ بکنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءِ صندوقءَ"
     },
     {
-      "surface": "אֲר֣וֹן",
+      "surface": "ארון",
       "gloss": "صندوقءَ"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ"
     },
     {
-      "surface": "מְקוֹמ֖וֹ",
+      "surface": "מקומו",
       "gloss": "آییءِ جاگہءَ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "آ جاگہ کہ"
     },
     {
-      "surface": "הֵכִ֥ין",
+      "surface": "הכין",
       "gloss": "تیار کتگ"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "پہ آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T12:34:50.955187549Z",
-  "model": "glm-5.3"
+  ]
 }

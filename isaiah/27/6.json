@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "isaiah 27:6",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:14:37.534453061Z",
+  "verse": 6,
+  "ref": "isaiah 27:6",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "رندءَ آئوک یاکوب ریڑ گنت، اِسرائیل گُل کپیت ءُ پھول بیت، ءُ دنیاءِ دیم پیداوارءَ مال کنیت۔",
   "tokens": [
     {
-      "surface": "הַבָּאִים",
+      "surface": "הבאים",
       "gloss": "رندءَ آئوک"
     },
     {
-      "surface": "יַשְׁרֵשׁ",
+      "surface": "ישרש",
       "gloss": "ریڑ گنت"
     },
     {
-      "surface": "יַעֲקֹב",
+      "surface": "יעקב",
       "gloss": "یاکوب"
     },
     {
-      "surface": "יָצִיץ",
+      "surface": "יציץ",
       "gloss": "گُل کپیت"
     },
     {
-      "surface": "וּפָרַח",
+      "surface": "ופרח",
       "gloss": "ءُ پھول بیت"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اِسرائیل"
     },
     {
-      "surface": "וּמָלְאוּ",
+      "surface": "ומלאו",
       "gloss": "ءُ مال کننت"
     },
     {
-      "surface": "פְּנֵי",
+      "surface": "פני",
       "gloss": "دیم"
     },
     {
-      "surface": "תֵּבֵל",
+      "surface": "תבל",
       "gloss": "دنیا"
     },
     {
-      "surface": "תְּנוּבָה",
+      "surface": "תנובה",
       "gloss": "پیداوار"
     }
-  ],
-  "timestamp": "2026-09-25T17:14:37.534453061Z",
-  "model": "glm-5.3"
+  ]
 }

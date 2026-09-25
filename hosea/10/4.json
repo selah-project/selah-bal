@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "hosea 10:4",
   "book": "hosea",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:04:56.934814584Z",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "اِشاں گپان گوَشتنت، گوں دروغءِ سوگندان عہد جتا کت، ءُ انصاف چوش زهرگئیں بوٹی میدانی تلمانی سرءَ نمون اَت۔",
   "tokens": [
     {
-      "surface": "דִּבְּר֣וּ",
+      "surface": "דברו",
       "gloss": "گوَشتنت"
     },
     {
-      "surface": "דְבָרִ֔ים",
+      "surface": "דברים",
       "gloss": "گپان"
     },
     {
-      "surface": "אָל֥וֹת",
+      "surface": "אלות",
       "gloss": "سوگندان"
     },
     {
-      "surface": "שָׁ֖וְא",
+      "surface": "שוא",
       "gloss": "دروغ"
     },
     {
-      "surface": "כָּרֹ֣ת",
+      "surface": "כרת",
       "gloss": "جتا کت"
     },
     {
-      "surface": "בְּרִ֑ית",
+      "surface": "ברית",
       "gloss": "عہد"
     },
     {
-      "surface": "וּפָרַ֤ח",
+      "surface": "ופרח",
       "gloss": "ءُ نمون اَت"
     },
     {
-      "surface": "כָּרֹאשׁ֙",
+      "surface": "כראש",
       "gloss": "چوش زهرگئیں بوٹی"
     },
     {
-      "surface": "מִשְׁפָּ֔ט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "עַ֖ל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "תַּלְמֵ֥י",
+      "surface": "תלמי",
       "gloss": "تلمانی"
     },
     {
-      "surface": "שָׂדָֽי",
+      "surface": "שדי",
       "gloss": "میدانی"
     }
-  ],
-  "timestamp": "2026-09-25T17:04:56.934814584Z",
-  "model": "glm-5.3"
+  ]
 }

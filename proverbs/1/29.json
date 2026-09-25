@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "proverbs 1:29",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:16:24.522934133Z",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "پرچا کہ اِشاں دانائیءَ بغاوت کت ءُ یاہوہءِ ڈرءَ نہ چُنیاوُنت،",
   "tokens": [
@@ -24,11 +26,11 @@
       "gloss": "دانائیءَ"
     },
     {
-      "surface": "ולא",
+      "surface": "ויראת",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יראת",
+      "surface": "יהוה",
       "gloss": "ڈرءَ"
     },
     {
@@ -39,7 +41,5 @@
       "surface": "בחרו",
       "gloss": "چُنیاوُنت"
     }
-  ],
-  "timestamp": "2026-09-25T21:16:24.522934133Z",
-  "model": "glm-5.3"
+  ]
 }

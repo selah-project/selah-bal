@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 141:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:31:08.069503002Z",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "tier": "glm-5.2",
   "chapter": 141,
   "translation": "اِشانی داوار سچءِ دستانءَ دگ بوتنت، ءُ اِشاں مءِ امرانءَ گوشنت، پرچا کہ چش اِنت۔",
   "tokens": [
     {
-      "surface": "נִשְׁמְט֣וּ",
+      "surface": "נשמטו",
       "gloss": "دگ بوتنت"
     },
     {
-      "surface": "בִּֽידֵי",
+      "surface": "בידי",
       "gloss": "دستانءَ"
     },
     {
-      "surface": "סֶ֭לַע",
+      "surface": "סלע",
       "gloss": "سچءِ"
     },
     {
-      "surface": "שֹׁפְטֵיהֶ֑ם",
+      "surface": "שפטיהם",
       "gloss": "اِشانی داوار"
     },
     {
-      "surface": "וְשָׁמְע֥וּ",
+      "surface": "ושמעו",
       "gloss": "ءُ گوشنت"
     },
     {
-      "surface": "אֲ֝מָרַ֗י",
+      "surface": "אמרי",
       "gloss": "مءِ امرانءَ"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "נָעֵֽמוּ",
+      "surface": "נעמו",
       "gloss": "چش اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:31:08.069503002Z",
-  "model": "glm-5.3"
+  ]
 }

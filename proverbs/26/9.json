@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "proverbs 26:9",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:18:50.500004961Z",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "چوش کہ کانٹءَ مستءِ دستءَ چڑھیت، اے چوں پہوڑا کمزانءِ دهنءَ هست اِنت۔",
   "tokens": [
@@ -32,10 +34,8 @@
       "gloss": "دهنءَ"
     },
     {
-      "surface": "کסילים",
+      "surface": "כסילים",
       "gloss": "کمزانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:18:50.500004961Z",
-  "model": "glm-5.3"
+  ]
 }

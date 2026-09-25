@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "ezekiel 38:11",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:24:32.769233931Z",
+  "verse": 11,
+  "ref": "ezekiel 38:11",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "ءُ تو گوَشیت: من بے دیوار جاہانی زمینءِ سرءَ چڑھیت، من آمانگاں ءَ روت، رونک پُرچمءَ، ہمگئشان بے دیوار رونکنت، ءُ بند ءُ دروازگان اِشانی پہ نیست۔",
   "tokens": [
     {
-      "surface": "וְאָמַרְתָּ֗",
+      "surface": "ואמרת",
       "gloss": "ءُ تو گوَشیت"
     },
     {
-      "surface": "אֶֽעֱלֶה֙",
+      "surface": "אעלה",
       "gloss": "من چڑھیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "אֶ֣רֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "פְּרָז֔וֹת",
+      "surface": "פרזות",
       "gloss": "بے دیوار جاہانی"
     },
     {
-      "surface": "אָבוֹא֙",
+      "surface": "אבוא",
       "gloss": "من روت"
     },
     {
-      "surface": "הַשֹּׁ֣קְטִ֔ים",
+      "surface": "השקטים",
       "gloss": "آمانگاں ءَ"
     },
     {
-      "surface": "יֹשְׁבֵ֖י",
+      "surface": "ישבי",
       "gloss": "رونک"
     },
     {
-      "surface": "לָבֶ֑טַח",
+      "surface": "לבטח",
       "gloss": "پُرچمءَ"
     },
     {
-      "surface": "כֻּלָּ֗ם",
+      "surface": "כלם",
       "gloss": "ہمگئشان"
     },
     {
-      "surface": "יֹשְׁבִים֙",
+      "surface": "ישבים",
       "gloss": "رونکنت"
     },
     {
-      "surface": "בְּאֵ֣ין",
+      "surface": "באין",
       "gloss": "بے"
     },
     {
-      "surface": "חוֹמָ֔ה",
+      "surface": "חומה",
       "gloss": "دیوار"
     },
     {
-      "surface": "וּבְרִ֥יחַ",
+      "surface": "ובריח",
       "gloss": "ءُ بند"
     },
     {
-      "surface": "וּדְלָתַ֖יִם",
+      "surface": "ודלתים",
       "gloss": "ءُ دروازگان"
     },
     {
-      "surface": "אֵ֥ין",
+      "surface": "אין",
       "gloss": "نیست"
     },
     {
-      "surface": "לָהֶֽם",
+      "surface": "להם",
       "gloss": "اِشانی پہ"
     }
-  ],
-  "timestamp": "2026-09-25T16:24:32.769233931Z",
-  "model": "glm-5.3"
+  ]
 }

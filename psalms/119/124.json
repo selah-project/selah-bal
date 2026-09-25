@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 124,
-  "ref": "psalms 119:124",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:25:39.778171825Z",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "گوں تیرا گُلام چوش تیری ہیسیدءِ چوں کار کن، ءُ تیری حکمان ماءَ سیاہ بکن۔",
   "tokens": [
     {
-      "surface": "עֲשֵׂ֖ה",
+      "surface": "עשה",
       "gloss": "کار کن"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "עַבְדְּךָ֥",
+      "surface": "עבדך",
       "gloss": "تیرا گُلام"
     },
     {
-      "surface": "כְחַסְדֶּ֗ךָ",
+      "surface": "כחסדך",
       "gloss": "چوش تیری ہیسیدءِ چوں"
     },
     {
-      "surface": "וְחֻקֶּ֥יךָ",
+      "surface": "וחקיך",
       "gloss": "ءُ تیری حکمان"
     },
     {
-      "surface": "לַמְדֵֽנִי",
+      "surface": "למדני",
       "gloss": "ماءَ سیاہ بکن"
     }
-  ],
-  "timestamp": "2026-09-25T20:25:39.778171825Z",
-  "model": "glm-5.3"
+  ]
 }

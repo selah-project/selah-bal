@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "ezekiel 3:2",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:09:00.499639335Z",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ ماں زہگءِ دہانءَ ⟨את⟩ وتی دہان کُشیت ءُ آءَ ⟨את⟩ اے طومارءَ ما چیت کت.",
   "tokens": [
@@ -21,7 +23,7 @@
       "gloss": "دہان"
     },
     {
-      "surface": "ויאכלنי",
+      "surface": "ויאכלני",
       "gloss": "ءُ آءَ ما چیت کت"
     },
     {
@@ -37,7 +39,5 @@
       "surface": "הזאת",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T21:09:00.499639335Z",
-  "model": "glm-5.3"
+  ]
 }

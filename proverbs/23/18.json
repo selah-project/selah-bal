@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "proverbs 23:18",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:17:45.544962228Z",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "چرا کہ یک آخرت ہست، ءُ تیری امید نہ کپیت۔",
   "tokens": [
@@ -16,11 +18,11 @@
       "gloss": "<یقیناں>"
     },
     {
-      "surface": "יֵשׁ",
+      "surface": "יש",
       "gloss": "ہست"
     },
     {
-      "surface": "אַחֲרִית",
+      "surface": "אחרית",
       "gloss": "آخرت"
     },
     {
@@ -28,14 +30,12 @@
       "gloss": "ءُ تیری امید"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִכָּרֵת",
+      "surface": "תכרת",
       "gloss": "کپیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:17:45.544962228Z",
-  "model": "glm-5.3"
+  ]
 }

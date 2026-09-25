@@ -1,62 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "jeremiah 13:25",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:43:10.155790895Z",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "اے تُءِ گوران اِنت، تُءِ مَدانی حصہ ⟨את⟩ چہ منءَ، یاہوہءِ فرمان — اچہ تُءِ منی ⟨את⟩ وسار کت ءُ دروگءَ اطمینان کت۔",
   "tokens": [
     {
-      "surface": "זֶ֣ה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "גוֹרָלֵ֧ךְ",
+      "surface": "גורלך",
       "gloss": "تُءِ گوران"
     },
     {
-      "surface": "מָנָת",
+      "surface": "מנת",
       "gloss": "حصہ"
     },
     {
-      "surface": "מִדָּ֛יִךְ",
+      "surface": "מדיך",
       "gloss": "تُءِ مَدانی"
     },
     {
-      "surface": "מֵֽאִתִּ֖י",
+      "surface": "מאתי",
       "gloss": "⟨את⟩ چہ منءَ"
     },
     {
-      "surface": "נְאֻ֖ם",
+      "surface": "נאם",
       "gloss": "فرمان"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֲשֶׁ֙ר",
+      "surface": "אשר",
       "gloss": "اچہ"
     },
     {
-      "surface": "שָׁכַ֣חַתְּ",
+      "surface": "שכחת",
       "gloss": "تُءِ وسار کت"
     },
     {
-      "surface": "א֥וֹתִ֔י",
+      "surface": "אותי",
       "gloss": "⟨את⟩ منی",
       "marks": "منی"
     },
     {
-      "surface": "וַֽתִּבְטְחִ֖י",
+      "surface": "ותבטחי",
       "gloss": "ءُ تُءِ اطمینان کت"
     },
     {
-      "surface": "בַּשָּֽׁקֶר",
+      "surface": "בשקר",
       "gloss": "دروگءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:43:10.155790895Z",
-  "model": "glm-5.3"
+  ]
 }

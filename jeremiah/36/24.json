@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "jeremiah 36:24",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:03:11.063404541Z",
+  "verse": 24,
+  "ref": "jeremiah 36:24",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "ءُ اِشاں نہ ڈرایت، ءُ نہ اِشاں ⟨את⟩ وتین جمان پھاڑ کت — شاہ ءُ آییءِ گیشتر گلامان، کہ گمے اِشاں ⟨את⟩ ہمے گیشتر گالانءَ۔",
   "tokens": [
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "פָחֲד֔וּ",
+      "surface": "פחדו",
       "gloss": "ڈرایت"
     },
     {
-      "surface": "וְלֹ֥א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "קָרְע֖וּ",
+      "surface": "קרעו",
       "gloss": "پھاڑ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتین جمان"
     },
     {
-      "surface": "בִּגְדֵיהֶ֑ם",
+      "surface": "בגדיהם",
       "gloss": "وتین جمان"
     },
     {
-      "surface": "הַמֶּ֨לֶךְ֙",
+      "surface": "המלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ گیشتر"
     },
     {
-      "surface": "עֲבָדָ֔יו",
+      "surface": "עבדיו",
       "gloss": "آییءِ گلامان"
     },
     {
-      "surface": "הַשֹּׁ֣מְעִ֔ים",
+      "surface": "השמעים",
       "gloss": "کہ گمے اِشاں"
     },
     {
-      "surface": "אֵ֥ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہمے گیشتر گالان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیشتر"
     },
     {
-      "surface": "הַדְּבָרִ֖ים",
+      "surface": "הדברים",
       "gloss": "گالان"
     },
     {
-      "surface": "הָאֵֽלֶּה",
+      "surface": "האלה",
       "gloss": "ہمے"
     }
-  ],
-  "timestamp": "2026-09-25T18:03:11.063404541Z",
-  "model": "glm-5.3"
+  ]
 }

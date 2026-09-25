@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "job 36:19",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:30:58.879120186Z",
+  "verse": 19,
+  "ref": "job 36:19",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "آیا تئے بانگ کار کنت کہ نہ تنگیءَ بیت، ءُ ہمگ زورءِ ازہمات؟",
   "tokens": [
     {
-      "surface": "הֲיַעֲרֹ֣ךְ",
+      "surface": "היערך",
       "gloss": "کار کنت"
     },
     {
-      "surface": "שׁ֭וּעֲךָ",
+      "surface": "שועך",
       "gloss": "تئے بانگ"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "בְצָ֑ר",
+      "surface": "בצר",
       "gloss": "تنگیءَ"
     },
     {
-      "surface": "וְ֝כֹ֗ל",
+      "surface": "וכל",
       "gloss": "ءُ ہمگ"
     },
     {
-      "surface": "מַאֲמַצֵּי",
+      "surface": "מאמצי",
       "gloss": "ازہمات"
     },
     {
-      "surface": "כֹֽחַ",
+      "surface": "כח",
       "gloss": "زور"
     }
-  ],
-  "timestamp": "2026-09-25T18:30:58.879120186Z",
-  "model": "glm-5.3"
+  ]
 }

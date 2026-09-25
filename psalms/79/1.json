@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 79:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:47:22.904268016Z",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "tier": "glm-5.2",
   "chapter": 79,
   "translation": "زمزمیہ پہ آسافءِ. اے ایلوہیم، قوماں تہءِ وارثئے تہ آتنت، آیانی تہءِ پاک کوشتیءَ ناپاک کت، ءُ یروشالمءَ ⟨את⟩ گوں گڈانیں ڈھیرانی کت.",
   "tokens": [
     {
-      "surface": "מִזְמוֹר",
+      "surface": "מזמור",
       "gloss": "زمزمیہ"
     },
     {
-      "surface": "לְאָ֫סָ֥ף",
+      "surface": "לאסף",
       "gloss": "پہ آسافءِ"
     },
     {
-      "surface": "אֱֽלֹהִ֡ים",
+      "surface": "אלהים",
       "gloss": "اے ایلوہیم"
     },
     {
-      "surface": "בָּ֤אוּ",
+      "surface": "באו",
       "gloss": "آتنت"
     },
     {
-      "surface": "גּוֹיִ֨ם",
+      "surface": "גוים",
       "gloss": "قوماں"
     },
     {
-      "surface": "בְּֽנַחֲלָתֶ֗ךָ",
+      "surface": "בנחלתך",
       "gloss": "تہءِ وارثئے تہ"
     },
     {
-      "surface": "טִמְּא֞וּ",
+      "surface": "טמאו",
       "gloss": "ناپاک کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تہءِ پاک کوشتی"
     },
     {
-      "surface": "הֵיכַ֣ל",
+      "surface": "היכל",
       "gloss": "کوشتی"
     },
     {
-      "surface": "קָדְשֶׁ֑ךָ",
+      "surface": "קדשך",
       "gloss": "تہءِ پاک"
     },
     {
-      "surface": "שָׂ֖מוּ",
+      "surface": "שמו",
       "gloss": "آیانی کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یروشالمءَ"
     },
     {
-      "surface": "יְרוּשָׁלִַ֣͏ם",
+      "surface": "ירושלם",
       "gloss": "یروشالمءَ"
     },
     {
-      "surface": "לְעִיִּֽים",
+      "surface": "לעיים",
       "gloss": "گوں گڈانیں ڈھیرانی"
     }
-  ],
-  "timestamp": "2026-09-25T20:47:22.904268016Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "psalms 50:14",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:40:50.751243864Z",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "tier": "glm-5.2",
   "chapter": 50,
   "translation": "ایلوہیمءَ شکریہءِ قربان کن، ءُ ءُہُوتیریںءَ وتی نذران پورا کن۔",
   "tokens": [
     {
-      "surface": "זְבַח",
+      "surface": "זבח",
       "gloss": "قربان کن"
     },
     {
-      "surface": "לֵאלֹהִים",
+      "surface": "לאלהים",
       "gloss": "ایلوہیمءَ"
     },
     {
-      "surface": "תּוֹדָה",
+      "surface": "תודה",
       "gloss": "شکریہءِ قربان"
     },
     {
-      "surface": "וְשַׁלֵּם",
+      "surface": "ושלם",
       "gloss": "ءُ پورا کن"
     },
     {
-      "surface": "לְעֶלְיוֹן",
+      "surface": "לעליון",
       "gloss": "ءُہُوتیریںءَ"
     },
     {
-      "surface": "נְדָרֶיךָ",
+      "surface": "נדריך",
       "gloss": "وتی نذران"
     }
-  ],
-  "timestamp": "2026-09-25T20:40:50.751243864Z",
-  "model": "glm-5.3"
+  ]
 }

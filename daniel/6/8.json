@@ -1,137 +1,137 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "daniel 6:8",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:00:49.833162063Z",
+  "verse": 8,
+  "ref": "daniel 6:8",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ہمگ ملتءِ سارک، سیگنان ءُ اہشدرپنان، ہدبران ءُ پاوان مشورت کت کہ پادشاہ یک قائم قائم بکنت ءُ یک پکین اِسار بچارنت، کہ ہر یک کہ چہ ہر ہدا ءُ مردءَ گال بجست، تا سی روچان، بجز چہ تئے اے پادشاہ، آ شیرانی اندازءَ اندات بیت۔",
   "tokens": [
     {
-      "surface": "אִתְיָעַטוּ",
+      "surface": "אתיעטו",
       "gloss": "مشورت کت"
     },
     {
-      "surface": "כֹּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "סָרְכֵי",
+      "surface": "סרכי",
       "gloss": "سارکانی"
     },
     {
-      "surface": "מַלְכוּתָא",
+      "surface": "מלכותא",
       "gloss": "ملتءِ"
     },
     {
-      "surface": "סִגְנַיָּא",
+      "surface": "סגניא",
       "gloss": "سیگنان"
     },
     {
-      "surface": "וַאֲחַשְׁדַּרְפְּנַיָּא",
+      "surface": "ואחשדרפניא",
       "gloss": "ءُ اہشدرپنان"
     },
     {
-      "surface": "הַדָּבְרַיָּא",
+      "surface": "הדבריא",
       "gloss": "ہدبران"
     },
     {
-      "surface": "וּפַחֲוָתָא",
+      "surface": "ופחותא",
       "gloss": "ءُ پاوان"
     },
     {
-      "surface": "לְקַיָּמָה",
+      "surface": "לקימה",
       "gloss": "پہ قائم کرنگ"
     },
     {
-      "surface": "קְיָם",
+      "surface": "קים",
       "gloss": "قائم"
     },
     {
-      "surface": "מַלְכָּא",
+      "surface": "מלכא",
       "gloss": "پادشاہءِ"
     },
     {
-      "surface": "וּלְתַקָּפָה",
+      "surface": "ולתקפה",
       "gloss": "ءُ پہ پکین کرنگ"
     },
     {
-      "surface": "אֱסָר",
+      "surface": "אסר",
       "gloss": "اِسار"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر یک"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "יִבְעֵה",
+      "surface": "יבעה",
       "gloss": "بجست"
     },
     {
-      "surface": "בָּעוּ",
+      "surface": "בעו",
       "gloss": "گال"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "אֱלָהּ",
+      "surface": "אלה",
       "gloss": "ہدا"
     },
     {
-      "surface": "וֶאֱנָשׁ",
+      "surface": "ואנש",
       "gloss": "ءُ مرد"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "יוֹמִין",
+      "surface": "יומין",
       "gloss": "روچانی"
     },
     {
-      "surface": "תְּלָתִין",
+      "surface": "תלתין",
       "gloss": "سی"
     },
     {
-      "surface": "לָהֵן",
+      "surface": "להן",
       "gloss": "بجز"
     },
     {
-      "surface": "מִנָּךְ",
+      "surface": "מנך",
       "gloss": "چہ تئے"
     },
     {
-      "surface": "מַלְכָּא",
+      "surface": "מלכא",
       "gloss": "پادشاہ"
     },
     {
-      "surface": "יִתְרְמֵא",
+      "surface": "יתרמא",
       "gloss": "اندات بیت"
     },
     {
-      "surface": "לְגֹב",
+      "surface": "לגב",
       "gloss": "اندازءَ"
     },
     {
-      "surface": "אַרְיָוָתָא",
+      "surface": "אריותא",
       "gloss": "شیرانی"
     }
-  ],
-  "timestamp": "2026-09-25T15:00:49.833162063Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "job 30:12",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:27:51.869605120Z",
+  "verse": 12,
+  "ref": "job 30:12",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "مءِ راستی دستءِ سرءَ زہگانیں ٹولی اُشنت؛ مءِ پیداں ⟨دور⟩ کتنت، ءُ مءِ سرءَ آشوبءِ راہان چڑھائینت.",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "יָמִין",
+      "surface": "ימין",
       "gloss": "راستی دستءِ"
     },
     {
-      "surface": "פִּרְחַח",
+      "surface": "פרחח",
       "gloss": "زہگانیں ٹولی"
     },
     {
-      "surface": "יָקוּמוּ",
+      "surface": "יקומו",
       "gloss": "اُشنت"
     },
     {
-      "surface": "רַגְלַי",
+      "surface": "רגלי",
       "gloss": "مءِ پیداں"
     },
     {
-      "surface": "שִׁלֵּחוּ",
+      "surface": "שלחו",
       "gloss": "دور کتنت"
     },
     {
-      "surface": "וַיָּסֹלּוּ",
+      "surface": "ויסלו",
       "gloss": "ءُ چڑھائینت"
     },
     {
-      "surface": "עָלַי",
+      "surface": "עלי",
       "gloss": "مءِ سرءَ"
     },
     {
-      "surface": "אֳרָחוֹת",
+      "surface": "ארחות",
       "gloss": "راہان"
     },
     {
-      "surface": "אֵידָם",
+      "surface": "אידם",
       "gloss": "آشوبءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:27:51.869605120Z",
-  "model": "glm-5.3"
+  ]
 }

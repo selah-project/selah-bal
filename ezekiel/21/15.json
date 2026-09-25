@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "ezekiel 21:15",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:12:33.156098992Z",
+  "verse": 15,
+  "ref": "ezekiel 21:15",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "پہ اے کہ پاجاری یک پاجاری کنت، آ تیز بوتگ ⟨اِنت⟩؛ پہ اے کہ آیی پہ بیت بجلی، چمکتی؛ یا شاد بکنں — گچین زہگءِ، ہر دارءَ رد کنت۔",
   "tokens": [
     {
-      "surface": "לְמַ֨עַן",
+      "surface": "למען",
       "gloss": "پہ اے کہ"
     },
     {
-      "surface": "טְבֹ֤חַ",
+      "surface": "טבח",
       "gloss": "پاجاری کنت"
     },
     {
-      "surface": "טֶ֨בַח֙",
+      "surface": "טבח",
       "gloss": "پاجاری"
     },
     {
-      "surface": "הוּחַ֔דָּה",
+      "surface": "הוחדה",
       "gloss": "تیز بوتگ"
     },
     {
-      "surface": "לְמַעַן",
+      "surface": "למען",
       "gloss": "پہ اے کہ"
     },
     {
-      "surface": "הֱיֵה",
+      "surface": "היה",
       "gloss": "بیت"
     },
     {
-      "surface": "לָ֥הּ",
+      "surface": "לה",
       "gloss": "آیی پہ"
     },
     {
-      "surface": "בָּ֖רָק",
+      "surface": "ברק",
       "gloss": "بجلی"
     },
     {
-      "surface": "מֹרָ֑טָּה",
+      "surface": "מרטה",
       "gloss": "چمکتی"
     },
     {
-      "surface": "א֣וֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "נָשִׂ֔ישׂ",
+      "surface": "נשיש",
       "gloss": "شاد بکنں"
     },
     {
-      "surface": "שֵׁ֥בֶט",
+      "surface": "שבט",
       "gloss": "گچین"
     },
     {
-      "surface": "בְּנִ֖י",
+      "surface": "בני",
       "gloss": "زہگءِ"
     },
     {
-      "surface": "מֹאֶ֥סֶת",
+      "surface": "מאסת",
       "gloss": "رد کنت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "עֵֽץ",
+      "surface": "עץ",
       "gloss": "دار"
     }
-  ],
-  "timestamp": "2026-09-25T16:12:33.156098992Z",
-  "model": "glm-5.3"
+  ]
 }

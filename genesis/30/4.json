@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "genesis 30:4",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:51:31.820570738Z",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "ءُ آیی ءُچہ آییءَ یعقوب",
   "tokens": [
     {
-      "surface": "וַתִּתֶּן",
+      "surface": "ותתן",
       "gloss": "ءُ دات"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "بلہا"
     },
     {
-      "surface": "בִּלְהָה",
+      "surface": "בלהה",
       "gloss": "بلہا"
     },
     {
-      "surface": "שִׁפְחָתָהּ",
+      "surface": "שפחתה",
       "gloss": "آییءِ کنیز"
     },
     {
-      "surface": "לְאִשָּׁה",
+      "surface": "לאשה",
       "gloss": "پہ زال"
     },
     {
-      "surface": "וַיָּבֹא",
+      "surface": "ויבא",
       "gloss": "ءُ درا کت"
     },
     {
-      "surface": "אֵלֶיהָ",
+      "surface": "אליה",
       "gloss": "آییءَ یعقوب"
     },
     {
-      "surface": "יַעֲקֹב",
+      "surface": "יעקב",
       "gloss": ""
     }
-  ],
-  "timestamp": "2026-09-25T16:51:31.820570738Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "1-chronicles 27:30",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:43:09.531085999Z",
+  "verse": 30,
+  "ref": "1-chronicles 27:30",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ شترانی سرءَ اوبیلءِ اِشماعیلی منصب داشت، ءُ خچرانے سرءَ یَحدیّاہوءِ مِروناتی منصب داشت.",
   "tokens": [
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ … سرءَ"
     },
     {
-      "surface": "הַגְּמַלִּים",
+      "surface": "הגמלים",
       "gloss": "شترانے"
     },
     {
-      "surface": "אוֹבִיל",
+      "surface": "אוביל",
       "gloss": "اوبیل"
     },
     {
-      "surface": "הַיִּשְׁמְעֵלִי",
+      "surface": "הישמעלי",
       "gloss": "اِشماعیلی"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ … سرءَ"
     },
     {
-      "surface": "הָאֲתֹנוֹת",
+      "surface": "האתנות",
       "gloss": "خچرانے"
     },
     {
-      "surface": "יֶחְדְּיָהוּ",
+      "surface": "יחדיהו",
       "gloss": "یَحدیّاہو"
     },
     {
-      "surface": "הַמֵּרֹנֹתִי",
+      "surface": "המרנתי",
       "gloss": "مِروناتی"
     }
-  ],
-  "timestamp": "2026-09-25T12:43:09.531085999Z",
-  "model": "glm-5.3"
+  ]
 }

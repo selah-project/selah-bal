@@ -1,159 +1,159 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "jeremiah 35:15",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:00:29.779322044Z",
+  "verse": 15,
+  "ref": "jeremiah 35:15",
+  "tier": "glm-5.2",
   "chapter": 35,
   "translation": "ءُ من شماںءَ گوں منی ⟨את⟩ پوریں بندگان پیغمبران فرستت کت، سحر چوک ءُ فرستت کنت، گوں گپ کہ: پدا گشت اے منت ہر یک چہ وتی بدیں راہءَ ءُ شمی کاران چنگ کت، ءُ دگہ ہدایانی پشتءَ نہ روت آیانءَ پہ پرستت، ءُ تہ زمینءَ رہءَ کہ من شماںءَ ءُ شمی پدشانءَ داتگءَ — پرچا شماں ⟨את⟩ شمی گوشءَ نہ کج کت ءُ منی گالءَ نہ گوشیت۔",
   "tokens": [
     {
-      "surface": "וָאֶשְׁלַח",
+      "surface": "ואשלח",
       "gloss": "ءُ من فرستت کت"
     },
     {
-      "surface": "אֲלֵיכֶם",
+      "surface": "אליכם",
       "gloss": "شماںءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوریں بندگان پیغمبران"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "עֲבָדַי",
+      "surface": "עבדי",
       "gloss": "منی بندگان"
     },
     {
-      "surface": "הַנְּבִאִים",
+      "surface": "הנבאים",
       "gloss": "پیغمبران"
     },
     {
-      "surface": "הַשְׁכֵּים",
+      "surface": "השכים",
       "gloss": "سحر چوک"
     },
     {
-      "surface": "וְשָׁלֹחַ",
+      "surface": "ושלח",
       "gloss": "ءُ فرستت کنت"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "گوں گپ کہ"
     },
     {
-      "surface": "שׁוּבוּ",
+      "surface": "שבו",
       "gloss": "پدا گشت"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
       "gloss": "اے منت"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "ہر یک"
     },
     {
-      "surface": "מִדַּרְכּוֹ",
+      "surface": "מדרכו",
       "gloss": "چہ وتی راہءَ"
     },
     {
-      "surface": "הָרָעָה",
+      "surface": "הרעה",
       "gloss": "بدیں"
     },
     {
-      "surface": "וְהֵיטִיבוּ",
+      "surface": "והיטיבו",
       "gloss": "ءُ چنگ کت"
     },
     {
-      "surface": "מַעַלְלֵיכֶם",
+      "surface": "מעלליכם",
       "gloss": "شمی کاران"
     },
     {
-      "surface": "וְאַל",
+      "surface": "ואל",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "תֵּלְכוּ",
+      "surface": "תלכו",
       "gloss": "روت"
     },
     {
-      "surface": "אַחֲרֵי",
+      "surface": "אחרי",
       "gloss": "پشتءَ"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ہدایان"
     },
     {
-      "surface": "אֲחֵרִים",
+      "surface": "אחרים",
       "gloss": "دگہ"
     },
     {
-      "surface": "לְעָבְדָם",
+      "surface": "לעבדם",
       "gloss": "پہ آیانءَ پرستت"
     },
     {
-      "surface": "וּשְׁבוּ",
+      "surface": "ושבו",
       "gloss": "ءُ رہءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "הָאֲדָמָה",
+      "surface": "האדמה",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נָתַתִּי",
+      "surface": "נתתי",
       "gloss": "من داتگءَ"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "شماںءَ"
     },
     {
-      "surface": "וְלַאֲבֹתֵיכֶם",
+      "surface": "ולאבתיכם",
       "gloss": "ءُ شمی پدشانءَ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "הִטִּיתֶם",
+      "surface": "הטיתם",
       "gloss": "کج کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شمی گوشءَ"
     },
     {
-      "surface": "אָזְנְכֶם",
+      "surface": "אזנכם",
       "gloss": "شمی گوشءَ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "שְׁמַעְתֶּם",
+      "surface": "שמעתם",
       "gloss": "گوشیت"
     },
     {
-      "surface": "אֵלָי",
+      "surface": "אלי",
       "gloss": "منی گالءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:00:29.779322044Z",
-  "model": "glm-5.3"
+  ]
 }

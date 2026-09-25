@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "joshua 4:16",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:52:21.472260459Z",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "حکم کن ⟨את⟩ کوهنانی را کہ گواہیءِ صندوقءِ بلند کور ءُ آ چہ یردانءَ اُٹتنت،",
   "tokens": [
     {
-      "surface": "צַוֵּה",
+      "surface": "צוה",
       "gloss": "حکم کن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کوهنان"
     },
     {
-      "surface": "הַכֹּהֲנִים",
+      "surface": "הכהנים",
       "gloss": "کوهنان"
     },
     {
-      "surface": "נֹשְׂאֵי",
+      "surface": "נשאי",
       "gloss": "بلند کور"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "הָעֵדוּת",
+      "surface": "העדות",
       "gloss": "گواہیءِ"
     },
     {
-      "surface": "וְיַעֲלוּ",
+      "surface": "ויעלו",
       "gloss": "ءُ آ اُٹتنت"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַיַּרְדֵּן",
+      "surface": "הירדן",
       "gloss": "یردانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:52:21.472260459Z",
-  "model": "glm-5.3"
+  ]
 }

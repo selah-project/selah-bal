@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "daniel 2:25",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:49:00.264464318Z",
+  "verse": 25,
+  "ref": "daniel 2:25",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "اِدین اریوک گوں شتابی دانیالءَ بادشاہءِ پیشءَ اَندر کت ءُ آییءَ اِشاں گوَشت کہ یک مرد چہ یہودءِ جلاوطنیانی زہگانی چنگ کتگم کہ بادشاہءَ پاشارءَ چا کِشت کنت۔",
   "tokens": [
     {
-      "surface": "אֱדַיִן",
+      "surface": "אדין",
       "gloss": "اِدین"
     },
     {
-      "surface": "אֲרִיּוֹךְ",
+      "surface": "אריוך",
       "gloss": "اریوک"
     },
     {
-      "surface": "בְּהִתְבְּהָלָה",
+      "surface": "בהתבהלה",
       "gloss": "گوں شتابی"
     },
     {
-      "surface": "הַנְעֵל",
+      "surface": "הנעל",
       "gloss": "اَندر کت"
     },
     {
-      "surface": "לְדָנִיֵּאל",
+      "surface": "לדניאל",
       "gloss": "دانیالءَ"
     },
     {
-      "surface": "קֳדָם",
+      "surface": "קדם",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "מַלְכָּא",
+      "surface": "מלכא",
       "gloss": "بادشاہءِ"
     },
     {
-      "surface": "וְכֵן",
+      "surface": "וכן",
       "gloss": "ءُ اِشاں"
     },
     {
-      "surface": "אֲמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "לֵהּ",
+      "surface": "לה",
       "gloss": "آییءَ"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "הַשְׁכַחַת",
+      "surface": "השכחת",
       "gloss": "چنگ کتگم"
     },
     {
-      "surface": "גְּבַר",
+      "surface": "גבר",
       "gloss": "یک مرد"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "גָּלוּתָא",
+      "surface": "גלותא",
       "gloss": "جلاوطنیانی"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "چہ"
     },
     {
-      "surface": "יְהוּד",
+      "surface": "יהוד",
       "gloss": "یہود"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "פִּשְׁרָא",
+      "surface": "פשרא",
       "gloss": "پاشارءَ"
     },
     {
-      "surface": "לְמַלְכָּא",
+      "surface": "למלכא",
       "gloss": "بادشاہءَ"
     },
     {
-      "surface": "יְהוֹדַע",
+      "surface": "יהודע",
       "gloss": "چا کِشت کنت"
     }
-  ],
-  "timestamp": "2026-09-25T14:49:00.264464318Z",
-  "model": "glm-5.3"
+  ]
 }

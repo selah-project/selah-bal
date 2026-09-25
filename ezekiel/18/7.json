@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "ezekiel 18:7",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:08:34.407325028Z",
+  "verse": 7,
+  "ref": "ezekiel 18:7",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ کسے مردمءَ ستم نہ کنت، آییءِ زمانت پہ قرض پدا دیت، زوریں مال نہ لوٹیت، آییءِ روٹی پہ بھنگارے دیت ءُ ننگاں ءَ گوں کپڑ پوشانیت.",
   "tokens": [
     {
-      "surface": "וְאִישׁ",
+      "surface": "ואיש",
       "gloss": "ءُ کسے مردمءَ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יוֹנֶה",
+      "surface": "יונה",
       "gloss": "ستم کنت"
     },
     {
-      "surface": "חֲבֹלָתוֹ",
+      "surface": "חבלתו",
       "gloss": "آییءِ زمانت"
     },
     {
-      "surface": "חוֹב",
+      "surface": "חוב",
       "gloss": "قرض"
     },
     {
-      "surface": "יָשִׁיב",
+      "surface": "ישיב",
       "gloss": "پدا دیت"
     },
     {
-      "surface": "גְּזֵלָה",
+      "surface": "גזלה",
       "gloss": "زوریں مال"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִגְזֹל",
+      "surface": "יגזל",
       "gloss": "لوٹیت"
     },
     {
-      "surface": "לַחְמוֹ",
+      "surface": "לחמו",
       "gloss": "آییءِ روٹی"
     },
     {
-      "surface": "לְרָעֵב",
+      "surface": "לרעב",
       "gloss": "پہ بھنگارے"
     },
     {
-      "surface": "یִתֵּן",
+      "surface": "יתן",
       "gloss": "دیت"
     },
     {
-      "surface": "וְעֵירֹם",
+      "surface": "ועירם",
       "gloss": "ءُ ننگاں ءَ"
     },
     {
-      "surface": "יְכַסֶּה",
+      "surface": "יכסה",
       "gloss": "پوشانیت"
     },
     {
-      "surface": "בָּגֶד",
+      "surface": "בגד",
       "gloss": "گوں کپڑ"
     }
-  ],
-  "timestamp": "2026-09-25T16:08:34.407325028Z",
-  "model": "glm-5.3"
+  ]
 }

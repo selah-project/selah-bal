@@ -1,89 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "joshua 22:20",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:49:10.672829296Z",
+  "verse": 20,
+  "ref": "joshua 22:20",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "مگر نہ عاکان زرچءِ زہگ پہ حرامیں چیزءَ خیانت کت، ءُ گوں اسرائیلءِ پوریں جمعیتءَ چیڑ بوت؟ ءُ آ یکےئے مرد نہ بوت کہ وتءِ گنہءَ تہ مرت۔",
   "tokens": [
     {
-      "surface": "הֲלוֹא",
+      "surface": "הלוא",
       "gloss": "مگر نہ"
     },
     {
-      "surface": "עָכָן",
+      "surface": "עכן",
       "gloss": "عاکان"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "זֶרַח",
+      "surface": "זרח",
       "gloss": "زرچءِ"
     },
     {
-      "surface": "מָעַל",
+      "surface": "מעל",
       "gloss": "خیانت"
     },
     {
-      "surface": "מַעַל",
+      "surface": "מעל",
       "gloss": "خیانت"
     },
     {
-      "surface": "בַּחֵרֶם",
+      "surface": "בחרם",
       "gloss": "پہ حرامیں چیزءَ"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ گوں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "עֲדַת",
+      "surface": "עדת",
       "gloss": "جمعیتءِ"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءَ"
     },
     {
-      "surface": "הָיָה",
+      "surface": "היה",
       "gloss": "بوت"
     },
     {
-      "surface": "קָצֶף",
+      "surface": "קצף",
       "gloss": "چیڑ"
     },
     {
-      "surface": "וְהוּא",
+      "surface": "והוא",
       "gloss": "ءُ آ"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "مرد"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یکےئے"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "גָוַע",
+      "surface": "גוע",
       "gloss": "مرت"
     },
     {
-      "surface": "בַּעֲוֹנוֹ",
+      "surface": "בעונו",
       "gloss": "وتءِ گنہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:49:10.672829296Z",
-  "model": "glm-5.3"
+  ]
 }

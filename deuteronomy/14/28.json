@@ -1,62 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "deuteronomy 14:28",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:10:50.484754169Z",
+  "verse": 28,
+  "ref": "deuteronomy 14:28",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "سئے سالانی آخری سرءَ تُو اے روچ ہمے سالءِ ⟨את⟩ پوریں دہماںءِ حاصلءَ درآورت کن ءُ آیءَ وتانی دَروازانی تہءَ ڈَہ بکن۔",
   "tokens": [
     {
-      "surface": "מִקְצֵ֣ה",
+      "surface": "מקצה",
       "gloss": "سئے سالانی آخری سرءَ"
     },
     {
-      "surface": "שָׁלֹ֣שׁ",
+      "surface": "שלש",
       "gloss": "سئے"
     },
     {
-      "surface": "שָׁנִ֗ים",
+      "surface": "שנים",
       "gloss": "سال"
     },
     {
-      "surface": "תּוֹצִיא֙",
+      "surface": "תוציא",
       "gloss": "درآورت کن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوریں دہماںءِ حاصلءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "מַעְשַׂר֙",
+      "surface": "מעשר",
       "gloss": "دہماں"
     },
     {
-      "surface": "תְּבוּאָ֣תְךָ֔",
+      "surface": "תבואתך",
       "gloss": "تُئی حاصل"
     },
     {
-      "surface": "בַּשָּׁנָ֖ה",
+      "surface": "בשנה",
       "gloss": "اے روچ ہمے سالءَ"
     },
     {
-      "surface": "הַהִ֑וא",
+      "surface": "ההוא",
       "gloss": "ہمے سال"
     },
     {
-      "surface": "וְהִנַּחְתָּ֖",
+      "surface": "והנחת",
       "gloss": "ءُ ڈَہ بکن"
     },
     {
-      "surface": "בִּשְׁעָרֶֽיךָ",
+      "surface": "בשעריך",
       "gloss": "وتانی دَروازانی تہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:10:50.484754169Z",
-  "model": "glm-5.3"
+  ]
 }

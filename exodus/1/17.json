@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "exodus 1:17",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:45:24.412348225Z",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ دائیاں ⟨את⟩ چہ ایلوہیمءَ ڈر گپت، ءُ آیانی نہ کت چوش کہ مِتسرایمءِ بادشاہ آیانیءَ گوَشت اَت، بلکہ ⟨את⟩ زہگان زندگ داریت۔",
   "tokens": [
     {
-      "surface": "וַתִּירֶאןָ",
+      "surface": "ותיראן",
       "gloss": "ءُ ڈر گپت"
     },
     {
-      "surface": "הַמְיַלְּדֹת",
+      "surface": "המילדת",
       "gloss": "دائیاں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ایلوہیم"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "چہ ایلوہیمءَ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "עָשׂוּ",
+      "surface": "עשו",
       "gloss": "کت"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "דִּבֶּר",
+      "surface": "דבר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "אֲלֵיהֶן",
+      "surface": "אליהן",
       "gloss": "آیانیءَ"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "بادشاہ"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     },
     {
-      "surface": "וַתְּחַיֶּיןָ",
+      "surface": "ותחיין",
       "gloss": "ءُ زندگ داریت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زہگان"
     },
     {
-      "surface": "הַיְלָדִים",
+      "surface": "הילדים",
       "gloss": "زہگان"
     }
-  ],
-  "timestamp": "2026-09-25T15:45:24.412348225Z",
-  "model": "glm-5.3"
+  ]
 }

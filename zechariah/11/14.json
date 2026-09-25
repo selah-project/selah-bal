@@ -1,68 +1,68 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "zechariah 11:14",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:57:21.510042473Z",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ من چوبءَ دومین پروش کت — ⟨את⟩ چوبم ءُ ⟨את⟩ بستگیاں — پہ اے کہ ⟨את⟩ برادری میان یہودہ ءُ میان اسرائیلءَ پروش کنت.",
   "tokens": [
     {
-      "surface": "וָֽאֶגְדַּע֙",
+      "surface": "ואגדע",
       "gloss": "ءُ پروش کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "چوب"
     },
     {
-      "surface": "מַקְלִ֣י",
+      "surface": "מקלי",
       "gloss": "چوب"
     },
     {
-      "surface": "הַשֵּׁנִ֔י",
+      "surface": "השני",
       "gloss": "دومین"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "بستگیاں"
     },
     {
-      "surface": "הַחֹֽבְלִ֑ים",
+      "surface": "החבלים",
       "gloss": "بستگیاں"
     },
     {
-      "surface": "לְהָפֵר֙",
+      "surface": "להפר",
       "gloss": "پہ پروش کنگءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "برادری"
     },
     {
-      "surface": "הָֽאַחֲוָ֔ה",
+      "surface": "האחוה",
       "gloss": "برادری"
     },
     {
-      "surface": "בֵּ֥ין",
+      "surface": "בין",
       "gloss": "میان"
     },
     {
-      "surface": "יְהוּדָ֖ה",
+      "surface": "יהודה",
       "gloss": "یہودہ"
     },
     {
-      "surface": "וּבֵ֥ין",
+      "surface": "ובין",
       "gloss": "ءُ میان"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     }
-  ],
-  "timestamp": "2026-09-25T20:57:21.510042473Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "joshua 19:16",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:44:08.829391278Z",
+  "verse": 16,
+  "ref": "joshua 19:16",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "اے زبلونءِ زہگانی ورثت ⟨اِنت⟩، اوشانی خانواراناں — اے شہران ءُ اوشانی دیہان.",
   "tokens": [
     {
-      "surface": "זֹ֛את",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "נַחֲלַ֥ת",
+      "surface": "נחלת",
       "gloss": "ورثت"
     },
     {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "זְבוּלֻ֖ן",
+      "surface": "זבולן",
       "gloss": "زبلون"
     },
     {
-      "surface": "לְמִשְׁפְּחוֹתָ֑ם",
+      "surface": "למשפחותם",
       "gloss": "اوشانی خانواراناں"
     },
     {
-      "surface": "הֶֽעָרִ֥ים",
+      "surface": "הערים",
       "gloss": "شہران"
     },
     {
-      "surface": "הָאֵ֖לֶּה",
+      "surface": "האלה",
       "gloss": "اے"
     },
     {
-      "surface": "וְחַצְרֵיהֶֽן",
+      "surface": "וחצריהן",
       "gloss": "ءُ اوشانی دیہان"
     }
-  ],
-  "timestamp": "2026-09-25T18:44:08.829391278Z",
-  "model": "glm-5.3"
+  ]
 }

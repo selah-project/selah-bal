@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "genesis 44:29",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:01:17.258988521Z",
+  "verse": 29,
+  "ref": "genesis 44:29",
+  "tier": "glm-5.2",
   "chapter": 44,
   "translation": "ءُ گپیت ہم ⟨את⟩ اے یکے چہ منی دیماءَ، ءُ آییءَ اَسان راہت، ءُ اِشاندیت ⟨את⟩ منی پیرئی گوں غم شیئولءَ.",
   "tokens": [
     {
-      "surface": "וּלְקַחְתֶּם",
+      "surface": "ולקחתם",
       "gloss": "ءُ گپیت"
     },
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "ہم"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے یکے"
     },
     {
-      "surface": "זֶה",
+      "surface": "זה",
       "gloss": "اے یکے"
     },
     {
-      "surface": "מֵעִם",
+      "surface": "מעם",
       "gloss": "چہ"
     },
     {
-      "surface": "פָּנַי",
+      "surface": "פני",
       "gloss": "منی دیماءَ"
     },
     {
-      "surface": "וְקָרָהוּ",
+      "surface": "וקרהו",
       "gloss": "ءُ آییءَ راہت"
     },
     {
-      "surface": "אָסוֹן",
+      "surface": "אסון",
       "gloss": "اَسان"
     },
     {
-      "surface": "וְהוֹרַדְתֶּם",
+      "surface": "והורדתם",
       "gloss": "ءُ اِشاندیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منی پیرئی"
     },
     {
-      "surface": "שֵׂיבָתִי",
+      "surface": "שיבתי",
       "gloss": "منی پیرئی"
     },
     {
-      "surface": "בְּרָעָה",
+      "surface": "ברעה",
       "gloss": "گوں غم"
     },
     {
-      "surface": "שְׁאֹלָה",
+      "surface": "שאלה",
       "gloss": "شیئولءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:01:17.258988521Z",
-  "model": "glm-5.3"
+  ]
 }

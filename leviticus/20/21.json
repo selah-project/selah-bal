@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "leviticus 20:21",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:23:42.984622048Z",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "ءُ یک مرد کہ آییءِ براتءِ زناں ⟨את⟩ گنت — آ ناپاکی اِنت؛ آ براتءِ برہنائیءَ اِشکیت؛ بے زہگان بیتنت۔",
   "tokens": [
     {
-      "surface": "וְאִ֗ישׁ",
+      "surface": "ואיש",
       "gloss": "ءُ یک مرد"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יִקַּ֛ח",
+      "surface": "יקח",
       "gloss": "گنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "براتءِ زناں"
     },
     {
-      "surface": "אֵ֥שֶׁת",
+      "surface": "אשת",
       "gloss": "زناں"
     },
     {
-      "surface": "אָחִ֖יו",
+      "surface": "אחיו",
       "gloss": "براتءِ"
     },
     {
-      "surface": "נִדָּ֣ה",
+      "surface": "נדה",
       "gloss": "ناپاکی"
     },
     {
-      "surface": "הִ֑וא",
+      "surface": "הוא",
       "gloss": "آ اِنت"
     },
     {
-      "surface": "עֶרְוַ֥ת",
+      "surface": "ערות",
       "gloss": "برہنائی"
     },
     {
-      "surface": "אָחִ֛יו",
+      "surface": "אחיו",
       "gloss": "براتءِ"
     },
     {
-      "surface": "גִּלָּ֖ה",
+      "surface": "גלה",
       "gloss": "اِشکیت"
     },
     {
-      "surface": "עֲרִירִ֥ים",
+      "surface": "ערירים",
       "gloss": "بے زہگان"
     },
     {
-      "surface": "יִהְיֽוּ",
+      "surface": "יהיו",
       "gloss": "بیتنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:23:42.984622048Z",
-  "model": "glm-5.3"
+  ]
 }

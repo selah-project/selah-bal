@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "job 33:9",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:29:42.622401257Z",
+  "verse": 9,
+  "ref": "job 33:9",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "«ساف اِنت من، بے سرکشی؛ پاک اِنت من، ءُ منءَ زلم نہ اِنت.»",
   "tokens": [
     {
-      "surface": "זַ֥ךְ",
+      "surface": "זך",
       "gloss": "ساف"
     },
     {
-      "surface": "אֲנִ֗י",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "בְּלִ֫י",
+      "surface": "בלי",
       "gloss": "بے"
     },
     {
-      "surface": "פָּ֥שַׁע",
+      "surface": "פשע",
       "gloss": "سرکشی"
     },
     {
-      "surface": "חַ֥ף",
+      "surface": "חף",
       "gloss": "پاک"
     },
     {
-      "surface": "אָנֹכִ֑י",
+      "surface": "אנכי",
       "gloss": "من"
     },
     {
-      "surface": "וְלֹ֖א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "עָוֺ֣ן",
+      "surface": "עון",
       "gloss": "زلم"
     },
     {
-      "surface": "לִֽי",
+      "surface": "לי",
       "gloss": "منءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:29:42.622401257Z",
-  "model": "glm-5.3"
+  ]
 }

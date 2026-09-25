@@ -1,56 +1,56 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "genesis 22:21",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:45:20.796300139Z",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "⟨את⟩ عُوض اُزبُزو، ءُ ⟨את⟩ بُوز اِشیءِ برا، ءُ ⟨את⟩ کَموایِلءِ پیو،",
   "tokens": [
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "عُوض"
     },
     {
-      "surface": "עוּץ",
+      "surface": "עוץ",
       "gloss": "عُوض"
     },
     {
-      "surface": "בְּכֹרוֹ",
+      "surface": "בכרו",
       "gloss": "اُزبُزو"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "بُوز"
     },
     {
-      "surface": "בּוּז",
+      "surface": "בוז",
       "gloss": "بُوز"
     },
     {
-      "surface": "אָחִיו",
+      "surface": "אחיו",
       "gloss": "اِشیءِ برا"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "کَموایل"
     },
     {
-      "surface": "קְמוּאֵל",
+      "surface": "קמואל",
       "gloss": "کَموایل"
     },
     {
-      "surface": "אֲבִי",
+      "surface": "אבי",
       "gloss": "پیو"
     },
     {
-      "surface": "אֲרָם",
+      "surface": "ארם",
       "gloss": "ارم"
     }
-  ],
-  "timestamp": "2026-09-25T16:45:20.796300139Z",
-  "model": "glm-5.3"
+  ]
 }

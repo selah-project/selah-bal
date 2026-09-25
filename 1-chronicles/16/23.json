@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "1-chronicles 16:23",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:33:29.204116627Z",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "پوری زمینءَ، یاہوہءَ گواز کیت؛ آییءِ نجاتءَ چہ روچءَ تا روچءَ گوشیت.",
   "tokens": [
     {
-      "surface": "שִׁירוּ",
+      "surface": "שירו",
       "gloss": "گواز کیت"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "پہ یاہوہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوری"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "בַּשְּׂרוּ",
+      "surface": "בשרו",
       "gloss": "گوشیت"
     },
     {
-      "surface": "מִיּוֹם",
+      "surface": "מיום",
       "gloss": "چہ روچءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تا"
     },
     {
-      "surface": "יוֹם",
+      "surface": "יום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "יְשׁוּעָתוֹ",
+      "surface": "ישועתו",
       "gloss": "آییءِ نجات"
     }
-  ],
-  "timestamp": "2026-09-25T12:33:29.204116627Z",
-  "model": "glm-5.3"
+  ]
 }

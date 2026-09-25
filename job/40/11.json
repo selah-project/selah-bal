@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "job 40:11",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:31:33.141640176Z",
+  "verse": 11,
+  "ref": "job 40:11",
+  "tier": "glm-5.2",
   "chapter": 40,
   "translation": "تُر ءُ شامءِ زور پروش دہ، ءُ ہر گھمنڈیءَ گند ءُ آیءَ ژیر کن.",
   "tokens": [
     {
-      "surface": "הָ֭פֵץ",
+      "surface": "הפץ",
       "gloss": "پروش دہ"
     },
     {
-      "surface": "עֶבְר֣וֹת",
+      "surface": "עברות",
       "gloss": "زور"
     },
     {
-      "surface": "אַפֶּ֑ךָ",
+      "surface": "אפך",
       "gloss": "تُر ءُ شامءِ"
     },
     {
-      "surface": "וּרְאֵ֥ה",
+      "surface": "וראה",
       "gloss": "ءُ گند"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "גֵּ֝אֶ֗ה",
+      "surface": "גאה",
       "gloss": "گھمنڈیءَ"
     },
     {
-      "surface": "וְהַשְׁפִּילֵֽהוּ",
+      "surface": "והשפילהו",
       "gloss": "ءُ آیءَ ژیر کن"
     }
-  ],
-  "timestamp": "2026-09-25T18:31:33.141640176Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "exodus 26:11",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:54:16.628035580Z",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ توں مسءِ پنجاه کرسیاں جوڑ کنیں، ءُ ⟨את⟩ کرسیاںءَ حلقاںءِ تہءَ اندا کنیں، ءُ ⟨את⟩ گدانءَ جتا کنیں، ءُ یک بیت۔",
   "tokens": [
     {
-      "surface": "וְעָשִׂיתָ",
+      "surface": "ועשית",
       "gloss": "ءُ توں جوڑ کنیں"
     },
     {
-      "surface": "קַרְסֵי",
+      "surface": "קרסי",
       "gloss": "کرسیاں"
     },
     {
-      "surface": "נְחֹשֶׁת",
+      "surface": "נחשת",
       "gloss": "مسءِ"
     },
     {
-      "surface": "חֲמִשִּׁים",
+      "surface": "חמשים",
       "gloss": "پنجاه"
     },
     {
-      "surface": "וְהֵבֵאתָ",
+      "surface": "והבאת",
       "gloss": "ءُ اندا کنیں"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کرسیاںءَ"
     },
     {
-      "surface": "הַקְּרָסִים",
+      "surface": "הקרסים",
       "gloss": "کرسیاںءَ"
     },
     {
-      "surface": "בַּלֻּלָאֹת",
+      "surface": "בללאת",
       "gloss": "حلقاںءِ تہءَ"
     },
     {
-      "surface": "וְחִבַּרְתָּ",
+      "surface": "וחברת",
       "gloss": "ءُ جتا کنیں"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گدانءَ"
     },
     {
-      "surface": "הָאֹהֶל",
+      "surface": "האהל",
       "gloss": "گدانءَ"
     },
     {
-      "surface": "וְהָיָה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یک"
     }
-  ],
-  "timestamp": "2026-09-25T15:54:16.628035580Z",
-  "model": "glm-5.3"
+  ]
 }

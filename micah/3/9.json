@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "micah 3:9",
   "book": "micah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:32:02.301862475Z",
+  "verse": 9,
+  "ref": "micah 3:9",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "گوش کنیں اے نا، اے گال، سرانی گانی یعقوب ءُ سردارانی گانی اسرائیل، اِشاں کہ فیصلہءَ گھنون کننت ءُ ⟨את⟩ پوریں سدھائی کج کننت.",
   "tokens": [
     {
-      "surface": "שִׁמְעוּ",
+      "surface": "שמעו",
       "gloss": "گوش کنیں"
     },
     {
-      "surface": "נָ֣א",
+      "surface": "נא",
       "gloss": "اے نا"
     },
     {
-      "surface": "זֹ֗את",
+      "surface": "זאת",
       "gloss": "اے گال"
     },
     {
-      "surface": "רָאשֵׁי֙",
+      "surface": "ראשי",
       "gloss": "سرانی"
     },
     {
-      "surface": "בֵּ֣ית",
+      "surface": "בית",
       "gloss": "گانی"
     },
     {
-      "surface": "יַעֲקֹ֔ב",
+      "surface": "יעקב",
       "gloss": "یعقوب"
     },
     {
-      "surface": "וּקְצִינֵ֖י",
+      "surface": "וקציני",
       "gloss": "ءُ سردارانی"
     },
     {
-      "surface": "בֵּ֣ית",
+      "surface": "בית",
       "gloss": "گانی"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "הַֽמֲתַעֲבִ֣ים",
+      "surface": "המתעבים",
       "gloss": "اِشاں کہ گھنون کننت"
     },
     {
-      "surface": "מִשְׁפָּ֔ט",
+      "surface": "משפט",
       "gloss": "فیصلہءَ"
     },
     {
-      "surface": "וְאֵ֥ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پوریں سدھائی"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "הַיְשָׁרָ֖ה",
+      "surface": "הישרה",
       "gloss": "سدھائی"
     },
     {
-      "surface": "יְעַקֵּֽשׁוּ",
+      "surface": "יעקשו",
       "gloss": "کج کننت"
     }
-  ],
-  "timestamp": "2026-09-25T19:32:02.301862475Z",
-  "model": "glm-5.3"
+  ]
 }

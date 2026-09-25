@@ -1,84 +1,84 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "leviticus 16:33",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:19:14.065222504Z",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ ⟨آیی⟩ کفارت کنت ⟨את⟩ پاکانی پاک جاگہ ءُ ⟨את⟩ ملاقاتءِ گدان ءُ ⟨את⟩ قربانگاہءَ کفارت کنت، ءُ پہ کاهنان ءُ پہ قومءِ پوریں جمعیتءِ پہ کفارت کنت۔",
   "tokens": [
     {
-      "surface": "וְכִפֶּר",
+      "surface": "וכפר",
       "gloss": "ءُ کفارت کنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پاکانی پاک جاگہ"
     },
     {
-      "surface": "מִקְדַּשׁ",
+      "surface": "מקדש",
       "gloss": "پاکانی پاک جاگہ"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "پاکانی پاک"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ملاقاتءِ گدان"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "قربانگاہ"
     },
     {
-      "surface": "הַמִּזְבֵּחַ",
+      "surface": "המזבח",
       "gloss": "قربانگاہ"
     },
     {
-      "surface": "יְכַפֵּר",
+      "surface": "יכפר",
       "gloss": "کفارت کنت"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ پہ"
     },
     {
-      "surface": "הַכֹּהֲנִים",
+      "surface": "הכהנים",
       "gloss": "کاهنان"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ پہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "עַם",
+      "surface": "עם",
       "gloss": "قوم"
     },
     {
-      "surface": "הַקָּהָל",
+      "surface": "הקהל",
       "gloss": "جمعیت"
     },
     {
-      "surface": "יְכַפֵּר",
+      "surface": "יכפר",
       "gloss": "کفارت کنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:19:14.065222504Z",
-  "model": "glm-5.3"
+  ]
 }

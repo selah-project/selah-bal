@@ -1,62 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "lamentations 4:11",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:14:38.377945027Z",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "یاہوہءَ ⟨את⟩ وتی غضب پور کت، وتی اَپءِ سوزشتین غضب چڑاوشت، ءُ سییونءَ آتش در کت ءُ آ آییءِ بنیاداں چاب کت۔",
   "tokens": [
     {
-      "surface": "כִּלָּה",
+      "surface": "כלה",
       "gloss": "پور کت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی غضب"
     },
     {
-      "surface": "חֲמָתוֹ",
+      "surface": "חמתו",
       "gloss": "وتی غضب"
     },
     {
-      "surface": "שָׁפַךְ",
+      "surface": "שפך",
       "gloss": "چڑاوشت"
     },
     {
-      "surface": "חֲרוֹן",
+      "surface": "חרון",
       "gloss": "سوزشتین"
     },
     {
-      "surface": "אַפּוֹ",
+      "surface": "אפו",
       "gloss": "اپءِ غضب"
     },
     {
-      "surface": "וַיַּצֶּת",
+      "surface": "ויצת",
       "gloss": "ءُ در کت"
     },
     {
-      "surface": "אֵשׁ",
+      "surface": "אש",
       "gloss": "آتش"
     },
     {
-      "surface": "בְּצִיּוֹן",
+      "surface": "בציון",
       "gloss": "سییونءَ"
     },
     {
-      "surface": "וְתֹאכַל",
+      "surface": "ותאכל",
       "gloss": "ءُ چاب کت"
     },
     {
-      "surface": "יְסוֹדֹתֶיהָ",
+      "surface": "יסודתיה",
       "gloss": "آییءِ بنیاداں"
     }
-  ],
-  "timestamp": "2026-09-25T19:14:38.377945027Z",
-  "model": "glm-5.3"
+  ]
 }

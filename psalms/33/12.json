@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "psalms 33:12",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:38:19.017237164Z",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "شادی آ قومءَ کہ یاہوہ آییءِ ایلوہیم اِنت؛ آ قوم کہ یاہوہءَ آیءَ پہ وتءِ میراث چنیت.",
   "tokens": [
     {
-      "surface": "אַשְׁרֵ֣י",
+      "surface": "אשרי",
       "gloss": "شادی"
     },
     {
-      "surface": "הַ֭גּוֹי",
+      "surface": "הגוי",
       "gloss": "آ قومءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהָ֑יו",
+      "surface": "אלהיו",
       "gloss": "آییءِ ایلوہیم"
     },
     {
-      "surface": "הָעָ֓ם",
+      "surface": "העם",
       "gloss": "آ قوم"
     },
     {
-      "surface": "בָּחַ֖ר",
+      "surface": "בחר",
       "gloss": "چنیت"
     },
     {
-      "surface": "לְנַחֲלָ֣ה",
+      "surface": "לנחלה",
       "gloss": "پہ میراث"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "پہ وتءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:38:19.017237164Z",
-  "model": "glm-5.3"
+  ]
 }

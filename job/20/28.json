@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "job 20:28",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:25:36.722047344Z",
+  "verse": 28,
+  "ref": "job 20:28",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "آییءِ گانیءِ حاصل برہنت بیت، آییءِ آپ چُستنیں روچءَ اَنتڑیت۔",
   "tokens": [
     {
-      "surface": "יִ֭גֶל",
+      "surface": "יגל",
       "gloss": "برہنت بیت"
     },
     {
-      "surface": "יְב֣וּל",
+      "surface": "יבול",
       "gloss": "حاصل"
     },
     {
-      "surface": "בֵּית֑וֹ",
+      "surface": "ביתו",
       "gloss": "آییءِ گانیءِ"
     },
     {
-      "surface": "נִ֝גָּר֗וֹת",
+      "surface": "נגרות",
       "gloss": "اَنتڑیت"
     },
     {
-      "surface": "בְּי֣וֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "אַפּֽוֹ",
+      "surface": "אפו",
       "gloss": "آییءِ چُستنیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:25:36.722047344Z",
-  "model": "glm-5.3"
+  ]
 }

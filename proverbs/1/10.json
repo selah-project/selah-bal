@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "proverbs 1:10",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:09:37.281185774Z",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "زہگاں من، اگر گنہگاران توکہ پہ لالچ گرتنت، رضایت نہ دے۔",
   "tokens": [
     {
-      "surface": "בְּנִ֡י",
+      "surface": "בני",
       "gloss": "زہگاں من"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "اگر"
     },
     {
-      "surface": "יְפַתּ֥וּךָ",
+      "surface": "יפתוך",
       "gloss": "توکہ پہ لالچ گرتنت"
     },
     {
-      "surface": "חַ֝טָּאִ֗ים",
+      "surface": "חטאים",
       "gloss": "گنہگاران"
     },
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תֹּבֵֽא",
+      "surface": "תבא",
       "gloss": "رضایت نہ دے"
     }
-  ],
-  "timestamp": "2026-09-25T20:09:37.281185774Z",
-  "model": "glm-5.3"
+  ]
 }

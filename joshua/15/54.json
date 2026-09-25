@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 54,
-  "ref": "joshua 15:54",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:41:43.071440251Z",
+  "verse": 54,
+  "ref": "joshua 15:54",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ حُمتہ، ءُ ملاقاتءِ گڈپءِ چار گڈپ شہر — آ ءِنت حبرون — ءُ زیءور، نہ شہر ءُ آیانی گوٹاں۔",
   "tokens": [
     {
-      "surface": "וְחֻמְטָ֗ה",
+      "surface": "וחמטה",
       "gloss": "ءُ حُمتہ"
     },
     {
-      "surface": "וְקִרְיַ֥ת",
+      "surface": "וקרית",
       "gloss": "ءُ شہرءِ"
     },
     {
-      "surface": "אַרְבַּ֛ע",
+      "surface": "ארבע",
       "gloss": "چار گڈپ"
     },
     {
-      "surface": "הִ֥יא",
+      "surface": "היא",
       "gloss": "آ ءِنت"
     },
     {
-      "surface": "חֶבְר֖וֹן",
+      "surface": "חברון",
       "gloss": "حبرون"
     },
     {
-      "surface": "וְצִיעֹ֑ר",
+      "surface": "וציער",
       "gloss": "ءُ زیءور"
     },
     {
-      "surface": "עָרִ֥ים",
+      "surface": "ערים",
       "gloss": "شہر"
     },
     {
-      "surface": "תֵּ֖שַׁע",
+      "surface": "תשע",
       "gloss": "نہ"
     },
     {
-      "surface": "וְחַצְרֵיהֶֽן",
+      "surface": "וחצריהן",
       "gloss": "ءُ آیانی گوٹاں"
     }
-  ],
-  "timestamp": "2026-09-25T18:41:43.071440251Z",
-  "model": "glm-5.3"
+  ]
 }

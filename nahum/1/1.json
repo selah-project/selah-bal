@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "nahum 1:1",
   "book": "nahum",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:36:09.097823607Z",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "نینوہءِ بار — کتابءِ دیدارءِ ناحوم ایلکشی",
   "tokens": [
     {
-      "surface": "מַשָּׂ֖א",
+      "surface": "משא",
       "gloss": "بار"
     },
     {
-      "surface": "נִֽינְוֵ֑ה",
+      "surface": "נינוה",
       "gloss": "نینوہءِ"
     },
     {
-      "surface": "סֵ֧פֶר",
+      "surface": "ספר",
       "gloss": "کتابءِ"
     },
     {
-      "surface": "חֲז֛וֹן",
+      "surface": "חזון",
       "gloss": "دیدارءِ"
     },
     {
-      "surface": "נַח֖וּם",
+      "surface": "נחום",
       "gloss": "ناحوم"
     },
     {
-      "surface": "הָאֶלְקֹשִֽׁי",
+      "surface": "האלקשי",
       "gloss": "ایلکشی"
     }
-  ],
-  "timestamp": "2026-09-25T19:36:09.097823607Z",
-  "model": "glm-5.3"
+  ]
 }

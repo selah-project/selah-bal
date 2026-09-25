@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 91:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:50:35.194656323Z",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "tier": "glm-5.2",
   "chapter": 91,
   "translation": "چہ بیماری کہ تہاریءَ تہ روت، چہ تباهی کہ نیمروچءَ ویران کنت۔",
   "tokens": [
     {
-      "surface": "מִ֭דֶּבֶר",
+      "surface": "מדבר",
       "gloss": "چہ بیماری"
     },
     {
-      "surface": "בָּאֹ֣פֶל",
+      "surface": "באפל",
       "gloss": "تہاریءَ تہ"
     },
     {
-      "surface": "יַהֲלֹ֑ךְ",
+      "surface": "יהלך",
       "gloss": "روت"
     },
     {
-      "surface": "מִ֝קֶּ֗טֶב",
+      "surface": "מקטב",
       "gloss": "چہ تباهی"
     },
     {
-      "surface": "יָשׁ֥וּד",
+      "surface": "ישוד",
       "gloss": "ویران کنت"
     },
     {
-      "surface": "צָהֳרָֽיִם",
+      "surface": "צהרים",
       "gloss": "نیمروچءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:50:35.194656323Z",
-  "model": "glm-5.3"
+  ]
 }

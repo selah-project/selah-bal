@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "psalms 17:15",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:34:37.637626711Z",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "من — گوں راستی تُہاری چہرہ گندیت؛ گوں تُہاری شکلءِ بندیت، وتی ہش کتکنءَ شاد بیت۔",
   "tokens": [
     {
-      "surface": "אֲנִ֗י",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "בְּ֭צֶדֶק",
+      "surface": "בצדק",
       "gloss": "گوں راستی"
     },
     {
-      "surface": "אֶחֱזֶ֣ה",
+      "surface": "אחזה",
       "gloss": "گندیت"
     },
     {
-      "surface": "פָּנֶ֑יךָ",
+      "surface": "פניך",
       "gloss": "تُہاری چہرہ"
     },
     {
-      "surface": "אֶשְׂבְּעָ֥ה",
+      "surface": "אשבעה",
       "gloss": "شاد بیت (سیر بیت)"
     },
     {
-      "surface": "בְּ֝הָקִ֗יץ",
+      "surface": "בהקיץ",
       "gloss": "ہش کتکنءَ"
     },
     {
-      "surface": "תְּמוּנָתֶֽךָ",
+      "surface": "תמונתך",
       "gloss": "تُہاری شکل"
     }
-  ],
-  "timestamp": "2026-09-25T20:34:37.637626711Z",
-  "model": "glm-5.3"
+  ]
 }

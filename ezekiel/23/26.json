@@ -1,38 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "ezekiel 23:26",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:15:10.414124567Z",
+  "verse": 26,
+  "ref": "ezekiel 23:26",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "ءُ توءَ گوں ⟨את⟩ تنءِ جامه پوشیت کننت ءُ تنءِ زینتءِ شیان گرنت۔",
   "tokens": [
     {
-      "surface": "וְהִפְשִׁיט֖וּךְ",
+      "surface": "והפשיטוך",
       "gloss": "ءُ توءَ پوشیت کننت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تنءِ جامه"
     },
     {
-      "surface": "בְּגָדֶ֑יִךְ",
+      "surface": "בגדיך",
       "gloss": "تنءِ جامه"
     },
     {
-      "surface": "וְלָקְח֖וּ",
+      "surface": "ולקחו",
       "gloss": "ءُ گرنت"
     },
     {
-      "surface": "כְּלֵ֥י",
+      "surface": "כלי",
       "gloss": "شیان"
     },
     {
-      "surface": "תִּפְאַרְתֵּֽךְ",
+      "surface": "תפארתך",
       "gloss": "تنءِ زینتءِ"
     }
-  ],
-  "timestamp": "2026-09-25T16:15:10.414124567Z",
-  "model": "glm-5.3"
+  ]
 }

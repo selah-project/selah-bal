@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "psalms 60:3",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:43:28.933830941Z",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "tier": "glm-5.2",
   "chapter": 60,
   "translation": "اے ایلوہیم، تُو ماں رِت کت، ماں پروش کت، تُو اِشکنیت؛ آ ماں واپس بچار۔",
   "tokens": [
     {
-      "surface": "אֱ֭לֹהִים",
+      "surface": "אלהים",
       "gloss": "اے ایلوہیم"
     },
     {
-      "surface": "זְנַחְתָּ֣נוּ",
+      "surface": "זנחתנו",
       "gloss": "تُو ماں رِت کت"
     },
     {
-      "surface": "פְרַצְתָּ֑נוּ",
+      "surface": "פרצתנו",
       "gloss": "ماں پروش کت"
     },
     {
-      "surface": "אָ֝נַ֗פְתָּ",
+      "surface": "אנפת",
       "gloss": "تُو اِشکنیت"
     },
     {
-      "surface": "תְּשׁ֣וֹבֵ֥ב",
+      "surface": "תשובב",
       "gloss": "واپس بچار"
     },
     {
-      "surface": "לָֽנוּ",
+      "surface": "לנו",
       "gloss": "ماں"
     }
-  ],
-  "timestamp": "2026-09-25T20:43:28.933830941Z",
-  "model": "glm-5.3"
+  ]
 }

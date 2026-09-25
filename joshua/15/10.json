@@ -1,93 +1,93 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "joshua 15:10",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:41:12.235025521Z",
+  "verse": 10,
+  "ref": "joshua 15:10",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ سرحد چہ بَعلہءَ گِریز کت گوں منزلتءِ چوں، آءُ چڑائی ہار سعیرءَ، ءُ گذشت چڑائی یعاریمءِ ہمتءَ آں چہ اُتریں رُخ — آءُ اِنت کِسلون — ءُ ڈِگ بیت بیت شیمشءَ، ءُ گذشت تِمنہءَ۔",
   "tokens": [
     {
-      "surface": "וְנָסַב",
+      "surface": "ונסב",
       "gloss": "ءُ گِریز کت"
     },
     {
-      "surface": "הַגְּבוּל",
+      "surface": "הגבול",
       "gloss": "سرحد"
     },
     {
-      "surface": "מִבַּעֲלָה",
+      "surface": "מבעלה",
       "gloss": "چہ بَعلہءَ"
     },
     {
-      "surface": "יָמָּה",
+      "surface": "ימה",
       "gloss": "گوں منزلتءِ چوں"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "آءُ"
     },
     {
-      "surface": "הַר",
+      "surface": "הר",
       "gloss": "چڑائی"
     },
     {
-      "surface": "שֵׂעִיר",
+      "surface": "שעיר",
       "gloss": "سعیر"
     },
     {
-      "surface": "וְעָבַר",
+      "surface": "ועבר",
       "gloss": "ءُ گذشت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "آءُ"
     },
     {
-      "surface": "כֶּתֶף",
+      "surface": "כתף",
       "gloss": "ہمتءَ"
     },
     {
-      "surface": "הַר",
+      "surface": "הר",
       "gloss": "چڑائی"
     },
     {
-      "surface": "יְעָרִים",
+      "surface": "יערים",
       "gloss": "یعاریم"
     },
     {
-      "surface": "מִצָּפוֹנָה",
+      "surface": "מצפונה",
       "gloss": "چہ اُتریں رُخ"
     },
     {
-      "surface": "הִיא",
+      "surface": "היא",
       "gloss": "آءُ اِنت"
     },
     {
-      "surface": "כְּסָלוֹן",
+      "surface": "כסלון",
       "gloss": "کِسلون"
     },
     {
-      "surface": "וְיָרַד",
+      "surface": "וירד",
       "gloss": "ءُ ڈِگ بیت"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "بیت"
     },
     {
-      "surface": "שֶׁמֶשׁ",
+      "surface": "שמש",
       "gloss": "شیمشءَ"
     },
     {
-      "surface": "וְעָבַר",
+      "surface": "ועבר",
       "gloss": "ءُ گذشت"
     },
     {
-      "surface": "תִּמְנָה",
+      "surface": "תמנה",
       "gloss": "تِمنہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:41:12.235025521Z",
-  "model": "glm-5.3"
+  ]
 }

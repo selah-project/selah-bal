@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "zechariah 10:11",
   "book": "zechariah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:57:34.750850149Z",
+  "verse": 11,
+  "ref": "zechariah 10:11",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ چہ تنگیءِ دریا ءَ گوزرت کنت، ءُ دریا ءَ چوکاں لٹیت، ءُ یارءِ تمامیں گوڑائیں جاگہان شوش بنت، ءُ آشورءِ بلندی دسیت بیت، ءُ مِتسرایمءِ گد دوریت۔",
   "tokens": [
     {
-      "surface": "וְעָבַ֨ר",
+      "surface": "ועבר",
       "gloss": "ءُ گوزرت کنت"
     },
     {
-      "surface": "בַּיָּ֜ם",
+      "surface": "בים",
       "gloss": "دریا ءَ"
     },
     {
-      "surface": "צָרָ֗ה",
+      "surface": "צרה",
       "gloss": "تنگیءِ"
     },
     {
-      "surface": "וְהִכָּ֤ה",
+      "surface": "והכה",
       "gloss": "ءُ لٹیت"
     },
     {
-      "surface": "בַּיָּ֙ם֙",
+      "surface": "בים",
       "gloss": "دریا ءَ"
     },
     {
-      "surface": "גַּלִּ֔ים",
+      "surface": "גלים",
       "gloss": "چوکاں"
     },
     {
-      "surface": "וְהֹבִ֕ישׁוּ",
+      "surface": "והבישו",
       "gloss": "ءُ شوش بنت"
     },
     {
-      "surface": "כֹּ֖ל",
+      "surface": "כל",
       "gloss": "تمامیں"
     },
     {
-      "surface": "מְצוּל֣וֹת",
+      "surface": "מצולות",
       "gloss": "گوڑائیں جاگہان"
     },
     {
-      "surface": "יְאֹ֑ר",
+      "surface": "יאר",
       "gloss": "یارءِ"
     },
     {
-      "surface": "וְהוּרַ֣ד",
+      "surface": "והורד",
       "gloss": "ءُ دسیت بیت"
     },
     {
-      "surface": "גֵּא֥וֹן",
+      "surface": "גאון",
       "gloss": "بلندی"
     },
     {
-      "surface": "אַשּֽׁוּר",
+      "surface": "אשור",
       "gloss": "آشورءِ"
     },
     {
-      "surface": "וְשֵׁ֥בֶט",
+      "surface": "ושבט",
       "gloss": "ءُ گد"
     },
     {
-      "surface": "מִצְרַ֖יִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     },
     {
-      "surface": "יָסֽוּר",
+      "surface": "יסור",
       "gloss": "دوریت"
     }
-  ],
-  "timestamp": "2026-09-25T20:57:34.750850149Z",
-  "model": "glm-5.3"
+  ]
 }

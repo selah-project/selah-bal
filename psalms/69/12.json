@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "psalms 69:12",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:44:12.546212186Z",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "tier": "glm-5.2",
   "chapter": 69,
   "translation": "ءُ من ءُتی پوشاکءَ کوریں جوائی (شَق) کت، ءُ من اِشاںءِ پہ یک مَثل بوتم۔",
   "tokens": [
     {
-      "surface": "וָאֶתְּנָ֣ה",
+      "surface": "ואתנה",
       "gloss": "ءُ من ءُتی … کت"
     },
     {
-      "surface": "לְבוּשִׁ֣י",
+      "surface": "לבושי",
       "gloss": "پوشاکءَ"
     },
     {
-      "surface": "שָׂ֑ק",
+      "surface": "שק",
       "gloss": "کوریں جوائی (شَق)"
     },
     {
-      "surface": "וָאֱהִ֖י",
+      "surface": "ואהי",
       "gloss": "ءُ من … بوتم"
     },
     {
-      "surface": "לָהֶ֣ם",
+      "surface": "להם",
       "gloss": "اِشاںءِ پہ"
     },
     {
-      "surface": "לְמָשָֽׁל",
+      "surface": "למשל",
       "gloss": "یک مَثل"
     }
-  ],
-  "timestamp": "2026-09-25T20:44:12.546212186Z",
-  "model": "glm-5.3"
+  ]
 }

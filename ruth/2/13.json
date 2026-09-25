@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "ruth 2:13",
   "book": "ruth",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:51:20.761676805Z",
+  "verse": 13,
+  "ref": "ruth 2:13",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ آ گوَشت: چمءَ لبزم کہ اے آقایءِ منءِ چشمانءَ چین لبزم، پرچا کہ ماءَ تسرّیت ءُ پرچا کہ تُرءِ جنکءِ دلءَ سرا گپ کتئے، ءُ من نہ اَم کہ تُریں جنکانءِ یکے بیت.",
   "tokens": [
     {
-      "surface": "וַתֹּאמֶר",
+      "surface": "ותאמר",
       "gloss": "ءُ آ گوَشت"
     },
     {
-      "surface": "אֶמְצָא",
+      "surface": "אמצא",
       "gloss": "لبزم"
     },
     {
-      "surface": "חֵן",
+      "surface": "חן",
       "gloss": "چین"
     },
     {
-      "surface": "בְּעֵינֶיךָ",
+      "surface": "בעיניך",
       "gloss": "تُریں چشمانءَ"
     },
     {
-      "surface": "אֲדֹנִי",
+      "surface": "אדני",
       "gloss": "اے آقایءِ من"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "נִחַמְתַּנִּי",
+      "surface": "נחמתני",
       "gloss": "ماءَ تسرّیت"
     },
     {
-      "surface": "וְכִי",
+      "surface": "וכי",
       "gloss": "ءُ پرچا کہ"
     },
     {
-      "surface": "דִּבַּרְתָּ",
+      "surface": "דברת",
       "gloss": "گپ کتئے"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرا"
     },
     {
-      "surface": "לֵב",
+      "surface": "לב",
       "gloss": "دل"
     },
     {
-      "surface": "שִׁפְחָתֶךָ",
+      "surface": "שפחתך",
       "gloss": "تُرءِ جنک"
     },
     {
-      "surface": "וְאָנֹכִי",
+      "surface": "ואנכי",
       "gloss": "ءُ من"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אֶהְיֶה",
+      "surface": "אהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "כְּאַחַת",
+      "surface": "כאחת",
       "gloss": "یکے چوں"
     },
     {
-      "surface": "שִׁפְחֹתֶיךָ",
+      "surface": "שפחתיך",
       "gloss": "تُریں جنکان"
     }
-  ],
-  "timestamp": "2026-09-25T20:51:20.761676805Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "jeremiah 44:6",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:09:28.568918519Z",
+  "verse": 6,
+  "ref": "jeremiah 44:6",
+  "tier": "glm-5.2",
   "chapter": 44,
   "translation": "ءُ منیں غضب ءُ منیں زہر ریتگ ءُ یہوداہءِ شہرانی تہ ءُ یروشلمءِ کوچانی تہ شر کت، ءُ اِشاں ویران ءُ چٹیل بوتنت، چوش اے روچءِ چوں۔",
   "tokens": [
     {
-      "surface": "וַתִּתַּךְ",
+      "surface": "ותתך",
       "gloss": "ریتگ"
     },
     {
-      "surface": "חֲמָתִי",
+      "surface": "חמתי",
       "gloss": "منیں غضب"
     },
     {
-      "surface": "וְאַפִּי",
+      "surface": "ואפי",
       "gloss": "ءُ منیں زہر"
     },
     {
-      "surface": "וַתִּבְעַר",
+      "surface": "ותבער",
       "gloss": "ءُ شر کت"
     },
     {
-      "surface": "בְּעָרֵי",
+      "surface": "בערי",
       "gloss": "شہرانی تہ"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہءِ"
     },
     {
-      "surface": "וּבְחֻצוֹת",
+      "surface": "ובחצות",
       "gloss": "ءُ کوچانی تہ"
     },
     {
-      "surface": "יְרוּשָׁלִַ͏ם",
+      "surface": "ירושלם",
       "gloss": "یروشلمءِ"
     },
     {
-      "surface": "וַתִּהְיֶינָה",
+      "surface": "ותהיינה",
       "gloss": "ءُ بوتنت"
     },
     {
-      "surface": "לְחָרְבָּה",
+      "surface": "לחרבה",
       "gloss": "ویران"
     },
     {
-      "surface": "לִשְׁמָמָה",
+      "surface": "לשממה",
       "gloss": "ءُ چٹیل"
     },
     {
-      "surface": "כַּיּוֹם",
+      "surface": "כיום",
       "gloss": "چوش اے روچءِ چوں"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T18:09:28.568918519Z",
-  "model": "glm-5.3"
+  ]
 }

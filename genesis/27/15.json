@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "genesis 27:15",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:48:45.544842740Z",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ رِبکہءَ عیساوءِ ⟨את⟩ چوڑے لپتئے کہ وتی زہگءِ ہستنت، چہ پسند بوتگیں لبز کہ ⟨את⟩ آییءَ پہ گڈہ چہ اِشاں تہ گدانءَ، ءُ ⟨את⟩ یعقوبءَ کہ وتی نکیں زہگ اِنت، آییءَ پوشاندنت۔",
   "tokens": [
     {
-      "surface": "וַתִּקַּח",
+      "surface": "ותקח",
       "gloss": "ءُ ءَ چِیت"
     },
     {
-      "surface": "רִבְקָה",
+      "surface": "רבקה",
       "gloss": "رِبکہءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "چوڑے لپتئے"
     },
     {
-      "surface": "בִּגְדֵי",
+      "surface": "בגדי",
       "gloss": "چوڑے لپتئے"
     },
     {
-      "surface": "עֵשָׂו",
+      "surface": "עשו",
       "gloss": "عیساوءِ"
     },
     {
-      "surface": "בְּנָהּ",
+      "surface": "בנה",
       "gloss": "وتی زہگءِ"
     },
     {
-      "surface": "הַגָּדֹל",
+      "surface": "הגדל",
       "gloss": "چوڑے"
     },
     {
-      "surface": "הֶחָמֻדֹת",
+      "surface": "החמדת",
       "gloss": "پسند بوتگیں لبز"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אִתָּהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آییءَ پہ گڈہ"
     },
     {
-      "surface": "בַּבַּיִת",
+      "surface": "בבית",
       "gloss": "تہ گدانءَ"
     },
     {
-      "surface": "וַתַּלְבֵּשׁ",
+      "surface": "ותלבש",
       "gloss": "ءُ پوشاندنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یعقوبءَ"
     },
     {
-      "surface": "יַעֲקֹב",
+      "surface": "יעקב",
       "gloss": "یعقوبءَ"
     },
     {
-      "surface": "בְּנָהּ",
+      "surface": "בנה",
       "gloss": "وتی زہگءِ"
     },
     {
-      "surface": "הַקָּטָן",
+      "surface": "הקטן",
       "gloss": "نکیں زہگ"
     }
-  ],
-  "timestamp": "2026-09-25T16:48:45.544842740Z",
-  "model": "glm-5.3"
+  ]
 }

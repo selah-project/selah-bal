@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "nehemiah 9:7",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:42:22.375712834Z",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "تو خود یاہوہ ایلوہیم اِنت، کہ اَبرامءَ چنیت ءُ آییءَ چہ اُرءِ کَسدیان در کیت، ءُ آییءِ نامءَ اَبراہام ارنت.",
   "tokens": [
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "خود"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בָּחַרְתָּ",
+      "surface": "בחרת",
       "gloss": "چنیت"
     },
     {
-      "surface": "בְּאַבְרָם",
+      "surface": "באברם",
       "gloss": "اَبرامءَ"
     },
     {
-      "surface": "וְהוֹצֵאתוֹ",
+      "surface": "והוצאתו",
       "gloss": "ءُ آییءَ در کیت"
     },
     {
-      "surface": "מֵאוּר",
+      "surface": "מאור",
       "gloss": "چہ اُر"
     },
     {
-      "surface": "כַּשְׂדִּים",
+      "surface": "כשדים",
       "gloss": "کَسدیانی"
     },
     {
-      "surface": "וְשַׂמְתָּ",
+      "surface": "ושמת",
       "gloss": "ءُ … ارنت"
     },
     {
-      "surface": "שְּׁמוֹ",
+      "surface": "שמו",
       "gloss": "آییءِ نام"
     },
     {
-      "surface": "אַבְרָהָם",
+      "surface": "אברהם",
       "gloss": "اَبراہام"
     }
-  ],
-  "timestamp": "2026-09-25T19:42:22.375712834Z",
-  "model": "glm-5.3"
+  ]
 }

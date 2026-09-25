@@ -1,25 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "genesis 43:1",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:57:09.068587196Z",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "tier": "glm-5.2",
   "chapter": 43,
   "translation": "ءُ قحطالی زمینءَ تہ گران بوت،",
   "tokens": [
     {
-      "surface": "וְהָרָעָ֖ב",
+      "surface": "והרעב",
       "gloss": "ءُ قحطالی"
     },
     {
-      "surface": "כָּבֵ֥ד",
+      "surface": "כבד",
       "gloss": "گران بوت"
     },
     {
-      "surface": "בָּאָֽרֶץ",
+      "surface": "בארץ",
       "gloss": "زمینءَ تہ"
     }
-  ],
-  "timestamp": "2026-09-25T16:57:09.068587196Z",
-  "model": "glm-5.3"
+  ]
 }

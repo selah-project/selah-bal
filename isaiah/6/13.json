@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "isaiah 6:13",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:35:10.374392005Z",
+  "verse": 13,
+  "ref": "isaiah 6:13",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ ھنے آییءِ تہءَ دہمی بیت، ءُ پدا لٹیت، ءُ سوزئیں پہ بیت — چوش شِشمی ءُ چوش بلوط کہ وت پت ونڈنیت ءُ آشانءِ تہءَ تنہ ماندگ بیت — پاک توز آییءِ تنہ اِنت.",
   "tokens": [
     {
-      "surface": "וְע֥וֹד",
+      "surface": "ועוד",
       "gloss": "ءُ ھنے"
     },
     {
-      "surface": "בָּהּ֙",
+      "surface": "בה",
       "gloss": "آییءِ تہءَ"
     },
     {
-      "surface": "עֲשִׂ֣רִיָּ֔ה",
+      "surface": "עשריה",
       "gloss": "دہمی"
     },
     {
-      "surface": "וְשָׁ֖בָה",
+      "surface": "ושבה",
       "gloss": "ءُ پدا لٹیت"
     },
     {
-      "surface": "וְהָ֣יְתָה",
+      "surface": "והיתה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "לְבָעֵ֑ר",
+      "surface": "לבער",
       "gloss": "سوزئیں پہ"
     },
     {
-      "surface": "כָּאֵלָ֣ה",
+      "surface": "כאלה",
       "gloss": "چوش شِشمی"
     },
     {
-      "surface": "וְכָאַלּ֗וֹן",
+      "surface": "וכאלון",
       "gloss": "ءُ چوش بلوط"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בְּשַׁלֶּ֨כֶת֙",
+      "surface": "בשלכת",
       "gloss": "وت پت ونڈنیت"
     },
     {
-      "surface": "מַּצֶּ֣בֶת",
+      "surface": "מצבת",
       "gloss": "تنہ"
     },
     {
-      "surface": "בָּ֔ם",
+      "surface": "בם",
       "gloss": "آشانءِ تہءَ"
     },
     {
-      "surface": "זֶ֥רַע",
+      "surface": "זרע",
       "gloss": "توز"
     },
     {
-      "surface": "קֹ֖דֶשׁ",
+      "surface": "קדש",
       "gloss": "پاک"
     },
     {
-      "surface": "מַּצַּבְתָּֽהּ",
+      "surface": "מצבתה",
       "gloss": "آییءِ تنہ"
     }
-  ],
-  "timestamp": "2026-09-25T17:35:10.374392005Z",
-  "model": "glm-5.3"
+  ]
 }

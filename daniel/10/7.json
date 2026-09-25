@@ -1,99 +1,99 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "daniel 10:7",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:50:16.298500513Z",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ من، دانیال، یکے چش کت‌م ⟨את⟩ منظرءَ؛ ءُ مردمان کہ گوں من اتن ⟨את⟩ منظرءَ نہ چش کت، بلے یک گیش لرز ایشانی سرءَ کپت ءُ اے پنہءَ دھرکنت۔",
   "tokens": [
     {
-      "surface": "וְרָאִיתִי",
+      "surface": "וראיתי",
       "gloss": "ءُ چش کت‌م"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "דָנִיֵּאל",
+      "surface": "דניאל",
       "gloss": "دانیال"
     },
     {
-      "surface": "לְבַדִּי",
+      "surface": "לבדי",
       "gloss": "یکے"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منظر"
     },
     {
-      "surface": "הַמַּרְאָה",
+      "surface": "המראה",
       "gloss": "منظر"
     },
     {
-      "surface": "וְהָאֲנָשִׁים",
+      "surface": "והאנשים",
       "gloss": "ءُ مردمان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הָיוּ",
+      "surface": "היו",
       "gloss": "اتن"
     },
     {
-      "surface": "עִמִּי",
+      "surface": "עמי",
       "gloss": "گوں من"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "רָאוּ",
+      "surface": "ראו",
       "gloss": "چش کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منظر"
     },
     {
-      "surface": "הַמַּרְאָה",
+      "surface": "המראה",
       "gloss": "منظر"
     },
     {
-      "surface": "אֲבָל",
+      "surface": "אבל",
       "gloss": "بلے"
     },
     {
-      "surface": "חֲרָדָה",
+      "surface": "חרדה",
       "gloss": "لرز"
     },
     {
-      "surface": "גְדֹלָה",
+      "surface": "גדלה",
       "gloss": "گیش"
     },
     {
-      "surface": "נָפְלָה",
+      "surface": "נפלה",
       "gloss": "کپت"
     },
     {
-      "surface": "עֲלֵיהֶם",
+      "surface": "עליהם",
       "gloss": "ایشانی سرءَ"
     },
     {
-      "surface": "וַיִּבְרְחוּ",
+      "surface": "ויברחו",
       "gloss": "ءُ دھرکنت"
     },
     {
-      "surface": "בְּהֵחָבֵא",
+      "surface": "בהחבא",
       "gloss": "پنہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:50:16.298500513Z",
-  "model": "glm-5.3"
+  ]
 }

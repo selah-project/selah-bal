@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "leviticus 26:20",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:26:40.399387203Z",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "ءُ تومئیں زور بیکارءَ بُر بیت، ءُ تومئیں زمین ⟨את⟩ وتی حاصلءَ نہ دیت، ءُ زمینءِ دار وتی پھل نہ دنت.",
   "tokens": [
     {
-      "surface": "וְתַ֥ם",
+      "surface": "ותם",
       "gloss": "ءُ بُر بیت"
     },
     {
-      "surface": "לָרִ֖יק",
+      "surface": "לריק",
       "gloss": "بیکارءَ"
     },
     {
-      "surface": "כֹּחֲכֶ֑ם",
+      "surface": "כחכם",
       "gloss": "تومئیں زور"
     },
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "תִּתֵּ֤ן",
+      "surface": "תתן",
       "gloss": "دیت"
     },
     {
-      "surface": "אַרְצְכֶם֙",
+      "surface": "ארצכם",
       "gloss": "تومئیں زمین"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی حاصل"
     },
     {
-      "surface": "יְבוּלָ֔הּ",
+      "surface": "יבולה",
       "gloss": "وتی حاصل"
     },
     {
-      "surface": "וְעֵ֣ץ",
+      "surface": "ועץ",
       "gloss": "ءُ دار"
     },
     {
-      "surface": "הָאָ֔רֶץ",
+      "surface": "הארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִתֵּ֖ן",
+      "surface": "יתן",
       "gloss": "دنت"
     },
     {
-      "surface": "פִּרְיֽוֹ",
+      "surface": "פריו",
       "gloss": "وتی پھل"
     }
-  ],
-  "timestamp": "2026-09-25T19:26:40.399387203Z",
-  "model": "glm-5.3"
+  ]
 }

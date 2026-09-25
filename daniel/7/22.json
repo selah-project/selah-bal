@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "daniel 7:22",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:01:04.758499660Z",
+  "verse": 22,
+  "ref": "daniel 7:22",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "تا آ کہ روچانی پیر آت، ءُ داوری پہ اعلیءِ قدیشانَء دات؛ ءُ وہد رسیت، ءُ قدیشان پادشاہی گرپت۔",
   "tokens": [
     {
-      "surface": "עַ֣ד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "דִּֽי",
+      "surface": "די",
       "gloss": "آ کہ"
     },
     {
-      "surface": "אֲתָ֗ה",
+      "surface": "אתה",
       "gloss": "آت"
     },
     {
-      "surface": "עַתִּיק֙",
+      "surface": "עתיק",
       "gloss": "پیر"
     },
     {
-      "surface": "יוֹמַיָּ֔א",
+      "surface": "יומיא",
       "gloss": "روچانی"
     },
     {
-      "surface": "וְדִינָ֣א",
+      "surface": "ודינא",
       "gloss": "ءُ داوری"
     },
     {
-      "surface": "יְהִ֔ב",
+      "surface": "יהב",
       "gloss": "دات"
     },
     {
-      "surface": "לְקַדִּישֵׁ֖י",
+      "surface": "לקדישי",
       "gloss": "پہ قدیشانی"
     },
     {
-      "surface": "עֶלְיוֹנִ֑ין",
+      "surface": "עליונין",
       "gloss": "اعلیءِ"
     },
     {
-      "surface": "וְזִמְנָ֣א",
+      "surface": "וזמנא",
       "gloss": "ءُ وہد"
     },
     {
-      "surface": "מְטָ֔ה",
+      "surface": "מטה",
       "gloss": "رسیت"
     },
     {
-      "surface": "וּמַלְכוּתָ֖א",
+      "surface": "ומלכותא",
       "gloss": "ءُ پادشاہی"
     },
     {
-      "surface": "הֶחֱסִ֥נוּ",
+      "surface": "החסנו",
       "gloss": "گرپتگ"
     },
     {
-      "surface": "קַדִּישִֽׁין",
+      "surface": "קדישין",
       "gloss": "قدیشان"
     }
-  ],
-  "timestamp": "2026-09-25T15:01:04.758499660Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "jeremiah 51:18",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:12:56.379505141Z",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "tier": "glm-5.2",
   "chapter": 51,
   "translation": "הبل אِنت، آ فریبءِ کار؛ اِشانی سزاءِ وہدءَ ⟨اور⟩ نابود بیت۔",
   "tokens": [
     {
-      "surface": "הֶ֣בֶל",
+      "surface": "הבל",
       "gloss": "هبل"
     },
     {
-      "surface": "הֵ֔מָּה",
+      "surface": "המה",
       "gloss": "آ"
     },
     {
-      "surface": "מַעֲשֵׂ֖ה",
+      "surface": "מעשה",
       "gloss": "کار"
     },
     {
-      "surface": "תַּעְתֻּעִ֑ים",
+      "surface": "תעתעים",
       "gloss": "فریبءِ"
     },
     {
-      "surface": "בְּעֵ֥ת",
+      "surface": "בעת",
       "gloss": "ءِ وہدءَ"
     },
     {
-      "surface": "פְּקֻדָּתָ֖ם",
+      "surface": "פקדתם",
       "gloss": "سزا"
     },
     {
-      "surface": "יֹאבֵֽדוּ",
+      "surface": "יאבדו",
       "gloss": "نابود بیت"
     }
-  ],
-  "timestamp": "2026-09-25T18:12:56.379505141Z",
-  "model": "glm-5.3"
+  ]
 }

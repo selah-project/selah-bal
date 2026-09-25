@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "exodus 27:13",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:51:45.373175348Z",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ گنجائشءِ چیر ہپتمی روچءِ دیمءَ، چوڑچوڑی پہ برآمدگاہءِ دیم، پنجاه گامہ اِنت.",
   "tokens": [
     {
-      "surface": "וְרֹ֣חַב",
+      "surface": "ורחב",
       "gloss": "ءُ گنجائشءِ"
     },
     {
-      "surface": "הֶֽחָצֵ֗ר",
+      "surface": "החצר",
       "gloss": "چیر"
     },
     {
-      "surface": "לִפְאַ֛ת",
+      "surface": "לפאת",
       "gloss": "دیمءَ"
     },
     {
-      "surface": "קֵ֥דְמָה",
+      "surface": "קדמה",
       "gloss": "ہپتمی روچءِ"
     },
     {
-      "surface": "מִזְרָ֖חָה",
+      "surface": "מזרחה",
       "gloss": "چوڑچوڑی پہ برآمدگاہءِ دیم"
     },
     {
-      "surface": "חֲמִשִּׁ֥ים",
+      "surface": "חמשים",
       "gloss": "پنجاه"
     },
     {
-      "surface": "אַמָּֽה",
+      "surface": "אמה",
       "gloss": "گامہ"
     }
-  ],
-  "timestamp": "2026-09-25T15:51:45.373175348Z",
-  "model": "glm-5.3"
+  ]
 }

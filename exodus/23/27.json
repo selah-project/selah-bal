@@ -1,84 +1,84 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "exodus 23:27",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:52:21.567054400Z",
+  "verse": 27,
+  "ref": "exodus 23:27",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "منیں ڈرءَ ⟨את⟩ چہ توءِ دیمءَ لانٹین، ءُ من ⟨את⟩ سب قومءَ کہ تُو اِشانی میانءَ رسیت مرانیت، ءُ من توءِ سب دشمنانءَ ⟨את⟩ توءِ رہءَ پشت بدارین۔",
   "tokens": [
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منیں ڈر"
     },
     {
-      "surface": "אֵימָתִי",
+      "surface": "אימתי",
       "gloss": "منیں ڈر"
     },
     {
-      "surface": "אֲשַׁלַּח",
+      "surface": "אשלח",
       "gloss": "لانٹین"
     },
     {
-      "surface": "לְפָנֶיךָ",
+      "surface": "לפניך",
       "gloss": "چہ توءِ دیمءَ"
     },
     {
-      "surface": "וְהַמֹּתִי",
+      "surface": "והמתי",
       "gloss": "ءُ من مرانیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سب قوم"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "سب"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "قوم"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "תָּבֹא",
+      "surface": "תבא",
       "gloss": "رسیت"
     },
     {
-      "surface": "בָּהֶם",
+      "surface": "בהם",
       "gloss": "اِشانی میانءَ"
     },
     {
-      "surface": "וְנָתַתִּי",
+      "surface": "ונתתי",
       "gloss": "ءُ بدارین"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سب دشمنان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "سب"
     },
     {
-      "surface": "אֹיְבֶיךָ",
+      "surface": "איביך",
       "gloss": "توءِ دشمنان"
     },
     {
-      "surface": "אֵלֶיךָ",
+      "surface": "אליך",
       "gloss": "توءِ رہءَ"
     },
     {
-      "surface": "עֹרֶף",
+      "surface": "ערף",
       "gloss": "پشت"
     }
-  ],
-  "timestamp": "2026-09-25T15:52:21.567054400Z",
-  "model": "glm-5.3"
+  ]
 }

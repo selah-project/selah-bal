@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "job 18:13",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:23:59.158817604Z",
+  "verse": 13,
+  "ref": "job 18:13",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "آییءِ پوستءِ شاخانءَ چکشت، آییءِ شاخانءَ چکشت موتءِ پہلءَ زہگ",
   "tokens": [
     {
-      "surface": "יֹאכַל",
+      "surface": "יאכל",
       "gloss": "چکشت"
     },
     {
-      "surface": "בַּדֵּי",
+      "surface": "בדי",
       "gloss": "شاخان"
     },
     {
-      "surface": "עוֹרוֹ",
+      "surface": "עורו",
       "gloss": "آییءِ پوستءِ"
     },
     {
-      "surface": "יֹאכַל",
+      "surface": "יאכל",
       "gloss": "چکشت"
     },
     {
-      "surface": "בַּדָּיו",
+      "surface": "בדיו",
       "gloss": "آییءِ شاخانءَ"
     },
     {
-      "surface": "בְּכוֹר",
+      "surface": "בכור",
       "gloss": "پہلءَ زہگ"
     },
     {
-      "surface": "מָוֶת",
+      "surface": "מות",
       "gloss": "موتءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:23:59.158817604Z",
-  "model": "glm-5.3"
+  ]
 }

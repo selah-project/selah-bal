@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 45,
-  "ref": "genesis 27:45",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:48:10.471675499Z",
+  "verse": 45,
+  "ref": "genesis 27:45",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "تا کہ تئیں براتءِ غصہ چہ تئیں پدا بگرت ءُ آءُ ⟨את⟩ آ چیز کہ توں آءَ کت ونڈیت، ءُ من ءُ واشل کیت ءُ توں چہ اُشا گنت — چو من دگہ دوگانیں چہ یک روچءَ ونڈ بون؟",
   "tokens": [
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا کہ"
     },
     {
-      "surface": "שׁ֨וּב",
+      "surface": "שוב",
       "gloss": "پدا بگرت"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "غصہ"
     },
     {
-      "surface": "אָחִ֜יךָ",
+      "surface": "אחיך",
       "gloss": "تئیں برات"
     },
     {
-      "surface": "מִמְּךָ֗",
+      "surface": "ממך",
       "gloss": "چہ تئیں"
     },
     {
-      "surface": "וְשָׁכַח֙",
+      "surface": "ושכח",
       "gloss": "ءُ ونڈیت"
     },
     {
-      "surface": "אֵ֣ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آ چیز کہ توں آءَ کت"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ چیز کہ"
     },
     {
-      "surface": "עָשִׂ֣יתָ",
+      "surface": "עשית",
       "gloss": "کت"
     },
     {
-      "surface": "לּ֔וֹ",
+      "surface": "לו",
       "gloss": "آءَ"
     },
     {
-      "surface": "וְשָׁלַחְתִּ֖י",
+      "surface": "ושלחתי",
       "gloss": "ءُ من واشل کیت"
     },
     {
-      "surface": "וּלְקַחְתִּ֣יךָ",
+      "surface": "ולקחתיך",
       "gloss": "ءُ توں گنت"
     },
     {
-      "surface": "מִשָּׁ֑ם",
+      "surface": "משם",
       "gloss": "چہ اُشا"
     },
     {
-      "surface": "לָמָ֥ה",
+      "surface": "למה",
       "gloss": "چو"
     },
     {
-      "surface": "אֶשְׁכַּ֛ל",
+      "surface": "אשכל",
       "gloss": "ونڈ بون"
     },
     {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "دگہ"
     },
     {
-      "surface": "שְׁנֵיכֶ֖ם",
+      "surface": "שניכם",
       "gloss": "دوگانیں"
     },
     {
-      "surface": "י֥וֹם",
+      "surface": "יום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "אֶחָֽד",
+      "surface": "אחד",
       "gloss": "یک"
     }
-  ],
-  "timestamp": "2026-09-25T16:48:10.471675499Z",
-  "model": "glm-5.3"
+  ]
 }

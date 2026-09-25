@@ -1,125 +1,125 @@
 {
-  "tier": "glm-5.2",
-  "verse": 52,
-  "ref": "leviticus 13:52",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:18:10.865000122Z",
+  "verse": 52,
+  "ref": "leviticus 13:52",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ سوچنگ بیت ⟨את⟩ جامہ ءُ ⟨את⟩ تانی ءُ ⟨את⟩ پرنگ چہ اُن ءُ چہ کنّاں، ءُ ⟨את⟩ پُرے ءُ چمءِ کُلے کہ آییءَ تہ نشان بیت — پرچا کہ آ یک اَتِکڑیں صرع اِنت، آہءَ آپءَ سوچنگ بیت.",
   "tokens": [
     {
-      "surface": "וְשָׂרַ֨ף",
+      "surface": "ושרף",
       "gloss": "ءُ سوچنگ بیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "جامہ"
     },
     {
-      "surface": "הַבֶּ֜גֶד",
+      "surface": "הבגד",
       "gloss": "جامہ"
     },
     {
-      "surface": "אוֹ",
+      "surface": "או",
       "gloss": "ءُ"
     },
     {
-      "surface": "אֵֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تانی"
     },
     {
-      "surface": "הַשְּׁתִ֣י",
+      "surface": "השתי",
       "gloss": "تانی"
     },
     {
-      "surface": "אוֹ",
+      "surface": "או",
       "gloss": "ءُ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پُرنگ"
     },
     {
-      "surface": "הָעֵ֗רֶב",
+      "surface": "הערב",
       "gloss": "پُرنگ"
     },
     {
-      "surface": "בַּצֶּ֨מֶר֙",
+      "surface": "בצמר",
       "gloss": "چہ اُن"
     },
     {
-      "surface": "אוֹ",
+      "surface": "או",
       "gloss": "ءُ"
     },
     {
-      "surface": "בַּפִּשְׁתִּ֔ים",
+      "surface": "בפשתים",
       "gloss": "چہ کنّاں"
     },
     {
-      "surface": "אוֹ",
+      "surface": "או",
       "gloss": "ءُ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پُرے"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پُرے"
     },
     {
-      "surface": "כְּלִ֣י",
+      "surface": "כלי",
       "gloss": "کُلے"
     },
     {
-      "surface": "הָע֔וֹר",
+      "surface": "העור",
       "gloss": "چمءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יִהְיֶ֥ה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "ב֖וֹ",
+      "surface": "בו",
       "gloss": "آییءَ تہ"
     },
     {
-      "surface": "הַנָּ֑גַע",
+      "surface": "הנגע",
       "gloss": "نشان"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "צָרַ֫עַת",
+      "surface": "צרעת",
       "gloss": "صرع"
     },
     {
-      "surface": "מַמְאֶ֨רֶת֙",
+      "surface": "ממארת",
       "gloss": "اَتِکڑیں"
     },
     {
-      "surface": "הִ֔וא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "בָּאֵ֖שׁ",
+      "surface": "באש",
       "gloss": "آہءَ آپءَ"
     },
     {
-      "surface": "תִּשָּׂרֵֽף",
+      "surface": "תשרף",
       "gloss": "سوچنگ بیت"
     }
-  ],
-  "timestamp": "2026-09-25T19:18:10.865000122Z",
-  "model": "glm-5.3"
+  ]
 }

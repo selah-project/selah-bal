@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "1-kings 1:8",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:47:43.814840692Z",
+  "verse": 8,
+  "ref": "1-kings 1:8",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ زادوکءِ کاہن ءُ بنایاہو زہگِ یہویاداع ءُ ناتن ءُ پیغمبر شمعی ءُ رعی ءُ زورآور کہ داودءِ اَنت، اَنت نہ گوں اَدونیاہوءَ۔",
   "tokens": [
     {
-      "surface": "וְצָד֣וֹק",
+      "surface": "וצדוק",
       "gloss": "ءُ زادوک"
     },
     {
-      "surface": "הַכֹּהֵ֠ן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "וּבְנָיָ֨הוּ",
+      "surface": "ובניהו",
       "gloss": "ءُ بنایاہو"
     },
     {
-      "surface": "בֵּ֥ן",
+      "surface": "בן",
       "gloss": "زہگِ"
     },
     {
-      "surface": "יְהוֹיָדָ֜ע",
+      "surface": "יהוידע",
       "gloss": "یہویاداع"
     },
     {
-      "surface": "וְנָתָ֤ן",
+      "surface": "ונתן",
       "gloss": "ءُ ناتن"
     },
     {
-      "surface": "הַנָּבִיא֙",
+      "surface": "הנביא",
       "gloss": "پیغمبر"
     },
     {
-      "surface": "וְשִׁמְעִ֣י",
+      "surface": "ושמעי",
       "gloss": "ءُ شمعی"
     },
     {
-      "surface": "וְרֵעִ֔י",
+      "surface": "ורעי",
       "gloss": "ءُ رعی"
     },
     {
-      "surface": "וְהַגִּבּוֹרִ֖ים",
+      "surface": "והגבורים",
       "gloss": "ءُ زورآور"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "לְדָוִ֑ד",
+      "surface": "לדוד",
       "gloss": "داودءِ اَنت"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "הָי֖וּ",
+      "surface": "היו",
       "gloss": "اَنت"
     },
     {
-      "surface": "עִ֖ם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "אֲדֹנִיָּֽהוּ",
+      "surface": "אדניהו",
       "gloss": "اَدونیاہوءَ"
     }
-  ],
-  "timestamp": "2026-09-25T12:47:43.814840692Z",
-  "model": "glm-5.3"
+  ]
 }

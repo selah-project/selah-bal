@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "deuteronomy 16:2",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:12:52.424936062Z",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ توں پہ یاہوہءَ، وتءِ ایلوہیمءَ، پسحءِ قربانی، گوں شپال ءُ گاوان، دیم دیت، اُو جاگہءَ کہ یاہوہ آییءَ چنیت کہ آییءِ نام اُدا وسنت، اُددا۔",
   "tokens": [
     {
-      "surface": "וְזָבַ֥חְתָּ",
+      "surface": "וזבחת",
       "gloss": "ءُ توں قربانی دیت"
     },
     {
-      "surface": "פֶּ֛סַח",
+      "surface": "פסח",
       "gloss": "پسح"
     },
     {
-      "surface": "לַיהוָ֥ה",
+      "surface": "ליהוה",
       "gloss": "پہ یاہوہءَ"
     },
     {
-      "surface": "אֱלֹהֶ֖יךָ",
+      "surface": "אלהיך",
       "gloss": "وتءِ ایلوہیمءَ"
     },
     {
-      "surface": "צֹ֣אן",
+      "surface": "צאן",
       "gloss": "شپال"
     },
     {
-      "surface": "וּבָקָ֑ר",
+      "surface": "ובקר",
       "gloss": "ءُ گاوان"
     },
     {
-      "surface": "בַּמָּק֥וֹם",
+      "surface": "במקום",
       "gloss": "جاگہءَ"
     },
     {
-      "surface": "אֲשֶׁר־",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יִבְחַ֣ר",
+      "surface": "יבחר",
       "gloss": "چنیت"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "לְשַׁכֵּ֥ן",
+      "surface": "לשכן",
       "gloss": "کہ وسنت"
     },
     {
-      "surface": "שְׁמ֖וֹ",
+      "surface": "שמו",
       "gloss": "آییءِ نام"
     },
     {
-      "surface": "שָֽׁם",
+      "surface": "שם",
       "gloss": "اُددا"
     }
-  ],
-  "timestamp": "2026-09-25T15:12:52.424936062Z",
-  "model": "glm-5.3"
+  ]
 }

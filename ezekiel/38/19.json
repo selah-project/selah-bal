@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "ezekiel 38:19",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:23:18.117236207Z",
+  "verse": 19,
+  "ref": "ezekiel 38:19",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "ءُ گوں مءِ کینہءَ، مءِ غصہءِ آتشءَ من گوَشتیت: آءَ نہ کہ اے روچءَ یک گیش زلزہ بیت یسرائیلءِ زمینءِ سرا۔",
   "tokens": [
     {
-      "surface": "וּבְקִנְאָתִ֥י",
+      "surface": "ובקנאתי",
       "gloss": "ءُ گوں مءِ کینہءَ"
     },
     {
-      "surface": "בְאֵשׁ",
+      "surface": "באש",
       "gloss": "آتشءَ"
     },
     {
-      "surface": "עֶבְרָתִ֖י",
+      "surface": "עברתי",
       "gloss": "مءِ غصہءِ"
     },
     {
-      "surface": "דִּבַּ֑רְתִּי",
+      "surface": "דברתי",
       "gloss": "من گوَشتیت"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "آءَ"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "בַּיּ֣וֹם",
+      "surface": "ביום",
       "gloss": "اے روچءَ"
     },
     {
-      "surface": "הַה֗וּא",
+      "surface": "ההוא",
       "gloss": "آ"
     },
     {
-      "surface": "יִֽהְיֶה֙",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "רַ֣עַשׁ",
+      "surface": "רעש",
       "gloss": "زلزہ"
     },
     {
-      "surface": "גָּד֔וֹל",
+      "surface": "גדול",
       "gloss": "گیش"
     },
     {
-      "surface": "עַ֖ל",
+      "surface": "על",
       "gloss": "سرا"
     },
     {
-      "surface": "אַדְמַ֥ת",
+      "surface": "אדמת",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     }
-  ],
-  "timestamp": "2026-09-25T16:23:18.117236207Z",
-  "model": "glm-5.3"
+  ]
 }

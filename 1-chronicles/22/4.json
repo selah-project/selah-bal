@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "1-chronicles 22:4",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:40:00.346387406Z",
+  "verse": 4,
+  "ref": "1-chronicles 22:4",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ ارزانی دار بے شمار، پرچا کہ سیدونیان ءُ صورانی ارزانی دار گیش پہ داود گوں آورنت.",
   "tokens": [
     {
-      "surface": "וַעֲצֵי",
+      "surface": "ועצי",
       "gloss": "ءُ دار"
     },
     {
-      "surface": "אֲרָזִים",
+      "surface": "ארזים",
       "gloss": "ارزانی"
     },
     {
-      "surface": "לְאֵין",
+      "surface": "לאין",
       "gloss": "بے"
     },
     {
-      "surface": "מִסְפָּר",
+      "surface": "מספר",
       "gloss": "شماری"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "הֵבִיאוּ",
+      "surface": "הביאו",
       "gloss": "گوں آورنت"
     },
     {
-      "surface": "הַצִּידֹנִים",
+      "surface": "הצידנים",
       "gloss": "سیدونیان"
     },
     {
-      "surface": "וְהַצֹּרִים",
+      "surface": "והצרים",
       "gloss": "ءُ صورانی"
     },
     {
-      "surface": "עֲצֵי",
+      "surface": "עצי",
       "gloss": "دار"
     },
     {
-      "surface": "אֲרָזִים",
+      "surface": "ארזים",
       "gloss": "ارزانی"
     },
     {
-      "surface": "לָרֹב",
+      "surface": "לרב",
       "gloss": "گیش"
     },
     {
-      "surface": "לְדָוִיד",
+      "surface": "לדויד",
       "gloss": "پہ داود"
     }
-  ],
-  "timestamp": "2026-09-25T12:40:00.346387406Z",
-  "model": "glm-5.3"
+  ]
 }

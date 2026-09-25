@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "ezekiel 27:32",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:07:57.284622075Z",
+  "verse": 32,
+  "ref": "ezekiel 27:32",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ اِشانی زہگ اِشائیءَ پہ نوحہ روت ءُ اِشا ءُچ اِشائیءَ کوسیت: کے چوش صُور ⟨اِنت⟩، چوش آ کہ ماں ءُپءِ تہ خاموش کتگ ⟨اِنت⟩؟",
   "tokens": [
     {
-      "surface": "וְנָשְׂא֨וּ",
+      "surface": "ונשאו",
       "gloss": "ءُ روت"
     },
     {
-      "surface": "אֵלַ֤יִךְ",
+      "surface": "אליך",
       "gloss": "اِشائیءَ"
     },
     {
-      "surface": "בְּנִיהֶם֙",
+      "surface": "בניהם",
       "gloss": "اِشانی زہگ"
     },
     {
-      "surface": "קִינָ֔ה",
+      "surface": "קינה",
       "gloss": "نوحہ"
     },
     {
-      "surface": "וְקוֹנְנ֖וּ",
+      "surface": "וקוננו",
       "gloss": "ءُ کوسیت"
     },
     {
-      "surface": "עָלֶ֑יךָ",
+      "surface": "עליך",
       "gloss": "اِشائیءَ ءُچ"
     },
     {
-      "surface": "מִ֣י",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "כְצֽוֹר",
+      "surface": "כצור",
       "gloss": "چوش صُور"
     },
     {
-      "surface": "כְּדֻמָ֖ה",
+      "surface": "כדמה",
       "gloss": "چوش خاموش کتگ"
     },
     {
-      "surface": "בְּת֥וֹךְ",
+      "surface": "בתוך",
       "gloss": "ماں تہ"
     },
     {
-      "surface": "הַיָּֽם",
+      "surface": "הים",
       "gloss": "ءُپ"
     }
-  ],
-  "timestamp": "2026-09-25T21:07:57.284622075Z",
-  "model": "glm-5.3"
+  ]
 }

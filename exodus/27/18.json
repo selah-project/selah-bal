@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "exodus 27:18",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:07:28.162254582Z",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "گدانءِ طول سد اَمہ اِنت، ءُ پنچاہ گوں پنچاہ پہئے، ءُ اُچائی پنچ اَمہءَ چہ سپیں منجءِ بٹائیں دوری، ءُ آیانی بنیاداں کانسیءَ۔",
   "tokens": [
     {
-      "surface": "אֹרֶךְ",
+      "surface": "ארך",
       "gloss": "طول"
     },
     {
-      "surface": "הֶחָצֵר",
+      "surface": "החצר",
       "gloss": "گدانءِ"
     },
     {
-      "surface": "מֵאָה",
+      "surface": "מאה",
       "gloss": "سد"
     },
     {
-      "surface": "בָּאַמָּה",
+      "surface": "באמה",
       "gloss": "اَمہ"
     },
     {
-      "surface": "וְרֹחַב",
+      "surface": "ורחב",
       "gloss": "ءُ پنچاہ گوں پنچاہ پہئے"
     },
     {
-      "surface": "חֲמִשִּׁים",
+      "surface": "חמשים",
       "gloss": "پنچاہ"
     },
     {
-      "surface": "בַּחֲמִשִּׁים",
+      "surface": "בחמשים",
       "gloss": "گوں پنچاہ"
     },
     {
-      "surface": "וְקֹמָה",
+      "surface": "וקמה",
       "gloss": "ءُ اُچائی"
     },
     {
-      "surface": "חָמֵשׁ",
+      "surface": "חמש",
       "gloss": "پنچ"
     },
     {
-      "surface": "אַמּוֹת",
+      "surface": "אמות",
       "gloss": "اَمہءَ"
     },
     {
-      "surface": "שֵׁשׁ",
+      "surface": "שש",
       "gloss": "سپیں"
     },
     {
-      "surface": "מָשְׁזָר",
+      "surface": "משזר",
       "gloss": "بٹائیں دوری"
     },
     {
-      "surface": "וְאַדְנֵיהֶם",
+      "surface": "ואדניהם",
       "gloss": "ءُ آیانی بنیاداں"
     },
     {
-      "surface": "נְחֹשֶׁת",
+      "surface": "נחשת",
       "gloss": "کانسیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:07:28.162254582Z",
-  "model": "glm-5.3"
+  ]
 }

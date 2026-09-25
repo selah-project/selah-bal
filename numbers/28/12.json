@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "numbers 28:12",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:57:01.162716795Z",
+  "verse": 12,
+  "ref": "numbers 28:12",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ سئے دہمی حصہ سرمئی آرد، سوغاتءِ چوں، گوں تیلءَ مخلوط کتگ، پہ یک گاں؛ ءُ دو دہمی حصہ سرمئی آرد، سوغاتءِ چوں، گوں تیلءَ مخلوط کتگ، پہ یک نر گوسفند۔",
   "tokens": [
     {
-      "surface": "וּשְׁלֹשָׁה",
+      "surface": "ושלשה",
       "gloss": "ءُ سئے"
     },
     {
-      "surface": "עֶשְׂרֹנִים",
+      "surface": "עשרנים",
       "gloss": "دہمی حصہ"
     },
     {
-      "surface": "סֹלֶת",
+      "surface": "סלת",
       "gloss": "سرمئی آرد"
     },
     {
-      "surface": "מִנְחָה",
+      "surface": "מנחה",
       "gloss": "سوغاتءِ چوں"
     },
     {
-      "surface": "בְּלוּלָה",
+      "surface": "בלולה",
       "gloss": "مخلوط کتگ"
     },
     {
-      "surface": "בַשֶּׁמֶן",
+      "surface": "בשמן",
       "gloss": "گوں تیلءَ"
     },
     {
-      "surface": "לַפָּר",
+      "surface": "לפר",
       "gloss": "پہ یک گاں"
     },
     {
-      "surface": "הָאֶחָד",
+      "surface": "האחד",
       "gloss": "یک"
     },
     {
-      "surface": "וּשְׁנֵי",
+      "surface": "ושני",
       "gloss": "ءُ دو"
     },
     {
-      "surface": "עֶשְׂרֹנִים",
+      "surface": "עשרנים",
       "gloss": "دہمی حصہ"
     },
     {
-      "surface": "סֹלֶת",
+      "surface": "סלת",
       "gloss": "سرمئی آرد"
     },
     {
-      "surface": "מִנְחָה",
+      "surface": "מנחה",
       "gloss": "سوغاتءِ چوں"
     },
     {
-      "surface": "בְּלוּלָה",
+      "surface": "בלולה",
       "gloss": "מخلوط کتگ"
     },
     {
-      "surface": "בַשֶּׁמֶן",
+      "surface": "בשמן",
       "gloss": "گوں تیلءَ"
     },
     {
-      "surface": "לָאַיִל",
+      "surface": "לאיל",
       "gloss": "پہ یک نر گوسفند"
     },
     {
-      "surface": "הָאֶחָד",
+      "surface": "האחד",
       "gloss": "یک"
     }
-  ],
-  "timestamp": "2026-09-25T19:57:01.162716795Z",
-  "model": "glm-5.3"
+  ]
 }

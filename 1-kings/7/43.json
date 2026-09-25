@@ -1,47 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 43,
-  "ref": "1-kings 7:43",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:04:56.255066148Z",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ ⟨את⟩ دہ بنیادان، ءُ ⟨את⟩ دہ حوضان بنیادانءِ سرءَ؛",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "دہ بنیادان"
     },
     {
-      "surface": "הַמְּכֹנֹת",
+      "surface": "המכנות",
       "gloss": "بنیادان"
     },
     {
-      "surface": "עָשֶׂר",
+      "surface": "עשר",
       "gloss": "دہ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "دہ حوضان"
     },
     {
-      "surface": "הַכִּיֹּרֹת",
+      "surface": "הכירת",
       "gloss": "حوضان"
     },
     {
-      "surface": "עֲשָׂרָה",
+      "surface": "עשרה",
       "gloss": "دہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הַמְּכֹנֹת",
+      "surface": "המכנות",
       "gloss": "بنیادان"
     }
-  ],
-  "timestamp": "2026-09-25T13:04:56.255066148Z",
-  "model": "glm-5.3"
+  ]
 }

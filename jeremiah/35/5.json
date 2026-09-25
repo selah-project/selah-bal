@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "jeremiah 35:5",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:59:39.416288130Z",
+  "verse": 5,
+  "ref": "jeremiah 35:5",
+  "tier": "glm-5.2",
   "chapter": 35,
   "translation": "ءُ من ریکابیانی گدءِ زہگانی پیشءَ پُریں جام ءُ پیالہ بشم ءُ آشانیءَ گوَشت: مے بشۏرید۔",
   "tokens": [
     {
-      "surface": "וָאֶתֵּן",
+      "surface": "ואתן",
       "gloss": "ءُ من … بشم"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "בֵית",
+      "surface": "בית",
       "gloss": "گدءِ"
     },
     {
-      "surface": "הָרֵכָבִים",
+      "surface": "הרכבים",
       "gloss": "ریکابیانی"
     },
     {
-      "surface": "גְּבִעִים",
+      "surface": "גבעים",
       "gloss": "جام"
     },
     {
-      "surface": "מְלֵאִים",
+      "surface": "מלאים",
       "gloss": "پُریں"
     },
     {
-      "surface": "יַיִן",
+      "surface": "יין",
       "gloss": "مے"
     },
     {
-      "surface": "וְכֹסוֹת",
+      "surface": "וכסות",
       "gloss": "ءُ پیالہ"
     },
     {
-      "surface": "וָאֹמַר",
+      "surface": "ואמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אֲלֵיהֶם",
+      "surface": "אליהם",
       "gloss": "آشانیءَ"
     },
     {
-      "surface": "שְׁתוּ",
+      "surface": "שתו",
       "gloss": "بشۏرید"
     },
     {
-      "surface": "יַיִן",
+      "surface": "יין",
       "gloss": "مے"
     }
-  ],
-  "timestamp": "2026-09-25T17:59:39.416288130Z",
-  "model": "glm-5.3"
+  ]
 }

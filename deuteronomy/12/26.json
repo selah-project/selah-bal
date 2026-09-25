@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "deuteronomy 12:26",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:09:10.682626857Z",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "بلے تُرءِ نشان بوتگیں چیزان کہ تُرءِ بنت ءُ تُرءِ نذران، تُر گَنیت ءُ آیءَ رُسیت اُو جاگہءَ کہ یاہوہ چنیت۔",
   "tokens": [
     {
-      "surface": "רַק",
+      "surface": "רק",
       "gloss": "بلے"
     },
     {
-      "surface": "קָדָשֶׁיךָ",
+      "surface": "קדשיך",
       "gloss": "تُرءِ نشان بوتگیں چیزان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יִהְיוּ",
+      "surface": "יהיו",
       "gloss": "بنت"
     },
     {
-      "surface": "לְךָ",
+      "surface": "לך",
       "gloss": "تُرءِ"
     },
     {
-      "surface": "וּנְדָרֶיךָ",
+      "surface": "ונדריך",
       "gloss": "ءُ تُرءِ نذران"
     },
     {
-      "surface": "תִּשָּׂא",
+      "surface": "תשא",
       "gloss": "تُر گَنیت"
     },
     {
-      "surface": "וּבָאתָ",
+      "surface": "ובאת",
       "gloss": "ءُ آیءَ رُسیت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "הַמָּקוֹם",
+      "surface": "המקום",
       "gloss": "اُو جاگہءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יִבְחַר",
+      "surface": "יבחר",
       "gloss": "چنیت"
     },
     {
-      "surface": "יְהֹוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T15:09:10.682626857Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "proverbs 10:5",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:10:25.051861233Z",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "جوہ کہ گرمیاں ءَ فصل جمع کنیت، فهیم زہگ اِنت؛ جوہ کہ فصلءِ درمیانیں روچاں ءَ گندی نزیت، شرمءِ زہگ اِنت۔",
   "tokens": [
@@ -24,7 +26,7 @@
       "gloss": "فهیم"
     },
     {
-      "surface": "נרدם",
+      "surface": "נרדם",
       "gloss": "گندی نزیت"
     },
     {
@@ -39,7 +41,5 @@
       "surface": "מביש",
       "gloss": "شرمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:10:25.051861233Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "2-kings 12:12",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:02:48.271014732Z",
+  "verse": 12,
+  "ref": "2-kings 12:12",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "ءُ ⟨את⟩ زرءِ شمار بوتگیں کار کنوکانی دستءَ دنتنت، نگراں کہ یاہوہءِ گدانءِ بیت؛ ءُ آیءَ دارءِ تراشوکانءَ ءُ جوڑکنوکانءَ روشت کتنت کہ یاہوہءِ گدانءَ کار کننت۔",
   "tokens": [
     {
-      "surface": "וְנָתְנוּ",
+      "surface": "ונתנו",
       "gloss": "ءُ دنتنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زر"
     },
     {
-      "surface": "הַכֶּףֶף",
+      "surface": "הכסף",
       "gloss": "زر"
     },
     {
-      "surface": "הַמְתֻכָּן",
+      "surface": "המתכן",
       "gloss": "شمار بوتگیں"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہءَ"
     },
     {
-      "surface": "יָד",
+      "surface": "יד",
       "gloss": "دست"
     },
     {
-      "surface": "עֹשֵׂי",
+      "surface": "עשי",
       "gloss": "کار کنوکانی"
     },
     {
-      "surface": "הַמְּלָאכָה",
+      "surface": "המלאכה",
       "gloss": "کار"
     },
     {
-      "surface": "הַפְּקָדִים",
+      "surface": "הפקדים",
       "gloss": "نگراں"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וַיּוֹצִיאֻהוּ",
+      "surface": "ויוציאהו",
       "gloss": "ءُ آیءَ روشت کتنت"
     },
     {
-      "surface": "לְחָרָשֵׁי",
+      "surface": "לחרשי",
       "gloss": "دارءِ تراشوکانءَ"
     },
     {
-      "surface": "הָעֵץ",
+      "surface": "העץ",
       "gloss": "دار"
     },
     {
-      "surface": "וְלַבֹּנִים",
+      "surface": "ולבנים",
       "gloss": "ءُ جوڑکنوکانءَ"
     },
     {
-      "surface": "הָעֹשִׂים",
+      "surface": "העשים",
       "gloss": "کار کنوک"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T14:02:48.271014732Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "proverbs 21:7",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:16:46.493142045Z",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "بدکارانی زلم آیانءَ کشیت، پرچا کہ اِش مات کتگ پہ انصافءِ کنگ۔",
   "tokens": [
     {
-      "surface": "שֹׁד",
+      "surface": "שד",
       "gloss": "زلم"
     },
     {
-      "surface": "רְשָׁעִ֥ים",
+      "surface": "רשעים",
       "gloss": "بدکارانی"
     },
     {
-      "surface": "יְגוֹרֵ֑ם",
+      "surface": "יגורם",
       "gloss": "آیانءَ کشیت"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "מֵ֝אֲנ֗וּ",
+      "surface": "מאנו",
       "gloss": "مات کتگ"
     },
     {
-      "surface": "לַעֲשׂ֥וֹת",
+      "surface": "לעשות",
       "gloss": "پہ کنگ"
     },
     {
-      "surface": "מִשְׁפָּֽט",
+      "surface": "משפט",
       "gloss": "انصاف"
     }
-  ],
-  "timestamp": "2026-09-25T20:16:46.493142045Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "nehemiah 3:7",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:38:22.382964794Z",
+  "verse": 7,
+  "ref": "nehemiah 3:7",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ چہ آیانی دستءَ مَلاتیاہ گِبعونی ءُ یادون مِرونوتی محکم کت — گِبعون ءُ مِتسپہءِ مردمانی پہ، پختہءِ کرسیءِ پہ، نہءِ اروڑءِ۔",
   "tokens": [
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ چہ"
     },
     {
-      "surface": "יָדָ֨ם",
+      "surface": "ידם",
       "gloss": "آیانی دستءَ"
     },
     {
-      "surface": "הֶחֱזִ֜יק",
+      "surface": "החזיק",
       "gloss": "محکم کت"
     },
     {
-      "surface": "מְלַטְיָ֣ה",
+      "surface": "מלטיה",
       "gloss": "مَلاتیاہ"
     },
     {
-      "surface": "הַגִּבְעֹנִ֗י",
+      "surface": "הגבעני",
       "gloss": "گِبعونی"
     },
     {
-      "surface": "וְיָדוֹן֙",
+      "surface": "וידון",
       "gloss": "ءُ یادون"
     },
     {
-      "surface": "הַמֵּרֹ֣נֹתִ֔י",
+      "surface": "המרנתי",
       "gloss": "مِرونوتی"
     },
     {
-      "surface": "אַנְשֵׁ֥י",
+      "surface": "אנשי",
       "gloss": "مردمانی"
     },
     {
-      "surface": "גִבְע֖וֹן",
+      "surface": "גבעון",
       "gloss": "گِبعون"
     },
     {
-      "surface": "וְהַמִּצְפָּ֑ה",
+      "surface": "והמצפה",
       "gloss": "ءُ مِتسپہ"
     },
     {
-      "surface": "לְכִסֵּ֕א",
+      "surface": "לכסא",
       "gloss": "کرسیءِ پہ"
     },
     {
-      "surface": "פַּחַ֖ת",
+      "surface": "פחת",
       "gloss": "پختہ"
     },
     {
-      "surface": "עֵ֥בֶר",
+      "surface": "עבר",
       "gloss": "اروڑ"
     },
     {
-      "surface": "הַנָּהָֽר",
+      "surface": "הנהר",
       "gloss": "نہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:38:22.382964794Z",
-  "model": "glm-5.3"
+  ]
 }

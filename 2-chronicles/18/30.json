@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "2-chronicles 18:30",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:37:21.825073512Z",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ اَرامءِ پادشاہءَ وتی گدڑانی سالاراں کہ آییءِ اَنت ⟨את⟩ حکم کت کہ گوشیت: نہ لڑیں ⟨את⟩ کمنیںءَ ءُ نہ ⟨את⟩ چوکانیںءَ، بلے ہمک ⟨את⟩ یسرائیلءِ پادشاہءَ اے وت۔",
   "tokens": [
     {
-      "surface": "וּמֶ֣לֶךְ",
+      "surface": "ומלך",
       "gloss": "ءُ پادشاہءَ"
     },
     {
-      "surface": "אֲרָ֡ם",
+      "surface": "ארם",
       "gloss": "اَرامءِ"
     },
     {
-      "surface": "צִוָּה֩",
+      "surface": "צוה",
       "gloss": "حکم کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گدڑانی سالاران"
     },
     {
-      "surface": "שָׂרֵ֨י",
+      "surface": "שרי",
       "gloss": "سالاران"
     },
     {
-      "surface": "הָרֶ֤כֶב",
+      "surface": "הרכב",
       "gloss": "گدڑانی"
     },
     {
-      "surface": "אֲשֶׁר֙",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "ל֔וֹ",
+      "surface": "לו",
       "gloss": "آییءِ اَنت"
     },
     {
-      "surface": "לֵאמֹ֔ר",
+      "surface": "לאמר",
       "gloss": "کہ گوشیت"
     },
     {
-      "surface": "לֹ֚א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תִּלָּ֣חֲמ֔וּ",
+      "surface": "תלחמו",
       "gloss": "لڑیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کمنیںءَ"
     },
     {
-      "surface": "הַקָּטֹ֖ן",
+      "surface": "הקטן",
       "gloss": "کمنیںءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "چوکانیںءَ"
     },
     {
-      "surface": "הַגָּדֹ֑ול",
+      "surface": "הגדול",
       "gloss": "چوکانیںءَ"
     },
     {
-      "surface": "כִּ֛י",
+      "surface": "כי",
       "gloss": "بلے ہمک (کونج)"
     },
     {
-      "surface": "אִ֥ם",
+      "surface": "אם",
       "gloss": "بلے ہمک (کونجءِ دومیں رکن)"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یسرائیلءِ پادشاہءَ"
     },
     {
-      "surface": "מֶ֥לֶךְ",
+      "surface": "מלך",
       "gloss": "پادشاہءَ"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "ישראל",
       "gloss": "یسرائیلءِ"
     },
     {
-      "surface": "לְבַדֹּֽוֹ",
+      "surface": "לבדו",
       "gloss": "اے وت"
     }
-  ],
-  "timestamp": "2026-09-25T13:37:21.825073512Z",
-  "model": "glm-5.3"
+  ]
 }

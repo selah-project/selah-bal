@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "psalms 94:5",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:50:07.358745959Z",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "tier": "glm-5.2",
   "chapter": 94,
   "translation": "اے یاہوہ، تری قومءَ گُندینت ءُ تری نژالءَ اِشکنیت۔",
   "tokens": [
@@ -16,7 +18,7 @@
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "ידכאو",
+      "surface": "ידכאו",
       "gloss": "گُندینت"
     },
     {
@@ -27,7 +29,5 @@
       "surface": "יענו",
       "gloss": "اِشکنیت"
     }
-  ],
-  "timestamp": "2026-09-25T20:50:07.358745959Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "nehemiah 5:10",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:40:02.572189590Z",
+  "verse": 10,
+  "ref": "nehemiah 5:10",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ ہم من، میریں بِرزان ءُ میریں نوکران اِشاںءَ چے پہ سیم ءُ دان مانگ اَنت — رہا کہ، اِبارت کن، اے بُر ءُ ⟨את⟩ اے بارئے۔",
   "tokens": [
     {
-      "surface": "וְגַם",
+      "surface": "וגם",
       "gloss": "ءُ ہم"
     },
     {
-      "surface": "אֲנִי֙",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "אַחַ֣י",
+      "surface": "אחי",
       "gloss": "میریں بِرزان"
     },
     {
-      "surface": "וּנְעָרַ֔י",
+      "surface": "ונערי",
       "gloss": "ءُ میریں نوکران"
     },
     {
-      "surface": "נֹשִׁ֥ים",
+      "surface": "נשים",
       "gloss": "مانگ اَنت"
     },
     {
-      "surface": "בָּהֶ֖ם",
+      "surface": "בהם",
       "gloss": "ایشاںءَ چے پہ"
     },
     {
-      "surface": "כֶּ֣סֶף",
+      "surface": "כסף",
       "gloss": "سیم"
     },
     {
-      "surface": "וְדָגָ֑ן",
+      "surface": "ודגן",
       "gloss": "ءُ دان"
     },
     {
-      "surface": "נַֽעַזְבָ֥ה",
+      "surface": "נעזבה",
       "gloss": "رہا کہ"
     },
     {
-      "surface": "נָּ֖א",
+      "surface": "נא",
       "gloss": "اِبارت کن"
     },
     {
-      "surface": "אֵ֥ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اے بارئے"
     },
     {
-      "surface": "הַמַּשָּׁ֥א",
+      "surface": "המשא",
       "gloss": "اے بار"
     },
     {
-      "surface": "הַזֶּֽה",
+      "surface": "הזה",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T19:40:02.572189590Z",
-  "model": "glm-5.3"
+  ]
 }

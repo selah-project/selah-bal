@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "job 5:1",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:32:52.638941610Z",
+  "verse": 1,
+  "ref": "job 5:1",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "بانگ کن اینک — آ کسے ہست کہ تُہءَ جواب دیت؟ ءُ اِش کِنجَں پاکیں یکانءَ تُہ رُشت گنت؟",
   "tokens": [
     {
-      "surface": "קְֽרָא",
+      "surface": "קרא",
       "gloss": "بانگ کن"
     },
     {
-      "surface": "נָ֭א",
+      "surface": "נא",
       "gloss": "اینک"
     },
     {
-      "surface": "הֲיֵ֣שׁ",
+      "surface": "היש",
       "gloss": "آ … ہست"
     },
     {
-      "surface": "עֽוֹנֶ֑ךָּ",
+      "surface": "עונך",
       "gloss": "تُہءَ جواب دیت"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "ءُ اِش"
     },
     {
-      "surface": "מִ֖י",
+      "surface": "מי",
       "gloss": "کِنجَں"
     },
     {
-      "surface": "مִקְּדֹשִֽׁים",
+      "surface": "מקדשים",
       "gloss": "پاکیں یکانءَ"
     },
     {
-      "surface": "תִּפְנֶֽה",
+      "surface": "תפנה",
       "gloss": "تُہ رُشت گنت"
     }
-  ],
-  "timestamp": "2026-09-25T18:32:52.638941610Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "lamentations 2:16",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:13:15.160416483Z",
+  "verse": 16,
+  "ref": "lamentations 2:16",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "تئے جمیں دشمنان وتی نہ تئے سرءَ پرا کت؛ سُٹ کتنت ءُ دندانان چرچر کتنت؛ گوَشنت: ما آءَ نگورت؛ آچک اے روچ اِنت جے انتظار کتون، لبڑیتون، دیتون.",
   "tokens": [
     {
-      "surface": "פָּצ֨וּ",
+      "surface": "פצו",
       "gloss": "پرا کت"
     },
     {
-      "surface": "עָלַ֤יִךְ",
+      "surface": "עליך",
       "gloss": "تئے سرءَ"
     },
     {
-      "surface": "פִּיהֶם֙",
+      "surface": "פיהם",
       "gloss": "وتی نہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "جمیں"
     },
     {
-      "surface": "א֣וֹיְבַ֔יִךְ",
+      "surface": "אויביך",
       "gloss": "دشمنان"
     },
     {
-      "surface": "שָֽׁרְקוּ֙",
+      "surface": "שרקו",
       "gloss": "سُٹ کتنت"
     },
     {
-      "surface": "וַיַּֽחַרְקוּ",
+      "surface": "ויחרקו",
       "gloss": "ءُ چرچر کتنت"
     },
     {
-      "surface": "שֵׁ֔ן",
+      "surface": "שן",
       "gloss": "دندانان"
     },
     {
-      "surface": "אָמְר֖וּ",
+      "surface": "אמרו",
       "gloss": "گوَشنت"
     },
     {
-      "surface": "בִּלַּֽעְנוּ",
+      "surface": "בלענו",
       "gloss": "نگورت"
     },
     {
-      "surface": "אַ֣ךְ",
+      "surface": "אך",
       "gloss": "آچک"
     },
     {
-      "surface": "זֶ֥ה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "הַיּ֛וֹם",
+      "surface": "היום",
       "gloss": "روچ"
     },
     {
-      "surface": "שֶׁקִּוִּינֻ֖הוּ",
+      "surface": "שקוינהו",
       "gloss": "انتظار کتون"
     },
     {
-      "surface": "מָצָ֥אנוּ",
+      "surface": "מצאנו",
       "gloss": "لبڑیتون"
     },
     {
-      "surface": "רָאִֽינוּ",
+      "surface": "ראינו",
       "gloss": "دیتون"
     }
-  ],
-  "timestamp": "2026-09-25T19:13:15.160416483Z",
-  "model": "glm-5.3"
+  ]
 }

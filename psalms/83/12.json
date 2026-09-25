@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "psalms 83:12",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:47:31.001346217Z",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "tier": "glm-5.2",
   "chapter": 83,
   "translation": "آیانی امیرانءَ چوش اورب ءُ چوش زیب بکن؛ ءُ چوش زبح ءُ چوش سلمونا آیانی یکے سرکردگ،",
   "tokens": [
     {
-      "surface": "שִׁיתֵ֣מוֹ",
+      "surface": "שיתמו",
       "gloss": "بکن"
     },
     {
-      "surface": "נְ֭דִיבֵמוֹ",
+      "surface": "נדיבמו",
       "gloss": "آیانی امیرانءَ"
     },
     {
-      "surface": "כְּעֹרֵ֣ב",
+      "surface": "כערב",
       "gloss": "چوش اورب"
     },
     {
-      "surface": "וְכִזְאֵ֑ב",
+      "surface": "וכזאב",
       "gloss": "ءُ چوش زیب"
     },
     {
-      "surface": "וּֽכְזֶ֥בַח",
+      "surface": "וכזבח",
       "gloss": "ءُ چوش زبح"
     },
     {
-      "surface": "וּ֝כְצַלְמֻנָּ֗ע",
+      "surface": "וכצלמנע",
       "gloss": "ءُ چوش سلمونا"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "یکے"
     },
     {
-      "surface": "נְסִיכֵֽמוֹ",
+      "surface": "נסיכמו",
       "gloss": "آیانی سرکردگ"
     }
-  ],
-  "timestamp": "2026-09-25T20:47:31.001346217Z",
-  "model": "glm-5.3"
+  ]
 }

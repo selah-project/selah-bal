@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "deuteronomy 29:23",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:21:06.537080359Z",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ ہمگ قومان گوَشتنتءِ: یاہوہءَ چہ پہ اے زمینءَ اے چوک کتگ؟ اے گیش غضبءِ تپش مہ اِنت؟",
   "tokens": [
     {
-      "surface": "וְאָֽמְרוּ֙",
+      "surface": "ואמרו",
       "gloss": "ءُ گوَشتنتءِ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "הַגּוֹיִ֔ם",
+      "surface": "הגוים",
       "gloss": "قومان"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "چہ پہ"
     },
     {
-      "surface": "מֶ֨ה",
+      "surface": "מה",
       "gloss": "چہ"
     },
     {
-      "surface": "עָשָׂ֧ה",
+      "surface": "עשה",
       "gloss": "کتگ"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "כָּזֹ֖את",
+      "surface": "ככה",
       "gloss": "اے چوک"
     },
     {
-      "surface": "לָאָ֣רֶץ",
+      "surface": "לארץ",
       "gloss": "پہ زمینءَ"
     },
     {
-      "surface": "הַזֹּ֑את",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "מֶ֥ה",
+      "surface": "מה",
       "gloss": "مہ"
     },
     {
-      "surface": "חֳרִ֛י",
+      "surface": "חרי",
       "gloss": "غضبءِ تپش"
     },
     {
-      "surface": "הָאַ֥ף",
+      "surface": "האף",
       "gloss": "گیش"
     },
     {
-      "surface": "הַגָּד֖וֹל",
+      "surface": "הגדול",
       "gloss": "گیش"
     },
     {
-      "surface": "הַזֶּֽה",
+      "surface": "הזה",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T15:21:06.537080359Z",
-  "model": "glm-5.3"
+  ]
 }

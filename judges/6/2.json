@@ -1,92 +1,92 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "judges 6:2",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:08:38.867698447Z",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ مِدِیانءِ دست اسرائیلیءَ سر گونی بوت — مِدِیانءِ پَہءِ چی اسرائیلیءِ زہگان آیانءَ پہ وت کوهاں تہءِ ⟨את⟩ شکافان ءُ ⟨את⟩ غاران ءُ ⟨את⟩ مضبوتیں جاگاہان جوڑ کتنت۔",
   "tokens": [
     {
-      "surface": "וַתָּ֥עָז",
+      "surface": "ותעז",
       "gloss": "ءُ گونی بوت"
     },
     {
-      "surface": "יָד",
+      "surface": "יד",
       "gloss": "دست"
     },
     {
-      "surface": "مִדְיָ֖ן",
+      "surface": "מדין",
       "gloss": "مِدِیانءِ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سر"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "اسرائیلیءَ"
     },
     {
-      "surface": "מִפְּנֵ֨י",
+      "surface": "מפני",
       "gloss": "چہ پَہءِ"
     },
     {
-      "surface": "מִדְיָ֜ן",
+      "surface": "מדין",
       "gloss": "مِدِیان"
     },
     {
-      "surface": "עָשֽׂוּ",
+      "surface": "עשו",
       "gloss": "جوڑ کتنت"
     },
     {
-      "surface": "לָהֶ֣ם",
+      "surface": "להם",
       "gloss": "آیانءَ پہ وت"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵ֗ל",
+      "surface": "ישראל",
       "gloss": "اسرائیلیءِ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شکافان"
     },
     {
-      "surface": "הַמִּנְהָרוֹת֙",
+      "surface": "המנהרות",
       "gloss": "شکافان"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בֶּֽהָרִ֔ים",
+      "surface": "בהרים",
       "gloss": "کوهاں تہءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "غاران"
     },
     {
-      "surface": "הַמְּעָר֖וֹת",
+      "surface": "המערות",
       "gloss": "غاران"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "مضبوتیں جاگاہان"
     },
     {
-      "surface": "הַמְּצָדֽוֹת",
+      "surface": "המצדות",
       "gloss": "مضبوتیں جاگاہان"
     }
-  ],
-  "timestamp": "2026-09-25T19:08:38.867698447Z",
-  "model": "glm-5.3"
+  ]
 }

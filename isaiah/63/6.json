@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "isaiah 63:6",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:36:21.922668615Z",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "tier": "glm-5.2",
   "chapter": 63,
   "translation": "ءُ من قوماں مہ غشامیءَ کُوڑج کت، ءُ اِشاں مہ خشمیءَ مست کت، ءُ اِشانی خون زمینءَ در کت.",
   "tokens": [
     {
-      "surface": "וְאָבוּס",
+      "surface": "ואבוס",
       "gloss": "ءُ من ... کُوڑج کت"
     },
     {
-      "surface": "עַמִּים",
+      "surface": "עמים",
       "gloss": "قوماں"
     },
     {
-      "surface": "בְּאַפִּי",
+      "surface": "באפי",
       "gloss": "مہ غشامیءَ"
     },
     {
-      "surface": "וַאֲשַׁכְּרֵם",
+      "surface": "ואשכרם",
       "gloss": "ءُ اِشاں مست کت"
     },
     {
-      "surface": "בַּחֲמָתִי",
+      "surface": "בחמתי",
       "gloss": "مہ خشمیءَ"
     },
     {
-      "surface": "וְאוֹרִיד",
+      "surface": "ואוריד",
       "gloss": "ءُ ... در کت"
     },
     {
-      "surface": "לָאָרֶץ",
+      "surface": "לארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "נִצְחָם",
+      "surface": "נצחם",
       "gloss": "اِشانی خون"
     }
-  ],
-  "timestamp": "2026-09-25T17:36:21.922668615Z",
-  "model": "glm-5.3"
+  ]
 }

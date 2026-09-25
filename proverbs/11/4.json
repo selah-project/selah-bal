@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "proverbs 11:4",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:11:57.415809564Z",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "دولت چہ قہرءِ روچءَ کار نہ کنت، بلے راستی چہ مونتءَ رہائی دنت.",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "نہ"
     },
     {
-      "surface": "יועעיל",
+      "surface": "יועיל",
       "gloss": "کار کنت"
     },
     {
@@ -39,7 +41,5 @@
       "surface": "ממות",
       "gloss": "چہ مونت"
     }
-  ],
-  "timestamp": "2026-09-25T20:11:57.415809564Z",
-  "model": "glm-5.3"
+  ]
 }

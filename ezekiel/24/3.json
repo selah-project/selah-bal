@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "ezekiel 24:3",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:15:56.981578304Z",
+  "verse": 3,
+  "ref": "ezekiel 24:3",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ءُ سرکشیءِ گدانءَ مزمانیں گال گوش — ءُ اشانءَ گوَشت اِشاں گوَشت اِنت ادونای یاہوہءِ گال: دیگلءَ چاڑ، دیگلءَ چاڑ، ءُ آییءَ تہ آپ ڈھال۔",
   "tokens": [
     {
-      "surface": "וּמְשֹׁל",
+      "surface": "ומשל",
       "gloss": "ءُ مزمانیں گال گوش"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "בֵית",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "הַמֶּרִי",
+      "surface": "המרי",
       "gloss": "سرکشیءِ"
     },
     {
-      "surface": "מָשָׁל",
+      "surface": "משל",
       "gloss": "مزمانیں گال"
     },
     {
-      "surface": "וְאָמַרְתָּ",
+      "surface": "ואמרת",
       "gloss": "ءُ اشانءَ گوَشت"
     },
     {
-      "surface": "אֲלֵיהֶם",
+      "surface": "אליהם",
       "gloss": "اشانءَ"
     },
     {
-      "surface": "כֹּה",
+      "surface": "כה",
       "gloss": "اِشاں"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت اِنت"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ گال"
     },
     {
-      "surface": "שְׁפֹת",
+      "surface": "שפת",
       "gloss": "دیگلءَ چاڑ"
     },
     {
-      "surface": "הַסִּיר",
+      "surface": "הסיר",
       "gloss": "دیگل"
     },
     {
-      "surface": "שְׁפֹת",
+      "surface": "שפת",
       "gloss": "دیگلءَ چاڑ"
     },
     {
-      "surface": "וְגַם",
+      "surface": "וגם",
       "gloss": "ءُ"
     },
     {
-      "surface": "יָצֹק",
+      "surface": "יצק",
       "gloss": "آپ ڈھال"
     },
     {
-      "surface": "בּוֹ",
+      "surface": "בו",
       "gloss": "آییءَ تہ"
     },
     {
-      "surface": "מַיִם",
+      "surface": "מים",
       "gloss": "آپ"
     }
-  ],
-  "timestamp": "2026-09-25T16:15:56.981578304Z",
-  "model": "glm-5.3"
+  ]
 }

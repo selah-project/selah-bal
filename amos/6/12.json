@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "amos 6:12",
   "book": "amos",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:48:17.878440798Z",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "آیا گوڑی سنگءَ دوئنت؟ یا گوں گائیں شار کننت؟ کی اِشما انصافءَ زهر کنتگ ءُ راستیءِ میوہءَ چوچاگ کنتگ.",
   "tokens": [
     {
-      "surface": "הֲיְרֻצֻון",
+      "surface": "הירצון",
       "gloss": "آیا دوئنت"
     },
     {
-      "surface": "בַּסֶּלַע",
+      "surface": "בסלע",
       "gloss": "سنگءَ"
     },
     {
-      "surface": "סוּסִים",
+      "surface": "סוסים",
       "gloss": "گوڑی"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "یا"
     },
     {
-      "surface": "יַחֲרֹשׁ",
+      "surface": "יחרוש",
       "gloss": "شار کننت"
     },
     {
-      "surface": "בַּבָּקָרִים",
+      "surface": "בבקרים",
       "gloss": "گوں گائیں"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کی"
     },
     {
-      "surface": "הֲפַכְתֶּם",
+      "surface": "הפכתם",
       "gloss": "اِشما بدیل کتگ"
     },
     {
-      "surface": "לְרֹאשׁ",
+      "surface": "לראש",
       "gloss": "زهرءَ"
     },
     {
-      "surface": "מִשְׁפָּט",
+      "surface": "משפט",
       "gloss": "انصاف"
     },
     {
-      "surface": "וּפְרִי",
+      "surface": "ופרי",
       "gloss": "ءُ میوہءِ"
     },
     {
-      "surface": "צְדָקָה",
+      "surface": "צדקה",
       "gloss": "راستی"
     },
     {
-      "surface": "לְלַעֲנָה",
+      "surface": "ללענה",
       "gloss": "چوچاگءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:48:17.878440798Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "proverbs 31:10",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:22:02.157056083Z",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "زالِ جوانمردی کے لبیت؟ ءُ آییءِ بہا چہ مروئید ءُ گیشتر اِنت۔",
   "tokens": [
     {
-      "surface": "אֵֽשֶׁת",
+      "surface": "אשת",
       "gloss": "زالِ"
     },
     {
-      "surface": "חַ֭יִל",
+      "surface": "חיל",
       "gloss": "جوانمردی"
     },
     {
-      "surface": "מִ֣י",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יִמְצָ֑א",
+      "surface": "ימצא",
       "gloss": "لبیت"
     },
     {
-      "surface": "וְרָחֹ֖ק",
+      "surface": "ורחק",
       "gloss": "ءُ دور"
     },
     {
-      "surface": "מִפְּנִינִ֣ים",
+      "surface": "מפנינים",
       "gloss": "چہ مروئید"
     },
     {
-      "surface": "מִכְרָֽהּ",
+      "surface": "מכרה",
       "gloss": "آییءِ بہا"
     }
-  ],
-  "timestamp": "2026-09-25T20:22:02.157056083Z",
-  "model": "glm-5.3"
+  ]
 }

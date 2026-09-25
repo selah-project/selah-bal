@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "daniel 11:22",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:49:33.271064622Z",
+  "verse": 22,
+  "ref": "daniel 11:22",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ ہڑءِ بازوءان چہ آییءِ پیشءَ داتی بنت ءُ پاش بنت، ءُ ہم عہدءِ نگیل ⟨اِنت⟩ کہ ⟨یہ⟩ شکست ونت.",
   "tokens": [
     {
-      "surface": "וּזְרֹעוֹת",
+      "surface": "וזרעות",
       "gloss": "ءُ ہڑءِ بازوءان"
     },
     {
-      "surface": "הַשֶּׁטֶף",
+      "surface": "השטף",
       "gloss": "ہڑءِ"
     },
     {
-      "surface": "יִשָּׁטְפוּ",
+      "surface": "ישטפו",
       "gloss": "داتی بنت"
     },
     {
-      "surface": "מִלְּפָנָיו",
+      "surface": "מלפניו",
       "gloss": "چہ آییءِ پیشءَ"
     },
     {
-      "surface": "וְיִשָּׁבֵרוּ",
+      "surface": "וישברו",
       "gloss": "ءُ پاش بنت"
     },
     {
-      "surface": "וְגַם",
+      "surface": "וגם",
       "gloss": "ءُ ہم"
     },
     {
-      "surface": "נְגִיד",
+      "surface": "נגיד",
       "gloss": "نگیل"
     },
     {
-      "surface": "בְּרִית",
+      "surface": "ברית",
       "gloss": "عہدءِ"
     }
-  ],
-  "timestamp": "2026-09-25T14:49:33.271064622Z",
-  "model": "glm-5.3"
+  ]
 }

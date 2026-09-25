@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "leviticus 27:2",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:26:03.018212181Z",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "اسرائیلءِ زہگانیں گوں اے گپ گوَشت ءُ آیانءَ گوَشت: کہ یک مردے یک نذرءَ پروشی کنت — چہ تئے اندازاں جانورانءِ پہ یاہوہءَ —",
   "tokens": [
     {
-      "surface": "דַּבֵּ֞ר",
+      "surface": "דבר",
       "gloss": "گوں اے گپ گوَشت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "گوں"
     },
     {
-      "surface": "בְּנֵ֤י",
+      "surface": "בני",
       "gloss": "زہگانیں"
     },
     {
-      "surface": "יִשְׂרָאֵ֜ל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "וְאָמַרְתָּ֣",
+      "surface": "ואמרת",
       "gloss": "ءُ آیانءَ گوَشت"
     },
     {
-      "surface": "אֲלֵהֶ֔ם",
+      "surface": "אלהם",
       "gloss": "آیانءَ"
     },
     {
-      "surface": "אִ֕ישׁ",
+      "surface": "איש",
       "gloss": "مردے"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "יַפְלִ֖א",
+      "surface": "יפלא",
       "gloss": "پروشی کنت"
     },
     {
-      "surface": "נֶ֑דֶר",
+      "surface": "נדר",
       "gloss": "یک نذرءَ"
     },
     {
-      "surface": "בְּעֶרְכְּךָ֥",
+      "surface": "בערכך",
       "gloss": "چہ تئے اندازاں"
     },
     {
-      "surface": "נְפָשֹׁ֖ת",
+      "surface": "נפשת",
       "gloss": "جانورانءِ پہ"
     },
     {
-      "surface": "לַֽיהוָֽה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:26:03.018212181Z",
-  "model": "glm-5.3"
+  ]
 }

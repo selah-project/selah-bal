@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "isaiah 3:13",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:19:49.171020949Z",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "یاہوہ دلیں گرگءَ اوشتت، ءُ قومانءِ فیصلہءَ کتگءَ گون اوشتت۔",
   "tokens": [
     {
-      "surface": "נִצָּב",
+      "surface": "נצב",
       "gloss": "اوشتت"
     },
     {
-      "surface": "לָרִיב",
+      "surface": "לריב",
       "gloss": "دلیں گرگءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וְעֹמֵד",
+      "surface": "ועמד",
       "gloss": "ءُ اوشتت"
     },
     {
-      "surface": "לָדִין",
+      "surface": "לדין",
       "gloss": "فیصلہءَ کتگءَ گون"
     },
     {
-      "surface": "עַמִּים",
+      "surface": "עמים",
       "gloss": "قومان"
     }
-  ],
-  "timestamp": "2026-09-25T17:19:49.171020949Z",
-  "model": "glm-5.3"
+  ]
 }

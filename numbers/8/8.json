@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "numbers 8:8",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:09:03.397232755Z",
+  "verse": 8,
+  "ref": "numbers 8:8",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ آیان گپت یک گوَستانے زہگءِ مال ءُ آییءِ سوچگیں قربانی سلت کہ تیلءَ گوں مگ بوتگ، ءُ تو یک دومی گوَستانے زہگءِ مال پہ گناہءِ قربانی گپیت۔",
   "tokens": [
     {
-      "surface": "וְלָֽקְחוּ",
+      "surface": "ולקחו",
       "gloss": "ءُ آیان گپت"
     },
     {
-      "surface": "פַּר",
+      "surface": "פר",
       "gloss": "یک گوَستانے"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "בָּקָר",
+      "surface": "בקר",
       "gloss": "ءِ مال"
     },
     {
-      "surface": "וּמִנְחָתוֹ",
+      "surface": "ומנחתו",
       "gloss": "ءُ آییءِ سوچگیں قربانی"
     },
     {
-      "surface": "סֹלֶת",
+      "surface": "סלת",
       "gloss": "سلت"
     },
     {
-      "surface": "בְּלוּלָה",
+      "surface": "בלולה",
       "gloss": "گوں مگ بوتگ"
     },
     {
-      "surface": "בַּשָּׁמֶן",
+      "surface": "בשמן",
       "gloss": "تیلءَ"
     },
     {
-      "surface": "וְפַר",
+      "surface": "ופר",
       "gloss": "ءُ یک گوَستانے"
     },
     {
-      "surface": "שֵׁנִי",
+      "surface": "שני",
       "gloss": "دومی"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "בָּקָר",
+      "surface": "בקר",
       "gloss": "ءِ مال"
     },
     {
-      "surface": "תִּקַּח",
+      "surface": "תקח",
       "gloss": "تو گپیت"
     },
     {
-      "surface": "לְחַטָּאת",
+      "surface": "לחטאת",
       "gloss": "پہ گناہءِ قربانی"
     }
-  ],
-  "timestamp": "2026-09-25T20:09:03.397232755Z",
-  "model": "glm-5.3"
+  ]
 }

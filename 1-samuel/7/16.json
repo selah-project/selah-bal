@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "1-samuel 7:16",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:33:56.243842024Z",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ آ چلایت سال پہ سال، ءُ گشایت بیت ایل ءُ گلگل ءُ مِتسپہءَ، ءُ آیی ⟨את⟩ یِسرائیلءَ ءُ ⟨את⟩ پہ ہمے جاگاں داوری کت۔",
   "tokens": [
     {
-      "surface": "וְהָלַ֗ךְ",
+      "surface": "והלך",
       "gloss": "ءُ آ چلایت"
     },
     {
-      "surface": "מִדֵּ֤י",
+      "surface": "מדי",
       "gloss": "پہ"
     },
     {
-      "surface": "שָׁנָה֙",
+      "surface": "שנה",
       "gloss": "سال"
     },
     {
-      "surface": "בְּשָׁנָ֔ה",
+      "surface": "בשנה",
       "gloss": "پہ سال"
     },
     {
-      "surface": "וְסָבַב֙",
+      "surface": "וסבב",
       "gloss": "ءُ گشایت"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "بیت"
     },
     {
-      "surface": "אֵ֔ל",
+      "surface": "אל",
       "gloss": "ایل"
     },
     {
-      "surface": "וְהַגִּלְגָּ֖ל",
+      "surface": "והגלגל",
       "gloss": "ءُ گلگل"
     },
     {
-      "surface": "וְהַמִּצְפָּ֑ה",
+      "surface": "והמצפה",
       "gloss": "ءُ مِتسپہءَ"
     },
     {
-      "surface": "וְשָׁפַט֙",
+      "surface": "ושפט",
       "gloss": "ءُ آیی داوری کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یِسرائیلءَ"
     },
     {
-      "surface": "יִשְׂרָאֵ֔ל",
+      "surface": "ישראל",
       "gloss": "یِسرائیلءَ"
     },
     {
-      "surface": "אֵ֥ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پہ ہمے جاگاں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پہ"
     },
     {
-      "surface": "הַמְּקוֹמ֖וֹת",
+      "surface": "המקומות",
       "gloss": "ہمے جاگاں"
     },
     {
-      "surface": "הָאֵֽלֶּה",
+      "surface": "האלה",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T13:33:56.243842024Z",
-  "model": "glm-5.3"
+  ]
 }

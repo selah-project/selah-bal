@@ -1,62 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "leviticus 6:10",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:30:11.924183745Z",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "نہ خمیریں پچیت — اَشنانءِ حصہ مَنءَ ⟨את⟩ آیءَ چہ مَنءِ آتشیں قربانیانءَ دتگ؛ آ قدشانءِ قدش اِنت، چوں گناہءِ قربانی ءُ چوں بدکارءِ قربانی۔",
   "tokens": [
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תֵאָפֶה",
+      "surface": "תאפה",
       "gloss": "پچیت"
     },
     {
-      "surface": "חָמֵץ",
+      "surface": "חמץ",
       "gloss": "خمیریں"
     },
     {
-      "surface": "חֶלְקָם",
+      "surface": "חלקם",
       "gloss": "اَشنانءِ حصہ"
     },
     {
-      "surface": "נָתַתִּי",
+      "surface": "נתתי",
       "gloss": "مَنءَ دتگ"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩",
       "marks": "آیءَ (چہ مَنءِ آتشیں قربانیان)"
     },
     {
-      "surface": "מֵאִשָּׁי",
+      "surface": "מאשי",
       "gloss": "چہ مَنءِ آتشیں قربانیان"
     },
     {
-      "surface": "קֹדֶשׁ",
+      "surface": "קדש",
       "gloss": "قدشانءِ قدش"
     },
     {
-      "surface": "קָדָשִׁים",
+      "surface": "קדשים",
       "gloss": "قدشانءِ قدش"
     },
     {
-      "surface": "הִוא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "כַּחַטָּאת",
+      "surface": "כחטאת",
       "gloss": "چوں گناہءِ قربانی"
     },
     {
-      "surface": "וְכָאָשָׁם",
+      "surface": "וכאשם",
       "gloss": "ءُ چوں بدکارءِ قربانی"
     }
-  ],
-  "timestamp": "2026-09-25T19:30:11.924183745Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,38 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "ezekiel 32:19",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:19:12.149733107Z",
+  "verse": 19,
+  "ref": "ezekiel 32:19",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "چہ کیءَ توں ماکاں اِنی؟ رُو ءُ خوابگہءَ بیزا گوں ⟨את⟩ ناقطانیں مردمان.",
   "tokens": [
     {
-      "surface": "מִמִּי",
+      "surface": "ממי",
       "gloss": "چہ کیءَ"
     },
     {
-      "surface": "נָעַמְתָּ",
+      "surface": "נעמת",
       "gloss": "توں ماکاں اِنی"
     },
     {
-      "surface": "רֵדָה",
+      "surface": "רדה",
       "gloss": "رُو"
     },
     {
-      "surface": "וְהֻשְׁכַּבְתָּה",
+      "surface": "והשכבה",
       "gloss": "ءُ خوابگہءَ بیزا"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ناقطانیں مردمان"
     },
     {
-      "surface": "עֲרֵלִים",
+      "surface": "ערלים",
       "gloss": "ناقطانیں مردمان"
     }
-  ],
-  "timestamp": "2026-09-25T16:19:12.149733107Z",
-  "model": "glm-5.3"
+  ]
 }

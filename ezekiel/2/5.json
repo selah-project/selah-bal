@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "ezekiel 2:5",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:12:01.124610570Z",
+  "verse": 5,
+  "ref": "ezekiel 2:5",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ آءُ گر گوشنت ءُ گر باز آرنت، پرچا کہ آ یک بغاوتءِ خانوادہ اِنت، باز زانت کہ یک پیغمبر اشانءِ میان اُشت۔",
   "tokens": [
     {
-      "surface": "וְהֵ֨מָּה֙",
+      "surface": "והמה",
       "gloss": "ءُ آءُ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "گر"
     },
     {
-      "surface": "יִשְׁמְע֣וּ",
+      "surface": "ישמעו",
       "gloss": "گوشنت"
     },
     {
-      "surface": "וְאִם",
+      "surface": "ואם",
       "gloss": "ءُ گر"
     },
     {
-      "surface": "יֶחְדָּ֔לוּ",
+      "surface": "יחדלו",
       "gloss": "باز آرنت"
     },
     {
-      "surface": "כִּ֛י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "خانوادہ"
     },
     {
-      "surface": "מְרִ֖י",
+      "surface": "מרי",
       "gloss": "بغاوتءِ"
     },
     {
-      "surface": "הֵ֑מָּה",
+      "surface": "המה",
       "gloss": "آءُ"
     },
     {
-      "surface": "וְיָ֣דְע֔וּ",
+      "surface": "וידעו",
       "gloss": "باز زانت"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "נָבִ֖יא",
+      "surface": "נביא",
       "gloss": "پیغمبر"
     },
     {
-      "surface": "הָיָ֥ה",
+      "surface": "היה",
       "gloss": "اُشت"
     },
     {
-      "surface": "בְתוֹכָֽם",
+      "surface": "בתוכם",
       "gloss": "ایشانءِ میان"
     }
-  ],
-  "timestamp": "2026-09-25T16:12:01.124610570Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
-  "ref": "genesis 31:37",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:52:23.086025195Z",
+  "verse": 37,
+  "ref": "genesis 31:37",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "کہ تُو مئیں کِشءِ گشتگ منءِ سارگانی چی چہ سارگانی تُئے گِدانءَ لبٹ کت؟ اے گال مئیں ماڑانی ءُ تُئے ماڑانی پیشءَ دار ءُ اِشاں مئیں شمگاں دمیءَ پتہ بکن۔",
   "tokens": [
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "מִשַּׁ֣שְׁתָּ",
+      "surface": "מששת",
       "gloss": "مئیں کِشءِ گشتگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سارگانی من (כל כלי)"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "سار"
     },
     {
-      "surface": "כֵלַ֗י",
+      "surface": "כלי",
       "gloss": "سارگانی من"
     },
     {
-      "surface": "מַה",
+      "surface": "מה",
       "gloss": "چی"
     },
     {
-      "surface": "מָצָ֨אתָ֙",
+      "surface": "מצאת",
       "gloss": "لبٹ کت"
     },
     {
-      "surface": "מִכֹּ֣ל",
+      "surface": "מכל",
       "gloss": "چہ سارگانی"
     },
     {
-      "surface": "כְלֵ֣י",
+      "surface": "כלי",
       "gloss": "سارگانی"
     },
     {
-      "surface": "בֵיתֶ֔ךָ",
+      "surface": "ביתך",
       "gloss": "تُئے گِدانءِ"
     },
     {
-      "surface": "שִׂ֣ים",
+      "surface": "שים",
       "gloss": "دار"
     },
     {
-      "surface": "כֹ֔ה",
+      "surface": "כה",
       "gloss": "اے گال"
     },
     {
-      "surface": "נֶ֥גֶד",
+      "surface": "נגד",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "אַחַ֖י",
+      "surface": "אחי",
       "gloss": "مئیں ماڑانی"
     },
     {
-      "surface": "וְאַחֶ֑יךָ",
+      "surface": "ואחיך",
       "gloss": "ءُ تُئے ماڑانی"
     },
     {
-      "surface": "וְיוֹכִ֖יחוּ",
+      "surface": "ויוכיחו",
       "gloss": "ءُ اِشاں پتہ بکن"
     },
     {
-      "surface": "בֵּ֥ין",
+      "surface": "בין",
       "gloss": "دمیءَ"
     },
     {
-      "surface": "שְׁנֵֽינוּ",
+      "surface": "שנינו",
       "gloss": "مئیں شمگاں"
     }
-  ],
-  "timestamp": "2026-09-25T16:52:23.086025195Z",
-  "model": "glm-5.3"
+  ]
 }

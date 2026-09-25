@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "psalms 89:15",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:48:42.663654413Z",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "tier": "glm-5.2",
   "chapter": 89,
   "translation": "راستی ءُ انصاف تری تختءِ جا اِنت؛ ہیسید ءُ سچائی تری دیمانی پیش رونت.",
   "tokens": [
     {
-      "surface": "צֶ֣דֶק",
+      "surface": "צדק",
       "gloss": "راستی"
     },
     {
-      "surface": "וּ֭מִשְׁפָּט",
+      "surface": "ומשפט",
       "gloss": "ءُ انصاف"
     },
     {
-      "surface": "מְכ֣וֹן",
+      "surface": "מכון",
       "gloss": "جا"
     },
     {
-      "surface": "כִּסְאֶ֑ךָ",
+      "surface": "כסאך",
       "gloss": "تری تخت"
     },
     {
-      "surface": "חֶ֥סֶד",
+      "surface": "חסד",
       "gloss": "ہیسید"
     },
     {
-      "surface": "וֶ֝אֱמֶ֗ת",
+      "surface": "ואמת",
       "gloss": "ءُ سچائی"
     },
     {
-      "surface": "יְֽקַדְּמ֥וּ",
+      "surface": "יקדמו",
       "gloss": "پیش رونت"
     },
     {
-      "surface": "פָנֶֽיךָ",
+      "surface": "פניך",
       "gloss": "تری دیمانی"
     }
-  ],
-  "timestamp": "2026-09-25T20:48:42.663654413Z",
-  "model": "glm-5.3"
+  ]
 }

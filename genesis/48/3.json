@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "genesis 48:3",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:03:51.870211431Z",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "tier": "glm-5.2",
   "chapter": 48,
   "translation": "ءُ یعقوبءَ گوَشت پہ یوسفءَ: اِیل شدّای مءَ گندیت لُوزءَ تہ کنعانءِ زمینءَ، ءُ مءَ برکت دیت ⟨את⟩",
   "tokens": [
     {
-      "surface": "וַיֹּ֤אמֶר",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "יַעֲקֹב֙",
+      "surface": "יעקב",
       "gloss": "یعقوبءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "יוֹסֵ֔ף",
+      "surface": "יוסף",
       "gloss": "یوسفءَ"
     },
     {
-      "surface": "אֵ֥ל",
+      "surface": "אל",
       "gloss": "اِیل"
     },
     {
-      "surface": "שַׁדַּ֛י",
+      "surface": "שדי",
       "gloss": "شدّای"
     },
     {
-      "surface": "נִרְאָֽה",
+      "surface": "נראה",
       "gloss": "گندیت"
     },
     {
-      "surface": "אֵלַ֥י",
+      "surface": "אלי",
       "gloss": "مءَ"
     },
     {
-      "surface": "בְּל֖וּז",
+      "surface": "בלוז",
       "gloss": "لُوزءَ"
     },
     {
-      "surface": "בְּאֶ֣רֶץ",
+      "surface": "בארץ",
       "gloss": "تہ … زمینءَ"
     },
     {
-      "surface": "כְּנָ֑עַן",
+      "surface": "כנען",
       "gloss": "کنعانءِ"
     },
     {
-      "surface": "וַיְבָ֖רֶךְ",
+      "surface": "ויברך",
       "gloss": "ءُ برکت دیت"
     },
     {
-      "surface": "אֹתִֽי",
+      "surface": "אתי",
       "gloss": "⟨את⟩",
       "marks": "مءَ (من)"
     }
-  ],
-  "timestamp": "2026-09-25T17:03:51.870211431Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "proverbs 18:24",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:14:43.094936150Z",
+  "verse": 24,
+  "ref": "proverbs 18:24",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "مردی رفقاں پہ وتءِ گندیت؛ بلے ہست یار دبک چہ برار ءُ ہم نزیکتر۔",
   "tokens": [
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "مردی"
     },
     {
-      "surface": "רֵעִים",
+      "surface": "רעים",
       "gloss": "رفقاں"
     },
     {
-      "surface": "לְהִתְרֹעֵעַ",
+      "surface": "להתרעע",
       "gloss": "پہ وتءِ گندیت"
     },
     {
-      "surface": "וְיֵשׁ",
+      "surface": "ויש",
       "gloss": "بلے ہست"
     },
     {
-      "surface": "אֹהֵב",
+      "surface": "אהב",
       "gloss": "یار"
     },
     {
-      "surface": "דָּבֵק",
+      "surface": "דבק",
       "gloss": "دبک"
     },
     {
-      "surface": "מֵאָח",
+      "surface": "מאח",
       "gloss": "چہ برار"
     }
-  ],
-  "timestamp": "2026-09-25T20:14:43.094936150Z",
-  "model": "glm-5.3"
+  ]
 }

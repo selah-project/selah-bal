@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "numbers 22:25",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:54:08.835093562Z",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ کہاوانءَ یاہوہءِ فرشتہ ⟨את⟩ گندیت ءُ دیوارءَ چیڑیت، ءُ بیلامءِ پا ⟨את⟩ دیوارءَ چیڑیت، ءُ آییءَ مارگ گیش کت۔",
   "tokens": [
     {
-      "surface": "וַתֵּ֨רֶא",
+      "surface": "ותרא",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "הָאָת֜וֹן",
+      "surface": "האתון",
       "gloss": "کہاوانءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "فرشتہ"
     },
     {
-      "surface": "מַלְאַ֣ךְ",
+      "surface": "מלאך",
       "gloss": "فرشتہ"
     },
     {
-      "surface": "יְהוָ֗ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וַתִּלָּחֵץ֙",
+      "surface": "ותלחץ",
       "gloss": "ءُ چیڑیت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تا"
     },
     {
-      "surface": "הַקִּ֔יר",
+      "surface": "הקיר",
       "gloss": "دیوارءَ"
     },
     {
-      "surface": "וַתִּלְחַ֛ץ",
+      "surface": "ותלחץ",
       "gloss": "ءُ چیڑیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پا"
     },
     {
-      "surface": "רֶ֥גֶל",
+      "surface": "רגל",
       "gloss": "پا"
     },
     {
-      "surface": "בִּלְעָ֖ם",
+      "surface": "בלעם",
       "gloss": "بیلامءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تا"
     },
     {
-      "surface": "הַקִּ֑יר",
+      "surface": "הקיר",
       "gloss": "دیوارءَ"
     },
     {
-      "surface": "וַיֹּ֖סֶף",
+      "surface": "ויסף",
       "gloss": "ءُ گیش کت"
     },
     {
-      "surface": "לְהַכֹּתָֽהּ",
+      "surface": "להכתה",
       "gloss": "پہ آییءِ مارنگ"
     }
-  ],
-  "timestamp": "2026-09-25T19:54:08.835093562Z",
-  "model": "glm-5.3"
+  ]
 }

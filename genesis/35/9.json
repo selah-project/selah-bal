@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "genesis 35:9",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:50:55.910245982Z",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "tier": "glm-5.2",
   "chapter": 35,
   "translation": "ءُ ایلوہیم اَیکءَ چہ پدان اَرامءَ آییءِ گنچشءَ پس اِنت، پدا یاکُوبءَ اِشٹت ءُ ⟨את⟩ آییءَ برکت دت۔",
   "tokens": [
     {
-      "surface": "וַיֵּרָא",
+      "surface": "וירא",
       "gloss": "پدا اِشٹت"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "اَیکءَ"
     },
     {
-      "surface": "יַעֲקֹב",
+      "surface": "יעקב",
       "gloss": "یاکُوبءَ"
     },
     {
-      "surface": "עוֹד",
+      "surface": "עוד",
       "gloss": "پس"
     },
     {
-      "surface": "בְּבֹאוֹ",
+      "surface": "בבאו",
       "gloss": "آییءِ گنچشءَ"
     },
     {
-      "surface": "מִפַּדַּן",
+      "surface": "מפדן",
       "gloss": "چہ پدان"
     },
     {
-      "surface": "אֲרָם",
+      "surface": "ארם",
       "gloss": "اَرامءَ"
     },
     {
-      "surface": "וַיְבָרֶךְ",
+      "surface": "ויברך",
       "gloss": "ءُ برکت دت"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:50:55.910245982Z",
-  "model": "glm-5.3"
+  ]
 }

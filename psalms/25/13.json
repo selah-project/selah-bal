@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "psalms 25:13",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:35:44.422638869Z",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "آییءِ جان تہ چہیں مانیت، ءُ آییءِ نسل ⟨את⟩ زمینءَ مالک بیت۔",
   "tokens": [
     {
-      "surface": "נַ֭פְשׁוֹ",
+      "surface": "נפשו",
       "gloss": "آییءِ جان"
     },
     {
-      "surface": "בְּט֣וֹב",
+      "surface": "בטוב",
       "gloss": "تہ چہیں"
     },
     {
-      "surface": "תָּלִ֑ין",
+      "surface": "תלין",
       "gloss": "مانیت"
     },
     {
-      "surface": "וְ֝זַרְע֗וֹ",
+      "surface": "וזרעו",
       "gloss": "ءُ آییءِ نسل"
     },
     {
-      "surface": "יִ֣ירַשׁ",
+      "surface": "יירש",
       "gloss": "مالک بیت"
     },
     {
-      "surface": "אָֽרֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:35:44.422638869Z",
-  "model": "glm-5.3"
+  ]
 }

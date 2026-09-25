@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "proverbs 16:10",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:13:16.517387017Z",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "غیبءِ گال شاہءِ لبءِ سرءَ ⟨اِنت⟩؛ انصافءَ آییءِ منہ دغا نہ کنت۔",
   "tokens": [
     {
-      "surface": "קֶ֤סֶם",
+      "surface": "קסם",
       "gloss": "غیبءِ گال"
     },
     {
-      "surface": "עַֽל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "שִׂפְתֵי",
+      "surface": "שפתי",
       "gloss": "لبءِ"
     },
     {
-      "surface": "מֶ֑לֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "בְּ֝מִשְׁפָּ֗ט",
+      "surface": "במשפט",
       "gloss": "انصافءَ"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִמְעַל",
+      "surface": "ימעל",
       "gloss": "دغا کنت"
     },
     {
-      "surface": "פִּֽיו",
+      "surface": "פיו",
       "gloss": "آییءِ منہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:13:16.517387017Z",
-  "model": "glm-5.3"
+  ]
 }

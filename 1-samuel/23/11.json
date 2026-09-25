@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "1-samuel 23:11",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:21:31.220785296Z",
+  "verse": 11,
+  "ref": "1-samuel 23:11",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "کیلہءِ بڑے مءَ آییءِ دستءَ سپارت کننت؟ شاؤل دمیت، چوش کہ وتءِ بندہ گوشتگ؟ اے یاہوہ، یسرائیلءِ ایلوہیم، وتءِ بندہءَ پہ گوش۔ ءُ یاہوہءَ گوَشت: دمیت۔",
   "tokens": [
     {
-      "surface": "הֲיַסְגִּרֻּנִי",
+      "surface": "היסגרני",
       "gloss": "مءَ سپارت کننت"
     },
     {
-      "surface": "בַּעֲלֵי",
+      "surface": "בעלי",
       "gloss": "بڑےءِ"
     },
     {
-      "surface": "קְעִילָה",
+      "surface": "קעילה",
       "gloss": "کیلہ"
     },
     {
-      "surface": "בְּיָדוֹ",
+      "surface": "בידו",
       "gloss": "آییءِ دستءَ"
     },
     {
-      "surface": "הֲיֵרֵד",
+      "surface": "הירד",
       "gloss": "دمیت"
     },
     {
-      "surface": "שָׁאוּל",
+      "surface": "שאול",
       "gloss": "شاؤل"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "שָׁמַע",
+      "surface": "שמע",
       "gloss": "گوشتگ"
     },
     {
-      "surface": "עַבְדֶּךָ",
+      "surface": "עבדך",
       "gloss": "وتءِ بندہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵי",
+      "surface": "אלהי",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرائیلءِ"
     },
     {
-      "surface": "הַגֶּד",
+      "surface": "הגד",
       "gloss": "گوش"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
       "gloss": "پہ"
     },
     {
-      "surface": "לְעַבְדֶּךָ",
+      "surface": "לעבדך",
       "gloss": "وتءِ بندہءَ"
     },
     {
-      "surface": "וַיֹּאמֶר",
+      "surface": "ויאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "יֵרֵד",
+      "surface": "ירד",
       "gloss": "دمیت"
     }
-  ],
-  "timestamp": "2026-09-25T13:21:31.220785296Z",
-  "model": "glm-5.3"
+  ]
 }

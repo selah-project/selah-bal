@@ -1,25 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "joshua 15:31",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:41:28.576348418Z",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ صقلگ، ءُ مدمنه، ءُ سنسنه",
   "tokens": [
     {
-      "surface": "וְצִֽקְלַ֥ג",
+      "surface": "וצקלג",
       "gloss": "ءُ صقلگ"
     },
     {
-      "surface": "וּמַדְמַנָּ֖ה",
+      "surface": "ומדמנה",
       "gloss": "ءُ مدمنه"
     },
     {
-      "surface": "וְסַנְסַנָּֽה",
+      "surface": "וסנסנה",
       "gloss": "ءُ سنسنه"
     }
-  ],
-  "timestamp": "2026-09-25T18:41:28.576348418Z",
-  "model": "glm-5.3"
+  ]
 }

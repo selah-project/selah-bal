@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "job 9:4",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:12:54.684972366Z",
+  "verse": 4,
+  "ref": "job 9:4",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "⟨او⟩ دلءَ دانا اِنت ءُ زورءَ زوراور — کی آییءِ مقابلءَ سخت کنتگ ءُ کامیاب بوت؟",
   "tokens": [
     {
-      "surface": "חֲכַ֣ם",
+      "surface": "חכם",
       "gloss": "دانا"
     },
     {
-      "surface": "לֵ֭בָב",
+      "surface": "לבב",
       "gloss": "دلءَ"
     },
     {
-      "surface": "וְאַמִּ֣יץ",
+      "surface": "ואמיץ",
       "gloss": "ءُ زوراور"
     },
     {
-      "surface": "כֹּ֑חַ",
+      "surface": "כח",
       "gloss": "زورءَ"
     },
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کی"
     },
     {
-      "surface": "הִקְשָׁ֥ה",
+      "surface": "הקשה",
       "gloss": "سخت کنتگ"
     },
     {
-      "surface": "אֵלָ֗יו",
+      "surface": "אליו",
       "gloss": "آییءِ مقابلءَ"
     },
     {
-      "surface": "וַיִּשְׁלָֽם",
+      "surface": "וישלם",
       "gloss": "ءُ کامیاب بوت"
     }
-  ],
-  "timestamp": "2026-09-25T21:12:54.684972366Z",
-  "model": "glm-5.3"
+  ]
 }

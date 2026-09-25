@@ -1,67 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "genesis 44:22",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:01:12.766928328Z",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "tier": "glm-5.2",
   "chapter": 44,
   "translation": "ءُ ما اِشاں اے ادونایءَ گوَشتئے، اے جنک اِنت نہ کہ ⟨את⟩ اِشے پتءَ بچّیت؛ ءُ گو ⟨את⟩ اِشے پتءَ بچّت، اِشے پت مریت۔",
   "tokens": [
     {
-      "surface": "וַנֹּאמֶר",
+      "surface": "ונאמר",
       "gloss": "ءُ ما اِشاں گوَشتئے"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "اے"
     },
     {
-      "surface": "אֲדֹנִי",
+      "surface": "אדני",
       "gloss": "ادونایءَ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יוּכַל",
+      "surface": "יוכל",
       "gloss": "اِنت نہ کہ بچّیت"
     },
     {
-      "surface": "הַנַּעַר",
+      "surface": "הנער",
       "gloss": "اے جنک"
     },
     {
-      "surface": "לַעֲזֹב",
+      "surface": "לעזב",
       "gloss": "بچّیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اِشے پتءَ"
     },
     {
-      "surface": "אָבִיו",
+      "surface": "אביו",
       "gloss": "اِشے پتءَ"
     },
     {
-      "surface": "וְעָזַב",
+      "surface": "ועזב",
       "gloss": "ءُ بچّت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اِشے پتءَ"
     },
     {
-      "surface": "אָבִיו",
+      "surface": "אביו",
       "gloss": "اِشے پتءَ"
     },
     {
-      "surface": "וָמֵת",
+      "surface": "ומת",
       "gloss": "مریت"
     }
-  ],
-  "timestamp": "2026-09-25T17:01:12.766928328Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "jeremiah 22:5",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:48:36.252112241Z",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ اگر اِشاں اے گالانءَ نہ گوشنت ⟨את⟩، چہ وتءَ قسم وانیت، یاہوہءِ فرمانءَ اِنت، کہ اے گدان پہ ویرانی بیت۔",
   "tokens": [
@@ -53,7 +55,7 @@
       "gloss": "کہ"
     },
     {
-      "surface": "لחרבה",
+      "surface": "לחרבה",
       "gloss": "پہ ویرانیءَ"
     },
     {
@@ -68,7 +70,5 @@
       "surface": "הזה",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T17:48:36.252112241Z",
-  "model": "glm-5.3"
+  ]
 }

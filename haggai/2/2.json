@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "haggai 2:2",
   "book": "haggai",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:05:15.510126051Z",
+  "verse": 2,
+  "ref": "haggai 2:2",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "گوَشتءِ چوں: اے زروبابل، شلت ایلءِ زہگ، یہوداہءِ پچاہءَ، ءُ اے یہوشوع، یہوتسادکءِ زہگ، گیش کاہنءَ، ءُ قومءِ سرہ گوَشت:",
   "tokens": [
     {
-      "surface": "אֱמָר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "נָא",
+      "surface": "נא",
       "gloss": "چوں"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "اے"
     },
     {
-      "surface": "זְרֻבָּבֶל",
+      "surface": "זרבבל",
       "gloss": "زروبابل"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "שַׁלְתִּיאֵל",
+      "surface": "שלתיאל",
       "gloss": "شلت ایل"
     },
     {
-      "surface": "פַּחַת",
+      "surface": "פחת",
       "gloss": "پچاہ"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہ"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "יְהוֹשֻׁעַ",
+      "surface": "יהושע",
       "gloss": "یہوشوع"
     },
     {
-      "surface": "בֵּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "יְהוֹצָדָק",
+      "surface": "יהוצדק",
       "gloss": "یہوتسادک"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "הַגָּדוֹל",
+      "surface": "הגדול",
       "gloss": "گیش"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "שְׁאֵרִית",
+      "surface": "שארית",
       "gloss": "سرہ"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "قومءِ"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "گوَشت"
     }
-  ],
-  "timestamp": "2026-09-25T17:05:15.510126051Z",
-  "model": "glm-5.3"
+  ]
 }

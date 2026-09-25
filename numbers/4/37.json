@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
-  "ref": "numbers 4:37",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:04:19.827596587Z",
+  "verse": 37,
+  "ref": "numbers 4:37",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "اے کہاتیانی ٹولیانی شمار اِنت، ہر کس کہ ملاقاتءِ گدانءَ تہ خدمت کنت، جنکاں موشہ ءُ اہرون شمار کت، یاہوہءِ گالءِ مطابق، موشہءِ دستءَ۔",
   "tokens": [
     {
-      "surface": "אֵלֶּה",
+      "surface": "אלה",
       "gloss": "اے"
     },
     {
-      "surface": "פְּקוּדֵי",
+      "surface": "פקודי",
       "gloss": "شمار"
     },
     {
-      "surface": "מִשְׁפְּחֹת",
+      "surface": "משפחת",
       "gloss": "ٹولیانی"
     },
     {
-      "surface": "הַקְּהָתִי",
+      "surface": "הקהתי",
       "gloss": "کہاتیانی"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر کس"
     },
     {
-      "surface": "הָעֹבֵד",
+      "surface": "העבד",
       "gloss": "کس کہ خدمت کنت"
     },
     {
-      "surface": "בְּאֹהֶל",
+      "surface": "באהל",
       "gloss": "گadanءَ تہ"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "جنکاں"
     },
     {
-      "surface": "פָּקַד",
+      "surface": "פקד",
       "gloss": "شمار کت"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "موشہ"
     },
     {
-      "surface": "וְאַהֲרֹן",
+      "surface": "ואהרן",
       "gloss": "ءُ اہرون"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "مطابق"
     },
     {
-      "surface": "פִּי",
+      "surface": "פי",
       "gloss": "گالءِ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "دستءَ"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "موشہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:04:19.827596587Z",
-  "model": "glm-5.3"
+  ]
 }

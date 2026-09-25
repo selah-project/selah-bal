@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "2-samuel 22:31",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:35:06.311459411Z",
+  "verse": 31,
+  "ref": "2-samuel 22:31",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ایل — آییءِ رست پورءِ اِنت؛ یاہوہءِ اِمرہ رپیتگءِ اِنت؛ آیی پہ ہمگ چوکARءِ پہ یک ڈل اِنت۔",
   "tokens": [
     {
-      "surface": "הָאֵל",
+      "surface": "האל",
       "gloss": "ایل"
     },
     {
-      "surface": "תָּמִים",
+      "surface": "תמים",
       "gloss": "پور"
     },
     {
-      "surface": "דַּרְכּוֹ",
+      "surface": "דרכו",
       "gloss": "آییءِ رست"
     },
     {
-      "surface": "אִמְרַת",
+      "surface": "אמרת",
       "gloss": "اِمرہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "צְרוּפָה",
+      "surface": "צרופה",
       "gloss": "رپیتگ"
     },
     {
-      "surface": "מָגֵן",
+      "surface": "מגן",
       "gloss": "ڈل"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "آیی"
     },
     {
-      "surface": "לְכֹל",
+      "surface": "לכל",
       "gloss": "پہ ہمگ"
     },
     {
-      "surface": "הַחֹסִים",
+      "surface": "החסים",
       "gloss": "چوکAR"
     },
     {
-      "surface": "בּוֹ",
+      "surface": "בו",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:35:06.311459411Z",
-  "model": "glm-5.3"
+  ]
 }

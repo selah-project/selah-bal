@@ -1,128 +1,128 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "ezekiel 39:11",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:25:58.613026844Z",
+  "verse": 11,
+  "ref": "ezekiel 39:11",
+  "tier": "glm-5.2",
   "chapter": 39,
   "translation": "ءُ آ روچءَ بیت کہ من گوگءَ اُڈا یک جاگہ دینں — اسرائیلءَ تہ یک قبر، گوَندگانی گپ، روچ کپتءِ دیمءَ دریا؛ ءُ آ ⟨את⟩ گوَندگانءَ بند کنت؛ ءُ اُڈا ⟨את⟩ گوگ ءُ ⟨את⟩ آییءِ پوریں ہجومءَ دفن کننت، ءُ آیءَ ہجومِ گوگءِ گپ بانگ کننت.",
   "tokens": [
     {
-      "surface": "וְהָיָ֣ה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "בַיּ֣וֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "הַה֡וּא",
+      "surface": "ההוא",
       "gloss": "آ"
     },
     {
-      "surface": "אֶתֵּ֣ן",
+      "surface": "אתן",
       "gloss": "دینں"
     },
     {
-      "surface": "לְגוֹג֩",
+      "surface": "לגוג",
       "gloss": "گوگءَ"
     },
     {
-      "surface": "מְקֽוֹם",
+      "surface": "מקום",
       "gloss": "جاگہ"
     },
     {
-      "surface": "שָׁ֨ם",
+      "surface": "שם",
       "gloss": "اُڈا"
     },
     {
-      "surface": "קֶ֜בֶר",
+      "surface": "קבר",
       "gloss": "قبر"
     },
     {
-      "surface": "בְּיִשְׂרָאֵ֗ל",
+      "surface": "בישראל",
       "gloss": "اسرائیلءَ تہ"
     },
     {
-      "surface": "גֵּ֤י",
+      "surface": "גי",
       "gloss": "گپ"
     },
     {
-      "surface": "הָעֹֽבְרִים֙",
+      "surface": "העברים",
       "gloss": "گوَندگانی"
     },
     {
-      "surface": "קִדְמַ֣ת",
+      "surface": "קדמת",
       "gloss": "روچ کپتءِ دیمءَ"
     },
     {
-      "surface": "הַיָּ֔ם",
+      "surface": "הים",
       "gloss": "دریا"
     },
     {
-      "surface": "וְחֹסֶ֥מֶת",
+      "surface": "וחסמת",
       "gloss": "ءُ بند کنت"
     },
     {
-      "surface": "הִ֖יא",
+      "surface": "היא",
       "gloss": "آ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گوَندگانءَ"
     },
     {
-      "surface": "הָעֹֽבְרִ֑ים",
+      "surface": "העברים",
       "gloss": "گوَندگانءَ"
     },
     {
-      "surface": "וְקָ֣בְרוּ",
+      "surface": "וקברו",
       "gloss": "ءُ دفن کننت"
     },
     {
-      "surface": "שָׁ֗ם",
+      "surface": "שם",
       "gloss": "اُڈا"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گوگ"
     },
     {
-      "surface": "גּוֹג֙",
+      "surface": "גוג",
       "gloss": "گوگ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پوریں ہجوم"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "הֲמוֹנֹ֔ה",
+      "surface": "המונה",
       "gloss": "ہجوم"
     },
     {
-      "surface": "וְקָ֣רְא֔וּ",
+      "surface": "וקראו",
       "gloss": "ءُ بانگ کننت"
     },
     {
-      "surface": "גֵּ֖יא",
+      "surface": "גיא",
       "gloss": "گپ"
     },
     {
-      "surface": "הֲמ֥וֹן",
+      "surface": "המון",
       "gloss": "ہجوم"
     },
     {
-      "surface": "גּֽוֹג",
+      "surface": "גוג",
       "gloss": "گوگ"
     }
-  ],
-  "timestamp": "2026-09-25T16:25:58.613026844Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "deuteronomy 11:14",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:06:12.290802500Z",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ من شتن دیگءِ زمینءَ وتی وہدءَ دیم ءُ مِترُک، ءُ تو وتءِ آنندان ءُ وتءِ مِوءِ شراب ءُ وتءِ روچن ءَ جم کنیت۔",
   "tokens": [
     {
-      "surface": "וְנָתַתִּי",
+      "surface": "ונתתי",
       "gloss": "ءُ من شتن دیگ"
     },
     {
-      "surface": "מְטַר",
+      "surface": "מטר",
       "gloss": "آپ"
     },
     {
-      "surface": "אַרְצְכֶם",
+      "surface": "ארצכם",
       "gloss": "شمناں (تمناں) ءِ زمینءَ"
     },
     {
-      "surface": "בְּעִתּוֹ",
+      "surface": "בעתו",
       "gloss": "وتی وہدءَ دیم"
     },
     {
-      "surface": "יוֹרֶה",
+      "surface": "יורה",
       "gloss": "مِترُک"
     },
     {
-      "surface": "וּמַלְקוֹשׁ",
+      "surface": "ומלקוש",
       "gloss": "ءُ وشالا"
     },
     {
-      "surface": "וְאָסַפְתָּ",
+      "surface": "ואספת",
       "gloss": "ءُ تو جم کنیت"
     },
     {
-      "surface": "דְּגָנֶךָ",
+      "surface": "דגנך",
       "gloss": "وتءِ آنندان"
     },
     {
-      "surface": "וְתִירֹשְׁךָ",
+      "surface": "ותירשך",
       "gloss": "ءُ وتءِ مِوءِ شراب"
     },
     {
-      "surface": "וְיִצְהָרֶךָ",
+      "surface": "ויצהרך",
       "gloss": "ءُ وتءِ روچن"
     }
-  ],
-  "timestamp": "2026-09-25T15:06:12.290802500Z",
-  "model": "glm-5.3"
+  ]
 }

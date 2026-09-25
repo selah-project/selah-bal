@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "habakkuk 3:13",
   "book": "habakkuk",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:06:46.667667869Z",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "تو روتگ پہ وتی قومءِ نجاتءَ، پہ نجاتءَ ⟨את⟩ وتی ماشیاحءَ؛ تو پاش کتگ سرءَ چہ بدءِ گدءَ، برہنگ کتگ بنیادءَ تا گردنءَ۔ سلاہ",
   "tokens": [
     {
-      "surface": "יָצָ֨אתָ֙",
+      "surface": "יצאת",
       "gloss": "روتگ"
     },
     {
-      "surface": "לְיֵ֣שַׁע",
+      "surface": "לישע",
       "gloss": "پہ نجاتءَ"
     },
     {
-      "surface": "עַמֶּ֔ךָ",
+      "surface": "עמך",
       "gloss": "وتی قوم"
     },
     {
-      "surface": "לְיֵ֖שַׁע",
+      "surface": "לישע",
       "gloss": "پہ نجاتءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی ماشیاح"
     },
     {
-      "surface": "מְשִׁיחֶ֑ךָ",
+      "surface": "משיחך",
       "gloss": "وتی ماشیاح"
     },
     {
-      "surface": "מָחַ֤צְתָּ",
+      "surface": "מחצת",
       "gloss": "پاش کتگ"
     },
     {
-      "surface": "רֹּאשׁ֙",
+      "surface": "ראש",
       "gloss": "سرءَ"
     },
     {
-      "surface": "מִבֵּ֣ית",
+      "surface": "מבית",
       "gloss": "چہ گد"
     },
     {
-      "surface": "רָשָׁ֔ע",
+      "surface": "רשע",
       "gloss": "بدءِ"
     },
     {
-      "surface": "עָר֛וֹת",
+      "surface": "ערות",
       "gloss": "برہنگ کتگ"
     },
     {
-      "surface": "יְס֥וֹד",
+      "surface": "יסוד",
       "gloss": "بنیادءَ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "צַוָּ֖אר",
+      "surface": "צואר",
       "gloss": "گردنءَ"
     },
     {
-      "surface": "סֶֽלָה",
+      "surface": "סלה",
       "gloss": "سلاہ"
     }
-  ],
-  "timestamp": "2026-09-25T17:06:46.667667869Z",
-  "model": "glm-5.3"
+  ]
 }

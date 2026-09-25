@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "deuteronomy 21:2",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:19:25.606227216Z",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "ءُ تءِ پیران ءُ تءِ داوران در کپنت ءُ پیمایت کننت مزن شہراں دوستی کہ مُردگءِ دوستی اَنت.",
   "tokens": [
@@ -36,14 +38,12 @@
       "gloss": "کہ"
     },
     {
-      "surface": "סביבות",
+      "surface": "סביבת",
       "gloss": "دوستی"
     },
     {
       "surface": "החלל",
       "gloss": "مُردگءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:19:25.606227216Z",
-  "model": "glm-5.3"
+  ]
 }

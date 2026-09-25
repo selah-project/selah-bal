@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "ezra 6:16",
   "book": "ezra",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:39:04.431841124Z",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ اسرائیلی زہگان، کاهنان ءُ لویان ءُ گوں گمن بیگارءِ زہگان، اے ایلوہیمءِ گڈءِ چمءِ کار گوں شادمانی کت.",
   "tokens": [
     {
-      "surface": "וַעֲבַ֣דוּ",
+      "surface": "ועבדו",
       "gloss": "ءُ … کت"
     },
     {
-      "surface": "בְנֵֽי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیلی"
     },
     {
-      "surface": "כָּהֲנַיָּא",
+      "surface": "כהניא",
       "gloss": "کاهنان"
     },
     {
-      "surface": "וְלֵוָיֵא",
+      "surface": "ולויא",
       "gloss": "ءُ لویان"
     },
     {
-      "surface": "וּשְׁאָר",
+      "surface": "ושאר",
       "gloss": "ءُ گوں گمن"
     },
     {
-      "surface": "בְנֵי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "גָלוּתָא",
+      "surface": "גלותא",
       "gloss": "بیگارءِ"
     },
     {
-      "surface": "חֲנֻכַּת",
+      "surface": "חנכת",
       "gloss": "چمءِ کارءِ"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گڈءِ"
     },
     {
-      "surface": "אֱלָהָא",
+      "surface": "אלהא",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "דְנָה",
+      "surface": "דנה",
       "gloss": "اے"
     },
     {
-      "surface": "בְחֶדְוָה",
+      "surface": "בחדוה",
       "gloss": "گوں شادمانی"
     }
-  ],
-  "timestamp": "2026-09-25T16:39:04.431841124Z",
-  "model": "glm-5.3"
+  ]
 }

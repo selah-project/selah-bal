@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "genesis 48:6",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:08:44.098318731Z",
+  "verse": 6,
+  "ref": "genesis 48:6",
+  "tier": "glm-5.2",
   "chapter": 48,
   "translation": "ءُ تریں جنگیں جنکا تُو اِشاںءِ رندءَ بزمتیت، تُریں اِنت؛ اِشاں وتی براتانی نامءَ اِشاںءِ ورثتءَ بانگ بنت.",
   "tokens": [
     {
-      "surface": "וּמוֹלַדְתְּךָ֛",
+      "surface": "ומולדתך",
       "gloss": "ءُ تریں جنگیں"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "جنکا"
     },
     {
-      "surface": "הוֹלַדְתָּ",
+      "surface": "הולדת",
       "gloss": "تُو بزمتیت"
     },
     {
-      "surface": "אַחֲרֵיהֶם",
+      "surface": "אחריהם",
       "gloss": "اِشاںءِ رندءَ"
     },
     {
-      "surface": "לְךָ֣",
+      "surface": "לך",
       "gloss": "تُریں"
     },
     {
-      "surface": "יִהְי֑וּ",
+      "surface": "יהיו",
       "gloss": "اِنت"
     },
     {
-      "surface": "עַ֣ל",
+      "surface": "על",
       "gloss": "ءَ"
     },
     {
-      "surface": "שֵׁ֧ם",
+      "surface": "שם",
       "gloss": "نام"
     },
     {
-      "surface": "אֲחֵיהֶם",
+      "surface": "אחיהם",
       "gloss": "اِشاںانی برات"
     },
     {
-      "surface": "יִקָּרְא֖וּ",
+      "surface": "יקראו",
       "gloss": "بانگ بنت"
     },
     {
-      "surface": "בְּנַחֲלָתָֽם",
+      "surface": "בנחלתם",
       "gloss": "اِشاںءِ ورثتءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:08:44.098318731Z",
-  "model": "glm-5.3"
+  ]
 }

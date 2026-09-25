@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "proverbs 12:1",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:12:34.376025861Z",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "جو کہ مُشکان نہ، کہ ہُو دانی رکھِت ہے، اَور جو کہ دَرَس کا دُشمن ہے، وہ بے عقل ہے۔",
   "tokens": [
@@ -32,10 +34,8 @@
       "gloss": "سرزنشءِ"
     },
     {
-      "surface": "בעر",
+      "surface": "בער",
       "gloss": "بی‌عقل"
     }
-  ],
-  "timestamp": "2026-09-25T20:12:34.376025861Z",
-  "model": "glm-5.3"
+  ]
 }

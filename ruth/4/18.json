@@ -1,42 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "ruth 4:18",
   "book": "ruth",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:52:10.688855249Z",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ اے پارِزءِ نسلانی اِنت: پارِز ⟨את⟩ حصرونءَ زائیت۔",
   "tokens": [
     {
-      "surface": "וְאֵ֨לֶּה",
+      "surface": "ואלה",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "תּוֹלְדֹות",
+      "surface": "תולדות",
       "gloss": "نسلانی"
     },
     {
-      "surface": "פָּרֶץ",
+      "surface": "פרץ",
       "gloss": "پارِزءِ"
     },
     {
-      "surface": "פֶּרֶץ",
+      "surface": "פרץ",
       "gloss": "پارِز"
     },
     {
-      "surface": "הוֹלִיד",
+      "surface": "הוליד",
       "gloss": "زائیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "حصرونءَ"
     },
     {
-      "surface": "חֶצְרֹון",
+      "surface": "חצרון",
       "gloss": "حصرونءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:52:10.688855249Z",
-  "model": "glm-5.3"
+  ]
 }

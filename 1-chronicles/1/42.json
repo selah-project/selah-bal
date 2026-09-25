@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
-  "ref": "1-chronicles 1:42",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:31:10.294682315Z",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "اِتسرءِ زہگان: بِلہان ءُ زَعوان ءُ یَعکان — دیشونءِ زہگان: عُتس ءُ اَران.",
   "tokens": [
@@ -16,7 +18,7 @@
       "gloss": "اِتسر"
     },
     {
-      "surface": "بלהן",
+      "surface": "בלהן",
       "gloss": "بِلہان"
     },
     {
@@ -43,7 +45,5 @@
       "surface": "וארן",
       "gloss": "ءُ اَران"
     }
-  ],
-  "timestamp": "2026-09-25T12:31:10.294682315Z",
-  "model": "glm-5.3"
+  ]
 }

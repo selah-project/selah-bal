@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "1-chronicles 23:32",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:40:17.182040298Z",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "ءُ اِشاں ملاقاتءِ گدانءِ پاسبانی ءُ ⟨את⟩ پاسبانی پاکیءِ جاگہءِ ءُ پاسبانی اہرونءِ زہگانی، اِشاںءِ براتانی، پہ کار یاہوہءِ گدانءِ، پیش داریت.",
   "tokens": [
     {
-      "surface": "וְשָׁמְר֞וּ",
+      "surface": "ושמרו",
       "gloss": "ءُ اِشاں پیش داریت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پاسبانی"
     },
     {
-      "surface": "מִשְׁמֶ֣רֶת",
+      "surface": "משמרת",
       "gloss": "پاسبانی"
     },
     {
-      "surface": "אֹֽהֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵ֗ד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וְאֵת֙",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پاسبانی"
     },
     {
-      "surface": "מִשְׁמֶ֣רֶת",
+      "surface": "משמרת",
       "gloss": "پاسبانی"
     },
     {
-      "surface": "הַקֹּ֔דֶשׁ",
+      "surface": "הקדש",
       "gloss": "پاکیءِ جاگہءِ"
     },
     {
-      "surface": "וּמִשְׁמֶ֕רֶת",
+      "surface": "ומשמרת",
       "gloss": "ءُ پاسبانی"
     },
     {
-      "surface": "בְּנֵ֥י",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "אַהֲרֹ֖ן",
+      "surface": "אהרן",
       "gloss": "اہرونءِ"
     },
     {
-      "surface": "אֲחֵיהֶ֑ם",
+      "surface": "אחיהם",
       "gloss": "اِشاںءِ براتانی"
     },
     {
-      "surface": "לַעֲבֹדַ֖ת",
+      "surface": "לעבדת",
       "gloss": "پہ کارءِ"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T12:40:17.182040298Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "psalms 30:6",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:37:15.603316483Z",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "پرچا کہ آییءِ غمءَ یک لمحہ اِنت، زندگی آییءِ رضاءَ اِنت؛ شامءَ گریانءُ چم بیت، پرچا کہ چڑھاکیءَ شادی‌آواز بیت۔",
   "tokens": [
     {
-      "surface": "כִּ֤י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "רֶ֨גַע",
+      "surface": "רגע",
       "gloss": "یک لمحہ"
     },
     {
-      "surface": "בְּאַפּוֹ֮",
+      "surface": "באפו",
       "gloss": "آییءِ غمءَ"
     },
     {
-      "surface": "חַיִּ֪ים",
+      "surface": "חיים",
       "gloss": "زندگی"
     },
     {
-      "surface": "בִּרְצ֫וֹנ֥וֹ",
+      "surface": "ברצונו",
       "gloss": "آییءِ رضاءَ"
     },
     {
-      "surface": "בָּ֭עֶרֶב",
+      "surface": "בערב",
       "gloss": "شامءَ"
     },
     {
-      "surface": "יָלִ֥ין",
+      "surface": "ילין",
       "gloss": "چم بیت"
     },
     {
-      "surface": "בֶּ֗כִי",
+      "surface": "בכי",
       "gloss": "گریانءُ"
     },
     {
-      "surface": "וְלַבֹּ֥קֶר",
+      "surface": "ולבקר",
       "gloss": "ءُ چڑھاکیءَ"
     },
     {
-      "surface": "רִנָּֽה",
+      "surface": "רנה",
       "gloss": "شادی‌آواز"
     }
-  ],
-  "timestamp": "2026-09-25T20:37:15.603316483Z",
-  "model": "glm-5.3"
+  ]
 }

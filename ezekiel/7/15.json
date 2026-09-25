@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "ezekiel 7:15",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:34:53.516971101Z",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "تور بیرونءَ اِنت، ءُ مرض ءُ گوکانگ تہءَ؛ آ کہ میدانءَ اِنت، تورءَ مریت، ءُ آ کہ شہرءَ اِنت، گوکانگ ءُ مرض آییءَ گوشنت.",
   "tokens": [
     {
-      "surface": "הַחֶ֣רֶב",
+      "surface": "החרב",
       "gloss": "تور"
     },
     {
-      "surface": "בַּח֔וּץ",
+      "surface": "בחוץ",
       "gloss": "بیرونءَ"
     },
     {
-      "surface": "וְהַדֶּ֥בֶר",
+      "surface": "והדבר",
       "gloss": "ءُ مرض"
     },
     {
-      "surface": "וְהָרָעָ֖ב",
+      "surface": "והרעב",
       "gloss": "ءُ گوکانگ"
     },
     {
-      "surface": "מִבָּ֑יִת",
+      "surface": "מבית",
       "gloss": "تہءَ"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "בַּשָּׂדֶה֙",
+      "surface": "בשדה",
       "gloss": "میدانءَ"
     },
     {
-      "surface": "בַּחֶ֣רֶב",
+      "surface": "בחרב",
       "gloss": "تورءَ"
     },
     {
-      "surface": "יָמ֔וּת",
+      "surface": "ימות",
       "gloss": "مریت"
     },
     {
-      "surface": "וַאֲשֶׁ֣ר",
+      "surface": "ואשר",
       "gloss": "ءُ آ کہ"
     },
     {
-      "surface": "בָּעִ֔יר",
+      "surface": "בעיר",
       "gloss": "شہرءَ"
     },
     {
-      "surface": "רָעָ֥ב",
+      "surface": "רעב",
       "gloss": "گوکانگ"
     },
     {
-      "surface": "וָדֶ֖בֶר",
+      "surface": "ודבר",
       "gloss": "ءُ مرض"
     },
     {
-      "surface": "יֹאכֲלֶֽנּוּ",
+      "surface": "יאכלנו",
       "gloss": "آییءَ گوشنت"
     }
-  ],
-  "timestamp": "2026-09-25T16:34:53.516971101Z",
-  "model": "glm-5.3"
+  ]
 }

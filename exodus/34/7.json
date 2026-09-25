@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "exodus 34:7",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:59:27.630632936Z",
+  "verse": 7,
+  "ref": "exodus 34:7",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "هیسیدءَ هزارانی پہ پیش داریت، گناه ءُ سرکشی ءُ چکءَ برداشت کیت، ءُ نہ پاک کنیت، پدرانی گناهءَ زہگانی سر ءُ زہگانی زہگانانی سر، سئیمانی ءُ چاریمانی سر پوکیت۔",
   "tokens": [
     {
-      "surface": "נֹצֵ֥ר",
+      "surface": "נצר",
       "gloss": "پیش داریت"
     },
     {
-      "surface": "חֶ֨סֶד֙",
+      "surface": "חסד",
       "gloss": "هیسید"
     },
     {
-      "surface": "לָאֲלָפִ֔ים",
+      "surface": "לאלפים",
       "gloss": "هزارانی پہ"
     },
     {
-      "surface": "נֹשֵׂ֥א",
+      "surface": "נשא",
       "gloss": "برداشت کیت"
     },
     {
-      "surface": "עָוֺ֛ן",
+      "surface": "עון",
       "gloss": "گناه"
     },
     {
-      "surface": "וָפֶ֖שַׁע",
+      "surface": "ופשע",
       "gloss": "ءُ سرکشی"
     },
     {
-      "surface": "וְחַטָּאָ֑ה",
+      "surface": "וחטאה",
       "gloss": "ءُ چک"
     },
     {
-      "surface": "וְנַקֵּה֙",
+      "surface": "ונקה",
       "gloss": "ءُ پاک کیت"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "یְנַקֶּ֔ה",
+      "surface": "ינקה",
       "gloss": "پاک کنیت"
     },
     {
-      "surface": "פֹּקֵ֣ד",
+      "surface": "פקד",
       "gloss": "پوکیت"
     },
     {
-      "surface": "עֲוֺ֣ן",
+      "surface": "עון",
       "gloss": "گناهءَ"
     },
     {
-      "surface": "אָב֗וֹת",
+      "surface": "אבות",
       "gloss": "پدرانی"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سر"
     },
     {
-      "surface": "בָּנִים֙",
+      "surface": "בנים",
       "gloss": "زہگان"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ سر"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "בָנִ֔ים",
+      "surface": "בנים",
       "gloss": "زہگان"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سر"
     },
     {
-      "surface": "שִׁלֵּשִׁ֖ים",
+      "surface": "שלשים",
       "gloss": "سئیمانی"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ سر"
     },
     {
-      "surface": "רִבֵּעִֽים",
+      "surface": "רבעים",
       "gloss": "چاریمانی"
     }
-  ],
-  "timestamp": "2026-09-25T15:59:27.630632936Z",
-  "model": "glm-5.3"
+  ]
 }

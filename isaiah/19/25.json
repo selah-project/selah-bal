@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "isaiah 19:25",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:15:57.572372408Z",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "آ کہ یاہوہ سباؤت آییءَ برکت دیت، گوَشت کہ: برکت والا اِنت مِتسرایم ماءِ قوم، ءُ اَشّور ماءِ دستءِ کار، ءُ اِسرائیل ماءِ ورثت۔",
   "tokens": [
     {
-      "surface": "אֲשֶׁ֧ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "בֵּרֲכ֛וֹ",
+      "surface": "ברכו",
       "gloss": "برکت دیت"
     },
     {
-      "surface": "יְהוָ֥ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "צְבָא֖וֹת",
+      "surface": "צבאות",
       "gloss": "سباؤت"
     },
     {
-      "surface": "לֵאמֹ֑ר",
+      "surface": "לאמר",
       "gloss": "گوَشت کہ"
     },
     {
-      "surface": "בָּר֨וּךְ",
+      "surface": "ברוך",
       "gloss": "برکت والا اِنت"
     },
     {
-      "surface": "עַמִּ֜י",
+      "surface": "עמי",
       "gloss": "ماءِ قوم"
     },
     {
-      "surface": "מִצְרַ֗יִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایم"
     },
     {
-      "surface": "וּמַעֲשֵׂ֤ה",
+      "surface": "ומעשה",
       "gloss": "ءُ ماءِ دستءِ کار"
     },
     {
-      "surface": "יָדַי֙",
+      "surface": "ידי",
       "gloss": "ماءِ دستءِ"
     },
     {
-      "surface": "אַשּׁ֔וּר",
+      "surface": "אשור",
       "gloss": "اَشّور"
     },
     {
-      "surface": "וְנַחֲלָתִ֖י",
+      "surface": "ונחלתי",
       "gloss": "ءُ ماءِ ورثت"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "اِسرائیل"
     }
-  ],
-  "timestamp": "2026-09-25T17:15:57.572372408Z",
-  "model": "glm-5.3"
+  ]
 }

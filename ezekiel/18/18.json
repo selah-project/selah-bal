@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "ezekiel 18:18",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:09:31.955806279Z",
+  "verse": 18,
+  "ref": "ezekiel 18:18",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "آییءِ پیءُ — پرچا کہ ظلم گوں ظلم کت، لوٹ گوں لوٹ براتءَ کت، ءُ آ کہ چم نہ اِنت آییءِ قومءِ تہ کت، ءُ اِشاں آ چو آییءِ گنہءَ مُرت.",
   "tokens": [
     {
-      "surface": "אָבִ֞יו",
+      "surface": "אביו",
       "gloss": "آییءِ پیءُ"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "עָ֣שַׁק",
+      "surface": "עשק",
       "gloss": "ظلم"
     },
     {
-      "surface": "עֹ֗שֶׁק",
+      "surface": "עשק",
       "gloss": "ظلم کت"
     },
     {
-      "surface": "גָּזַל֙",
+      "surface": "גזל",
       "gloss": "لوٹ"
     },
     {
-      "surface": "גֵּ֣זֶל",
+      "surface": "גזל",
       "gloss": "لوٹ کت"
     },
     {
-      "surface": "אָ֔ח",
+      "surface": "אח",
       "gloss": "براتءَ"
     },
     {
-      "surface": "וַאֲשֶׁ֥ר",
+      "surface": "ואשר",
       "gloss": "ءُ آ کہ"
     },
     {
-      "surface": "לֹ֛א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "ט֛וֹב",
+      "surface": "טוב",
       "gloss": "چم"
     },
     {
-      "surface": "עָשָׂ֖ה",
+      "surface": "עשה",
       "gloss": "کت"
     },
     {
-      "surface": "בְּת֣וֹךְ",
+      "surface": "בתוך",
       "gloss": "تہ"
     },
     {
-      "surface": "עַמָּ֑יו",
+      "surface": "עמיו",
       "gloss": "آییءِ قومءِ"
     },
     {
-      "surface": "וְהִנֵּ֖ה",
+      "surface": "והנה",
       "gloss": "ءُ اِشاں"
     },
     {
-      "surface": "מֵ֥ת",
+      "surface": "מת",
       "gloss": "مُرت"
     },
     {
-      "surface": "בַּעֲוֺנֽוֹ",
+      "surface": "בעונו",
       "gloss": "آییءِ گنہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T16:09:31.955806279Z",
-  "model": "glm-5.3"
+  ]
 }

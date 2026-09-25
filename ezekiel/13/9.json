@@ -1,121 +1,121 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "ezekiel 13:9",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:06:49.235079646Z",
+  "verse": 9,
+  "ref": "ezekiel 13:9",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ مہ بیت منی قومی پیغمبرانی سر، کہ شوئے گندنت ءُ دروگوگ جادوگر کننت؛ منی قومءِ سود تہ نہ بنت، ءُ اسرائیلءِ گانی نبشتہ تہ نہ بنت، ءُ اسرائیلءِ ڈگارءَ نہ رونت؛ ءُ اُشے زانت کہ من اِنت ادونای یاہوہ.",
   "tokens": [
     {
-      "surface": "וְהָיְתָ֣ה",
+      "surface": "והיתה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "יָדִ֗י",
+      "surface": "ידי",
       "gloss": "منی دست"
     },
     {
-      "surface": "אֶֽל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "הַנְּבִיאִ֞ים",
+      "surface": "הנביאים",
       "gloss": "پیغمبران"
     },
     {
-      "surface": "הַחֹזִ֣ים",
+      "surface": "החזים",
       "gloss": "کہ گندنت"
     },
     {
-      "surface": "שָׁוְא֮",
+      "surface": "שוא",
       "gloss": "شوئے"
     },
     {
-      "surface": "וְהַקֹּסְמִ֣ים",
+      "surface": "והקסמים",
       "gloss": "ءُ جادوگران"
     },
     {
-      "surface": "כָּזָב֒",
+      "surface": "כזב",
       "gloss": "دروگ"
     },
     {
-      "surface": "בְּס֧וֹד",
+      "surface": "בסוד",
       "gloss": "سود تہ"
     },
     {
-      "surface": "עַמִּ֣י",
+      "surface": "עמי",
       "gloss": "منی قوم"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִהְי֗וּ",
+      "surface": "יהיו",
       "gloss": "بنت"
     },
     {
-      "surface": "וּבִכְתָ֤ב",
+      "surface": "ובכתב",
       "gloss": "ءُ نبشتہ تہ"
     },
     {
-      "surface": "בֵּֽית",
+      "surface": "בית",
       "gloss": "گان"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִכָּתֵ֔בוּ",
+      "surface": "יכתבו",
       "gloss": "نبشتہ بنت"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "ءُ پہ"
     },
     {
-      "surface": "אַדְמַ֥ת",
+      "surface": "אדמת",
       "gloss": "ڈگار"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָבֹ֑אוּ",
+      "surface": "יבאו",
       "gloss": "رونت"
     },
     {
-      "surface": "וִידַעְתֶּ֕ם",
+      "surface": "וידעתם",
       "gloss": "ءُ اُشے زانت"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "אֲנִ֖י",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "אֲדֹנָ֥י",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T16:06:49.235079646Z",
-  "model": "glm-5.3"
+  ]
 }

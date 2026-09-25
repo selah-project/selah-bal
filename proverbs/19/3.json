@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "proverbs 19:3",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:15:18.797887475Z",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "مردمیءِ نادانی آییءِ راہ پروشیت، ءُ یاہوہءَ سر ءُ آییءِ دل زہرئیت۔",
   "tokens": [
     {
-      "surface": "אִוֶּ֫לֶת",
+      "surface": "אולת",
       "gloss": "نادانی"
     },
     {
-      "surface": "אָדָם",
+      "surface": "אדם",
       "gloss": "مردمیءِ"
     },
     {
-      "surface": "תְּסַלֵּ֣ף",
+      "surface": "תסלף",
       "gloss": "پروشیت"
     },
     {
-      "surface": "דַּרְכּ֑וֹ",
+      "surface": "דרכו",
       "gloss": "آییءِ راہ"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ ...ءَ سر"
     },
     {
-      "surface": "יְ֝הוָ֗ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "יִזְעַ֣ף",
+      "surface": "יזעף",
       "gloss": "زہرئیت"
     },
     {
-      "surface": "לִבּֽוֹ",
+      "surface": "לבו",
       "gloss": "آییءِ دل"
     }
-  ],
-  "timestamp": "2026-09-25T20:15:18.797887475Z",
-  "model": "glm-5.3"
+  ]
 }

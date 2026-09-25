@@ -1,94 +1,94 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "exodus 31:14",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:56:24.509142811Z",
+  "verse": 14,
+  "ref": "exodus 31:14",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "ءُ تسیں ⟨את⟩ شباتءَ پیش دارنت، کہ آ تسیںءِ پہ پاک اِنت؛ آ کہ آییءَ پلوت کنت، مرگءَ مارت بیت، کہ هر کس کہ آییءَ تہ کار کنت، آ جن ءُ آییءِ قومءِ میانءَ چہ برت بیت۔",
   "tokens": [
     {
-      "surface": "וּשְׁמַרְתֶּם֙",
+      "surface": "ושמרתם",
       "gloss": "ءُ تسیں پیش دارنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شباتءَ"
     },
     {
-      "surface": "הַשַּׁבָּ֔ת",
+      "surface": "השבת",
       "gloss": "شباتءَ"
     },
     {
-      "surface": "כִּ֛י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "קֹ֥דֶשׁ",
+      "surface": "קדש",
       "gloss": "پاک"
     },
     {
-      "surface": "הִ֖וא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "לָכֶ֑ם",
+      "surface": "לכם",
       "gloss": "تسیںءِ پہ"
     },
     {
-      "surface": "מְחַֽלְלֶ֨יהָ֙",
+      "surface": "מחלליה",
       "gloss": "آ کہ آییءَ پلوت کنت"
     },
     {
-      "surface": "מ֣וֹת",
+      "surface": "מות",
       "gloss": "مرگءَ"
     },
     {
-      "surface": "יוּמָ֔ת",
+      "surface": "יומת",
       "gloss": "مارت بیت"
     },
     {
-      "surface": "כִּ֗י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "هر کس"
     },
     {
-      "surface": "הָעֹשֶׂ֥ה",
+      "surface": "העשה",
       "gloss": "کار کنت"
     },
     {
-      "surface": "בָּהּ֙",
+      "surface": "בה",
       "gloss": "آییءَ تہ"
     },
     {
-      "surface": "מְלָאכָ֔ה",
+      "surface": "מלאכה",
       "gloss": "کار"
     },
     {
-      "surface": "וְנִכְרְתָ֛ה",
+      "surface": "ונכרתה",
       "gloss": "ءُ برت بیت"
     },
     {
-      "surface": "הַנֶּ֥פֶשׁ",
+      "surface": "הנפש",
       "gloss": "جن"
     },
     {
-      "surface": "הַה֖וא",
+      "surface": "ההוא",
       "gloss": "آ"
     },
     {
-      "surface": "מִקֶּ֥רֶב",
+      "surface": "מקרב",
       "gloss": "میانءَ چہ"
     },
     {
-      "surface": "עַמֶּֽיהָ",
+      "surface": "עמיה",
       "gloss": "آییءِ قوم"
     }
-  ],
-  "timestamp": "2026-09-25T15:56:24.509142811Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "nahum 1:2",
   "book": "nahum",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:35:50.203823858Z",
+  "verse": 2,
+  "ref": "nahum 1:2",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ایل کان ءُ انتقام گیرنوک اِنت یاہوہ، انتقام گیریت یاہوہ ءُ غضبءِ مالک، انتقام گیریت یاہوہ آییءِ دشمنانی پہ، ءُ آیی آییءِ دشنمنانی پہ چم گندیت۔",
   "tokens": [
     {
-      "surface": "אֵ֣ל",
+      "surface": "אל",
       "gloss": "ایل"
     },
     {
-      "surface": "קַנּ֤וֹא",
+      "surface": "קנוא",
       "gloss": "کان"
     },
     {
-      "surface": "וְנֹקֵם֙",
+      "surface": "ונקם",
       "gloss": "ءُ انتقام گیرنوک"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "נֹקֵ֥ם",
+      "surface": "נקם",
       "gloss": "انتقام گیریت"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וּבַ֣עַל",
+      "surface": "ובעל",
       "gloss": "ءُ مالک"
     },
     {
-      "surface": "חֵמָ֑ה",
+      "surface": "חמה",
       "gloss": "غضب"
     },
     {
-      "surface": "נֹקֵ֤ם",
+      "surface": "נקם",
       "gloss": "انتقام گیریت"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "לְצָרָ֔יו",
+      "surface": "לצריו",
       "gloss": "آییءِ دشمنانی پہ"
     },
     {
-      "surface": "וְנוֹטֵ֥ר",
+      "surface": "ונוטר",
       "gloss": "ءُ چم گندیت"
     },
     {
-      "surface": "ה֖וּא",
+      "surface": "הוא",
       "gloss": "آیی"
     },
     {
-      "surface": "לְאֹיְבָֽיו",
+      "surface": "לאיביו",
       "gloss": "آییءِ دشنمنانی پہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:35:50.203823858Z",
-  "model": "glm-5.3"
+  ]
 }

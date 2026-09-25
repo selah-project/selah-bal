@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "daniel 3:17",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:57:23.013493904Z",
+  "verse": 17,
+  "ref": "daniel 3:17",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "اگر ماںءِ ایلوہیم، کہ ماں آییءَ پرستش کنیں، یتوانیت آءَ چہ تنورءِ آتشءِ گداز ءُ چہ تاںءِ دستءَ، اے شاہ، رہائی بدیت — آیی رہائی بکنت۔",
   "tokens": [
     {
-      "surface": "הֵן",
+      "surface": "הן",
       "gloss": "اگر"
     },
     {
-      "surface": "אִיתַי",
+      "surface": "איתי",
       "gloss": "⟨اِنت⟩"
     },
     {
-      "surface": "אֱלָהַנָא",
+      "surface": "אלהנא",
       "gloss": "ماںءِ ایلوہیم"
     },
     {
-      "surface": "דִּי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "אֲנַחְנָא",
+      "surface": "אנחנא",
       "gloss": "ماں"
     },
     {
-      "surface": "פָּלְחִין",
+      "surface": "פלחין",
       "gloss": "پرستش کنیں"
     },
     {
-      "surface": "יָכִל",
+      "surface": "יכל",
       "gloss": "یتوانیت"
     },
     {
-      "surface": "לְשֵׁיזָבוּתַנָא",
+      "surface": "לשיזבותנא",
       "gloss": "ماںءَ رہائی بدیت"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "אַתּוּן",
+      "surface": "אתון",
       "gloss": "تنورءِ"
     },
     {
-      "surface": "נוּרָא",
+      "surface": "נורא",
       "gloss": "آتشءِ"
     },
     {
-      "surface": "יְקַדְתָּא",
+      "surface": "יקדתא",
       "gloss": "گداز"
     },
     {
-      "surface": "וּמִן",
+      "surface": "ומן",
       "gloss": "ءُ چہ"
     },
     {
-      "surface": "יָדָךְ",
+      "surface": "ידך",
       "gloss": "تاںءِ دستءَ"
     },
     {
-      "surface": "מַלְכָּא",
+      "surface": "מלכא",
       "gloss": "اے شاہ"
     },
     {
-      "surface": "יְשֵׁיזִב",
+      "surface": "ישיזב",
       "gloss": "رہائی بکنت"
     }
-  ],
-  "timestamp": "2026-09-25T14:57:23.013493904Z",
-  "model": "glm-5.3"
+  ]
 }

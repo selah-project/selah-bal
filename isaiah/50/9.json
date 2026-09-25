@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "isaiah 50:9",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:29:31.989044756Z",
+  "verse": 9,
+  "ref": "isaiah 50:9",
+  "tier": "glm-5.2",
   "chapter": 50,
   "translation": "اِشاں! اے ادونای یاہوہ مہءِ مددگر اِنت؛ کے اِنت کہ مہءَ بدکار گوَشت؟ اِشاں! اِشاں ہمگ چوش یک جُہا پُران بنت؛ کِشوک اِشاںءَ خراب کنت۔",
   "tokens": [
     {
-      "surface": "הֵ֣ן",
+      "surface": "הן",
       "gloss": "اِشاں!"
     },
     {
-      "surface": "אֲדֹנָ֤י",
+      "surface": "אדני",
       "gloss": "اے ادونای"
     },
     {
-      "surface": "יְהוִה֙",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "יַֽעֲזָר",
+      "surface": "יעזר",
       "gloss": "مددگر اِنت"
     },
     {
-      "surface": "לִ֔י",
+      "surface": "לי",
       "gloss": "مہءِ"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "ה֖וּא",
+      "surface": "הוא",
       "gloss": "اِنت کہ"
     },
     {
-      "surface": "יַרְשִׁיעֵ֑נִי",
+      "surface": "ירשיעני",
       "gloss": "مہءَ بدکار گوَشت"
     },
     {
-      "surface": "הֵ֤ן",
+      "surface": "הן",
       "gloss": "اِشاں!"
     },
     {
-      "surface": "כֻּלָּם֙",
+      "surface": "כלם",
       "gloss": "اِشاں ہمگ"
     },
     {
-      "surface": "כַּבֶּ֣גֶד",
+      "surface": "כבגד",
       "gloss": "چوش یک جُہا"
     },
     {
-      "surface": "יִבְל֔וּ",
+      "surface": "יבלו",
       "gloss": "پُران بنت"
     },
     {
-      "surface": "עָ֖שׁ",
+      "surface": "עש",
       "gloss": "کِشوک"
     },
     {
-      "surface": "יֹאכְלֵֽם",
+      "surface": "יאכלם",
       "gloss": "اِشاںءَ خراب کنت"
     }
-  ],
-  "timestamp": "2026-09-25T17:29:31.989044756Z",
-  "model": "glm-5.3"
+  ]
 }

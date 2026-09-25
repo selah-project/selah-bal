@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "jeremiah 46:7",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:08:36.866938680Z",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "tier": "glm-5.2",
   "chapter": 46,
   "translation": "کے آ اِنت کہ چوش کئیر ءُ چڑیت، چوش روڈاں ءُ آییءِ آپان گیش اِشکننت؟",
   "tokens": [
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "זֶ֖ה",
+      "surface": "זה",
       "gloss": "آ"
     },
     {
-      "surface": "כַּיְאֹ֣ר",
+      "surface": "כיאר",
       "gloss": "چوش کئیر"
     },
     {
-      "surface": "יַֽעֲלֶ֑ה",
+      "surface": "יעלה",
       "gloss": "چڑیت"
     },
     {
-      "surface": "כַּנְּהָר֕וֹת",
+      "surface": "כנהרות",
       "gloss": "چوش روڈاں"
     },
     {
-      "surface": "יִֽתְגָּעֲשׁ֖וּ",
+      "surface": "יתגעשו",
       "gloss": "گیش اِشکننت"
     },
     {
-      "surface": "מֵימָֽיו",
+      "surface": "מימיו",
       "gloss": "آییءِ آپان"
     }
-  ],
-  "timestamp": "2026-09-25T18:08:36.866938680Z",
-  "model": "glm-5.3"
+  ]
 }

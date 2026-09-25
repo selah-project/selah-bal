@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "2-chronicles 36:11",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:55:53.622028417Z",
+  "verse": 11,
+  "ref": "2-chronicles 36:11",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "بیست ءُ یک سالءِ زہگ صِدقیاہو آییءِ بادشاہیءَ اَت، ءُ یازداہ سال آ یہروشلمءَ بادشاہی کت۔",
   "tokens": [
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "עֶשְׂרִים",
+      "surface": "עשרים",
       "gloss": "بیست"
     },
     {
-      "surface": "וְאַחַת",
+      "surface": "ואחת",
       "gloss": "ءُ یک"
     },
     {
-      "surface": "שָׁנָה",
+      "surface": "שנה",
       "gloss": "سالءِ"
     },
     {
-      "surface": "צִדְקִיָּהוּ",
+      "surface": "צדקיהו",
       "gloss": "صِدقیاہو"
     },
     {
-      "surface": "בְמָלְכוֹ",
+      "surface": "במלכו",
       "gloss": "آییءِ بادشاہیءَ"
     },
     {
-      "surface": "וְאַחַת",
+      "surface": "ואחת",
       "gloss": "ءُ یک"
     },
     {
-      "surface": "עֶשְׂרֵה",
+      "surface": "עשרה",
       "gloss": "یازداہ"
     },
     {
-      "surface": "שָׁנָה",
+      "surface": "שנה",
       "gloss": "سال"
     },
     {
-      "surface": "מָלַךְ",
+      "surface": "מלך",
       "gloss": "بادشاہی کت"
     },
     {
-      "surface": "בִּירוּשָׁלִַֽם",
+      "surface": "בירושלם",
       "gloss": "یہروشلمءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:55:53.622028417Z",
-  "model": "glm-5.3"
+  ]
 }

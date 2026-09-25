@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "psalms 108:11",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:25:34.019292058Z",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "tier": "glm-5.2",
   "chapter": 108,
   "translation": "کے منءَ محکم شارءَ رسیت؟ کے منءَ تا اِدوم رہ بریت؟",
   "tokens": [
     {
-      "surface": "מִ֣י",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יֹ֭בִלֵנִי",
+      "surface": "יבלני",
       "gloss": "منءَ رسیت"
     },
     {
-      "surface": "עִ֣יר",
+      "surface": "עיר",
       "gloss": "شارءَ"
     },
     {
-      "surface": "מִבְצָ֑ר",
+      "surface": "מבצר",
       "gloss": "محکم"
     },
     {
-      "surface": "מִ֖י",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "נָחַ֣נִי",
+      "surface": "נחני",
       "gloss": "منءَ رہ بریت"
     },
     {
-      "surface": "עַ֖ד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "אֱדֽוֹם",
+      "surface": "אדום",
       "gloss": "اِدوم"
     }
-  ],
-  "timestamp": "2026-09-25T20:25:34.019292058Z",
-  "model": "glm-5.3"
+  ]
 }

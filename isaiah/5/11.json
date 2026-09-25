@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "isaiah 5:11",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:12:21.019552254Z",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "وائے انّا کہ تراں صُبگءَ جُھلنت ءُ نشہءِ پیچا گننت، شپءِ تائی دراز کننت، تا شراب اِشاںءَ آتش بنت۔",
   "tokens": [
     {
-      "surface": "הוֹי",
+      "surface": "הוי",
       "gloss": "وائے"
     },
     {
-      "surface": "מַשְׁכִּימֵי",
+      "surface": "משכימי",
       "gloss": "تراں صُبگءَ جُھلنت"
     },
     {
-      "surface": "בַבֹּקֶר",
+      "surface": "בבקר",
       "gloss": "صُبگءَ"
     },
     {
-      "surface": "שֵׁכָר",
+      "surface": "שכר",
       "gloss": "نشہ"
     },
     {
-      "surface": "יִרְדֹּפוּ",
+      "surface": "ירדפו",
       "gloss": "پیچا گننت"
     },
     {
-      "surface": "מְאַחֲרֵי",
+      "surface": "מאחרי",
       "gloss": "دراز کننت"
     },
     {
-      "surface": "בַנֶּשֶׁף",
+      "surface": "בנשף",
       "gloss": "شپءَ"
     },
     {
-      "surface": "יַיִן",
+      "surface": "יין",
       "gloss": "شراب"
     },
     {
-      "surface": "יַדְלִיקֵם",
+      "surface": "ידליקם",
       "gloss": "اِشاںءَ آتش بنت"
     }
-  ],
-  "timestamp": "2026-09-25T21:12:21.019552254Z",
-  "model": "glm-5.3"
+  ]
 }

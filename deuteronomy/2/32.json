@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "deuteronomy 2:32",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:16:17.598330764Z",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ سیحون آئیءَ لیکا بروت، آءُ گوں وتءِ پوریں قوم جنگءَ پہ، یہصہءَ.",
   "tokens": [
@@ -16,7 +18,7 @@
       "gloss": "سیحون ⟨سِیحون⟩"
     },
     {
-      "surface": "لקראתנו",
+      "surface": "לקראתנו",
       "gloss": "آئیءَ لیکا"
     },
     {
@@ -39,7 +41,5 @@
       "surface": "יהצה",
       "gloss": "یہصہءَ ⟨یَہَص⟩"
     }
-  ],
-  "timestamp": "2026-09-25T15:16:17.598330764Z",
-  "model": "glm-5.3"
+  ]
 }

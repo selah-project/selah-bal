@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "judges 20:33",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:04:50.455563582Z",
+  "verse": 33,
+  "ref": "judges 20:33",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "ءُ یسرائیلءِ سارئیں مرد چہ وتئین جاگہءَ اُست بت ءُ بعل تامرءَ صف بند بنت، ءُ یسرائیلءِ ڈنگ داتگ چہ وتئین جاگہءَ چہ گباہءِ چمنءَ ءُچ کت۔",
   "tokens": [
     {
-      "surface": "וְכֹל",
+      "surface": "וכל",
       "gloss": "ءُ سارئیں"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "مرد"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرائیلءِ"
     },
     {
-      "surface": "קָמוּ",
+      "surface": "קמו",
       "gloss": "اُست بت"
     },
     {
-      "surface": "מִמְּקוֹמוֹ",
+      "surface": "ממקומו",
       "gloss": "چہ وتئین جاگہءَ"
     },
     {
-      "surface": "וַיַּעַרְכוּ",
+      "surface": "ויערכו",
       "gloss": "ءُ صف بند بنت"
     },
     {
-      "surface": "בְּבַעַל",
+      "surface": "בבעל",
       "gloss": "بعل"
     },
     {
-      "surface": "תָּמָר",
+      "surface": "תמר",
       "gloss": "تامرءَ"
     },
     {
-      "surface": "וְאֹרֵב",
+      "surface": "וארב",
       "gloss": "ءُ ڈنگ داتگ"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یسرائیلءِ"
     },
     {
-      "surface": "מְגִיחַ",
+      "surface": "מגיח",
       "gloss": "ءُچ کت"
     },
     {
-      "surface": "מִמְּקֹמוֹ",
+      "surface": "ממקמו",
       "gloss": "چہ وتئین جاگہءَ"
     },
     {
-      "surface": "מִמַּעֲרֵה",
+      "surface": "ממערה",
       "gloss": "چمنءَ"
     },
     {
-      "surface": "גָּבַע",
+      "surface": "גבע",
       "gloss": "گباہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:04:50.455563582Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "1-chronicles 5:6",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:46:37.949621186Z",
+  "verse": 6,
+  "ref": "1-chronicles 5:6",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "بیراہ آییءِ زہگ، آ کہ تِلگت پِلناسر آشورءِ شاہ جلاہ دلئیت؛ آ رئوبینیانی سردار اَت۔",
   "tokens": [
     {
-      "surface": "בְּאֵרָ֣ה",
+      "surface": "בארה",
       "gloss": "بیراہ"
     },
     {
-      "surface": "בְנ֔וֹ",
+      "surface": "בנו",
       "gloss": "آییءِ زہگ"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "הֶגְלָ֔ה",
+      "surface": "הגלה",
       "gloss": "جلاہ دلئیت"
     },
     {
-      "surface": "תִּלְּגַ֥ת",
+      "surface": "תלגת",
       "gloss": "تِلگت"
     },
     {
-      "surface": "פִּלְנְאֶ֖סֶר",
+      "surface": "פלנאסר",
       "gloss": "پِلناسر"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "אַשֻּׁ֑ר",
+      "surface": "אשר",
       "gloss": "آشورءِ"
     },
     {
-      "surface": "ה֥וּא",
+      "surface": "הוא",
       "gloss": "آ"
     },
     {
-      "surface": "נָשִׂ֖יא",
+      "surface": "נשיא",
       "gloss": "سردار"
     },
     {
-      "surface": "לָרֽאוּבֵנִֽי",
+      "surface": "לראובני",
       "gloss": "رئوبینیانی"
     }
-  ],
-  "timestamp": "2026-09-25T12:46:37.949621186Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "deuteronomy 9:20",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:32:31.229760345Z",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ گوں اَہارُنءَ یاہوہ زور گیش کینتشت کت آییءَ نیست کنگءَ پہ، ءُ من ءُ پہ اَہارُنءِ بابتءَ اے وہدءَ دعا کت.",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "ءُ گوں اَہارُنءَ"
     },
     {
-      "surface": "ہהתאנף",
+      "surface": "התאנף",
       "gloss": "زور کینتشت کت"
     },
     {
@@ -51,7 +53,5 @@
       "surface": "ההוא",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T15:32:31.229760345Z",
-  "model": "glm-5.3"
+  ]
 }

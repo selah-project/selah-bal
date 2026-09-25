@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "numbers 21:27",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:52:20.910742632Z",
+  "verse": 27,
+  "ref": "numbers 21:27",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "پہ اے گوَشتئےءَ اِشانی کہ مَثَلان گوَشنت: «اَرِت چَشبَنءَ، بِسَرت کہ چَشبَن جوڑ بیت ءُ سِچَنءِ شَہر چَم بیت».",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵ֛ן",
+      "surface": "כן",
       "gloss": "اے ⟨پہ⟩"
     },
     {
-      "surface": "יֹאמְר֥וּ",
+      "surface": "יאמרו",
       "gloss": "گوَشتئےءَ"
     },
     {
-      "surface": "הַמֹּשְׁלִ֖ים",
+      "surface": "המשלים",
       "gloss": "اِشانی کہ مَثَلان گوَشنت"
     },
     {
-      "surface": "בֹּ֣אוּ",
+      "surface": "באו",
       "gloss": "اَرِت"
     },
     {
-      "surface": "חֶשְׁבּ֑וֹן",
+      "surface": "חשבון",
       "gloss": "چَشبَنءَ"
     },
     {
-      "surface": "תִּבָּנֶ֥ה",
+      "surface": "תבנה",
       "gloss": "بِسَرت کہ چَشبَن جوڑ بیت"
     },
     {
-      "surface": "וְתִכּוֹנֵ֖ן",
+      "surface": "ותכונן",
       "gloss": "ءُ چَم بیت"
     },
     {
-      "surface": "עִ֥יר",
+      "surface": "עיר",
       "gloss": "شَہر"
     },
     {
-      "surface": "סִיחֽוֹן",
+      "surface": "סיחון",
       "gloss": "سِچَنءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:52:20.910742632Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "proverbs 28:16",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:15:58.676035767Z",
+  "verse": 16,
+  "ref": "proverbs 28:16",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "یک سرکردہ کہ چہ تیوسمیءَ کم اِنت ءُ گیشتر پشماںءَ کنوک اِنت، بلے آ کہ بے-حلالءِ نفعءَ اِشکنیت، آییءِ روچانءُ درازی کنت۔",
   "tokens": [
     {
-      "surface": "נָגִ֗יד",
+      "surface": "נגיד",
       "gloss": "سرکردہ"
     },
     {
-      "surface": "חֲסַ֣ר",
+      "surface": "חסר",
       "gloss": "چہ … کم"
     },
     {
-      "surface": "תְּבוּנֹות",
+      "surface": "תבונות",
       "gloss": "تیوسمی"
     },
     {
-      "surface": "וְרַב",
+      "surface": "ורב",
       "gloss": "ءُ گیشتر"
     },
     {
-      "surface": "מַעֲשַׁקֹּות",
+      "surface": "מעשקות",
       "gloss": "پشماں"
     },
     {
-      "surface": "שֹׂנֵא",
+      "surface": "שנאי",
       "gloss": "اِشکنیت"
     },
     {
-      "surface": "בֶּצַע",
+      "surface": "בצע",
       "gloss": "بے-حلالءِ نفع"
     },
     {
-      "surface": "יַאֲרִיךְ",
+      "surface": "יאריך",
       "gloss": "درازی کنت"
     },
     {
-      "surface": "יָמִֽים",
+      "surface": "ימים",
       "gloss": "روچان"
     }
-  ],
-  "timestamp": "2026-09-25T21:15:58.676035767Z",
-  "model": "glm-5.3"
+  ]
 }

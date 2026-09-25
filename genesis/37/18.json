@@ -1,51 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "genesis 37:18",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:54:14.833803578Z",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "tier": "glm-5.2",
   "chapter": 37,
   "translation": "ءُ آیانہ آییءَ ⟨את⟩ چہ دوری گندیت، ءُ اول چہ کہ آیی آیانی نزیکءَ بیت، آیانہ آییءَ ⟨את⟩ پہ آییءِ جننگ سازش کت.",
   "tokens": [
     {
-      "surface": "וַיִּרְא֥וּ",
+      "surface": "ויראו",
       "gloss": "ءُ گندیت"
     },
     {
-      "surface": "אֹת֖וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آیی"
     },
     {
-      "surface": "מֵרָחֹ֑ק",
+      "surface": "מרחק",
       "gloss": "چہ دوری"
     },
     {
-      "surface": "וּבְטֶ֨רֶם֙",
+      "surface": "ובטרם",
       "gloss": "ءُ اول چہ کہ"
     },
     {
-      "surface": "יִקְרַ֣ב",
+      "surface": "יקרב",
       "gloss": "نزیک بیت"
     },
     {
-      "surface": "אֲלֵיהֶ֔ם",
+      "surface": "אליהם",
       "gloss": "آیانی نزیکءَ"
     },
     {
-      "surface": "וַיִּֽתְנַכְּל֥וּ",
+      "surface": "ויתנכלו",
       "gloss": "ءُ سازش کت"
     },
     {
-      "surface": "אֹת֖וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آیی"
     },
     {
-      "surface": "לַהֲמִיתֽוֹ",
+      "surface": "להמיתו",
       "gloss": "پہ آییءِ جننگ"
     }
-  ],
-  "timestamp": "2026-09-25T16:54:14.833803578Z",
-  "model": "glm-5.3"
+  ]
 }

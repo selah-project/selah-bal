@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "1-chronicles 15:14",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:33:45.154103226Z",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ کاہنان ءُ لاویان وتاں پاک کت پہ یاہوہءِ، ایلوہیمءِ یسرائیلءِ صندوقءَ چڑھا گرگ۔",
   "tokens": [
@@ -41,10 +43,8 @@
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "یسرائیل",
+      "surface": "ישראל",
       "gloss": "یسرائیلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T12:33:45.154103226Z",
-  "model": "glm-5.3"
+  ]
 }

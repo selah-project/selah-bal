@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "proverbs 24:9",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:19:37.794333993Z",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "نکتہ‌بازیءِ فکراءِ سوچ گناہ اِنت ءُ آدمءَ پہ مذاقکوک کھوپ اِنت.",
   "tokens": [
     {
-      "surface": "זִמַּ֣ת",
+      "surface": "זמת",
       "gloss": "نکتہ‌بازیءِ سوچ"
     },
     {
-      "surface": "אִוֶּ֣לֶת",
+      "surface": "אולת",
       "gloss": "کم‌عقلیءِ"
     },
     {
-      "surface": "חַטָּ֑את",
+      "surface": "חטאת",
       "gloss": "گناہ"
     },
     {
-      "surface": "וְתוֹעֲבַ֖ת",
+      "surface": "ותועבת",
       "gloss": "ءُ کھوپ اِنت"
     },
     {
-      "surface": "לְאָדָ֣ם",
+      "surface": "לאדם",
       "gloss": "آدمءَ پہ"
     },
     {
-      "surface": "לֵֽץ",
+      "surface": "לץ",
       "gloss": "مذاقکوک"
     }
-  ],
-  "timestamp": "2026-09-25T20:19:37.794333993Z",
-  "model": "glm-5.3"
+  ]
 }

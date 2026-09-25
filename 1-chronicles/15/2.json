@@ -1,103 +1,103 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "1-chronicles 15:2",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:02:27.433901679Z",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "آ رند داودءَ گوَشت کہ ایلوہیمءِ صندوقءَ ⟨את⟩ چکن نہ اِنت بلوچے ہلوییں، کہ یاہوہ اِشاںءَ چُنیت کہ یاہوہءِ صندوقءَ ⟨את⟩ چکنت ءُ آییءِ خدمت کننت تا ہمیشہءَ۔",
   "tokens": [
     {
-      "surface": "אָז",
+      "surface": "אז",
       "gloss": "آ رند"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "דָּוִיד",
+      "surface": "דויד",
       "gloss": "داودءَ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "לָשֵׂאת",
+      "surface": "לשאת",
       "gloss": "چکن"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ایلوہیمءِ صندوقءَ"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "بلوچے"
     },
     {
-      "surface": "הַלְוִיִּם",
+      "surface": "הלוים",
       "gloss": "ہلوییں"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "בָּם",
+      "surface": "בם",
       "gloss": "اِشاںءَ"
     },
     {
-      "surface": "בָחַר",
+      "surface": "בחר",
       "gloss": "چُنیت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "לָשֵׂאת",
+      "surface": "לשאת",
       "gloss": "چکنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءِ صندوقءَ"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וּלְשָׁרְתוֹ",
+      "surface": "ולשרתו",
       "gloss": "ءُ آییءِ خدمت کننت"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "עוֹלָם",
+      "surface": "עולם",
       "gloss": "ہمیشہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:02:27.433901679Z",
-  "model": "glm-5.3"
+  ]
 }

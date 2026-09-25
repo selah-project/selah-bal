@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "isaiah 23:15",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:15:37.501009516Z",
+  "verse": 15,
+  "ref": "isaiah 23:15",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "ءُ بیت اے روچءَ، ءُ صُور ہپتاہ سالءَ پٹ بیت کنت، یکمی پادشاہءِ روچانی وانگ؛ ہپتاہ سالءِ پجا پدا صُورءَ زناکار جنکءِ گانیءِ چوں بیت۔",
   "tokens": [
     {
-      "surface": "וְהָיָה֙",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "בַּיּ֣וֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "הַה֔וּא",
+      "surface": "ההוא",
       "gloss": "اے"
     },
     {
-      "surface": "וְנִשְׁכַּ֤חַת",
+      "surface": "ונשכחת",
       "gloss": "ءُ پٹ بیت کنت"
     },
     {
-      "surface": "צֹר֙",
+      "surface": "צר",
       "gloss": "صُور"
     },
     {
-      "surface": "שִׁבְעִ֣ים",
+      "surface": "שבעים",
       "gloss": "ہپتاہ"
     },
     {
-      "surface": "שָׁנָ֔ה",
+      "surface": "שנה",
       "gloss": "سال"
     },
     {
-      "surface": "כִּימֵ֖י",
+      "surface": "כימי",
       "gloss": "روچانی وانگ"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "پادشاہ"
     },
     {
-      "surface": "אֶחָ֑ד",
+      "surface": "אחד",
       "gloss": "یکمی"
     },
     {
-      "surface": "מִקֵּ֞ץ",
+      "surface": "מקץ",
       "gloss": "پجا"
     },
     {
-      "surface": "שִׁבְעִ֤ים",
+      "surface": "שבעים",
       "gloss": "ہپتاہ"
     },
     {
-      "surface": "שָׁנָה֙",
+      "surface": "שנה",
       "gloss": "سال"
     },
     {
-      "surface": "יִהְיֶ֣ה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לְצֹ֔ר",
+      "surface": "לצר",
       "gloss": "صُورءَ"
     },
     {
-      "surface": "כְּשִׁירַ֖ת",
+      "surface": "כשירת",
       "gloss": "گانیءِ چوں"
     },
     {
-      "surface": "הַזּוֹנָֽה",
+      "surface": "הזונה",
       "gloss": "زناکار جنک"
     }
-  ],
-  "timestamp": "2026-09-25T17:15:37.501009516Z",
-  "model": "glm-5.3"
+  ]
 }

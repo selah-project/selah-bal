@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "proverbs 4:26",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:16:55.072182449Z",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "توازنءَ دہ پا ءِ رجءَ، ءُ ہمگ تری رہان پکا بنت۔",
   "tokens": [
     {
-      "surface": "פַּלֵּס",
+      "surface": "פלס",
       "gloss": "توازنءَ دہ"
     },
     {
-      "surface": "מַעְגַּל",
+      "surface": "מעגל",
       "gloss": "رج"
     },
     {
-      "surface": "רַגְלֶךָ",
+      "surface": "רגלך",
       "gloss": "پا ءِ"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ ہمگ"
     },
     {
-      "surface": "דְּרָכֶיךָ",
+      "surface": "דרכיך",
       "gloss": "تری رہان"
     },
     {
-      "surface": "יִכֹּנוּ",
+      "surface": "יכנו",
       "gloss": "پکا بنت"
     }
-  ],
-  "timestamp": "2026-09-25T21:16:55.072182449Z",
-  "model": "glm-5.3"
+  ]
 }

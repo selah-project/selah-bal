@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "zephaniah 3:4",
   "book": "zephaniah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:00:14.594861948Z",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "آییءِ پیغمبر بے‌ثبات اَنت، خیانتءِ مردمان؛ آییءِ کاهنان پاک چیزی ناپاک کت، تورا ءَ زلم کت۔",
   "tokens": [
     {
-      "surface": "נְבִיאֶ֨יהָ֙",
+      "surface": "נביאיה",
       "gloss": "آییءِ پیغمبر"
     },
     {
-      "surface": "פֹּֽחֲזִ֔ים",
+      "surface": "פחזים",
       "gloss": "بے‌ثبات"
     },
     {
-      "surface": "אַנְשֵׁ֖י",
+      "surface": "אנשי",
       "gloss": "مردمان"
     },
     {
-      "surface": "בֹּֽגְד֖וֹת",
+      "surface": "בגדות",
       "gloss": "خیانتءِ"
     },
     {
-      "surface": "כֹּהֲנֶ֨יהָ֙",
+      "surface": "כהניה",
       "gloss": "آییءِ کاهنان"
     },
     {
-      "surface": "חִלְּל֗וּ",
+      "surface": "חללו",
       "gloss": "ناپاک کت"
     },
     {
-      "surface": "קֹ֔דֶשׁ",
+      "surface": "קדש",
       "gloss": "پاک چیزی"
     },
     {
-      "surface": "חָמְס֥וּ",
+      "surface": "חמסו",
       "gloss": "زلم کت"
     },
     {
-      "surface": "תּוֹרָֽה",
+      "surface": "תורה",
       "gloss": "تورا ءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:00:14.594861948Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
-  "ref": "deuteronomy 28:37",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:21:46.469006491Z",
+  "verse": 37,
+  "ref": "deuteronomy 28:37",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ توں ہمشاموت شاموت، پہ مثل ءُ پہ شِنِینا بیت، گوں سئے قومانءَ کہ یاہوہ توئے اوتھا راندیٹ۔",
   "tokens": [
     {
-      "surface": "וְהָיִ֣יתָ",
+      "surface": "והיית",
       "gloss": "ءُ توں … بیت"
     },
     {
-      "surface": "לְשָׁמָ֔ה",
+      "surface": "לשמה",
       "gloss": "ہمشاموت شاموت"
     },
     {
-      "surface": "לְמָשָׁ֖ל",
+      "surface": "למשל",
       "gloss": "پہ مثل"
     },
     {
-      "surface": "וְלִשְׁנִינָ֑ה",
+      "surface": "ולשנינה",
       "gloss": "ءُ پہ شِنِینا"
     },
     {
-      "surface": "בְּכֹל֙",
+      "surface": "בכל",
       "gloss": "گوں سئے"
     },
     {
-      "surface": "הָֽעַמִּ֔ים",
+      "surface": "העמים",
       "gloss": "قومانءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יְנַהֶגְךָ֥",
+      "surface": "ינהגך",
       "gloss": "توئے راندیٹ"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "שָֽׁמָּה",
+      "surface": "שמה",
       "gloss": "اوتھا"
     }
-  ],
-  "timestamp": "2026-09-25T15:21:46.469006491Z",
-  "model": "glm-5.3"
+  ]
 }

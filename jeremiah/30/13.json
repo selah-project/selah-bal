@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "jeremiah 30:13",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:55:30.261510072Z",
+  "verse": 13,
+  "ref": "jeremiah 30:13",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "کسے نہ اِنت کہ تُہءِ فیصلہ دیت پہ زہمءَ — شفا ءُ پٹی بند کسے نہ اِنت تُہءَ۔",
   "tokens": [
     {
-      "surface": "אֵֽין",
+      "surface": "אין",
       "gloss": "کسے نہ اِنت"
     },
     {
-      "surface": "דָּן",
+      "surface": "דן",
       "gloss": "فیصلہ دیت"
     },
     {
-      "surface": "דִּינֵךְ",
+      "surface": "דינך",
       "gloss": "تُہءِ فیصلہ"
     },
     {
-      "surface": "לְמָזוֹר",
+      "surface": "למזור",
       "gloss": "پہ زہمءَ"
     },
     {
-      "surface": "רְפֻאוֹת",
+      "surface": "רפאות",
       "gloss": "شفا"
     },
     {
-      "surface": "תְּעָלָה",
+      "surface": "תעלה",
       "gloss": "پٹی بند"
     },
     {
-      "surface": "אֵ֥ין",
+      "surface": "אין",
       "gloss": "کسے نہ اِنت"
     },
     {
-      "surface": "לָֽךְ",
+      "surface": "לך",
       "gloss": "تُہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:55:30.261510072Z",
-  "model": "glm-5.3"
+  ]
 }

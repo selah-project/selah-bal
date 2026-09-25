@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "joshua 21:23",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:46:52.486308941Z",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "ءُ چہ دانءِ ٹولیءَ ⟨את⟩ اَلتِقہ گوں آییءِ چراگاہ، ⟨את⟩ گِبتون ءُ گوں آییءِ چراگاہ۔",
   "tokens": [
     {
-      "surface": "וּמִמַּ֨טֵּה",
+      "surface": "וממטה",
       "gloss": "ءُ چہ …ءِ ٹولیءَ"
     },
     {
-      "surface": "דָּן",
+      "surface": "דן",
       "gloss": "دانءِ"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَلتِقہ"
     },
     {
-      "surface": "אֶלְתְּקֵ֖א",
+      "surface": "אלתקא",
       "gloss": "اَلتِقہ"
     },
     {
-      "surface": "וְאֶ֨ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "چراگاہ"
     },
     {
-      "surface": "מִגְרָשֶׁ֑הָ",
+      "surface": "מגרשה",
       "gloss": "گوں آییءِ چراگاہ"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گِبتون"
     },
     {
-      "surface": "גִּבְּת֖וֹן",
+      "surface": "גבתון",
       "gloss": "گِبتون"
     },
     {
-      "surface": "וְאֶ֨ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "چراگاہ"
     },
     {
-      "surface": "מִגְרָשֶֽׁׁהָ",
+      "surface": "מגרשה",
       "gloss": "گوں آییءِ چراگاہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:46:52.486308941Z",
-  "model": "glm-5.3"
+  ]
 }

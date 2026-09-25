@@ -1,14 +1,16 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "psalms 20:4",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:36:28.960345847Z",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "tier": "glm-5.2",
   "chapter": 20,
   "translation": "آیی تُرءِ سار قربانیانءَ یاد بکِنت ءُ تُرءِ سوچگیں قربانیءَ چرب بکِنت — سِلا۔",
   "tokens": [
     {
-      "surface": "יזזכר",
+      "surface": "יזכר",
       "gloss": "یاد بکِنت"
     },
     {
@@ -31,7 +33,5 @@
       "surface": "סלה",
       "gloss": "سِلا"
     }
-  ],
-  "timestamp": "2026-09-25T20:36:28.960345847Z",
-  "model": "glm-5.3"
+  ]
 }

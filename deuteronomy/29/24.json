@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "deuteronomy 29:24",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:21:36.638636647Z",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ گوَشنت: پہ اے کہ اِشاں یاہوہءِ، اِشانی پدانی ایلوہیمءِ، عہد ⟨את⟩ راہی کت — آ عہد کہ گوں اِشان برت، آ وہد کہ چوں آیانءَ چہ مِتسرایم ⟨את⟩ زمینءَ در کت۔",
   "tokens": [
     {
-      "surface": "וְאָ֣מְר֔וּ",
+      "surface": "ואמרו",
       "gloss": "ءُ گوَشنت"
     },
     {
-      "surface": "עַ֚ל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "اے کہ"
     },
     {
-      "surface": "עָֽזְב֔וּ",
+      "surface": "עזבו",
       "gloss": "رایہی کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "عہد"
     },
     {
-      "surface": "בְּרִ֥ית",
+      "surface": "ברית",
       "gloss": "عہد"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵ֣י",
+      "surface": "אלהי",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "אֲבֹתָ֑ם",
+      "surface": "אבתם",
       "gloss": "اِشانی پدان"
     },
     {
-      "surface": "אֲשֶׁר֙",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "כָּרַ֣ת",
+      "surface": "כרת",
       "gloss": "برت"
     },
     {
-      "surface": "עִמָּ֔ם",
+      "surface": "עמם",
       "gloss": "گوں اِشان"
     },
     {
-      "surface": "בְּהוֹצִיא֥וֹ",
+      "surface": "בהוציאו",
       "gloss": "چوں در کت"
     },
     {
-      "surface": "אֹתָ֖ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "چہ مِتسرایمءِ زمین"
     },
     {
-      "surface": "מֵאֶ֥רֶץ",
+      "surface": "מארץ",
       "gloss": "چہ زمین"
     },
     {
-      "surface": "מִצְרַ֖יִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایم"
     }
-  ],
-  "timestamp": "2026-09-25T15:21:36.638636647Z",
-  "model": "glm-5.3"
+  ]
 }

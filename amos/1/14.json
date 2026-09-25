@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "amos 1:14",
   "book": "amos",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:46:50.681989177Z",
+  "verse": 14,
+  "ref": "amos 1:14",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ من آپ چہ ربہءِ دیوارءَ روش کنیں، ءُ آ شوتءِ قلعہاناں گپیت، بانگءِ گوں جنگءِ روچءَ، ءُ توفانءِ گوں گردابءِ روچءَ۔",
   "tokens": [
     {
-      "surface": "וְהִצַּתִּי",
+      "surface": "והצתי",
       "gloss": "ءُ من روش کنیں"
     },
     {
-      "surface": "אֵשׁ",
+      "surface": "אש",
       "gloss": "آپ"
     },
     {
-      "surface": "בְּחוֹמַת",
+      "surface": "בחומת",
       "gloss": "چہ دیوارءَ"
     },
     {
-      "surface": "רַבָּה",
+      "surface": "רבה",
       "gloss": "ربہ"
     },
     {
-      "surface": "וְאָכְלָה",
+      "surface": "ואכלה",
       "gloss": "ءُ آ گپیت"
     },
     {
-      "surface": "אַרְמְנוֹתֶיהָ",
+      "surface": "ארמנותיה",
       "gloss": "شوتءِ قلعہاناں"
     },
     {
-      "surface": "בִּתְרוּעָה",
+      "surface": "בתרועה",
       "gloss": "بانگءِ گوں"
     },
     {
-      "surface": "בְּיוֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "מִלְחָמָה",
+      "surface": "מלחמה",
       "gloss": "جنگءِ"
     },
     {
-      "surface": "בְּסַעַר",
+      "surface": "בסער",
       "gloss": "توفانءِ گوں"
     },
     {
-      "surface": "בְּיוֹם",
+      "surface": "ביום",
       "gloss": "روچءَ"
     },
     {
-      "surface": "סוּפָה",
+      "surface": "סופה",
       "gloss": "گردابءِ"
     }
-  ],
-  "timestamp": "2026-09-25T14:46:50.681989177Z",
-  "model": "glm-5.3"
+  ]
 }

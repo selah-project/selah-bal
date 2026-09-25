@@ -1,113 +1,113 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "ezekiel 38:13",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:23:52.664901608Z",
+  "verse": 13,
+  "ref": "ezekiel 38:13",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "شِبا ءُ دِدان ءُ ترشیشءِ سوداگران ءُ گش آییءِ زہگ شیران تُہءَ رنت: تُہ غنیمت پہ غنیمت گپتنگ آیں ئے؟ لوٹ پہ لوٹتگ وتی جمعیت جمع کتگءے؟ پہ چاندی ءُ زر بُرت کنگ، پہ مال ءُ ملکیت گپتنگ، پہ یک گیش غنیمت غنیمت گپتنگ؟",
   "tokens": [
     {
-      "surface": "שְׁבָ֡א",
+      "surface": "שבא",
       "gloss": "شِبا"
     },
     {
-      "surface": "וּ֠דְדָן",
+      "surface": "ודדן",
       "gloss": "ءُ دِدان"
     },
     {
-      "surface": "וְסֹחֲרֵ֨י",
+      "surface": "וסחרי",
       "gloss": "ءُ سوداگران"
     },
     {
-      "surface": "תַרְשִׁ֤ישׁ",
+      "surface": "תרשיש",
       "gloss": "ترشیشءِ"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ گش"
     },
     {
-      "surface": "כְּפִרֶ֨יהָ֙",
+      "surface": "כפריה",
       "gloss": "آییءِ زہگ شیران"
     },
     {
-      "surface": "יֹאמְר֣וּ",
+      "surface": "יאמרו",
       "gloss": "رنت"
     },
     {
-      "surface": "לְךָ֔",
+      "surface": "לך",
       "gloss": "تُہءَ"
     },
     {
-      "surface": "הֲלִשְׁלֹ֤ל",
+      "surface": "הלשלל",
       "gloss": "غنیمت پہ غنیمت گپتنگ"
     },
     {
-      "surface": "שָׁלָל֙",
+      "surface": "שלל",
       "gloss": "آیں ئے؟"
     },
     {
-      "surface": "אַתָּ֣ה",
+      "surface": "אתה",
       "gloss": "تُہ"
     },
     {
-      "surface": "בָ֔א",
+      "surface": "בא",
       "gloss": "آیں"
     },
     {
-      "surface": "הֲלָבֹ֥ז",
+      "surface": "הלבז",
       "gloss": "لوٹ پہ لوٹتگ"
     },
     {
-      "surface": "בַּ֖ז",
+      "surface": "בז",
       "gloss": "ءے؟"
     },
     {
-      "surface": "הִקְהַ֣לְתָּ",
+      "surface": "הקהלת",
       "gloss": "جمع کتگءے"
     },
     {
-      "surface": "קְהָלֶ֑ךָ",
+      "surface": "קהלך",
       "gloss": "وتی جمعیت"
     },
     {
-      "surface": "לָשֵׂ֣את",
+      "surface": "לשאת",
       "gloss": "پہ بُرت کنگ"
     },
     {
-      "surface": "כֶּ֣סֶף",
+      "surface": "כסף",
       "gloss": "چاندی"
     },
     {
-      "surface": "וְזָהָ֗ב",
+      "surface": "וזהב",
       "gloss": "ءُ زر"
     },
     {
-      "surface": "לָקַ֨חַת֙",
+      "surface": "לקחת",
       "gloss": "پہ گپتنگ"
     },
     {
-      "surface": "מִקְנֶ֣ה",
+      "surface": "מקנה",
       "gloss": "مال"
     },
     {
-      "surface": "וְקִנְיָ֔ן",
+      "surface": "וקנין",
       "gloss": "ءُ ملکیت"
     },
     {
-      "surface": "לִשְׁלֹ֖ל",
+      "surface": "לשלל",
       "gloss": "پہ غنیمت"
     },
     {
-      "surface": "שָׁלָ֥ל",
+      "surface": "שלל",
       "gloss": "غنیمت"
     },
     {
-      "surface": "גָּדֽוֹל",
+      "surface": "גדול",
       "gloss": "گیش"
     }
-  ],
-  "timestamp": "2026-09-25T16:23:52.664901608Z",
-  "model": "glm-5.3"
+  ]
 }

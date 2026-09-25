@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "leviticus 18:4",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:20:56.720775597Z",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "⟨את⟩ مئے چوں گوارے تنا کنیں ءُ ⟨את⟩ مئے چوں گوارے نگہ داریں، آءِ تہ راوت ءُ اِنت یاہوہ تُمانی ایلوہیم۔",
   "tokens": [
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مئے چوں گوارے"
     },
     {
-      "surface": "מִשׁפָּטַי",
+      "surface": "משפטי",
       "gloss": "مئے چوں گوارے"
     },
     {
-      "surface": "תַעֲשׂוּ",
+      "surface": "תעשו",
       "gloss": "تنا کنیں"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "مئے چوں گوارے"
     },
     {
-      "surface": "חֻקֹּתַי",
+      "surface": "חקתי",
       "gloss": "مئے چوں گوارے"
     },
     {
-      "surface": "תִּשְׁמְרוּ",
+      "surface": "תשמרו",
       "gloss": "نگہ داریں"
     },
     {
-      "surface": "לָלֶכֶת",
+      "surface": "ללכת",
       "gloss": "روات ءُ"
     },
     {
-      "surface": "בָּהֶם",
+      "surface": "בהם",
       "gloss": "آءِ تہ"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "اِنت من"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵיכֶם",
+      "surface": "אלהיכם",
       "gloss": "تُمانی ایلوہیم"
     }
-  ],
-  "timestamp": "2026-09-25T19:20:56.720775597Z",
-  "model": "glm-5.3"
+  ]
 }

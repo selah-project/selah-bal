@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "jeremiah 12:13",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:42:16.126194818Z",
+  "verse": 13,
+  "ref": "jeremiah 12:13",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "اِشاں گندم کار کت ءُ خاران کپیت؛ اِشاں ناتوان بوتنت، نہ فایدہ کننت؛ ءُ اِشاں شرمندہ اِنت چہ شمائیں حاصلاں، چہ یاہوہءِ غضبءِ تپءَ.",
   "tokens": [
     {
-      "surface": "זָרְעוּ",
+      "surface": "זרעו",
       "gloss": "کار کت"
     },
     {
-      "surface": "חִטִּים",
+      "surface": "חטים",
       "gloss": "گندم"
     },
     {
-      "surface": "וְקֹצִים",
+      "surface": "וקצים",
       "gloss": "ءُ خاران"
     },
     {
-      "surface": "קָצָרוּ",
+      "surface": "קצרו",
       "gloss": "کپیت"
     },
     {
-      "surface": "נֶחְלוּ",
+      "surface": "נחלו",
       "gloss": "ناتوان بوتنت"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יוֹעִלוּ",
+      "surface": "יועלו",
       "gloss": "فایدہ کننت"
     },
     {
-      "surface": "וּבֹשׁוּ",
+      "surface": "ובשו",
       "gloss": "ءُ شرمندہ بیتنت"
     },
     {
-      "surface": "מִתְּבוּאֹתֵיכֶם",
+      "surface": "מתבואתיכם",
       "gloss": "چہ شمائیں حاصلاں"
     },
     {
-      "surface": "מֵחֲרוֹן",
+      "surface": "מחרון",
       "gloss": "چہ تپءِ"
     },
     {
-      "surface": "אַף",
+      "surface": "אף",
       "gloss": "غضب"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:42:16.126194818Z",
-  "model": "glm-5.3"
+  ]
 }

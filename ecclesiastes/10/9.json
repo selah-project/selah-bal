@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "ecclesiastes 10:9",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:34:18.775662182Z",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "جنبیں سنگان ءُ چیک کتنوک دار آیانءَ گوں آیاں زرخمیں بیت؛ ءُ چیر کتنوک دار چہ آیءَ زرخمیں بیت.",
   "tokens": [
     {
-      "surface": "מַסִּיעַ",
+      "surface": "מסיע",
       "gloss": "جنبیں"
     },
     {
-      "surface": "אֲבָנִים",
+      "surface": "אבנים",
       "gloss": "سنگان"
     },
     {
-      "surface": "יֵעָצֵב",
+      "surface": "יעצב",
       "gloss": "زرخمیں بیت"
     },
     {
-      "surface": "בָּהֶם",
+      "surface": "בהם",
       "gloss": "گوں آیاں"
     },
     {
-      "surface": "בּוֹקֵעַ",
+      "surface": "בוקע",
       "gloss": "چیر کتنوک"
     },
     {
-      "surface": "עֵצִים",
+      "surface": "עצים",
       "gloss": "دار"
     },
     {
-      "surface": "יִסָּכֶן",
+      "surface": "יסכן",
       "gloss": "زرخمیں بیت"
     },
     {
-      "surface": "בָּם",
+      "surface": "בם",
       "gloss": "چہ آیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T15:34:18.775662182Z",
-  "model": "glm-5.3"
+  ]
 }

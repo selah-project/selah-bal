@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "numbers 32:3",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:59:41.117033152Z",
+  "verse": 3,
+  "ref": "numbers 32:3",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "عطاروت ءُ دیبون ءُ یاعزر ءُ نمرہ ءُ حشبون ءُ ایلعالہ ءُ سبام ءُ نبۏ ءُ بعون",
   "tokens": [
     {
-      "surface": "עֲטָר֤וֹת",
+      "surface": "עטרות",
       "gloss": "عطاروت"
     },
     {
-      "surface": "וְדִיבֹן֙",
+      "surface": "ודיבן",
       "gloss": "ءُ دیبون"
     },
     {
-      "surface": "וְיַעְזֵ֣ר",
+      "surface": "ויעזר",
       "gloss": "ءُ یاعزر"
     },
     {
-      "surface": "וְנִמְרָ֔ה",
+      "surface": "ונמרה",
       "gloss": "ءُ نمرہ"
     },
     {
-      "surface": "וְחֶשְׁבּ֖וֹן",
+      "surface": "וחשבון",
       "gloss": "ءُ حشبون"
     },
     {
-      "surface": "וְאֶלְעָלֵ֑ה",
+      "surface": "ואלעלה",
       "gloss": "ءُ ایلعالہ"
     },
     {
-      "surface": "וּשְׂבָ֥ם",
+      "surface": "ושבם",
       "gloss": "ءُ سبام"
     },
     {
-      "surface": "וּנְב֖וֹ",
+      "surface": "ונבו",
       "gloss": "ءُ نبۏ"
     },
     {
-      "surface": "וּבְעֹֽן",
+      "surface": "ובען",
       "gloss": "ءُ بعون"
     }
-  ],
-  "timestamp": "2026-09-25T19:59:41.117033152Z",
-  "model": "glm-5.3"
+  ]
 }

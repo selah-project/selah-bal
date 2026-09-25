@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "2-chronicles 7:18",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:59:06.669673420Z",
+  "verse": 18,
+  "ref": "2-chronicles 7:18",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ من ⟨את⟩ تئے شاہیءِ تختءَ قایم کنیت، چوش کہ من گوں داودءَ تئے پیتءَ بریم کت، کہ گوَشتگ: چہ تے یک سالگرءِ مرد کہ اسرائیلءَ سالیت نہ کپیت۔",
   "tokens": [
     {
-      "surface": "וַהֲקִ֣ימוֹתִ֔י",
+      "surface": "והקימותי",
       "gloss": "ءُ من قایم کنیت"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تخت"
     },
     {
-      "surface": "כִּסֵּ֣א",
+      "surface": "כסא",
       "gloss": "تخت"
     },
     {
-      "surface": "מַלְכוּתֶ֑ךָ",
+      "surface": "מלכותך",
       "gloss": "تئے شاہیءِ"
     },
     {
-      "surface": "כַּאֲשֶׁ֣ר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "כָּרַ֗תִּי",
+      "surface": "כרתי",
       "gloss": "بریم کت"
     },
     {
-      "surface": "לְדָוִ֤יד",
+      "surface": "לדויד",
       "gloss": "گوں داودءَ"
     },
     {
-      "surface": "אָבִ֨יךָ֙",
+      "surface": "אביך",
       "gloss": "تئے پیتءَ"
     },
     {
-      "surface": "לֵאמֹ֔ר",
+      "surface": "לאמר",
       "gloss": "کہ گوَشتگ"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִכָּרֵ֤ת",
+      "surface": "יכרת",
       "gloss": "کپیت"
     },
     {
-      "surface": "לְךָ֙",
+      "surface": "לך",
       "gloss": "چہ تے"
     },
     {
-      "surface": "אִ֔ישׁ",
+      "surface": "איש",
       "gloss": "مرد"
     },
     {
-      "surface": "מוֹשֵׁ֖ל",
+      "surface": "מושל",
       "gloss": "سالگر"
     },
     {
-      "surface": "בְּיִשְׂרָאֵֽל",
+      "surface": "בישראל",
       "gloss": "اسرائیلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:59:06.669673420Z",
-  "model": "glm-5.3"
+  ]
 }

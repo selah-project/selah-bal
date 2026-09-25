@@ -1,87 +1,87 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "numbers 9:15",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:08:25.200084236Z",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ آ روچءَ کہ ⟨את⟩ مِشکانءَ اُستات، ہاب ⟨את⟩ מِشکانءَ ڈپتگ، گواہیءِ گadanءِ چوں؛ ءُ شپءَ مِشکانءِ سرءَ آتشءِ شکلءِ چوں بوت، تا سحری۔",
   "tokens": [
     {
-      "surface": "וּבְיוֹם",
+      "surface": "וביום",
       "gloss": "ءُ آ روچءَ"
     },
     {
-      "surface": "הָקִים",
+      "surface": "הקים",
       "gloss": "اُستات"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِشکان"
     },
     {
-      "surface": "הַמִּשְׁכָּן",
+      "surface": "המשכן",
       "gloss": "مِشکانءَ"
     },
     {
-      "surface": "כִּסָּה",
+      "surface": "כסה",
       "gloss": "ڈپتگ"
     },
     {
-      "surface": "הֶעָנָן",
+      "surface": "הענן",
       "gloss": "ہاب"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِشکان"
     },
     {
-      "surface": "הַמִּשְׁכָּן",
+      "surface": "המשכן",
       "gloss": "مِشکانءَ"
     },
     {
-      "surface": "לְאֹהֶל",
+      "surface": "לאהל",
       "gloss": "گadanءِ چوں"
     },
     {
-      "surface": "הָעֵדֻת",
+      "surface": "העדת",
       "gloss": "گواہیءِ"
     },
     {
-      "surface": "וּבָעֶרֶב",
+      "surface": "ובערב",
       "gloss": "ءُ شپءَ"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بوت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הַמִּשְׁכָּן",
+      "surface": "המשכן",
       "gloss": "مِشکانءِ"
     },
     {
-      "surface": "כְּמַרְאֵה",
+      "surface": "כמראה",
       "gloss": "شکلءِ چوں"
     },
     {
-      "surface": "אֵשׁ",
+      "surface": "אש",
       "gloss": "آتشءِ"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تا"
     },
     {
-      "surface": "בֹּקֶר",
+      "surface": "בקר",
       "gloss": "سحری"
     }
-  ],
-  "timestamp": "2026-09-25T20:08:25.200084236Z",
-  "model": "glm-5.3"
+  ]
 }

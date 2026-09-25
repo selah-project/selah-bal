@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "psalms 93:5",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:16:44.596658285Z",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "tier": "glm-5.2",
   "chapter": 93,
   "translation": "تور گواہیان یقین اِنت پوریءَ، تورے گدانءَ پہ گوَنائی اِنت کہ پاکی بیت، اے یاہوہ، پہ درازی روچانءَ۔",
   "tokens": [
     {
-      "surface": "עֵֽדֹתֶ֨יךָ",
+      "surface": "עדתיך",
       "gloss": "تورے گواہیان"
     },
     {
-      "surface": "נֶאֶמְנ֬וּ",
+      "surface": "נאמנו",
       "gloss": "یقین اِنت"
     },
     {
-      "surface": "מְאֹ֗ד",
+      "surface": "מאד",
       "gloss": "پوریءَ"
     },
     {
-      "surface": "לְבֵיתְךָ֥",
+      "surface": "לביתך",
       "gloss": "تورے گدانءَ پہ"
     },
     {
-      "surface": "נַאֲוָה",
+      "surface": "נאוה",
       "gloss": "گوَنائی اِنت کہ"
     },
     {
-      "surface": "קֹ֑דֶשׁ",
+      "surface": "קדש",
       "gloss": "پاکی بیت"
     },
     {
-      "surface": "יְהֹוָ֗ה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "לְאֹ֣רֶךְ",
+      "surface": "לארך",
       "gloss": "پہ درازی"
     },
     {
-      "surface": "יָמִֽים",
+      "surface": "ימים",
       "gloss": "روچانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:16:44.596658285Z",
-  "model": "glm-5.3"
+  ]
 }

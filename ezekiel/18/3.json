@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "ezekiel 18:3",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:09:30.970030635Z",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "زندگیں اِم من، ادونای یاہوہءِ فرمانءِ چم، اگر اے مثل تُہاں پہ اِسرائیلءَ مگہ یک رند ہم گوں کار نہ بریت.",
   "tokens": [
     {
-      "surface": "חַי",
+      "surface": "חי",
       "gloss": "زندگیں"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "اِم"
     },
     {
-      "surface": "נְאֻם",
+      "surface": "נאם",
       "gloss": "فرمانءِ چم"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "יְהוִה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "اگر"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "تُہاں پہ"
     },
     {
-      "surface": "עוֹד",
+      "surface": "עוד",
       "gloss": "یک رند ہم"
     },
     {
-      "surface": "מְשֹׁל",
+      "surface": "משל",
       "gloss": "گوں کار بریت"
     },
     {
-      "surface": "הַמָּשָׁל",
+      "surface": "המשל",
       "gloss": "اے مثل"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "בְּיִשְׂרָאֵל",
+      "surface": "בישראל",
       "gloss": "اِسرائیلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:09:30.970030635Z",
-  "model": "glm-5.3"
+  ]
 }

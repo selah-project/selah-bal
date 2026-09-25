@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "1-samuel 1:14",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:09:28.124642042Z",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ عیلی آییءَ گوَشت: تا کڈی مست بیت ئے؟ آپئی شراب ⟨את⟩ چہ آ جتا کن۔",
   "tokens": [
@@ -45,10 +47,8 @@
       "gloss": "شراب"
     },
     {
-      "surface": "مעליך",
+      "surface": "מעליך",
       "gloss": "چہ آ"
     }
-  ],
-  "timestamp": "2026-09-25T13:09:28.124642042Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "hosea 14:10",
   "book": "hosea",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:09:39.304298107Z",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "کے دانا اِنت؟ آءَ اے چیزاں چم بگرت؛ کے عقلمند اِنت، آءَ اِشاں بزانت؛ پرچا کہ یاہوہءِ رستاں راست اِنت، ءُ راست لوگ اِشاں تہ روننت، ءُ گناهکار اِشاں تہ ڈنگنت۔",
   "tokens": [
     {
-      "surface": "מִ֤י",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "חָכָם֙",
+      "surface": "חכם",
       "gloss": "دانا"
     },
     {
-      "surface": "וְיָ֣בֵֽן",
+      "surface": "ויבן",
       "gloss": "ءُ چم بگرت"
     },
     {
-      "surface": "אֵ֔לֶּה",
+      "surface": "אלה",
       "gloss": "اے چیزاں"
     },
     {
-      "surface": "נָב֖וֹן",
+      "surface": "נבון",
       "gloss": "عقلمند"
     },
     {
-      "surface": "وְיֵֽדָעֵ֑ם",
+      "surface": "וידעם",
       "gloss": "ءُ اِشاں بزانت"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "יְשָׁרִ֞ים",
+      "surface": "ישרים",
       "gloss": "راست"
     },
     {
-      "surface": "דַּרְכֵ֣י",
+      "surface": "דרכי",
       "gloss": "رستاں"
     },
     {
-      "surface": "יְהוָ֗ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וְצַדִּקִים֙",
+      "surface": "וצדקים",
       "gloss": "ءُ راست لوگ"
     },
     {
-      "surface": "יֵ֣לְכוּ",
+      "surface": "ילכו",
       "gloss": "روننت"
     },
     {
-      "surface": "בָּ֔ם",
+      "surface": "בם",
       "gloss": "اِشاں تہ"
     },
     {
-      "surface": "וּפֹשְׁעִ֖ים",
+      "surface": "ופשעים",
       "gloss": "ءُ گناهکار"
     },
     {
-      "surface": "יִכָּ֥שְׁלוּ",
+      "surface": "יכשלו",
       "gloss": "ڈنگنت"
     },
     {
-      "surface": "בָֽם",
+      "surface": "בם",
       "gloss": "اِشاں تہ"
     }
-  ],
-  "timestamp": "2026-09-25T17:09:39.304298107Z",
-  "model": "glm-5.3"
+  ]
 }

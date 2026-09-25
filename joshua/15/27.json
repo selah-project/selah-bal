@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "joshua 15:27",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:41:16.261871547Z",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ حتزار-گدّاہ، ءُ حیشمون، ءُ بیت-پالیت،",
   "tokens": [
     {
-      "surface": "וַחֲצַ֥ר",
+      "surface": "וחצר",
       "gloss": "ءُ حتزار"
     },
     {
-      "surface": "גַּדָּ֛ה",
+      "surface": "גדה",
       "gloss": "گدّاہ"
     },
     {
-      "surface": "וְחֶשְׁמ֖וֹן",
+      "surface": "וחשמון",
       "gloss": "ءُ حیشمون"
     },
     {
-      "surface": "וּבֵ֥ית",
+      "surface": "ובית",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "פָּֽלֶט",
+      "surface": "פלט",
       "gloss": "پالیت"
     }
-  ],
-  "timestamp": "2026-09-25T18:41:16.261871547Z",
-  "model": "glm-5.3"
+  ]
 }

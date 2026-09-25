@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "jeremiah 48:17",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:07:52.642678590Z",
+  "verse": 17,
+  "ref": "jeremiah 48:17",
+  "tier": "glm-5.2",
   "chapter": 48,
   "translation": "اے آییءِ آوارگان آییءَ سرے کپت، ءُ اے کہ آییءِ نامءَ زانت، اِشاں گوَشنت: چونکاں شکنیت آت چوں زورءِ، آت چوں شانءِ!",
   "tokens": [
     {
-      "surface": "נֻדוּ",
+      "surface": "נדו",
       "gloss": "سرے کپت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ پہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "اے"
     },
     {
-      "surface": "סְבִיבָיו",
+      "surface": "סביביו",
       "gloss": "آییءِ آوارگان"
     },
     {
-      "surface": "וְכֹל",
+      "surface": "וכל",
       "gloss": "ءُ اے"
     },
     {
-      "surface": "יֹדְעֵי",
+      "surface": "ידעי",
       "gloss": "زانت"
     },
     {
-      "surface": "שְׁמוֹ",
+      "surface": "שמו",
       "gloss": "آییءِ نامءَ"
     },
     {
-      "surface": "אִמְרוּ",
+      "surface": "אמרו",
       "gloss": "گوَشنت"
     },
     {
-      "surface": "אֵיכָה",
+      "surface": "איכה",
       "gloss": "چونکاں"
     },
     {
-      "surface": "נִשְׁבַּר",
+      "surface": "נשבר",
       "gloss": "شکنیت"
     },
     {
-      "surface": "מַטֵּה",
+      "surface": "מטה",
       "gloss": "آت چوں"
     },
     {
-      "surface": "עֹז",
+      "surface": "עז",
       "gloss": "زورءِ"
     },
     {
-      "surface": "מַקֵּל",
+      "surface": "מקל",
       "gloss": "آت چوں"
     },
     {
-      "surface": "תִּפְאָרָה",
+      "surface": "תפארה",
       "gloss": "شانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T18:07:52.642678590Z",
-  "model": "glm-5.3"
+  ]
 }

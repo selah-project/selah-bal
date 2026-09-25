@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
-  "ref": "lamentations 3:37",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:13:59.086232913Z",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "کے اِنت اے کہ گوَشتءُ اِش بوت، اودا کہ ادونای آئُں نہ فرمان کتگ؟",
   "tokens": [
@@ -16,26 +18,24 @@
       "gloss": "اے"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "וַתֶּהִי",
+      "surface": "ותהי",
       "gloss": "ءُ اِش بوت"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "ادونای"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "צִוָּה",
+      "surface": "צוה",
       "gloss": "فرمان کتگ"
     }
-  ],
-  "timestamp": "2026-09-25T19:13:59.086232913Z",
-  "model": "glm-5.3"
+  ]
 }

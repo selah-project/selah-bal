@@ -1,46 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "leviticus 8:3",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:27:45.249005454Z",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "ءُ ⟨את⟩ گیش مجمعءَ جمع کن ملاقاتءِ گدانی دروازئَ۔",
   "tokens": [
     {
-      "surface": "וְאֵ֥ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گیش مجمع"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیش"
     },
     {
-      "surface": "הָעֵדָ֖ה",
+      "surface": "העדה",
       "gloss": "مجمع"
     },
     {
-      "surface": "הַקְהֵ֑ל",
+      "surface": "הקהל",
       "gloss": "جمع کن"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "פֶּ֖תַח",
+      "surface": "פתח",
       "gloss": "دروازہ"
     },
     {
-      "surface": "אֹ֥הֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵֽד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     }
-  ],
-  "timestamp": "2026-09-25T19:27:45.249005454Z",
-  "model": "glm-5.3"
+  ]
 }

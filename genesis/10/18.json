@@ -1,56 +1,56 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "genesis 10:18",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:41:58.804425683Z",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "ءُ ⟨את⟩ اَروادی، ءُ ⟨את⟩ سَمَری، ءُ ⟨את⟩ حَماٹی؛ ءُ پدءَ کینانیءِ ٹولی پَد پَرِت اَنت۔",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "اَروادی"
     },
     {
-      "surface": "הָאַרְוָדִי",
+      "surface": "הארודי",
       "gloss": "اَروادی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "سَمَری"
     },
     {
-      "surface": "הַצְּמָרִי",
+      "surface": "הצמרי",
       "gloss": "سَمَری"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "حَماٹی"
     },
     {
-      "surface": "הַחֲמָתִי",
+      "surface": "החמתי",
       "gloss": "حَماٹی"
     },
     {
-      "surface": "וְאַחַר",
+      "surface": "ואחר",
       "gloss": "ءُ پدءَ"
     },
     {
-      "surface": "נָפֹצוּ",
+      "surface": "נפצו",
       "gloss": "پَد پَرِت اَنت"
     },
     {
-      "surface": "מִשְׁפְּחוֹת",
+      "surface": "משפחות",
       "gloss": "ٹولی"
     },
     {
-      "surface": "הַכְּנַעֲנִי",
+      "surface": "הכנעני",
       "gloss": "کینانیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T16:41:58.804425683Z",
-  "model": "glm-5.3"
+  ]
 }

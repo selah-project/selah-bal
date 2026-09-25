@@ -1,83 +1,83 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "leviticus 1:11",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:16:21.120191698Z",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ ⟨את⟩ آییءَ قربانگاہءِ رنڈءَ شمالءِ کتلءَ یاہوہءِ روبرو کنت؛ ءُ اہارونءِ زہگ، کہن، ⟨את⟩ آییءِ وین قربانگاہءَ سرا چھنٹنت۔",
   "tokens": [
     {
-      "surface": "וְשָׁחַ֨ט",
+      "surface": "ושחט",
       "gloss": "ءُ کنت"
     },
     {
-      "surface": "אֹת֜וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ"
     },
     {
-      "surface": "עַ֣ל",
+      "surface": "על",
       "gloss": "سرا"
     },
     {
-      "surface": "יֶ֧רֶךְ",
+      "surface": "ירך",
       "gloss": "رنڈ"
     },
     {
-      "surface": "הַמִּזְבֵּ֛חַ",
+      "surface": "המזבח",
       "gloss": "قربانگاہءِ"
     },
     {
-      "surface": "צָפֹ֖נָה",
+      "surface": "צפנה",
       "gloss": "شمالءِ کتلءَ"
     },
     {
-      "surface": "לִפְנֵ֣י",
+      "surface": "לפני",
       "gloss": "روبرو"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וְזָרְק֡וּ",
+      "surface": "וזרקו",
       "gloss": "ءُ چھنٹنت"
     },
     {
-      "surface": "בְּנֵ֩י",
+      "surface": "בני",
       "gloss": "زہگ"
     },
     {
-      "surface": "אַהֲרֹ֨ן",
+      "surface": "אהרן",
       "gloss": "اہارونءِ"
     },
     {
-      "surface": "הַכֹּהֲנִ֧ים",
+      "surface": "הכהנים",
       "gloss": "کہن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ وین"
     },
     {
-      "surface": "דָּמ֛וֹ",
+      "surface": "דמו",
       "gloss": "آییءِ وین"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرا"
     },
     {
-      "surface": "הַמִּזְבֵּ֖חַ",
+      "surface": "המזבח",
       "gloss": "قربانگاہءَ"
     },
     {
-      "surface": "סָבִֽיב",
+      "surface": "סביב",
       "gloss": "ہمگ جاگہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:16:21.120191698Z",
-  "model": "glm-5.3"
+  ]
 }

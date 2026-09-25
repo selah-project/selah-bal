@@ -1,56 +1,56 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "1-chronicles 1:12",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:30:24.549194973Z",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ ⟨את⟩ پتھروسیم، ءُ ⟨את⟩ کسلوحیم، کہ چہ اُشاں مَنز ⟨آں جاگہءَ⟩ فلسطینی گُشیتنت، ءُ ⟨את⟩ کپتوری۔",
   "tokens": [
     {
-      "surface": "וְֽאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پتھروسیم"
     },
     {
-      "surface": "פַּתְרֻסִ֞ים",
+      "surface": "פתרסים",
       "gloss": "پتھروسیم"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "کسلوحیم"
     },
     {
-      "surface": "כַּסְלֻחִ֗ים",
+      "surface": "כסלחים",
       "gloss": "کسلوحیم"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יָצְא֥וּ",
+      "surface": "יצאו",
       "gloss": "گُشیتنت"
     },
     {
-      "surface": "מִשָּׁ֛ם",
+      "surface": "משם",
       "gloss": "چہ اُشاں مَنز"
     },
     {
-      "surface": "פְּלִשְׁתִּ֖ים",
+      "surface": "פלשתים",
       "gloss": "فلسطینی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "کپتوری"
     },
     {
-      "surface": "כַּפְתֹּרִֽים",
+      "surface": "כפתרים",
       "gloss": "کپتوری"
     }
-  ],
-  "timestamp": "2026-09-25T12:30:24.549194973Z",
-  "model": "glm-5.3"
+  ]
 }

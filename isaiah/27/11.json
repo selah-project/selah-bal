@@ -1,94 +1,94 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "isaiah 27:11",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:14:53.177445605Z",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "اے قوم بے-سمجی اِنت، اے پہ آییءِ جوڑ کنوک آییءَ ترس نہ اَرت ءُ آییءِ گونڈی ءُ آییءَ مہربانی نہ کنت.",
   "tokens": [
     {
-      "surface": "בִּיבֹ֤שׁ",
+      "surface": "ביבש",
       "gloss": "گوں وترگءِ وہد"
     },
     {
-      "surface": "קְצִירָהּ֙",
+      "surface": "קצירה",
       "gloss": "آییءِ دروڑ"
     },
     {
-      "surface": "תִּשָּׁבַ֔רְנָה",
+      "surface": "תשברנה",
       "gloss": "شکن بیت"
     },
     {
-      "surface": "נָשִׁ֕ים",
+      "surface": "נשים",
       "gloss": "شھروار"
     },
     {
-      "surface": "בָּא֖וֹת",
+      "surface": "באות",
       "gloss": "مئنت"
     },
     {
-      "surface": "מְאִיר֣וֹת",
+      "surface": "מאירות",
       "gloss": "ءُ النگ"
     },
     {
-      "surface": "אוֹתָ֑הּ",
+      "surface": "אותה",
       "gloss": "⟨את⟩",
       "marks": "آییءَ (دروڑ)"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کیچہ"
     },
     {
-      "surface": "לֹ֤א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "עַם",
+      "surface": "עם",
       "gloss": "قوم"
     },
     {
-      "surface": "בִּינ֥וֹת",
+      "surface": "בינות",
       "gloss": "سمجی"
     },
     {
-      "surface": "ה֑וּא",
+      "surface": "הוא",
       "gloss": "اے"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵּ֥ן",
+      "surface": "כן",
       "gloss": "ے خاطر"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְרַחֲמֶ֖נּוּ",
+      "surface": "ירחמנו",
       "gloss": "ترس اَرت"
     },
     {
-      "surface": "עֹשֵׂ֥הוּ",
+      "surface": "עשהו",
       "gloss": "آییءِ جوڑ کنوک"
     },
     {
-      "surface": "וְיֹצְר֖וֹ",
+      "surface": "ויצרו",
       "gloss": "ءُ آییءِ گونڈی"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְחֻנֶּֽנּוּ",
+      "surface": "יחננו",
       "gloss": "مہربانی کنت"
     }
-  ],
-  "timestamp": "2026-09-25T17:14:53.177445605Z",
-  "model": "glm-5.3"
+  ]
 }

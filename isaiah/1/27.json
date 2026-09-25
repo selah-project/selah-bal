@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "isaiah 1:27",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:08:18.120213077Z",
+  "verse": 27,
+  "ref": "isaiah 1:27",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "سیون گوں مخت رہا بیت، ءُ آییءِ واپس گشتگان گوں راستی۔",
   "tokens": [
     {
-      "surface": "צִיּ֖וֹן",
+      "surface": "ציון",
       "gloss": "سیون"
     },
     {
-      "surface": "בְּמִשְׁפָּ֣ט",
+      "surface": "במשפט",
       "gloss": "گوں مخت"
     },
     {
-      "surface": "תִּפָּדֶ֑ה",
+      "surface": "תפדה",
       "gloss": "رہا بیت"
     },
     {
-      "surface": "וְשָׁבֶ֖יהָ",
+      "surface": "ושביה",
       "gloss": "ءُ آییءِ واپس گشتگان"
     },
     {
-      "surface": "בִּצְדָקָֽה",
+      "surface": "בצדקה",
       "gloss": "گوں راستی"
     }
-  ],
-  "timestamp": "2026-09-25T21:08:18.120213077Z",
-  "model": "glm-5.3"
+  ]
 }

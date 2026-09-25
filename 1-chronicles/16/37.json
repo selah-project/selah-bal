@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
-  "ref": "1-chronicles 16:37",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:35:06.553863201Z",
+  "verse": 37,
+  "ref": "1-chronicles 16:37",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ اوتا رہیءَ دات چہ پیشءِ صندوقءِ عہدءِ یاہوہءَ پہ اَساف ءُ پہ آییءِ بِراران کہ صندوقءِ پیشءَ ہمیشہ خدمت کننت، روچءِ کارءِ پہ چہ آییءِ روچءَ۔",
   "tokens": [
@@ -12,62 +14,60 @@
       "gloss": "ءُ اوتا رہیءَ دات"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "اوتا"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "چہ پیشءِ"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "בְּרִית",
+      "surface": "ברית",
       "gloss": "عہدءِ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "לְאָסָף",
+      "surface": "לאסף",
       "gloss": "پہ اَساف"
     },
     {
-      "surface": "וּלְאֶחָיו",
+      "surface": "ולאחיו",
       "gloss": "ءُ پہ آییءِ بِراران"
     },
     {
-      "surface": "לְשָׁרֵת",
+      "surface": "לשרת",
       "gloss": "کہ خدمت کننت"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "چہ پیشءِ"
     },
     {
-      "surface": "הָאָרוֹן",
+      "surface": "הארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "תָּמִיד",
+      "surface": "תמיד",
       "gloss": "ہمیشہ"
     },
     {
-      "surface": "לִדְבַר",
+      "surface": "לדבר",
       "gloss": "کارءِ پہ"
     },
     {
-      "surface": "יוֹם",
+      "surface": "יום",
       "gloss": "روچءِ"
     },
     {
-      "surface": "בְּיוֹמוֹ",
+      "surface": "ביומו",
       "gloss": "چہ آییءِ روچءَ"
     }
-  ],
-  "timestamp": "2026-09-25T12:35:06.553863201Z",
-  "model": "glm-5.3"
+  ]
 }

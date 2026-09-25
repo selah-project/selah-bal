@@ -1,14 +1,16 @@
 {
-  "tier": "glm-5.2",
-  "verse": 43,
-  "ref": "lamentations 3:43",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:13:49.594298523Z",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "تہ غضبءَ پُوشیت ءُ آءَ رِندیتگ؛ ءُ آءَ کشتگ، ءُ نہ رحم کتگ۔",
   "tokens": [
     {
-      "surface": "סכותה",
+      "surface": "סכתה",
       "gloss": "پُوشیت"
     },
     {
@@ -31,7 +33,5 @@
       "surface": "חמלת",
       "gloss": "رحم کتگ"
     }
-  ],
-  "timestamp": "2026-09-25T19:13:49.594298523Z",
-  "model": "glm-5.3"
+  ]
 }

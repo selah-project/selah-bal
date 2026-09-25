@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "leviticus 19:17",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:20:05.722718862Z",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "تو وتی برازءَ ⟨את⟩ تہ وتی دلءَ نہ بچاریں؛ ہوکاحءَ توکاح کن ⟨את⟩ وتی ہمپالءَ، ءُ آئیءِ سرا گناه نہ گرپ۔",
   "tokens": [
@@ -54,14 +56,12 @@
       "gloss": "گرپ"
     },
     {
-      "surface": "עליو",
+      "surface": "עליו",
       "gloss": "آئیءِ سرا"
     },
     {
       "surface": "חטא",
       "gloss": "گناه"
     }
-  ],
-  "timestamp": "2026-09-25T19:20:05.722718862Z",
-  "model": "glm-5.3"
+  ]
 }

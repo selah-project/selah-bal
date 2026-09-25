@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "numbers 34:4",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:02:51.196069303Z",
+  "verse": 4,
+  "ref": "numbers 34:4",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "ءُ سرحد چہ دمءِ جاگہءَ مَعلہءِ عکربیمءَ دوڑیت، ءُ گوَزیت تِنءَ؛ ءُ آییءِ دریچہ چہ دمءَ کادِش بارنِعءَ بیت؛ ءُ روت حضر اِدارءَ، ءُ گوَزیت عِضمونہءَ۔",
   "tokens": [
     {
-      "surface": "וְנָסַ֣ב",
+      "surface": "ונסב",
       "gloss": "ءُ دوڑیت"
     },
     {
-      "surface": "לָכֶם֩",
+      "surface": "לכם",
       "gloss": "پہ اِشماں"
     },
     {
-      "surface": "הַגְּב֨וּל",
+      "surface": "הגבול",
       "gloss": "سرحد"
     },
     {
-      "surface": "מִנֶּ֜גֶב",
+      "surface": "מנגב",
       "gloss": "چہ دمءِ"
     },
     {
-      "surface": "לְמַעֲלֵ֤ה",
+      "surface": "למעלה",
       "gloss": "مَعلہءِ"
     },
     {
-      "surface": "עַקְרַבִּים֙",
+      "surface": "עקרבים",
       "gloss": "عکربیم"
     },
     {
-      "surface": "וְעָ֣בַר",
+      "surface": "ועבר",
       "gloss": "ءُ گوَزیت"
     },
     {
-      "surface": "צִ֔נָה",
+      "surface": "צנה",
       "gloss": "تِنءَ"
     },
     {
-      "surface": "וְהָיָה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "תּוֹצְאֹתָ֔יו",
+      "surface": "תוצאתיו",
       "gloss": "آییءِ دریچہ"
     },
     {
-      "surface": "מִנֶּ֖גֶב",
+      "surface": "מנגב",
       "gloss": "چہ دمءَ"
     },
     {
-      "surface": "לְקָדֵ֣שׁ",
+      "surface": "לקדש",
       "gloss": "کادِش"
     },
     {
-      "surface": "בַּרְנֵ֑עַ",
+      "surface": "ברנע",
       "gloss": "بارنِعءَ"
     },
     {
-      "surface": "וְיָצָ֥א",
+      "surface": "ויצא",
       "gloss": "ءُ روت"
     },
     {
-      "surface": "חֲצַ֥ר",
+      "surface": "חצר",
       "gloss": "حضر"
     },
     {
-      "surface": "אַדָּ֖ר",
+      "surface": "אדר",
       "gloss": "اِدارءَ"
     },
     {
-      "surface": "וְעָבַ֥ר",
+      "surface": "ועבר",
       "gloss": "ءُ گوَزیت"
     },
     {
-      "surface": "עַצְמֹֽנָה",
+      "surface": "עצמנה",
       "gloss": "عِضمونہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:02:51.196069303Z",
-  "model": "glm-5.3"
+  ]
 }

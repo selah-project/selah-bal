@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "isaiah 54:15",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:32:01.925118210Z",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "tier": "glm-5.2",
   "chapter": 54,
   "translation": "وان! یک ⟨את⟩ دشمن ٹولی کنت، پرچا کہ چہ منءَ نہ؛ تو کہ گوں ⟨את⟩ توءَ جمع بیت؟ آ کہ توءِ مخالفتءَ کنت، آ تہ توءِ لٹءَ ڈگیت۔",
   "tokens": [
     {
-      "surface": "הֵ֣ן",
+      "surface": "הן",
       "gloss": "وان!"
     },
     {
-      "surface": "גּ֥וֹר",
+      "surface": "גור",
       "gloss": "ٹولی کنت"
     },
     {
-      "surface": "יגָג֛וּר",
+      "surface": "יגור",
       "gloss": "یک دشمن جمع بیت"
     },
     {
-      "surface": "אֶ֖פֶס",
+      "surface": "אפס",
       "gloss": "پرچا کہ نہ"
     },
     {
-      "surface": "מֵֽאוֹתִ֑י",
+      "surface": "מאותי",
       "gloss": "⟨את⟩ چہ منءَ"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "تو"
     },
     {
-      "surface": "גָ֥ר",
+      "surface": "גר",
       "gloss": "جمع بیت"
     },
     {
-      "surface": "אִתָּ֖ךְ",
+      "surface": "אתך",
       "gloss": "⟨את⟩ گوں توءَ",
       "marks": "تو"
     },
     {
-      "surface": "עָלַ֥יִךְ",
+      "surface": "עליך",
       "gloss": "توءِ مخالفتءَ"
     },
     {
-      "surface": "יִפּֽוֹל",
+      "surface": "יפול",
       "gloss": "ڈگیت"
     }
-  ],
-  "timestamp": "2026-09-25T17:32:01.925118210Z",
-  "model": "glm-5.3"
+  ]
 }

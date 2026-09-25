@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "jeremiah 6:20",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:17:11.000369895Z",
+  "verse": 20,
+  "ref": "jeremiah 6:20",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "چہ چی اے منءِ پہ؟ لبانہ چہ شیبا آیت، ءُ شرین کنڈ چہ دورءِ زمین — شمی سوچگیں قربانیان رضائتءِ پہ نہ اَنت، ءُ شمی قربانیان منءِ پہ خوش نہ بوتنت۔",
   "tokens": [
     {
-      "surface": "לָמָּה",
+      "surface": "למה",
       "gloss": "چہ چی"
     },
     {
-      "surface": "זֶה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "منءِ پہ"
     },
     {
-      "surface": "לְבוֹנָה",
+      "surface": "לבונה",
       "gloss": "لبانہ"
     },
     {
-      "surface": "מִשְּׁבָא",
+      "surface": "משבא",
       "gloss": "چہ شیبا"
     },
     {
-      "surface": "תָבוֹא",
+      "surface": "תבוא",
       "gloss": "آیت"
     },
     {
-      "surface": "וְקָנֶה",
+      "surface": "וקנה",
       "gloss": "ءُ کنڈ"
     },
     {
-      "surface": "הַטּוֹב",
+      "surface": "הטוב",
       "gloss": "شرین"
     },
     {
-      "surface": "מֵאֶרֶץ",
+      "surface": "מארץ",
       "gloss": "چہ زمین"
     },
     {
-      "surface": "מֶרְחָק",
+      "surface": "מרחק",
       "gloss": "دور"
     },
     {
-      "surface": "עֹלֹתֵיכֶם",
+      "surface": "עלותיכם",
       "gloss": "شمی سوچگیں قربانیان"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "לְרָצוֹן",
+      "surface": "לרצון",
       "gloss": "رضائتءِ پہ"
     },
     {
-      "surface": "וְזִבְחֵיכֶם",
+      "surface": "וזבחיכם",
       "gloss": "ءُ شمی قربانیان"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "עָרְבוּ",
+      "surface": "ערבו",
       "gloss": "خوش بوتنت"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "منءِ پہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:17:11.000369895Z",
-  "model": "glm-5.3"
+  ]
 }

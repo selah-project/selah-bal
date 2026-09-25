@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "2-chronicles 5:9",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:57:03.238060445Z",
+  "verse": 9,
+  "ref": "2-chronicles 5:9",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ ڈنڈیان دراز کتنت، ءُ ڈنڈیانی سراں چہ صندوقءَ دیبیرءِ دیما گندیتنت، بلے بیرانءَ نہ گندیتنت؛ ءُ اُدا تا اے روچ ماننت.",
   "tokens": [
@@ -60,7 +62,7 @@
       "gloss": "بیران"
     },
     {
-      "surface": "והי",
+      "surface": "ויהי",
       "gloss": "ءُ بوت"
     },
     {
@@ -79,7 +81,5 @@
       "surface": "הזה",
       "gloss": "اے"
     }
-  ],
-  "timestamp": "2026-09-25T13:57:03.238060445Z",
-  "model": "glm-5.3"
+  ]
 }

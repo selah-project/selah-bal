@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "job 10:3",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:22:00.120298060Z",
+  "verse": 3,
+  "ref": "job 10:3",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "چنگ اِنت تُہءَ کہ تُہ زلم کنی، کہ تُہءِ ہاتھ‌انی کار پروش کنی، ءُ گنکارانی چارءَ روشن کنی؟",
   "tokens": [
     {
-      "surface": "הֲטוֹב",
+      "surface": "הטוב",
       "gloss": "چنگ اِنت"
     },
     {
-      "surface": "לְךָ",
+      "surface": "לך",
       "gloss": "تُہءَ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "תַעֲשֹׁק",
+      "surface": "תעשק",
       "gloss": "تُہ زلم کنی"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "תִמְאַס",
+      "surface": "תמאס",
       "gloss": "تُہ پروش کنی"
     },
     {
-      "surface": "יְגִיעַ",
+      "surface": "יגיע",
       "gloss": "کار"
     },
     {
-      "surface": "כַּפֶּיךָ",
+      "surface": "כפיך",
       "gloss": "تُہءِ ہاتھ‌انی"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ …ءَ"
     },
     {
-      "surface": "עֲצַת",
+      "surface": "עצת",
       "gloss": "چارِ"
     },
     {
-      "surface": "רְשָׁעִים",
+      "surface": "רשעים",
       "gloss": "گنکارانی"
     },
     {
-      "surface": "הוֹפַעְתָּ",
+      "surface": "הופעת",
       "gloss": "روشن کنی"
     }
-  ],
-  "timestamp": "2026-09-25T18:22:00.120298060Z",
-  "model": "glm-5.3"
+  ]
 }

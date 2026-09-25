@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "numbers 5:7",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:06:19.420202741Z",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ اِشاں ⟨את⟩ آییءِ گناه کہ کتگ منیت کننت، ءُ ⟨את⟩ آییءِ قصور گوں آییءِ اصل پدا دیت، ءُ آییءِ پنجمی آییءِ سرءَ زیاد کنت، ءُ آییءَ دنت اُوءَ کہ چہ آیی قصور کتگ۔",
   "tokens": [
     {
-      "surface": "וְהִתְוַדּ֗וּ",
+      "surface": "והתודו",
       "gloss": "ءُ منیت کننت"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ گناه"
     },
     {
-      "surface": "חַטָּאתָם֮",
+      "surface": "חטאתם",
       "gloss": "آییءِ گناه"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָשׂ֗וּ",
+      "surface": "עשו",
       "gloss": "کتگ"
     },
     {
-      "surface": "וְהֵשִׁ֤יב",
+      "surface": "והשיב",
       "gloss": "ءُ پدا دیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ قصور"
     },
     {
-      "surface": "אֲשָׁמ֖וֹ",
+      "surface": "אשמו",
       "gloss": "آییءِ قصور"
     },
     {
-      "surface": "בְּרֹאשָׁ֑וֹ",
+      "surface": "בראשו",
       "gloss": "گوں آییءِ اصل"
     },
     {
-      "surface": "וַחֲמִישִׁת֖וֹ",
+      "surface": "וחמישתו",
       "gloss": "ءُ آییءِ پنجمی"
     },
     {
-      "surface": "יֹסֵ֣ף",
+      "surface": "יסף",
       "gloss": "زیاد کنت"
     },
     {
-      "surface": "עָלָ֑יו",
+      "surface": "עליו",
       "gloss": "آییءِ سرءَ"
     },
     {
-      "surface": "וְנָתַ֥ן",
+      "surface": "ונתן",
       "gloss": "ءُ دنت"
     },
     {
-      "surface": "לַאֲשֶׁ֧ר",
+      "surface": "לאשר",
       "gloss": "اُوءَ کہ"
     },
     {
-      "surface": "אָשַׁ֥ם",
+      "surface": "אשם",
       "gloss": "قصور کتگ"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "چہ آیی"
     }
-  ],
-  "timestamp": "2026-09-25T20:06:19.420202741Z",
-  "model": "glm-5.3"
+  ]
 }

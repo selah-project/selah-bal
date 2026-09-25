@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "numbers 3:8",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:57:39.388101909Z",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ اِشاں ⟨את⟩ ملاقاتءِ گدانءِ ہر چیزءِ زانتن ءُ ⟨את⟩ یسرائیلءِ زہگانی نگهبانی داریت، پہ مِشکانءِ کار ءُ خدمتءَ انجام دئگ؛",
   "tokens": [
     {
-      "surface": "וְשָׁמְר֗וּ",
+      "surface": "ושמרו",
       "gloss": "ءُ اِشاں زانتن داریت"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ملاقاتءِ گadanءِ ہر چیز"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "כְּלֵי֙",
+      "surface": "כלי",
       "gloss": "چیز ءُ اسباب"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گadan"
     },
     {
-      "surface": "מוֹעֵ֔ד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "یسرائیلءِ زہگانی نگهبانی"
     },
     {
-      "surface": "מִשְׁמֶ֖רֶת",
+      "surface": "משמרת",
       "gloss": "نگهبانی"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "לַעֲבֹ֖ד",
+      "surface": "לעבד",
       "gloss": "پہ انجام دئگءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِشکانءِ خدمت"
     },
     {
-      "surface": "עֲבֹדַ֥ת",
+      "surface": "עבדת",
       "gloss": "خدمت"
     },
     {
-      "surface": "הַמִּשְׁכָּֽן",
+      "surface": "המשכן",
       "gloss": "مِشکانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:57:39.388101909Z",
-  "model": "glm-5.3"
+  ]
 }

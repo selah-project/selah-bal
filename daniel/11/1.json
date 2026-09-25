@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "daniel 11:1",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:48:22.800030857Z",
+  "verse": 1,
+  "ref": "daniel 11:1",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ من، داریوشءِ مادیءِ یکمی سالءَ، اُستادم پہ آییءَ پشت گرگ ءُ پہ آییءَ پناہ گرگ.",
   "tokens": [
     {
-      "surface": "וַאֲנִי",
+      "surface": "ואני",
       "gloss": "ءُ من"
     },
     {
-      "surface": "בִּשְׁנַת",
+      "surface": "בשנת",
       "gloss": "سالءَ"
     },
     {
-      "surface": "אַחַת",
+      "surface": "אחת",
       "gloss": "یکمی"
     },
     {
-      "surface": "לְדָרְיָוֶשׁ",
+      "surface": "לדריוש",
       "gloss": "داریوشءِ"
     },
     {
-      "surface": "הַמָּדִי",
+      "surface": "המדי",
       "gloss": "مادی"
     },
     {
-      "surface": "עָמְדִי",
+      "surface": "עמדי",
       "gloss": "اُستادم"
     },
     {
-      "surface": "לְמַחֲזִיק",
+      "surface": "למחזיק",
       "gloss": "پہ پشت گرگ"
     },
     {
-      "surface": "וּלְמָעוֹז",
+      "surface": "ולמעוז",
       "gloss": "ءُ پہ پناہ گرگ"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:48:22.800030857Z",
-  "model": "glm-5.3"
+  ]
 }

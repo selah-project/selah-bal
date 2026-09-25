@@ -1,29 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "lamentations 3:23",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:13:54.803906584Z",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "نوکیں اَنت ہر سحرءَ، توتئی امانت گیش اِنت۔",
   "tokens": [
     {
-      "surface": "חֲדָשִׁים",
+      "surface": "חדשים",
       "gloss": "نوکیں"
     },
     {
-      "surface": "לַבְּקָרִים",
+      "surface": "לבקרים",
       "gloss": "ہر سحرءَ"
     },
     {
-      "surface": "רַבָּה",
+      "surface": "רבה",
       "gloss": "گیش"
     },
     {
-      "surface": "אֱמוּנָתֶֽךָ",
+      "surface": "אמונתך",
       "gloss": "توتئی امانت"
     }
-  ],
-  "timestamp": "2026-09-25T19:13:54.803906584Z",
-  "model": "glm-5.3"
+  ]
 }

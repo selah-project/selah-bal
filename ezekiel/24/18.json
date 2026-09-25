@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "ezekiel 24:18",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:15:30.983700066Z",
+  "verse": 18,
+  "ref": "ezekiel 24:18",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ءُ ما قومءَ گوں صحرئی روچءَ گپ گشتیت، ءُ ماں شپءِ سرءَ ماں جنک مرت؛ ءُ ما صحرئی روچءَ آییءَ کت گوش کہ چنڈ ءُ چون منءَ امر کتگ اِنت۔",
   "tokens": [
     {
-      "surface": "וָאֲדַבֵּר",
+      "surface": "ואדבר",
       "gloss": "ءُ گپ گشتیت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "گوں"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "قومءَ"
     },
     {
-      "surface": "בַּבֹּקֶר",
+      "surface": "בבקר",
       "gloss": "صحرئی روچءَ"
     },
     {
-      "surface": "וַתָּמָת",
+      "surface": "ותמת",
       "gloss": "ءُ مرت"
     },
     {
-      "surface": "אִשְׁתִּי",
+      "surface": "אשתי",
       "gloss": "ماں جنک"
     },
     {
-      "surface": "בָּעָרֶב",
+      "surface": "בערב",
       "gloss": "ماں شپءِ سرءَ"
     },
     {
-      "surface": "וָאַעַשׂ",
+      "surface": "ואעש",
       "gloss": "ءُ کت"
     },
     {
-      "surface": "בַּבֹּקֶר",
+      "surface": "בבקר",
       "gloss": "صحرئی روچءَ"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "گوش کہ چنڈ"
     },
     {
-      "surface": "צֻוֵּיתִי",
+      "surface": "צויתי",
       "gloss": "منءَ امر کتگ اِنت"
     }
-  ],
-  "timestamp": "2026-09-25T16:15:30.983700066Z",
-  "model": "glm-5.3"
+  ]
 }

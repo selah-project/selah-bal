@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 53,
-  "ref": "psalms 119:53",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:27:23.296111490Z",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "کوکاچیں غصہ یک من ءُ چم کت چہ رستئاں کہ تُراں توراءَ چھوڑ کتگ،",
   "tokens": [
     {
-      "surface": "זַלְעָפָה",
+      "surface": "זלעפה",
       "gloss": "کوکاچیں غصہ"
     },
     {
-      "surface": "אֲחַזַתְנִי",
+      "surface": "אחזתני",
       "gloss": "یک من ءُ چم کت"
     },
     {
-      "surface": "מֵרְשָׁעִים",
+      "surface": "מרשעים",
       "gloss": "چہ رستئاں"
     },
     {
-      "surface": "עֹזְבֵי",
+      "surface": "עזבי",
       "gloss": "چھوڑ کنوکئاں"
     },
     {
-      "surface": "תּוֹרָתֶךָ",
+      "surface": "תורתך",
       "gloss": "تُراں تورا"
     }
-  ],
-  "timestamp": "2026-09-25T20:27:23.296111490Z",
-  "model": "glm-5.3"
+  ]
 }

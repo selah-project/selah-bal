@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "1-kings 6:29",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:03:31.868391941Z",
+  "verse": 29,
+  "ref": "1-kings 6:29",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ ⟨את⟩ گadanءِ پوریں دیواراں چه چوک نقش کت — کنٹھیں نقشاں گوں کروبان، کھجوریں دار ءُ کھلیں گل، چه اندومیں ءُ چه برزگی.",
   "tokens": [
     {
-      "surface": "וְאֵת֩",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گadanءِ پوریں دیواراں"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "קִירֹות",
+      "surface": "קירות",
       "gloss": "دیواراں"
     },
     {
-      "surface": "הַבַּ֫יִת",
+      "surface": "הבית",
       "gloss": "گadanءِ"
     },
     {
-      "surface": "מֵסַ֣ב",
+      "surface": "מסב",
       "gloss": "چه چوک"
     },
     {
-      "surface": "קָלַ֗ע",
+      "surface": "קלע",
       "gloss": "نقش کت"
     },
     {
-      "surface": "פִּתּוּחֵי֙",
+      "surface": "פתוחי",
       "gloss": "کنٹھیں نقشاں"
     },
     {
-      "surface": "מִקְלְעֹות֙",
+      "surface": "מקלעות",
       "gloss": "نقش کتگیں کلاعاں"
     },
     {
-      "surface": "כְּרוּבִ֣ים",
+      "surface": "כרובים",
       "gloss": "کروبان"
     },
     {
-      "surface": "וְתִֽמֹרֹ֔ת",
+      "surface": "ותמרת",
       "gloss": "ءُ کھجوریں دار"
     },
     {
-      "surface": "וּפְטוּרֵ֖י",
+      "surface": "ופטורי",
       "gloss": "ءُ کھلیں"
     },
     {
-      "surface": "צִצִּ֑ים",
+      "surface": "צצים",
       "gloss": "گل"
     },
     {
-      "surface": "מִלִּפְנִ֖ים",
+      "surface": "מלפנים",
       "gloss": "چه اندومیں"
     },
     {
-      "surface": "וְלַחִיצֹֽון",
+      "surface": "ולחיצון",
       "gloss": "ءُ چه برزگی"
     }
-  ],
-  "timestamp": "2026-09-25T13:03:31.868391941Z",
-  "model": "glm-5.3"
+  ]
 }

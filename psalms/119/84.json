@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 84,
-  "ref": "psalms 119:84",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:28:08.758775491Z",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "چند اِنت زہگانیءِ روچاں؟ کہروچ تو کہ منی رؤشکارانی مِشکانءَ انصاف کنیں؟",
   "tokens": [
     {
-      "surface": "כָּמָ֥ה",
+      "surface": "כמה",
       "gloss": "چند"
     },
     {
-      "surface": "יְמֵֽי",
+      "surface": "ימי",
       "gloss": "روچاں"
     },
     {
-      "surface": "עַבְדֶּ֑ךָ",
+      "surface": "עבדך",
       "gloss": "زہگانیءِ"
     },
     {
-      "surface": "מָתַ֬י",
+      "surface": "מתי",
       "gloss": "کہروچ"
     },
     {
-      "surface": "תַּעֲשֶׂ֖ה",
+      "surface": "תעשה",
       "gloss": "کنیں"
     },
     {
-      "surface": "בְּרֹדְפַ֣י",
+      "surface": "ברדפי",
       "gloss": "رؤشکارانیءَ"
     },
     {
-      "surface": "מִשְׁפָּֽט",
+      "surface": "משפט",
       "gloss": "انصاف"
     }
-  ],
-  "timestamp": "2026-09-25T20:28:08.758775491Z",
-  "model": "glm-5.3"
+  ]
 }

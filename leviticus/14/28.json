@@ -1,109 +1,109 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "leviticus 14:28",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:18:16.525471089Z",
+  "verse": 28,
+  "ref": "leviticus 14:28",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ کاہن چہ زیت ئت کہ آییءِ کَپءَ اِنت، پاک بوتگءِ راستءِ گوشءِ سرءَ دہیت، ءُ آییءِ راستءِ دستءِ انشتءَ سرءَ، ءُ آییءِ راستءِ پاءِ انشتءَ سرءَ — اَشامءِ خونءِ جاگہءَ سرءَ۔",
   "tokens": [
     {
-      "surface": "וְנָתַ֨ן",
+      "surface": "ונתן",
       "gloss": "ءُ … دہیت"
     },
     {
-      "surface": "הַכֹּהֵ֜ן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַשֶּׁ֣מֶן",
+      "surface": "השמן",
       "gloss": "زیت ئت"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "כַּפּ֗וֹ",
+      "surface": "כפו",
       "gloss": "آییءِ کَپءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "תְּנ֞וּךְ",
+      "surface": "תנוך",
       "gloss": "سرءَ دہیت"
     },
     {
-      "surface": "אֹ֤זֶן",
+      "surface": "אזן",
       "gloss": "گوشءِ"
     },
     {
-      "surface": "הַמִּטַּהֵר֙",
+      "surface": "המטהר",
       "gloss": "پاک بوتگءِ"
     },
     {
-      "surface": "הַיְמָנִ֔ית",
+      "surface": "הימנית",
       "gloss": "راستءِ"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "בֹּ֤הֶן",
+      "surface": "בהן",
       "gloss": "انشتءَ"
     },
     {
-      "surface": "יָד֖וֹ",
+      "surface": "ידו",
       "gloss": "آییءِ دستءِ"
     },
     {
-      "surface": "הַיְמָנִ֔ית",
+      "surface": "הימנית",
       "gloss": "راستءِ"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ سرءَ"
     },
     {
-      "surface": "בֹּ֥הֶן",
+      "surface": "בהן",
       "gloss": "انشتءَ"
     },
     {
-      "surface": "רַגְל֖וֹ",
+      "surface": "רגלו",
       "gloss": "آییءِ پاءِ"
     },
     {
-      "surface": "הַיְמָנִ֑ית",
+      "surface": "הימנית",
       "gloss": "راستءِ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "מָק֣וֹם",
+      "surface": "מקום",
       "gloss": "جاگہءَ"
     },
     {
-      "surface": "דָּ֞ם",
+      "surface": "דם",
       "gloss": "خونءِ"
     },
     {
-      "surface": "הָאָשָֽׁם",
+      "surface": "האשם",
       "gloss": "اَشامءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:18:16.525471089Z",
-  "model": "glm-5.3"
+  ]
 }

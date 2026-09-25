@@ -1,25 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "nehemiah 11:33",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:37:00.934842592Z",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "حاضر، رامہ، گتّایم،",
   "tokens": [
     {
-      "surface": "חָצ֥וֹר",
+      "surface": "חצור",
       "gloss": "حاضر"
     },
     {
-      "surface": "רָמָ֖ה",
+      "surface": "רמה",
       "gloss": "رامہ"
     },
     {
-      "surface": "גִּתָּֽיִם",
+      "surface": "גתים",
       "gloss": "گتّایم"
     }
-  ],
-  "timestamp": "2026-09-25T19:37:00.934842592Z",
-  "model": "glm-5.3"
+  ]
 }

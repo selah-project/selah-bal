@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "joshua 18:19",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:43:22.509328737Z",
+  "verse": 19,
+  "ref": "joshua 18:19",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ سرحد بیت چگلاہءِ گدءِ کُوڈیءَ چڑھی ءُ سرحدءِ درآمدءِ جاگہ شوریں دریاءِ زبانءَ چڑھیءَ، یاردنءِ سرءَ گوں ءُ اے جنوبی سرحد اِنت۔",
   "tokens": [
     {
-      "surface": "וְעָבַ֨ר",
+      "surface": "ועבר",
       "gloss": "ءُ گوزریت"
     },
     {
-      "surface": "הַגְּב֜וּל",
+      "surface": "הגבול",
       "gloss": "سرحد"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "כֶּ֣תֶף",
+      "surface": "כתף",
       "gloss": "کُوڈیءِ لم"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گدءِ"
     },
     {
-      "surface": "חָגְלָה֮",
+      "surface": "חגלה",
       "gloss": "چگلاہ"
     },
     {
-      "surface": "צָפוֹנָה֒",
+      "surface": "צפונה",
       "gloss": "چڑھیءَ"
     },
     {
-      "surface": "וְהָיָה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "תּוֹצָאֹתָיו",
+      "surface": "תצאותיו",
       "gloss": "آییءِ درآمد"
     },
     {
-      "surface": "הַגְּב֗וּל",
+      "surface": "הגבול",
       "gloss": "سرحدءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "לְשׁוֹן֙",
+      "surface": "לשון",
       "gloss": "زبان"
     },
     {
-      "surface": "יָ֣ם",
+      "surface": "ים",
       "gloss": "دریا"
     },
     {
-      "surface": "הַמֶּ֨לַח",
+      "surface": "המלח",
       "gloss": "شوریں"
     },
     {
-      "surface": "צָפוֹנָ֔ה",
+      "surface": "צפונה",
       "gloss": "چڑھیءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "קְצֵ֥ה",
+      "surface": "קצה",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הַיַּרְדֵּ֖ן",
+      "surface": "הירדן",
       "gloss": "یاردنءِ"
     },
     {
-      "surface": "נֶֽגְבָּ֑ה",
+      "surface": "נגבה",
       "gloss": "جنوبی"
     },
     {
-      "surface": "זֶ֗ה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "גְּב֥וּל",
+      "surface": "גבול",
       "gloss": "سرحد"
     },
     {
-      "surface": "נֶֽגֶב",
+      "surface": "נגב",
       "gloss": "جنوبی"
     }
-  ],
-  "timestamp": "2026-09-25T18:43:22.509328737Z",
-  "model": "glm-5.3"
+  ]
 }

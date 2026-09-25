@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "proverbs 8:35",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:21:52.083596616Z",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "چہ آ کہ منی لبزیت، آ زندگی لبزیت ءُ چہ یاہوہءَ رضا فایبیت۔",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "چہ آ کہ"
     },
     {
-      "surface": "מֹצְאִי",
+      "surface": "מצאי",
       "gloss": "منی لبزیت"
     },
     {
@@ -35,7 +37,5 @@
       "surface": "מיהוה",
       "gloss": "چہ یاہوہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:21:52.083596616Z",
-  "model": "glm-5.3"
+  ]
 }

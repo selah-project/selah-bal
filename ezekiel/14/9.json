@@ -1,91 +1,91 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "ezekiel 14:9",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:10:09.191258001Z",
+  "verse": 9,
+  "ref": "ezekiel 14:9",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ پیغمبر، کہ فریو بوت ءُ یک گال گوَشت — من، یاہوہ، ⟨את⟩ آ پیغمبر فریو دیتگم، ءُ ⟨את⟩ وتی دست آییءِ سرا دراز کتگم، ءُ آییءَ چہ منی قوم اسرائیلءِ تہءَ ہلاک کتگم.",
   "tokens": [
     {
-      "surface": "וְהַנָּבִיא",
+      "surface": "והנביא",
       "gloss": "ءُ پیغمبر"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "יְפֻתֶּה",
+      "surface": "יפתה",
       "gloss": "فریو بوت"
     },
     {
-      "surface": "וְדִבֶּר",
+      "surface": "ודבר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "דָּבָר",
+      "surface": "דבר",
       "gloss": "یک گال"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "פִּתִּיתִי",
+      "surface": "פתיתי",
       "gloss": "فریو دیتگم"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آ پیغمبر"
     },
     {
-      "surface": "הַנָּבִיא",
+      "surface": "הנביא",
       "gloss": "آ پیغمبر"
     },
     {
-      "surface": "הַהוּא",
+      "surface": "ההוא",
       "gloss": "آ"
     },
     {
-      "surface": "וְנָטִיתִי",
+      "surface": "ונטיתי",
       "gloss": "ءُ دراز کتگم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی دست"
     },
     {
-      "surface": "יָדִי",
+      "surface": "ידי",
       "gloss": "وتی دست"
     },
     {
-      "surface": "עָלָיו",
+      "surface": "עליו",
       "gloss": "آییءِ سرا"
     },
     {
-      "surface": "וְהִשְׁמַדְתִּיו",
+      "surface": "והשמדתיו",
       "gloss": "ءُ آییءَ ہلاک کتگم"
     },
     {
-      "surface": "מִתּוֹךְ",
+      "surface": "מתוך",
       "gloss": "چہ تہءَ"
     },
     {
-      "surface": "עַמִּי",
+      "surface": "עמי",
       "gloss": "منی قوم"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     }
-  ],
-  "timestamp": "2026-09-25T16:10:09.191258001Z",
-  "model": "glm-5.3"
+  ]
 }

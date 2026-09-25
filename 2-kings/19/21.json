@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "2-kings 19:21",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:08:34.500619061Z",
+  "verse": 21,
+  "ref": "2-kings 19:21",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "اے اِنت ⟨اے⟩ گال کہ یاہوہ آییءِ بابتءَ گوَشت: تُہءَ حقارت کت ءُ تُہءَ ہنڈ اِشکت، زانگیں جنک، صیہونءِ جنک؛ تُہءِ پشتءَ سر شرابیت، یورشلمءِ جنک۔",
   "tokens": [
     {
-      "surface": "זֶ֣ה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "הַדָּבָ֔ר",
+      "surface": "הדבר",
       "gloss": "اے گال"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "דִּבֶּ֥ר",
+      "surface": "דבר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "עָלָ֑יו",
+      "surface": "עליו",
       "gloss": "آییءِ بابتءَ"
     },
     {
-      "surface": "בָּזָ֨ה",
+      "surface": "בזה",
       "gloss": "حقارت کت"
     },
     {
-      "surface": "לְךָ֜",
+      "surface": "לך",
       "gloss": "تُہءَ"
     },
     {
-      "surface": "לָעֲגָ֣ה",
+      "surface": "לעגה",
       "gloss": "ہنڈ اِشکت"
     },
     {
-      "surface": "לְךָ֗",
+      "surface": "לך",
       "gloss": "تُہءَ"
     },
     {
-      "surface": "בְּתוּלַ֙ת֙",
+      "surface": "בתולת",
       "gloss": "زانگیں جنک"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنکءِ"
     },
     {
-      "surface": "צִיּ֔וֹן",
+      "surface": "ציון",
       "gloss": "صیہون"
     },
     {
-      "surface": "אַחֲרֶ֨יךָ֙",
+      "surface": "אחריך",
       "gloss": "تُہءِ پشتءَ"
     },
     {
-      "surface": "רֹ֣אשׁ",
+      "surface": "ראש",
       "gloss": "سر"
     },
     {
-      "surface": "הֵנִ֔יעָה",
+      "surface": "הניעה",
       "gloss": "شرابیت"
     },
     {
-      "surface": "בַּ֖ת",
+      "surface": "בת",
       "gloss": "جنکءِ"
     },
     {
-      "surface": "יְרוּשָׁלִָֽם",
+      "surface": "ירושלם",
       "gloss": "یورشلم"
     }
-  ],
-  "timestamp": "2026-09-25T14:08:34.500619061Z",
-  "model": "glm-5.3"
+  ]
 }

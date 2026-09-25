@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "ezekiel 3:14",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:19:47.123319113Z",
+  "verse": 14,
+  "ref": "ezekiel 3:14",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ روح منیءَ اُچی کت ءُ منیءَ گرپت، ءُ من چندیں گوں وتی روحءِ جلشءَ روتگ ءُ یاہوہءِ دست منیءِ سرءَ گران اَت۔",
   "tokens": [
     {
-      "surface": "וְרוּחַ",
+      "surface": "ורוח",
       "gloss": "ءُ روح"
     },
     {
-      "surface": "نְשָׂאַתְנִי",
+      "surface": "נשאתני",
       "gloss": "منیءَ اُچی کت"
     },
     {
-      "surface": "וַתִּקָּחֵנִי",
+      "surface": "ותקחני",
       "gloss": "ءُ منیءَ گرپت"
     },
     {
-      "surface": "וָאֵלֵךְ",
+      "surface": "ואלך",
       "gloss": "ءُ من روتگ"
     },
     {
-      "surface": "מַר",
+      "surface": "מר",
       "gloss": "چندیں"
     },
     {
-      "surface": "בַּחֲמַת",
+      "surface": "בחמת",
       "gloss": "گوں … ءِ جلشءَ"
     },
     {
-      "surface": "רוּחִי",
+      "surface": "רוחי",
       "gloss": "وتی روح"
     },
     {
-      "surface": "וְיַד",
+      "surface": "ויד",
       "gloss": "ءُ … ءِ دست"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "עָלַי",
+      "surface": "עלי",
       "gloss": "منیءِ سرءَ"
     },
     {
-      "surface": "חֲזָקָה",
+      "surface": "חזקה",
       "gloss": "گران"
     }
-  ],
-  "timestamp": "2026-09-25T16:19:47.123319113Z",
-  "model": "glm-5.3"
+  ]
 }

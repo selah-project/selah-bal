@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "1-chronicles 26:22",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:40:56.864827777Z",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "زہگانی یحیییلی: زیتام ءُ یوایل، آییءِ برات، گنجانی گدانءِ یاہوہءِ سرپد اَنت ⟨ہستنت⟩۔",
   "tokens": [
@@ -32,7 +34,7 @@
       "gloss": "سرپد"
     },
     {
-      "surface": "אוצרות",
+      "surface": "אצרות",
       "gloss": "گنجانی"
     },
     {
@@ -43,7 +45,5 @@
       "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T12:40:56.864827777Z",
-  "model": "glm-5.3"
+  ]
 }

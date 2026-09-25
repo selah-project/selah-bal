@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "joshua 24:5",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:13:04.265091577Z",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ءُ من موشہ ⟨את⟩ ءُ ⟨את⟩ اہارون دَر کت، ءُ مِتسرایمءَ ⟨את⟩ مار کت، چوش کہ من آییءِ ماں کت، ءُ رندءَ من شما ⟨את⟩ دراوردنت۔",
   "tokens": [
     {
-      "surface": "וָאֶשְׁלַ֞ח",
+      "surface": "ואשלח",
       "gloss": "ءُ من دَر کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "موشہ"
     },
     {
-      "surface": "מֹשֶׁ֤ה",
+      "surface": "משה",
       "gloss": "موشہ"
     },
     {
-      "surface": "וְאֶֽת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "اہارون"
     },
     {
-      "surface": "אַהֲרֹן֙",
+      "surface": "אהרן",
       "gloss": "اہارون"
     },
     {
-      "surface": "וָאֶגֹּ֣ף",
+      "surface": "ואגף",
       "gloss": "ءُ مار کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِتسرایم"
     },
     {
-      "surface": "מִצְרַ֔יִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایم"
     },
     {
-      "surface": "כַּאֲשֶׁ֥ר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "עָשִׂ֖יתִי",
+      "surface": "עשיתי",
       "gloss": "من کت"
     },
     {
-      "surface": "בְּקִרְבּ֑וֹ",
+      "surface": "בקרבו",
       "gloss": "آییءِ ماں"
     },
     {
-      "surface": "וְאַחַ֖ר",
+      "surface": "ואחר",
       "gloss": "ءُ رندءَ"
     },
     {
-      "surface": "הוֹצֵ֥אתִי",
+      "surface": "הוצאתי",
       "gloss": "من دراوردنت"
     },
     {
-      "surface": "אֶתְכֶֽם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شماءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:13:04.265091577Z",
-  "model": "glm-5.3"
+  ]
 }

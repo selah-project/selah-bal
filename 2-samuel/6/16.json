@@ -1,106 +1,106 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "2-samuel 6:16",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:41:46.900865400Z",
+  "verse": 16,
+  "ref": "2-samuel 6:16",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ اَت گوں کہ یاہوہءِ صندوق داودءِ شہرءَ آت، میکال شاؤلءِ جنک چہ کھڑکیءَ تہ گندیت ءُ ⟨את⟩ ملک داودءَ گندیت کہ یاہوہءِ پیشءَ کپیت ءُ نچیت، ءُ آییءَ وتءِ دلءَ حقارت کت۔",
   "tokens": [
     {
-      "surface": "וְהָיָה֙",
+      "surface": "והיה",
       "gloss": "ءُ اَت گوں کہ"
     },
     {
-      "surface": "אֲר֣וֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "בָּ֖א",
+      "surface": "בא",
       "gloss": "آت"
     },
     {
-      "surface": "עִ֣יר",
+      "surface": "עיר",
       "gloss": "شہرءَ"
     },
     {
-      "surface": "דָּוִ֑ד",
+      "surface": "דוד",
       "gloss": "داودءِ"
     },
     {
-      "surface": "וּמִיכַ֨ל",
+      "surface": "ומיכל",
       "gloss": "ءُ میکال"
     },
     {
-      "surface": "בַּ֥ת",
+      "surface": "בת",
       "gloss": "جنک"
     },
     {
-      "surface": "שָׁאׁ֜וּל",
+      "surface": "שאול",
       "gloss": "شاؤلءِ"
     },
     {
-      "surface": "נִשְׁקְפָ֣ה",
+      "surface": "נשקפה",
       "gloss": "گندیت ءُ کھڑکیءَ تہ ⟨چہ⟩"
     },
     {
-      "surface": "בְּעַ֣ד",
+      "surface": "בעד",
       "gloss": "چہ کھڑکیءَ تہ"
     },
     {
-      "surface": "הַחַלּ֗וֹן",
+      "surface": "החלון",
       "gloss": "کھڑکیءَ"
     },
     {
-      "surface": "וַתֵּ֨רֶא",
+      "surface": "ותרא",
       "gloss": "ءُ ⟨گندیت⟩ آییءَ گندیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ملک داودءَ"
     },
     {
-      "surface": "הַמֶּּ֤לֶךְ",
+      "surface": "המלך",
       "gloss": "ملک"
     },
     {
-      "surface": "דָּוִד֙",
+      "surface": "דוד",
       "gloss": "داودءَ"
     },
     {
-      "surface": "מְפַזֵּּ֤ז",
+      "surface": "מפזז",
       "gloss": "کپیت"
     },
     {
-      "surface": "וּמְכַרְכֵּ֤ר֙",
+      "surface": "ומכרכר",
       "gloss": "ءُ نچیت"
     },
     {
-      "surface": "לִפְנֵּ֤י",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "יְהוָָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "וַתִּּ֥בֶז",
+      "surface": "ותבז",
       "gloss": "ءُ حقارت کت"
     },
     {
-      "surface": "ל֥וֹ",
+      "surface": "לו",
       "gloss": "آییءَ وتءَ"
     },
     {
-      "surface": "בְּלִבָּּֽהּ",
+      "surface": "בלבה",
       "gloss": "دلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:41:46.900865400Z",
-  "model": "glm-5.3"
+  ]
 }

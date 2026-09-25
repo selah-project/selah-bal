@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "jeremiah 49:34",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:12:50.877908925Z",
+  "verse": 34,
+  "ref": "jeremiah 49:34",
+  "tier": "glm-5.2",
   "chapter": 49,
   "translation": "آ کہ یاہوہءِ گال یِرمِیاہوءَ، پیغمبرءَ، عِیلامءِ بابتءَ آتگ، چوں بنگیجءَ سئے کہ صِدقیاہ، یہوداہءِ شاہ، شاہی کت، آءُ گوَشت:",
   "tokens": [
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "הָיָ֧ה",
+      "surface": "היה",
       "gloss": "اَت"
     },
     {
-      "surface": "דְּבַ֛ר",
+      "surface": "דבר",
       "gloss": "گال"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֶ֥ל",
+      "surface": "אל",
       "gloss": "ءَ …ءَ گوَنت"
     },
     {
-      "surface": "יִרְמְיָ֥הוּ",
+      "surface": "ירמיהו",
       "gloss": "یِرمِیاہوءَ"
     },
     {
-      "surface": "הַנָּבִ֖יא",
+      "surface": "הנביא",
       "gloss": "پیغمبرءَ"
     },
     {
-      "surface": "אֶ֨ל",
+      "surface": "אל",
       "gloss": "ءَ …ءِ بابتءَ"
     },
     {
-      "surface": "עֵילָ֑ם",
+      "surface": "עילם",
       "gloss": "عِیلامءِ"
     },
     {
-      "surface": "בְּרֵאשִׁ֗ית",
+      "surface": "בראשית",
       "gloss": "چوں بنگیجءَ"
     },
     {
-      "surface": "מַלְכ֛וּת",
+      "surface": "מלכות",
       "gloss": "شاہیءِ"
     },
     {
-      "surface": "צִדְקִיָּ֥ה",
+      "surface": "צדקיה",
       "gloss": "سئے کہ صِدقیاہ"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "יְהוּדָ֖ה",
+      "surface": "יהודה",
       "gloss": "یہوداہءِ"
     },
     {
-      "surface": "לֵאמֹֽר",
+      "surface": "לאמר",
       "gloss": "گوَشت"
     }
-  ],
-  "timestamp": "2026-09-25T18:12:50.877908925Z",
-  "model": "glm-5.3"
+  ]
 }

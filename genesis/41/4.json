@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "genesis 41:4",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:56:51.258144031Z",
+  "verse": 4,
+  "ref": "genesis 41:4",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "ءُ گندنگں دیمءِ مالِن ماہیں گوشتءَ ⟨את⟩ ہپت گندنگں دیمءِ ءُ چرب مالِن چاک کت ءُ پیراؤ جاگ بیت.",
   "tokens": [
     {
-      "surface": "וְדַקֹּת",
+      "surface": "ותאכלנה",
       "gloss": ""
     },
     {
-      "surface": "הַבָּשָׂר",
+      "surface": "הפרות",
       "gloss": ""
     },
     {
-      "surface": "וְדַקֹּת הַבָּשָׂר",
+      "surface": "רעות",
       "gloss": ""
     },
     {
-      "surface": "וְדַקֹּת הַבָּשָׂר",
+      "surface": "המראה",
       "gloss": ""
     },
     {
-      "surface": "",
+      "surface": "ודקת",
       "gloss": ""
     },
     {
-      "surface": "",
+      "surface": "הבשר",
       "gloss": ""
     },
     {
-      "surface": "",
+      "surface": "את",
       "gloss": "⟨את⟩"
     },
     {
-      "surface": "",
+      "surface": "שבע",
       "gloss": ""
     },
     {
-      "surface": "",
+      "surface": "הפרות",
       "gloss": ""
     },
     {
-      "surface": "",
+      "surface": "יפת",
       "gloss": ""
     },
     {
-      "surface": "",
+      "surface": "המראה",
       "gloss": ""
     },
     {
-      "surface": "",
+      "surface": "והבריאת",
       "gloss": ""
     },
     {
-      "surface": "",
+      "surface": "וייקץ",
       "gloss": ""
     },
     {
-      "surface": "",
+      "surface": "פרעה",
       "gloss": ""
     }
-  ],
-  "timestamp": "2026-09-25T16:56:51.258144031Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,90 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "joshua 15:13",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:41:04.222426053Z",
+  "verse": 13,
+  "ref": "joshua 15:13",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ کالبءَ یفنہءِ زہگءَ حصہ دات، یہوداہءِ زہگانی میانءَ، گوں یاہوہءِ گالءِ یہوشوعءِ پہ ⟨את⟩ قریات اربع، عناقءِ پیءِ — آ ہبرون اِنت.",
   "tokens": [
     {
-      "surface": "וּלְכָלֵ֣ב",
+      "surface": "ולכלב",
       "gloss": "ءُ کالبءَ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "יְפֻנֶּ֗ה",
+      "surface": "יפנה",
       "gloss": "یفنہءِ"
     },
     {
-      "surface": "נָ֤תַן",
+      "surface": "נתן",
       "gloss": "دات"
     },
     {
-      "surface": "חֵ֨לֶק֙",
+      "surface": "חלק",
       "gloss": "حصہ"
     },
     {
-      "surface": "בְּת֣וֹךְ",
+      "surface": "בתוך",
       "gloss": "میانءَ"
     },
     {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "יְהוּדָ֔ה",
+      "surface": "יהודה",
       "gloss": "یہوداہءِ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "گوں"
     },
     {
-      "surface": "פִּ֥י",
+      "surface": "פי",
       "gloss": "گالءِ"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "לִֽיהוֹשֻׁ֑עַ",
+      "surface": "ליהושע",
       "gloss": "یہوشوعءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "قریات اربع"
     },
     {
-      "surface": "קִרְיַ֥ת",
+      "surface": "קרית",
       "gloss": "قریات"
     },
     {
-      "surface": "אַרְבַּ֛ע",
+      "surface": "ארבע",
       "gloss": "اربع"
     },
     {
-      "surface": "אֲבִ֥י",
+      "surface": "אבי",
       "gloss": "پیءِ"
     },
     {
-      "surface": "הָעֲנָ֖ק",
+      "surface": "הענק",
       "gloss": "عناقءِ"
     },
     {
-      "surface": "הִ֥יא",
+      "surface": "היא",
       "gloss": "آ"
     },
     {
-      "surface": "חֶבְרֽוֹן",
+      "surface": "חברון",
       "gloss": "ہبرون"
     }
-  ],
-  "timestamp": "2026-09-25T18:41:04.222426053Z",
-  "model": "glm-5.3"
+  ]
 }

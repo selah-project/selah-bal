@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 56,
-  "ref": "numbers 26:56",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:56:03.097940111Z",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "tier": "glm-5.2",
   "chapter": 26,
   "translation": "چہ گورالءِ گالءَ آییءِ میراث بئش کنت، گیشتر ءُ کمدترءِ درمیان۔",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "چہ"
     },
     {
-      "surface": "פִּי",
+      "surface": "פי",
       "gloss": "گالءَ"
     },
     {
-      "surface": "הַגּוֹרָל",
+      "surface": "הגורל",
       "gloss": "گورالءِ"
     },
     {
-      "surface": "תֵּחָלֵק",
+      "surface": "תחלק",
       "gloss": "بئش کنت"
     },
     {
-      "surface": "נַחֲלָתוֹ",
+      "surface": "נחלתו",
       "gloss": "آییءِ میراث"
     },
     {
-      "surface": "בֵּין",
+      "surface": "בין",
       "gloss": "درمیان"
     },
     {
-      "surface": "רַב",
+      "surface": "רב",
       "gloss": "گیشتر"
     },
     {
-      "surface": "לִמְעָט",
+      "surface": "למעט",
       "gloss": "ءُ کمدترءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:56:03.097940111Z",
-  "model": "glm-5.3"
+  ]
 }

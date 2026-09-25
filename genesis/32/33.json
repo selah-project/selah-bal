@@ -1,26 +1,28 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "genesis 32:33",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:50:30.176299782Z",
+  "verse": 33,
+  "ref": "genesis 32:33",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "اِشاں پہ اسرائیلءِ زہگان ⟨את⟩ چمُشتگیں رگءِ چم نہ گوشنت کہ رانءِ کچءَ اِنت، تاں اے روچ، چوکہ یعقوبءِ رانءِ کچءَ چمُشتگیں رگءَ دستی رتگ اَت۔",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "اِشاں"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יֹאכלו",
+      "surface": "יאכלו",
       "gloss": "نہ گوشنت"
     },
     {
@@ -100,7 +102,5 @@
       "surface": "הנשה",
       "gloss": "چمُشتگیں"
     }
-  ],
-  "timestamp": "2026-09-25T16:50:30.176299782Z",
-  "model": "glm-5.3"
+  ]
 }

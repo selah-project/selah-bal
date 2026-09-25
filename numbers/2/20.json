@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "numbers 2:20",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:49:18.942100925Z",
+  "verse": 20,
+  "ref": "numbers 2:20",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ آییءِ نزدءَ منشہءِ ٹولی، ءُ منشہءِ زہگانی سردار گملییل زہگ پداہصور اِنت.",
   "tokens": [
     {
-      "surface": "וְעָלָ֖יו",
+      "surface": "ועליו",
       "gloss": "ءُ آییءِ نزدءَ"
     },
     {
-      "surface": "מַטֵּ֣ה",
+      "surface": "מטה",
       "gloss": "ٹولی"
     },
     {
-      "surface": "מְנַשֶּׁ֑ה",
+      "surface": "מנשה",
       "gloss": "منشہ"
     },
     {
-      "surface": "וְנָשִׂיא֙",
+      "surface": "ונשיא",
       "gloss": "ءُ سردار"
     },
     {
-      "surface": "לִבְנֵ֣י",
+      "surface": "לבני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "מְנַשֶּׁ֔ה",
+      "surface": "מנשה",
       "gloss": "منشہ"
     },
     {
-      "surface": "גַּמְלִיאֵ֖ל",
+      "surface": "גמליאל",
       "gloss": "گملییل"
     },
     {
-      "surface": "בֵּ֥ן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "פְּדָהצֽוּר",
+      "surface": "פדהצור",
       "gloss": "پداہصور"
     }
-  ],
-  "timestamp": "2026-09-25T19:49:18.942100925Z",
-  "model": "glm-5.3"
+  ]
 }

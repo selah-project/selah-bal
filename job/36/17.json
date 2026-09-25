@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "job 36:17",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:28:58.577252165Z",
+  "verse": 17,
+  "ref": "job 36:17",
+  "tier": "glm-5.2",
   "chapter": 36,
   "translation": "ءُ بدکارءِ دات تہ چُک اِنت — دات ءُ انصاف تہءَ گپیتگنت۔",
   "tokens": [
@@ -20,18 +22,16 @@
       "gloss": "تہ چُک اِنت"
     },
     {
-      "surface": "دין",
+      "surface": "דין",
       "gloss": "دات"
     },
     {
-      "surface": "وמשפט",
+      "surface": "ומשפט",
       "gloss": "ءُ انصاف"
     },
     {
       "surface": "יתמכו",
       "gloss": "تہءَ گپیتگنت"
     }
-  ],
-  "timestamp": "2026-09-25T18:28:58.577252165Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,98 +1,98 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "numbers 34:2",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:01:07.621184379Z",
+  "verse": 2,
+  "ref": "numbers 34:2",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "اسرائیلءِ زہگانءَ ⟨את⟩ حکم کن ءُ آءَ مگ گوَشت کہ اےءِ شُمءَ کنعانءِ زمینءَ تہ روتءَ اِنت — آے ⟨اِنت⟩ زمین کہ شُمءَ پہ میراثءَ اپیت، کنعانءِ زمین، آییءِ سرحدانءَ گوں",
   "tokens": [
     {
-      "surface": "צַ֞ו",
+      "surface": "צו",
       "gloss": "حکم کن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اسرائیلءِ زہگان"
     },
     {
-      "surface": "בְּנֵ֤י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "וְאָמַרְתָּ֣",
+      "surface": "ואמרת",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "אֲלֵהֶ֔ם",
+      "surface": "אלהם",
       "gloss": "آءَ مگ"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "אַתֶּ֥ם",
+      "surface": "אתם",
       "gloss": "شُم"
     },
     {
-      "surface": "בָּאִ֖ים",
+      "surface": "באים",
       "gloss": "روتءَ اِنت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "הָאָ֣רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "כְּנָ֑עַן",
+      "surface": "כנען",
       "gloss": "کنعان"
     },
     {
-      "surface": "זֹ֣את",
+      "surface": "זאת",
       "gloss": "آے"
     },
     {
-      "surface": "הָאָ֗רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "תִּפֹּ֤ל",
+      "surface": "תפל",
       "gloss": "اپیت"
     },
     {
-      "surface": "לָכֶם֙",
+      "surface": "לכם",
       "gloss": "شُمءَ پہ"
     },
     {
-      "surface": "בְּנַחֲלָ֔ה",
+      "surface": "בנחלה",
       "gloss": "میراثءَ"
     },
     {
-      "surface": "אֶ֥רֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "כְּנַ֖עַן",
+      "surface": "כנען",
       "gloss": "کنعان"
     },
     {
-      "surface": "לִגְבֻלֹתֶֽיהָ",
+      "surface": "לגבלתיה",
       "gloss": "آییءِ سرحدانءَ گوں"
     }
-  ],
-  "timestamp": "2026-09-25T20:01:07.621184379Z",
-  "model": "glm-5.3"
+  ]
 }

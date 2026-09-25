@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "isaiah 44:10",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:25:23.491076951Z",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "tier": "glm-5.2",
   "chapter": 44,
   "translation": "کہ یک ہدا گڑی کت ءُ یک نقش ریز کت، پہ اے کہ سود نہ کنت؟",
   "tokens": [
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کہ"
     },
     {
-      "surface": "יָצַ֥ר",
+      "surface": "יצר",
       "gloss": "گڑی کت"
     },
     {
-      "surface": "אֵ֖ל",
+      "surface": "אל",
       "gloss": "یک ہدا"
     },
     {
-      "surface": "וּפֶ֣סֶל",
+      "surface": "ופסל",
       "gloss": "ءُ نقش"
     },
     {
-      "surface": "נָסָ֑ךְ",
+      "surface": "נסך",
       "gloss": "ریز کت"
     },
     {
-      "surface": "לְבִלְתִּ֖י",
+      "surface": "לבלתי",
       "gloss": "پہ اے کہ نہ"
     },
     {
-      "surface": "הוֹעִֽיל",
+      "surface": "הועיל",
       "gloss": "سود کنت"
     }
-  ],
-  "timestamp": "2026-09-25T17:25:23.491076951Z",
-  "model": "glm-5.3"
+  ]
 }

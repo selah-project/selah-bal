@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "numbers 5:17",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:06:33.507151552Z",
+  "verse": 17,
+  "ref": "numbers 5:17",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ کاہن پاک آپ یک مٹییں گدانءَ گپت، ءُ چہ آ خاکءَ آ کہ مِشکانءِ زمینءَ بیت، کاہن آ گپیت ءُ آییءَ آ آپءَ تہ دات",
   "tokens": [
     {
-      "surface": "וְלָקַח",
+      "surface": "ולקח",
       "gloss": "ءُ گپت"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "מַיִם",
+      "surface": "מים",
       "gloss": "آپ"
     },
     {
-      "surface": "קְדֹשִׁים",
+      "surface": "קדשים",
       "gloss": "پاک"
     },
     {
-      "surface": "בִּכְלִי",
+      "surface": "בכלי",
       "gloss": "گدانءَ"
     },
     {
-      "surface": "חָרֶשׂ",
+      "surface": "חרש",
       "gloss": "مٹییں"
     },
     {
-      "surface": "וּמִן",
+      "surface": "ומן",
       "gloss": "ءُ چہ"
     },
     {
-      "surface": "הֶעָפָר",
+      "surface": "העפר",
       "gloss": "آ خاک"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "בְּקַרְקַע",
+      "surface": "בקרקע",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "הַמִּשְׁכָּן",
+      "surface": "המשכן",
       "gloss": "مِشکانءِ"
     },
     {
-      "surface": "יִקַּח",
+      "surface": "יקח",
       "gloss": "گپیت"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "וְנָתַן",
+      "surface": "ונתן",
       "gloss": "ءُ دات"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "הַמָּיִם",
+      "surface": "המים",
       "gloss": "آ آپءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:06:33.507151552Z",
-  "model": "glm-5.3"
+  ]
 }

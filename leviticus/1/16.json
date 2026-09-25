@@ -1,63 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "leviticus 1:16",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:16:50.504148369Z",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "ءُ آییءِ کِروڑ ⟨את⟩ گوں آییءِ گندگیءَ دور کت، ءُ ⟨את⟩ آییءَ قربانگاہءِ نزدیکی روچءِ دیمءَ پہ راکءِ جاگہءَ پرت کت۔",
   "tokens": [
     {
-      "surface": "וְהֵסִיר",
+      "surface": "והסיר",
       "gloss": "ءُ دور کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ کِروڑ"
     },
     {
-      "surface": "מֻרְאָתוֹ",
+      "surface": "מראתו",
       "gloss": "آییءِ کِروڑ"
     },
     {
-      "surface": "בְּנֹצָתָהּ",
+      "surface": "בנצתה",
       "gloss": "گوں آییءِ گندگیءَ"
     },
     {
-      "surface": "וְהִשְׁלִיךְ",
+      "surface": "והשליך",
       "gloss": "ءُ پرت کت"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ"
     },
     {
-      "surface": "אֵצֶל",
+      "surface": "אצל",
       "gloss": "نزدیکی"
     },
     {
-      "surface": "הַמִּזְבֵּחַ",
+      "surface": "המזבח",
       "gloss": "قربانگاہءِ"
     },
     {
-      "surface": "קֵדְמָה",
+      "surface": "קדמה",
       "gloss": "روچءِ دیمءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "מָקוֹם",
+      "surface": "מקום",
       "gloss": "جاگہءَ"
     },
     {
-      "surface": "הַדֶּשֶׁן",
+      "surface": "הדשן",
       "gloss": "راکءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:16:50.504148369Z",
-  "model": "glm-5.3"
+  ]
 }

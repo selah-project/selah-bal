@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "habakkuk 3:8",
   "book": "habakkuk",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:07:04.957985648Z",
+  "verse": 8,
+  "ref": "habakkuk 3:8",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "کیا یاہوہ روڑانی سرءَ زاں بوت؟ آیا تُوءِ تری روڑانی سرءَ اِنت، آیا تُوءِ غضب سمندر ءَ اِنت، کیں کہ تو تُوءِ گوڑانی سرءَ سوار بیتی، تُوءِ رتھان نجاتءِ اِنت؟",
   "tokens": [
     {
-      "surface": "הֲבִנְהָרִים",
+      "surface": "הבנהרים",
       "gloss": "کیا روڑانی سرءَ"
     },
     {
-      "surface": "חָרָה",
+      "surface": "חרה",
       "gloss": "زاں بوت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "آیا"
     },
     {
-      "surface": "בַּנְּהָרִים",
+      "surface": "בנהרים",
       "gloss": "روڑانی سرءَ"
     },
     {
-      "surface": "אַפֶּךָ",
+      "surface": "אפך",
       "gloss": "تُوءِ تری"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "آیا"
     },
     {
-      "surface": "בַּיָּם",
+      "surface": "בים",
       "gloss": "سمندر ءَ"
     },
     {
-      "surface": "עֶבְרָתֶךָ",
+      "surface": "עברתך",
       "gloss": "تُوءِ غضب"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کیں کہ"
     },
     {
-      "surface": "תִּרְכַּב",
+      "surface": "תרכב",
       "gloss": "سوار بیتی"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "סוּסֶיךָ",
+      "surface": "סוסיך",
       "gloss": "تُوءِ گوڑانی"
     },
     {
-      "surface": "מַרְכְּבֹתֶיךָ",
+      "surface": "מרכבתיך",
       "gloss": "تُوءِ رتھان"
     },
     {
-      "surface": "יְשׁוּעָה",
+      "surface": "ישועה",
       "gloss": "نجات"
     }
-  ],
-  "timestamp": "2026-09-25T17:07:04.957985648Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "deuteronomy 30:12",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:25:54.089184785Z",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "آ تہ آسمانانی تہ نیست، کہ آییءَ ڈن گوَشت، کہ چے کس آسمانءَ ماں پہ ما چڑیت ءُ آ ماں پہ ما گرنت ءُ آ ماں ما گوشنت ⟨את⟩ ءُ ما آییءَ کنیں؟",
   "tokens": [
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "בַּשָּׁמַיִם",
+      "surface": "בשמים",
       "gloss": "آسمانانی تہ"
     },
     {
-      "surface": "הִוא",
+      "surface": "הוא",
       "gloss": "آ (اِنت)"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "کہ آییءَ ڈن گوَشت"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "چے کس"
     },
     {
-      "surface": "יַעֲלֶה",
+      "surface": "יעלה",
       "gloss": "چڑیت"
     },
     {
-      "surface": "לָּנוּ",
+      "surface": "לנו",
       "gloss": "پہ ما"
     },
     {
-      "surface": "הַשָּׁמַיְמָה",
+      "surface": "השמימה",
       "gloss": "آسمانءَ ماں"
     },
     {
-      "surface": "וְיִקָּחֶהָ",
+      "surface": "ויקחה",
       "gloss": "ءُ آ (گرنت)"
     },
     {
-      "surface": "לָּנוּ",
+      "surface": "לנו",
       "gloss": "پہ ما"
     },
     {
-      "surface": "וְיַשְׁמִעֵנוּ",
+      "surface": "וישמענו",
       "gloss": "ءُ آ ماں گوشنت"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩",
       "marks": "آ (حکمءِ لبز) — نشان ונעשנהءِ آییءَ ڈن"
     },
     {
-      "surface": "וְנַעֲשֶׂנָּה",
+      "surface": "ונעשנה",
       "gloss": "ءُ ما آییءَ کنیں"
     }
-  ],
-  "timestamp": "2026-09-25T15:25:54.089184785Z",
-  "model": "glm-5.3"
+  ]
 }

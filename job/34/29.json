@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "job 34:29",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:29:20.673970496Z",
+  "verse": 29,
+  "ref": "job 34:29",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "ءُ آ خاموش بیت، ءُ کے آییءَ رُشی کنت؟ ءُ آ روپزار پوشیت، ءُ کے آییءَ گندیت؟ ہمے چوں آ قومءَ تہ ءُ آ انسانءَ تہ،",
   "tokens": [
     {
-      "surface": "וְהוּא",
+      "surface": "והוא",
       "gloss": "ءُ آ"
     },
     {
-      "surface": "יַשְׁקִיט",
+      "surface": "ישקט",
       "gloss": "خاموش بیت"
     },
     {
-      "surface": "וּמִי",
+      "surface": "ומי",
       "gloss": "ءُ کے"
     },
     {
-      "surface": "יַרְשִׁיעַ",
+      "surface": "ירשע",
       "gloss": "آییءَ رُشی کنت"
     },
     {
-      "surface": "וְיַסְתֵּר",
+      "surface": "ויסתר",
       "gloss": "ءُ پوشیت"
     },
     {
-      "surface": "פָּנִים",
+      "surface": "פנים",
       "gloss": "روپزار"
     },
     {
-      "surface": "וּמִי",
+      "surface": "ומי",
       "gloss": "ءُ کے"
     },
     {
-      "surface": "יְשׁוּרֶנּוּ",
+      "surface": "ישורנו",
       "gloss": "آییءَ گندیت"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ تہ"
     },
     {
-      "surface": "גּוֹי",
+      "surface": "גוי",
       "gloss": "قوم"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ تہ"
     },
     {
-      "surface": "אָדָם",
+      "surface": "אדם",
       "gloss": "انسان"
     },
     {
-      "surface": "יָחַד",
+      "surface": "יחד",
       "gloss": "ہمے چوں"
     }
-  ],
-  "timestamp": "2026-09-25T18:29:20.673970496Z",
-  "model": "glm-5.3"
+  ]
 }

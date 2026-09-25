@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
-  "ref": "1-kings 6:36",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:03:11.730219101Z",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ ⟨את⟩ اندرمانی دربار سئے رجانی تراشگین سنگ ءُ یک رج تراشگین ارزءِ دارانءَ جوڑ کت",
   "tokens": [
     {
-      "surface": "וַיִּ֨בֶן֙",
+      "surface": "ויבן",
       "gloss": "ءُ جوڑ کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اندرمانی دربار"
     },
     {
-      "surface": "הֶחָצֵ֣ר",
+      "surface": "החצר",
       "gloss": "دربار"
     },
     {
-      "surface": "הַפְּנִימִ֔ית",
+      "surface": "הפנימית",
       "gloss": "اندرمانی"
     },
     {
-      "surface": "שְׁלֹשָׁ֖ה",
+      "surface": "שלשה",
       "gloss": "سئے"
     },
     {
-      "surface": "טוּרֵ֣י",
+      "surface": "טורי",
       "gloss": "رجانی"
     },
     {
-      "surface": "גָּזִ֑ית",
+      "surface": "גזית",
       "gloss": "تراشگین سنگ"
     },
     {
-      "surface": "וְט֖וּר",
+      "surface": "וטור",
       "gloss": "ءُ یک رج"
     },
     {
-      "surface": "כְּרֻתֹ֥ת",
+      "surface": "כרתת",
       "gloss": "تراشگین"
     },
     {
-      "surface": "אֲרָזִֽים",
+      "surface": "ארזים",
       "gloss": "ارزءِ داران"
     }
-  ],
-  "timestamp": "2026-09-25T13:03:11.730219101Z",
-  "model": "glm-5.3"
+  ]
 }

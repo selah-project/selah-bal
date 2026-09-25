@@ -1,137 +1,137 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "daniel 2:35",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:52:37.808179375Z",
+  "verse": 35,
+  "ref": "daniel 2:35",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "اِدیں ءُ رند آہن، گَر، کانچوک، رنگ ءُ زر همی رج سرا کتنت، ءُ چوش گوَڑ چہ کُہانی ہوستروچیءِ بنت؛ باد آیانءَ پُرت، ءُ آیانی پہ ہچ جاگہ نہ لبیت؛ ءُ سنگ کہ شکلءَ زت، یک گشتیں کُہ بیت ءُ پوریں زمینءَ پر کت.",
   "tokens": [
     {
-      "surface": "בֵּאדַ֣יִן",
+      "surface": "באדין",
       "gloss": "اِدیں ءُ رند"
     },
     {
-      "surface": "דָּ֣קוּ",
+      "surface": "דקו",
       "gloss": "سرا کتنت"
     },
     {
-      "surface": "כַחֲדָ֡ה",
+      "surface": "כחדה",
       "gloss": "همی رج"
     },
     {
-      "surface": "פַּרְזְלָא֩",
+      "surface": "פרזלא",
       "gloss": "آہن"
     },
     {
-      "surface": "חַסְפָּ֨א",
+      "surface": "חספא",
       "gloss": "گَر"
     },
     {
-      "surface": "נְחָשָׁ֜א",
+      "surface": "נחשא",
       "gloss": "کانچوک"
     },
     {
-      "surface": "כַּסְפָּ֣א",
+      "surface": "כספא",
       "gloss": "رنگ"
     },
     {
-      "surface": "וְדַהֲבָ֗א",
+      "surface": "ודהבא",
       "gloss": "ءُ زر"
     },
     {
-      "surface": "וַהֲווֹ֙",
+      "surface": "והוו",
       "gloss": "ءُ بنت"
     },
     {
-      "surface": "כְּע֣וּר",
+      "surface": "כעור",
       "gloss": "چوش گوَڑ"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "אִדְּרֵי",
+      "surface": "אדרי",
       "gloss": "کُہانی"
     },
     {
-      "surface": "קַ֔יִט",
+      "surface": "קיט",
       "gloss": "ہوستروچیءِ"
     },
     {
-      "surface": "וּנְשָׂ֤א",
+      "surface": "ונשא",
       "gloss": "ءُ پُرت"
     },
     {
-      "surface": "הִמּוֹן֙",
+      "surface": "המון",
       "gloss": "آیانءَ"
     },
     {
-      "surface": "רוּחָ֔א",
+      "surface": "רוחא",
       "gloss": "باد"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ ہچ"
     },
     {
-      "surface": "אֲתַ֖ר",
+      "surface": "אתר",
       "gloss": "جاگہ"
     },
     {
-      "surface": "לָא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "הִשְׁתֲּכַ֣ח",
+      "surface": "השתכח",
       "gloss": "لبیت"
     },
     {
-      "surface": "לְה֑וֹן",
+      "surface": "להון",
       "gloss": "آیانی پہ"
     },
     {
-      "surface": "וְאַבְנָ֣א",
+      "surface": "ואבנא",
       "gloss": "ءُ سنگ"
     },
     {
-      "surface": "דִּֽי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "מְחָ֣ת",
+      "surface": "מחת",
       "gloss": "زت"
     },
     {
-      "surface": "לְצַלְמָ֗א",
+      "surface": "לצלמא",
       "gloss": "شکلءَ"
     },
     {
-      "surface": "הֲוָ֛ת",
+      "surface": "הות",
       "gloss": "بیت"
     },
     {
-      "surface": "לְט֥וּר",
+      "surface": "לטור",
       "gloss": "کُہءَ"
     },
     {
-      "surface": "רַ֖ב",
+      "surface": "רב",
       "gloss": "گشتیں"
     },
     {
-      "surface": "וּמְלָ֥ת",
+      "surface": "ומלת",
       "gloss": "ءُ پر کت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "אַרְעָֽא",
+      "surface": "ארעא",
       "gloss": "زمینءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:52:37.808179375Z",
-  "model": "glm-5.3"
+  ]
 }

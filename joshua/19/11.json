@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "joshua 19:11",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:44:29.433704118Z",
+  "verse": 11,
+  "ref": "joshua 19:11",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ اَتکیت اِشانیءِ حد سمندرءِ لنگءَ ءُ مرعلاہ، ءُ اَرسِیت دبشتءَ، ءُ اَرسِیت اُو گسیرءَ آ کہ ⟨اِنت⟩ یکنعامءِ رُوءَ",
   "tokens": [
     {
-      "surface": "וְעָלָ֨ה",
+      "surface": "ועלה",
       "gloss": "ءُ اَتکیت"
     },
     {
-      "surface": "גְּבוּלָ֧ם",
+      "surface": "גבולם",
       "gloss": "اِشانیءِ حد"
     },
     {
-      "surface": "לַיָּ֛מָּה",
+      "surface": "לימה",
       "gloss": "سمندرءِ لنگءَ"
     },
     {
-      "surface": "וּמַרְעֲלָ֖ה",
+      "surface": "ומרעלה",
       "gloss": "ءُ مرعلاہ"
     },
     {
-      "surface": "וְפָגַ֣ע",
+      "surface": "ופגע",
       "gloss": "ءُ اَرسِیت"
     },
     {
-      "surface": "בְּדַבָּ֑שֶׁת",
+      "surface": "בדבשת",
       "gloss": "دبشتءَ"
     },
     {
-      "surface": "וְפָגַ֣ע",
+      "surface": "ופגע",
       "gloss": "ءُ اَرسِیت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "הַנַּ֔חַל",
+      "surface": "הנחל",
       "gloss": "اُو گسیر"
     },
     {
-      "surface": "אֲשֶׁ֖ר",
+      "surface": "אשר",
       "gloss": "آ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "تہ"
     },
     {
-      "surface": "פְּנֵ֥י",
+      "surface": "פני",
       "gloss": "رُوءَ"
     },
     {
-      "surface": "יָקְנְעָֽם",
+      "surface": "יקנעם",
       "gloss": "یکنعام"
     }
-  ],
-  "timestamp": "2026-09-25T18:44:29.433704118Z",
-  "model": "glm-5.3"
+  ]
 }

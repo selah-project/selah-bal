@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "lamentations 3:1",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:14:10.057879797Z",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "اِشا آے گہ اِنت کہ وتی دردمندی گوَندگءَ بیت، چہ آییءِ غضبءِ عصا ءَ۔",
   "tokens": [
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "اِشا"
     },
     {
-      "surface": "הַגֶּבֶר",
+      "surface": "הגבר",
       "gloss": "آے گہ ⟨اے⟩"
     },
     {
-      "surface": "רָאָה",
+      "surface": "ראה",
       "gloss": "گوَندگءَ بیت"
     },
     {
-      "surface": "עֳנִי",
+      "surface": "עני",
       "gloss": "ودتی دردمندی"
     },
     {
-      "surface": "בְּשֵׁבֶט",
+      "surface": "בשבט",
       "gloss": "چہ ⟨...⟩ عصا ءَ"
     },
     {
-      "surface": "עֶבְרָתֽוֹ",
+      "surface": "עברתו",
       "gloss": "آییءِ غضبءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:14:10.057879797Z",
-  "model": "glm-5.3"
+  ]
 }

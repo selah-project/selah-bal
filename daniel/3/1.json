@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "daniel 3:1",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:52:53.996335490Z",
+  "verse": 1,
+  "ref": "daniel 3:1",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "نبوکدنصر مَلکا یک زریں بت جوڑ کت کہ آییءِ بلندی ششت گوڑ ءُ آییءِ پلنیاں شش گوڑ اِنت؛ آییءَ آیی دُوراءِ میدانءَ تہ، بابلءِ ولایتءَ، اِستاگ کت.",
   "tokens": [
     {
-      "surface": "נְבוּכַדְנֶצַּ֣ר",
+      "surface": "נבוכדנצר",
       "gloss": "نبوکدنصر"
     },
     {
-      "surface": "מַלְכָּ֗א",
+      "surface": "מלכא",
       "gloss": "مَلکا"
     },
     {
-      "surface": "עֲבַד֙",
+      "surface": "עבד",
       "gloss": "جوڑ کت"
     },
     {
-      "surface": "צְלֵ֣ם",
+      "surface": "צלם",
       "gloss": "بت"
     },
     {
-      "surface": "דִּֽי",
+      "surface": "די",
       "gloss": "کہ"
     },
     {
-      "surface": "דְהַ֔ב",
+      "surface": "דהב",
       "gloss": "زریں"
     },
     {
-      "surface": "רוּמֵהּ֙",
+      "surface": "רומה",
       "gloss": "آییءِ بلندی"
     },
     {
-      "surface": "אַמִּ֣ין",
+      "surface": "אמין",
       "gloss": "گوڑ"
     },
     {
-      "surface": "שִתִּ֔ין",
+      "surface": "שתין",
       "gloss": "ششت"
     },
     {
-      "surface": "פְּתָיֵ֖הּ",
+      "surface": "פתיה",
       "gloss": "آییءِ پلنیاں"
     },
     {
-      "surface": "אַמִּ֣ין",
+      "surface": "אמין",
       "gloss": "گوڑ"
     },
     {
-      "surface": "שִ֑ת",
+      "surface": "שת",
       "gloss": "شش"
     },
     {
-      "surface": "אֲקִימֵהּ֙",
+      "surface": "אקימה",
       "gloss": "اِستاگ کت"
     },
     {
-      "surface": "בְּבִקְעַ֣ת",
+      "surface": "בבקעת",
       "gloss": "میدانءَ تہ"
     },
     {
-      "surface": "דּוּרָ֔א",
+      "surface": "דורא",
       "gloss": "دُورا"
     },
     {
-      "surface": "בִּמְדִינַ֖ת",
+      "surface": "במדינת",
       "gloss": "ولایتءَ تہ"
     },
     {
-      "surface": "בָּבֶֽל",
+      "surface": "בבל",
       "gloss": "بابل"
     }
-  ],
-  "timestamp": "2026-09-25T14:52:53.996335490Z",
-  "model": "glm-5.3"
+  ]
 }

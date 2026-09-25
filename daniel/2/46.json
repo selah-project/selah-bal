@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 46,
-  "ref": "daniel 2:46",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:54:47.362384575Z",
+  "verse": 46,
+  "ref": "daniel 2:46",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "آں وہدءَ نبوکدنصرءِ بادشاہ آییءِ رُخءِ سرءَ ڈگت ءُ دانیالءَ سجدہ کت، ءُ گوَشت کہ آییءَ پہ قربانی ءُ خوش‌بوئاں نسیچ ببیت۔",
   "tokens": [
     {
-      "surface": "בֵּאדַיִן",
+      "surface": "באדין",
       "gloss": "آں وہدءَ"
     },
     {
-      "surface": "מַלְכָּא",
+      "surface": "מלכא",
       "gloss": "بادشاہ"
     },
     {
-      "surface": "נְבוּכַדְנֶצַּר",
+      "surface": "נבוכדנצר",
       "gloss": "نبوکدنصرءِ"
     },
     {
-      "surface": "נְפַל",
+      "surface": "נפל",
       "gloss": "ڈگت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "אַנְפּוֹהִי",
+      "surface": "אנפוהי",
       "gloss": "آییءِ رُخءِ"
     },
     {
-      "surface": "וּלְדָנִיֵּאל",
+      "surface": "ולדניאל",
       "gloss": "ءُ دانیالءَ"
     },
     {
-      "surface": "סְגִד",
+      "surface": "סגד",
       "gloss": "سجدہ کت"
     },
     {
-      "surface": "וּמִנְחָה",
+      "surface": "ומנחה",
       "gloss": "ءُ قربانی"
     },
     {
-      "surface": "וְנִיחֹחִין",
+      "surface": "וניחחין",
       "gloss": "ءُ خوش‌بوئاں"
     },
     {
-      "surface": "אֲמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "לְנַסָּכָה",
+      "surface": "לנסכה",
       "gloss": "پہ نسیچ"
     },
     {
-      "surface": "לֵהּ",
+      "surface": "לה",
       "gloss": "آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T14:54:47.362384575Z",
-  "model": "glm-5.3"
+  ]
 }

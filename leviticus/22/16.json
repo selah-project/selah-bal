@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "leviticus 22:16",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:23:03.577253204Z",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ ⟨את⟩ آیانءَ گناهءِ جرمءِ بار چاڑینت چو آیانءَ ⟨את⟩ آیانیں پاک شیزانءَ گوشنت، کیچہ آءُ یاہوہءَم پاک کننت۔",
   "tokens": [
     {
-      "surface": "וְהִשִּׂיאוּ",
+      "surface": "והשיאו",
       "gloss": "ءُ بار چاڑینت"
     },
     {
-      "surface": "אוֹתָם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "گناه (عبرانیءِ نشانءِ پشتءَ — آیانءَ)"
     },
     {
-      "surface": "עָוֺן",
+      "surface": "עון",
       "gloss": "گناه"
     },
     {
-      "surface": "אַשְׁמָה",
+      "surface": "אשמה",
       "gloss": "جرم"
     },
     {
-      "surface": "בְּאָכְלָם",
+      "surface": "באכלם",
       "gloss": "گوشنگءِ وہدءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آیانیں پاک شیزان"
     },
     {
-      "surface": "קָדְשֵׁיהֶם",
+      "surface": "קדשיהם",
       "gloss": "آیانیں پاک شیزان"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کیچہ"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "آءُ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "מְקַדְּשָׁם",
+      "surface": "מקדשם",
       "gloss": "آیانءَ پاک کنت"
     }
-  ],
-  "timestamp": "2026-09-25T19:23:03.577253204Z",
-  "model": "glm-5.3"
+  ]
 }

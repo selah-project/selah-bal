@@ -1,108 +1,108 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "2-kings 24:14",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:16:20.687713753Z",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ءُ آییءَ ⟨את⟩ گیش یروشلم ءُ ⟨את⟩ گیش سرداران ءُ ⟨את⟩ گیش جنگءِ زورآوران جلا کت — دہ ہزار جلا بوتگ — ءُ گیش دستکار ءُ گیش آہنگر؛ کسے نہ مانت، بجز زمینءِ قومءِ گیش کمزورانی۔",
   "tokens": [
     {
-      "surface": "וְהִגְלָ֣ה",
+      "surface": "והגלה",
       "gloss": "ءُ آییءَ جلا کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گیش یروشلم"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیش"
     },
     {
-      "surface": "יְרוּשָׁלִַ͏ם",
+      "surface": "ירושלם",
       "gloss": "یروشلم"
     },
     {
-      "surface": "וְֽאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گیش سرداران"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیش"
     },
     {
-      "surface": "הַשָּׂרִים",
+      "surface": "השרים",
       "gloss": "سرداران"
     },
     {
-      "surface": "וְאֵ֣ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گیش جنگءِ زورآوران"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "گیش"
     },
     {
-      "surface": "גִּבּוֹרֵי",
+      "surface": "גבורי",
       "gloss": "زورآورانی"
     },
     {
-      "surface": "הֶחַיִל",
+      "surface": "החיל",
       "gloss": "جنگءِ"
     },
     {
-      "surface": "עֲשֶׂרֶה",
+      "surface": "עשרה",
       "gloss": "دہ"
     },
     {
-      "surface": "אֲלָפִים",
+      "surface": "אלפים",
       "gloss": "ہزار"
     },
     {
-      "surface": "גֹּלֶה",
+      "surface": "גולה",
       "gloss": "جلا بوتگ"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ گیش"
     },
     {
-      "surface": "הֶחָרָשׁ",
+      "surface": "החרש",
       "gloss": "دستکار"
     },
     {
-      "surface": "וְהַמַּסְגֵּר",
+      "surface": "והמסגר",
       "gloss": "ءُ آہنگر"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "נִשְׁאַר",
+      "surface": "נשאר",
       "gloss": "مانت"
     },
     {
-      "surface": "זוּלָת",
+      "surface": "זולת",
       "gloss": "بجز"
     },
     {
-      "surface": "דַּלַּת",
+      "surface": "דלת",
       "gloss": "گیش کمزورانی"
     },
     {
-      "surface": "עַם",
+      "surface": "עם",
       "gloss": "قومءِ"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمینءِ"
     }
-  ],
-  "timestamp": "2026-09-25T14:16:20.687713753Z",
-  "model": "glm-5.3"
+  ]
 }

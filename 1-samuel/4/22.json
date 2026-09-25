@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "1-samuel 4:22",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:30:38.048013227Z",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ آ گوَشت: چہ اسرائیلءِ شکوہ چلیتگ، پرچا کہ ایلوہیمءِ گدان گپتگ بوتگ۔",
   "tokens": [
     {
-      "surface": "וַתֹּ֕אמֶר",
+      "surface": "ותאמר",
       "gloss": "ءُ آ گوَشت"
     },
     {
-      "surface": "גָּלָ֥ה",
+      "surface": "גלה",
       "gloss": "چلیتگ"
     },
     {
-      "surface": "כָב֖וֹד",
+      "surface": "כבוד",
       "gloss": "شکوہ"
     },
     {
-      "surface": "מִיִּשְׂרָאֵ֑ל",
+      "surface": "מישראל",
       "gloss": "چہ اسرائیلءِ"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "נִלְקַ֖ח",
+      "surface": "נלקח",
       "gloss": "گپتگ بوتگ"
     },
     {
-      "surface": "אֲר֥וֹן",
+      "surface": "ארון",
       "gloss": "گدان"
     },
     {
-      "surface": "הָאֱלֹהִֽים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T13:30:38.048013227Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,45 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "psalms 64:2",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:43:40.363196907Z",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "tier": "glm-5.2",
   "chapter": 64,
   "translation": "اے ایلوہیم، مانی لبزءَ گوش، مانی گوَنجءَ تہ؛ دشمنءِ ڈراں چہ مانی جَنءَ محفوظ بکش۔",
   "tokens": [
     {
-      "surface": "שְׁמַע",
+      "surface": "שמע",
       "gloss": "گوش کن"
     },
     {
-      "surface": "אֱלֹהִ֣ים",
+      "surface": "אלהים",
       "gloss": "اے ایلوہیم"
     },
     {
-      "surface": "קוֹלִ֣י",
+      "surface": "קולי",
       "gloss": "مانی لبزءَ"
     },
     {
-      "surface": "בְשִׂיחִ֑י",
+      "surface": "בשיחי",
       "gloss": "مانی گوَنجءَ تہ"
     },
     {
-      "surface": "מִפַּ֥חַד",
+      "surface": "מפחד",
       "gloss": "چہ ڈراں"
     },
     {
-      "surface": "א֝וֹיֵ֗ב",
+      "surface": "אויב",
       "gloss": "دشمنءِ"
     },
     {
-      "surface": "תִּצֹּ֥ר",
+      "surface": "תצר",
       "gloss": "محفوظ بکش"
     },
     {
-      "surface": "חַיָּֽי",
+      "surface": "חיי",
       "gloss": "مانی جنءَ"
     }
-  ],
-  "timestamp": "2026-09-25T20:43:40.363196907Z",
-  "model": "glm-5.3"
+  ]
 }

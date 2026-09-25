@@ -1,105 +1,105 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "2-chronicles 7:3",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:00:08.657717630Z",
+  "verse": 3,
+  "ref": "2-chronicles 7:3",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ اسرائیلءِ گیشتر بال گندیت آتشءِ تھلانا ءُ یاہوہءِ شان ⟨⟨گَت⟩⟩ءِ سرءَ، ءُ اِشاں زانو بستنت گوں وتی منہ‌آں زمینءَ، رستہءِ فرشءِ سرا، ءُ سجدہ کتنت ءُ یاہوہءَ شکر گوت کیجنبہ آ چنگ ⟨اِنت⟩، کیجنبہ آییءِ ہیسید پہ ہمیشہ ⟨اِنت⟩۔",
   "tokens": [
     {
-      "surface": "וְכֹ֣ל",
+      "surface": "וכל",
       "gloss": "ءُ گیشتر"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "بال"
     },
     {
-      "surface": "יִשְׂרָאֵ֗ל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     },
     {
-      "surface": "רֹאִים֙",
+      "surface": "ראים",
       "gloss": "گندیت"
     },
     {
-      "surface": "בְּרֶ֣דֶת",
+      "surface": "ברדת",
       "gloss": "تھلانا"
     },
     {
-      "surface": "הָאֵ֔שׁ",
+      "surface": "האש",
       "gloss": "آتشءِ"
     },
     {
-      "surface": "וּכְב֥וֹד",
+      "surface": "וכבוד",
       "gloss": "ءُ شان"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הַבָּ֑יִת",
+      "surface": "הבית",
       "gloss": "گَتءِ"
     },
     {
-      "surface": "וַיִּכְרְעוּ֩",
+      "surface": "ויכרעו",
       "gloss": "ءُ زانو بستنت"
     },
     {
-      "surface": "אַפַּ֨יִם",
+      "surface": "אפים",
       "gloss": "منہ‌آں"
     },
     {
-      "surface": "אַ֥רְצָה",
+      "surface": "ארצה",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הָרִֽצְפָה֙",
+      "surface": "הרצפה",
       "gloss": "رستہءِ فرشءِ"
     },
     {
-      "surface": "וַיִּֽשְׁתַּחֲו֔וּ",
+      "surface": "וישתחוו",
       "gloss": "ءُ سجدہ کتنت"
     },
     {
-      "surface": "וְהוֹד֤וֹת",
+      "surface": "והודות",
       "gloss": "ءُ شکر"
     },
     {
-      "surface": "לַיהוָה֙",
+      "surface": "ליהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کیجنبہ"
     },
     {
-      "surface": "ט֔וֹב",
+      "surface": "טוב",
       "gloss": "چنگ"
     },
     {
-      "surface": "כִּּ֥י",
+      "surface": "כי",
       "gloss": "کیجنبہ"
     },
     {
-      "surface": "לְעוֹלָ֖ם",
+      "surface": "לעולם",
       "gloss": "پہ ہمیشہ"
     },
     {
-      "surface": "חַסְדּֽוֹ",
+      "surface": "חסדו",
       "gloss": "ہیسید"
     }
-  ],
-  "timestamp": "2026-09-25T14:00:08.657717630Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "jeremiah 8:23",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:19:41.119366177Z",
+  "verse": 23,
+  "ref": "jeremiah 8:23",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "کاش ماءِ سر آپ بیت ءُ ماءِ چشم اشکءِ مکون، ءُ ماں روز ءُ شپ ⟨את⟩ ماءِ قومءِ جنکیں زخمیانی پہ گریمیں!",
   "tokens": [
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کاش کہ"
     },
     {
-      "surface": "יִתֵּ֤ן",
+      "surface": "יתן",
       "gloss": "بیت (دیت)"
     },
     {
-      "surface": "רֹאשִׁי֙",
+      "surface": "ראשי",
       "gloss": "ماءِ سر"
     },
     {
-      "surface": "מַ֔יִם",
+      "surface": "מים",
       "gloss": "آپ"
     },
     {
-      "surface": "וְעֵינִ֖י",
+      "surface": "ועיני",
       "gloss": "ءُ ماءِ چشم"
     },
     {
-      "surface": "מְק֣וֹר",
+      "surface": "מקור",
       "gloss": "مکون"
     },
     {
-      "surface": "דִּמְעָ֑ה",
+      "surface": "דמעה",
       "gloss": "اشکءِ"
     },
     {
-      "surface": "וְאֶבְכֶּה֙",
+      "surface": "ואבכה",
       "gloss": "ءُ ماں گریمیں"
     },
     {
-      "surface": "יוֹמָ֣ם",
+      "surface": "יומם",
       "gloss": "روزءَ"
     },
     {
-      "surface": "וָלַ֔יְלָה",
+      "surface": "ולילה",
       "gloss": "ءُ شپءَ"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زخمیانی"
     },
     {
-      "surface": "חַֽלְלֵ֥י",
+      "surface": "חללי",
       "gloss": "زخمیان"
     },
     {
-      "surface": "בַּת",
+      "surface": "בת",
       "gloss": "جنکءِ"
     },
     {
-      "surface": "עַמִּֽי",
+      "surface": "עמי",
       "gloss": "ماءِ قوم"
     }
-  ],
-  "timestamp": "2026-09-25T18:19:41.119366177Z",
-  "model": "glm-5.3"
+  ]
 }

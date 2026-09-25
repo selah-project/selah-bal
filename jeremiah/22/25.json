@@ -1,73 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
-  "ref": "jeremiah 22:25",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:47:46.367718504Z",
+  "verse": 25,
+  "ref": "jeremiah 22:25",
+  "tier": "glm-5.2",
   "chapter": 22,
   "translation": "ءُ ما تُءَ دَستءَ اِشانی دیت کہ تُئے جانءِ جستوک اَنت، ءُ دَستءَ اِشانی کہ چہ اِشاں تُو ڈارئی، ءُ دَستءَ نبُوکَدرئسرءِ، بابلءِ شاہءِ، ءُ دَستءَ کسدیانءِ.",
   "tokens": [
     {
-      "surface": "וּנְתַתִּיךָ",
+      "surface": "ונתתיך",
       "gloss": "ءُ ما تُءَ ... دیت"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "دَستءَ"
     },
     {
-      "surface": "מְבַקְשֵׁי",
+      "surface": "מבקשי",
       "gloss": "جستوکانی"
     },
     {
-      "surface": "נַפְשֶׁךָ",
+      "surface": "נפשך",
       "gloss": "تُئے جانءِ"
     },
     {
-      "surface": "וּבְיַד",
+      "surface": "וביד",
       "gloss": "ءُ دَستءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אַתָּה",
+      "surface": "אתה",
       "gloss": "تُو"
     },
     {
-      "surface": "יָגוֹר",
+      "surface": "יגור",
       "gloss": "ڈارئی"
     },
     {
-      "surface": "מִפְּנֵיהֶם",
+      "surface": "מפניהם",
       "gloss": "چہ اِشاں"
     },
     {
-      "surface": "וּבְיַד",
+      "surface": "וביד",
       "gloss": "ءُ دَستءَ"
     },
     {
-      "surface": "נְבוּכַדְרֶאצַּר",
+      "surface": "נבוכדראצר",
       "gloss": "نبُوکَدرئسرءِ"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "בָּבֶל",
+      "surface": "בבל",
       "gloss": "بابلءِ"
     },
     {
-      "surface": "וּבְיַד",
+      "surface": "וביד",
       "gloss": "ءُ دَستءَ"
     },
     {
-      "surface": "הַכַּשְׂדִּים",
+      "surface": "הכשדים",
       "gloss": "کسدیانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:47:46.367718504Z",
-  "model": "glm-5.3"
+  ]
 }

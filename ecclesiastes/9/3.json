@@ -1,105 +1,105 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "ecclesiastes 9:3",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:40:01.309697208Z",
+  "verse": 3,
+  "ref": "ecclesiastes 9:3",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "اے بری اِنت گوں ہر چیز کہ جوڑ بوتگ ءُ بیت تہ شۏرءِ تہاں، کہ یک مقسوم ہست پہ ہمگ، ءُ ہم آدمءِ زہگانی دل بریءَ چُک اِنت ءُ دیوانگی آشانئِ دلانءَ تہ، آشانءِ زندگیءَ جاگہءَ، ءُ آءِ پشتا مردگانی جاگہءَ.",
   "tokens": [
     {
-      "surface": "זֶ֣ה",
+      "surface": "זה",
       "gloss": "اے"
     },
     {
-      "surface": "רָ֗ע",
+      "surface": "רע",
       "gloss": "بری"
     },
     {
-      "surface": "בְּכֹ֤ל",
+      "surface": "בכל",
       "gloss": "گوں ہر چیز"
     },
     {
-      "surface": "אֲשֶֽׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נַעֲשָׂה֙",
+      "surface": "נעשה",
       "gloss": "جوڑ بوتگ ءُ بیت"
     },
     {
-      "surface": "תַּ֣חַת",
+      "surface": "תחת",
       "gloss": "تہ"
     },
     {
-      "surface": "הַשֶּׁ֔מֶשׁ",
+      "surface": "השמש",
       "gloss": "شۏرءِ"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "מִקְרֶ֥ה",
+      "surface": "מקרה",
       "gloss": "مقسوم"
     },
     {
-      "surface": "אֶחָ֖ד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "לַכֹּ֑ל",
+      "surface": "לכל",
       "gloss": "پہ ہمگ"
     },
     {
-      "surface": "וְגַ֣ם",
+      "surface": "וגם",
       "gloss": "ءُ ہم"
     },
     {
-      "surface": "לֵ֣ב",
+      "surface": "לב",
       "gloss": "دل"
     },
     {
-      "surface": "בְּֽנֵי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "הָ֠אָדָם",
+      "surface": "האדם",
       "gloss": "آدمءِ"
     },
     {
-      "surface": "מָלֵא",
+      "surface": "מלא",
       "gloss": "چُک"
     },
     {
-      "surface": "רָ֨ע",
+      "surface": "רע",
       "gloss": "بریءَ"
     },
     {
-      "surface": "וְהוֹלֵל֤וֹת",
+      "surface": "והוללות",
       "gloss": "ءُ دیوانگی"
     },
     {
-      "surface": "בִּלְבָבָם֙",
+      "surface": "בלבבם",
       "gloss": "آشانئِ دلانءَ تہ"
     },
     {
-      "surface": "בְּחַיֵּיהֶ֔ם",
+      "surface": "בחייהם",
       "gloss": "آشانءِ زندگیءَ جاگہءَ"
     },
     {
-      "surface": "וְאַחֲרָ֖יו",
+      "surface": "ואחריו",
       "gloss": "ءُ آءِ پشتا"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "⟨את⟩ جاگہءَ"
     },
     {
-      "surface": "הַמֵּתִֽים",
+      "surface": "המתים",
       "gloss": "مردگانی"
     }
-  ],
-  "timestamp": "2026-09-25T15:40:01.309697208Z",
-  "model": "glm-5.3"
+  ]
 }

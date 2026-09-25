@@ -1,105 +1,105 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "genesis 31:13",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:51:15.506163719Z",
+  "verse": 13,
+  "ref": "genesis 31:13",
+  "tier": "glm-5.2",
   "chapter": 31,
   "translation": "من ⟨اِنت⟩ ایل بیت ایل، آ جاگہءَ کہ تو اودا مچھابہءَ مسح کت، آ جاگہءَ کہ تو اودا منے پہ نذر گرت، اودا نذر؛ اِمہ وہدءَ اُٹھ، چے اے زمینءَ برو، ءُ پدا گُر آ زمینءَ کہ تُئے جنمءِ جاگہ ⟨اِنت⟩.",
   "tokens": [
     {
-      "surface": "אָנֹכִ֤י",
+      "surface": "אנכי",
       "gloss": "من"
     },
     {
-      "surface": "הָאֵל֙",
+      "surface": "האל",
       "gloss": "ایل"
     },
     {
-      "surface": "בֵּֽית",
+      "surface": "בית",
       "gloss": "بیت"
     },
     {
-      "surface": "אֵ֔ל",
+      "surface": "אל",
       "gloss": "ایل"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "מָשַׁ֤חְתָּ",
+      "surface": "משחת",
       "gloss": "مسح کت"
     },
     {
-      "surface": "שָׁם֙",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "מַצֵּבָ֔ה",
+      "surface": "מצבה",
       "gloss": "مچھابہ"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נָדַ֥רְתָּ",
+      "surface": "נדרת",
       "gloss": "نذر گرت"
     },
     {
-      "surface": "לִ֛י",
+      "surface": "לי",
       "gloss": "منے پہ"
     },
     {
-      "surface": "שָׁ֖ם",
+      "surface": "שם",
       "gloss": "اودا"
     },
     {
-      "surface": "נֶ֑דֶר",
+      "surface": "נדר",
       "gloss": "نذر"
     },
     {
-      "surface": "עַתָּ֗ה",
+      "surface": "עתה",
       "gloss": "اِمہ وہدءَ"
     },
     {
-      "surface": "ק֥וּם",
+      "surface": "קום",
       "gloss": "اُٹھ"
     },
     {
-      "surface": "צֵא֙",
+      "surface": "צא",
       "gloss": "برو"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چے"
     },
     {
-      "surface": "הָאָ֣רֶץ",
+      "surface": "הארץ",
       "gloss": "اے زمین"
     },
     {
-      "surface": "הַזֹּ֔את",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "וְשׁ֖וּב",
+      "surface": "ושוב",
       "gloss": "ءُ پدا گُر"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "پہ"
     },
     {
-      "surface": "אֶ֥רֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "מוֹלַדְתֶּֽךָ",
+      "surface": "מולדתך",
       "gloss": "تُئے جنمءِ جاگہ"
     }
-  ],
-  "timestamp": "2026-09-25T16:51:15.506163719Z",
-  "model": "glm-5.3"
+  ]
 }

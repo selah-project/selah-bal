@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "joel 1:11",
   "book": "joel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:34:41.583125202Z",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "شرمسار بہ بیت کاشتکار، گڈاری کنت باغوان، گنم ءُ جوءِ پہ، پرچا کہ زمینءِ فصل نیست بوتگ۔",
   "tokens": [
     {
-      "surface": "הֹבִ֣ישׁוּ",
+      "surface": "הבישו",
       "gloss": "شرمسار بہ بیت"
     },
     {
-      "surface": "אִכָּרִ֗ים",
+      "surface": "אכרים",
       "gloss": "کاشتکار"
     },
     {
-      "surface": "הֵילִ֨ילוּ֙",
+      "surface": "הילילו",
       "gloss": "گڈاری کنت"
     },
     {
-      "surface": "כֹּֽרְמִ֔ים",
+      "surface": "כרמים",
       "gloss": "باغوان"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "חִטָּ֖ה",
+      "surface": "חטה",
       "gloss": "گنم"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "ءُ پہ"
     },
     {
-      "surface": "שְׂעֹרָ֑ה",
+      "surface": "שערה",
       "gloss": "جو"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אָבַ֖ד",
+      "surface": "אבד",
       "gloss": "نہست بوتگ"
     },
     {
-      "surface": "קְצִ֥יר",
+      "surface": "קציר",
       "gloss": "فصل"
     },
     {
-      "surface": "שָׂדֶֽה",
+      "surface": "שדה",
       "gloss": "زمین"
     }
-  ],
-  "timestamp": "2026-09-25T18:34:41.583125202Z",
-  "model": "glm-5.3"
+  ]
 }

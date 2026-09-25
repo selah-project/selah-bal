@@ -1,42 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "job 13:11",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:20:52.186556528Z",
+  "verse": 11,
+  "ref": "job 13:11",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "آیا آییءِ بلندی ⟨את⟩ شماءَ نہ تُرِسائیت، ءُ آییءِ ڈر تہ شما نہ ڈِگیت؟",
   "tokens": [
     {
-      "surface": "הֲלֹ֣א",
+      "surface": "הלא",
       "gloss": "آیا … نہ"
     },
     {
-      "surface": "שְׂאֵת֭וֹ",
+      "surface": "שאתו",
       "gloss": "آییءِ بلندی"
     },
     {
-      "surface": "תְּבַעֵ֣ת",
+      "surface": "תבעת",
       "gloss": "تُرِسائیت"
     },
     {
-      "surface": "אֶתְכֶ֑ם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شماءَ",
       "marks": "شماءَ"
     },
     {
-      "surface": "וּ֝פַחְדּ֗וֹ",
+      "surface": "ופחדו",
       "gloss": "ءُ آییءِ ڈر"
     },
     {
-      "surface": "יִפֹּ֥ל",
+      "surface": "יפל",
       "gloss": "ڈِگیت"
     },
     {
-      "surface": "עֲלֵיכֶֽם",
+      "surface": "עליכם",
       "gloss": "تہ شما"
     }
-  ],
-  "timestamp": "2026-09-25T18:20:52.186556528Z",
-  "model": "glm-5.3"
+  ]
 }

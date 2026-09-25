@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "1-samuel 6:8",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:33:03.146315852Z",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ شما ⟨את⟩ یاہوہءِ سندوق گپت کنیت ءُ آییءَ ⟨את⟩ تہ گاڑیءَ شورت، ءُ ⟨את⟩ زرگی چیزان کہ آییءَ آشامءِ چوں پدا کنیت، یک سندوکءَ تہ آییءِ رندگءَ شورت، ءُ آییءَ ⟨את⟩ روان کنیت ءُ آ روت‌ایت۔",
   "tokens": [
     {
-      "surface": "וּלְקַחְתֶּם",
+      "surface": "ולקחתם",
       "gloss": "ءُ شما گپت کنیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءِ سندوق"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "سندوق"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "וּנְתַתֶּם",
+      "surface": "ונתתם",
       "gloss": "ءُ شورت"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "تہ گاڑیءَ"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "הָעֲגָלָה",
+      "surface": "העגלה",
       "gloss": "گاڑیءَ"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "زرگی چیزان"
     },
     {
-      "surface": "כְּלֵי",
+      "surface": "כלי",
       "gloss": "چیزان"
     },
     {
-      "surface": "הַזָּהָב",
+      "surface": "הזהב",
       "gloss": "زرگی"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "הֲשֵׁבֹתֶם",
+      "surface": "השבתם",
       "gloss": "پدا کنیت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "אָשָׁם",
+      "surface": "אשם",
       "gloss": "آشام"
     },
     {
-      "surface": "תָּשִׂימוּ",
+      "surface": "תשימו",
       "gloss": "شورت"
     },
     {
-      "surface": "בָּאַרְגַּז",
+      "surface": "בארגז",
       "gloss": "یک سندوکءَ تہ"
     },
     {
-      "surface": "מִצִּדּוֹ",
+      "surface": "מצדו",
       "gloss": "آییءِ رندگءَ"
     },
     {
-      "surface": "וְשִׁלַּחְתֶּם",
+      "surface": "ושלחתם",
       "gloss": "ءُ روان کنیت"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "رویت ءُ روت‌ایت"
     },
     {
-      "surface": "וְהָלָךְ",
+      "surface": "והלך",
       "gloss": "ءُ روت‌ایت"
     }
-  ],
-  "timestamp": "2026-09-25T13:33:03.146315852Z",
-  "model": "glm-5.3"
+  ]
 }

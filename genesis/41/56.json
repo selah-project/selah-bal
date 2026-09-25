@@ -1,86 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 56,
-  "ref": "genesis 41:56",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:55:59.397042691Z",
+  "verse": 56,
+  "ref": "genesis 41:56",
+  "tier": "glm-5.2",
   "chapter": 41,
   "translation": "ءُ کال تمام زمینءِ دیمءَ اُشت؛ یوسف ⟨את⟩ ہمگ آنچہ آیانی تہہ اُشت کھول کت ءُ مِتسرایمانءَ فروخت کت؛ ءُ کال مِتسرایمءِ زمینءَ سخت بیت۔",
   "tokens": [
     {
-      "surface": "וְהָרָעָ֣ב",
+      "surface": "והרעב",
       "gloss": "ءُ کال"
     },
     {
-      "surface": "הָיָ֔ה",
+      "surface": "היה",
       "gloss": "اُشت"
     },
     {
-      "surface": "עַ֖ל",
+      "surface": "על",
       "gloss": "ءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "פְּנֵ֣י",
+      "surface": "פני",
       "gloss": "دیمءِ"
     },
     {
-      "surface": "הָאָ֑רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "וַיִּפְתַּ֨ח",
+      "surface": "ויפתח",
       "gloss": "کھول کت"
     },
     {
-      "surface": "יוֹסֵ֜ף",
+      "surface": "יוסף",
       "gloss": "یوسف"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہمگ آنچہ آیانی تہہ اُشت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
+      "surface": "אשר",
       "gloss": "آنچہ"
     },
     {
-      "surface": "בָּהֶם֙",
+      "surface": "בהם",
       "gloss": "آیانی تہہ"
     },
     {
-      "surface": "וַיִּשְׁבֹּ֣ר",
+      "surface": "וישבר",
       "gloss": "ءُ فروخت کت"
     },
     {
-      "surface": "לְמִצְרַ֔יִם",
+      "surface": "למצרים",
       "gloss": "مِتسرایمانءَ"
     },
     {
-      "surface": "וַיֶּחֱזַ֥ק",
+      "surface": "ויחזק",
       "gloss": "ءُ سخت بیت"
     },
     {
-      "surface": "הָרָעָ֖ב",
+      "surface": "הרעב",
       "gloss": "کال"
     },
     {
-      "surface": "בְּאֶ֥רֶץ",
+      "surface": "בארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "מִצְרָֽיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایم"
     }
-  ],
-  "timestamp": "2026-09-25T16:55:59.397042691Z",
-  "model": "glm-5.3"
+  ]
 }

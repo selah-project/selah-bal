@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "nehemiah 6:3",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:41:17.961999758Z",
+  "verse": 3,
+  "ref": "nehemiah 6:3",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ مان اِشاںءَ سرءَ پیغامبران شیل کت آئے گوَشت: یک گیشتیرین کار من کناں، ءُ نہ مان ارشیت پہ دیمءَ بروت؛ چرا کار بند بیت چوش کہ آءَ اِشتگ بکنت ءُ من اِشماںءَ دیمءَ برواں؟",
   "tokens": [
     {
-      "surface": "וָאֶשְׁלְחָה",
+      "surface": "ואשלחה",
       "gloss": "ءُ شیل کت"
     },
     {
-      "surface": "עֲלֵיהֶם",
+      "surface": "עליהם",
       "gloss": "اِشاںءَ سرءَ"
     },
     {
-      "surface": "מַלְאָכִים",
+      "surface": "מלאכים",
       "gloss": "پیغامبران"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "آئے گوَشت"
     },
     {
-      "surface": "מְלָאכָה",
+      "surface": "מלאכה",
       "gloss": "کار"
     },
     {
-      "surface": "גְדוֹלָה",
+      "surface": "גדולה",
       "gloss": "گیشتیرین"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "עֹשֶׂה",
+      "surface": "עשה",
       "gloss": "کناں"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "אוּכַל",
+      "surface": "אוכל",
       "gloss": "مان ارشیت"
     },
     {
-      "surface": "לָרֶדֶת",
+      "surface": "לרדת",
       "gloss": "پہ دیمءَ بروت"
     },
     {
-      "surface": "לָמָּה",
+      "surface": "למה",
       "gloss": "چرا"
     },
     {
-      "surface": "תִּשְׁבַּת",
+      "surface": "תשבת",
       "gloss": "بند بیت"
     },
     {
-      "surface": "הַמְּלָאכָה",
+      "surface": "המלאכה",
       "gloss": "کار"
     },
     {
-      "surface": "כַּאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "אַרְפֶּהָ",
+      "surface": "ארפה",
       "gloss": "آءَ اِشتگ بکنت"
     },
     {
-      "surface": "וְיָרַדְתִּי",
+      "surface": "וירדתי",
       "gloss": "ءُ برواں"
     },
     {
-      "surface": "אֲלֵיכֶם",
+      "surface": "אליכם",
       "gloss": "اِشماںءَ دیمءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:41:17.961999758Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,131 +1,131 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "numbers 4:15",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:04:41.272695729Z",
+  "verse": 15,
+  "ref": "numbers 4:15",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ اہارون ءُ وتی زہگ تمام کننت پہ پوشیتن ⟨את⟩ مقدس ءُ ءُ ⟨את⟩ تمام مقدسانی سازوار، چہ براوتنءِ وہد لشکرءِ؛ ءُ اے پشتا قہاتءِ زہگان آئنت پہ اُٹنگ، ءُ نہ لمس کننت اِشاں ⟨the⟩ مقدس، ءُ مرنت۔ اے اِنت ⟨the⟩ بار قہاتءِ زہگانءِ پہ ملاقاتءِ گدانءِ تہ۔",
   "tokens": [
     {
-      "surface": "וְכִלָּה",
+      "surface": "וכלה",
       "gloss": "ءُ تمام کننت"
     },
     {
-      "surface": "אַהֲרֹן",
+      "surface": "אהרן",
       "gloss": "اہارون"
     },
     {
-      "surface": "וּבָנָיו",
+      "surface": "ובניו",
       "gloss": "ءُ وتی زہگ"
     },
     {
-      "surface": "לְכַסֹּת",
+      "surface": "לכסת",
       "gloss": "پہ پوشیتن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مقدس"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "مقدس"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "تمام"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمام"
     },
     {
-      "surface": "כְּלֵי",
+      "surface": "כלי",
       "gloss": "سازوار"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "مقدس"
     },
     {
-      "surface": "בִּנְסֹעַ",
+      "surface": "בנסע",
       "gloss": "چہ براوتنءِ وہد"
     },
     {
-      "surface": "הַמַּחֲנֶה",
+      "surface": "המחנה",
       "gloss": "لشکر"
     },
     {
-      "surface": "וְאַחֲרֵי",
+      "surface": "ואחרי",
       "gloss": "ءُ اے پشتا"
     },
     {
-      "surface": "כֵן",
+      "surface": "כן",
       "gloss": "اے"
     },
     {
-      "surface": "יָבֹאוּ",
+      "surface": "יבאו",
       "gloss": "آئنت"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگ"
     },
     {
-      "surface": "קְהָת",
+      "surface": "קהת",
       "gloss": "قہات"
     },
     {
-      "surface": "לָשֵׂאת",
+      "surface": "לשאת",
       "gloss": "پہ اُٹنگ"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִגְּעוּ",
+      "surface": "יגעו",
       "gloss": "لمس کننت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "اِشاں"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "مقدس"
     },
     {
-      "surface": "וָמֵתוּ",
+      "surface": "ומתו",
       "gloss": "ءُ مرنت"
     },
     {
-      "surface": "אֵלֶּה",
+      "surface": "אלה",
       "gloss": "اے"
     },
     {
-      "surface": "מַשָּׂא",
+      "surface": "משא",
       "gloss": "بار"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگ"
     },
     {
-      "surface": "קְהָת",
+      "surface": "קהת",
       "gloss": "قہات"
     },
     {
-      "surface": "בְּאֹהֶל",
+      "surface": "באהל",
       "gloss": "گدانءِ تہ"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     }
-  ],
-  "timestamp": "2026-09-25T20:04:41.272695729Z",
-  "model": "glm-5.3"
+  ]
 }

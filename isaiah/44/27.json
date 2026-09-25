@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
-  "ref": "isaiah 44:27",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:25:01.743390558Z",
+  "verse": 27,
+  "ref": "isaiah 44:27",
+  "tier": "glm-5.2",
   "chapter": 44,
   "translation": "گوَشتروک آ کہ ژرفءَ گوشیت: سُک بہ، ءُ تئے رودان آںءَ سُک کنت۔",
   "tokens": [
     {
-      "surface": "הָאֹמֵ֥ר",
+      "surface": "האמר",
       "gloss": "گوَشتروک"
     },
     {
-      "surface": "לַצּוּלָ֖ה",
+      "surface": "לצולה",
       "gloss": "ژرفءَ"
     },
     {
-      "surface": "חֳרָ֑בִי",
+      "surface": "חרבי",
       "gloss": "سُک بہ"
     },
     {
-      "surface": "וְנַהֲרֹתַ֖יִךְ",
+      "surface": "ונהרתיך",
       "gloss": "ءُ تئے رودان"
     },
     {
-      "surface": "אוֹבִֽישׁ",
+      "surface": "אוביש",
       "gloss": "آںءَ سُک کنت"
     }
-  ],
-  "timestamp": "2026-09-25T17:25:01.743390558Z",
-  "model": "glm-5.3"
+  ]
 }

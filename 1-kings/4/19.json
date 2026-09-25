@@ -1,77 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "1-kings 4:19",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:02:47.653563168Z",
+  "verse": 19,
+  "ref": "1-kings 4:19",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "گِبِر، اُوریءِ زہگ، گِلعادءِ سرزمینءَ ⟨اِنت⟩ — سِیحونءِ سرزمین، اموریانی پادشاہءِ، ءُ عُوگءِ، بشانءِ پادشاہءِ — ءُ یک ناصب کہ سرزمینءَ ⟨اِنت⟩۔",
   "tokens": [
     {
-      "surface": "גֶּ֥בֶר",
+      "surface": "גבר",
       "gloss": "گِبِر"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "אֻרִ֖י",
+      "surface": "ארי",
       "gloss": "اُوری"
     },
     {
-      "surface": "בְּאֶ֣רֶץ",
+      "surface": "בארץ",
       "gloss": "سرزمینءَ"
     },
     {
-      "surface": "גִּלְעָ֑ד",
+      "surface": "גלעד",
       "gloss": "گِلعادءِ"
     },
     {
-      "surface": "אֶ֜רֶץ",
+      "surface": "ארץ",
       "gloss": "سرزمین"
     },
     {
-      "surface": "סִיח֣וֹן",
+      "surface": "סיחון",
       "gloss": "سِیحونءِ"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "پادشاہءِ"
     },
     {
-      "surface": "הָאֱמֹרִ֗י",
+      "surface": "האמרי",
       "gloss": "اموریانی"
     },
     {
-      "surface": "וְעֹג֙",
+      "surface": "ועג",
       "gloss": "ءُ عُوگءِ"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "پادشاہءِ"
     },
     {
-      "surface": "הַבָּשָׁ֔ן",
+      "surface": "הבשן",
       "gloss": "بشانءِ"
     },
     {
-      "surface": "וּנְצִ֥יב",
+      "surface": "ונציב",
       "gloss": "ءُ ناصب"
     },
     {
-      "surface": "אֲחָ֖ד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בָּאָֽרֶץ",
+      "surface": "בארץ",
       "gloss": "سرزمینءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:02:47.653563168Z",
-  "model": "glm-5.3"
+  ]
 }

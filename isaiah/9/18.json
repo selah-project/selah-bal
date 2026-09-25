@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "isaiah 9:18",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:37:31.536195366Z",
+  "verse": 18,
+  "ref": "isaiah 9:18",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "چہ یاہوہءِ سباؤتءِ غصہءَ زمین تہاری بوت، ءُ قوم بوت چوش اَشءِ کھاور — مردم چہ اِشانیں براتر رحم نہ کننت۔",
   "tokens": [
     {
-      "surface": "בְּעֶבְרַת",
+      "surface": "בעברת",
       "gloss": "چہ … ءِ غصہءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "צְבָאוֹת",
+      "surface": "צבאות",
       "gloss": "سباؤتءِ"
     },
     {
-      "surface": "נֶעְתַּם",
+      "surface": "נעתם",
       "gloss": "تہاری بوت"
     },
     {
-      "surface": "אָרֶץ",
+      "surface": "ארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "וַיְהִי",
+      "surface": "ויהי",
       "gloss": "ءُ بوت"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "قوم"
     },
     {
-      "surface": "כְּמַאֲכֹלֶת",
+      "surface": "כמאכלת",
       "gloss": "چوش … کھاور"
     },
     {
-      "surface": "אֵשׁ",
+      "surface": "אש",
       "gloss": "اَشءِ"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "مردم"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "چہ"
     },
     {
-      "surface": "אָחִיו",
+      "surface": "אחיו",
       "gloss": "اِشانیں براتر"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יַחְמֹלוּ",
+      "surface": "יחמלו",
       "gloss": "رحم کننت"
     }
-  ],
-  "timestamp": "2026-09-25T17:37:31.536195366Z",
-  "model": "glm-5.3"
+  ]
 }

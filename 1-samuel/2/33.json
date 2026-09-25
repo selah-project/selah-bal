@@ -1,83 +1,83 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "1-samuel 2:33",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:22:41.979947031Z",
+  "verse": 33,
+  "ref": "1-samuel 2:33",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ یکے چہ تئے مرداں نہ چہ ماں قربانگاہءَ چہ تو پاک کنم، پہ ⟨את⟩ تئے چشمان کس کنت ءُ پہ ⟨את⟩ تئے جان دُک منت؛ ءُ تئے گدانءِ ہر گیشتاری مردم چوں مرنت.",
   "tokens": [
     {
-      "surface": "וְאִ֗ישׁ",
+      "surface": "ואיש",
       "gloss": "ءُ یکے چہ تئے مرداں"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אַכְרִ֤ית",
+      "surface": "אכרית",
       "gloss": "پاک کنم"
     },
     {
-      "surface": "לְךָ֙",
+      "surface": "לך",
       "gloss": "چہ تو"
     },
     {
-      "surface": "מֵעִ֣ם",
+      "surface": "מעם",
       "gloss": "چہ"
     },
     {
-      "surface": "מִזְבְּחִ֔י",
+      "surface": "מזבחי",
       "gloss": "ماں قربانگاہءَ"
     },
     {
-      "surface": "לְכַלּ֥וֹת",
+      "surface": "לכלות",
       "gloss": "پہ کس کنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تئے چشمان"
     },
     {
-      "surface": "עֵינֶ֖יךָ",
+      "surface": "עיניך",
       "gloss": "تئے چشمان"
     },
     {
-      "surface": "וְלַאֲדִ֣יב",
+      "surface": "ולאדיב",
       "gloss": "ءُ پہ دُک منت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تئے جان"
     },
     {
-      "surface": "נַפְשֶׁ֑ךָ",
+      "surface": "נפשך",
       "gloss": "تئے جان"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ ہر"
     },
     {
-      "surface": "מַרְבִּ֥ית",
+      "surface": "מרבית",
       "gloss": "گیشتاری"
     },
     {
-      "surface": "בֵּיתְךָ֖",
+      "surface": "ביתך",
       "gloss": "تئے گدانءِ"
     },
     {
-      "surface": "יָמ֥וּתוּ",
+      "surface": "ימותו",
       "gloss": "مرنت"
     },
     {
-      "surface": "אֲנָשִֽׁים",
+      "surface": "אנשים",
       "gloss": "مردم چوں"
     }
-  ],
-  "timestamp": "2026-09-25T13:22:41.979947031Z",
-  "model": "glm-5.3"
+  ]
 }

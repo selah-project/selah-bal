@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "habakkuk 3:9",
   "book": "habakkuk",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:06:43.151553714Z",
+  "verse": 9,
+  "ref": "habakkuk 3:9",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "بریں بوت ئے تیءِ کمان، چیزگانی قسمت ⟨اِنت⟩ یک پکا گال، سلا۔ تُ روئیزگانی گوں زمینءَ شق کنیں۔",
   "tokens": [
     {
-      "surface": "עֶרְיָה",
+      "surface": "עריה",
       "gloss": "بریں"
     },
     {
-      "surface": "תֵעוֹר",
+      "surface": "תעור",
       "gloss": "بوت ئے"
     },
     {
-      "surface": "קַשְׁתֶּךָ",
+      "surface": "קשתך",
       "gloss": "تیءِ کمان"
     },
     {
-      "surface": "שְׁבֻעוֹת",
+      "surface": "שבעות",
       "gloss": "قسمت"
     },
     {
-      "surface": "מַטּוֹת",
+      "surface": "מטות",
       "gloss": "چیزگانی"
     },
     {
-      "surface": "אֹמֶר",
+      "surface": "אמר",
       "gloss": "گال"
     },
     {
-      "surface": "סֶלָה",
+      "surface": "סלה",
       "gloss": "سلا"
     },
     {
-      "surface": "נְהָרוֹת",
+      "surface": "נהרות",
       "gloss": "روئیزگانی"
     },
     {
-      "surface": "תְבַקַּע",
+      "surface": "תבקע",
       "gloss": "شق کنیں"
     },
     {
-      "surface": "אָרֶץ",
+      "surface": "ארץ",
       "gloss": "زمینءَ"
     }
-  ],
-  "timestamp": "2026-09-25T17:06:43.151553714Z",
-  "model": "glm-5.3"
+  ]
 }

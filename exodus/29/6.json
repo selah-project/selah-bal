@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "exodus 29:6",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:55:52.694443777Z",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ تُو پگڑءَ آییءِ سرءَ جاہ بیت، ءُ تُو ⟨את⟩ مقدسیں نزر پگڑءِ سرءَ جاہ بیت۔",
   "tokens": [
     {
-      "surface": "וְשַׂמְתָּה",
+      "surface": "ושמת",
       "gloss": "ءُ جاہ بیت"
     },
     {
-      "surface": "הַמִּצְנֶפֶת",
+      "surface": "המצנפת",
       "gloss": "پگڑ"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "רֹאשֹׁו",
+      "surface": "ראשו",
       "gloss": "آییءِ سر"
     },
     {
-      "surface": "וְנָתַתָּה",
+      "surface": "ונתת",
       "gloss": "ءُ جاہ بیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مقدسیں نزر"
     },
     {
-      "surface": "נֵזֶר",
+      "surface": "נזר",
       "gloss": "نزر"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "مقدسیں"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הַמִּצְנֶפֶת",
+      "surface": "המצנפת",
       "gloss": "پگڑ"
     }
-  ],
-  "timestamp": "2026-09-25T15:55:52.694443777Z",
-  "model": "glm-5.3"
+  ]
 }

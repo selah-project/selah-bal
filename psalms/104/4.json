@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "psalms 104:4",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:23:55.346190147Z",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "tier": "glm-5.2",
   "chapter": 104,
   "translation": "آییءِ پیغامبراناں وہند ءُ آییءِ نوکچاکاناں شعلہ‌زن آتش جوڑ کنت.",
   "tokens": [
     {
-      "surface": "עֹשֶׂה",
+      "surface": "עשה",
       "gloss": "جوڑ کنت"
     },
     {
-      "surface": "מַלְאָכָיו",
+      "surface": "מלאכיו",
       "gloss": "آییءِ پیغامبراناں"
     },
     {
-      "surface": "רוּחוֹת",
+      "surface": "רוחות",
       "gloss": "وہند"
     },
     {
-      "surface": "מְשָׁרְתָיו",
+      "surface": "משרתיו",
       "gloss": "آییءِ نوکچاکاناں"
     },
     {
-      "surface": "אֵשׁ",
+      "surface": "אש",
       "gloss": "آتش"
     },
     {
-      "surface": "לֹהֵט",
+      "surface": "להט",
       "gloss": "شعلہ‌زن"
     }
-  ],
-  "timestamp": "2026-09-25T20:23:55.346190147Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,66 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "2-samuel 19:11",
   "book": "2-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:34:16.777501760Z",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "ءُ اَوشالوم، کہ آییءَ آں ماںءِ سرءَ مسح کتگ، تہ جنګءَ مُت گُن، ءُ اِشا بُزتْئے لَمے اَنت کہ سِپَہ جَگہ دِئنت کہ پادشاہءَ واپس آَرَنت؟ —",
   "tokens": [
     {
-      "surface": "וְאַבְשָׁלוֹם",
+      "surface": "ואבשלום",
       "gloss": "ءُ اَوشالوم"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "מָשַׁחְנוּ",
+      "surface": "משחנו",
       "gloss": "مسح کتگ ماں"
     },
     {
-      "surface": "עָלֵינוּ",
+      "surface": "עלינו",
       "gloss": "ماںءِ سرءَ"
     },
     {
-      "surface": "מֵת",
+      "surface": "מת",
       "gloss": "مُت"
     },
     {
-      "surface": "בַּמִּלְחָמָה",
+      "surface": "במלחמה",
       "gloss": "تہ جنګءَ"
     },
     {
-      "surface": "וְעַתָּה",
+      "surface": "ועתה",
       "gloss": "ءُ اِشا"
     },
     {
-      "surface": "לָמָּה",
+      "surface": "למה",
       "gloss": "لَمے"
     },
     {
-      "surface": "אַתֶּם",
+      "surface": "אתם",
       "gloss": "شما اَنت"
     },
     {
-      "surface": "מַחֲרִישִׁים",
+      "surface": "מחרשים",
       "gloss": "سِپَہ جَگہ دِئنت"
     },
     {
-      "surface": "לְהָשִׁיב",
+      "surface": "להשיב",
       "gloss": "کہ واپس آَرَنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پادشاہءَ"
     },
     {
-      "surface": "הַמֶּֽלֶךְ",
+      "surface": "המלך",
       "gloss": "پادشاہ"
     }
-  ],
-  "timestamp": "2026-09-25T14:34:16.777501760Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,95 +1,95 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "exodus 29:5",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:55:41.529559660Z",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ تو ⟨את⟩ لبزاں گرنت، ءُ ⟨את⟩ ہارونءَ پوشنت: ⟨את⟩ کُتونٹ، ءُ ایفودءِ ⟨את⟩ پوستیک، ءُ ⟨את⟩ ایفود، ءُ ⟨את⟩ چھاتیءِ پتراہ، ءُ آیءَ ایفودءِ مینگ بستگ بنت؛",
   "tokens": [
     {
-      "surface": "וְלָקַחְתָּ֣",
+      "surface": "ולקחת",
       "gloss": "ءُ تو گرنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "لبزاں"
     },
     {
-      "surface": "הַבְּגָדִ֗ים",
+      "surface": "הבגדים",
       "gloss": "لبزاں"
     },
     {
-      "surface": "וְהִלְבַּשְׁתָּ֤",
+      "surface": "והלבשת",
       "gloss": "ءُ تو پوشنت"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہارونءَ"
     },
     {
-      "surface": "אַהֲרֹן֙",
+      "surface": "אהרן",
       "gloss": "ہارونءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کُتونٹ"
     },
     {
-      "surface": "הַכֻּתֹּ֔נֶת",
+      "surface": "הכתנת",
       "gloss": "کُتونٹ"
     },
     {
-      "surface": "וְאֵת֙",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ایفودءِ پوستیک"
     },
     {
-      "surface": "מְעִ֣יל",
+      "surface": "מעיל",
       "gloss": "پوستیک"
     },
     {
-      "surface": "הָאֵפֹ֔ד",
+      "surface": "האפד",
       "gloss": "ایفودءِ"
     },
     {
-      "surface": "וְאֶ֖ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ایفود"
     },
     {
-      "surface": "הָאֵפֹ֖ד",
+      "surface": "האפד",
       "gloss": "ایفود"
     },
     {
-      "surface": "וְאֶ֣ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "چھاتیءِ پتراہ"
     },
     {
-      "surface": "הַחֹ֫שֶׁן",
+      "surface": "החשן",
       "gloss": "چھاتیءِ پتراہ"
     },
     {
-      "surface": "וְאָפַדְתָּ֣",
+      "surface": "ואפדת",
       "gloss": "ءُ تو بستگ بنت"
     },
     {
-      "surface": "ל֔וֹ",
+      "surface": "לו",
       "gloss": "آیءَ"
     },
     {
-      "surface": "בְּחֵ֖שֶׁב",
+      "surface": "בחשב",
       "gloss": "مینگءَ"
     },
     {
-      "surface": "הָאֵפֹֽד",
+      "surface": "האפד",
       "gloss": "ایفودءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:55:41.529559660Z",
-  "model": "glm-5.3"
+  ]
 }

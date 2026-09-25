@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "numbers 15:16",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:14:28.716992377Z",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "تورا یکت ءُ حکم یک بیت پہ شمءا ءُ پہ گرءَ کہ ⟨את⟩ گوں شمءا گر اِنت.",
   "tokens": [
     {
-      "surface": "תּוֹרָה",
+      "surface": "תורה",
       "gloss": "تورا"
     },
     {
-      "surface": "אַחַת",
+      "surface": "אחת",
       "gloss": "یکت"
     },
     {
-      "surface": "וּמִשְׁפָּט",
+      "surface": "ומשפט",
       "gloss": "ءُ حکم"
     },
     {
-      "surface": "אֶחָד",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "پہ شمءا"
     },
     {
-      "surface": "וְלַגֵּר",
+      "surface": "ולגר",
       "gloss": "ءُ پہ گر"
     },
     {
-      "surface": "הַגָּר",
+      "surface": "הגר",
       "gloss": "کہ گر کنت"
     },
     {
-      "surface": "אִתְּכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ گوں شمءا"
     }
-  ],
-  "timestamp": "2026-09-25T21:14:28.716992377Z",
-  "model": "glm-5.3"
+  ]
 }

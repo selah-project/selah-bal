@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
-  "ref": "daniel 2:36",
   "book": "daniel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T14:56:59.952049286Z",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "اے خواب اِنت، ءُ آییءِ پِشکارءَ شاہءِ پیشءَ گوشانیت.",
   "tokens": [
     {
-      "surface": "דְּנָ֣ה",
+      "surface": "דנה",
       "gloss": "اے"
     },
     {
-      "surface": "חֶלְמָ֔א",
+      "surface": "חלמא",
       "gloss": "خواب"
     },
     {
-      "surface": "וּפִשְׁרֵ֖הּ",
+      "surface": "ופשרה",
       "gloss": "ءُ آییءِ پِشکارءَ"
     },
     {
-      "surface": "נֵאמַ֥ר",
+      "surface": "נאמר",
       "gloss": "گوشانیت"
     },
     {
-      "surface": "קֳדָ֝ם",
+      "surface": "קדם",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "מַלְכָּֽא",
+      "surface": "מלכא",
       "gloss": "شاہ"
     }
-  ],
-  "timestamp": "2026-09-25T14:56:59.952049286Z",
-  "model": "glm-5.3"
+  ]
 }

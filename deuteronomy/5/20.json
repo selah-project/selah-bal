@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "deuteronomy 5:20",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:31:27.998292625Z",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ بزدیبانءِ گواہی پہ تریءِ ہمسایہ نہ دیت۔",
   "tokens": [
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "תַעֲנֶ֥ה",
-      "gloss": "دیت \/ جواب دیت"
+      "surface": "תענה",
+      "gloss": "دیت / جواب دیت"
     },
     {
-      "surface": "בְרֵֽעֲךָ֖",
+      "surface": "ברעך",
       "gloss": "تریءِ ہمسایہ (پہ)…ءَ"
     },
     {
-      "surface": "עֵ֥ד",
+      "surface": "עד",
       "gloss": "گواہی"
     },
     {
-      "surface": "שָֽׁוְא",
+      "surface": "שוא",
       "gloss": "بزدیبان"
     }
-  ],
-  "timestamp": "2026-09-25T15:31:27.998292625Z",
-  "model": "glm-5.3"
+  ]
 }

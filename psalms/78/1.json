@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 78:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:46:03.553197431Z",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "tier": "glm-5.2",
   "chapter": 78,
   "translation": "سکائشیں نبشتگ — اَسَفءِ. گوش کن، اے ماءِ قوم، ماءِ تورا؛ ماءِ گوشوانءَ درا کیت ماءِ دہانءِ لبزانی پہ.",
   "tokens": [
     {
-      "surface": "מַשְׂכִּ֗יל",
+      "surface": "משכיל",
       "gloss": "سکائشیں نبشتگ"
     },
     {
-      "surface": "לְאָ֫סָ֥ף",
+      "surface": "לאסף",
       "gloss": "اَسَفءِ پہ"
     },
     {
-      "surface": "הַאֲזִ֣ינָה",
+      "surface": "האזינה",
       "gloss": "گوش کن"
     },
     {
-      "surface": "עַמִּ֗י",
+      "surface": "עמי",
       "gloss": "اے ماءِ قوم"
     },
     {
-      "surface": "תּוֹרָתִ֑י",
+      "surface": "תורתי",
       "gloss": "ماءِ تورا"
     },
     {
-      "surface": "הַטּ֥וּ",
+      "surface": "הטו",
       "gloss": "درا کیت"
     },
     {
-      "surface": "אָ֝זְנְכֶ֗ם",
+      "surface": "אזנכם",
       "gloss": "ماءِ گوشوانءَ"
     },
     {
-      "surface": "לְאִמְרֵי",
+      "surface": "לאמרי",
       "gloss": "لبزانی پہ"
     },
     {
-      "surface": "פִּֽי",
+      "surface": "פי",
       "gloss": "ماءِ دہانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:46:03.553197431Z",
-  "model": "glm-5.3"
+  ]
 }

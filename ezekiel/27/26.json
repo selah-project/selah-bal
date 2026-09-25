@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "ezekiel 27:26",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:16:05.192497590Z",
+  "verse": 26,
+  "ref": "ezekiel 27:26",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "گیش آپاں تہ کشاکءَ اے ⟨את⟩ تئے آورت؛ روتءِ واہک تئے سمندرانی دلءَ تہ اِشکنیت.",
   "tokens": [
     {
-      "surface": "בְּמַ֤יִם",
+      "surface": "במים",
       "gloss": "آپان تہ"
     },
     {
-      "surface": "רַבִּים֙",
+      "surface": "רבים",
       "gloss": "گیش"
     },
     {
-      "surface": "הֱבִיא֔וּךְ",
+      "surface": "הביאוך",
       "gloss": "تئے آورت"
     },
     {
-      "surface": "הַשָּׁטִ֖ים",
+      "surface": "השטים",
       "gloss": "کشاکءَ اے"
     },
     {
-      "surface": "אֹתָ֑ךְ",
+      "surface": "אתך",
       "gloss": "⟨את⟩ تئے",
       "marks": "تئے"
     },
     {
-      "surface": "ר֚וּחַ",
+      "surface": "רוח",
       "gloss": "واہک"
     },
     {
-      "surface": "הַקָּדִ֔ים",
+      "surface": "הקדים",
       "gloss": "روتءِ"
     },
     {
-      "surface": "שְׁבָרֵ֖ךְ",
+      "surface": "שברך",
       "gloss": "تئے اِشکنیت"
     },
     {
-      "surface": "בְּלֵ֥ב",
+      "surface": "בלב",
       "gloss": "دلءَ تہ"
     },
     {
-      "surface": "יַמִּֽים",
+      "surface": "ימים",
       "gloss": "سمندرانی"
     }
-  ],
-  "timestamp": "2026-09-25T16:16:05.192497590Z",
-  "model": "glm-5.3"
+  ]
 }

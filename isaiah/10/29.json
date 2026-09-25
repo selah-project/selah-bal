@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "isaiah 10:29",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:10:00.367020065Z",
+  "verse": 29,
+  "ref": "isaiah 10:29",
+  "tier": "glm-5.2",
   "chapter": 10,
   "translation": "گوزرت کتنت چہ مَعبَرءَ؛ گبا مانشتگاں استنگ بیتگ پہ ما؛ رامہ چہ ترس لرزیت؛ گِبعتءِ شاول بگریت۔",
   "tokens": [
     {
-      "surface": "עָֽבְרוּ֙",
+      "surface": "עברו",
       "gloss": "گوزرت کتنت"
     },
     {
-      "surface": "מַעְבָּרָ֔ה",
+      "surface": "מעברה",
       "gloss": "مَعبَرءَ"
     },
     {
-      "surface": "גֶּ֖בַע",
+      "surface": "גבע",
       "gloss": "گبا"
     },
     {
-      "surface": "מָל֣וֹן",
+      "surface": "מלון",
       "gloss": "استنگاں"
     },
     {
-      "surface": "לָ֑נוּ",
+      "surface": "לנו",
       "gloss": "پہ ما"
     },
     {
-      "surface": "חָֽרְדָה֙",
+      "surface": "חרדה",
       "gloss": "چہ ترس لرزیت"
     },
     {
-      "surface": "הָֽרָמָ֔ה",
+      "surface": "הרמה",
       "gloss": "رامہ"
     },
     {
-      "surface": "גִּבְעַ֥ת",
+      "surface": "גבעת",
       "gloss": "گِبعتءِ"
     },
     {
-      "surface": "שָׁא֖וּל",
+      "surface": "שאול",
       "gloss": "شاول"
     },
     {
-      "surface": "נָֽסָה",
+      "surface": "נסה",
       "gloss": "بگریت"
     }
-  ],
-  "timestamp": "2026-09-25T17:10:00.367020065Z",
-  "model": "glm-5.3"
+  ]
 }

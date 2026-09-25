@@ -1,81 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "joshua 21:34",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:47:19.782721235Z",
+  "verse": 34,
+  "ref": "joshua 21:34",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "ءُ پہ مِراریءِ زہگانی ٹولیانی، لاویانی کہ پُچ Antarcticaنت، چہ زبولونءِ ⟨את⟩ ٹولیءَ ⟨את⟩ یکنام ءُ ⟨את⟩ آییءِ چراگاہ، ⟨את⟩ کارتہ ءُ ⟨את⟩ آییءِ چراگاہ دات بیت۔",
   "tokens": [
     {
-      "surface": "וּלְמִשְׁפְּח֣וֹת",
+      "surface": "ולמשפחות",
       "gloss": "ءُ پہ ٹولیان"
     },
     {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "زہگانی"
     },
     {
-      "surface": "מְרָרִי֮",
+      "surface": "מררי",
       "gloss": "مِراری"
     },
     {
-      "surface": "הַלְוִיִּ֣ם",
+      "surface": "הלוים",
       "gloss": "لاویان"
     },
     {
-      "surface": "הַנּוֹתָרִים֒",
+      "surface": "הנותרים",
       "gloss": "کہ پُچ انت"
     },
     {
-      "surface": "מֵאֵת֙",
+      "surface": "מאת",
       "gloss": "⟨את⟩ چہ"
     },
     {
-      "surface": "מַטֵּ֣ה",
+      "surface": "מטה",
       "gloss": "ٹولیءَ"
     },
     {
-      "surface": "זְבוּלֻ֔ן",
+      "surface": "זבולן",
       "gloss": "زبولون"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یکنام"
     },
     {
-      "surface": "יָקְנְעָ֖ם",
+      "surface": "יקנעם",
       "gloss": "یکنام"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ چراگاہ"
     },
     {
-      "surface": "מִגְרָשֶׁ֑הָ",
+      "surface": "מגרשה",
       "gloss": "آییءِ چراگاہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کارتہ"
     },
     {
-      "surface": "קַרְתָּ֖ה",
+      "surface": "קרתה",
       "gloss": "کارتہ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ چراگاہ"
     },
     {
-      "surface": "מִגְרָשֶֽׁהָ",
+      "surface": "מגרשה",
       "gloss": "آییءِ چراگاہ"
     }
-  ],
-  "timestamp": "2026-09-25T18:47:19.782721235Z",
-  "model": "glm-5.3"
+  ]
 }

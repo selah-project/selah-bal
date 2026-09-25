@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "lamentations 4:17",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:13:07.245592520Z",
+  "verse": 17,
+  "ref": "lamentations 4:17",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "هنوز چمءان ماں فنا بنت پہ پُشتَوانی ماں کہ ہبال اِنت؛ ماں چمگانی ماں چمگ کت پہ قومے کہ نہ رہا کنیت۔",
   "tokens": [
@@ -24,7 +26,7 @@
       "gloss": "پہ"
     },
     {
-      "surface": "עזרתנو",
+      "surface": "עזרתנו",
       "gloss": "پُشتَوانی ماں"
     },
     {
@@ -55,7 +57,5 @@
       "surface": "יושע",
       "gloss": "رہا کنیت"
     }
-  ],
-  "timestamp": "2026-09-25T21:13:07.245592520Z",
-  "model": "glm-5.3"
+  ]
 }

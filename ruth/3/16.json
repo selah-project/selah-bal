@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "ruth 3:16",
   "book": "ruth",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:51:27.222218037Z",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "ءُ آیی تہ وتی ماںشیرے روئت، ءُ گوَشت: تو کے اِنت، منی جنک؟ ءُ آییءَ ⟨את⟩ ہمگ آ گوَشت کہ اے مرد آییءِ پہ کت.",
   "tokens": [
     {
-      "surface": "וַתָּבוֹא",
+      "surface": "ותבוא",
       "gloss": "ءُ روئت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "חֲמוֹתָהּ",
+      "surface": "חמותה",
       "gloss": "وتی ماںشیرے"
     },
     {
-      "surface": "וַתֹּאמֶר",
+      "surface": "ותאמר",
       "gloss": "ءُ گوَشت"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "אַתְּ",
+      "surface": "את",
       "gloss": "تو"
     },
     {
-      "surface": "בִּתִּי",
+      "surface": "בתי",
       "gloss": "منی جنک"
     },
     {
-      "surface": "וַתַּגֶּד",
+      "surface": "ותגד",
       "gloss": "ءُ پدا گوَشت"
     },
     {
-      "surface": "לָהּ",
+      "surface": "לה",
       "gloss": "آییءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہمگ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہمگ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ"
     },
     {
-      "surface": "עָשָׂה",
+      "surface": "עשה",
       "gloss": "کت"
     },
     {
-      "surface": "לָהּ",
+      "surface": "לה",
       "gloss": "آییءِ پہ"
     },
     {
-      "surface": "הָאִישׁ",
+      "surface": "האיש",
       "gloss": "اے مرد"
     }
-  ],
-  "timestamp": "2026-09-25T20:51:27.222218037Z",
-  "model": "glm-5.3"
+  ]
 }

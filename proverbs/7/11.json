@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "proverbs 7:11",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:21:21.550998373Z",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ہمّاں وانوک اِنت ءُ سرکش، آییءِ پا ءُ آییءِ گادءَ تہ آرام نہ گرنت۔",
   "tokens": [
     {
-      "surface": "הֹמִיָּה",
+      "surface": "המיה",
       "gloss": "ہمّاں وانوک"
     },
     {
-      "surface": "הִיא",
+      "surface": "היא",
       "gloss": "اِنت"
     },
     {
-      "surface": "וְסֹרָרֶת",
+      "surface": "וסררת",
       "gloss": "ءُ سرکش"
     },
     {
-      "surface": "בְּבֵיתָהּ",
+      "surface": "בביתה",
       "gloss": "آییءِ گادءَ تہ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִשְׁכְּנוּ",
+      "surface": "ישכנו",
       "gloss": "آرام گرنت"
     },
     {
-      "surface": "רַגְלֶיהָ",
+      "surface": "רגליה",
       "gloss": "آییءِ پا"
     }
-  ],
-  "timestamp": "2026-09-25T20:21:21.550998373Z",
-  "model": "glm-5.3"
+  ]
 }

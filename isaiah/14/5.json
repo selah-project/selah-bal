@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "isaiah 14:5",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:13:21.029475148Z",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "یاہوہءَ بدانءِ ماچی اِشکست، حاکمانءِ ماچی اِشکست",
   "tokens": [
     {
-      "surface": "שָׁבַ֥ר",
+      "surface": "שבר",
       "gloss": "اِشکست"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "מַטֵּ֣ה",
+      "surface": "מטה",
       "gloss": "ماچی"
     },
     {
-      "surface": "רְשָׁעִ֑ים",
+      "surface": "רשעים",
       "gloss": "بدانءِ"
     },
     {
-      "surface": "שֵׁ֖בֶט",
+      "surface": "שבט",
       "gloss": "ماچی"
     },
     {
-      "surface": "מֹשְׁלִֽים",
+      "surface": "משלים",
       "gloss": "حاکمانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T17:13:21.029475148Z",
-  "model": "glm-5.3"
+  ]
 }

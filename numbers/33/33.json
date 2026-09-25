@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "numbers 33:33",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:01:31.882396757Z",
+  "verse": 33,
+  "ref": "numbers 33:33",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "ءُ چہ حور-ہگدگد چو روتنت، ءُ تہ یَتباتہ پڑاؤ کتنت۔",
   "tokens": [
@@ -20,14 +22,12 @@
       "gloss": "حور-ہگدگد"
     },
     {
-      "surface": "ויחנو",
+      "surface": "ויחנו",
       "gloss": "ءُ پڑاؤ کتنت"
     },
     {
       "surface": "ביטבתה",
       "gloss": "تہ یَتباتہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:01:31.882396757Z",
-  "model": "glm-5.3"
+  ]
 }

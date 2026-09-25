@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "leviticus 7:3",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:28:11.508999496Z",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "ءُ ⟨את⟩ آییءِ پوریں چربی چہ آیءَ پیش کیت — ⟨את⟩ دُمءِ چربی ءُ ⟨את⟩ چربی کہ ⟨את⟩ اندرونی ڈگارءَ ڈپیت —",
   "tokens": [
     {
-      "surface": "וְאֵ֥ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پوریں چربی"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "חֶלְבּוֹ",
+      "surface": "חלבו",
       "gloss": "آییءِ چربی"
     },
     {
-      "surface": "יַקְרִ֣יב",
+      "surface": "יקריב",
       "gloss": "پیش کیت"
     },
     {
-      "surface": "מִמֶּ֑נּוּ",
+      "surface": "ממנו",
       "gloss": "چہ آیءَ"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "دُمءِ چربی"
     },
     {
-      "surface": "הָֽאַלְיָ֔ה",
+      "surface": "האליה",
       "gloss": "دُمءِ چربی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "چربی"
     },
     {
-      "surface": "הַחֵ֖לֶב",
+      "surface": "החלב",
       "gloss": "چربی"
     },
     {
-      "surface": "הַֽמְכַסֶּ֥ה",
+      "surface": "המכסה",
       "gloss": "ڈپیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اندرونی ڈگار"
     },
     {
-      "surface": "הַקֶּֽרֶב",
+      "surface": "הקרב",
       "gloss": "اندرونی ڈگار"
     }
-  ],
-  "timestamp": "2026-09-25T19:28:11.508999496Z",
-  "model": "glm-5.3"
+  ]
 }

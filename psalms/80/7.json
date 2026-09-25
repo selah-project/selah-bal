@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "psalms 80:7",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:47:48.875042627Z",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "tier": "glm-5.2",
   "chapter": 80,
   "translation": "تو مائَ ماں گوانڈیانی شکار جهلءِ سوج کنیت، ءُ ماں دشمنان ما آیءَ تہ ہرس کننت۔",
   "tokens": [
     {
-      "surface": "תְּשִׂימֵ֣נוּ",
+      "surface": "תשימנו",
       "gloss": "تو مائَ … کنیت"
     },
     {
-      "surface": "מָ֭דוֹן",
+      "surface": "מדון",
       "gloss": "جهلءِ سوج"
     },
     {
-      "surface": "לִשְׁכֵנֵ֑ינוּ",
+      "surface": "לשכנינו",
       "gloss": "ماں گوانڈیانی شکار"
     },
     {
-      "surface": "וְ֝אֹיְבֵ֗ינוּ",
+      "surface": "ואיבינו",
       "gloss": "ءُ ماں دشمنان ما"
     },
     {
-      "surface": "יִלְעֲגוּ",
+      "surface": "ילעגו",
       "gloss": "ہرس کننت"
     },
     {
-      "surface": "לָֽמוֹ",
+      "surface": "למו",
       "gloss": "آیءَ تہ"
     }
-  ],
-  "timestamp": "2026-09-25T20:47:48.875042627Z",
-  "model": "glm-5.3"
+  ]
 }

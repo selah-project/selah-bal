@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "deuteronomy 29:7",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:20:37.942094219Z",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ ما ⟨את⟩ اِشانی زمین گپت ءُ آءَ پہ میراثءَ رَؤوِنیانی ءُ گادیانی ءُ مَنَشیءِ ٹولیءِ نیmgیمیک دات",
   "tokens": [
@@ -29,11 +31,11 @@
       "gloss": "پہ میراثءَ"
     },
     {
-      "surface": "لראובני",
+      "surface": "לראובני",
       "gloss": "رَؤوِنیانی"
     },
     {
-      "surface": "وלגדי",
+      "surface": "ולגדי",
       "gloss": "ءُ گادیانی"
     },
     {
@@ -48,7 +50,5 @@
       "surface": "המנשי",
       "gloss": "مَنَشیءِ"
     }
-  ],
-  "timestamp": "2026-09-25T15:20:37.942094219Z",
-  "model": "glm-5.3"
+  ]
 }

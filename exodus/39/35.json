@@ -1,44 +1,44 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
-  "ref": "exodus 39:35",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:02:07.151156777Z",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "tier": "glm-5.2",
   "chapter": 39,
   "translation": "⟨את⟩ گواہیءِ صندوق ءُ ⟨את⟩ آییءِ بانڈ ءُ ⟨את⟩ کپورت،",
   "tokens": [
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گواہیءِ صندوق"
     },
     {
-      "surface": "אֲרֹ֥ן",
+      "surface": "ארן",
       "gloss": "صندوق"
     },
     {
-      "surface": "הָעֵדֻ֖ת",
+      "surface": "העדת",
       "gloss": "گواہیءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ بانڈ"
     },
     {
-      "surface": "בַּדָּ֑יו",
+      "surface": "בדיו",
       "gloss": "آییءِ بانڈ"
     },
     {
-      "surface": "וְאֵ֖ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "کپورت"
     },
     {
-      "surface": "הַכַּפֹּֽרֶת",
+      "surface": "הכפרת",
       "gloss": "کپورت"
     }
-  ],
-  "timestamp": "2026-09-25T16:02:07.151156777Z",
-  "model": "glm-5.3"
+  ]
 }

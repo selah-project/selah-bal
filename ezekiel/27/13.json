@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "ezekiel 27:13",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:15:42.496702235Z",
+  "verse": 13,
+  "ref": "ezekiel 27:13",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "یَوان، تُبال ءُ مِشِک — آ اِش تُرءِ رِکال اِنت؛ گوں مردمانی جان ءُ تانبائیں اسباب، تُرءِ مالِجنس ؁َ بدل کت.",
   "tokens": [
     {
-      "surface": "יָוָ֤ן",
+      "surface": "יון",
       "gloss": "یَوان"
     },
     {
-      "surface": "תֻּבַל֙",
+      "surface": "תבל",
       "gloss": "تُبال"
     },
     {
-      "surface": "וָמֶ֔שֶׁךְ",
+      "surface": "ומשך",
       "gloss": "ءُ مِشِک"
     },
     {
-      "surface": "הֵ֖מָּה",
+      "surface": "המה",
       "gloss": "آ اِش"
     },
     {
-      "surface": "רֹֽכְלָ֑יִךְ",
+      "surface": "רכליך",
       "gloss": "تُرءِ رِکال"
     },
     {
-      "surface": "בְּנֶ֤פֶשׁ",
+      "surface": "בנפש",
       "gloss": "گوں جان"
     },
     {
-      "surface": "אָדָם֙",
+      "surface": "אדם",
       "gloss": "مردمانی"
     },
     {
-      "surface": "וּכְלֵ֣י",
+      "surface": "וכלי",
       "gloss": "ءُ اسباب"
     },
     {
-      "surface": "נְחֹ֔שֶׁת",
+      "surface": "נחשת",
       "gloss": "تانبائیں"
     },
     {
-      "surface": "נָתְנ֖וּ",
+      "surface": "נתנו",
       "gloss": "بدل کت"
     },
     {
-      "surface": "מַעֲרָבֵֽךְ",
+      "surface": "מערבך",
       "gloss": "تُرءِ مالِجنس"
     }
-  ],
-  "timestamp": "2026-09-25T16:15:42.496702235Z",
-  "model": "glm-5.3"
+  ]
 }

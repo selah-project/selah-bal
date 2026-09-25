@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "1-samuel 4:11",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:31:28.734203560Z",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ ایلوہیمءِ صندوق گپتہ بوت، ءُ عِلیءِ دو زہگان مُتنت، حُپنی ءُ پِنحاس۔",
   "tokens": [
     {
-      "surface": "וַאֲר֥וֹן",
+      "surface": "וארון",
       "gloss": "ءُ صندوق"
     },
     {
-      "surface": "אֱלֹהִ֖ים",
+      "surface": "אלהים",
       "gloss": "ایلوہیمءِ"
     },
     {
-      "surface": "נִלְקָ֑ח",
+      "surface": "נלקח",
       "gloss": "گپتہ بوت"
     },
     {
-      "surface": "וּשְׁנֵ֤י",
+      "surface": "ושני",
       "gloss": "ءُ دو"
     },
     {
-      "surface": "בְנֵֽי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "עֵלִי֙",
+      "surface": "עלי",
       "gloss": "عِلیءِ"
     },
     {
-      "surface": "מֵ֔תוּ",
+      "surface": "מתו",
       "gloss": "مُتنت"
     },
     {
-      "surface": "חָפְנִ֖י",
+      "surface": "חפני",
       "gloss": "حُپنی"
     },
     {
-      "surface": "וּפִֽינְחָֽס",
+      "surface": "ופינחס",
       "gloss": "ءُ پِنحاس"
     }
-  ],
-  "timestamp": "2026-09-25T13:31:28.734203560Z",
-  "model": "glm-5.3"
+  ]
 }

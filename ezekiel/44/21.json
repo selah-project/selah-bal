@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "ezekiel 44:21",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:26:32.940978701Z",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "tier": "glm-5.2",
   "chapter": 44,
   "translation": "ءُ شراب ہچ کاہن نہ گپیت چهڑکءَ کتیو گاہ کہ آءَ اِشانی آمدءِ روچ، آیان چہ داہنی گاہءَ کپنت.",
   "tokens": [
@@ -16,7 +18,7 @@
       "gloss": "نہ"
     },
     {
-      "surface": "ישתو",
+      "surface": "ישתו",
       "gloss": "گپیت"
     },
     {
@@ -43,7 +45,5 @@
       "surface": "הפנימית",
       "gloss": "داہنی"
     }
-  ],
-  "timestamp": "2026-09-25T16:26:32.940978701Z",
-  "model": "glm-5.3"
+  ]
 }

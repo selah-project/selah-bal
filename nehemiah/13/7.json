@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "nehemiah 13:7",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:37:41.737544112Z",
+  "verse": 7,
+  "ref": "nehemiah 13:7",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ من یورشلمءَ آیم، ءُ گندیتں کہ اَلیاشیب پہ طوبیہ کتیشءِ چم کت گوَشت کہ آییءَ پہ یک کوتہیءِ جاگہ بہ ایلوہیمءِ گانی دروازیاں تہ جوڑ کنت۔",
   "tokens": [
     {
-      "surface": "וָאָבוֹא",
+      "surface": "ואבוא",
       "gloss": "ءُ من آیم"
     },
     {
-      "surface": "לִירוּשָׁלִַם",
+      "surface": "לירושלם",
       "gloss": "یورشلمءَ"
     },
     {
-      "surface": "וָאָבִינָה",
+      "surface": "ואבינה",
       "gloss": "ءُ گندیتں کہ"
     },
     {
-      "surface": "בָּרָעָה",
+      "surface": "ברעה",
       "gloss": "کتیشءِ چم"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָשָׂה",
+      "surface": "עשה",
       "gloss": "کت"
     },
     {
-      "surface": "אֶלְיָשִׁיב",
+      "surface": "אלישיב",
       "gloss": "اَلیاشیب پہ طوبیہ گوَشت"
     },
     {
-      "surface": "לְטוֹבִיָּה",
+      "surface": "לטוביה",
       "gloss": ""
     },
     {
-      "surface": "לַעֲשׂוֹת",
+      "surface": "לעשות",
       "gloss": "جوڑ کنت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ پہ"
     },
     {
-      "surface": "נִשְׁכָּה",
+      "surface": "נשכה",
       "gloss": "کوتہیءِ جاگہ"
     },
     {
-      "surface": "בְּחַצְרֵי",
+      "surface": "בחצרי",
       "gloss": "دروازیاں تہ"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "گانی"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "ایلوہیمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:37:41.737544112Z",
-  "model": "glm-5.3"
+  ]
 }

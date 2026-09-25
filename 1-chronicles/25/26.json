@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "1-chronicles 25:26",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T12:40:22.238843075Z",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "نہمی پہ مَلّوتیءَ، آییءِ زہگان ءُ آییءِ براتان دو دہ اَنت۔",
   "tokens": [
     {
-      "surface": "לְתִשְׁעָה",
+      "surface": "לתשעה",
       "gloss": "نہمی پہ"
     },
     {
-      "surface": "עָשָׂר",
+      "surface": "עשר",
       "gloss": "نہمی"
     },
     {
-      "surface": "לְמַלּוֹתִי",
+      "surface": "למלותי",
       "gloss": "مَلّوتیءَ"
     },
     {
-      "surface": "בָּנָיו",
+      "surface": "בניו",
       "gloss": "آییءِ زہگان"
     },
     {
-      "surface": "וְאֶחָיו",
+      "surface": "ואחיו",
       "gloss": "ءُ آییءِ براتان"
     },
     {
-      "surface": "שְׁנֵים",
+      "surface": "שנים",
       "gloss": "دو"
     },
     {
-      "surface": "עָשָׂר",
+      "surface": "עשר",
       "gloss": "دہ"
     }
-  ],
-  "timestamp": "2026-09-25T12:40:22.238843075Z",
-  "model": "glm-5.3"
+  ]
 }

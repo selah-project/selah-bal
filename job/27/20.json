@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "job 27:20",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:26:47.995159562Z",
+  "verse": 20,
+  "ref": "job 27:20",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "بیمان آییءَ چوش آپان گپیت ءُ شپءَ ءُ یک طوفان آییءَ چور کت۔",
   "tokens": [
     {
-      "surface": "תַּשִּׂיגֵ֣הוּ",
+      "surface": "תשיגהו",
       "gloss": "گپیت ءُ آییءَ"
     },
     {
-      "surface": "כַ֭מַּיִם",
+      "surface": "כמים",
       "gloss": "چوش آپان"
     },
     {
-      "surface": "בַּלָּה֑וֹת",
+      "surface": "בלהות",
       "gloss": "بیمان"
     },
     {
-      "surface": "לַ֝֗יְלָה",
+      "surface": "לילה",
       "gloss": "شپءَ"
     },
     {
-      "surface": "גְּנָבַ֥תּוּ",
+      "surface": "גנבתו",
       "gloss": "چور کت ءُ آییءَ"
     },
     {
-      "surface": "ס֣וּפָֽה",
+      "surface": "סופה",
       "gloss": "یک طوفان"
     }
-  ],
-  "timestamp": "2026-09-25T18:26:47.995159562Z",
-  "model": "glm-5.3"
+  ]
 }

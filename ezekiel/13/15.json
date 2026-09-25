@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "ezekiel 13:15",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T16:06:32.489172978Z",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ مان وتی دیماں ⟨את⟩ پوری کنیں چہ دیوارءَ ءُ چہ آءِ ءَ نرم چمگاہءَ ڈننگے ءَ تہ ⟨את⟩ آییءَ، ءُ شمارءَ ؤ گوَشت: دیوار نیست ءُ چمگاہءَ ڈننگے نیست ⟨את⟩ آءِ ءَ۔",
   "tokens": [
     {
-      "surface": "וְכִלֵּיתִי",
+      "surface": "וכליתי",
       "gloss": "ءُ مان پوری کنیں"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی دیماں"
     },
     {
-      "surface": "חֲמָתִי",
+      "surface": "חמתי",
       "gloss": "وتی دیماں"
     },
     {
-      "surface": "בַּקִּיר",
+      "surface": "בקיר",
       "gloss": "چہ دیوارءَ"
     },
     {
-      "surface": "וּבַטָּחִים",
+      "surface": "ובטחים",
       "gloss": "ءُ چہ ڈننگے ءَ"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ (دیوار)"
     },
     {
-      "surface": "תָּפֵל",
+      "surface": "תפל",
       "gloss": "نرم چمگاہ"
     },
     {
-      "surface": "וְאֹמַר",
+      "surface": "ואמר",
       "gloss": "ءُ ؤ گوَشت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "شمارءَ"
     },
     {
-      "surface": "אֵין",
+      "surface": "אין",
       "gloss": "نیشت"
     },
     {
-      "surface": "הַקִּיר",
+      "surface": "הקיר",
       "gloss": "دیوار"
     },
     {
-      "surface": "וְאֵין",
+      "surface": "ואין",
       "gloss": "ءُ نیشت"
     },
     {
-      "surface": "הַטָּחִים",
+      "surface": "הטחים",
       "gloss": "چمگاہءَ ڈننگے"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آءِ ءَ",
       "marks": "آءِ (دیوار)"
     }
-  ],
-  "timestamp": "2026-09-25T16:06:32.489172978Z",
-  "model": "glm-5.3"
+  ]
 }

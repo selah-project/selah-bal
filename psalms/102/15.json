@@ -1,47 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "psalms 102:15",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:22:48.571030689Z",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "tier": "glm-5.2",
   "chapter": 102,
   "translation": "کی چہ تُہءِ چاکران ⟨את⟩ آییءِ سنگانءَ خوش بیت ءُ ⟨את⟩ آییءِ مٹیءَ رحم کننت",
   "tokens": [
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کی چہ"
     },
     {
-      "surface": "רָצ֣וּ",
+      "surface": "רצו",
       "gloss": "خوش بیت"
     },
     {
-      "surface": "עֲבָדֶ֭יךָ",
+      "surface": "עבדיך",
       "gloss": "تُہءِ چاکران"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ سنگانءَ"
     },
     {
-      "surface": "אֲבָנֶ֑יהָ",
+      "surface": "אבניה",
       "gloss": "آییءِ سنگانءَ"
     },
     {
-      "surface": "וְֽאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ مٹیءَ"
     },
     {
-      "surface": "עֲפָרָ֥הּ",
+      "surface": "עפרה",
       "gloss": "آییءِ مٹیءَ"
     },
     {
-      "surface": "יְחֹנֵֽנוּ",
+      "surface": "יחננו",
       "gloss": "رحم کننت"
     }
-  ],
-  "timestamp": "2026-09-25T20:22:48.571030689Z",
-  "model": "glm-5.3"
+  ]
 }

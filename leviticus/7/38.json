@@ -1,88 +1,88 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
-  "ref": "leviticus 7:38",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:28:10.025398526Z",
+  "verse": 38,
+  "ref": "leviticus 7:38",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "کہ یاہوہءَ موشہءَ ⟨את⟩ سینا ءِ کۏہءَ حکم کت، اے وہدءَ کہ آییءَ ⟨את⟩ اسرائیلیءِ زہگانءَ حکم کت کہ اِشانی قربانیاں یاہوہءِ پہ نزدیک کننت، سینا ءِ بیراںءَ تہ.",
   "tokens": [
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "צִוָּ֧ה",
+      "surface": "צוה",
       "gloss": "حکم کت"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "موشہءَ"
     },
     {
-      "surface": "מֹשֶׁ֖ה",
+      "surface": "משה",
       "gloss": "موشہءَ"
     },
     {
-      "surface": "בְּהַ֣ר",
+      "surface": "בהר",
       "gloss": "کۏہءَ تہ"
     },
     {
-      "surface": "סִינָ֑י",
+      "surface": "סיני",
       "gloss": "سینا ءِ"
     },
     {
-      "surface": "בְּי֨וֹם",
+      "surface": "ביום",
       "gloss": "اے وہدءَ کہ"
     },
     {
-      "surface": "צַוֺּת֜וֹ",
+      "surface": "צותו",
       "gloss": "آییءَ حکم کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اسرائیلیءِ زہگانءَ"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵ֗ל",
+      "surface": "ישראל",
       "gloss": "اسرائیلیءِ"
     },
     {
-      "surface": "לְהַקְרִ֧יב",
+      "surface": "להקריב",
       "gloss": "نزدیک کننت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اِشانی قربانیاں"
     },
     {
-      "surface": "קָרְבְּנֵיהֶ֛ם",
+      "surface": "קרבניהם",
       "gloss": "اِشانی قربانیاں"
     },
     {
-      "surface": "לַיהוָ֖ה",
+      "surface": "ליהוה",
       "gloss": "یاہوہءِ پہ"
     },
     {
-      "surface": "בְּמִדְבַּ֥ר",
+      "surface": "במדבר",
       "gloss": "بیراںءَ تہ"
     },
     {
-      "surface": "סִינָֽי",
+      "surface": "סיני",
       "gloss": "سینا ءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:28:10.025398526Z",
-  "model": "glm-5.3"
+  ]
 }

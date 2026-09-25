@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "job 17:7",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:22:00.475575089Z",
+  "verse": 7,
+  "ref": "job 17:7",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "ءُ چہ دگدری چمءِ مَں تہاری گرت، ءُ مَںءِ اعضاں ہمگ چوش ساہءَ اِنت۔",
   "tokens": [
     {
-      "surface": "וַתֵּכַהּ",
+      "surface": "ותכה",
       "gloss": "ءُ چہ دگدری چمءِ مَں تہاری گرت"
     },
     {
-      "surface": "מִכַּעַשׂ",
+      "surface": "מכעש",
       "gloss": "چہ دگدری"
     },
     {
-      "surface": "עֵינִי",
+      "surface": "עיני",
       "gloss": "چمءِ مَں"
     },
     {
-      "surface": "וִיצֻרַי",
+      "surface": "ויצרי",
       "gloss": "ءُ مَںءِ اعضاں"
     },
     {
-      "surface": "כַּצֵּל",
+      "surface": "כצל",
       "gloss": "چوش ساہءَ"
     },
     {
-      "surface": "כֻּלָּם",
+      "surface": "כלם",
       "gloss": "ہمگ"
     }
-  ],
-  "timestamp": "2026-09-25T18:22:00.475575089Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "deuteronomy 32:30",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:27:08.246694607Z",
+  "verse": 30,
+  "ref": "deuteronomy 32:30",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "چونگت یک ہزارءَ پچ گندیت ءُ دو دہ ہزارءَ دَر کَنیت، اگر نہ کہ آیانی چٹان آیانءَ پُروشت ءُ یاہوہ آیانءَ تسلیم کتگ اَنت؟",
   "tokens": [
     {
-      "surface": "אֵיכָ֞ה",
+      "surface": "איכה",
       "gloss": "چونگت"
     },
     {
-      "surface": "יִרְדֹּ֤ף",
+      "surface": "ירדף",
       "gloss": "پچ گندیت"
     },
     {
-      "surface": "אֶחָד֙",
+      "surface": "אחד",
       "gloss": "یک"
     },
     {
-      "surface": "אֶ֔לֶף",
+      "surface": "אלף",
       "gloss": "ہزارءَ"
     },
     {
-      "surface": "וּשְׁנַ֖יִם",
+      "surface": "ושנים",
       "gloss": "ءُ دو"
     },
     {
-      "surface": "יָנִ֣יסוּ",
+      "surface": "יניסו",
       "gloss": "دَر کَنیت"
     },
     {
-      "surface": "רְבָבָ֑ה",
+      "surface": "רבבה",
       "gloss": "دہ ہزارءَ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "اگر"
     },
     {
-      "surface": "לֹא֙",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "צוּרָ֣ם",
+      "surface": "צורם",
       "gloss": "آیانی چٹان"
     },
     {
-      "surface": "מְכָרָ֔ם",
+      "surface": "מכרם",
       "gloss": "آیانءَ پُروشت"
     },
     {
-      "surface": "וַֽיהוָ֖ה",
+      "surface": "ויהוה",
       "gloss": "ءُ یاہوہ"
     },
     {
-      "surface": "הִסְגִּירָֽם",
+      "surface": "הסגירם",
       "gloss": "آیانءَ تسلیم کتگ"
     }
-  ],
-  "timestamp": "2026-09-25T15:27:08.246694607Z",
-  "model": "glm-5.3"
+  ]
 }

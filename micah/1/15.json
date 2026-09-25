@@ -1,57 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "micah 1:15",
   "book": "micah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:32:54.311859198Z",
+  "verse": 15,
+  "ref": "micah 1:15",
+  "tier": "glm-5.2",
   "chapter": 1,
   "translation": "روتی من یک دگہ وارث تہءَ انیں، اے ماریشا ءِ رہونک؛ ایسراایلءِ شانئوک عَدُلامءَ اَنت۔",
   "tokens": [
     {
-      "surface": "עֹ֗ד",
+      "surface": "עד",
       "gloss": "روتی"
     },
     {
-      "surface": "הַיֹּרֵשׁ֙",
+      "surface": "הירש",
       "gloss": "وارث"
     },
     {
-      "surface": "אָ֣בִי",
+      "surface": "אבי",
       "gloss": "من … انیں"
     },
     {
-      "surface": "לָ֔ךְ",
+      "surface": "לך",
       "gloss": "تہءَ"
     },
     {
-      "surface": "יוֹשֶׁ֖בֶת",
+      "surface": "יושבת",
       "gloss": "رہونک"
     },
     {
-      "surface": "מָֽרֵשָׁ֑ה",
+      "surface": "מרשה",
       "gloss": "ماریشا"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "تہ"
     },
     {
-      "surface": "עֲדֻלָּ֥ם",
+      "surface": "עדלם",
       "gloss": "عَدُلامءَ"
     },
     {
-      "surface": "יָב֖וֹא",
+      "surface": "יבוא",
       "gloss": "اَنت"
     },
     {
-      "surface": "כְּב֥וֹד",
+      "surface": "כבוד",
       "gloss": "شانئوک"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "ایسراایلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:32:54.311859198Z",
-  "model": "glm-5.3"
+  ]
 }

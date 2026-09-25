@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "isaiah 42:19",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T17:26:05.942892171Z",
+  "verse": 19,
+  "ref": "isaiah 42:19",
+  "tier": "glm-5.2",
   "chapter": 42,
   "translation": "کەڑی کور اِنت، پرچا کہ منیءِ نوکر؟ ءُ گوںڑ چوش منیءِ پیغامبر کہ مہ لڑ اِنت؟ کەڑی کور اِنت چوش منزلت‌دار، ءُ کور چوش یاہوہءِ نوکر؟",
   "tokens": [
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کەڑی"
     },
     {
-      "surface": "עִוֵּר",
+      "surface": "עור",
       "gloss": "کور"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "غیر"
     },
     {
-      "surface": "עַבְדִּי",
+      "surface": "עבדי",
       "gloss": "منیءِ نوکر"
     },
     {
-      "surface": "וְחֵרֵשׁ",
+      "surface": "וחרש",
       "gloss": "ءُ گوںڑ"
     },
     {
-      "surface": "כְּמַלְאָכִי",
+      "surface": "כמלאכי",
       "gloss": "چوش منیءِ پیغامبر"
     },
     {
-      "surface": "אֶשְׁלָח",
+      "surface": "אשלח",
       "gloss": "مہ لڑ اِنت"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کەڑی"
     },
     {
-      "surface": "עִוֵּר",
+      "surface": "עור",
       "gloss": "کور"
     },
     {
-      "surface": "כְּמֻשְׁלָם",
+      "surface": "כמשלם",
       "gloss": "چوش منزلت‌دار"
     },
     {
-      "surface": "וְעִוֵּר",
+      "surface": "ועור",
       "gloss": "ءُ کور"
     },
     {
-      "surface": "כְּעֶבֶד",
+      "surface": "כעבד",
       "gloss": "چوش نوکر"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T17:26:05.942892171Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,109 +1,109 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
-  "ref": "deuteronomy 5:24",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T15:32:05.076091911Z",
+  "verse": 24,
+  "ref": "deuteronomy 5:24",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ اِشاں گوَشتیت: «چیر، یاہوہ مائیں ایلوہیمءَ ماںءَ ⟨את⟩ آییءِ شان ءُ ⟨את⟩ آییءِ برزگی ءُ ⟨את⟩ آییءِ آواز دات، ءُ آییءِ آواز چہ آتشءِ میانءَ گوشیں؛ اے روچ اے دیم گندی‌ئے کہ ایلوہیم ⟨את⟩ انسانءَ گپ گوَشت ءُ ⟨او⟩ زندگ بوت۔»",
   "tokens": [
     {
-      "surface": "וַתֹּאמְר֗וּ",
+      "surface": "ותאמרו",
       "gloss": "ءُ اِشاں گوَشتیت"
     },
     {
-      "surface": "הֵ֣ן",
+      "surface": "הן",
       "gloss": "چیر"
     },
     {
-      "surface": "הֶרְאָ֜נוּ",
+      "surface": "הראנו",
       "gloss": "ماںءَ دات"
     },
     {
-      "surface": "יְהוָ֤ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵ֨ינוּ֙",
+      "surface": "אלהינו",
       "gloss": "مائیں ایلوہیم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ شان"
     },
     {
-      "surface": "כְּבֹד֣וֹ",
+      "surface": "כבדו",
       "gloss": "آییءِ شان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ برزگی"
     },
     {
-      "surface": "גָּדְל֔וֹ",
+      "surface": "גדלו",
       "gloss": "آییءِ برزگی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ آواز"
     },
     {
-      "surface": "קֹל֥וֹ",
+      "surface": "קלו",
       "gloss": "آییءِ آواز"
     },
     {
-      "surface": "שָׁמַ֖עְנוּ",
+      "surface": "שמענו",
       "gloss": "گوشیں"
     },
     {
-      "surface": "מִתּ֣וֹךְ",
+      "surface": "מתוך",
       "gloss": "چہ میانءَ"
     },
     {
-      "surface": "הָאֵ֑שׁ",
+      "surface": "האש",
       "gloss": "آتشءِ"
     },
     {
-      "surface": "הַיּ֤וֹם",
+      "surface": "היום",
       "gloss": "اے روچ"
     },
     {
-      "surface": "הַזֶּה֙",
+      "surface": "הזה",
       "gloss": "اے"
     },
     {
-      "surface": "רָאִ֔ינוּ",
+      "surface": "ראינו",
       "gloss": "گندی‌ئے"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "יְדַבֵּ֧ר",
+      "surface": "ידבר",
       "gloss": "گپ گوَشت"
     },
     {
-      "surface": "אֱלֹהִ֛ים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "انسان"
     },
     {
-      "surface": "הָֽאָדָ֖ם",
+      "surface": "האדם",
       "gloss": "انسانءَ"
     },
     {
-      "surface": "וָחָֽי",
+      "surface": "וחי",
       "gloss": "ءُ زندگ بوت"
     }
-  ],
-  "timestamp": "2026-09-25T15:32:05.076091911Z",
-  "model": "glm-5.3"
+  ]
 }

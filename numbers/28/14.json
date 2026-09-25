@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "numbers 28:14",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:56:41.552538894Z",
+  "verse": 14,
+  "ref": "numbers 28:14",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ آیانی نستوانان ءَ نیمءِ ہین شراب پہ گاو بیت، ءُ سئیمیں حصہ ءُ ہین پہ نر گوسفند، ءُ چارمیں حصہ ءُ ہین پہ برّہ گوں شراب؛ اے سوچگیں قربانیءِ ماہءِ اِنت، ماں آییءِ ماہءَ، پہ سالءِ ماہاناں۔",
   "tokens": [
     {
-      "surface": "וְנִסְכֵּיהֶם",
+      "surface": "ונסכיהם",
       "gloss": "ءُ آیانی نستوانان"
     },
     {
-      "surface": "חֲצִי",
+      "surface": "חצי",
       "gloss": "نیمءِ"
     },
     {
-      "surface": "הַהִין",
+      "surface": "ההין",
       "gloss": "ہین"
     },
     {
-      "surface": "יִהְיֶה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "לַפָּר",
+      "surface": "לפר",
       "gloss": "پہ گاو"
     },
     {
-      "surface": "וּשְׁלִישִׁית",
+      "surface": "ושלישת",
       "gloss": "ءُ سئیمیں حصہ"
     },
     {
-      "surface": "הַהִין",
+      "surface": "ההין",
       "gloss": "ہین"
     },
     {
-      "surface": "לָאַיִל",
+      "surface": "לאיל",
       "gloss": "پہ نر گوسفند"
     },
     {
-      "surface": "וּרְבִיעִית",
+      "surface": "ורביעת",
       "gloss": "ءُ چارمیں حصہ"
     },
     {
-      "surface": "הַהִין",
+      "surface": "ההין",
       "gloss": "ہین"
     },
     {
-      "surface": "לַכֶּבֶשׂ",
+      "surface": "לכבש",
       "gloss": "پہ برّہ"
     },
     {
-      "surface": "יַיִן",
+      "surface": "יין",
       "gloss": "شراب"
     },
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "עֹלָה",
+      "surface": "עלת",
       "gloss": "سوچگیں قربانیءِ"
     },
     {
-      "surface": "חֹדֶשׁ",
+      "surface": "חדש",
       "gloss": "ماہءِ"
     },
     {
-      "surface": "בְּחָדְשׁוֹ",
+      "surface": "בחדשו",
       "gloss": "ماں آییءِ ماہءَ"
     },
     {
-      "surface": "לְחָדְשֵׁי",
+      "surface": "לחדשי",
       "gloss": "پہ ماہاناں"
     },
     {
-      "surface": "הַשָּׁנָה",
+      "surface": "השנה",
       "gloss": "سالءِ"
     }
-  ],
-  "timestamp": "2026-09-25T19:56:41.552538894Z",
-  "model": "glm-5.3"
+  ]
 }

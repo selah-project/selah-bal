@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "psalms 7:15",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:44:31.027358232Z",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "tier": "glm-5.2",
   "chapter": 7,
   "translation": "اے گور کن، اویلءِ درد کشیت ءُ شرارت گَنزیتگ، ءُ دروغ زائیتگ اِنت.",
   "tokens": [
     {
-      "surface": "הִנֵּה",
+      "surface": "הנה",
       "gloss": "اے گور کن"
     },
     {
-      "surface": "יְחַבֶּל",
+      "surface": "יחבל",
       "gloss": "درد کشیت"
     },
     {
-      "surface": "אָוֶן",
+      "surface": "און",
       "gloss": "اویل"
     },
     {
-      "surface": "וְהָרָה",
+      "surface": "והרה",
       "gloss": "ءُ گَنزیتگ"
     },
     {
-      "surface": "עָמָל",
+      "surface": "עמל",
       "gloss": "شرارت"
     },
     {
-      "surface": "וְיָלַד",
+      "surface": "וילד",
       "gloss": "ءُ زائیتگ"
     },
     {
-      "surface": "שֶׁקֶר",
+      "surface": "שקר",
       "gloss": "دروغ"
     }
-  ],
-  "timestamp": "2026-09-25T20:44:31.027358232Z",
-  "model": "glm-5.3"
+  ]
 }

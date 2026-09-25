@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "2-chronicles 2:5",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:42:41.390618563Z",
+  "verse": 5,
+  "ref": "2-chronicles 2:5",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "ءُ کے زور داریت کہ آییءَ پہ یک گدان جوڑ کنت، پرچا کہ آسمان ءُ آسمانانی آسمانان آییءَ نہ چمبیت ءُ؟ ءُ کے من ءُ یم کہ آییءَ گدان جوڑ کنم، ہمک پہ آییءِ پیشءَ سوچگیں قربانی سڑیجن پہ؟",
   "tokens": [
     {
-      "surface": "וּמִי",
+      "surface": "ומי",
       "gloss": "ءُ کے"
     },
     {
-      "surface": "יַעֲצָר",
+      "surface": "יעצר",
       "gloss": "داریت چمبیت"
     },
     {
-      "surface": "כֹּחַ",
+      "surface": "כח",
       "gloss": "زور"
     },
     {
-      "surface": "לִבְנוֹת",
+      "surface": "לבנות",
       "gloss": "جوڑ کنت"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "בַּיִת",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "הַשָּׁמַיִם",
+      "surface": "השמים",
       "gloss": "آسمان"
     },
     {
-      "surface": "וּשְׁמֵי",
+      "surface": "ושמי",
       "gloss": "ءُ آسمانانی"
     },
     {
-      "surface": "הַשָּׁמַיִם",
+      "surface": "השמים",
       "gloss": "آسمانان"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְכַלְכְּלֻהוּ",
+      "surface": "יכלכלהו",
       "gloss": "چمبیت ءُ آییءَ"
     },
     {
-      "surface": "וּמִי",
+      "surface": "ומי",
       "gloss": "ءُ کے"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אֶבְנֶה",
+      "surface": "אבנה",
       "gloss": "جوڑ کنم"
     },
     {
-      "surface": "לוֹ",
+      "surface": "לו",
       "gloss": "آییءَ"
     },
     {
-      "surface": "בַּיִת",
+      "surface": "בית",
       "gloss": "گدان"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "⟨پرچا⟩ ہمک"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "پہ"
     },
     {
-      "surface": "לְהַקְטִיר",
+      "surface": "להקטיר",
       "gloss": "سوچگیں قربانی سڑیجن"
     },
     {
-      "surface": "לְפָנָיו",
+      "surface": "לפניו",
       "gloss": "آییءِ پیشءَ"
     }
-  ],
-  "timestamp": "2026-09-25T13:42:41.390618563Z",
-  "model": "glm-5.3"
+  ]
 }

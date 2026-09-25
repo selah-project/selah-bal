@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
-  "ref": "deuteronomy 32:38",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:05:25.359152613Z",
+  "verse": 38,
+  "ref": "deuteronomy 32:38",
+  "tier": "glm-5.2",
   "chapter": 32,
   "translation": "آ کہ آیانی قربانیانی چربی مانیت ءُ آیانی پیزیءِ شراب شتنت — اُستنت ءُ تُہاری کننت، تُہانی سرا پناہ ببیت!",
   "tokens": [
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "חֵ֤לֶב",
+      "surface": "חלב",
       "gloss": "چربی"
     },
     {
-      "surface": "זְבָחֵ֨ימוֹ֙",
+      "surface": "זבחימו",
       "gloss": "آیانی قربانیانی"
     },
     {
-      "surface": "יֹאכֵ֔לוּ",
+      "surface": "יאכלו",
       "gloss": "مانیت"
     },
     {
-      "surface": "יִשְׁתּ֖וּ",
+      "surface": "ישתו",
       "gloss": "شتنت"
     },
     {
-      "surface": "יַ֣יִן",
+      "surface": "יין",
       "gloss": "شراب"
     },
     {
-      "surface": "נְסִיכָ֑ם",
+      "surface": "נסיכם",
       "gloss": "آیانی پیزیءِ"
     },
     {
-      "surface": "יָק֨וּמוּ֙",
+      "surface": "יקומו",
       "gloss": "اُستنت"
     },
     {
-      "surface": "וְיַעְזְרֻכֶ֔ם",
+      "surface": "ויעזרכם",
       "gloss": "ءُ تُہاری کننت"
     },
     {
-      "surface": "יְהִ֥י",
+      "surface": "יהי",
       "gloss": "ببیت"
     },
     {
-      "surface": "עֲלֵיכֶ֖ם",
+      "surface": "עליכם",
       "gloss": "تُہانی سرا"
     },
     {
-      "surface": "סִתְרָֽה",
+      "surface": "סתרה",
       "gloss": "پناہ"
     }
-  ],
-  "timestamp": "2026-09-25T21:05:25.359152613Z",
-  "model": "glm-5.3"
+  ]
 }

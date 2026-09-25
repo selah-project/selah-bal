@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "nehemiah 9:31",
   "book": "nehemiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:41:57.263175079Z",
+  "verse": 31,
+  "ref": "nehemiah 9:31",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "ءُ تئی گیشترین رحمتاں آیانءَ ہمک نہ کت، ءُ آیانءَ نہ چھوڑیت، کہ تو ہستیں ایلِ چنّ ءُ رحم والا ئے",
   "tokens": [
     {
-      "surface": "וּֽבְרַחֲמֶ֧יךָ",
+      "surface": "וברחמיך",
       "gloss": "ءُ تئی رحمتاں"
     },
     {
-      "surface": "הָרַבִּ֛ים",
+      "surface": "הרבים",
       "gloss": "گیشترین"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "עֲשִׂיתָ֥ם",
+      "surface": "עשיתם",
       "gloss": "آیانءَ کت"
     },
     {
-      "surface": "כָּלָ֖ה",
+      "surface": "כלה",
       "gloss": "ہمک"
     },
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "עֲזַבְתָּ֑ם",
+      "surface": "עזבתם",
       "gloss": "آیانءَ چھوڑیت"
     },
     {
-      "surface": "כִּ֛י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "אֵ֥ל",
+      "surface": "אל",
       "gloss": "ایل"
     },
     {
-      "surface": "חַנּ֥וּן",
+      "surface": "חנון",
       "gloss": "چنّ"
     },
     {
-      "surface": "וְרַח֖וּם",
+      "surface": "ורחום",
       "gloss": "ءُ رحم والا"
     },
     {
-      "surface": "אָֽתָּה",
+      "surface": "אתה",
       "gloss": "تو ئے"
     }
-  ],
-  "timestamp": "2026-09-25T19:41:57.263175079Z",
-  "model": "glm-5.3"
+  ]
 }

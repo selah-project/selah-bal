@@ -1,89 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "genesis 30:32",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:08:54.865719310Z",
+  "verse": 32,
+  "ref": "genesis 30:32",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "آں روچءَ اِشرومءَ تہ تُئیں تمامیں گلہ، ءُ چہ آیانی ہر میشءِ داغدار ءُ لکدار در کیت، ءُ ہر گون میش چہ میشانی زہگان، ءُ لکدار ءُ داغدار چہ بزان؛ ءُ بیت آ مزدءُ من۔",
   "tokens": [
     {
-      "surface": "אֶֽעֱבֹ֨ר",
+      "surface": "אעבר",
       "gloss": "اِشرومءَ"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "تہ تمامیں"
     },
     {
-      "surface": "צֹֽאנְךָ֜",
+      "surface": "צאנך",
       "gloss": "تُئیں گلہ"
     },
     {
-      "surface": "הַיּ֗וֹם",
+      "surface": "היום",
       "gloss": "آں روچءَ"
     },
     {
-      "surface": "הָסֵ֨ר",
+      "surface": "הסר",
       "gloss": "در کیت"
     },
     {
-      "surface": "מִשָּׁ֜ם",
+      "surface": "משם",
       "gloss": "چہ آیانی"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "שֶׂ֣ה",
+      "surface": "שה",
       "gloss": "میش"
     },
     {
-      "surface": "נָקֹ֣ד",
+      "surface": "נקד",
       "gloss": "داغدار"
     },
     {
-      "surface": "וְטָל֗וּא",
+      "surface": "וטלוא",
       "gloss": "ءُ لکدار"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ ہر"
     },
     {
-      "surface": "שֶׂ֣ה",
+      "surface": "שה",
       "gloss": "میش"
     },
     {
-      "surface": "חוּם֙",
+      "surface": "חום",
       "gloss": "گون"
     },
     {
-      "surface": "בַּכְּשָׂבִ֔ים",
+      "surface": "בכשבים",
       "gloss": "چہ میشانی زہگان"
     },
     {
-      "surface": "וְטָל֥וּא",
+      "surface": "וטלוא",
       "gloss": "ءُ لکدار"
     },
     {
-      "surface": "וְנָקֹ֖ד",
+      "surface": "ונקד",
       "gloss": "ءُ داغدار"
     },
     {
-      "surface": "בָּעִזִּ֑ים",
+      "surface": "בעזים",
       "gloss": "چہ بزان"
     },
     {
-      "surface": "וְהָיָ֖ה",
+      "surface": "והיה",
       "gloss": "ءُ بیت"
     },
     {
-      "surface": "שְׂכָרִֽי",
+      "surface": "שכרי",
       "gloss": "مزدءُ من"
     }
-  ],
-  "timestamp": "2026-09-25T21:08:54.865719310Z",
-  "model": "glm-5.3"
+  ]
 }

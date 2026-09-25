@@ -1,154 +1,154 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
-  "ref": "joshua 24:15",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:50:07.847705048Z",
+  "verse": 15,
+  "ref": "joshua 24:15",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ءُ اگر وتیاں چشمانءَ بُرزوت بیت کہ یاہوہءَ ⟨את⟩ نوکت کنیں، آئوکی روچءَ پہ وتیاں چُنیں کہ ⟨את⟩ کِیءَ نوکت کنیں — کہ ⟨את⟩ ہدایان کہ وتیاں پدران نوکت کتگ اَنت، کہ دریاءِ اے پشتءَ، ءُ کہ ⟨את⟩ اموریانی ہدایان کہ وتیاں آیانی زمینءَ گَندیں اَنت — ءُ مں ءُ مںءِ گَڈ بیت یاہوہءَ ⟨את⟩ نوکت کنیں.",
   "tokens": [
     {
-      "surface": "וְאִם",
+      "surface": "ואם",
       "gloss": "ءُ اگر"
     },
     {
-      "surface": "רַע",
+      "surface": "רע",
       "gloss": "بُرزوت"
     },
     {
-      "surface": "בְּעֵינֵיכֶם",
+      "surface": "בעיניכם",
       "gloss": "وتیاں چشمانءَ"
     },
     {
-      "surface": "לַעֲבֹד",
+      "surface": "לעבד",
       "gloss": "پہ نوکت کنگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "בַּחֲרוּ",
+      "surface": "בחרו",
       "gloss": "چُنیں"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "پہ وتیاں"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "آئوکی روچءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کِی"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کِیءَ"
     },
     {
-      "surface": "תַעֲבֹדוּן",
+      "surface": "תעבדון",
       "gloss": "نوکت کنیں"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "کہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہدایان"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ہدایان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָבְדוּ",
+      "surface": "עבדו",
       "gloss": "نوکت کتگ"
     },
     {
-      "surface": "אֲבֹתֵיכֶם",
+      "surface": "אבותיכם",
       "gloss": "وتیاں پدران"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "בְּעֵבֶר",
+      "surface": "בעבר",
       "gloss": "چہ اے پشتءَ"
     },
     {
-      "surface": "הַנָּהָר",
+      "surface": "הנהר",
       "gloss": "دریاءِ"
     },
     {
-      "surface": "וְאִם",
+      "surface": "ואם",
       "gloss": "ءُ کہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اموریانی ہدایان"
     },
     {
-      "surface": "אֱלֹהֵי",
+      "surface": "אלהי",
       "gloss": "ہدایانی"
     },
     {
-      "surface": "הָאֱמֹרִי",
+      "surface": "האמרי",
       "gloss": "اموریان"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "אַתֶּם",
+      "surface": "אתם",
       "gloss": "وتیاں"
     },
     {
-      "surface": "יֹשְׁבִים",
+      "surface": "ישבים",
       "gloss": "گَندیں"
     },
     {
-      "surface": "בְּאַרְצָם",
+      "surface": "בארצם",
       "gloss": "آیانی زمینءَ"
     },
     {
-      "surface": "וְאָנֹכִי",
+      "surface": "ואנכי",
       "gloss": "ءُ مں"
     },
     {
-      "surface": "וּבֵיתִי",
+      "surface": "וביתי",
       "gloss": "ءُ مںءِ گَڈ"
     },
     {
-      "surface": "נַעֲבֹד",
+      "surface": "נעבד",
       "gloss": "نوکت کنیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:50:07.847705048Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,68 +1,68 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "leviticus 18:5",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:21:04.287604628Z",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ تومیں منی چُکاں ءُ منی فیصلیاں نگاه داریت — آ کہ یک مردم آیانءَ کرِت ءُ گوں آیانءَ زندہ بیت — من ءُچ یاہوہءُم.",
   "tokens": [
     {
-      "surface": "וּשְׁמַרְתֶּם",
+      "surface": "ושמרתם",
       "gloss": "ءُ تومیں نگاه داریت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منی چُکاں"
     },
     {
-      "surface": "חֻקֹּתַי",
+      "surface": "חקתי",
       "gloss": "منی چُکاں"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "منی فیصلیاں"
     },
     {
-      "surface": "מִשְׁפָּטַי",
+      "surface": "משפטי",
       "gloss": "منی فیصلیاں"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יַעֲשֶׂה",
+      "surface": "יעשה",
       "gloss": "کرِت"
     },
     {
-      "surface": "אֹתָם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "یک مردم"
     },
     {
-      "surface": "הָאָדָם",
+      "surface": "האדם",
       "gloss": "یک مردم"
     },
     {
-      "surface": "וָחַי",
+      "surface": "וחי",
       "gloss": "ءُ زندہ بیت"
     },
     {
-      "surface": "בָּהֶם",
+      "surface": "בהם",
       "gloss": "گوں آیانءَ"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "אני",
       "gloss": "من"
     },
     {
-      "surface": "יְהֹוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T19:21:04.287604628Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,89 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "1-samuel 14:21",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:11:03.438813830Z",
+  "verse": 21,
+  "ref": "1-samuel 14:21",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ عبرانیان چو پلشتانیانءَ اوشتنت، دیما ءُ دو دیما، کہ آیانءَ گوں گدانءَ چوں اِشکنیءَ اوشتنت — ءُ آ تھے هم اسرائیلءَ گوں بیتن کہ شاؤل ءُ یونتانءَ گوں اِنتنت.",
   "tokens": [
     {
-      "surface": "וְהָעִבְרִ֗ים",
+      "surface": "והעברים",
       "gloss": "ءُ عبرانیان"
     },
     {
-      "surface": "הָי֤וּ",
+      "surface": "היו",
       "gloss": "اوشتنت"
     },
     {
-      "surface": "לַפְּלִשְׁתִּים֙",
+      "surface": "לפלשתים",
       "gloss": "پلشتانیانءَ پہ"
     },
     {
-      "surface": "כְּאֶתְמ֣וֹל",
+      "surface": "כאתמול",
       "gloss": "چو دیما"
     },
     {
-      "surface": "שִׁלְשׁ֔וֹם",
+      "surface": "שלשום",
       "gloss": "ءُ دو دیما"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָל֥וּ",
+      "surface": "עלו",
       "gloss": "اوشتنت"
     },
     {
-      "surface": "עִמָּ֛ם",
+      "surface": "עמם",
       "gloss": "آیانءَ گوں"
     },
     {
-      "surface": "בַּֽמַּחֲנֶ֖ה",
+      "surface": "במחנה",
       "gloss": "گدانءَ"
     },
     {
-      "surface": "סָבִ֑יב",
+      "surface": "סביב",
       "gloss": "چوں اِشکنیءَ"
     },
     {
-      "surface": "וְגַם",
+      "surface": "וגם",
       "gloss": "ءُ تھے هم"
     },
     {
-      "surface": "הֵ֗מָּה",
+      "surface": "המה",
       "gloss": "آ"
     },
     {
-      "surface": "לִֽהְיוֹת֙",
+      "surface": "להיות",
       "gloss": "بیتن"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "יִשְׂרָאֵ֔ל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "שָׁא֖וּל",
+      "surface": "שאול",
       "gloss": "شاؤل"
     },
     {
-      "surface": "וְיוֹנָתָֽן",
+      "surface": "ויונתן",
       "gloss": "ءُ یونتان"
     }
-  ],
-  "timestamp": "2026-09-25T13:11:03.438813830Z",
-  "model": "glm-5.3"
+  ]
 }

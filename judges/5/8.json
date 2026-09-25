@@ -1,65 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "judges 5:8",
   "book": "judges",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:07:17.752530373Z",
+  "verse": 8,
+  "ref": "judges 5:8",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "نوکیں ہدایان چونگ بوتنت؛ اوز دروازیاں ءَ جنګ اَت۔ مگن آیا گند بیت، ءُ نئزہ، چل ہزارءَ تہ اسرائیلءَ؟",
   "tokens": [
     {
-      "surface": "יִבְחַר",
+      "surface": "יבחר",
       "gloss": "چونگ بوتنت"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "ہدایان"
     },
     {
-      "surface": "חֲדָשִׁים",
+      "surface": "חדשים",
       "gloss": "نوکیں"
     },
     {
-      "surface": "אָז",
+      "surface": "אז",
       "gloss": "اوز"
     },
     {
-      "surface": "לָחֶם",
+      "surface": "לחם",
       "gloss": "جنګ"
     },
     {
-      "surface": "שְׁעָרִים",
+      "surface": "שערים",
       "gloss": "دروازیاں"
     },
     {
-      "surface": "מָגֵן",
+      "surface": "מגן",
       "gloss": "مگن"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "آیا"
     },
     {
-      "surface": "יֵרָאֶה",
+      "surface": "יראה",
       "gloss": "گند بیت"
     },
     {
-      "surface": "וָרֹמַח",
+      "surface": "ורמח",
       "gloss": "ءُ نئزہ"
     },
     {
-      "surface": "בְּאַרְבָּעִים",
+      "surface": "בארבעים",
       "gloss": "چل"
     },
     {
-      "surface": "אֶלֶף",
+      "surface": "אלף",
       "gloss": "ہزار"
     },
     {
-      "surface": "בְּיִשְׂרָאֵל",
+      "surface": "בישראל",
       "gloss": "تہ اسرائیلءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:07:17.752530373Z",
-  "model": "glm-5.3"
+  ]
 }

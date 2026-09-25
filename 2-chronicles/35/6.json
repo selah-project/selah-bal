@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "2-chronicles 35:6",
   "book": "2-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T13:54:54.130724678Z",
+  "verse": 6,
+  "ref": "2-chronicles 35:6",
+  "tier": "glm-5.2",
   "chapter": 35,
   "translation": "ءُ پیسہ بکُشت ءُ وت پاک کنیت ءُ وتیں براتانءَ تیار کنیت پہ کرگ، چوش کہ یاہوہءِ گال موشہءِ دستءَ سرا گوَشتگ۔",
   "tokens": [
     {
-      "surface": "וְשַׁחֲט֖וּ",
+      "surface": "ושחטו",
       "gloss": "ءُ بکُشت"
     },
     {
-      "surface": "הַפָּ֑סַח",
+      "surface": "הפסח",
       "gloss": "پیسہ"
     },
     {
-      "surface": "וְהִתְקַדְּשׁוּ֙",
+      "surface": "והתקדשו",
       "gloss": "ءُ وت پاک کنیت"
     },
     {
-      "surface": "וְהָכִ֣ינוּ",
+      "surface": "והכינו",
       "gloss": "ءُ تیار کنیت"
     },
     {
-      "surface": "לַאֲחֵיכֶ֔ם",
+      "surface": "לאחיכם",
       "gloss": "ویتیں براتانءَ"
     },
     {
-      "surface": "לַעֲשׂ֥וֹת",
+      "surface": "לעשות",
       "gloss": "پہ کرگ"
     },
     {
-      "surface": "כִּדְבַר",
+      "surface": "כדבר",
       "gloss": "چوش کہ گال"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "دستءَ"
     },
     {
-      "surface": "מֹשֶֽׁה",
+      "surface": "משה",
       "gloss": "موشہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T13:54:54.130724678Z",
-  "model": "glm-5.3"
+  ]
 }

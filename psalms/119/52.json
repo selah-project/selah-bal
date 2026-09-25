@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 52,
-  "ref": "psalms 119:52",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:27:16.872962084Z",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "tier": "glm-5.2",
   "chapter": 119,
   "translation": "یاد کتمنت اے یاہوہ تئیں فیصلے چہ اولار، ءُ دلگرم بیتمنت۔",
   "tokens": [
     {
-      "surface": "זָכַרְתִּי",
+      "surface": "זכרתי",
       "gloss": "یاد کتمنت"
     },
     {
-      "surface": "מִשְׁפָּטֶיךָ",
+      "surface": "משפטיך",
       "gloss": "تئیں فیصلے"
     },
     {
-      "surface": "מֵעוֹלָם",
+      "surface": "מעולם",
       "gloss": "چہ اولار"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "اے یاہوہ"
     },
     {
-      "surface": "וָאֶתְנֶחָם",
+      "surface": "ואתנחם",
       "gloss": "ءُ دلگرم بیتمنت"
     }
-  ],
-  "timestamp": "2026-09-25T20:27:16.872962084Z",
-  "model": "glm-5.3"
+  ]
 }

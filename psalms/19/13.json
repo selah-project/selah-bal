@@ -1,33 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "psalms 19:13",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:35:11.328944485Z",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "tier": "glm-5.2",
   "chapter": 19,
   "translation": "گناهان کے ئے کہ آیانءَ بزانت؟ چہ پوششتگاں مَنءَ پاک کن.",
   "tokens": [
     {
-      "surface": "שְׁגִיא֥וֹת",
+      "surface": "שגיאות",
       "gloss": "گناهان"
     },
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "کے"
     },
     {
-      "surface": "יָבִ֑ין",
+      "surface": "יבין",
       "gloss": "بزانت"
     },
     {
-      "surface": "מִֽנִּסְתָּר֥וֹת",
+      "surface": "מנסתרות",
       "gloss": "چہ پوششتگاں"
     },
     {
-      "surface": "נַקֵּֽנִי",
+      "surface": "נקני",
       "gloss": "مَنءَ پاک کن"
     }
-  ],
-  "timestamp": "2026-09-25T20:35:11.328944485Z",
-  "model": "glm-5.3"
+  ]
 }

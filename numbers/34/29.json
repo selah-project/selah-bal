@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "numbers 34:29",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T20:01:01.129677042Z",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "tier": "glm-5.2",
   "chapter": 34,
   "translation": "ای اِنت اِشاں کہ یاہوہءَ اِشاںءَ ہدایت کت کہ اسرائیلءِ زہگانءَ ⟨את⟩ کنعانءِ زمینءَ میراث بیلنت.",
   "tokens": [
     {
-      "surface": "אֵלֶּה",
+      "surface": "אלה",
       "gloss": "ای"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "צִוָּה",
+      "surface": "צוה",
       "gloss": "ہدایت کت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءَ"
     },
     {
-      "surface": "לְנַחֵל",
+      "surface": "לנחל",
       "gloss": "میراث بیلنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اسرائیلءِ زہگانءَ"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     },
     {
-      "surface": "בְּאֶרֶץ",
+      "surface": "בארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "כְּנַעַן",
+      "surface": "כנען",
       "gloss": "کنعانءِ"
     }
-  ],
-  "timestamp": "2026-09-25T20:01:01.129677042Z",
-  "model": "glm-5.3"
+  ]
 }

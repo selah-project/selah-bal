@@ -1,37 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 58,
-  "ref": "lamentations 3:58",
   "book": "lamentations",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T19:13:39.451819155Z",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "اے ادونای، تُوءَ منی جانءِ دعواں گپتنت، تُوءَ منی زندگانیءَ گوَڑ کت۔",
   "tokens": [
     {
-      "surface": "רַבְתָּ",
+      "surface": "רבת",
       "gloss": "تُوءَ گپتنت"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "اے ادونای"
     },
     {
-      "surface": "רִיבֵי",
+      "surface": "ריבי",
       "gloss": "دعواں"
     },
     {
-      "surface": "נַפְשִׁי",
+      "surface": "נפשי",
       "gloss": "منی جانءِ"
     },
     {
-      "surface": "גָּאַלְתָּ",
+      "surface": "גאלת",
       "gloss": "تُوءَ گوَڑ کت"
     },
     {
-      "surface": "חַיַּי",
+      "surface": "חיי",
       "gloss": "منی زندگانیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T19:13:39.451819155Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,26 +1,28 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "job 23:7",
   "book": "job",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:25:16.036775410Z",
+  "verse": 7,
+  "ref": "job 23:7",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "اُدا راستیں گوں آیءَ مناظر کنت، ءُ مان پہ ہمیشہ چہ منی مزءَ رہا بوم.",
   "tokens": [
     {
-      "surface": "שָׁ֗ם",
+      "surface": "שם",
       "gloss": "اُدا"
     },
     {
-      "surface": "יָ֭שָׁר",
+      "surface": "ישר",
       "gloss": "راستیں"
     },
     {
-      "surface": "נוֹכָ֣ח",
+      "surface": "נוכח",
       "gloss": "مناظر کنت"
     },
     {
-      "surface": "עִמּ֑וֹ",
+      "surface": "עמו",
       "gloss": "گوں آیءَ"
     },
     {
@@ -32,10 +34,8 @@
       "gloss": "پہ ہمیشہ"
     },
     {
-      "surface": "משֹׁפְטִֽי",
+      "surface": "משפטי",
       "gloss": "چہ منی مزءَ"
     }
-  ],
-  "timestamp": "2026-09-25T18:25:16.036775410Z",
-  "model": "glm-5.3"
+  ]
 }

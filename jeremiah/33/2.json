@@ -1,54 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "jeremiah 33:2",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T18:00:45.725891152Z",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "tier": "glm-5.2",
   "chapter": 33,
   "translation": "اے گوَشت یاہوہءَ، آءِ جوڑ کنوک، یاہوہ کہ آءَ چمڑینت پہ آءَ مستھ کتن — یاہوہ آءِ نام ⟨اِنت⟩۔",
   "tokens": [
     {
-      "surface": "כֹּֽה",
+      "surface": "כה",
       "gloss": "اے"
     },
     {
-      "surface": "אָמַ֥ר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "עֹשָׂ֑הּ",
+      "surface": "עשה",
       "gloss": "آءِ جوڑ کنوک"
     },
     {
-      "surface": "יְהוָ֗ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "יוֹצֵ֥ר",
+      "surface": "יוצר",
       "gloss": "چمڑوک"
     },
     {
-      "surface": "אוֹתָ֛הּ",
+      "surface": "אותה",
       "gloss": "⟨את⟩",
       "marks": "آءَ"
     },
     {
-      "surface": "לַהֲכִינָ֖הּ",
+      "surface": "להכינה",
       "gloss": "پہ آءَ مستھ کتن"
     },
     {
-      "surface": "יְהוָ֥ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "שְׁמֽוֹ",
+      "surface": "שמו",
       "gloss": "آءِ نام"
     }
-  ],
-  "timestamp": "2026-09-25T18:00:45.725891152Z",
-  "model": "glm-5.3"
+  ]
 }

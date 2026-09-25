@@ -1,53 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "ezekiel 16:12",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T21:06:18.300992469Z",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ منءَ اپءِ سرءَ نزم داتم ءُ گوشتانی سرءَ ہزارئے داتم ءُ سرءِ سرءَ تیارءِ تاج داتم",
   "tokens": [
     {
-      "surface": "וָאֶתֵּץ",
+      "surface": "ואתן",
       "gloss": "ءُ منءَ داتم"
     },
     {
-      "surface": "נֶזֶם",
+      "surface": "נזם",
       "gloss": "نزم"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "ءِ سرءَ"
     },
     {
-      "surface": "אַפֵּךְ",
+      "surface": "אפך",
       "gloss": "اپءِ"
     },
     {
-      "surface": "וַעֲגִילִים",
+      "surface": "ועגילים",
       "gloss": "ءُ گوشتانی ہزارئے"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "ءِ سرءَ"
     },
     {
-      "surface": "אָזְנַיִךְ",
+      "surface": "אזניך",
       "gloss": "گوشتانی"
     },
     {
-      "surface": "וַעֲטֶרֶת",
+      "surface": "ועטרת",
       "gloss": "ءُ تاج"
     },
     {
-      "surface": "תִּפְאֶרֶת",
+      "surface": "תפארת",
       "gloss": "تیارءِ"
     },
     {
-      "surface": "בְּרֹאשֵׁךְ",
+      "surface": "בראשך",
       "gloss": "سرءِ سرءَ"
     }
-  ],
-  "timestamp": "2026-09-25T21:06:18.300992469Z",
-  "model": "glm-5.3"
+  ]
 }
