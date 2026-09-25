@@ -1,101 +1,101 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "2-kings 21:13",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:46:51.185489934Z",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "tier": "glm-5.2",
   "chapter": 21,
   "translation": "ءُ من یروشلمءِ سرءَ شومروںءِ رسی ⟨את⟩ دراز کنت ءُ ⟨את⟩ آحابءِ گداںءِ ترازو رسی، ءُ یروشلمءَ صاف کنت چوش کہ یک کاسہءَ صاف کنت — صاف کتگ ءُ آییءِ منہءِ سرءَ ڈھانیت۔",
   "tokens": [
     {
-      "surface": "וְנָטִ֣יתִי",
+      "surface": "ונטיתי",
       "gloss": "ءُ من دراز کنت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "יְרוּשָׁלִַ֗ם",
+      "surface": "ירושלם",
       "gloss": "یروشلمءِ"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شومروںءِ رسی"
     },
     {
-      "surface": "קָ֣ו",
+      "surface": "קו",
       "gloss": "رسی"
     },
     {
-      "surface": "שֹֽׁמְר֔וֹן",
+      "surface": "שמרון",
       "gloss": "شومروںءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آحابءِ گداںءِ ترازو رسی"
     },
     {
-      "surface": "מִשְׁקֹ֖לֶת",
+      "surface": "משקלת",
       "gloss": "ترازو رسی"
     },
     {
-      "surface": "בֵּ֣ית",
+      "surface": "בית",
       "gloss": "گداں"
     },
     {
-      "surface": "אַחְאָ֑ב",
+      "surface": "אחאב",
       "gloss": "آحابءِ"
     },
     {
-      "surface": "וּמָחִ֨יתִי",
+      "surface": "ומחיתי",
       "gloss": "ءُ صاف کنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یروشلمءَ"
     },
     {
-      "surface": "יְרוּשָׁלִַ֜ם",
+      "surface": "ירושלם",
       "gloss": "یروشلمءَ"
     },
     {
-      "surface": "כַּֽאֲשֶׁר",
+      "surface": "כאשר",
       "gloss": "چوش کہ"
     },
     {
-      "surface": "יִמְחֶ֤ה",
+      "surface": "ימחה",
       "gloss": "صاف کنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کاسہءَ"
     },
     {
-      "surface": "הַצַּלַּ֨חַת֙",
+      "surface": "הצלחת",
       "gloss": "کاسہءَ"
     },
     {
-      "surface": "מָחָ֔ה",
+      "surface": "מחה",
       "gloss": "صاف کتگ"
     },
     {
-      "surface": "וְהָפַ֖ךְ",
+      "surface": "והפך",
       "gloss": "ءُ ڈھانیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "פָּנֶֽיהָ",
+      "surface": "פניה",
       "gloss": "آییءِ منہ"
     }
-  ],
-  "timestamp": "2026-09-25T22:46:51.185489934Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,61 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
-  "ref": "numbers 28:28",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:58:21.390942392Z",
+  "verse": 28,
+  "ref": "numbers 28:28",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ آیانی سوچگیں قربانیءِ مِنحت، سوچگیں آرد گوں تیلءَ گلاند بوتگ، سئے دہمی حصہ پہ یک گائے، دو دہمی حصہ پہ یک نر گوسفند،",
   "tokens": [
     {
-      "surface": "וּמִנְחָתָם",
+      "surface": "ומנחתם",
       "gloss": "ءُ آیانی مِنحت"
     },
     {
-      "surface": "סֹלֶת",
+      "surface": "סלת",
       "gloss": "سوچگیں آرد"
     },
     {
-      "surface": "בְּלוּלָה",
+      "surface": "בלולה",
       "gloss": "گلاند بوتگ"
     },
     {
-      "surface": "בַּשָּׁמֶן",
+      "surface": "בשמן",
       "gloss": "گوں تیلءَ"
     },
     {
-      "surface": "שְׁלֹשָׁה",
+      "surface": "שלשה",
       "gloss": "سئے"
     },
     {
-      "surface": "עֶשְׂרֹנִים",
+      "surface": "עשרנים",
       "gloss": "دہمی حصہ"
     },
     {
-      "surface": "לַפָּר",
+      "surface": "לפר",
       "gloss": "پہ یک گائے"
     },
     {
-      "surface": "הָאֶחָד",
+      "surface": "האחד",
       "gloss": "یک"
     },
     {
-      "surface": "שְׁנֵי",
+      "surface": "שני",
       "gloss": "دو"
     },
     {
-      "surface": "עֶשְׂרֹנִים",
+      "surface": "עשרנים",
       "gloss": "دہمی حصہ"
     },
     {
-      "surface": "לָאַיִל",
+      "surface": "לאיל",
       "gloss": "پہ یک نر گوسفند"
     },
     {
-      "surface": "הָאֶחָד",
+      "surface": "האחד",
       "gloss": "یک"
     }
-  ],
-  "timestamp": "2026-09-25T22:58:21.390942392Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
-  "ref": "1-chronicles 15:14",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:40:00.278469271Z",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "tier": "glm-5.2",
   "chapter": 15,
   "translation": "ءُ کاہنان ءُ لاویان وتیءَ پاک کت پہ یاہوہءِ ⟨את⟩ صندوقءَ اُوچ کتنءَ پہ، ایلوہیمِ ءُ اسرائیلءِ یاہوہءِ۔",
   "tokens": [
     {
-      "surface": "וַיִּֽתְקַדְּשׁ֔וּ",
+      "surface": "ויתקדשו",
       "gloss": "ءُ وتیءَ پاک کت"
     },
     {
-      "surface": "הַכֹּהֲנִ֖ים",
+      "surface": "הכהנים",
       "gloss": "کاہنان"
     },
     {
-      "surface": "וְהַלְוִיִּ֑ם",
+      "surface": "והלוים",
       "gloss": "ءُ لاویان"
     },
     {
-      "surface": "לְהַעֲל֖וֹת",
+      "surface": "להעלות",
       "gloss": "پہ اُوچ کتنءَ پہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "صندوق"
     },
     {
-      "surface": "אֲר֥וֹן",
+      "surface": "ארון",
       "gloss": "صندوق"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֱלֹהֵ֥י",
+      "surface": "אלהי",
       "gloss": "ایلوہیمِ ءُ"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "اسرائیلءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:40:00.278469271Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "1-samuel 12:7",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:42:51.560647161Z",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "tier": "glm-5.2",
   "chapter": 12,
   "translation": "ءُ رندا اِستیت، ءُ من ⟨את⟩ تُمانءَ یاہوہءِ پیشءَ یاہوہءِ ⟨את⟩ پوریں راستیانی بابتءَ گوَشتہ بیت، کہ آیی ⟨את⟩ گوں تُمان ءُ ⟨את⟩ تُمانیں پدرانءَ کت.",
   "tokens": [
     {
-      "surface": "וְעַתָּה",
+      "surface": "ועתה",
       "gloss": "ءُ رندا"
     },
     {
-      "surface": "הִתְיַצְּבוּ",
+      "surface": "התיצבו",
       "gloss": "اِستیت"
     },
     {
-      "surface": "וְאִשָּׁפְטָה",
+      "surface": "ואשפטה",
       "gloss": "ءُ من گوَشتہ بیت"
     },
     {
-      "surface": "אִתְּכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ تُمانءَ"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوریں راستیان"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "צִדְקֹות",
+      "surface": "צדקות",
       "gloss": "راستیان"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָשָׂה",
+      "surface": "עשה",
       "gloss": "کت"
     },
     {
-      "surface": "אִתְּכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ گوں تُمان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩"
     },
     {
-      "surface": "אֲבֹותֵיכֶם",
+      "surface": "אבותיכם",
       "gloss": "تُمانیں پدرانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:42:51.560647161Z",
-  "model": "glm-5.3"
+  ]
 }

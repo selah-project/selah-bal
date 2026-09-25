@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "joshua 4:16",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:55:20.273880828Z",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "حکم کن ⟨את⟩ کوهنانءَ کہ گواہیءِ سنڈیءِ اوشتنوک اَنت، تا چہ یرڈنءَ اُشٹنت۔",
   "tokens": [
     {
-      "surface": "צַוֵּה֙",
+      "surface": "צוה",
       "gloss": "حکم کن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کوهنان"
     },
     {
-      "surface": "הַכֹּהֲנִים",
+      "surface": "הכהנים",
       "gloss": "کوهنانءَ"
     },
     {
-      "surface": "נֹשְׂאֵי",
+      "surface": "נשאי",
       "gloss": "اوشتنوک"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "سنڈی"
     },
     {
-      "surface": "הָעֵדוּת",
+      "surface": "העדות",
       "gloss": "گواہیءِ"
     },
     {
-      "surface": "וְיַעֲלוּ",
+      "surface": "ויעלו",
       "gloss": "تا اُشٹنت"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַיַּרְדֵּן",
+      "surface": "הירדן",
       "gloss": "یرڈنءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:55:20.273880828Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "haggai 2:17",
   "book": "haggai",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:52:02.936693138Z",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "tier": "glm-5.2",
   "chapter": 2,
   "translation": "منءَ شما ⟨את⟩ زت پڈوکءَ ءُ زنگءَ ءُ شیلءَ، ⟨את⟩ شماں دستانی پوریں کار، ءُ شما چہ منءَ سرا یکے ہم نیست اوت — یاہوہءِ اِلام۔",
   "tokens": [
     {
-      "surface": "הִכֵּיתִי",
+      "surface": "הכיתי",
       "gloss": "منءَ زت"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شماءَ",
       "marks": "شماءَ"
     },
     {
-      "surface": "בַּשִּׁדָּפוֹן",
+      "surface": "בשדפון",
       "gloss": "پڈوکءَ"
     },
     {
-      "surface": "וּבַיֵּרָקוֹן",
+      "surface": "ובירקון",
       "gloss": "ءُ زنگءَ"
     },
     {
-      "surface": "וּבַבָּרָד",
+      "surface": "ובברד",
       "gloss": "ءُ شیلءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوریں کار"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "پوریں"
     },
     {
-      "surface": "מַעֲשֵׂה",
+      "surface": "מעשה",
       "gloss": "کار"
     },
     {
-      "surface": "יְדֵיכֶם",
+      "surface": "ידיכם",
       "gloss": "شماں دستانی"
     },
     {
-      "surface": "וְאֵין",
+      "surface": "ואין",
       "gloss": "ءُ نیست"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩ شما",
       "marks": "شما"
     },
     {
-      "surface": "אֵלַי",
+      "surface": "אלי",
       "gloss": "منءَ سرا"
     },
     {
-      "surface": "נְאֻם",
+      "surface": "נאם",
       "gloss": "اِلام"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:52:02.936693138Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,41 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "2-kings 25:12",
   "book": "2-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:46:08.327999281Z",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "ءُ زمینءِ کمبختانءَ چہ جلادانءِ سردار جا کت — پہ انگوری کاران ءُ پہ کشت کاران.",
   "tokens": [
     {
-      "surface": "וּמִדַּלַּת",
+      "surface": "ומדלת",
       "gloss": "ءُ چہ کمبختانءَ"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمینءِ"
     },
     {
-      "surface": "הִשְׁאִיר",
+      "surface": "השאיר",
       "gloss": "جا کت"
     },
     {
-      "surface": "רַב",
+      "surface": "רב",
       "gloss": "سردارءِ"
     },
     {
-      "surface": "טַבָּחִים",
+      "surface": "טבחים",
       "gloss": "جلادان"
     },
     {
-      "surface": "לָכֹרְמִים",
+      "surface": "לכרמים",
       "gloss": "پہ انگوری کاران"
     },
     {
-      "surface": "וְלָיֹגְבִים",
+      "surface": "וליגבים",
       "gloss": "ءُ پہ کشت کاران"
     }
-  ],
-  "timestamp": "2026-09-25T22:46:08.327999281Z",
-  "model": "glm-5.3"
+  ]
 }

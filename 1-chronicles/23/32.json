@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "1-chronicles 23:32",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:40:06.753534615Z",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "ءُ اِشاں ملاقاتءِ گدانءِ نگهبانی ⟨את⟩ پیش داریت، ءُ ⟨את⟩ مقدسءِ ( ⟨הקדש⟩ ) نگهبانی، ءُ آRobsonءِ زہگانی ءُ آیانی برانزانءِ نگهبانی، یاہوہءِ گدانءِ کارءِ پہ۔",
   "tokens": [
     {
-      "surface": "וְשָׁמְר֞וּ",
+      "surface": "ושמרו",
       "gloss": "ءُ اِشاں پیش داریت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "نگهبانی"
     },
     {
-      "surface": "מִשְׁמֶ֣רֶת",
+      "surface": "משמרת",
       "gloss": "نگهبانی"
     },
     {
-      "surface": "אֹֽהֶל",
+      "surface": "אהל",
       "gloss": "گadan"
     },
     {
-      "surface": "מוֹעֵ֗ד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     },
     {
-      "surface": "וְאֵת֙",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "نگهبانی"
     },
     {
-      "surface": "מִשְׁמֶ֣רֶת",
+      "surface": "משמרת",
       "gloss": "نگhebani"
     },
     {
-      "surface": "הַקֹּ֔דֶשׁ",
+      "surface": "הקדש",
       "gloss": "مقدسءِ"
     },
     {
-      "surface": "וּמִשְׁמֶ֕רֶת",
+      "surface": "ומשמרת",
       "gloss": "ءُ نگهبانی"
     },
     {
-      "surface": "בְּנֵ֥י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "אַהֲרֹ֖ן",
+      "surface": "אהרן",
       "gloss": "اَہارون"
     },
     {
-      "surface": "אֲחֵיהֶ֑ם",
+      "surface": "אחיהם",
       "gloss": "آیانی برانز"
     },
     {
-      "surface": "לַעֲבֹדַ֖ת",
+      "surface": "לעבדת",
       "gloss": "کارءِ پہ"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "گadan"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:40:06.753534615Z",
-  "model": "glm-5.3"
+  ]
 }

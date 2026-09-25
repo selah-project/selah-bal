@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "isaiah 38:11",
   "book": "isaiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:53:48.351745745Z",
+  "verse": 11,
+  "ref": "isaiah 38:11",
+  "tier": "glm-5.2",
   "chapter": 38,
   "translation": "من گوَشت: یاہ، یاہءَ نہ گندِت تہ زندگیں ڈگارءَ؛ ادمءَ نہ واندِت ہنڈے، گوں رہندوکانی چُڈالءَ۔",
   "tokens": [
     {
-      "surface": "אָמַ֨רְתִּי֙",
+      "surface": "אמרתי",
       "gloss": "من گوَشت"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אֶרְאֶ֣ה",
+      "surface": "אראה",
       "gloss": "گندِت"
     },
     {
-      "surface": "יָ֔הּ",
+      "surface": "יה",
       "gloss": "یاہ"
     },
     {
-      "surface": "יָ֖הּ",
+      "surface": "יה",
       "gloss": "یاہءَ"
     },
     {
-      "surface": "בְּאֶ֣רֶץ",
+      "surface": "בארץ",
       "gloss": "تہ ڈگارءَ"
     },
     {
-      "surface": "הַחַיִּ֑ים",
+      "surface": "החיים",
       "gloss": "زندگیں"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "אַבִּ֥יט",
+      "surface": "אביט",
       "gloss": "واندِت"
     },
     {
-      "surface": "אָדָ֛ם",
+      "surface": "אדם",
       "gloss": "ادمءَ"
     },
     {
-      "surface": "ע֖וֹד",
+      "surface": "עוד",
       "gloss": "ہنڈے"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "گوں"
     },
     {
-      "surface": "יֹשְׁבֵ֣י",
+      "surface": "יושבי",
       "gloss": "رہندوکانی"
     },
     {
-      "surface": "חָֽדֶל",
+      "surface": "חדל",
       "gloss": "چُڈال"
     }
-  ],
-  "timestamp": "2026-09-25T22:53:48.351745745Z",
-  "model": "glm-5.3"
+  ]
 }

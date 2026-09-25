@@ -1,55 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
-  "ref": "exodus 29:16",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:48:38.999381990Z",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "tier": "glm-5.2",
   "chapter": 29,
   "translation": "ءُ گوں ⟨את⟩ مینڈھءَ بوشکیت، ءُ ⟨את⟩ آییءِ گونءَ گرگت بیت، ءُ آییءَ قربانگاہءِ سرءَ چورطرفءَ پشکیت۔",
   "tokens": [
     {
-      "surface": "וְשָׁחַטְתָּ֖",
+      "surface": "ושחטת",
       "gloss": "ءُ بوشکیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مینڈھءَ"
     },
     {
-      "surface": "הָאָ֑יִל",
+      "surface": "האיל",
       "gloss": "مینڈھءَ"
     },
     {
-      "surface": "וְלָקַחְתָּ֙",
+      "surface": "ולקחת",
       "gloss": "ءُ گرگت بیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گونءَ"
     },
     {
-      "surface": "דָּמ֔וֹ",
+      "surface": "דמו",
       "gloss": "آییءِ گونءَ"
     },
     {
-      "surface": "וְזָרַקְתָּ֥",
+      "surface": "וזרקת",
       "gloss": "ءُ پشکیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הַמִּזְבֵּ֖חַ",
+      "surface": "המזבח",
       "gloss": "قربانگاہءِ"
     },
     {
-      "surface": "סָבִֽיב",
+      "surface": "סביב",
       "gloss": "چورطرفءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:48:38.999381990Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,76 +1,76 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "1-chronicles 4:2",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:40:48.058415893Z",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ رعایاہ، شوبلءِ زہگ، یاحتءَ پیدا کت؛ ءُ ⟨את⟩ یاحت ⟨את⟩ آہومایءَ ءُ ⟨את⟩ لہدءَ پیدا کت؛ اے زاتسیاں ٹولیان اَنت چہ ہتسوراتی ءُ۔",
   "tokens": [
     {
-      "surface": "וּרְאָיָ֤ה",
+      "surface": "וראיה",
       "gloss": "ءُ رعایاہ"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "שׁוֹבָל",
+      "surface": "שובל",
       "gloss": "شوبلءِ"
     },
     {
-      "surface": "הוֹלִ֣יד",
+      "surface": "הוליד",
       "gloss": "پیدا کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاحتءَ"
     },
     {
-      "surface": "יַ֔חַת",
+      "surface": "יחת",
       "gloss": "یاحت"
     },
     {
-      "surface": "וְיַ֣חַת",
+      "surface": "ויחת",
       "gloss": "ءُ یاحت"
     },
     {
-      "surface": "הוֹלִ֔יד",
+      "surface": "הליד",
       "gloss": "پیدا کت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آہومایءَ"
     },
     {
-      "surface": "אֲחוּמַ֖י",
+      "surface": "אחומי",
       "gloss": "آہومایءَ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "لہدءَ"
     },
     {
-      "surface": "לָ֑הַד",
+      "surface": "להד",
       "gloss": "لہدءَ"
     },
     {
-      "surface": "אֵ֖לֶּה",
+      "surface": "אלה",
       "gloss": "اے"
     },
     {
-      "surface": "מִשְׁפְּח֥וֹת",
+      "surface": "משפחות",
       "gloss": "زاتسیاں ٹولیان"
     },
     {
-      "surface": "הַצָּֽרְעָתִֽי",
+      "surface": "הצרעתי",
       "gloss": "چہ ہتسوراتی"
     }
-  ],
-  "timestamp": "2026-09-25T22:40:48.058415893Z",
-  "model": "glm-5.3"
+  ]
 }

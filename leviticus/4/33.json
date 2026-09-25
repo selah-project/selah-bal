@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "leviticus 4:33",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:56:42.419445690Z",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ آییءِ دست ⟨את⟩ آییءِ گنڈھائیءِ سرءَ پیش کنت، ءُ آ ⟨את⟩ آییءَ گنڈھائیءِ قربانیءِ چوں چونت، اُو جاگہءَ کہ سوچگیں قربانی ⟨את⟩ چوننت",
   "tokens": [
     {
-      "surface": "וְסָמַךְ",
+      "surface": "וסמך",
       "gloss": "ءُ پیش کنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ دست"
     },
     {
-      "surface": "יָדוֹ",
+      "surface": "ידו",
       "gloss": "آییءِ دست"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "רֹאשׁ",
+      "surface": "ראש",
       "gloss": "گنڈھائی"
     },
     {
-      "surface": "הַחַטָּאת",
+      "surface": "החטאת",
       "gloss": "گنڈھائیءِ قربانی"
     },
     {
-      "surface": "וְשָׁחַט",
+      "surface": "ושחט",
       "gloss": "ءُ چونت"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آییءَ (گنڈھائیءِ قربانیءَ)"
     },
     {
-      "surface": "לְחַטָּאת",
+      "surface": "לחטאת",
       "gloss": "گنדاہی قربانی ءِ چوں"
     },
     {
-      "surface": "בִּמְקוֹם",
+      "surface": "במקום",
       "gloss": "اُو جاگہءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יִשְׁחַט",
+      "surface": "ישחט",
       "gloss": "چوننت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سوچگیں قربانیءَ"
     },
     {
-      "surface": "הָעֹלָה",
+      "surface": "העלה",
       "gloss": "سوچگیں قربانی"
     }
-  ],
-  "timestamp": "2026-09-25T22:56:42.419445690Z",
-  "model": "glm-5.3"
+  ]
 }

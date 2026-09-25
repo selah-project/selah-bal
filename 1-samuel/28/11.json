@@ -1,59 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "1-samuel 28:11",
   "book": "1-samuel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:43:08.300785510Z",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "tier": "glm-5.2",
   "chapter": 28,
   "translation": "ءُ زنک گوَشت، ⟨את⟩ کَ ءُ تہ رہ جہڑ بورتگ کنت؟ ءُ آ گوَشت، ⟨את⟩ شمُوایل رہ من جہڑ بوت۔",
   "tokens": [
     {
-      "surface": "וַתֹּאמֶר",
+      "surface": "ותאמר",
       "gloss": "ءُ زنک گوَشت"
     },
     {
-      "surface": "הָאִשָּׁה",
+      "surface": "האשה",
       "gloss": "زنک"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کَ"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "کَ"
     },
     {
-      "surface": "אַעֲלֶה",
+      "surface": "אעלה",
       "gloss": "جہڑ بورتگ کنت"
     },
     {
-      "surface": "לָךְ",
+      "surface": "לך",
       "gloss": "ءُ تہ رہ"
     },
     {
-      "surface": "וַיֹּאמֶר",
+      "surface": "ויאמר",
       "gloss": "ءُ آ گوَشت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شمُوایل"
     },
     {
-      "surface": "שְׁמוּאֵל",
+      "surface": "שמואל",
       "gloss": "شمُوایل"
     },
     {
-      "surface": "הַעֲלִי",
+      "surface": "העלי",
       "gloss": "جہڑ بوت"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "رہ من"
     }
-  ],
-  "timestamp": "2026-09-25T22:43:08.300785510Z",
-  "model": "glm-5.3"
+  ]
 }

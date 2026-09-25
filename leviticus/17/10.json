@@ -1,103 +1,103 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "leviticus 17:10",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:57:12.480287467Z",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "ءُ چوش کسے چہ یسرائیلءِ گِسءَ ءُ چہ گِرءَ کہ اِشانءِ مانءِ گر اِنت، آ کہ چُوکُءُ دم ءُ خائیت، من یاہوہءَ وتءِ چہرہ آ نفسیءِ کِشءَ گرنت کہ دم ءُ خائیت، ءُ آییءَ وتءِ قومءِ مانءَ چینت۔",
   "tokens": [
     {
-      "surface": "וְאִ֨ישׁ",
+      "surface": "ואיש",
       "gloss": "ءُ چوش کسے"
     },
     {
-      "surface": "אִ֜ישׁ",
+      "surface": "איש",
       "gloss": "کسے"
     },
     {
-      "surface": "מִבֵּ֣ית",
+      "surface": "מבית",
       "gloss": "چہ گِسءَ"
     },
     {
-      "surface": "יִשְׂרָאֵ֗ל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "וּמִן",
+      "surface": "ומן",
       "gloss": "ءُ چہ"
     },
     {
-      "surface": "הַגֵּר֙",
+      "surface": "הגר",
       "gloss": "گِر"
     },
     {
-      "surface": "הַגָּ֣ר",
+      "surface": "הגר",
       "gloss": "گر اِنت"
     },
     {
-      "surface": "בְּתוֹכָ֔ם",
+      "surface": "בתוכם",
       "gloss": "اِشانءِ مانءَ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יֹאכַ֖ל",
+      "surface": "יאכל",
       "gloss": "ءُ خائیت"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "چُوکُءُ"
     },
     {
-      "surface": "דָּ֑ם",
+      "surface": "דם",
       "gloss": "دم"
     },
     {
-      "surface": "וְנָתַתִּ֣י",
+      "surface": "ונתתי",
       "gloss": "منءَ وتءِ چہرہ گرنت"
     },
     {
-      "surface": "פָּנַ֗י",
+      "surface": "פני",
       "gloss": "چہرہ"
     },
     {
-      "surface": "בַּנֶּ֨פֶשׁ֙",
+      "surface": "בנפש",
       "gloss": "آ نفسیءِ کِشءَ"
     },
     {
-      "surface": "הָאֹכֶ֣לֶת",
+      "surface": "האכלת",
       "gloss": "خائوکءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "دم"
     },
     {
-      "surface": "הַדָּ֔ם",
+      "surface": "הדם",
       "gloss": "دم"
     },
     {
-      "surface": "וְהִכְרַתִּ֥י",
+      "surface": "והכרתי",
       "gloss": "ءُ چینم"
     },
     {
-      "surface": "אֹתָ֖הּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "قومءِ مانءَ"
     },
     {
-      "surface": "מִקֶּ֥רֶב",
+      "surface": "מקרב",
       "gloss": "چہ مانءَ"
     },
     {
-      "surface": "עַמָּֽהּ",
+      "surface": "עמה",
       "gloss": "وتءِ قوم"
     }
-  ],
-  "timestamp": "2026-09-25T22:57:12.480287467Z",
-  "model": "glm-5.3"
+  ]
 }

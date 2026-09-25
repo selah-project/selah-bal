@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "jeremiah 11:20",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:53:33.363727103Z",
+  "verse": 20,
+  "ref": "jeremiah 11:20",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "ءُ اے یاہوہ سباؤت، کہ راستیءَ فیصلہ کنیءَ ءُ گُردان ءُ دلءَ آزماٹیءَ، آیانی سرا تیں انتقامءَ گندیت — چہ اِشانی نیمگ — پرچا کہ تہءَ روبند من ⟨את⟩ منی داوانی پیش کتگ۔",
   "tokens": [
     {
-      "surface": "וֽיהוָ֤ה",
+      "surface": "ויהוה",
       "gloss": "ءُ اے یاہوہ"
     },
     {
-      "surface": "צְבָאוֹת",
+      "surface": "צבאות",
       "gloss": "سباؤت"
     },
     {
-      "surface": "שֹׁפֵ֣ט",
+      "surface": "שפט",
       "gloss": "فیصلہ کنیءَ"
     },
     {
-      "surface": "צֶ֔דֶק",
+      "surface": "צדק",
       "gloss": "راستیءَ"
     },
     {
-      "surface": "בֹּחֵ֥ן",
+      "surface": "בחן",
       "gloss": "آزماٹیءَ"
     },
     {
-      "surface": "כְּלָי֖וֹת",
+      "surface": "כליות",
       "gloss": "گُردانءَ"
     },
     {
-      "surface": "וָלֵ֑ב",
+      "surface": "ולב",
       "gloss": "ءُ دلءَ"
     },
     {
-      "surface": "אֶרְאֶ֤ה",
+      "surface": "אראה",
       "gloss": "گندیت"
     },
     {
-      "surface": "נִקְמָֽתְךָ֙",
+      "surface": "נקמתך",
       "gloss": "تیں انتقامءَ"
     },
     {
-      "surface": "מֵהֶ֔ם",
+      "surface": "מהם",
       "gloss": "چہ اِشانی نیمگ"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אֵלֶ֖יךָ",
+      "surface": "אליך",
       "gloss": "تہءَ روبند"
     },
     {
-      "surface": "גִּלִּ֥יתִי",
+      "surface": "גליתי",
       "gloss": "پیش کتگ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "منی داوانی"
     },
     {
-      "surface": "רִיבִֽי",
+      "surface": "ריבי",
       "gloss": "منی داوانی"
     }
-  ],
-  "timestamp": "2026-09-25T22:53:33.363727103Z",
-  "model": "glm-5.3"
+  ]
 }

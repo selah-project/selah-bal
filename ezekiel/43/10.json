@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "ezekiel 43:10",
   "book": "ezekiel",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:49:44.361343448Z",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "tier": "glm-5.2",
   "chapter": 43,
   "translation": "اے تو، آدمءِ زہگ، یسرائلءِ بیتءَ ⟨את⟩ گان پیش کن، ءُ آیی چہ اِشانی گنہانءَ شرم کننت، ءُ آیی ⟨את⟩ نقشہ پیمائنت.",
   "tokens": [
     {
-      "surface": "אַתָּ֣ה",
+      "surface": "אתה",
       "gloss": "اے تو"
     },
     {
-      "surface": "בֶן",
+      "surface": "בן",
       "gloss": "زہگ"
     },
     {
-      "surface": "אָדָ֗ם",
+      "surface": "אדם",
       "gloss": "آدم"
     },
     {
-      "surface": "הַגֵּ֤ד",
+      "surface": "הגד",
       "gloss": "پیش کن"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یسرائلءِ بیت"
     },
     {
-      "surface": "בֵּֽית",
+      "surface": "בית",
       "gloss": "بیت"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "gloss": "یسرائل"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گان"
     },
     {
-      "surface": "הַבַּ֔יִת",
+      "surface": "הבית",
       "gloss": "گان"
     },
     {
-      "surface": "וְיִכָּלְמ֖וּ",
+      "surface": "ויכלמו",
       "gloss": "ءُ آیی شرم کننت"
     },
     {
-      "surface": "מֵעֲוֺנֽוֹתֵיהֶ֑ם",
+      "surface": "מעונותיהם",
       "gloss": "اِشانی گنہانءَ"
     },
     {
-      "surface": "וּמָדְד֖וּ",
+      "surface": "ומדדו",
       "gloss": "ءُ پیمائنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "نقشہ"
     },
     {
-      "surface": "תָּכְנִֽית",
+      "surface": "תכנית",
       "gloss": "نقشہ"
     }
-  ],
-  "timestamp": "2026-09-25T22:49:44.361343448Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,49 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "genesis 42:23",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:00:47.698590941Z",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "tier": "glm-5.2",
   "chapter": 42,
   "translation": "ءُ اِشاں نہ زانتنت کہ یوسف گوشیت، پرچا کہ ترجمان اِشانی میان اَت۔",
   "tokens": [
     {
-      "surface": "וְהֵם",
+      "surface": "והם",
       "gloss": "ءُ اِشاں"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יָדְעוּ",
+      "surface": "ידעו",
       "gloss": "زانتنت"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "שֹׁמֵעַ",
+      "surface": "שמע",
       "gloss": "گوشیت"
     },
     {
-      "surface": "יוֹסֵף",
+      "surface": "יוסף",
       "gloss": "یوسف"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "הַמֵּלִיץ",
+      "surface": "המליץ",
       "gloss": "ترجمان"
     },
     {
-      "surface": "בֵּינֹתָם",
+      "surface": "בינתם",
       "gloss": "اِشانی میان"
     }
-  ],
-  "timestamp": "2026-09-25T23:00:47.698590941Z",
-  "model": "glm-5.3"
+  ]
 }

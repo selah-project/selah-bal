@@ -1,79 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "exodus 18:26",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:49:22.495955724Z",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "tier": "glm-5.2",
   "chapter": 18,
   "translation": "ءُ اِشاں قومءَ ⟨את⟩ ہر وہدءَ چنگ زوتنت — ⟨את⟩ گیشترین کیسءَ موشہءَ پیش کرتنت، ءُ ہرۏکے چھوٹیں کیسءَ آءُ وت چنگ زوتنت۔",
   "tokens": [
     {
-      "surface": "וְשָׁפְטוּ",
+      "surface": "ושפטו",
       "gloss": "ءُ چنگ زوتنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "قومءَ"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "قومءَ"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "ہر"
     },
     {
-      "surface": "עֵת",
+      "surface": "עת",
       "gloss": "وہدءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "گیشترین کیسءَ"
     },
     {
-      "surface": "הַדָּבָר",
+      "surface": "הדבר",
       "gloss": "کیسءَ"
     },
     {
-      "surface": "הַקָּשֶׁה",
+      "surface": "הקשה",
       "gloss": "گیشترین"
     },
     {
-      "surface": "יְבִיאוּן",
+      "surface": "יביאון",
       "gloss": "پیش کرتنت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "…ءَ پہ"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "موشہءَ"
     },
     {
-      "surface": "וְכָל",
+      "surface": "וכל",
       "gloss": "ءُ ہرۏکے"
     },
     {
-      "surface": "הַדָּבָר",
+      "surface": "הדבר",
       "gloss": "کیسءَ"
     },
     {
-      "surface": "הַקָּטֹן",
+      "surface": "הקטן",
       "gloss": "چھوٹیں"
     },
     {
-      "surface": "יִשְׁפּוּטוּ",
+      "surface": "ישפוטו",
       "gloss": "چنگ زوتنت"
     },
     {
-      "surface": "הֵם",
+      "surface": "הם",
       "gloss": "آءُ وت"
     }
-  ],
-  "timestamp": "2026-09-25T22:49:22.495955724Z",
-  "model": "glm-5.3"
+  ]
 }

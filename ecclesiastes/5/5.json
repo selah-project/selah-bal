@@ -1,108 +1,108 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "ecclesiastes 5:5",
   "book": "ecclesiastes",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:48:34.003814067Z",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "آپءِ دہن نہ دئے کہ آپءِ گوشتءَ گنہے، ءُ فرشتہءِ پیشءَ نہ گوشیت کہ اے چوک اِنت؛ چرا ایلوہیم آپءِ آوازءَ سر غضب بکنت ءُ آپءِ دستاںءِ کارءَ نیست بکنت؟",
   "tokens": [
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "نہ"
     },
     {
-      "surface": "תִּתֵּן",
+      "surface": "תתן",
       "gloss": "دئے"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آپءِ دہن"
     },
     {
-      "surface": "פִּיךָ",
+      "surface": "פיך",
       "gloss": "آپءِ دہن"
     },
     {
-      "surface": "לַחֲטִיא",
+      "surface": "לחטיא",
       "gloss": "پہ گنہ گرگ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آپءِ گوشت"
     },
     {
-      "surface": "בְּשָׂרֶךָ",
+      "surface": "בשרך",
       "gloss": "آپءِ گوشت"
     },
     {
-      "surface": "וְאַל",
+      "surface": "ואל",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "תֹּאמַר",
+      "surface": "תאמר",
       "gloss": "گوشیت"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "پیشءَ"
     },
     {
-      "surface": "הַמַּלְאָךְ",
+      "surface": "המלאך",
       "gloss": "فرشتہءِ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "שְׁגָגָה",
+      "surface": "שגגה",
       "gloss": "چوک"
     },
     {
-      "surface": "הִיא",
+      "surface": "היא",
       "gloss": "اے"
     },
     {
-      "surface": "לָמָּה",
+      "surface": "למה",
       "gloss": "چرا"
     },
     {
-      "surface": "יִקְצֹף",
+      "surface": "יקצף",
       "gloss": "غضب بکنت"
     },
     {
-      "surface": "הָאֱלֹהִים",
+      "surface": "האלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سر"
     },
     {
-      "surface": "קוֹלֶךָ",
+      "surface": "קולך",
       "gloss": "آپءِ آواز"
     },
     {
-      "surface": "וְחִבֵּל",
+      "surface": "וחבל",
       "gloss": "ءُ نیست بکنت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کار"
     },
     {
-      "surface": "מַעֲשֶׂה",
+      "surface": "מעשה",
       "gloss": "کار"
     },
     {
-      "surface": "יָדֶיךָ",
+      "surface": "ידיך",
       "gloss": "آپءِ دستاںءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:48:34.003814067Z",
-  "model": "glm-5.3"
+  ]
 }

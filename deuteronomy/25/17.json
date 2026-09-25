@@ -1,50 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
-  "ref": "deuteronomy 25:17",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:45:27.805074195Z",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "tier": "glm-5.2",
   "chapter": 25,
   "translation": "یاد دار کہ عمالقءَ چہ راہءَ تہ ⟨את⟩ آ کت، وہدے کہ تُں چہ مِتسرایمءَ درآت.",
   "tokens": [
     {
-      "surface": "זָכ֕וֹר",
+      "surface": "זכור",
       "gloss": "یاد دار"
     },
     {
-      "surface": "אֵ֛ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آ کت"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "עָשָׂ֥ה",
+      "surface": "עשה",
       "gloss": "کت"
     },
     {
-      "surface": "לְךָ֖",
+      "surface": "לך",
       "gloss": "تہ"
     },
     {
-      "surface": "עֲמָלֵ֑ק",
+      "surface": "עמלק",
       "gloss": "عمالقءَ"
     },
     {
-      "surface": "בַּדֶּ֖רֶךְ",
+      "surface": "בדרך",
       "gloss": "چہ راہءَ"
     },
     {
-      "surface": "בְּצֵאתְכֶ֥ם",
+      "surface": "בצאתכם",
       "gloss": "وہدے کہ تُں درآت"
     },
     {
-      "surface": "מִמִּצְרָֽיִם",
+      "surface": "ממצרים",
       "gloss": "چہ مِتسرایمءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:45:27.805074195Z",
-  "model": "glm-5.3"
+  ]
 }

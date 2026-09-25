@@ -1,69 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "genesis 50:2",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:50:51.973906179Z",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "tier": "glm-5.2",
   "chapter": 50,
   "translation": "ءُ یوسف وتی نوکرانءَ — حکمتیبانءَ — آییءِ پدرءَ مشموت کنءِ پہ فرمان کت، ءُ حکمتیبانءَ ⟨את⟩ اسرائیلءَ مشموت کت.",
   "tokens": [
     {
-      "surface": "וַיְצַ֨ו",
+      "surface": "ויצו",
       "gloss": "ءُ … فرمان کت"
     },
     {
-      "surface": "יוֹסֵ֤ף",
+      "surface": "יוסף",
       "gloss": "یوسفءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی نوکرانءَ"
     },
     {
-      "surface": "עֲבָדָיו֙",
+      "surface": "עבדיו",
       "gloss": "وتی نوکران"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "حکمتیبانءَ"
     },
     {
-      "surface": "הָרֹ֣פְאִ֔ים",
+      "surface": "הרפאים",
       "gloss": "حکمتیبان"
     },
     {
-      "surface": "לַחֲנֹ֖ט",
+      "surface": "לחנט",
       "gloss": "مشموت کنءِ پہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ پدرءَ"
     },
     {
-      "surface": "אָבִ֑יו",
+      "surface": "אביו",
       "gloss": "آییءِ پدر"
     },
     {
-      "surface": "וַיַּחַנְט֥וּ",
+      "surface": "ויחנטו",
       "gloss": "ءُ … مشموت کت"
     },
     {
-      "surface": "הָרֹפְאִ֖ים",
+      "surface": "הרפאים",
       "gloss": "حکمتیبانءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اسرائیلءَ"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "gloss": "اسرائیل"
     }
-  ],
-  "timestamp": "2026-09-25T22:50:51.973906179Z",
-  "model": "glm-5.3"
+  ]
 }

@@ -1,74 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
-  "ref": "1-chronicles 13:13",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:40:25.585008969Z",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ داود ⟨את⟩ صندوقءَ گوں وتی نہ زوت، نہ داودءِ شہرءَ، بلے آیءَ زوت آ خانگءَ کہ عوبید ءِ اِدومءِ، گِتیءِ مردمءَ۔",
   "tokens": [
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "הֵסִ֨יר",
+      "surface": "הסיר",
       "gloss": "زوت"
     },
     {
-      "surface": "דָּוִ֧יד",
+      "surface": "דויד",
       "gloss": "داود"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "صندوق"
     },
     {
-      "surface": "הָאָר֛וֹן",
+      "surface": "הארון",
       "gloss": "صندوقءَ"
     },
     {
-      "surface": "אֵלָ֖יו",
+      "surface": "אליו",
       "gloss": "گوں وتی"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "עִ֣יר",
+      "surface": "עיר",
       "gloss": "شہرءَ"
     },
     {
-      "surface": "דָּוִ֑יד",
+      "surface": "דויד",
       "gloss": "داودءِ"
     },
     {
-      "surface": "וַיַּטֵּ֕הוּ",
+      "surface": "ויטהו",
       "gloss": "ءُ آیءَ زوت"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "خانگءَ"
     },
     {
-      "surface": "עֹבֵֽד",
+      "surface": "עבד",
       "gloss": "عوبید ءِ"
     },
     {
-      "surface": "אֱדֹ֖ם",
+      "surface": "אדם",
       "gloss": "اِدومءِ"
     },
     {
-      "surface": "הַגִּתִּֽי",
+      "surface": "הגתי",
       "gloss": "گِتیءِ مردمءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:40:25.585008969Z",
-  "model": "glm-5.3"
+  ]
 }

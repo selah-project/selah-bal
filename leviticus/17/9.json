@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "leviticus 17:9",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:57:13.046551683Z",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "tier": "glm-5.2",
   "chapter": 17,
   "translation": "ءُ ملاقاتءِ گانی روتیءَ آییءَ نہ انگت پہ آییءَ پہ یاہوہ کنگ، ءُ آے مردم چہ وتی قومءَ گوَستہ ببیت۔",
   "tokens": [
@@ -12,7 +14,7 @@
       "gloss": "ءُ … روتیءَ"
     },
     {
-      "surface": "پتח",
+      "surface": "פתח",
       "gloss": "روتی"
     },
     {
@@ -60,7 +62,5 @@
       "surface": "מעמיו",
       "gloss": "چہ وتی قومءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:57:13.046551683Z",
-  "model": "glm-5.3"
+  ]
 }

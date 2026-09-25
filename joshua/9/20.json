@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "joshua 9:20",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:55:12.641023006Z",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "اے ما آیانءَ کنیں ءُ آیانءَ زنده داریں، تا کین ماءِ سرءَ نہ بیت، اے قسمءِ پہ کہ ما چے آیانءَ قسم کتگ۔",
   "tokens": [
     {
-      "surface": "זֹ֛את",
+      "surface": "זאת",
       "gloss": "اے"
     },
     {
-      "surface": "נַעֲשֶׂ֥ה",
+      "surface": "נעשה",
       "gloss": "کنیں"
     },
     {
-      "surface": "לָהֶ֖ם",
+      "surface": "להם",
       "gloss": "آیانءَ"
     },
     {
-      "surface": "וְהַחֲיֵ֣ה",
+      "surface": "והחיה",
       "gloss": "ءُ زنده داریں"
     },
     {
-      "surface": "אוֹתָ֑ם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "آیانءَ"
     },
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִֽהְיֶ֤ה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "עָלֵ֨ינוּ֙",
+      "surface": "עלינו",
       "gloss": "ماءِ سرءَ"
     },
     {
-      "surface": "קֶ֔צֶף",
+      "surface": "קצף",
       "gloss": "کین"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "اے"
     },
     {
-      "surface": "הַשְּׁבוּעָ֖ה",
+      "surface": "השבועה",
       "gloss": "قسمءِ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נִשְׁבַּ֥עְנוּ",
+      "surface": "נשבענו",
       "gloss": "قسم کتگ"
     },
     {
-      "surface": "לָהֶֽם",
+      "surface": "להם",
       "gloss": "چے آیانءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:55:12.641023006Z",
-  "model": "glm-5.3"
+  ]
 }

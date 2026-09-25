@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
-  "ref": "genesis 30:26",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:51:34.116598193Z",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "tier": "glm-5.2",
   "chapter": 30,
   "translation": "ماءِ زالان ءُ ماءِ زہگان بده چا کہ ما آیاناں پہ تات کار کتگ، ءُ ما روت؛ پرچا کہ تو ماءِ کارءَ زانیت کہ ما پہ تو کتگ۔",
   "tokens": [
     {
-      "surface": "תְּנָ֞ה",
+      "surface": "תנה",
       "gloss": "بده"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ماءِ زالان"
     },
     {
-      "surface": "נָשַׁ֣י",
+      "surface": "נשי",
       "gloss": "ماءِ زالان"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ماءِ زہگان"
     },
     {
-      "surface": "יְלָדַ֗י",
+      "surface": "ילדי",
       "gloss": "ماءِ زہگان"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "چا کہ"
     },
     {
-      "surface": "עָבַ֧דְתִּי",
+      "surface": "עבדתי",
       "gloss": "ما کار کتگ"
     },
     {
-      "surface": "אֹֽתְךָ֛",
+      "surface": "אתך",
       "gloss": "⟨את⟩ توءَ",
       "marks": "پہ تو"
     },
     {
-      "surface": "בָּהֵ֖ן",
+      "surface": "בהן",
       "gloss": "پہ آیاناں"
     },
     {
-      "surface": "וְאֵלֵ֑כָה",
+      "surface": "ואלכה",
       "gloss": "ءُ ما روت"
     },
     {
-      "surface": "כִּ֚י",
+      "surface": "כי",
       "gloss": "پرچا کہ"
     },
     {
-      "surface": "אַתָּ֣ה",
+      "surface": "אתה",
       "gloss": "تو"
     },
     {
-      "surface": "יָדַ֔עְתָּ",
+      "surface": "ידעת",
       "gloss": "زانیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ماءِ کارءَ"
     },
     {
-      "surface": "עֲבֹדָתִ֖י",
+      "surface": "עבדתי",
       "gloss": "ماءِ کارءَ"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "چا کہ"
     },
     {
-      "surface": "עֲבַדְתִּֽיךָ",
+      "surface": "עבדתיך",
       "gloss": "ما پہ تو کار کتگ"
     }
-  ],
-  "timestamp": "2026-09-25T22:51:34.116598193Z",
-  "model": "glm-5.3"
+  ]
 }

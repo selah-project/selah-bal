@@ -1,124 +1,124 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
-  "ref": "jeremiah 24:8",
   "book": "jeremiah",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:53:04.488244604Z",
+  "verse": 8,
+  "ref": "jeremiah 24:8",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ءُ چوش انجیری ءُ بدانی کہ چہ بدیءَ نہ ماننت — چونکہ اے یاہوہءَ گوَشت — ایشیں منم ⟨את⟩ زدقیاہوءَ، یہوداہءِ شاہ، ءُ ⟨את⟩ آییءِ سردارانءَ، ءُ ⟨את⟩ یروشلمءِ مانگان، آ کہ اے زمینءَ ماننت، ءُ آ کہ مِتسرایمءِ زمینءَ سبنت.",
   "tokens": [
     {
-      "surface": "וְכַתְּאֵנִים",
+      "surface": "וכתאנים",
       "gloss": "ءُ چوش انجیری"
     },
     {
-      "surface": "הָרָעוֹת",
+      "surface": "הרעות",
       "gloss": "بدانی"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "لֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "תֵאָכַלְנָה",
+      "surface": "תאכלנה",
       "gloss": "ماننت"
     },
     {
-      "surface": "מֵרֹעַ",
+      "surface": "מרע",
       "gloss": "چہ بدیءَ"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "چونکہ"
     },
     {
-      "surface": "כֹה",
+      "surface": "כה",
       "gloss": "ایشیں"
     },
     {
-      "surface": "אָמַר",
+      "surface": "אמר",
       "gloss": "گوَشت"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "ایشیں"
     },
     {
-      "surface": "אֶתֵּן",
+      "surface": "אתן",
       "gloss": "منم دَیم"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زدقیاہو"
     },
     {
-      "surface": "צִדְקִיָּהוּ",
+      "surface": "צדקיהו",
       "gloss": "زدقیاہوءَ"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "شاہ"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "gloss": "یہوداہ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ سرداران"
     },
     {
-      "surface": "שָׂרָיו",
+      "surface": "שריו",
       "gloss": "آییءِ سردارانءَ"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "یروشلمءِ مانگان"
     },
     {
-      "surface": "שְׁאֵרִית",
+      "surface": "שארית",
       "gloss": "مانگان"
     },
     {
-      "surface": "יְרוּשָׁלִַֽם",
+      "surface": "ירושלם",
       "gloss": "یروشلمءِ"
     },
     {
-      "surface": "הַנִּשְׁאָרִים",
+      "surface": "הנשארים",
       "gloss": "مانوک"
     },
     {
-      "surface": "בָּאָרֶץ",
+      "surface": "בארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "הַזֹּאת",
+      "surface": "הזאת",
       "gloss": "اے"
     },
     {
-      "surface": "וְהַיֹּשְׁבִים",
+      "surface": "והישבים",
       "gloss": "ءُ سبوک"
     },
     {
-      "surface": "בְּאֶרֶץ",
+      "surface": "בארץ",
       "gloss": "زمینءَ"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءِ"
     }
-  ],
-  "timestamp": "2026-09-25T22:53:04.488244604Z",
-  "model": "glm-5.3"
+  ]
 }

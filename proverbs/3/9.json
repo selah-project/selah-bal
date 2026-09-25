@@ -1,42 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "proverbs 3:9",
   "book": "proverbs",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:59:14.867914074Z",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "tier": "glm-5.2",
   "chapter": 3,
   "translation": "یاہوہءَ ⟨את⟩ چہ تُءِ مالءَ عزت دِینت، ءُ چہ تمامی تُءِ حاصلءِ اولیں میوہ ءُ؛",
   "tokens": [
     {
-      "surface": "כַּבֵּ֣ד",
+      "surface": "כבד",
       "gloss": "عزت دِینت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ"
     },
     {
-      "surface": "יְ֭הוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "מֵהוֹנֶ֑ךָ",
+      "surface": "מהונך",
       "gloss": "چہ تُءِ مالءَ"
     },
     {
-      "surface": "וּ֝מֵרֵאשִׁ֗ית",
+      "surface": "ומראשית",
       "gloss": "ءُ چہ اولیں میوہ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "تمامی"
     },
     {
-      "surface": "תְּבוּאָתֶֽךָ",
+      "surface": "תבואתך",
       "gloss": "تُءِ حاصل"
     }
-  ],
-  "timestamp": "2026-09-25T22:59:14.867914074Z",
-  "model": "glm-5.3"
+  ]
 }

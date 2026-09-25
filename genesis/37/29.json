@@ -1,58 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
-  "ref": "genesis 37:29",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:51:42.901659654Z",
+  "verse": 29,
+  "ref": "genesis 37:29",
+  "tier": "glm-5.2",
   "chapter": 37,
   "translation": "ءُ رِاوبَن کُہءَ پس گپت؛ ءُ گوَشت اِشٹ، یوسف کُہءَ نیست اِنت؛ ءُ آییءَ چیر (کرّہ) چیر (بچڑی) آیانی نہ بوت۔",
   "tokens": [
     {
-      "surface": "וַיָּשָׁב",
+      "surface": "וישב",
       "gloss": "ءُ رِاوبَن کُہءَ پس گپت"
     },
     {
-      "surface": "רְאוּבֵן",
+      "surface": "ראובן",
       "gloss": "رِاوبَن"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "ءَ (کُہءَ)"
     },
     {
-      "surface": "הַבּוֹר",
+      "surface": "הבור",
       "gloss": "کُہ"
     },
     {
-      "surface": "וְהִנֵּה",
+      "surface": "והנה",
       "gloss": "ءُ گوَشت اِشٹ"
     },
     {
-      "surface": "אַיִן",
+      "surface": "אין",
       "gloss": "نہ"
     },
     {
-      "surface": "יוֹסֵף",
+      "surface": "יוסף",
       "gloss": "یوسف"
     },
     {
-      "surface": "בַּבּוֹר",
+      "surface": "בבור",
       "gloss": "کُہءَ"
     },
     {
-      "surface": "וַיִּקְרַע",
+      "surface": "ויקרע",
       "gloss": "ءُ آییءَ چیر (کرّہ) چیر (بچڑی) آیانی نہ بوت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پوشاکءَ (بَگداو)"
     },
     {
-      "surface": "בְּגָדָיו",
+      "surface": "בגדיו",
       "gloss": "پوشاکءَ (بَگداو)"
     }
-  ],
-  "timestamp": "2026-09-25T22:51:42.901659654Z",
-  "model": "glm-5.3"
+  ]
 }

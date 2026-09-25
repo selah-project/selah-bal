@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
-  "ref": "joshua 6:3",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:54:28.042419408Z",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ شما شہرءَ گھیر اِشکنیءَ — پورا جنگءِ مرد — چوں کہ گوں ⟨את⟩ شہرءَ یک وار دمءَ سر کریءَ، ہمےءِ چوں شما کنیءَ شش روچ۔",
   "tokens": [
     {
-      "surface": "וְסַבֹּתֶם",
+      "surface": "וסבתם",
       "gloss": "ءُ شما … گھیر اِشکنیءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شہرءَ"
     },
     {
-      "surface": "הָעִיר",
+      "surface": "העיר",
       "gloss": "شہرءَ"
     },
     {
-      "surface": "כֹּל",
+      "surface": "כל",
       "gloss": "پورا"
     },
     {
-      "surface": "אַנְשֵׁי",
+      "surface": "אנשי",
       "gloss": "مرد"
     },
     {
-      "surface": "הַמִּלְחָמָה",
+      "surface": "המלחמה",
       "gloss": "جنگءِ"
     },
     {
-      "surface": "הַקֵּיף",
+      "surface": "הקיף",
       "gloss": "دمءَ سر کنگ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شہرءَ"
     },
     {
-      "surface": "הָעִיר",
+      "surface": "העיר",
       "gloss": "شہرءَ"
     },
     {
-      "surface": "פַּעַם",
+      "surface": "פעם",
       "gloss": "وار"
     },
     {
-      "surface": "אֶחָת",
+      "surface": "אחת",
       "gloss": "یک"
     },
     {
-      "surface": "כֹּה",
+      "surface": "כה",
       "gloss": "ہمےءِ چوں"
     },
     {
-      "surface": "תַּעֲשֶׂה",
+      "surface": "תעשה",
       "gloss": "کنیءَ"
     },
     {
-      "surface": "שֵׁשֶׁת",
+      "surface": "ששת",
       "gloss": "شش"
     },
     {
-      "surface": "יָמִים",
+      "surface": "ימים",
       "gloss": "روچ"
     }
-  ],
-  "timestamp": "2026-09-25T22:54:28.042419408Z",
-  "model": "glm-5.3"
+  ]
 }

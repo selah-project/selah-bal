@@ -1,87 +1,87 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
-  "ref": "1-kings 5:7",
   "book": "1-kings",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:42:50.021773972Z",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "tier": "glm-5.2",
   "chapter": 5,
   "translation": "ءُ اے ایشتگ شاہءَ ⟨את⟩ سلیمانءَ پالینت ءُ ءُ ⟨את⟩ ہر کسءَ کہ شاہءِ سلیمانءِ دسترخوانءَ نزیک اَت، ہر یک وتی ماہءَ؛ ہچ چیزے کہوٹ نہ کیتنت۔",
   "tokens": [
     {
-      "surface": "וְכִלְכְּלוּ",
+      "surface": "וכלכלו",
       "gloss": "ءُ پالینت"
     },
     {
-      "surface": "הַנִּצָּבִים",
+      "surface": "הנצבים",
       "gloss": "اے ایشتگ"
     },
     {
-      "surface": "הָאֵלֶּה",
+      "surface": "האלה",
       "gloss": "اے"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شاہءَ سلیمانءَ"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہءَ"
     },
     {
-      "surface": "שְׁלֹמֹה",
+      "surface": "שלמה",
       "gloss": "سلیمانءَ"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "ہر کسءَ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر کسءَ"
     },
     {
-      "surface": "הַקָּרֵב",
+      "surface": "הקרב",
       "gloss": "نزیک‌أتگان"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "تہ"
     },
     {
-      "surface": "שֻׁלְחַן",
+      "surface": "שלחן",
       "gloss": "دسترخوان"
     },
     {
-      "surface": "הַמֶּלֶךְ",
+      "surface": "המלך",
       "gloss": "شاہءِ"
     },
     {
-      "surface": "שְׁלֹמֹה",
+      "surface": "שלמה",
       "gloss": "سلیمانءِ"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "ہر یک"
     },
     {
-      "surface": "חָדְשָׁיו",
+      "surface": "חדשו",
       "gloss": "وتی ماہءَ"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יְעַדְּרוּ",
+      "surface": "יעדרו",
       "gloss": "کہوٹ کیتنت"
     },
     {
-      "surface": "דָּבָר",
+      "surface": "דבר",
       "gloss": "ہچ چیزے"
     }
-  ],
-  "timestamp": "2026-09-25T22:42:50.021773972Z",
-  "model": "glm-5.3"
+  ]
 }

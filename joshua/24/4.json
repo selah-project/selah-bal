@@ -1,85 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
-  "ref": "joshua 24:4",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T22:54:20.229834552Z",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "tier": "glm-5.2",
   "chapter": 24,
   "translation": "ءُ من یسحاقءَ ⟨את⟩ یعقوب ءُ ⟨את⟩ عیسو داتم؛ ءُ من عیسوءَ ⟨את⟩ سیئیرءِ کوه داتم پہ آییءَ بگرتنیں، بلے یعقوب ءُ آییءِ زہگان مِتسرایمءَ تاہ بیاتگ۔",
   "tokens": [
     {
-      "surface": "וָאֶתֵּן",
+      "surface": "ואתן",
       "gloss": "ءُ من داتم"
     },
     {
-      "surface": "לְיִצְחָק",
+      "surface": "ליצחק",
       "gloss": "یسحاقءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یعقوب"
     },
     {
-      "surface": "יַעֲקֹב",
+      "surface": "יעקב",
       "gloss": "یعقوب"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "عیسو"
     },
     {
-      "surface": "עֵשָׂו",
+      "surface": "עשו",
       "gloss": "عیسو"
     },
     {
-      "surface": "וָאֶתֵּן",
+      "surface": "ואתן",
       "gloss": "ءُ من داتم"
     },
     {
-      "surface": "לְעֵשָׂו",
+      "surface": "לעשו",
       "gloss": "عیسوءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سیئیرءِ کوه"
     },
     {
-      "surface": "הַר",
+      "surface": "הר",
       "gloss": "کوه"
     },
     {
-      "surface": "שֵׂעִיר",
+      "surface": "שעיר",
       "gloss": "سیئیر"
     },
     {
-      "surface": "לָרֶשֶׁת",
+      "surface": "לרשת",
       "gloss": "پہ بگرتنیں"
     },
     {
-      "surface": "אוֹתוֹ",
+      "surface": "אותו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "سیئیرءِ کوه"
     },
     {
-      "surface": "וְיַעֲקֹב",
+      "surface": "ויעקב",
       "gloss": "ءُ یعقوب"
     },
     {
-      "surface": "וּבָנָיו",
+      "surface": "ובניו",
       "gloss": "ءُ آییءِ زہگان"
     },
     {
-      "surface": "יָרְדוּ",
+      "surface": "ירדו",
       "gloss": "تاہ بیاتگ"
     },
     {
-      "surface": "מִצְרַיִם",
+      "surface": "מצרים",
       "gloss": "مِتسرایمءَ"
     }
-  ],
-  "timestamp": "2026-09-25T22:54:20.229834552Z",
-  "model": "glm-5.3"
+  ]
 }
