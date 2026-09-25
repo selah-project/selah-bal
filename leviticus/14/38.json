@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ کاہن چہ گدانءَ گدانءِ دروازہءَ آہد کت، ءُ ⟨את⟩ گدانءَ ہپت روچ بند کت۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ آہد کت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ءُ بند کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گدانءَ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:32.922001643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "دو دست یک تختہءَ اَنت، یکے گوں یکے جوڑ بوتگ؛ ⟨اِشوءَ⟩ اے کار پہ مِشکانءِ روچے تختہ ءُ کت۔",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "دست"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "پہ تختہ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "جوڑ بوتگ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ روچے"
+    },
+    {
+      "surface": "کרשי",
+      "gloss": "تختہ ءُ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مِشکانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:36.903011514Z",
+  "model": "glm-5.3"
+}

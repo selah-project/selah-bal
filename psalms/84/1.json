@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 84,
+  "translation": "پہ پیشوا، گتیتءِ سرءَ، پہ قورحءِ زہگان، مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گتیت"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پہ زہگان"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:13.257157486Z",
+  "model": "glm-5.3"
+}

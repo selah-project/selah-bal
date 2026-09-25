@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 85,
+  "translation": "تو تئر چمگ غضبءَ گپت ⟨ای⟩؛ تو تئر اُگءِ تپش چہ پدا گرانیں ⟨ای⟩.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "تو گپت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "چمگ"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "تئر غضبءَ"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "پدا گرانیں"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "اُگءِ تپش"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تئر اُگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:08.392911948Z",
+  "model": "glm-5.3"
+}

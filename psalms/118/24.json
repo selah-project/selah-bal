@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "اے آ روچ اِنت کہ یاهوہءَ آءَ ساخت؛ آءِ تہ شاد بیت ءُ خوش بیت۔",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آ روچ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ساخت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوہ"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ءُ خوش بیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آءِ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:59.250356627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "پہ اے نہ بیت تہءَ رسی ودی کنوک، چہ قرعہءَ، تہ یاہوہءِ قہومیءَ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "پہ اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "ودی کنوک"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "رسی"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "چہ قرعہءَ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "تہ قہومیءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:37:48.987082097Z",
+  "model": "glm-5.3"
+}

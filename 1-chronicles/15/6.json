@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 15:6",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "مراریءِ زہگانءَ عسایہ سردار اِنت ءُ آییءِ براتان دو سد ءُ بیست اَنت۔",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "زہگانءَ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراریءِ"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عسایہ"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ءُ آییءِ براتان"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ بیست"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:25.129428351Z",
+  "model": "glm-5.3"
+}

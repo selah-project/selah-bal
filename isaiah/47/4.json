@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "«ماءِ چڑانکار یاہوہ سباؤت اِنت، آییءِ نام اسرائیلءِ پاک اِنت.»",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "ماءِ چڑانکار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T21:36:57.387650858Z",
+  "model": "glm-5.3"
+}

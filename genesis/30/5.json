@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ بلہاہءَ بچ داریت ءُ یعقوبءَ پہ یک زہگ زائیت.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ءُ بچ داریت"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلہاہءَ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "پہ یعقوبءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "یک زہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:27.852837437Z",
+  "model": "glm-5.3"
+}

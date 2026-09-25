@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ من آ وہدءَ تُماںءَ گوَشت کہ من یکے نہ توانت کہ تُماں ⟨את⟩ بارت کنت۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ من گوَشت"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تُماںءَ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "آ وہدءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "توانت"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "بارت کنت"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُماںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:38.462172704Z",
+  "model": "glm-5.3"
+}

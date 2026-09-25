@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "گوشیں، اے زہگان، پیءِ پند ءُ توجہ کنیں پہ زانگءِ فراست۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوشیں"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "اے زہگان"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "پند"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیءِ"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "ءُ توجہ کنیں"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "پہ زانگءِ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فراست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:53.427764777Z",
+  "model": "glm-5.3"
+}

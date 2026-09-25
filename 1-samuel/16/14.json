@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ یاہوہءِ روح چہ شاؤل گوش کنت، ءُ یک گندین روح چے ⟨את⟩ یاہوہءَ آییءَ ڈپت کت۔",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ءُ روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "گوش کنت"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "ءُ آییءَ ڈپت کت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "گندین"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "چے ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:32:41.856180237Z",
+  "model": "glm-5.3"
+}

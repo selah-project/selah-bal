@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 122,
+  "translation": "یروشلم، جوڑ بوتگیں چوش یک شہر کہ آءَ گوں وت یکتا جوڑیتگ۔",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "جوڑ بوتگیں"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "چوش یک شہر"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "یکتا جوڑیتگ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکتائیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:16.439948355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ من اودا ⟨את⟩ صندوقءَ جا کت کہ ادا یاہوہءِ عہد اِنت کہ آءِ گوں اسرائیلءِ زہگانی جوڑ کت.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "ءُ جا کت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوقءَ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوقءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:34:44.454085331Z",
+  "model": "glm-5.3"
+}

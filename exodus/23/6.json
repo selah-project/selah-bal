@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "تُرءِ کمبختءِ راستیءَ آییءِ دعوا ءَ نہ کج کن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "کج کن"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "تُرءِ کمبختءِ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "آییءِ دعوا ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:17.440773315Z",
+  "model": "glm-5.3"
+}

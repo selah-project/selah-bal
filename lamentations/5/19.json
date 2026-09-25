@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "تو، اے یاہوہ، پہ ہمیشہ نشتہ اِنت، تختءِ تو پہ نسل ءُ نسل۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "نشتہ اِنت"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تختءِ تو"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "پہ نسل"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ءُ نسل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:34.719806113Z",
+  "model": "glm-5.3"
+}

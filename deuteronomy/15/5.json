@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "بلے اگر گوشیں گوشیت یاہوہ تُءِ ایلوہیمءِ آوازءَ، پہ داریں ءُ پہ کنیں ⟨את⟩ پوری اے ہکم کہ من تُءَ اِمروز دیں۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "گوشیں"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آوازءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُءِ ایلوہیم"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "پہ داریں"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "پہ کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوری اے ہکم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ہکم"
+    },
+    {
+      "surface": "ہזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تُءَ ہکم دیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِمروز"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:35.161664255Z",
+  "model": "glm-5.3"
+}

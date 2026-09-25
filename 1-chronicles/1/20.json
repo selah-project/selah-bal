@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یُقطانءَ ⟨את⟩ اَلموداد ءُ ⟨את⟩ شِلِف ءُ ⟨את⟩ حَزرماوِت ءُ ⟨את⟩ یَرَح زائیت۔",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "ءُ یُقطانءَ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَلموداد"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "اَلموداد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شِلِف"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "شِلِف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حَزرماوِت"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "حَزرماوِت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یَرَح"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "یَرَح"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:53.104107380Z",
+  "model": "glm-5.3"
+}

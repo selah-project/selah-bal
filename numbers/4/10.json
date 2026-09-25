@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ ڈنت ⟨את⟩ آءَ ءُ ⟨את⟩ گیش آییءِ چیزاں تہ یک ڈھکن ءِ کال ءِ تَحش ءُ ڈنت آءَ ڈنڈءِ سرءَ",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ءُ ڈنت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آءَ",
+      "marks": "آءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گیش آییءِ چیزاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "آییءِ چیزاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "مכסה",
+      "gloss": "ڈھکن"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کالءِ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "تَحش"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ءُ ڈنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ڈنڈءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:29:09.249740599Z",
+  "model": "glm-5.3"
+}

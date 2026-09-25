@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ موشہ ⟨موسیٰ⟩ چوش گوں ہر چیز کہ یاہوہ ⟨את⟩ آءَ حکم کت، آءَ کت — چوش ئے کت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "چوش گوں ہر چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آءَ",
+      "marks": "چوش ئے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چوش ئے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:24.002416093Z",
+  "model": "glm-5.3"
+}

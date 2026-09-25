@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ زبل، شہرءِ سردار، ⟨את⟩ گال بن عابدءِ گالانءَ گوشت، ءُ آییءِ غم بزیچیت۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "زבל",
+      "gloss": "زبل"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہرءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گالءِ گالان"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "געל",
+      "gloss": "گال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عابد"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ءُ بزیچیت"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "آییءِ غم"
+    }
+  ],
+  "timestamp": "2026-09-24T20:18:48.486697743Z",
+  "model": "glm-5.3"
+}

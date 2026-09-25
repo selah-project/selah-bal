@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ موشہ آشانءَ گوَشت: اگر ⟨את⟩ اے کار کنیت، اگر یاہوہءِ چیر پہ جنگءَ زرہ لیس بیت —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "آشانءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے کار"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے کار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "زرہ لیس بیت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "چیر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "پہ جنگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:44:50.894144722Z",
+  "model": "glm-5.3"
+}

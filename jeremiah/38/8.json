@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ عَبد مالک بادشاہءِ گُڈی چہ در برات ءُ بادشاہءَ گوں آ گپ گوَشت کہ:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ در برات"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عَبد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گُڈی چہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گپ گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:00:41.366989958Z",
+  "model": "glm-5.3"
+}

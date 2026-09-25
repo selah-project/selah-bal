@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ہر یک چیز چہ ایلوہہءِ گپ پاک کنگیں اِنت؛ آ یک سپر اِنت پہ آ荔枝اناں کہ آییءَ تہ پناہ گنت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر یک"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہہ"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "پاک کنگیں"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "سپر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "پہ پناہ گراکان"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:28.544968812Z",
+  "model": "glm-5.3"
+}

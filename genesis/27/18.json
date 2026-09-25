@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ آئے اَنتلءَ آییءِ پت، ءُ گوَشت: اے میں پت! ءُ آ گوَشت: ایجا من اَت — تو کے اَی، میں زہگ؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اَنتلءَ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آییءِ پت"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "اے میں پت"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ایجا من اَت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میں زہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:58.904670139Z",
+  "model": "glm-5.3"
+}

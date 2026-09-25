@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 55,
+  "translation": "یاہوہءِ سرءَ وتی بار ڈے؛ ءُ آ تاںءَ سنبالِت؛ راستیں مردءَ ہمیشہ لرزگ نہ دیت۔",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "ڈے"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "وتی بارءَ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "تاںءَ سنبالِت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "لرزگ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "راستیں مردءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:09.860894233Z",
+  "model": "glm-5.3"
+}

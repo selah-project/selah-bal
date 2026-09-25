@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ بوت یاہوہءِ گال پہ یونہ، اَمیتائیءِ زہگءَ، ⟨کہ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "اَمیتائی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:38:24.250823815Z",
+  "model": "glm-5.3"
+}

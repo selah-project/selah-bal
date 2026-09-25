@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "چہ چی ئے قوماں ہنگامہ کننت، ءُ مردمان بیکاریں گپان سوچنت؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چہ چی ئے"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "ہنگامہ کننت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ءُ مردمان"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "سوچنت"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "بیکاریں گپان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:20.689418050Z",
+  "model": "glm-5.3"
+}

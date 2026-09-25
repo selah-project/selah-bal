@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 86,
+  "translation": "دعا، پہ داودءِ. اے یاہوہ، تری گوشءَ ہمب کت ءُ منءَ جواب دیت، چی من غریب ءُ گدا ءُ اَت.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داودءِ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ہمب کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "تری گوشءَ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "منءَ جواب دیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ءُ گدا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:18.846260875Z",
+  "model": "glm-5.3"
+}

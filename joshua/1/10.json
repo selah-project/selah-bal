@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یہوشوعءَ ⟨את⟩ مردمءِ کارگزارانءَ فرمان دت کہ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ءُ فرمان دت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوعءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردمءِ کارگزاران"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "کارگزاران"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:04:03.039901229Z",
+  "model": "glm-5.3"
+}

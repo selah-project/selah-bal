@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "کیہ کہ گپان گیش ہست کہ ہابلءَ گیش کننت — بندہءَ چہ یتیر چہ اِنت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "گپان"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "گیش کننت"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہابلءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یتیر"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بندہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:09.601574445Z",
+  "model": "glm-5.3"
+}

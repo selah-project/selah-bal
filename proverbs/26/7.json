@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "لنگزی ءِ لنگ ڈلہ اَنت، ءُ پہاک کسیلانی منہءِ تہ۔",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "ڈلہ اَنت"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "لنگ"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "لنگزی ءِ چہ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ءُ پہاک"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "منہءِ تہ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "کسیلانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:15.072063144Z",
+  "model": "glm-5.3"
+}

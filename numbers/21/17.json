@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "آز اسرائیل اے گانی گانیت ⟨את⟩ اے گانیءَ: اے چاہ، اُوچ بیت، شمے آییءَ گانیت.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آز"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "گانیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گانیءَ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "گانی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُوچ بیت"
+    },
+    {
+      "surface": "באר",
+      "gloss": "چاہ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "شمے گانیت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:38:15.718395456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "دو-دلیانءَ دشمنی کتم ءُ توراءَ پیز کتم۔",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "دو-دلیان"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "دشمنی کتم"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ءُ توراءَ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "پیز کتم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:59.609055181Z",
+  "model": "glm-5.3"
+}

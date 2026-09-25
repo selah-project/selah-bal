@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "آ رودانءَ بیابان کنیت ءُ آپءِ جششانءَ ئشءِ جاگہ۔",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "رودانءَ"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "بیابانءَ"
+    },
+    {
+      "surface": "ומוצאי",
+      "gloss": "ءُ آپءِ جششانءَ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپءِ"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "ئشءِ جاگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:32.879176544Z",
+  "model": "glm-5.3"
+}

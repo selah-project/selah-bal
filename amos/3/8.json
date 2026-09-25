@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "شیر چیغ دیت، کے نہ ڈرنت؟ ادونای یاہوہءَ گوَشت، کے نہ پیغمبری کنیت؟",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "چیغ دیت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ڈرنت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "پیغمبری کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:34:20.587301537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 72,
+  "translation": "ءُ ہمگ ملوک آییءَ سجدہ کننت، ہمگ قومں آییءِ خدمت کننت.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "ءُ سجدہ کننت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ملوک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومں"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "آییءِ خدمت کننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:32.368573741Z",
+  "model": "glm-5.3"
+}

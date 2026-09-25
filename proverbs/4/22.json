@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "پرچا کہ آ پہ آیانءِ لبزوکاں زندگی اِنت، ءُ وتے گوشتءَ پہ شفا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آ ⟨اِنت⟩"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "پہ آیانءِ لبزوکاں"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ءُ پہ وتے"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "گوشتءَ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:07.847121260Z",
+  "model": "glm-5.3"
+}

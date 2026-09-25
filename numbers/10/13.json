@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ اولی بارءَ روتنت، گوں یاہوہءِ گالءَ، موشہءِ دستءَ.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ءُ روتنت"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "اولی بارءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "گالءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:32:07.690237787Z",
+  "model": "glm-5.3"
+}

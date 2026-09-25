@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "منءِ قربانیءِ رتءَ گوں خمیر نہ کُشتیت، ءُ پسحءِ دَھءِ قربانی صُبحءَ تَئیں نہ مَنِّت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "کُشتیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمیر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رتءَ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "منءِ قربانیءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "نہ مَنِّت"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "صُبحءَ تَئیں"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "חג",
+      "gloss": "دَھءِ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسحءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:08:30.081343921Z",
+  "model": "glm-5.3"
+}

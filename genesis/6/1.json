@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اے بوت کہ چه مردم زمینءِ رُتءَ گیش بوتنءَ بنگیت، ءُ جنکان اِشاںءَ پیدا بیتنت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اے بوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "بنگیت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "چه مردم"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "گیش بوتنءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُت"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ءُ جنکان"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "پیدا بیتنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:47.435859815Z",
+  "model": "glm-5.3"
+}

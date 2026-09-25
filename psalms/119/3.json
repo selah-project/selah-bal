@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "ہا، زلمت نہ کننت، آییءِ راہانءَ رونت.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ہا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کننت"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "زلمت"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "آییءِ راہانءَ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "رونت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:43.336846886Z",
+  "model": "glm-5.3"
+}

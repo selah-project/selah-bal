@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ داؤد گدءِ گالءِ پہ بریت، گالی کہ آ یاہوہءِ نامءَ گوَشتگ۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ءُ بریت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "گالءِ پہ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گدءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشتگ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نامءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:29:17.594999102Z",
+  "model": "glm-5.3"
+}

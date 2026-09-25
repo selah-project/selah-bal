@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "آ کہ اگوشتنت: ما ءَ پات گریں ⟨את⟩ ایلوہیمءِ چراگاہان.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "اگوشتنت"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "پات گریں"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ما ءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیمءِ چراگاہان"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "چراگاہان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:11.436302611Z",
+  "model": "glm-5.3"
+}

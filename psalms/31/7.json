@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "من اِشاںءَ بُغز کنءُآں کہ ہِبلی شۏءِ پیشوان اَنت، ءُ من پہ یاہوہ امید کتءُآں۔",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "بُغز کنءُآں"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "پیشوان"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ہِبلی"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "شۏءِ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "امید کتءُآں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:29.930215900Z",
+  "model": "glm-5.3"
+}

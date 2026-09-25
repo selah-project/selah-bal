@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "دو چیز ماں چہ توءَ ⟨את⟩ منگگ کتگنت؛ آ ماں چہ دیم نہ گنو، کجال کہ کوش بیت۔",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ماں منگگ کتگ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "چہ توءَ ⟨את⟩",
+      "marks": "تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "دیم نہ گنو"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ ماں"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "کجال کہ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ماں کوش بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:28.545405984Z",
+  "model": "glm-5.3"
+}

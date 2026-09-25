@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ کاہن ⟨את⟩ نشانءَ گندیت ءُ ⟨את⟩ نشانءَ ہپت روچ بند کیت.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نشان"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نشانءَ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ءُ بند کیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نشان"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نشانءَ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:18:01.488974227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "شباتءِ ⟨את⟩ روچءَ پہ داریت کہ آءَ پاک کوئی، چوش کہ یاہوہ، تُءِ ایلوہیم، تُءَ حکم کتگ۔",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "پہ داریت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روچ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شباتءِ"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "کہ آءَ پاک کوئی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "تُءَ حکم کتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُءِ ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:36.528001052Z",
+  "model": "glm-5.3"
+}

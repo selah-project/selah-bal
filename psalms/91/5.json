@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 91,
+  "translation": "تو چہ شپءِ ڈرءَ نہ ترسی، ءُ نہ چہ تیرے کہ روشنیءِ روچءَ پرّیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ترسی"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "چہ ڈرءَ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپءِ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "چہ تیرے"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "پرّیت"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "روچءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:29.446318282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "شما چھانءَ حامل بیت، پھُل زائیت؛ تہاںی روہ آتش اِنت کہ شماءَ بھوگیت۔",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "حامل بیت"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "چھان"
+    },
+    {
+      "surface": "תלدו",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "קש",
+      "gloss": "پھُل"
+    },
+    {
+      "surface": "رוחכם",
+      "gloss": "تہاںی روہ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "بھوگیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:36.797814944Z",
+  "model": "glm-5.3"
+}

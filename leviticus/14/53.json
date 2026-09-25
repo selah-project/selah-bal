@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ زندگی مرگءَ ⟨את⟩ شارءِ بیرونءَ، کشتءِ دیمءَ رها کنت، ءُ گدانءِ سرءَ کفارت کنت ءُ آ پاک بیت.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ءُ رها کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زندگی مرگءَ"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بہ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بیرونءَ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شارءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دیمءَ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کشتءِ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ءُ کفارت کنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ءُ پاک بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:40.716062113Z",
+  "model": "glm-5.3"
+}

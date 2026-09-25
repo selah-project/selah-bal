@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "ءُ ہم چہ اِشاں من گنتم پہ کاہنان، پہ لویان، گوَشت یاہوہ۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "چہ اِشاں"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "من گنتم"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "پہ کاہنان"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "پہ لویان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:43:14.985669840Z",
+  "model": "glm-5.3"
+}

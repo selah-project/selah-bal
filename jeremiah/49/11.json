@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 49:11",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "چھوڑ اپنے یتیم — میں زندہ کنں؛ ءُ تیرے بیوہ میرے اوپر بھروسہ کنن.",
+  "tokens": [
+    {
+      "surface": "עזבה",
+      "gloss": "چھور"
+    },
+    {
+      "surface": "יתמיך",
+      "gloss": "ترے یتیم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "زندہ کنں"
+    },
+    {
+      "surface": "ואלמנתיך",
+      "gloss": "ءُ ترے بیوہ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سر"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "بھروسہ کنن"
+    }
+  ],
+  "timestamp": "2026-09-24T22:05:22.402832020Z",
+  "model": "glm-5.3"
+}

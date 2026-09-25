@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 21:24",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ شاہ داود اورنانءَ گوَشت: نہ، کہ پوریں زرءَ گوں خریداں — کہ آ کہ تُہءِ اِنت یاہوہءَ پہ نہ گرنتاں ءُ سوچگیں قربانی مفت سوچگ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "اورنانءَ پہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "خرید"
+    },
+    {
+      "surface": "אקנה",
+      "gloss": "خریداں"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "زرءَ گوں"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "گرنتاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءِ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ پہ"
+    },
+    {
+      "surface": "והעלות",
+      "gloss": "ءُ سوچگ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "سوچگیں قربانی"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "مفت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:29:58.898537863Z",
+  "model": "glm-5.3"
+}

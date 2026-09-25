@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ تمام اسرائیل گوش کنت ءُ ڈرنت، ءُ دگہ اے شریں کمئین چوش اے گنداریں گپ تیءِ میانءَ نہ کننت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ تمام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "گوش کننت"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "ءُ ڈرنت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "دگہ … نہ کننت"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کمئین"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "چوش اے گپ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "گنداریں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیءِ میانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:59.061417614Z",
+  "model": "glm-5.3"
+}

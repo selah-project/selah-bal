@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "چونہ زانتُم کی تُو سخت اِنت، ءُ تُءِ گچگ آہنیں رگ اِنت، ءُ تُءِ پیشانی پیتل۔",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "چونہ زانتُم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "ءُ رگِ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "آہن"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "تُءِ گچگ"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "ءُ تُءِ پیشانی"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "پیتل"
+    }
+  ],
+  "timestamp": "2026-09-24T21:37:08.507036386Z",
+  "model": "glm-5.3"
+}

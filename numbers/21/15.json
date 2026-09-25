@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 21:15",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ نچلاںءِ ڈھل، آ کہ عارءِ ماستانءَ روت ءُ موآبءِ سرحدءَ تیک لڑیت۔",
+  "tokens": [
+    {
+      "surface": "ואשד",
+      "gloss": "ءُ ڈھل"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "نچلاںءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "روت"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ماستانءَ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عارءِ"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "ءُ تیک لڑیت"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "سرحدءَ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآبءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:38:13.096837571Z",
+  "model": "glm-5.3"
+}

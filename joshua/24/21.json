@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ قوم یہوشعءَ گوشت: نہ، بلکہ ⟨את⟩ یہوہءَ ما خدمت کنیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشعءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہءَ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ما خدمت کنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T20:14:06.247225594Z",
+  "model": "glm-5.3"
+}

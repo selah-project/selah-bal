@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "اگر من گوَشتم آں شار دیم چوش اے، لگت من نسلءِ تئے زہگانءَ خیانت کت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "من گوَشتم"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "آں شار دیم"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش اے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "لگت"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "تئے زہگان"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "خیانت کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:09.133701084Z",
+  "model": "glm-5.3"
+}

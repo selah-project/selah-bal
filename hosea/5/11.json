@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "اپریم ستوم بوت، مچ بوت انصافءَ؛ چوں کہ وتّی چاہیت، ہلوت پہ فرمانءِ پشتءَ.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "ستوم بوت"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپریم"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "مچ بوت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصافءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوں کہ"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "وتّی چاہیت"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ہلوت"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پہ پشتءَ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "فرمان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:29:22.611341603Z",
+  "model": "glm-5.3"
+}

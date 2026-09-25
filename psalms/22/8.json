@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "گش کنوکانی منے گیشتر منءَ رسیپ کنت؛ ہورءَ چیر کنت، سر جنٹنت،",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "گش کنوکانی منے"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "منءَ رسیپ کنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "یפטירו",
+      "gloss": "ہورءَ چیر کنت"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ہورءَ"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "سر جنٹنت"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:58.681368573Z",
+  "model": "glm-5.3"
+}

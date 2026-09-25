@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ نوح چہ وتئیں شرابءَ چوک بوت ءُ نوحءَ زانیت ⟨את⟩ آ کہ نکیں زہگ آیئا کت۔",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "ءُ چوک بوت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "چہ وتئیں شرابءَ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ءُ زانیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ نکیں زہگ آیئا کت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیئا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نکیں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:56.617099690Z",
+  "model": "glm-5.3"
+}

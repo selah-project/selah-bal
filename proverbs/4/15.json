@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "آییءَ چھوڑ دہ، آییءِ تہءَ گوز مکہ؛ آییءَ چہ کج ءُ گوز.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "آییءَ چھوڑ دہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "گوز مکہ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءِ تہءَ"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "کج"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "آییءَ چہ"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "ءُ گوز"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:54.550949445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ یہوشوع ⟨את⟩ عی سوزائیت ءُ آیءَ پدا ہمیشہءَ ٹیلہ ءُ ویرانی کت، تا اے روچ.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "ءُ سوزائیت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عی"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عی"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "ءُ آیءَ کت"
+    },
+    {
+      "surface": "תל",
+      "gloss": "ٹیلہ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پدا ہمیشہءَ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:06:39.302335668Z",
+  "model": "glm-5.3"
+}

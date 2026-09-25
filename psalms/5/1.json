@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "پہ رہنما، پہ نیحیلوتءِ سازانءَ — داودءِ مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہنما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "نیحیلوتءِ سازان"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:28.550352735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "کی من غریب ءُ گدا اَں، ءُ منءِ دل منءِ تہءَ زخمی اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ءُ گدا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من اَں"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ءُ منءِ دل"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "زخمی بوت"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "منءِ تہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:57.451803479Z",
+  "model": "glm-5.3"
+}

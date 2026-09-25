@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اُست ءُ روت، کی اے آسایش نہ اِنت؛ پہ اے کہ پلید بوتگ اِنت، اِش گندیت — ءُ گندیشی کہ سخت اِنت.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "اُست"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "آسایش"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "پلید بوتگ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "اِش گندیت"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ءُ گندیش"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:37:43.167995522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "زانانیں وتءِ زور نہ دِیت، ءُ وتءِ راہان ⟨نہ دِیت⟩ پہ پادشاہانی مکنگ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دِیت"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "زانانیں"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "وتءِ زورت"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "ءُ وتءِ راہانت"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "پہ مکنگ"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "پادشاہان"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:57.256607311Z",
+  "model": "glm-5.3"
+}

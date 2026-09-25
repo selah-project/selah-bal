@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ تاجانی کہ ستونانی سِرءَ اَنت — دالانءَ تہ سنبلءِ کارِ اِنت، چار گیت۔",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "ءُ تاجانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "رאש",
+      "gloss": "سِر"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ستونانی"
+    },
+    {
+      "surface": "مעשה",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "سنبلءِ"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "دالانءَ تہ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "گیت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:37.832491680Z",
+  "model": "glm-5.3"
+}

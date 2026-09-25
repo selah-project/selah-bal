@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 68,
+  "translation": "ایلوہیمءِ کوه — بوشانءِ کوه؛ چوٹیانی کوه — بوشانءِ کوه۔",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "بوشانءِ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "چوٹیانی"
+    },
+    {
+      "surface": "הر",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "بوشانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:17.851442958Z",
+  "model": "glm-5.3"
+}

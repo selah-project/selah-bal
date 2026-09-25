@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 91,
+  "translation": "تہ شیر ءُ مارءِ سرءَ گامیں، شیرچالا ءُ اژدہا ءَ تہ لمب کُنی۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تہ …ءِ سرءَ"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "ءُ مار"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "گامیں"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "لمب کُنی"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "شیرچالا"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "ءُ اژدہا"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:11.853629755Z",
+  "model": "glm-5.3"
+}

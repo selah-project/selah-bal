@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 54,
+  "translation": "ایلوہیم، مءِ مناگ بشنوت؛ مءِ منہءِ گالانیءَ گوش.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بشنوت"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "مءِ مناگ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "گوش دیت"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "پہ … گالان"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مءِ منہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:18.996736199Z",
+  "model": "glm-5.3"
+}

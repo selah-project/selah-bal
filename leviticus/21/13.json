@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ آ یک جنک گوَن وتیءِ بیتولیءَ گنس.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "בבתولיה",
+      "gloss": "گوَن وتیءِ بیتولیءَ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گنس"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:11.124912548Z",
+  "model": "glm-5.3"
+}

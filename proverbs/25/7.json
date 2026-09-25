@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 25:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "چو کہ چتر اِنت کہ تاءَ آوانگ بیت «اتری»، چہ اے کہ تہ نادوءِ پیشءَ کم بکننت — آ کہ تری چشمان دیستگنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چو کہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چتر"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آوانگ بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تاءَ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "اتری"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اتریءِ تہ"
+    },
+    {
+      "surface": "מהשפילך",
+      "gloss": "تہ کم بکننت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "نادو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "دیستگنت"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تری چشمان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:14.476766120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "نسل روت ءُ نسل آئیت، بلے زمین ہمیشہ اوشتہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ءُ نسل"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آئیت"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ءُ زمین"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "اوشتہ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:05.785099391Z",
+  "model": "glm-5.3"
+}

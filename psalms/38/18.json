@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "چہ آ من لنگیءَ تیار اِنت، ءُ منءِ درد ہمیشہ منءِ پیش اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ آ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "لنگیءَ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "تیار اِنت"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ءُ منءِ درد"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "منءِ پیش"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:04.371883438Z",
+  "model": "glm-5.3"
+}

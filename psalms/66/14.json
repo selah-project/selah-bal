@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "کہ جن کہ منءِ لبان کھول کتنت ءُ منءِ منہ گوَشت، منءِ تنگیءِ وہدءَ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "کھول کتنت"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "منءِ لبان"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منءِ منہ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "تنگیءِ وہدءَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:27.625165759Z",
+  "model": "glm-5.3"
+}

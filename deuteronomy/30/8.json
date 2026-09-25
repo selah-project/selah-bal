@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ تُو پدا رستیں ءُ یاہوہءِ آوازءَ گوشیں ءُ ⟨את⟩ آییءِ ہمگ حکمان کہ من تُہءَ اے روچ فرمان دیم، کنیں.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تُو"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "پدا رستیں"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ءُ گوشیں"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آوازءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمگ حکمان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "آییءِ حکمان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تُہءَ فرمان دیم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:31.906367204Z",
+  "model": "glm-5.3"
+}

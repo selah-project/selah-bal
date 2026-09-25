@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "ای شا! اے چہ دور اَنت، ءُ ای شا! اے چہ شمالا ءُ چہ روچ‌کپتا، ءُ اے چہ سِنیں ملکءَ اَنت.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ای شا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "چہ دور"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ ای شا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "چہ شمالا"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ءُ چہ روچ‌کپتا"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "چہ ملک"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "سِنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T21:36:01.268584529Z",
+  "model": "glm-5.3"
+}

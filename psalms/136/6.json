@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 136,
+  "translation": "پہ آ کہ زمین ءَ آپانی سرءَ پھیلاندیت، چیچہ آییءِ حیسید پہ ہمیشہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "پہ آ کہ پھیلاندیت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چیچہ"
+    },
+    {
+      "surface": "لעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ حیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:13.885307792Z",
+  "model": "glm-5.3"
+}

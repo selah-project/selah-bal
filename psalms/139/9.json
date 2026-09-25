@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 139,
+  "translation": "دمءِ بالان پہ سرا کنان، ءُ دریاءِ پُتانءَ مان ءُ کنان",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "پہ سرا کنان"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "بالان"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "دم"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "مان ءُ کنان"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "پُتانءَ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:28.697219548Z",
+  "model": "glm-5.3"
+}

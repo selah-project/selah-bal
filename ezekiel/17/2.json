@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "اے آدمءِ زہگ، پہیلی دڑ ءُ مثال وان بیت اسرائیلءِ خانوادءَ",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "دڑ"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "پہیلی"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ءُ مثال"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مثال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ... وان بیت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانواد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T22:14:41.149804034Z",
+  "model": "glm-5.3"
+}

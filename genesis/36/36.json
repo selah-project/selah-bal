@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ ہدد مرد، ءُ آییءِ جاگہءَ سملہ، چہ مسرقہ، بادشاہ بیت۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ہدد"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاہ بیت"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "آییءِ جاگہءَ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سملہ"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "چہ مسرقہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:41.337015214Z",
+  "model": "glm-5.3"
+}

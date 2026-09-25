@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "بلے ⟨את⟩ لٮ۪یءِ ٹولیءَ نہ شمار کن، ءُ ⟨את⟩ اِشانی سرءَ نہ چن، بنی اسرائیلءِ شارءَ۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لٮ۪یءِ ٹولیءَ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ٹولی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لٮ۪ی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "شمار کن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اِشانی سرءَ"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "اِشانی سر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "چن"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "شارءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:43.158587755Z",
+  "model": "glm-5.3"
+}

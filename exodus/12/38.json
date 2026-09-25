@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ یک گڈڈیں گیش مردمے گوں ⟨את⟩ اِشاں روت، ءُ مہیگ ءُ گوان، مالے کہ گیش تر اِنت۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ هم"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "گڈڈیں"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اِشاں",
+      "marks": "اِشاں"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ءُ مہیگ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ءُ گوان"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مالے کہ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "گیش تر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بے شمار"
+    }
+  ],
+  "timestamp": "2026-09-24T18:55:34.741278986Z",
+  "model": "glm-5.3"
+}

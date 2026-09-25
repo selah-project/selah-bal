@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "لیش ⟨شیر⟩ کہ مالاں ءَ زوروار اِنت، ءُ هچ چیءِ رُوءَ پدا نہ چُرپیت،",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "لیش ⟨شیر⟩"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زوروار"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "مالاں ءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "یשׁוב",
+      "gloss": "پدا چُرپیت"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "چہ رُوءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر چی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:57.105504815Z",
+  "model": "glm-5.3"
+}

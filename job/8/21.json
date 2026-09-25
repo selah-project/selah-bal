@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 8:21",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "تا آییءَ تُئیں وہݨ ہنسءَ پر کنت ءُ تُئیں لبان نعرہءَ پر کنت.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ימלה",
+      "gloss": "پر کنت"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "ہنس"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تُئیں وہݨ"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ءُ تُئیں لبان"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "نعرہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:32:41.798899746Z",
+  "model": "glm-5.3"
+}

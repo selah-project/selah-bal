@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ ایشمءیہ گبعونی، یک زورمند ماں سیی ءُ سییءِ سرءَ.",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "ءُ ایشمءیہ"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "گبعونی"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زورمند"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "ماں سیی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "سییءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:25:56.017829953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "ءُ من سوچ کتم پہ زانگ اے، سختی آ ماں منی چشمان۔",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ءُ من سوچ کتم"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "پہ زانگ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "سختی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ماں منی چشمان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:09.133872768Z",
+  "model": "glm-5.3"
+}

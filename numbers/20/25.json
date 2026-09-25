@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "اَہارون ⟨את⟩ گِر ءُ ⟨את⟩ اِلعازار اِیءِ زہگ، ءُ اِشانءَ ⟨את⟩ ہورءِ کوہءَ چڑھ.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "گر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَہارون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَہارون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اِلعازار"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اِیءِ زہگ"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ءُ چڑھ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اِشانءَ",
+      "marks": "ہورءِ کوہ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:38:32.445410607Z",
+  "model": "glm-5.3"
+}

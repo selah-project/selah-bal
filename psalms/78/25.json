@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "زوریاں ءِ نان یک مردم گوشیت؛ آیانءَ کوالا شتاریت پہ پوراگ۔",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "زوریاں"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مردم"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "کوالا"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شتاریت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آیانءَ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "پہ پوراگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:19.148893099Z",
+  "model": "glm-5.3"
+}

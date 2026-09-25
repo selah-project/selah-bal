@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "گرز ءُ توار ءُ تیز تراش اِنت اے مرد کہ وتءِ دوستءِ خلاف جواب دیت — دروغین گواہ.",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "گرز"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ءُ توار"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "ءُ تراش"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "تیز"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "جواب دیت"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "وتءِ دوستءِ خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:50.683395367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ہر ورندوک کہ ورندیت زمینءِ سرءَ، گندہ اِنت — آ نہ گوشیت بیت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ورندوک"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ورندیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گندہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "گوشیت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:44.344612284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 56:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 56,
+  "translation": "آہنگ بنت، شارب گرنت؛ ءُ مست بیت مست کنوکءَ؛ ءُ بیت شوش اے روچ، روچءِ مچا، مزنین ءُ چہ سرے باز۔",
+  "tokens": [
+    {
+      "surface": "אתיו",
+      "gloss": "آہنگ بنت"
+    },
+    {
+      "surface": "אקחה",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شارب"
+    },
+    {
+      "surface": "ונסבאה",
+      "gloss": "ءُ مست بیت"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "مست کنوک"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "شوش اے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "مچا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "مزنین"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "باز"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "چہ سرے"
+    }
+  ],
+  "timestamp": "2026-09-24T21:38:31.896008523Z",
+  "model": "glm-5.3"
+}

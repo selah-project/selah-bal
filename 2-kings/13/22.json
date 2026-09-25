@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ حزائیل، ارمءِ شاہ، ⟨את⟩ یسریلءَ تمام یہوآحازءِ روچاں گُنجشت.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "ءُ حزائیل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارم"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "گُنجشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یسریل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسریل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "یہوآحاز"
+    }
+  ],
+  "timestamp": "2026-09-24T21:13:56.784090547Z",
+  "model": "glm-5.3"
+}

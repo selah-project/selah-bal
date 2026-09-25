@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ ⟨את⟩ تانءِ نند بُش مءَ ببرت، تا تانءِ گالان پک بنت ءُ نہ مریت؛ ءُ ایشان اے چوش کت.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "تانءِ نند بُش"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "تانءِ بُش"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نند"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "ببرت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "پک بنت"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "تانءِ گالان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "مریت"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "کت"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے چوش"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:39.568987074Z",
+  "model": "glm-5.3"
+}

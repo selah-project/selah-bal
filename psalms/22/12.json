@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "چہ من دوری مکن، کیچہ تنگی نزدیک اِنت، کیچہ مددگار نیست۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ \/ مکن"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دوری مکن"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "نزدیک اِنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "مددگار"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:22.918008333Z",
+  "model": "glm-5.3"
+}

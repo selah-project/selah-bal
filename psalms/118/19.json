@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "منءَ پہ راستیءِ دروازے وا کنیت، چوءَ اِشاںءَ تہ روتاں ءُ یاہءَ شکر کناں۔",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "وا کنیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ پہ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستیءِ"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "تہ روتاں"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اِشاںءَ تہ"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "شکر کناں"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:05.087816977Z",
+  "model": "glm-5.3"
+}

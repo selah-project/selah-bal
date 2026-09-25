@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "همہ شرمنت چہ قومی کہ آیانءَ نہ فایدہ دنت؛ نہ پہ مدد ءُ نہ پہ فایدہ — بلے پہ شرم ءُ گوں پہ تہقیر.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همہ"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "شرمنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومی"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "فایدہ دنت"
+    },
+    {
+      "surface": "למו",
+      "gloss": "آیانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "پہ مدد"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "پہ فایدہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "پہ شرم"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "پہ تہقیر"
+    }
+  ],
+  "timestamp": "2026-09-24T21:31:19.935135986Z",
+  "model": "glm-5.3"
+}

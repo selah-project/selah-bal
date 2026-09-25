@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "اِشان حوریبءَ یک گُوال جوڑ کت ءُ یک ڈھلئے شکلءَ سجدہ کت.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "گُوال"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "حوریبءَ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ءُ سجدہ کت"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "ڈھلئے شکلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:48.310532080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ ⟨את⟩ پادشاہءِ عیءَ زندہ گپت ءُ آییءَ ⟨את⟩ یہوشوہءَ پیش اوردیت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پادشاہءِ عی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاہءِ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عیءَ"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "گپت"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ءُ اوردیت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "آیی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پیش"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:07:34.966638517Z",
+  "model": "glm-5.3"
+}

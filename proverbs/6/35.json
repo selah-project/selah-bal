@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "آیی ہر تاوانءِ منہ نہ گرنت، ءُ رازی نہ بیت، پرچا کہ تو رشوتان گیش کنیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "تاوان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "رازی بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "گیش کنیت"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:17.365915101Z",
+  "model": "glm-5.3"
+}

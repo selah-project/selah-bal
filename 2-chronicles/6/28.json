@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 6:28",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "کال کی زمینءَ تہ بیت، وبا کی بیت، پژمردگی ءُ زنگار، ٹڈی ءُ کِرم کی بنت، کی آءَ دشمن آیی زمینءِ دروازانی تہ تنگ کنت، ہر آفت ءُ ہر بیماری.",
+  "tokens": [
+    {
+      "surface": "רעב",
+      "gloss": "کال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وبا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "שדפון",
+      "gloss": "پژمردگی"
+    },
+    {
+      "surface": "וירקון",
+      "gloss": "ءُ زنگار"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ٹڈی"
+    },
+    {
+      "surface": "וחסיל",
+      "gloss": "ءُ کِرم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "تنگ کنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "آیی دشمن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "آیانی دروازانی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "آفت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "بیماری"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:43.041515645Z",
+  "model": "glm-5.3"
+}

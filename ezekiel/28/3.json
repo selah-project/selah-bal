@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ہنچو، تو چہ دانیالءَ گیشتر داناں اے؛ ہچ پُہہانیت نہ اِنت کہ چہ تُے پُہان ببیت۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ہنچو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "داناں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "چہ دانیالءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہچ"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "پُہہانیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "چہ تُے پُہان ببیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:20:42.660256476Z",
+  "model": "glm-5.3"
+}

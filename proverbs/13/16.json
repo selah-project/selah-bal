@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ہر خردمند گوں دانش کار کنت؛ ءُ احمق بیوقوفی پروش دیت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "خردمند"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کار کنت"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "گوں دانش"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ءُ احمق"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "پروش دیت"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "بیوقوفی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:26.767783758Z",
+  "model": "glm-5.3"
+}

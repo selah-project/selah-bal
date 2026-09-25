@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ ⟨את⟩ پوریں غنیمت ءُ ⟨את⟩ پوریں لوٹماچ گپت، مرمانءَ ءُ مالانءَ۔",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ءُ گپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں غنیمت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "غنیمت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پوریں لوٹماچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "لوٹماچ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "مرمانءَ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ءُ مالانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:44:03.959665398Z",
+  "model": "glm-5.3"
+}

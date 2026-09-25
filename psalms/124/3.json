@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 124,
+  "translation": "آ وہد زندگ ماءَ نِٹت اَت، تاں ایشانی غضب ماءِ سرءَ جلگ بوت۔",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "آ وہد"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگ"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "ماءَ نِٹت اَت"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "تاں … جلگ بوت"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "ایشانی غضب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ماءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:23.911943395Z",
+  "model": "glm-5.3"
+}

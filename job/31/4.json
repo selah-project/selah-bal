@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "آیا نہ آیی منی رہاناں اِشکنیت ءُ منی تمام قدم شماریت؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "آیا نہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آیی"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "اِشکنیت"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "منی رہاناں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ تمام"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "منی قدم"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "شماریت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:41:32.516470768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 59,
+  "translation": "بلے تُو، اے یاہوہ، اِشانءَ کھنڈیں ءُ تُو چہ ہمگ قومانءَ مسخر کنیں",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "بلے تُو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "کھنڈیں"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اِشانءَ"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "مسخر کنیں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "چہ ہمگ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:06.037894358Z",
+  "model": "glm-5.3"
+}

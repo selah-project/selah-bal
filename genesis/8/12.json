@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ آءَ ہنوں ہپت دگہ روچ انتظار کت، ءُ ⟨את⟩ کبوترءَ پیش کت، ءُ آ ہنوں پدا آیءَ کانٹ نہ ولٹ کت.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ءُ انتظار کت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہنوں"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ پیش کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کبوترءَ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کبوترءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "پدا کت"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ولٹ گرگ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آیءَ کانٹ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہنوں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:37.158861716Z",
+  "model": "glm-5.3"
+}

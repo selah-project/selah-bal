@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ بیلعءَ زہگان اَتنت: اَدار ءُ گیرا ءُ اَبیہُد۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ءُ اَتنت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "بیلعءَ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "اَدار"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ءُ گیرا"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "ءُ اَبیہُد"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:37.713869023Z",
+  "model": "glm-5.3"
+}

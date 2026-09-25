@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "اژدهایانی زهر اِنت آیانی شراب، ءُ مارانءِ زالگ زهر ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "اژدهایانی"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "آیانی شراب"
+    },
+    {
+      "surface": "וֹראש",
+      "gloss": "ءُ زهر"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "ماران"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "زالگ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:05.625844860Z",
+  "model": "glm-5.3"
+}

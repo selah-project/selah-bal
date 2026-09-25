@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "ءُ آ رستہءَ سیدا آیانی رہ کرت، پہ روگ پہ وتکءِ شار۔",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "ءُ آ رہ کرت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستہءَ تہ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "سیدا"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "پہ روگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "وتکءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:14.563843030Z",
+  "model": "glm-5.3"
+}

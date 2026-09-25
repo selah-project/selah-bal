@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "کی آھا یک کم ءُ یک گچین وہد، ءُ خشم رُچیت، ءُ مہ غصہ اِشانی کُسالی تہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "آھا"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "یک کم"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "گچین وہد"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ءُ رُچیت"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "ءُ مہ غصہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "اِشانی کُسالی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:25.408850123Z",
+  "model": "glm-5.3"
+}

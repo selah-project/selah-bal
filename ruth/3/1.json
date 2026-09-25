@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 3:1",
+  "book": "ruth",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ نعومی، آییءِ خش، آییءَ گوَشت: منی جنک، نہ من پہ توءَ آسائش جست کناں کہ توءَ چا بیت؟",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ آییءَ گوَشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "نعومی"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "آییءِ خش"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "منی جنک"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "جست کناں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ توءَ"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "آسائش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "چا بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:48:41.116571970Z",
+  "model": "glm-5.3"
+}

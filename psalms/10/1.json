@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "چہ چہ، اے یاہوہ، دورءَ اِستگ ءُ تہ سنگینیں وہداں پناه داریت؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چہ چہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "اِستگ"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "دورءَ"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "پناه داریت"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "وہداںءَ"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "سنگینیں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:24.680563923Z",
+  "model": "glm-5.3"
+}

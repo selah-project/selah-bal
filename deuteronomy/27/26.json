@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "لعنت بیت آ کہ اے توراہءِ گالانءَ بری نہ کنت ⟨את⟩ آیاناں کرنءَ پہ — ءُ گیش مردم گوَشنت آمین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت بیت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "بری کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے توراہءِ گالان"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "توراہءِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "پہ کرن"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ آیاناں"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:05.617590623Z",
+  "model": "glm-5.3"
+}

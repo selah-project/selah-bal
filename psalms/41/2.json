@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "شاد اَنت آے کہ گوں کمزار درکیت، برےءِ روچءَ یاہوہ آءَ رہا کنیت۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "شاد اَنت"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "درکیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزار"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "برےءِ روچءَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برےءِ"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "آءَ رہا کنیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:32.418466214Z",
+  "model": "glm-5.3"
+}

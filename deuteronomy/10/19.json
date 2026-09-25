@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ اے غریبءَ دلدار بیت، کیہ اے مِتسرایمءِ زمینءَ تہ اے غریبان اُتنت.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "ءُ دلدار بیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے غریب"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "اے غریب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "اے غریبان"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "اُتنت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:27.179880419Z",
+  "model": "glm-5.3"
+}

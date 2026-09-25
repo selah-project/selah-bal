@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ بے گناہیں گون نہ ریژیت تئے زمینءِ تہءَ، آ کہ یاہوہ تئے ایلوہیم تئے میراتءَ گوں دینت، ءُ بیت تئے سرءَ گونان.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ریژیت"
+    },
+    {
+      "surface": "דם",
+      "gloss": "گون"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بے گناہیں"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "تئے زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تئے ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دینت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "میرات"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تئے سرءَ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "گونان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:39.858541497Z",
+  "model": "glm-5.3"
+}

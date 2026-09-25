@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کیں آییءِ سود چہ چاندیءِ چماری سود ءُ آییءِ حاصل چہ خالص سونا گیشتر اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "آییءِ سود"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "چماری سود"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "ءُ خالص سونا"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "آییءِ حاصل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:38.937293085Z",
+  "model": "glm-5.3"
+}

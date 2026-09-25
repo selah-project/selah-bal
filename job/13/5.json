@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 13:5",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "کے دیت کہ چپ بہ گرئت ءُ آ تسیءَ پہ دانائی بیت!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "چپ گرگ"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "چپ بہ گرئت"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ءُ بہ بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تسیءَ پہ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "پہ دانائی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:59.972847553Z",
+  "model": "glm-5.3"
+}

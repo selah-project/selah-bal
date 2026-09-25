@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ اِشاں منی قومءِ جنکءِ شکانءَ ہلک درملنت، گوَشنت کہ: سلامتی، سلامتی — ءُ سلامتی نیست.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "ءُ درملنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شکان"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکان"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قومءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ … ہلک"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَشنت کہ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:47:17.030951574Z",
+  "model": "glm-5.3"
+}

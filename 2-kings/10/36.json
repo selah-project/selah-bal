@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 10:36",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ روچان کہ یہو اِسرایلءِ سرءَ شاہی کت — بیست ءُ ہشت سال — شومرونءَ۔",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "ءُ روچان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہی کت"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرایلءِ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ءُ ہشت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "شومرونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:12:45.335984185Z",
+  "model": "glm-5.3"
+}

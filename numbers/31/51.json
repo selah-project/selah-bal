@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ گپت موشہ ءُ کاہن الِعازار ⟨את⟩ زر چہ ⟨את⟩ اِشاں — ہر ساختگی چیز۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گپت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ءُ الِعازار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زر"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "چہ ⟨את⟩ اِشاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "כלی",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ساختگی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:43:36.091278632Z",
+  "model": "glm-5.3"
+}

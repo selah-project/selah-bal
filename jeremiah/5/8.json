@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "اے چاک کتگیں گھوڑاں چوں بھنتر ہستنت، هر مردمی وتے یارءِ زناکءِ سرءَ چنگھاڑنت.",
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑاں چوں"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "چاک کتگیں"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "بھنتر"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہستنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر مردمی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ءِ سرءَ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زناک"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "وتے یارءِ"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "چنگھاڑنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:46:05.893805444Z",
+  "model": "glm-5.3"
+}

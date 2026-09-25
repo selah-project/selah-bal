@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ادونایءَ تہ یعقوبءَ یک گال شینتگ، ءُ آ تہ اسرائیلءَ ڈت۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شینتگ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونایءَ"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "تہ یعقوبءَ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ءُ ڈت"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "تہ اسرائیلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:25:15.862803729Z",
+  "model": "glm-5.3"
+}

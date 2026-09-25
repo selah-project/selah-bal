@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "کہ باز نفسءَ من لبز کت ءُ من نہ مُشتگ؛ یک مرد چہ ہزار من مُشتگ، ءُ زنک تہ ہمگ ہے چیزان من نہ مُشتگ۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "باز"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "لبز کت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسءَ من"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "من مُشتگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "چہ ہزار"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "من مُشتگ"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ءُ زنک"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہمگ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ہے چیزان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "من مُشتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:14.132198832Z",
+  "model": "glm-5.3"
+}

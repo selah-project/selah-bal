@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 139,
+  "translation": "کِتھا من چہ تُءِ روحءَ روت کنں، ءُ کِتھا چہ تُءِ رُخءَ بگرں؟",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "کِتھا"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "من روت کنں"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "چہ تُءِ روحءَ"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ءُ کِتھا"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "چہ تُءِ رُخءَ"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "بگرں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:32.348809574Z",
+  "model": "glm-5.3"
+}

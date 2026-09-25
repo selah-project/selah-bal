@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کہ نہ پہ یک قومءِ ڈونگیں لب ءُ گرانیں زبانءَ تُہ شلوتگ بوتگ ئے — پہ یسرائیلءِ گدانءَ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ڈونگیں"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لب"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "ءُ گرانیں"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُہ"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "شلوتگ بوتگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T22:09:46.580382983Z",
+  "model": "glm-5.3"
+}

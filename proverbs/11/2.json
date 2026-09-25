@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "چو گھمنڈ آئیت، رند رسوائی آئیت؛ ءُ گوں ⟨את⟩ نمیتاں حکمت ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "آئیت"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "گھمنڈ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "رند آئیت"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "رسوائی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ گوں ⟨את⟩",
+      "marks": "نمیتاں"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "نمیتاںءَ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:35.350471737Z",
+  "model": "glm-5.3"
+}

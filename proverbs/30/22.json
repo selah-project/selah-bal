@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "تہ یک غلام، پرچا کہ آ پادشاہ بیت؛ ءُ تہ یک نادان، پرچا کہ آ چہ نان سیر بیت.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "پادشاہ بیت"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ءُ نادان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "سیر بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:02.548693803Z",
+  "model": "glm-5.3"
+}

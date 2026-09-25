@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اسرائیلءِ زہگانءَ آگاہ بکن گوں اے گال: گاو ءُ ماہان ءُ بزءِ ہرچے چربی پہ باز مکن۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "آگاہ بکن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ آگاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…ءِ زہگان"
+    },
+    {
+      "surface": "ישׂראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوں اے گال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہرچے"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "ءُ ماہان"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ءُ بز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "پہ باز مکن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:26.201243779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "من تُءِ زمینءَ گوزراں؛ رہءَ، رہءَ روتاں؛ راسٹءِ لہاد نہ کجاں، نہ چپءِ لہاد۔",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "من گوزراں"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "تُءِ زمینءَ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رہءَ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رہءَ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "روتاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "کجاں"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "راسٹءِ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ءُ چپءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:31.517642236Z",
+  "model": "glm-5.3"
+}

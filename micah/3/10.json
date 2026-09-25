@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "جوڑ کننت صیونءَ گوں لہوان ءُ یروشلمءَ گوں ظلمءَ۔",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "جوڑ کننت"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیونءَ"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "گوں لہوان"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ءُ یروشلمءَ"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "گوں ظلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:37:31.305569450Z",
+  "model": "glm-5.3"
+}

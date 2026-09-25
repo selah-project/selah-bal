@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ اے آ اِنت کہ تو قربانگاہءِ سرءَ کنیں: دو گوژیں، یک سالءِ زہگان، هر روچ، ہمیشہ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہءِ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "گوژیں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "یک سالءِ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "هر روچ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:04:48.622928753Z",
+  "model": "glm-5.3"
+}

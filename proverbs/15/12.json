@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "مازل کوک درست گوَشتگءَ آییءَ نہ دوست داریت، دانشمندانی آ نہ روت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "دوست داریت"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "مازل کوک"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "درست گوَشتگءَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "آ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانشمندان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "روت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:20.655085467Z",
+  "model": "glm-5.3"
+}

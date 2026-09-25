@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "آیا من دَریا اَنت، یا اَژدَہا، کہ منی سرءَ پَہدارءِ گَنت؟",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "دَریا"
+    },
+    {
+      "surface": "آیا",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "اَژدَہا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "گَنت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرءَ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "پَہدارءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:32:47.031427555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "چنگ اِنت یاہوہ آیانءَ پہ کہ آیءِ پہ انتظار کننت، پہ جنتءَ کہ آیءَ جستجو کنت۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "آیانءَ پہ کہ انتظار کننت"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "پہ جنتءَ"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "آیءَ جستجو کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:47.900636527Z",
+  "model": "glm-5.3"
+}

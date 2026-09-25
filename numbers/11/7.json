@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ مان گوں گدءِ داںءِ چوں اِنت، ءُ آییءِ شکل گوں بڈولچءِ شکلءِ چوں۔",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "ءُ مان"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "گوں داںءِ چوں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "ءُ آییءِ شکل"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "گوں شکلءِ چوں"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "بڈولچ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:33:32.600678836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ ایلوہیم نُوحءَ گوَشت کہ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ (پہ)"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ:"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:46.206180429Z",
+  "model": "glm-5.3"
+}

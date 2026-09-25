@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "دغلءِ دستءَ کار کنوک کمباخت بیت، ءُ چستانءِ دست دولتار کنت۔",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "کمباخت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کار کنوک"
+    },
+    {
+      "surface": "כף",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "دغلءِ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ءُ دست"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "چستانءِ"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "دولتار کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:37.604027570Z",
+  "model": "glm-5.3"
+}

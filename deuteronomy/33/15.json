@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ چہ سر پُرانیں دِماں، ءُ چہ گرانبہت چیزیں ہمیشگیں ٹلیں.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "ءُ چہ سر"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "دِماںءِ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "پُرانیں"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "ءُ چہ گرانبہت چیزیں"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ٹلیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشگی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:49.062201385Z",
+  "model": "glm-5.3"
+}

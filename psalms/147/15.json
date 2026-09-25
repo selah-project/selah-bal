@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 147,
+  "translation": "آ کہ آییءِ حکمءَ زمینءَ دیم دیت، آییءِ گال زور گوں روت.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "آ کہ دیم دیت"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "آییءِ حکمءَ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "زور گوں"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "روت"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "آییءِ گال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:07.225510457Z",
+  "model": "glm-5.3"
+}

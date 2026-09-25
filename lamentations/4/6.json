@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 4:6",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ منی قومءِ جنکءِ گناہ چہ سدومءِ گناہءَ ہن گیش بوت — آ کہ چوش کہ یک پلءَ پُچ بوت ءُ آءِ سرءَ دستان درا نہ بوت۔",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ءُ گیش بوت"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنکءِ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قوم"
+    },
+    {
+      "surface": "מחטאת",
+      "gloss": "چہ گناہءَ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "ההפוכה",
+      "gloss": "پُچ بوتگیں"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "یک پل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "درا بوت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آءِ سرءَ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دستان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:50:18.801653072Z",
+  "model": "glm-5.3"
+}

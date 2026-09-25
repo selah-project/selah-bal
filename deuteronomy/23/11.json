@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "چہ پہ آ کہ تُے ماں یک مرد هست کہ چہ شپءِ اتفاقءَ پاک نہ بیت، آ مہانءَ بیرون دَر کنیت، مہانءِ میانءَ داخل نہ بیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ پہ آ کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هست"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُے ماں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "چہ اتفاق"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپءِ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ دَر کنیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بیرون"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بیرونءَ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "مہانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "داخل بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "مہانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:23.576798714Z",
+  "model": "glm-5.3"
+}

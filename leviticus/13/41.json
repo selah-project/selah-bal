@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ اگر چہ آییءِ منہءِ لٹءَ آییءِ سر کوراہ بوت، گبچ اِنت، پاک اِنت آیی۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لٹءِ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "آییءِ منہ"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "کوراہ بوت"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "آییءِ سر"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "گبچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:56.959963751Z",
+  "model": "glm-5.3"
+}

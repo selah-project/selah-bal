@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "چہ شر کنار کن، ءُ وش کن؛ آشتی لبٹ، ءُ آییءَ رد کن.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "کنار کن"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "چہ شر"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ کن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "وش"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "لبٹ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "آشتی"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ءُ آییءَ رد کن"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:46.878341372Z",
+  "model": "glm-5.3"
+}

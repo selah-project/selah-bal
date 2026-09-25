@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "بریائی گنہکارانءَ رڑیت، ءُ ⟨את⟩ راستینانءَ نیکی شلیم دیت۔",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "گنہکاران"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "رڑیت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بریائی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "راستینان"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستینان"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "شلیم دیت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:08.548769146Z",
+  "model": "glm-5.3"
+}

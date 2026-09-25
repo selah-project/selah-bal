@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 65:20",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 65,
+  "translation": "اوداں چہ پس نہ ہبوِت شیرئے کہ چنڈ روچ بزیت، نہ پیر کہ ⟨את⟩ وتی روچان پور نہ کنت؛ چون نوجوان سد سالہ مریت ءُ گنہگار سد سالءِ لعنت بیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هبوِت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اوداں چہ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پس"
+    },
+    {
+      "surface": "עול",
+      "gloss": "شیرئے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "چنڈ روچ"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ءُ نہ پیر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "پور نہ کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی روچان"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "وتی روچان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "بן",
+      "gloss": "…سالہ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مریت"
+    },
+    {
+      "surface": "והחוטא",
+      "gloss": "ءُ گنہگار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…سالءِ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "יקלل",
+      "gloss": "لعنت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:42:58.791131962Z",
+  "model": "glm-5.3"
+}

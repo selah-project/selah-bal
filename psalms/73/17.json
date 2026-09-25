@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "تا کہ آءُں کہ ایلءِ مکدشانءَ رسیمت، پدا آشانی پایانءَ درک کت.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "آءُں کہ رسیمت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "مکدشان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایلءِ"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "درک کت"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "آشانی پایانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:05.529637487Z",
+  "model": "glm-5.3"
+}

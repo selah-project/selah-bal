@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ شلومءَ ⟨את⟩ یکمیاہ جنیت، ءُ یکمیاہءَ ⟨את⟩ الیشماع جنیت.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ءُ شلوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یکمیاہ"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "یکمیاہ"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "ءُ یکمیاہءَ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "جنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الیشماع"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "الیشماع"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:15.284352080Z",
+  "model": "glm-5.3"
+}

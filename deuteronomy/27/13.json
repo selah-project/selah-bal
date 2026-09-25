@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ اِشاں عِیبالءِ کوهءِ سرءَ لعنتءِ وچۏ ہمیش بیت: رئوبِن، گاد، ءُ آشِر، ءُ زبولون، دان، ءُ نفتالی.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اِشاں"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ہمیش بیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "لعنتءِ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوهءِ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "عِیبالءِ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبِن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ آشِر"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "ءُ زبولون"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ءُ نفتالی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:25.716026697Z",
+  "model": "glm-5.3"
+}

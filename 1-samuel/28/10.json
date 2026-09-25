@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ شاؤل آءَ رَا گوں یاہوہءَ قسم کت، کہ: زندہ یاہوہ، اگر گناہ توءَ رسیت اے گپءَ تہ۔",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ءُ قسم کت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آءَ رَا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "گوں یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "توءَ رسیت"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "گپءَ تہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:38:09.950687922Z",
+  "model": "glm-5.3"
+}

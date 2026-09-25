@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ یہودہ اسرائیلءِ پیشءَ شکست گت ءُ هر مردے وتی گڈءَ پدا مرت۔",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "شکست گت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ءُ پدا مرت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر مردے"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "وتی گڈءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:43:06.252708022Z",
+  "model": "glm-5.3"
+}

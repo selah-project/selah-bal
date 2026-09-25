@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ چمےں وانیت — ءُ شاہ داودءَ ⟨את⟩ پورےں ایں گپان چم گشتاں ءُ آییءَ گیش تیز گشت۔",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ءُ شاہ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "چم گشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پورےں ایں گپان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پورےں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گپان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ءُ تیز گشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T20:45:42.698190213Z",
+  "model": "glm-5.3"
+}

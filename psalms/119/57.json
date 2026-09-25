@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "یاہوہ منءِ بھرا اِنت؛ من گوَشتم کہ تُءِ گالان پالانیں۔",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "منءِ بھرا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "من گوَشتم"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "پہ پالانیں"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "تُءِ گالان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:47.299508734Z",
+  "model": "glm-5.3"
+}

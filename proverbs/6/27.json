@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "آیا یک مردم آپ وتی سینہءَ گرپت کیت ءُ آییءِ جوان چہ سوز نہ بنت؟",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "آیا … گرپت کیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "وتی سینہءَ"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "ءُ آییءِ جوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "سوز بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:48.422938273Z",
+  "model": "glm-5.3"
+}

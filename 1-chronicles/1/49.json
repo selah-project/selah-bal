@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ شاولءَ مرت، ءُ آییءِ جاگہءَ بعل حنان، عکبورءِ زہگ، پادشاہ بیت.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاولءَ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ءُ پادشاہ بیت"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "آییءِ جاگہءَ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "عکبورءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:37.084281976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 67,
+  "translation": "پہ مہنڑوک، گوں تارانی سازاں — زبور، گیت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ مہنڑوک"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "گوں تارانی سازاں"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:47.531172349Z",
+  "model": "glm-5.3"
+}

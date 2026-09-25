@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ فرعون پد اِشکت ءُ وتئے گدءَ تہ روت، ءُ وتی دلءَ ہمیءَ ہم نہ دات۔",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ءُ پد اِشکت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "وتئے گدءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "دات"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "وتی دلءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ہمیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:51:14.610743989Z",
+  "model": "glm-5.3"
+}

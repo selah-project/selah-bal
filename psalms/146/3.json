@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 146,
+  "translation": "امان نہ گریں گوں سرداران، نہ تہ زہگِ آدم، کہ آییءَ رہائی نیست۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "امان گریں"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "گوں سرداران"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "تہ زہگِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "کہ نیست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "رہائی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:24.999889411Z",
+  "model": "glm-5.3"
+}

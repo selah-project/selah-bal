@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "کے اِنت آ مردہ کہ زندگیءَ چاہیت، روچانءَ دوست داریت، پہ وش گندیت؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آ مردہ"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "چاہیت"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوست داریت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "پہ گندیت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "وش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:46.877997934Z",
+  "model": "glm-5.3"
+}

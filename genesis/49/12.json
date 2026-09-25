@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "سرخ ءُ چمکیزگن آنک چہ شراب ءُ سپہ دندان چہ شیر۔",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "سرخ ءُ چمکیزگن"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "آنک"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "چہ شراب"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ءُ سپہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دندان"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "چہ شیر"
+    }
+  ],
+  "timestamp": "2026-09-25T00:50:17.167279117Z",
+  "model": "glm-5.3"
+}

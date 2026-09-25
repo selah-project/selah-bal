@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "اِشاں ⟨את⟩ قومان نہ برباد کنت، آ چیزیں کہ یاہوہ اِشاںءَ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "השמידو",
+      "gloss": "برباد کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومان"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ چیزیں کہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:44.856398311Z",
+  "model": "glm-5.3"
+}

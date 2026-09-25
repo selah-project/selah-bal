@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "یاہوہ تی ایلوہیمءِ پیشءَ تو آییءَ سال پہ سال وانگ، اودا جاگہءَ کہ یاہوہ چنیت، تو ءُ تی گدان.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تی ایلوہیمءِ"
+    },
+    {
+      "surface": "תאכלنו",
+      "gloss": "تو آییءَ وانگ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "پہ سال"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اودا جاگہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "چنیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ءُ تی گدان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:47.575426702Z",
+  "model": "glm-5.3"
+}

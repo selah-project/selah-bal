@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "پہ یہودیان روشنائی ءُ خوشی ءُ سرائی ءُ عزت اَت.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "پہ یہودیان"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "روشنائی"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ءُ خوشی"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "ءُ سرائی"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "ءُ عزت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:58.475072139Z",
+  "model": "glm-5.3"
+}

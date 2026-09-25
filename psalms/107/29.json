@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "آییءَ توفان چوں ارامی بدل کت، ءُ آیانی موجان آرام بوتنت.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "بدل کت"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "توفان"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "چوں ارامی"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "ءُ آرام بوتنت"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "آیانی موجان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:37.775894219Z",
+  "model": "glm-5.3"
+}

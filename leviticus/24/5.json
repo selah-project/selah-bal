@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ تو گپت پاکیں آرد، ءُ تو ⟨את⟩ آییءَ دہ دو روتیاں بوتپت؛ دو دہمی ہوایت ⟨the⟩ یک روتیءَ۔",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ءُ تو گپت"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "پاکیں آرد"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "ءُ تو بوتپت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "دہ دو روتیاں"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "روتیاں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "دہمی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوایت"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "⟨the⟩ روتی"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:00.126671503Z",
+  "model": "glm-5.3"
+}

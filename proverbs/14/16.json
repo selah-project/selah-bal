@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "دانا ⟨بیزارت⟩ ءُ چہ بدی دور بیت، ءُ نادان غصہ ءُ کپیت ءُ بھروسہ کنت۔",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "⟨بیزارت⟩"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ءُ دور بیت"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "چہ بدی"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ءُ نادان"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "غصہ ءُ کپیت"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ءُ بھروسہ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:49.854456728Z",
+  "model": "glm-5.3"
+}

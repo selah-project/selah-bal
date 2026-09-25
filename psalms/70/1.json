@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 70,
+  "translation": "پہ پیشوا، داودءِ ⟨شئیت⟩، پہ یاد آورگ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ ⟨شئیت⟩"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "پہ یاد آورگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:49.329342427Z",
+  "model": "glm-5.3"
+}

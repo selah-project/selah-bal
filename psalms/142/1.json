@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 142,
+  "translation": "سکا پہ داود، وتے کہ آ غارءَ اِت، دعا",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "سکا"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داود"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "وتے کہ"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "غارءَ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:53.472961746Z",
+  "model": "glm-5.3"
+}

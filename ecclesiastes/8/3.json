@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "چہ آییءِ دیما چیت نہ کن، روت؛ تہ بد گالءَ استگ مہ بیت، پرچا کہ ہر آ کہ چاہیت، کنیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "چیت نہ کن"
+    },
+    {
+      "surface": "مפניו",
+      "gloss": "چہ آییءِ دیما"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "استگ مہ بیت"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "تہ گالءَ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "چاہیت"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:33.165387395Z",
+  "model": "glm-5.3"
+}

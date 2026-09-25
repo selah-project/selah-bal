@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اُو هم آخاابءِ گدءِ راہاں روت، پرچا کہ آییءِ ماں آییءِ مشورہ دات کہ بدکاری کنت.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُو"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "رہاں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدءِ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "آخاابءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "آییءِ ماں"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "آییءِ مشورہ دات"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "بدکاریءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:41:50.860927247Z",
+  "model": "glm-5.3"
+}

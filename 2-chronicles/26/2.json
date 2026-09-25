@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "آ ⟨את⟩ ایلوت جوڑ کت ءُ آییءَ یہودہءَ پدا دات، پدءَ شپتگ ⟨⟨המלך⟩⟩ پادشاہ گوں وتی پیتان۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوت"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ایلوت"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "ءُ پدا دات"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "یہودہءَ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پدءَ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "شپتگ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاہ"
+    },
+    {
+      "surface": "عם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "پیتان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:42:28.769727994Z",
+  "model": "glm-5.3"
+}

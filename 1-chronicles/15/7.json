@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "گِرشُمءِ زہگانءَ یُو‌ایل سردار اِنت ءُ آییءِ براتان یک سد ءُ سئے اَنت۔",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "زہگانءَ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گِرشُمءِ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یُو‌ایل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ءُ آییءِ براتان"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "یک سد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سئے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:25.129791905Z",
+  "model": "glm-5.3"
+}

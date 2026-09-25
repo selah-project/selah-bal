@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ تمام اسرائیلءِ مردم بادشاہءَ کلہ بنت عیدءَ تہ — آ ماہءِ ہپتمی اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ءُ کلہ بنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردمِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "عیدءَ تہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ماہِ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ہپتمی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:25.005618638Z",
+  "model": "glm-5.3"
+}

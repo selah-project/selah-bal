@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کیہ زمین پُر بیت پہ زانگ یاہوہءِ جلالءِ ⟨את⟩، چوش کہ آپان سمندرءَ پوشنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "پُر بیت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "پہ زانگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءِ جلال"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "چوش کہ آپان"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "پوشنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءُ … ءَ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-09-24T22:40:40.977673687Z",
+  "model": "glm-5.3"
+}

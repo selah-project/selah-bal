@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ انسان جھکیت ءُ مرد کم بیت ءُ بلندگانی چشم گیں کم بنت.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ءُ جھکیت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ءُ کم بیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ءُ ئی چشم"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "بلندگانی"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "کم بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:22:38.993449040Z",
+  "model": "glm-5.3"
+}

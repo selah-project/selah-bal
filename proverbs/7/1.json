@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "مءِ زہگ، مءِ گالانءَ نگہ دہ ءُ مءِ حکمانءَ گوں ⟨את⟩ خوتءَ پناه دہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "مءِ زہگ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگہ دہ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "مءِ گالانءَ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ءُ مءِ حکمانءَ"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "پناه دہ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ گوں تُوءَ",
+      "marks": "خوتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:23.852937656Z",
+  "model": "glm-5.3"
+}

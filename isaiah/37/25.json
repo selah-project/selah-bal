@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "«من کنت ءُ آپ پیتم، ءُ وتی پاءِ تلائیءَ مِتسرءِ ٹول روہان چک کت۔»",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ءُ پیتم"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "ءُ چک کت"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "تہ تلائی"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "وتی پا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ٹول"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "روہان"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "مِتسر"
+    }
+  ],
+  "timestamp": "2026-09-24T21:33:14.853723845Z",
+  "model": "glm-5.3"
+}

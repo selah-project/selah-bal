@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "تہگار شمار ءُ راست گندیت، پرچا کہ آرامیں مردمی آخری ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "שְׁמָר",
+      "gloss": "شمار"
+    },
+    {
+      "surface": "תָּם",
+      "gloss": "تہگار"
+    },
+    {
+      "surface": "וּרְאֵה",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "יָשָׁר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אַחֲרִית",
+      "gloss": "آخری"
+    },
+    {
+      "surface": "לְאִישׁ",
+      "gloss": "مردمی"
+    },
+    {
+      "surface": "שָׁלוֹם",
+      "gloss": "آرام"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:46.409675Z",
+  "model": "glm-5.3"
+}

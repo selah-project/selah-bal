@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ تو ⟨את⟩ حوض ءُ ⟨את⟩ آییءِ چوکئِ مسح کن، ءُ ⟨את⟩ آییءَ پاک کن۔",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ءُ مسح کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حوض"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "حوض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چوکئِ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "چوکئِ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ءُ پاک کن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "حوض ءُ چوکئِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:47.630217569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ اِشا، اے یاہوہ، تُو ہستی ⟨اے⟩ ایلوہیم، ءُ تُو مُنءِ غلامءَ اے نیکیءَ گوَشتی ئے.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہستی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ءُ گوَشتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "مُنءِ غلامءَ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "اے نیکیءَ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:28:58.879348613Z",
+  "model": "glm-5.3"
+}

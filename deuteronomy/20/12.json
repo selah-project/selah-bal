@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ اگر گوں تا آشتی نہ کنت ءُ گوں تا جنگ کنت، توں آیءَ گھیر اریں۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "آشتی کنت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تا"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ءُ کنت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تا"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ءُ توں گھیر اریں"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:12.524376675Z",
+  "model": "glm-5.3"
+}

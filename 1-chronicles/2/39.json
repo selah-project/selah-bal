@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ عَزَریاءَ ⟨את⟩ چِلِس زائیت، ءُ چِلِسءَ ⟨את⟩ اَلعاسا زائیت۔",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ءُ عَزَریاءَ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چِلِس"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "چِلِس"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ءُ چِلِسءَ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَلعاسا"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "اَلعاسا"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:47.442528392Z",
+  "model": "glm-5.3"
+}

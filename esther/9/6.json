@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ شوشنءِ قلعہءَ تہ یہودیان پنچ سد مرد کُشتنت ءُ نیست کتنت۔",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "ءُ شوشن"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قلعہءَ تہ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "کُشتنت"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودیان"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ءُ نیست کتنت"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:27.545528467Z",
+  "model": "glm-5.3"
+}

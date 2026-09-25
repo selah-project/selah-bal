@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "⟨את⟩ تُئے فرمانان من لہنت؛ منیءَ گیش یکل مکن.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تُئے فرمانان"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تُئے فرمانان"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "من لہنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "منیءَ یکل دیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:23.036050633Z",
+  "model": "glm-5.3"
+}

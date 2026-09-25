@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ موشہءَ چوش کت گوں آ کہ یاہوہءَ ⟨את⟩ آییءَ حکم کتگ اَت، ہمے چوش کت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "کאשر",
+      "gloss": "چوش کت گوں آ کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "موشہءَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ہمے چوش"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:36:47.556447579Z",
+  "model": "glm-5.3"
+}

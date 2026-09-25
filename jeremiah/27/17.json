@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "نہ گوش کنیت اِشاںءَ؛ کار کنیت ⟨את⟩ بابلءِ شاہءَ ءُ زندگ بمانیت؛ چرا اے شہر ویران بیت؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "گوش کنیت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "کار کنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بابلءِ شاہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ءُ زندگ بمانیت"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ویران"
+    }
+  ],
+  "timestamp": "2026-09-24T21:55:41.878820100Z",
+  "model": "glm-5.3"
+}

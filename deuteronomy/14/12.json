@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ اے اِنت کہ چہ اِشاں بت نہ وانیت: شہں، ءُ پرہز، ءُ ازنیا.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بت وانیت"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "چہ اِشاں"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "شہں"
+    },
+    {
+      "surface": "وהפרס",
+      "gloss": "ءُ پرہز"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "ءُ ازنیا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:41.439255343Z",
+  "model": "glm-5.3"
+}

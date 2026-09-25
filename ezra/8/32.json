@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ یروشلم ءَ رسیت ءُ اوتا سئے روچ امان بوت۔",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "ءُ رسیت"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلمءَ"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "ءُ امان بوت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:13:29.261944844Z",
+  "model": "glm-5.3"
+}

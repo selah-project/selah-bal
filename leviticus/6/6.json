@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "آتش یکلنگ پہ قربانگاہءَ سوزیت، آ نہ کم بیت.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "یکلنگ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "سوزیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "کم بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:11.217522799Z",
+  "model": "glm-5.3"
+}

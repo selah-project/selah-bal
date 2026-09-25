@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ ہم چہ راہءَ تہ، جہلءِ مانستین کہ روت، آییءِ دل کماشت ⟨اِنت⟩، ءُ آیی گوں ہمگانءَ گوَشت کہ آ یک جہل ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "چہ راہءَ تہ"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "جہلءِ مانستین"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "آییءِ دل"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کماشت"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "گوں ہمگانءَ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "جہل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:45.979322317Z",
+  "model": "glm-5.3"
+}

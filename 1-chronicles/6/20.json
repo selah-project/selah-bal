@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "زیفءِ زہگ، اَلکانہءِ زہگ، مَحتءِ زہگ، اَمسایءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "زیفءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلکانہءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "مَحتءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "اَمسایءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:18.875404064Z",
+  "model": "glm-5.3"
+}

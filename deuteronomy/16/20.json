@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "راستی، راستیءَ پیرویءَ کن تا کہ زند بیت، ءُ ⟨את⟩ زمینءَ بگیریت کہ یاہوہ وت ایلوہیم توءَ دنت.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستیءَ"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "پیرویءَ کن"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "زند بیت"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "ءُ بگیریت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمینءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "وت ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:03.413297028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "آ! چوٹاک من تہ تہ قوماں گرگ — رٹیتگیں تو گیش ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "چوٹاک"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "من تہ گرگ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "تہ قوماں"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "رٹیتگیں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:37:03.038096446Z",
+  "model": "glm-5.3"
+}

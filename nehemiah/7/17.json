@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اَزگادءِ زہگان، دو ہزار سئے دہ ءُ دو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "اَزگادءِ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ءُ دو"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:55.963655637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "اے کے اِنت، جلالءِ بادشاہ؟ یاہوہ — زورءُ مشت، یاہوہ جنگءِ مشت۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "اے کے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "جلالءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ءُ مشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "مشت"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:08.043080116Z",
+  "model": "glm-5.3"
+}

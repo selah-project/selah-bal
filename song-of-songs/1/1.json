@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "گانءِ گانان — اے کہ شلمہءِ ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گانءِ"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "گانان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اے کہ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلمہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:31.000920438Z",
+  "model": "glm-5.3"
+}

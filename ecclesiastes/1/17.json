@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ من وتی دلءَ دیم کت پہ زانگ دانش، ءُ زانگ ونڈی ءُ مورک؛ زانتم کہ اے ہم ⟨اِنت⟩ رزنی جہلءِ.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ءُ دیم کت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "وتی دلءَ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "پہ زانگ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ زانگ"
+    },
+    {
+      "surface": "הוללوت",
+      "gloss": "ونڈی"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "ءُ مورک"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زانتم"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "کہ اے ہم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اِنت⟩"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "رزنی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "جہلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:34.741988622Z",
+  "model": "glm-5.3"
+}

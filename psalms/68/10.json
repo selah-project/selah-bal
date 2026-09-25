@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 68,
+  "translation": "رحمتءِ مینہ ایلوہیم چمبیت؛ تئے ورثت ءُ وتگی، ءُ تُءے آییءَ مستور کت.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "مینہ"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "رحمتءِ"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "چمبیت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "تئے ورثت"
+    },
+    {
+      "surface": "ונלאه",
+      "gloss": "ءُ وتگی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُءے"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "مستور کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:52.082065975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "تُءِ اولی پِت گناہ کت، ءُ تُءِ ترجمانان منی لوگ سرکشی کت۔",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "تُءِ پِت"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "اولی"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناہ کت"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "ءُ تُءِ ترجمانان"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "سرکشی کت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منی لوگ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:57.823590740Z",
+  "model": "glm-5.3"
+}

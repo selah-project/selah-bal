@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "کیہ پہ دودءِ فشار چرمہ در کنیت، ءُ پہ نکءِ فشار گوں در کنیت، ءُ پہ آپیچانی فشار جیڑا در کنیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "فشار"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "دود"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "در کنیت"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "چرمہ"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ءُ فشار"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نکءِ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "در کنیت"
+    },
+    {
+      "surface": "דם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ءُ فشار"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "آپیچانی"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "در کنیت"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "جیڑا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:46.150672190Z",
+  "model": "glm-5.3"
+}

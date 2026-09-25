@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "پہ جتا کنگ میانِ نجس ءُ میانِ پاک، ءُ میانِ جانورِ خوارکتگیں ءُ میانِ جانورِ کہ نہ خواریت۔",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "پہ جتا کنگ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانِ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "نجسءِ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ میانِ"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "پاکءِ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ میانِ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جانورءِ"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "خوارکتگیں"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ میانِ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جانورءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خواریت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:14:44.823840611Z",
+  "model": "glm-5.3"
+}

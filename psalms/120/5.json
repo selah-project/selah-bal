@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 120,
+  "translation": "اویہ پہ من، کہ من مسیخءَ مانست اَت، کہ من قیدارءِ گدانانی گوں جنہ کت۔",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "اویہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "مانست اَت"
+    },
+    {
+      "surface": "משך",
+      "gloss": "مسیخءَ"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "جنہ کت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "گدانانی"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قیدار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:19.146197404Z",
+  "model": "glm-5.3"
+}

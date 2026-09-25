@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 65,
+  "translation": "دعاءِ گوشوک — پہ تُوءَ گیش گوشت آنت۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "گوشوک"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "پہ تُوءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "یבאו",
+      "gloss": "آنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:49.575955886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 75,
+  "translation": "پہ رہبرءَ — ہرگز پروش منئے — اے اِشاں آسافءِ زمیروں اِنت، یک گوئی.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہبرءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ہرگز"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "پروش منئے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زمیروں"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "اِشاں آسافءِ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گوئی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:49.421111766Z",
+  "model": "glm-5.3"
+}

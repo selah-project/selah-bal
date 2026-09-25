@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "تُو دروغءِ گوَنتکانءَ هلال کنی؛ یاہوہ خون ءُ فریبءِ مردءَ گندہ شماریت۔",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "هلال کنی"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گوَنتکان"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروغءِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ءُ فریبءِ"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "گندہ شماریت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:03.406545629Z",
+  "model": "glm-5.3"
+}

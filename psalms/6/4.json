@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ منیں جان گیش لرزیت؛ ءُ تُو اے یاہوہ — تا کُڈی؟",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ءُ منیں جان"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "لرزیت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ تُو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کُڈی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:01.182840828Z",
+  "model": "glm-5.3"
+}

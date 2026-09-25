@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "اِشاں شکسہ بوتنت، پدا جواب نہ دنت؛ گال چہ اِشاں جتا بوتگ۔",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "شکسہ بوتنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "جواب دنت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "جتا کتنت"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "چہ اِشاں"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "گال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:41:17.848141625Z",
+  "model": "glm-5.3"
+}

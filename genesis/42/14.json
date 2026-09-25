@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ یوسفءَ اِشاںءَ گوَشت: آ اِنت آ کہ مانءَ گوَشتیگ اِشاںءَ، کہ: جاسوس اَنت شمان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "گوَشتیگ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوسان"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شمان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:53.615206471Z",
+  "model": "glm-5.3"
+}

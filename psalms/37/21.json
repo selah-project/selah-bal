@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "رستوکے قرض گیت ءُ نہ پسہ دیت؛ ءُ راست چونیت ءُ دیت.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "قرض گیت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رستوک"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "پسہ دیت"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ءُ راست"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "چونیت"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ءُ دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:39.888763209Z",
+  "model": "glm-5.3"
+}

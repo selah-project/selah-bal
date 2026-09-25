@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ مشتہءِ بیتءَ نہ رُ پہ اِشاںءَ نشستءَ ⟨את⟩ خاردگءَ ءُ نوشتگءَ۔",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مشتہءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "رُءُ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "نشستءَ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ پہ اِشاںءَ",
+      "marks": "خاردگ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "خاردگءَ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ءُ نوشتگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:27.274017414Z",
+  "model": "glm-5.3"
+}

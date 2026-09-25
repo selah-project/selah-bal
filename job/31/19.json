@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 31:19",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "اگر من کسےءَ ہلاک بیتگ بیت بے جاموک گندیتاں، ءُ کپڑے نیست پہ غریب",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "گندیتاں"
+    },
+    {
+      "surface": "אובד",
+      "gloss": "ہلاک بیتگ"
+    },
+    {
+      "surface": "مבלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "جاموک"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "پہ غریب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:41:34.704920493Z",
+  "model": "glm-5.3"
+}

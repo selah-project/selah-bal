@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ اگر ابر نہ اُچشتیت، ءُ نہ اِشاں رہی بنت، تا روچے کہ آ اُچشت بیت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "اُچشتیت"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יסעو",
+      "gloss": "رہی بنت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچے"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "آییءِ اُچشتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:21.778144307Z",
+  "model": "glm-5.3"
+}

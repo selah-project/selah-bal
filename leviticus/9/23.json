@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 9:23",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ موشہ ءُ ہارون ملاقاتءِ گدانءَ وَرتنت، ءُ چیرنت، ءُ قومءَ ⟨את⟩ برکت دنت؛ ءُ یاہوہءِ جلال پہ ساری قوم پدا گندیت۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وَرتنت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ءُ ہارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گadanءِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقاتءِ"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ءُ چیرنت"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ءُ برکت دنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "پدا گندیت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:40.872313627Z",
+  "model": "glm-5.3"
+}

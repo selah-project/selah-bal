@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "پہ ایشاں کہ زانت چہ شمسءِ شرقءَ ءُ چہ آییءِ مغبءَ، کہ مچے من ہچ نیست؛ من یاہوہ اِنت ءُ دگہ نیست۔",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "پہ ایشاں کہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "چہ شرقءَ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شمسءِ"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "ءُ چہ مغبءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ہچ"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "مچے من"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:36:20.378240538Z",
+  "model": "glm-5.3"
+}

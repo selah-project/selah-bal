@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "کہ آییءِ گوشءَ منی وارءَ چم کت، ءُ مئے روچانءَ من بانگ کنان۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "چم کت"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "آییءِ گوش"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی وارءَ"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ءُ مئے روچانءَ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "من بانگ کنان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:20.099075504Z",
+  "model": "glm-5.3"
+}

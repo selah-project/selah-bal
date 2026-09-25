@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "چشمان سرکش، دروغءِ زبان، ءُ دستانی کہ پاکءِ گون شلنت۔",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "چشمان"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغءِ"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "ءُ دستان"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "شلنت"
+    },
+    {
+      "surface": "דם",
+      "gloss": "گون"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "پاکءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:44.968751295Z",
+  "model": "glm-5.3"
+}

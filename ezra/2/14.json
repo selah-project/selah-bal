@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "بِگویءِ زہگان، دو ہزار پنجاہ ءُ شش۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بِگویءِ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ءُ شش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:26.698219924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "پاک چراغدانءِ سرءَ ⟨את⟩ چراغان ترتیب دیت یاہوہءِ درستیءَ ہمیشہ",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "چراغدانءِ"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ترتیب دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چراغان"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "چراغان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "درستیءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:25:19.897264796Z",
+  "model": "glm-5.3"
+}

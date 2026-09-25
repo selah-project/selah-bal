@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "چنگ چہ یاہوہءَ پسند بدست کنیت، ءُ مَردِ خرابیں چالاںءَ بدکار گوَشیت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "بدست کنیت"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "پسند"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "چہ یاہوہ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ مَردِ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "خرابیں چالاںءَ"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "بدکار گوَشیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:39.332844445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "آ وہدءَ موشہ سئے شہر چہ یردنءِ پار، شمسءِ دراچءَ جتا کت۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آ وہدءَ"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "جتا کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "چہ … پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردنءِ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "دراچءَ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شمسءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:49:19.447562374Z",
+  "model": "glm-5.3"
+}

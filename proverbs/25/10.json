@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "کہ نہ شنوکءَ توءِ رُسوائی کنت، ءُ توءِ بدرنامی پدا نہ روت۔",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "توءِ رُسوائی کنت"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنوکءَ"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "ءُ توءِ بدرنامی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "پدا روت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:57.653934969Z",
+  "model": "glm-5.3"
+}

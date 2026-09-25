@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "یاد دار کہ عمالق چہ كہ آییءَ تُہءِ راہءَ كت، وہدے كہ تُمان چہ مِتسرایمءَ درآتگ اَنت۔",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "یاد دار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "كت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءِ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راجہءَ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "درآتگے وہدے"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "چہ مِتسرایمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:17.304610516Z",
+  "model": "glm-5.3"
+}

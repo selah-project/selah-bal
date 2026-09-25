@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "یاہوہ شکستہ دلانءِ نزدیک اِنت ءُ ⟨את⟩ کچلگءِ رُح آیانءَ نجات دیت۔",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "شکستہ دلانءِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کچلگءِ رُح"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "کچلگ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُح"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "نجات دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:36.370246551Z",
+  "model": "glm-5.3"
+}

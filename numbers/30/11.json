@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ اگر آییءِ مَردءِ گِسءَ نذر کنیت، یا گوں سوگند آییءِ جانءِ سرءَ بند بستیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گِسءَ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "آییءِ مَردءِ"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "نذر کنیت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "بستیت"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "بند"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "آییءِ جانءِ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "گوں سوگند"
+    }
+  ],
+  "timestamp": "2026-09-24T19:43:59.547167764Z",
+  "model": "glm-5.3"
+}

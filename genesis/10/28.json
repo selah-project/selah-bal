@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ ⟨את⟩ عوبال ءُ ⟨את⟩ اَبیماایل ءُ ⟨את⟩ شِبا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "عوبال"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "عوبال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اَبیماایل"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "اَبیماایل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شِبا"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:04.799360737Z",
+  "model": "glm-5.3"
+}

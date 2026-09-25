@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "ءُ شراب مردءِ دل شاد کنت، چہ تیل چہرہ روشن کنت، ءُ نان مردءِ دلءَ سہار دیت۔",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "ءُ شراب"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد کنت"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مردءِ"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "پہ روشن کتن"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چہرہ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "چہ تیل"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ءُ نان"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مردءِ"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "سہار دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:23.849393983Z",
+  "model": "glm-5.3"
+}

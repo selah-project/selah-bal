@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "چہ ہر بدءِ رابراءَ من مئے پئیں روک کتنت، پہ آں کہ تئے گپءَ پالان۔",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہر"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "رابراءِ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "روک کتنت"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "مئے پئیں"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ آں کہ"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "پالان"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تئے گپ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:09.479521666Z",
+  "model": "glm-5.3"
+}

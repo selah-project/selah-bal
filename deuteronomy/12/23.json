@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "رگت پکا بہ کہ گین نہ کھا، پرچا کہ گین ⟨اِنت⟩ جان؛ ءُ جانءَ گوں گوشت نہ کھا۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رگت"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "پکا بہ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "پہ اے چیزءَ کہ نہ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھاگ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "گین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "گین"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اِنت⟩ آ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جانءَ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:09.592119743Z",
+  "model": "glm-5.3"
+}

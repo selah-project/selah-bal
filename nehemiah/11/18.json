@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ہر دو سد ءُ چار ءُ ہشت لاویءَ پاکءِ شہرءَ اِشتنِت — سد ءُ چار ءُ ہشت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر دو"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہرءَ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاکءِ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سد"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ہشت"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ءُ چار"
+    }
+  ],
+  "timestamp": "2026-09-25T00:19:02.948750402Z",
+  "model": "glm-5.3"
+}

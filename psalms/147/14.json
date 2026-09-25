@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 147,
+  "translation": "آ کہ تُءِ گنڈیءَ شالی میانیت، گوں گندمءِ چربیءَ تُءَ سیر کنت.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "آ کہ میانیت"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "تُءِ گنڈیءَ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالی"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "گندمءِ"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "تُءَ سیر کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:07.225319565Z",
+  "model": "glm-5.3"
+}

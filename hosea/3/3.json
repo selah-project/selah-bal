@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ آییءَ گوَشت: گیش روچ تہ مءَ نشیت، زناکاری مکن، ءُ کسیءِ نہ بیت، ءُ من ہم تہءَ۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "نشیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "زناکاری مکن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "کسیءِ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:30:10.484255311Z",
+  "model": "glm-5.3"
+}

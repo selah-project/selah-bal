@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ ہارون موشہءِ لُٹّءَ پدا روت، ملاقاتءِ گدانی دَرءَ؛ ءُ آفت گرچ بوتگ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ءُ پدا روت"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ہارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لُٹّءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لُٹّءَ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دَرءَ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "ءُ آفت"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "گرچ بوتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:35:39.603429727Z",
+  "model": "glm-5.3"
+}

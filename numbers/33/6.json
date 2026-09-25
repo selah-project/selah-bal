@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ چہ سکوت روگ کت، ءُ اِتامءَ گدان زت، آ کہ بیابانءِ کنارءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ءُ روگ کت"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "چہ سکوت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ءُ گدان زت"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "اِتامءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "کنارءَ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:45:18.823508354Z",
+  "model": "glm-5.3"
+}

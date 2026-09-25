@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "رُوءِ پیشءَ سد آمہ درازی اَت، شمالءِ دروازہ، ءُ پیناہ پنجاہ آمہ اَت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُوءِ پیشءَ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درازی"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "آمہ"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "شمالءِ"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "ءُ پیناہ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "آمہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:26:16.141230192Z",
+  "model": "glm-5.3"
+}

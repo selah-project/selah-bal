@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "پستانانءَ سوگ کننت، چہ پسندیدگ میدانانءَ، چہ پھل داتگ انگورءِ لیانءَ۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "پستانان"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "سوگ کننت"
+    },
+    {
+      "surface": "על",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "میدانان"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "پسندیدگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "انگورءِ لیان"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "پھل داتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:40.646741925Z",
+  "model": "glm-5.3"
+}

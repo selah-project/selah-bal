@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "نفسم چہ غمءَ روان بیت؛ مارا گوں تری گال پکا کن.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "روان بیت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسم"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "چہ غمءَ"
+    },
+    {
+      "surface": "קימنי",
+      "gloss": "پکا کن"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "گوں تری گال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:45.341595398Z",
+  "model": "glm-5.3"
+}

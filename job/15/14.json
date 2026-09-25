@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 15:14",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "چڑ این مُرگِن کہ پاک بیت، ءُ کہ راست بیت، یکے کہ چہ جنک زائوک؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چڑ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مُرگِن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "پاک بیت"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ءُ کہ"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "راست بیت"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "زائوک"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "چہ جنک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:39.647384279Z",
+  "model": "glm-5.3"
+}

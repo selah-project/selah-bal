@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 7:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "روت آییءِ پسا یکبیلگ، چوش کہ گاؤں ذبحءَ آئی، ءُ چوش کہ زنجیر، پہ احمقءِ تادیبءَ۔",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "آییءِ پسا"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "یکبیلگ"
+    },
+    {
+      "surface": "כשור",
+      "gloss": "چوش گاؤں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "ذبحءَ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "וכעכס",
+      "gloss": "ءُ چوش زنجیر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیبءَ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "احمقءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:59.511840138Z",
+  "model": "glm-5.3"
+}

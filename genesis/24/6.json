@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "اَوراہام آییءَ گوَشت: تُءَ حوذار بوت کہ نہ ⟨את⟩ مءِ زہگ آجا پدا گرانی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "حوذار بوت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُءَ پہ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "پدا گرانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مءِ زہگ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "مءِ زہگ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آجا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:33:41.577806193Z",
+  "model": "glm-5.3"
+}

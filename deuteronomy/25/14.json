@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "تہ یاہوہءِ گِسءَ ⟨ه not⟩ یک اپھا ءُ یک اپھا، گیش ءُ گوش نہ بیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "تہءِ گِسءَ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "یک اپھا"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ءُ یک اپھا"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ءُ گوش"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:19.613546409Z",
+  "model": "glm-5.3"
+}

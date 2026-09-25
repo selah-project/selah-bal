@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "ءُ ⟨את⟩ وتی شاند اِشانی یک گیاہ کھانوک گائوءِ شکلءَ بدل کت.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "ءُ بدل کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاند اِشانی"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "شاند اِشانی"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "شکلءَ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گائو"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھانوک"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "گیاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:48.310712495Z",
+  "model": "glm-5.3"
+}

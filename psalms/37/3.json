@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "یاہوہءَ تہ بھروسہ کن ءُ چنگ کار کن، زمینءَ سکا بوت ءُ راستیءَ چرا کن.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "بھروسہ کن"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہءَ تہ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ کن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "سکا بوت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ءُ چرا کن"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "راستی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:20.155212918Z",
+  "model": "glm-5.3"
+}

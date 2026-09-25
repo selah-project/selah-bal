@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "کہ شما زانتئے ⟨את⟩ آ کہ مانتئے تہ زمین مِتسرایم ءُ ⟨את⟩ آ کہ گوزشتئے تہ قومانی میان آ کہ گوزشتئے شما",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "زانتئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ مانتئے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "مانتئے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "تہ زمین"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آ کہ گوزشتئے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "گوزشتئے"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "تہ میان"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "گوزشتئے شما"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:08.530399309Z",
+  "model": "glm-5.3"
+}

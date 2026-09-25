@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آ گال منءِ چشمانءَ چنگ بوت؛ ءُ منءَ تُہانی چہ دو دہ مردی گپت — یک مرد ہر ٹولیءِ پہ یک۔",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ءُ چنگ بوت"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "منءِ چشمانءَ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "آ گال"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ءُ منءَ گپت"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "تُہانی چہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "ٹولیءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:48.028211723Z",
+  "model": "glm-5.3"
+}

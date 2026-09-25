@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "کہاتءِ زہگانءَ اوری‌ایل سردار اِنت ءُ آییءِ براتان یک سد ءُ بیست اَنت۔",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "زہگانءَ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "کہاتءِ"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "اوری‌ایل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ءُ آییءِ براتان"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "یک سد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ بیست"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:25.128922869Z",
+  "model": "glm-5.3"
+}

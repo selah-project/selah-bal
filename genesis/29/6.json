@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 29:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "گوَشت اِشاںءَ: آییءَ سلامت اِنت؟ اِشاں گوَشتنت: سلامت اِنت؛ ءُ گوش رachel آییءِ جنک رمہءِ گوں روت ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "سلامت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "گوَشتنت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ گوش"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "رachel"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "آییءِ جنک"
+    },
+    {
+      "surface": "באה",
+      "gloss": "روت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "رمہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:02.123982244Z",
+  "model": "glm-5.3"
+}

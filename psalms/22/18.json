@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "من شمار کنتاں منیءِ سئے ہڈیان؛ اِشات گندیت ءُ منیءَ اِشکنیت۔",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "من شمار کنتاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "منیءِ ہڈیان"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِشات"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "یראו",
+      "gloss": "اِشکنیت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:42.331708842Z",
+  "model": "glm-5.3"
+}

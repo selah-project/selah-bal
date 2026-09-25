@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "دولت چہ ہبل کم بیت، ءُ جوڑ کنوک گوں دست گیش بیت۔",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "چہ ہبل"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "کم بیت"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "ءُ جوڑ کنوک"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "گیش بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:50.383871115Z",
+  "model": "glm-5.3"
+}

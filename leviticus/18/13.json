@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "برہنائی ماءِ گوہرءِ نہ پدا کن، پرچا کہ آ ماءِ گوشت ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برہنائی"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "گوہر"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ماءِ تیءِ"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "پدا کن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ماءِ تیءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اِنت⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:03.673413418Z",
+  "model": "glm-5.3"
+}

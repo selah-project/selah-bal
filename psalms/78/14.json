@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ اِشانءَ گوں اَبر روزءَ راہ دِنت، ءُ گیش شپ گوں آتشیءِ روشنائیءَ۔",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ءُ اِشانءَ راہ دِنت"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "گوں اَبر"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "روز"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "گوں روشنائیءِ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:16.905649896Z",
+  "model": "glm-5.3"
+}

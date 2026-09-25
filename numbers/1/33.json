@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اِشانی شمار اِنت پہ اِفرایمءِ ٹولیءَ: چار ہزار ءُ پنچ سد.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اِشانی شمار"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "پہ ٹولیءَ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایمءِ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ءُ پنچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:23.018180044Z",
+  "model": "glm-5.3"
+}

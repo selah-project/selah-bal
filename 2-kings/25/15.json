@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ ⟨את⟩ مچتدان ءُ ⟨את⟩ کاسہ‌گ کہ زر چہ زر ءُ کہ سیم چہ سیم — طباچیانی سردارءَ گپت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مچتدان"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "مچتدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کاسہ‌گ"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "کاسہ‌گ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ کہ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سیم"
+    },
+    {
+      "surface": "کסף",
+      "gloss": "سیم"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گپت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "سردارءَ"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "طباچیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:21:00.619472260Z",
+  "model": "glm-5.3"
+}

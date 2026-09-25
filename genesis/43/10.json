@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "کہ اگر گوں دیر کتن نہ اشتنت، دِست ءَ اِمروزیں وہدءَ اِشیں رند پدا رَBOT اشتنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "اگر نہ"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "دیر کتن نہ اشتنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "دِست ءَ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اِمروزیں وہدءَ"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "پدا رَBOT اشتنت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِشیں رند"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "دِست"
+    }
+  ],
+  "timestamp": "2026-09-24T18:46:12.792367117Z",
+  "model": "glm-5.3"
+}

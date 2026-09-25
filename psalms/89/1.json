@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "آموزشیں سرود — اِیتان اِزراحیءِ پہ",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "آموزشیں سرود"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "اِیتانءِ پہ"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "اِزراحی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:42.918073451Z",
+  "model": "glm-5.3"
+}

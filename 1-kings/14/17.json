@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 14:17",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ یروبعمءِ زن اُستگ ءُ روت ءُ تیرسہءَ آت، او اودا کہ گدءِ درءَ آت، زہگ مُت۔",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "اُستگ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زن"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یروبعمءِ"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ءُ آت"
+    },
+    {
+      "surface": "תרצתה",
+      "gloss": "تیرسہءَ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "او"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آت"
+    },
+    {
+      "surface": "בסף",
+      "gloss": "گدءِ درءَ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گد"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:02:19.873505900Z",
+  "model": "glm-5.3"
+}

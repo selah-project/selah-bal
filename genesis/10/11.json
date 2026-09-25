@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "چہ آ زمینءَ آشور در کت ءُ ⟨את⟩ نینوہ ءُ ⟨את⟩ رحبوت-عیر ءُ ⟨את⟩ کلح جوڑ کت.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "آ زمین"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "در کت"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نینوہ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "رحبوت"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "رحبوت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کلح"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "کلح"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:19.653543923Z",
+  "model": "glm-5.3"
+}

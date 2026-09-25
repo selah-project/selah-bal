@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ یاہوہ سباؤت انصافءَ بلند بیت ءُ پاک ایل راستیءَ پاک بیت.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ءُ بلند بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصافءَ"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "ءُ ایل"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "پاک بیت"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "راستیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:22:38.993588175Z",
+  "model": "glm-5.3"
+}

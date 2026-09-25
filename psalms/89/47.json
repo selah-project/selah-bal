@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "تا چند، اے یاہوہ، تو وتءَ پہ ہمیشہ پوشیئت؟ تُجی خشم چوش آتش سوژیت؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "وتءَ پوشیئت"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "سوژیت"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "تُجی خشم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:42.268610107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 69,
+  "translation": "ءُ منیں پوشاکءَ شُک کتوم، ءُ بیتوم آشانءَ پہ مثال۔",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ءُ کتوم"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "منیں پوشاکءَ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "شُک"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ءُ بیتوم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آشانءَ"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "پہ مثال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:32.155719198Z",
+  "model": "glm-5.3"
+}

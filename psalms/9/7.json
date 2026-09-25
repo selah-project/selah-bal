@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "دشمن مک بوت، چڑاو پہ ہمیشہ؛ ءُ شہران ءَ تو کاہیت، آشانی یادگار گم بوت — آمانے۔",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "مک بوت"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "چڑاو"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ءُ شہران"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "کاہیت"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "گم بوت"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "آشانی یادگار"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آمانے"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:30.146918549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "پیمائشی رسّیان منءَ دزگ جاگہاںءَ کپتنت؛ بلکہ منیں ورثت منءَ گلوار اِنت۔",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "پیمائشی رسّیان"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "کپتنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "دزگ جاگہاںءَ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ورثت"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "گلوار"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:20.839413564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 141,
+  "translation": "بدکار تہ وتے دامانی ئشانی یکجا ڈگنت، تا کہ من ءُ گوزاں۔",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "ڈگنت"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "تہ وتے دامانی ئشانی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ءُ گوزاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:11.656233263Z",
+  "model": "glm-5.3"
+}

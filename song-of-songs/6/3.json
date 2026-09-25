@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "من منءِ یارءِ اِنت، ءُ منءِ یار منءِ اِنت — چاروک سوسنانءِ ماں۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "منءِ یارءِ"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "ءُ منءِ یار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءِ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "چاروک"
+    },
+    {
+      "surface": "بשושנים",
+      "gloss": "سوسنانءِ ماں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:40.478199142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اے منی زہگ، اگر تُو منی گپان گنت ءُ منی حکمان ⟨את⟩ گوں تُو پُشیت،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "اے منی زہگ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گنت"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "منی گپان"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ءُ منی حکمان"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "پُشیت"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ گوں تُو"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:51.466518807Z",
+  "model": "glm-5.3"
+}

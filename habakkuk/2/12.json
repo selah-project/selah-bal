@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "وائے اُوں کہ شہر گوں گوناءان جوڑیت ءُ شہر گوں زالمی‌ءَ پَکا کنت.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وائے"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڑیت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "گوں گوناءان"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "ءُ پَکا کنت"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "گوں زالمی‌ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:39:57.494559611Z",
+  "model": "glm-5.3"
+}

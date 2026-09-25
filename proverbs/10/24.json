@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "بدکارءِ دپت آ آییءَ آیت، ءُ راستانیںءِ آرزو دیت بیت۔",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "دپت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکارءِ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "آییءَ آیت"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "ءُ آرزو"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستانیںءِ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:41.969938990Z",
+  "model": "glm-5.3"
+}

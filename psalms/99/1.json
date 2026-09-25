@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 99,
+  "translation": "یاہوہ شاہی کت، قومان لرزنت؛ آ کروبانءِ سرءَ نشیت، زمین لرزِت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہی کت"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "لرزنت"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "نشیت"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "کروبانءِ سرءَ"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "لرزِت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:58.403706261Z",
+  "model": "glm-5.3"
+}

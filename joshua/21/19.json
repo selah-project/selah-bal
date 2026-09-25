@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 21:19",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "کاہن آہرونءِ زہگانی چم گہ شہر — سئے ءُ دہ شہر ءُ اِشانی چراگاہیں۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "چم"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "آہرونءِ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ءُ دہ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "ءُ اِشانی چراگاہیں"
+    }
+  ],
+  "timestamp": "2026-09-24T20:11:57.196835031Z",
+  "model": "glm-5.3"
+}

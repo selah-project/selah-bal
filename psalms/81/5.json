@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 81,
+  "translation": "کی آ یِسرائیلءِ پہ یک قاعدہ اِنت، یعقوبءِ ایلوہیمءِ پہ یک حکم۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "חק",
+      "gloss": "قاعدہ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "یِسرائیلءِ پہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ایلوہیمءِ پہ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:30.800032756Z",
+  "model": "glm-5.3"
+}

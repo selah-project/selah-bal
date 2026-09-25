@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 32:36",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "چون یاہوہ آییءِ قومءَ فیصلہ کنت ءُ آییءِ غلامانی سر دلسوز بیت، چون گندیت کہ دستءِ روگ اِنت ءُ بند-ءُ-رانگ ہچ ⟨نست⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "فیصلہ کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ قومءَ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سر"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "آییءِ غلامانی"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "دلسوز بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אזלת",
+      "gloss": "روگ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستءِ"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ءُ ہچ"
+    },
+    {
+      "surface": "עצور",
+      "gloss": "بند"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ءُ رانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:05.626372693Z",
+  "model": "glm-5.3"
+}

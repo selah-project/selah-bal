@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "چہ آں کہ مئں کمر تپشءَ چُک اِنت، ءُ مئں گوشتءَ تہ صحت نیست.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ آں کہ"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "مئں کمر"
+    },
+    {
+      "surface": "מלאو",
+      "gloss": "چُک اِنت"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "تپش"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "صحت"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "مئں گوشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:58.924422254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ آییءِ پسات گبّای، سلّلای — نہ سد بیست ءُ ہشت",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ءُ آییءِ پسات"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "گبّای"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "سلّلای"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ءُ ہشت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:18:41.782822223Z",
+  "model": "glm-5.3"
+}

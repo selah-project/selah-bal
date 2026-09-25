@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "گوں اَچھاں اِشاں کنت، گوں زاںءَ گپ ءُ دیت، گوں انگشتانءَ رست دنت،",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "اِشاں کنت"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "گوں اَچھاں"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "گپ ءُ دیت"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "گوں زاںءَ"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "رست دنت"
+    },
+    {
+      "surface": "באצבעתיו",
+      "gloss": "گوں انگشتانءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:46.993156475Z",
+  "model": "glm-5.3"
+}

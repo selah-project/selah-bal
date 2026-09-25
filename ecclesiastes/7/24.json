@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "دووریں اِنت آ کہ بوتگ اِنت، ءُ گہین گہین — کِے آییءَ دست کیت؟",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "دووریں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "بوتگ"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ءُ گہین"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "گہین"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِے"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "آییءَ دست کیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:15.113018380Z",
+  "model": "glm-5.3"
+}

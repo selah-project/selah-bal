@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "سمندر بابلءِ سرءَ چڑیت؛ آیی آییءِ موجاني گیشی ءَ پُوشیتگ بوتگ اِنت.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "چڑیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابلءِ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "گیشی ءَ"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "آییءِ موجاني"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "پُوشیتگ بوتگ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:06:38.573730645Z",
+  "model": "glm-5.3"
+}

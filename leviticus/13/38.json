@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ یک مرد ءُ یک زنک، چوں چہ اِشانیءِ گوڈءِ جلدءَ تہ سپیں داغان بیت — سپیں داغان —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ یک مرد"
+    },
+    {
+      "surface": "או",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "یک زنک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "جلدءَ تہ"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "اِشانیءِ گوڈءِ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "سپیں داغان"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "سپیں داغان"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "سپیں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:46.207063523Z",
+  "model": "glm-5.3"
+}

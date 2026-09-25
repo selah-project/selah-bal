@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 92,
+  "translation": "ہنچو ماں پیریءَ پھل دنت، چرب ءُ ساو بنت۔",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ہنچو"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "پھل دنت"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ماں پیریءَ"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "چرب"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "ءُ ساو"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:09.597727557Z",
+  "model": "glm-5.3"
+}

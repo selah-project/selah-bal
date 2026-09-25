@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "شن پہ تئی پتءَ کہ توءَ زائگ، ءُ تئی ماتءَ کہ پیر بیت سبک مگر۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "شن"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "تئی پتءَ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "توءَ زائگ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "سبک مگر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی کہ"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "پیر بیت"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تئی ماتءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:08.540146354Z",
+  "model": "glm-5.3"
+}

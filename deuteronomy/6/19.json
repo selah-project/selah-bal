@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "پہ درغلیت ⟨את⟩ گش تُںءِ دشمنان چہ تُںءِ دیماں، چوش کہ یاہوہ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "پہ درغلیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گش تُںءِ دشمنان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "تُںءِ دشمنان"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "چہ تُںءِ دیماں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:49:32.858392743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ رام ءَ ⟨את⟩ عَمّیناداب زا، ءُ عَمّیناداب ءَ ⟨את⟩ نَحشون زا — یہوداءِ زہگانی سردار.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ءُ رام"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَمّیناداب"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عَمّیناداب"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "ءُ عَمّیناداب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَحشون"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نَحشون"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودا"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:47.034142259Z",
+  "model": "glm-5.3"
+}

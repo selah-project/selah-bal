@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 130,
+  "translation": "ءُ آیا اسرائیلءَ ⟨את⟩ چہ آییءِ گشین گناهان چہ رہائی دیت.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آیا"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "رہائی دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائیلءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءَ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ گشین"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "آییءِ گناهان چہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:32.096626371Z",
+  "model": "glm-5.3"
+}

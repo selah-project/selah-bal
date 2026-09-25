@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ جوان روَنتگ — جوان پیغمبر — راموت گِلعدءَ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روَنتگ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:11:05.935869311Z",
+  "model": "glm-5.3"
+}

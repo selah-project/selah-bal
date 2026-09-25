@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "یاہوہءِ ڈر پاک اِنت، پہ ہمیشہ اوشتیت؛ یاہوہءِ فیصلان راستی اِنت، ہمگ راست بنت۔",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "اوشتیت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "فیصلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "راست بنت"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ہمگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:00.160004278Z",
+  "model": "glm-5.3"
+}

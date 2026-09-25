@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "اے اِنت تورا پہ ہر ضربءِ صرعت ءُ پہ ناتکءِ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ضربءِ"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "صرعت"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "ءُ پہ ناتکءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:40.716305599Z",
+  "model": "glm-5.3"
+}

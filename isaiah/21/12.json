@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "پاسدار گوَشت: سپہد آییءَ اِنت، ءُ ہم شپ؛ اگر تہاں پُچھی، پُچھو؛ پدا گرو، آرو۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "پاسدار"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "آییءَ اِنت"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سپہد"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "پُچھی"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "پُچھو"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "پدا گرو"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "آرو"
+    }
+  ],
+  "timestamp": "2026-09-24T21:26:12.856436752Z",
+  "model": "glm-5.3"
+}

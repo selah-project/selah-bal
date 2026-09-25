@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "کی چہ ایشمان آئی نہ رسیتگ انت پہ ہالی، اے آرامءَ ءُ اے ورثتءَ، کہ یاہوہ تئے ایلوہیم تئے ءَ دنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی چہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "پہ ہالی"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اَمے وہد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "اے آرام"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "اے ورثت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تئے ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:28.960304187Z",
+  "model": "glm-5.3"
+}

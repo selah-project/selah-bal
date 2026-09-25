@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ روووک تہ گدان، پوریں روچان کہ آ بند کتگ ⟨את⟩ آییءَ، ناپاک بیت تا شامءَ.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "ءُ روووک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "بند کتگ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "آیی"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک بیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شامءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:18:38.190935691Z",
+  "model": "glm-5.3"
+}

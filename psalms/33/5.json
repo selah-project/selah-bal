@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "راستی ءُ انصافءَ دوست داریت؛ یاہوہءِ ہیسید چہ زمینءَ پُر ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "دوست داریت"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ءُ انصاف"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ہیسید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:10.401358305Z",
+  "model": "glm-5.3"
+}

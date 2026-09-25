@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ یاہوہءِ گال یونہءَ دومی رند اَت، کہ گوَشت —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہءَ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دومی رند"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:07:17.441158147Z",
+  "model": "glm-5.3"
+}

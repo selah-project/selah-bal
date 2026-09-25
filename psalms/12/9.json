@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "گوَڈ شریران پھیرنت، چوش کہ کمئی آدمیانی زہگانءِ دستءَ بلند بیت۔",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "گوَڈ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریران"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "پھیرنت"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "چوش کہ بلند بوتگیں"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "کمئی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زہگانءِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:23.992983193Z",
+  "model": "glm-5.3"
+}

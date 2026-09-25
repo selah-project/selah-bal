@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ یاہوہءِ گال یرمیاہءَ آت کہ گوَشت",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:56:52.748637786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "ایلوہیم قومانءِ سرءَ بادشاہی کت، ایلوہیم وتیں قدسءِ تختءَ نشست.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہی کت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءِ سرءَ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "نشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءِ سرءَ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "وتیں قدسءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:03.727638951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اَنت شمایاں پہ وتاں دو دہ مرد اسرائیلیءِ ٹولیانءَ چہ گیریں، یک مرد، یک مرد پہ یک ٹولی۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اَنت"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "گیریں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ وتاں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "ٹولیانءَ چہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "پہ ٹولی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:04:05.328064530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "آ کِس اِنت کہ یاہوہءَ ڈریت؟ آییءَ آ راہءَ سبق دیت کہ آ چنت.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "آ کِس"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "کہ … کِس"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈریت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "آییءَ سبق دیت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "آ راہءَ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "کہ آ چنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:22.446026242Z",
+  "model": "glm-5.3"
+}

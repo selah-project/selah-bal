@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "چہ کجا، اے یاہوہ، ما مہ یکت بکاں ہمیشہ؟ چہ کجا ⟨את⟩ تئے چہرہ چہ من پوشیں؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ما مہ یکت بکاں"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "پوشیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تئے چہرہ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تئے چہرہ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ من"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:10.887421787Z",
+  "model": "glm-5.3"
+}

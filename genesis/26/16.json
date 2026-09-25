@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ اَبی‌مَلِک اِسحاقءَ گوَشت: چہ ماں برو، پرچا کہ تو چہ ماءَ گیش تر زورت مند بوت ئے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَبی‌مَلِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اِسحاق"
+    },
+    {
+      "surface": "لך",
+      "gloss": "برو"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "چہ ماں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "زورت مند بوت ئے"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ ما"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش تر"
+    }
+  ],
+  "timestamp": "2026-09-25T00:49:44.177456420Z",
+  "model": "glm-5.3"
+}

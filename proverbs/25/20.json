@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "چوش کہ اے کہ سردیءِ روچءَ جاما لہہ کنت، ءُ چوش سرکہ سپیدابءَ سرا، اے کہ بد دلءَ سرا گیتاں وانیت.",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "لہہ ہندوک"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "جاما"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "سردیءِ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "سرکہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "سپیداب"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "ءُ گیت وندوک"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "گیتاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءِ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:50.683959312Z",
+  "model": "glm-5.3"
+}

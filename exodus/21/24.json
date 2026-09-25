@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "چشم پہ چشمءِ جاگہ، دند پہ دندءِ جاگہ، دست پہ دستءِ جاگہ، پا پہ پاءِ جاگہ.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "چشم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پہ … ءِ جاگہ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشم"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دند"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پہ … ءِ جاگہ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دند"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پہ … ءِ جاگہ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پہ … ءِ جاگہ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:09.102301483Z",
+  "model": "glm-5.3"
+}

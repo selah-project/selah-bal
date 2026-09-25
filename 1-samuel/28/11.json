@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ زن گوَشت: ⟨את⟩ کے من آءَ رَ اُشتیں؟ ءُ آءَ گوَشت: ⟨את⟩ شموایل، منیءَ رَ اُشتیں۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "اُشتیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آءَ رَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شموایل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "اُشتیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منیءَ رَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:38:09.950819654Z",
+  "model": "glm-5.3"
+}

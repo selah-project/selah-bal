@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "وہد پہ جننگ، ءُ وہد پہ مرنگ؛ وہد پہ کاشتنگ، ءُ وہد پہ کاشت بوتگیںءَ کنڈنگ۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "پہ جننگ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "למות",
+      "gloss": "پہ مرنگ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "پہ کاشتنگ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "پہ کنڈنگ"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "کاشت بوتگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:39.292437345Z",
+  "model": "glm-5.3"
+}

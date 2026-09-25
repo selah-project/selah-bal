@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "کہ یاہوہ وتی قومءَ انصاف دیت ءُ وتی چاکرانءِ سرءَ رحم کیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "انصاف دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "وتی قومءَ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "وتی چاکرانءِ"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "رحم کیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:08.629868898Z",
+  "model": "glm-5.3"
+}

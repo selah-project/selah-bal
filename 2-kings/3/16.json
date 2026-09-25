@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ آءَ گوَشت: اے طور گوَشت یاہوہ: اے نالءَ بکن، جوئیں جوئیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اے طور"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بکن"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "اے نالءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "جوئیں"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "جوئیں"
+    }
+  ],
+  "timestamp": "2026-09-24T21:08:14.891853950Z",
+  "model": "glm-5.3"
+}

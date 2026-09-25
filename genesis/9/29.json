@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ نوحءِ گیش روچان نہ سد سال ءُ پنچاه سال بیت، ءُ آیی مُت.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوحءِ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ءُ پنچاه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:43.103026435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "آییءِ شوہرءِ دل آییءَ منیت، ءُ غنیمتءَ نہ کمیت۔",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "منیت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "شوہرءِ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ءُ غنیمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کمیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:01.659237307Z",
+  "model": "glm-5.3"
+}

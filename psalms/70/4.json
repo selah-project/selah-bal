@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 70,
+  "translation": "پچا کپنت ⟨کہ⟩ وتے شرمءِ پشتءَ، آ کہ گوَشنت: ہاچ! ہاچ!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "پچا کپنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨کہ⟩ …ءِ پشتءَ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "وتے …ءِ پشتءَ"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "شرم"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "آ کہ گوَشنت"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ہاچ!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ہاچ!"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:49.330013936Z",
+  "model": "glm-5.3"
+}

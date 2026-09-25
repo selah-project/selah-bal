@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "اے چنون اِنت کہ سانچیریب، آشورءِ شاہءَ، گوَشت: پہ چی اے گانیت ءُ یروشلیمءَ تہ گھیراں تہ نشیت؟",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اے چنون"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "سانچیریب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشورءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "گانیت"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "ءُ نشیت"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "تہ گھیراں"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:45:40.117952294Z",
+  "model": "glm-5.3"
+}

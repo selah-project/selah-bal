@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "درگویی گپ زنت ہر مرد ⟨את⟩ وتئے یار؛ چمکاریں لب ءُ دل ءُ دل تہ گپ زنت.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "درگویی"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "گپ زنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر مرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتئے یار"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "وتئے یار"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لب"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "چمکاریں"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل تہ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ءُ دل"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "گپ زنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:47.332209960Z",
+  "model": "glm-5.3"
+}

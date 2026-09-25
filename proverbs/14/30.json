@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "شفا داتگءِ دل گوشتءِ زندگی اِنت، ءُ حسد ہڈانیءِ سڑ اِنت.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "گوشتءِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا داتگ"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "ءُ سڑ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ہڈانیءِ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "حسد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:15.848018657Z",
+  "model": "glm-5.3"
+}

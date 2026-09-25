@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ایلی‌اَب آییءِ زہگ، یروحام آییءِ زہگ، ایلکاناہ آییءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "ایلی‌اَب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یروحام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ایلکاناہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:39.423370036Z",
+  "model": "glm-5.3"
+}

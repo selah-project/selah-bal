@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 145,
+  "translation": "تُہ ⟨את⟩ وتی دست پھاڈئیت ءُ ہر زندہءِ خواہشءَ سیر کنیت.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "پھاڈئیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی دست"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "وتی دست"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "ءُ سیر کنیت"
+    },
+    {
+      "surface": "לכل",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہءِ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خواہش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:59.862206583Z",
+  "model": "glm-5.3"
+}

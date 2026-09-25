@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ⟨את⟩ دو گُرڈے، ءُ ⟨את⟩ چربی کہ اِشانی سر اِنت، کہ کمرءَ تہ اِنت، ءُ ⟨את⟩ جگرءِ پرت — گوں گُرڈیانءَ آییءَ جُدا کنیت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دو گُرڈے"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "گُرڈے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "اِشانی سر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "کمر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "جگرءِ پرت"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "جگرءِ پرت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "گُرڈیان"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "آییءَ جُدا کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:11:37.793003358Z",
+  "model": "glm-5.3"
+}

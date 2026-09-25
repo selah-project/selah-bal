@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "چو کہ یاہوہ تہءِ ایلوہیمءِ نپشت ءُ گندگیں ہست هر کسی کہ اے کار کنت، هر کسی کہ زولی کنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چو کہ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "نپشت ءُ گندگیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تہءِ ایلوہیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کسی کہ کنت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے کار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کسی کہ کنت"
+    },
+    {
+      "surface": "עול",
+      "gloss": "زولی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:19.613874201Z",
+  "model": "glm-5.3"
+}

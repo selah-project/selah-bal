@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "زناکاری ءُ شراب ءُ نوکیں شراب دل لَے گندنت۔",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "زناکاری"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ءُ شراب"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ءُ نوکیں شراب"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "لَے گندنت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-24T22:29:35.996459071Z",
+  "model": "glm-5.3"
+}

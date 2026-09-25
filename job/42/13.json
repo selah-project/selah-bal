@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ بیت آییءَ ہپت زہگان ءُ سئے جنکان.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "جنکان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:32.872902414Z",
+  "model": "glm-5.3"
+}

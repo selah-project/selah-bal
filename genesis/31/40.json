@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 31:40",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "من اویں اَت؛ روچءَ گرمی منی چاشت ءُ شپءَ سرما، ءُ منی شپ چہ منی چشمان روت۔",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "من اَت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "אכלני",
+      "gloss": "چاشت"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "گرمی"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "ءُ سرما"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "ותדד",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "שנתי",
+      "gloss": "منی شپ"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "چہ منی چشمان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:38:31.972853446Z",
+  "model": "glm-5.3"
+}

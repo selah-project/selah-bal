@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آییءِ لشکر، ءُ اِشانی شمار ءُ پنجاہ ہزار ءُ چار سد اِنت.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ءُ آییءِ لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ءُ اِشانی شمار"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": ""
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ءُ پنجاہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ءُ چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:46.004337982Z",
+  "model": "glm-5.3"
+}

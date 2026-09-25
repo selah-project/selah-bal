@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ من تُہءِ زمینءِ شہران کپیت ءُ من تُہءِ سار قلعہان ڈہigt کیت۔",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "ءُ من کپیت"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہران"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "تُہءِ زمینءِ"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "ءُ من ڈہigt کیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سار"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "تُہءِ قلعہان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:37:11.200801025Z",
+  "model": "glm-5.3"
+}

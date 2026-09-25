@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "چابک پہ گہوڑی، لگام پہ گدھی، ءُ عصا پہ کم‌عقلیں مردمانی پُشت.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "چابک"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "پہ گہوڑی"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "لگام"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "پہ گدھی"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ءُ عصا"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "پہ…پُشت"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "کم‌عقلیں مردمانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:15.451412072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ شہر دستانءَ چوڑا ءُ گیش ⟨اَت⟩، پر مردم وتی تہ گچ اَنت، ءُ جوڑ بوتگیں گدی نیستنت۔",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "ءُ شہر"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "چوڑا"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دستانءَ"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ءُ مردم"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "گچ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "وتی تہ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گدی"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "جوڑ بوتگیں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:38.213099387Z",
+  "model": "glm-5.3"
+}

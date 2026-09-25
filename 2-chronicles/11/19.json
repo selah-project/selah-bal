@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ آ وتی زہگان گپتنت ⟨את⟩ یعوش ءُ ⟨את⟩ شمریاہ ءُ ⟨את⟩ زہم.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ گپتنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یعوش"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "یعوش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شمریاہ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شمریاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "زہم"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "زہم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:36:31.873440353Z",
+  "model": "glm-5.3"
+}

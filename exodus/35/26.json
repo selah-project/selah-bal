@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ ہر جنکاں کہ آیانی دل ⟨את⟩ آیانءَ گوں شتانی بلند کت، بزءِ وال کت کت ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "جنکاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "بلند کت"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "آیانی دل"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "آیانءَ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "گوں شتانی"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "کت کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بزءِ وال"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "بزءِ وال"
+    }
+  ],
+  "timestamp": "2026-09-24T19:08:11.735225529Z",
+  "model": "glm-5.3"
+}

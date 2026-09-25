@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ رہت نہ کنیت، پرچا کہ پس ⟨the⟩ خالی چیزیں کہ منفعت نہ دنت ءُ نہ بچاندنت، پرچا کہ خالی اِنت",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "رہت نہ کنیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پس"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "⟨the⟩ خالی چیزیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "منفعت نہ دنت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "بچاند نہ کنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "خالی"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:56:27.345041980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 88,
+  "translation": "آیا قبرءَ تی ہیسید بیان بیت؟ تی راستی ابادونءَ؟",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "آیا بیان بیت"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "قبرءَ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تی ہیسید"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "تی راستی"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "ابادونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:11.614334150Z",
+  "model": "glm-5.3"
+}

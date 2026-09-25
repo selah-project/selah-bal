@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "اے اِنت خدمت زہگانی قہات تہ ملاقاتءِ گدانءَ — مقدس چہ مقدسان،",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قہات"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "تہ … گدانءَ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقاتءِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "چہ مقدسان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:28:31.921691931Z",
+  "model": "glm-5.3"
+}

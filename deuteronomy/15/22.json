@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "وتءِ د_ROMANIءَ تہ آءَ وانوں؛ ناپاک ءُ پاک همگ جوں، چوش کہ آهو ءُ چوش کہ گوزن۔",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "وتءِ د_ROMANIءَ تہ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "آءَ وانوں"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ءُ پاک"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "همگ جوں"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "چوش کہ آهو"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "ءُ چوش کہ گوزن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:39.184898711Z",
+  "model": "glm-5.3"
+}

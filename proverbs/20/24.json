@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "گبرءِ گام چہ یاہوہ اَنت، ءُ آدم چوش وتی راہءَ سمجیت؟",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "چہ یاہوہ"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "گام"
+    },
+    {
+      "surface": "گבר",
+      "gloss": "گبرءِ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ءُ آدم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجیت"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "وتی راہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:56.090980132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ترازو ءُ میزان انصافءِ یاہوہءِ اِنت؛ سار تھلیءِ سنگان آییءِ کار اِنت۔",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "ترازو"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "ءُ میزان"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصافءِ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "آییءِ کار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سار"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "سنگان"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "تھلیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:26.158439486Z",
+  "model": "glm-5.3"
+}

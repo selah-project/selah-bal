@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "کُش ءُ پُت ءُ لُد ءُ گچ گڈ بوتگیں مردم ءُ کُب ءُ عہدءِ زمینی زہگان ⟨את⟩ آیانءِ گوں تیگوءَ ڈگنت.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "کُش"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ءُ پُت"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ءُ لُد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ گچ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "گڈ بوتگیں مردم"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "ءُ کُب"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہدءِ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آیان"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تیگوءَ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈگنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:20:28.732031912Z",
+  "model": "glm-5.3"
+}

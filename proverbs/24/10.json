@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "اگر تو تنگیں روچءَ سُست بیت، تیری زور تنگ اِنت.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "سُست بیت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگیں"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگ"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "تیری زور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:18.472681412Z",
+  "model": "glm-5.3"
+}

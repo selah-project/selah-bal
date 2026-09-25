@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "یاہوہءِ ترس شناختءِ بنگیج ⟨این⟩؛ حکمت ءُ تربیت احمق پست زنت۔",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "بنگیج"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "شناختءِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ءُ تربیت"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "پست زنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:39.648662654Z",
+  "model": "glm-5.3"
+}

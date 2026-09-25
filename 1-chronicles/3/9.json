@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "همگ داودءِ زہگانانت، کنیزاںءِ زہگانانی جتا، ءُ تامار اِشاںءِ خوش.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همگ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانانت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داودءِ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "جتا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانانی"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "کنیزاںءِ"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "ءُ تامار"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "اِشاںءِ خوش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:45.841814942Z",
+  "model": "glm-5.3"
+}

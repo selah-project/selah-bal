@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ⟨את⟩ ارنبت، چوں آ وا چاب کنیت ءُ سُمءَ نہ دوپرہ کتگ، ناپاک آ تُماں پہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ارنبت"
+    },
+    {
+      "surface": "הארنבת",
+      "gloss": "ارنبت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "پدا اَوریت"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "وا چاب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ءُ سُم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "دوپرہ نہ کتگ"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُماں پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:36.995338619Z",
+  "model": "glm-5.3"
+}

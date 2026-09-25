@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 139,
+  "translation": "عجیب ءِ داںش چہ ما ⟨اِنت⟩ — بلند ⟨اِنت⟩، من آییءَ نہ توانیت.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "عجیب"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "داںش"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ ما"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "من توانیت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:32.348637052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ موشہ حکم کت ⟨את⟩ مردمءَ آ روچءَ کہ:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ءُ حکم کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردمءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردمءَ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ تہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:46.201588745Z",
+  "model": "glm-5.3"
+}

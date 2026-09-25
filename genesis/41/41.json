@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "ءُ فرعونءَ یوشفءَ گوَشت: گور! من توءَ ⟨את⟩ پوریں مِتسرایمءِ زمینءِ سرا جاہ دنتگ اَم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعونءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوشفءَ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گور"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "من … دنتگ اَم"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "توءَ ⟨את⟩",
+      "marks": "تو"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:11.283402870Z",
+  "model": "glm-5.3"
+}

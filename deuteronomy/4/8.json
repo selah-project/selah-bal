@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 4:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ کِے مزنین ملت اِنت کہ آییءَ حکمان ءُ دادیاں راستین داریت، چوں گش اے تورا کہ من اے روچ اِشمائی پیشءَ دیم؟",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کِے"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "مزنین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "حکمان"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ءُ دادیاں"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "راستین"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "چوں گش"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "⟨the⟩ تورا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیم"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "اِشمائی پیشءَ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:49:38.663579688Z",
+  "model": "glm-5.3"
+}

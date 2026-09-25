@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "اگہ منءِ پا لرزیت، اے یاہوہ، تُئے ہیسید منءَ تھاب کنیت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگہ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گوَشتُم"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "لرزیت"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "منءِ پا"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تُئے ہیسید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "منءَ تھاب کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:20.796246013Z",
+  "model": "glm-5.3"
+}

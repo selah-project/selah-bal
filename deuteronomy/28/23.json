@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ بیت تُوءِ آسمان، جہ تُوءِ سر ⟨اِنت⟩، مس؛ ءُ ⟨اے⟩ زمین، جہ تُوءَ تہ ⟨اِنت⟩، آہن۔",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "تُوءِ آسمان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "تُوءِ سر"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ءُ زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہ"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "تُوءَ تہ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "آہن"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:16.810728966Z",
+  "model": "glm-5.3"
+}

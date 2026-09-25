@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "منیں دہان حکمتان گوَشکنت، ءُ منیں دلءِ سوچ تہبیتان اِنت۔",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "منیں دہان"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "گوَشکنت"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "حکمتان"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "ءُ سوچ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "منیں دلءِ"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "تہبیتان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:08.180887867Z",
+  "model": "glm-5.3"
+}

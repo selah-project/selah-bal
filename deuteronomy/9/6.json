@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 9:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ تُہ زانت کہ نہ پہ تیئیں راستی یاہوہ تیئا ایلوہیمءَ تُہءَ ⟨את⟩ اے شیرین زمین پہ گرگ مِنت؛ پرچا کہ تُہ یک سخت-گردنءِ قوم اِنت.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ءُ تُہ زانت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "پہ تیئیں راستی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیئا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "مِنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے شیرین زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "شیرین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "پہ گرگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:38.849152634Z",
+  "model": "glm-5.3"
+}

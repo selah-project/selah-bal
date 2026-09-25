@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ اِمروز، اے یاہوہ، منی جان ⟨את⟩ چہ من بگر، پرچا کہ منی مرنگ چہ منی زندگیءَ چنگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِمروز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بگر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منی جان"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جان"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "منی مرنگ"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "چہ منی زندگیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:37:59.149678550Z",
+  "model": "glm-5.3"
+}

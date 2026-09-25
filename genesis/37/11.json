@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ آییءِ براتان آءُ ءَ رشک کتنت؛ بلے آییءِ پپ ⟨את⟩ گالءَ محفوظ کت۔",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ءُ رشک کتنت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آءُ ءَ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "آییءِ براتان"
+    },
+    {
+      "surface": "ואביو",
+      "gloss": "ءُ آییءِ پپ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "محفوظ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گالءَ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گالءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:35.388426437Z",
+  "model": "glm-5.3"
+}

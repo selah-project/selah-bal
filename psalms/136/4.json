@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 136,
+  "translation": "آ جنئے وتئے گیش عجیب کاران کنتءَ، کیجءَ ابدءَ وتئے ہیسید اِنت۔",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "آ جنئے کنتءَ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "عجیب کاران"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "לבדو",
+      "gloss": "وتئے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیجءَ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ابدءَ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "وتئے ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:35.044227894Z",
+  "model": "glm-5.3"
+}

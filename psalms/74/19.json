@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "تُری کُکُڑءِ جان جانورءَ نہ دِے؛ تُری غریبانءِ جان پہ ہمیشہ نہ بُھل۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دِے"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "پہ جانورءَ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "تُری کُکُڑءِ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "تُری غریبانءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "بُھل"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:36.975060419Z",
+  "model": "glm-5.3"
+}

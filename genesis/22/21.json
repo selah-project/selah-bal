@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "⟨את⟩ عوض وتی اولی زاگ، ءُ ⟨את⟩ بوز وتی برات، ءُ ⟨את⟩ کموایل ارمءِ پِت۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوض"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوض"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "وتی اولی زاگ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "بوز"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "وتی برات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کموایل"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "کموایل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پِت"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:20.687741262Z",
+  "model": "glm-5.3"
+}

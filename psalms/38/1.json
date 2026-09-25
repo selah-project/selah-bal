@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "گوَنی پہ داود ⟨موسیٰ⟩، پہ یاد گرگءِ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "گوَنی"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داود"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "پہ یاد گرگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:10.238983002Z",
+  "model": "glm-5.3"
+}

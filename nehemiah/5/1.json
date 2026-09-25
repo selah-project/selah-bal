@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ مردم ءُ ءِشانی زنانءِ منڈ گیش بوت، ءِشانی براتانءَ پہ، آ یہودی اَنت۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "منڈ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ءُ ءِشانی زنان"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ءِشانی براتانءَ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:06.041115261Z",
+  "model": "glm-5.3"
+}

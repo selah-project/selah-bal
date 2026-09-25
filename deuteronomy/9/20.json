@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ یاہوہ آہارونءِ سرءَ گیش غضب کت کہ آیءَ نیست کنت؛ ءُ مان ہمے وہدءَ آہارونءِ پہ دعا کت.",
+  "tokens": [
+    {
+      "surface": "ובאהרן",
+      "gloss": "ءُ آہارونءِ سرءَ"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "غضب کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "להשמידו",
+      "gloss": "کہ آیءَ نیست کنت"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ءُ مان دعا کت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ءِ پہ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "آہارون"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "وہدءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ہمے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:06.814468371Z",
+  "model": "glm-5.3"
+}

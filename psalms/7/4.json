@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اے یاہوہ، مئں ایلوہیم، اگر من اے کار کت، اگر مئں ہستانءَ زالمی اِنت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "مئں ایلوہیم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "من کت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے کار"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יש",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "עול",
+      "gloss": "زالمی"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "مئں ہستانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:11.502588502Z",
+  "model": "glm-5.3"
+}

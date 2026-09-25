@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ شش سال توئی زمینءَ تو کنیں ءُ ⟨את⟩ آییءِ حاصلءَ جمع کنیں۔",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "تو کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توئی زمینءَ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "توئی زمین"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ءُ جمع کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ حاصلءَ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "آییءِ حاصل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:08.187349500Z",
+  "model": "glm-5.3"
+}

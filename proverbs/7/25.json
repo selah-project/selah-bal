@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "نہ لٹیت دلءَ تہ چیر آییءِ راہاں، نہ گمراہ بیت آییءِ ٹپاں تہ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "لٹیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چیر"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "آییءِ راہاں"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دلءَ تہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "گمراہ بیت"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "آییءِ ٹپاں تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:32.607282999Z",
+  "model": "glm-5.3"
+}

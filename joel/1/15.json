@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "آہ پہ اے روچ! پرچا کہ یاہوہءِ روچ نزیک اِنت، ءُ چوش کہ شَد چہ شدّای روت.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "آہ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "پہ اے روچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزیک اِنت"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "ءُ چوش کہ شَد"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "چہ شدّای"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "روت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:33:18.363727509Z",
+  "model": "glm-5.3"
+}

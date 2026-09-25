@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "شکست بوت شہر تہوءِ، بند بوت ہر گدان چہ درآمدءَ.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "شکست بوت"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "تہو"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بند بوت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "چہ درآمدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:10.506066030Z",
+  "model": "glm-5.3"
+}

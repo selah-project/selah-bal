@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ ⟨את⟩ موآبءَ مار کت، ءُ موآبی بوتنت داودءِ غلامان، پیشکشءِ برچگۆ۔",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "مار کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآبءَ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "بوتنت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآبی"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلامان"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "پہ داودءِ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "برچگۆ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "پیشکش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:28:47.233627477Z",
+  "model": "glm-5.3"
+}

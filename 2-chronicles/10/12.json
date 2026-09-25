@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 10:12",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ یروبام ءُ گیش قوم سئیمی روچءَ پہ رحبامءَ آوت، چوش کہ بادشاہءَ گوَشت کہ: سئیمی روچءَ پدا منءَ آئو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آوت"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یروبام"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبام"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "سئیمی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "پدا آئو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "سئیمی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:37:33.973204182Z",
+  "model": "glm-5.3"
+}

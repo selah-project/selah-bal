@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 80,
+  "translation": "جنگلءِ خوک آییءَ گرم کنت، ءُ میدانءِ کشوک آییءَ چردنت.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "آییءَ گرم کنت"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "خوک"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "جنگلءِ"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ءُ کشوک"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "میدانءِ"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "آییءَ چردنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:12.064134123Z",
+  "model": "glm-5.3"
+}

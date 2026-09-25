@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یہوشفات ڈرس ءُ ⟨את⟩ وتی منز پہ یاہوہءِ پرسءَ داد؛ ءُ پہ گشی یہوداہءِ سرءَ روزہءِ بانگ کت.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ ڈرس"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ داد"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یہوشفات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی منز"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وتی منز"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "پہ پرسگ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "צום",
+      "gloss": "روزہءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ …ءِ سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گشی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:40:59.987470508Z",
+  "model": "glm-5.3"
+}

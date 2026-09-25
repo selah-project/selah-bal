@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "جہاں گاوان نیستنت، واہی پاک اِنت؛ ءُ گوں گاوءِ زورءَ گیش درآمد اِنت.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "جہاں … نیست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "گاوان"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "واہی"
+    },
+    {
+      "surface": "בר",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "درآمد"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "گوں زورءَ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گاوءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:50.466584312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 85,
+  "translation": "پہ رہبر پہ قورحءِ زہگان ءِ پہ یک مزمور",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہبر"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پہ زہگان"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:08.389262090Z",
+  "model": "glm-5.3"
+}

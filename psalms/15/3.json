@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "وتی زبانءَ گوں بدگویی نہ کنیت، وتی ہمسایہءَ گندی نہ کنیت، ءُ وتی نزدیکیءَ سر بی‌عزتی نہ چکیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "بدگویی کنیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "وتی زبانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "وتی ہمسایہءَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "گندی"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "ءُ بی‌عزتی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چکیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "وتی نزدیکیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:28.785746992Z",
+  "model": "glm-5.3"
+}

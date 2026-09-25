@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "اے رَ ہچ کشت نہ کن ⟨اَشیرا⟩، ہر دار، یاہوہءِ قربانگاہءِ رَنڑیکءَ — اے تُءِ ایلوہیم — کہ اے وتءَ پہ جوڑ کنیں",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "کشت کن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اے رَ"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "اَشیرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "رَنڑیکءَ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانگاہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُءِ ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "جوڑ کنیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وتءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:05.246215781Z",
+  "model": "glm-5.3"
+}

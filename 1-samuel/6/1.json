@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "اَت یاہوہءِ صندوق فلستانی میدانءَ ہپت ماہ۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "میدانءَ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستانی"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ماہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:28:25.755160938Z",
+  "model": "glm-5.3"
+}

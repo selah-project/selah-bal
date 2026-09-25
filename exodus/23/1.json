@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "بے بنیادءِ گال نہ بلند کن؛ تویءِ دست گوں زالم نہ جن کہ زلمءِ گواہ بیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "بلند کن"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گال"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بے بنیادءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "جن"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تویءِ دست"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "زالم"
+    },
+    {
+      "surface": "להית",
+      "gloss": "کہ بیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زلمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:39.886093244Z",
+  "model": "glm-5.3"
+}

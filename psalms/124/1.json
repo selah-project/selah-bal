@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 124,
+  "translation": "پرزنتانیں گانی، داودءِ۔ اگر نہ یاہوہ ہست بوت پہ ما — یسرائیل اِشا بوگیت۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گانی"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "پرزنتانیں"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "اگر نہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ہست بوت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "پہ ما"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "بوگیت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اِشا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:23.911374001Z",
+  "model": "glm-5.3"
+}

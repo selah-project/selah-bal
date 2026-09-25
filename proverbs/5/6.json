@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "زندگیءِ راہ — پہ آ نہ ترازو کنت؛ آییءِ واں واڑیت بیت، نہ زاننت۔",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیءِ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "پہ آ نہ"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ترازو کنت"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "واڑیت بیت"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "آییءِ واں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "زاننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:26.598570942Z",
+  "model": "glm-5.3"
+}

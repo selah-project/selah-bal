@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "چہ اولی ماہءَ، چار دہمی روچءِ ماہءَ، گمشانی درمیانءَ، پسح پہ یاہوہ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "چہ ماہءَ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "اولی"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "پہ ماہ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "درمیان"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "گمشاں"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:50.097450699Z",
+  "model": "glm-5.3"
+}

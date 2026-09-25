@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آیا دو یکجا رونت، بے اے کہ اِشاں وت لگا بوتگ بنت؟",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "آیا رونت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اے کہ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "وت لگا بوتگ بنت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:06:53.476235690Z",
+  "model": "glm-5.3"
+}

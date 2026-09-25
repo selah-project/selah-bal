@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 97,
+  "translation": "آتش آییءِ پیشءَ روت ءُ آییءِ دشمنانءَ چوڑءَ سوزانیت۔",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "آییءِ پیشءَ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "ءُ سوزانیت"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڑءَ"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "آییءِ دشمنانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:48.634439041Z",
+  "model": "glm-5.3"
+}

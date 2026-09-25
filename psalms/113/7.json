@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 113,
+  "translation": "اَتے دل چہ گرد اُستاونیت، ءُ لاچاراں چہ کوڑمہانی بلند کنیت،",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "اَتے اُستاونیت"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "چہ گرد"
+    },
+    {
+      "surface": "דל",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "چہ کوڑمہانی"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "بلند کنیت"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "لاچار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:58.327321971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "نہمی پہ مَلّوتی، آییءِ زہگان ءُ آییءِ براتان دو ءُ دہ اَنت۔",
+  "tokens": [
+    {
+      "surface": "לתשעה",
+      "gloss": "نہمی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "نہمی (ءِ دہمی حصہ)"
+    },
+    {
+      "surface": "למלותי",
+      "gloss": "پہ مَلّوتی"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "آییءِ زہگان"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ءُ آییءِ براتان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ءُ دہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:14.886150892Z",
+  "model": "glm-5.3"
+}

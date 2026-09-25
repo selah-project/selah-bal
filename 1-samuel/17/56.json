@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ شاہءَ گوَشت: تو پُرس کہ اے نوجوان کےءِ زہگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءَ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پُرس"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کےءِ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "نوجوان"
+    }
+  ],
+  "timestamp": "2026-09-24T20:33:41.215159473Z",
+  "model": "glm-5.3"
+}

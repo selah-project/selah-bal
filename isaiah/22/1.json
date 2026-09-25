@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "درہءِ دیدارءِ بار۔ توءَ اِشکا چُرائت کہ تو، گیش تو، چتانءَ سر بوتگ اِنت؟",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "درہ"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "دیدارءِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چُرائت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "اِشکا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "سر بوتگ اِنت"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "گیش تو"
+    },
+    {
+      "surface": "لגגות",
+      "gloss": "چتانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:27:56.681466492Z",
+  "model": "glm-5.3"
+}

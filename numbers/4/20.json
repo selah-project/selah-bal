@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ نہ رَونت پہ گندگ چوش بلَئیں ⟨את⟩ قدشءَ، ءُ مُرنت۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "رَونت"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "پہ گندگ"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "چوش بلَئیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قدش"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "قدش"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ءُ مُرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:28:44.906557516Z",
+  "model": "glm-5.3"
+}

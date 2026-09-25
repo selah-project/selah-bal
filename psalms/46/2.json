@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "ایلوہیم مءِ پناہ ءُ زور ⟨اِنت⟩، تنگستیاںءَ مددی کہ ءُ چون گیش لبز بیت.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "مءِ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناہ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ءُ زور"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "تنگستیاںءَ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "لبز بیت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "چون گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:58.855650718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 6:8",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ من آییءَ پیش کت کہ: اے گالان چوش نہ بیتگ اَنت کہ تو گوَشئے، بلے تو اِشاں چہ وتی دلءَ گپت اَنت۔",
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "ءُ پیش کت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "بیتگ"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "چوں اے گالان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "گوَشئے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "چہ وتی دلءَ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בודאם",
+      "gloss": "گپت اَنت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:14.940023049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "تو وتی آسبیانءَ گوں دریا تہ پوت کت، گیشتر آپانی گار",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "پوت کت"
+    },
+    {
+      "surface": "בים",
+      "gloss": "دریا تہ"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "وتی آسبیانءَ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "گار"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپانی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیشتر"
+    }
+  ],
+  "timestamp": "2026-09-24T22:41:38.290165495Z",
+  "model": "glm-5.3"
+}

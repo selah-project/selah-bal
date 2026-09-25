@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "کی ماروتءِ وتھوک پہ خوبی تڑپیت، کی بدی چہ ⟨את⟩ یاہوہ یروشلمءِ دروازءَ ءَ دالرتیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "تڑپیت"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "پہ خوبی"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "وتھوک"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "ماروت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "دالرتیت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "چہ ⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "پہ دروازءَ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    }
+  ],
+  "timestamp": "2026-09-25T01:07:48.712775934Z",
+  "model": "glm-5.3"
+}

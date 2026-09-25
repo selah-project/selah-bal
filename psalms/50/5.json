@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "مے ہیسیدانءَ منیءَ گڈ کر، اے کہ مے عہد قربانیءِ سرءَ کورءَنت۔",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "گڈ کر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منیءَ"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "مے ہیسیدان"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "کورءَنت"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "مے عہد"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:30.341066720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ فرعونءَ وتی دلءَ ⟨את⟩ گران کت، ہمے رندءَ هم؛ ءُ ⟨את⟩ قومءَ رہا نہ کت۔",
+  "tokens": [
+    {
+      "surface": "ויכבد",
+      "gloss": "ءُ گران کت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعونءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دلءَ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "وتی دل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "رندءَ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "رہا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:53:54.395684239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "یاہوہ سیلابی آپءَ نشست ءُ یاہوہ بادشاہءِ چوں پہ ہمیشہ نشست.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "سیلابی آپءَ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "نشست"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ءُ نشست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہءِ چوں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:29.026212123Z",
+  "model": "glm-5.3"
+}

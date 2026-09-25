@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 86,
+  "translation": "چوں توءِ ہیسد منءِ سرءَ گیش اِنت، ءُ تو منءِ نپش چہ شیئولءِ ژیراں رہا کت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "توءِ ہیسد"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءِ سرءَ"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "ءُ تو رہا کت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منءِ نپش"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "چہ شیئول"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ژیراں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:27.222307603Z",
+  "model": "glm-5.3"
+}

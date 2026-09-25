@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ گوَشت مءَ: اے زہگئے آدم، دیوارءَ کوٹ اَتاں؛ ءُ منءَ دیوارءَ کوٹ کت ءُ اے نیمت یک درواز۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگئے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "کوٹ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اَتاں"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "دیوارءَ"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "ءُ منءَ کوٹ کت"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "دیوارءَ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ اے نیمت"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "درواز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:10:12.238822797Z",
+  "model": "glm-5.3"
+}

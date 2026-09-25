@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "آ رخس کت تنہا گوشوکءِ دعاءَ ور، ءُ ⟨את⟩ اِشانءِ دعاءَ بے وقار نہ کت۔",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "رخس کت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ور"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "…ءِ دعا"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "تنہا گوشوک"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "بے وقار کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِشانءِ دعاءَ"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "اِشانءِ دعاءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:03.032276908Z",
+  "model": "glm-5.3"
+}

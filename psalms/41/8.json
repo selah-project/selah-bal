@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "یکجا مہءِ سرءَ چمچم کننت تمام مہ دشمنان؛ مہءِ سرءَ مہ بابت شر سوجنت۔",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مہءِ سرءَ"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "چمچم کننت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "مہ دشمنان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مہءِ سرءَ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "سوجنت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مہ بابت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:37.386011954Z",
+  "model": "glm-5.3"
+}

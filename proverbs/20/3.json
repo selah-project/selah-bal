@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "دشمنیءَ باز داشتن یک مردءِ آبرو ⟨اِنت⟩؛ بلے ہر نادان جھیڑا کنیت۔",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "آبرو"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "مردءِ پہ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "باز داشتن"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "دشمنی چہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "جھیڑا کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:24.339464075Z",
+  "model": "glm-5.3"
+}

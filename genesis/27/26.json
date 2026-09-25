@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ اِسحاق، آییءِ پِت، آییءَ گوَشت: ہنۓ نزیک بہ ءُ منءَ چوم دی، اے زہگءَ من۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اِسحاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آییءِ پِت"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "نزیک بہ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہنۓ"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "ءُ چوم دی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اے زہگءَ من"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:53.747749766Z",
+  "model": "glm-5.3"
+}

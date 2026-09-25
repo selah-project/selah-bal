@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ تُءِ ڈاتگان ءُ تُءِ منصفان درآوتنت ءُ اے شارانی پیمائش کننت کہ کشتگءِ چوکن اَنت۔",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ءُ درآوتنت"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "تُءِ ڈاتگان"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "ءُ تُءِ منصفان"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "ءُ پیمائش کننت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائے"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "اے شارانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "چوکن"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "کشتگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:44.863389026Z",
+  "model": "glm-5.3"
+}

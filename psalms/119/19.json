@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "من مہمان اِنت ⟨تہ⟩ زمینءَ؛ تری حکمان چہ من پاک مکن۔",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "مہمان"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ماں زمینءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "پاک مکن"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ من"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تری حکمان"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:41.786519550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 57:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 57,
+  "translation": "کن کسیے تہ مزاح کلت؟ کن کسیے تہ دہانہ موٹ کنت ءُ زبان دراز کنت؟ آیا شما نہ انت گناہءِ زہگان، دروغءِ تہگ؟",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کسے"
+    },
+    {
+      "surface": "תתענגו",
+      "gloss": "مزاح کلت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کسے"
+    },
+    {
+      "surface": "תרחיבו",
+      "gloss": "دہانہ موٹ کنت"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دہانہ"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "زبان دراز کنت"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "آیا نہ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "گناہءِ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تہگ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:39:38.112613181Z",
+  "model": "glm-5.3"
+}

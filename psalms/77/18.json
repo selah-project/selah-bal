@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "زلمیں ابران آپ گاڑت، آسمانان بانگ دنت؛ بلکہ تیری چیکاں روتنت۔",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "گاڑت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "زلمیں ابران"
+    },
+    {
+      "surface": "קול",
+      "gloss": "بانگ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دنت"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "تیری چیکاں"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "روتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:40.393057262Z",
+  "model": "glm-5.3"
+}

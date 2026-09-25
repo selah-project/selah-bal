@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ کاهن چہ تیلءِ لاگءَ گرنت ءُ شُنت تہ کاهنءِ چپ ہتءِ کُلابیءَ.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ءُ گرنت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "چہ لاگ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیلءِ"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ءُ شُنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتءِ کُلابی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهنءِ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "چپ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:44.916227580Z",
+  "model": "glm-5.3"
+}

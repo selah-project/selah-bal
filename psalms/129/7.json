@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 129,
+  "translation": "کہ درو کنوک آییءِ دست پُر نہ کیت، ءُ گڈار آییءِ کول پُر نہ کیت۔",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پُر کیت"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "دست"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "درو کنوکءِ"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ءُ آییءِ کول"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "گڈار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:55.074253553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "پرچا کہ یک دلءَ گوں ہمدگ مشورت کتنت، مزنءَ تُہ عہد بستنت:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "مشورت کتنت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یک دلءَ گوں ہمدگ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "مزنءَ تُہ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "بستنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:26.874628670Z",
+  "model": "glm-5.3"
+}

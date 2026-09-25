@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ہر وہدءَ دوستے دوست ئے، ءُ بِرادر پہ مُشکلءَ زائییت بیت۔",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ہر وہدءَ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوستے دوست ئے"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "دوست"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "ءُ بِرادر"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "پہ مُشکلءَ"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "زائییت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:44.824969387Z",
+  "model": "glm-5.3"
+}

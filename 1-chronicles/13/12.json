@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ داؤد اے روچءَ ایلوہیمءَ ⟨את⟩ ڈل کت، ءُ گوَشت: چوں ⟨את⟩ ایلوهیمءِ صندوقءَ وتیءَ آور کنّاں؟",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ڈل کت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوهیمءَ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اے روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "היך",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "آور کنّاں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "وتیءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوقءَ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوهیمءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:27:12.267632383Z",
+  "model": "glm-5.3"
+}

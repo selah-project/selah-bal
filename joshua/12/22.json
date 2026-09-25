@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "کدشءِ بادشاہ، یک؛ کرملءِ یکنامءِ بادشاہ، یک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "کدشءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "یکنام"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "کرملءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:13.067053786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 21:30",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ توئے چیک بوتگیں بدکار، یسرائیلءِ سردار، آییں روچ آتگ اِنت، گنہءِ وہدءِ انتءَ۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ توئے"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "چیک بوتگیں"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتگ"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "آییں روچ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "وہدءَ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گنہءِ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "انت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:16:07.998048559Z",
+  "model": "glm-5.3"
+}

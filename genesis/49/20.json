@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "چہ اَشیرءَ آییءِ نان چرب اِنت، ءُ آ شاہیں لذتاں دیت۔",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "چہ اَشیرءَ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "چرب"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "آییءِ نان"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "لذتاں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہیں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:49:43.690708412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "دعا پہ حَبَقّوق پیغمبر، اے اُونداں پہ اُودی شِگیونَتءَ۔",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "پہ حَبَقّوق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُونداں اُودی"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "شِگیونَتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:41:28.953636640Z",
+  "model": "glm-5.3"
+}

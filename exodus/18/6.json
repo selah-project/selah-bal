@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ آییءَ موشہءَ گوَشت: من تُءِ سالس یترو تُءَ اَمہ روتاں، ءُ تُءِ زنک ءُ آییءِ دو زہگ گوں آ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "تُءِ سالس"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "یترو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اَمہ روتاں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تُءَ"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ءُ تُءِ زنک"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "گوں آ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:57:52.396863902Z",
+  "model": "glm-5.3"
+}

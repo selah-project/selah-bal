@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "مں چم چہ غمءَ تہ کمزور بیت، ءُ چہ سراں مں دشمنانءَ تہ بُڑ وَٹ بیت.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "کمزور بیت"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "غمءَ تہ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "مں چم"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "بُڑ وَٹ بیت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سراں مں"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "دشمنان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:02.862652069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آییءَ پہ ہپت زہگان ءُ سئے جنکان زائنت.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "ءُ زائنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "جنکان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:32:30.415839597Z",
+  "model": "glm-5.3"
+}

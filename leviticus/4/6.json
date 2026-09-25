@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ کاہن ءُ اِیءِ آنگوتءَ خونءَ تہ تر کنت، ءُ چہ خونءَ ہپت وار یاہوہءِ پیشءَ، پاکءِ پردہءِ رُوءِ تہ، پاشیت کنت۔",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ءُ تر کنت"
+    },
+    {
+      "surface": "הכהن",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِیءِ آنگوت"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "اِیءِ آنگوت"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "خونءَ تہ"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ءُ پاشیت کنت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خونءَ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "وار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ تہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُوءِ"
+    },
+    {
+      "surface": "پرכת",
+      "gloss": "پردہءِ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:50.852650975Z",
+  "model": "glm-5.3"
+}

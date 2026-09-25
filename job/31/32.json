@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "باہرا غریب شپ نہ گرگ — من منی دروازہ رہروءَ کول کت.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "باہرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "شپ گرگ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "منی دروازہ"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "رہروءَ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "کول کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:41:44.019418574Z",
+  "model": "glm-5.3"
+}

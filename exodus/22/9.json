@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 22:9",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "چو کہ یک مرد وتی سوبےءَ گوہٹ ءُ گا ءُ ماہیگ ءُ ہر مال پہ محافظت دیت، ءُ آ مرت، یا شکانیت، یا لٹک بیت — کسے نہ گندیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چو کہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "وتی سوبے"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "گوہٹ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گا"
+    },
+    {
+      "surface": "או",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ماہیگ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "پہ محافظت"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ءُ آ مرت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "شکانیت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "لٹک بیت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "کسے گندیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:09.685208252Z",
+  "model": "glm-5.3"
+}

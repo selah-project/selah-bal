@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ من گیش بوتوم ءُ چہ ہمگ کہ مے پیشءَ ماں یروشلم اَت وتی ودی کتوم؛ بلکہ منءِ دانائی مے نال اَت.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "ءُ گیش بوتوم"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "ءُ وتی ودی کتوم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہمگ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "کہ اَت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مے پیشءَ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ماں یروشلم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "منءِ دانائی"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "اوشتت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مے نال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:46.072830018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 81,
+  "translation": "پہ پیشوا، گیتیتءِ سازءَ سرءَ، آسافءِ پہ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گیتیت"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آسافءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:40.741521249Z",
+  "model": "glm-5.3"
+}

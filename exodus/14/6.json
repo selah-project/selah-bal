@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ وتی گاڑیءَ چست کت، ءُ ⟨את⟩ وتی قومءَ گوں وتی گِشت.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "ءُ چست کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی گاڑیءَ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "وتی گاڑی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "وتی قومءَ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "وتی قوم"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گِشت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:55:34.961843026Z",
+  "model": "glm-5.3"
+}

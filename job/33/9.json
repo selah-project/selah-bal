@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "پاکیں این من، بے سرکشی؛ پاکیں این من، ءُ منءَ چُک گناه نیست.",
+  "tokens": [
+    {
+      "surface": "זַךְ",
+      "gloss": "پاکیں این"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "من"
+    },
+    {
+      "surface": "בְּלִי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "פֶּשַׁע",
+      "gloss": "سرکشی"
+    },
+    {
+      "surface": "חַף",
+      "gloss": "پاکیں این"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "من"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "עָוֺן",
+      "gloss": "چُک گناه"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "منءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:40:53.917527677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "بدکارءِ جان بد چاہیت؛ آییءِ رفیق آییءِ چشانی تہءَ رحمت نہ لبیت.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکارءِ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "چاہیت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "رحمت لبیت"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "آییءِ چشانی تہءَ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "آییءِ رفیق"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:31.520471141Z",
+  "model": "glm-5.3"
+}

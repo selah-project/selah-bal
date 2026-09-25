@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "گوں مئے لبزان زکر کتگ تُئے دہانءِ سار فیصلہ.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "گوں مئے لبزان"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "زکر کتگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سار"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تُئے دہان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:43.782992524Z",
+  "model": "glm-5.3"
+}

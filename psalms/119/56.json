@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "اے منی پہ بوت، پرچا کہ منی تنت فرمان ریت.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی پہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "تنت فرمان"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "منی ریت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:43.668131273Z",
+  "model": "glm-5.3"
+}

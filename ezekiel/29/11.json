@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "آدمءِ پیر آییءَ نہ گرنت، ءُ مالءِ پیر آییءَ نہ گرنت، ءُ آ چالیس سال نہ آباد بیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "ءُ پیر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مالءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "آباد بیت"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-24T22:20:49.702246268Z",
+  "model": "glm-5.3"
+}

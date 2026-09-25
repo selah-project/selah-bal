@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ اَدایہ ءُ بِرایہ ءُ شِمرات — شِمعیءِ زہگان.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "ءُ اَدایہ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "ءُ بِرایہ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ءُ شِمرات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعیءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:55.753913908Z",
+  "model": "glm-5.3"
+}

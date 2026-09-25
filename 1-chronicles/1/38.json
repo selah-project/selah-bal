@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ سعیرءِ زہگان: لوتن، ءُ شوبل، ءُ سیبون، ءُ عناہ، ءُ دیشن، ءُ عیزر، ءُ دیشان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگان"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتن"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ءُ شوبل"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "ءُ سیبون"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "ءُ عناہ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ءُ دیشن"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "ءُ عیزر"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ءُ دیشان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:25.128778532Z",
+  "model": "glm-5.3"
+}

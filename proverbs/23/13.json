@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "زہگءَ چہ تربیت نہ رھنڈیت، پرچا کہ تو آییءَ گوں عصا زنی، آ نہ مریت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "رھنڈیت"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "چہ زہگءَ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "تو آییءَ زنی"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "گوں عصا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مریت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:19.665768793Z",
+  "model": "glm-5.3"
+}

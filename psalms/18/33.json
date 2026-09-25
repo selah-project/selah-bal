@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ایلی کہ ماںءَ زورءَ گوں کمربندیءَ آرایت، ءُ ماںءِ رہءَ کامل کت۔",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "کہ ماںءَ کمربند کنت"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ماںءِ رہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:20.814392255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ یعقوب چہ بیر شبعءَ روت ءُ حارانءَ لنگیت۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "چہ بیر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبعءَ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "لنگیت"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "حارانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:35.321891035Z",
+  "model": "glm-5.3"
+}

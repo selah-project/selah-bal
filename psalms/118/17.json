@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "نہ مراں، پرچا کہ زندگ بیت، ءُ راستیءِ کاراں یاہءِ منءَ پیش کناں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مراں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "زندگ بیت"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "ءُ پیش کناں"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کاراں … منءَ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:05.087335032Z",
+  "model": "glm-5.3"
+}

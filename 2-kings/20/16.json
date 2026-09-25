@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یِشایاہو حِزقیاہءَ گوَشت: گوش یاہوہءِ گالءَ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشایاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پیش"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:18:34.299773672Z",
+  "model": "glm-5.3"
+}

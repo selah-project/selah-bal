@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ حصرونءِ زہگان کہ آییءَ زائیتنت ⟨את⟩ یَرَحمایل ءُ ⟨את⟩ رام ءُ ⟨את⟩ کلوُبای.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ …ءِ زہگان"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "زائیتنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَرَحمایل"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یَرَحمایل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "رام"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کلوُبای"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "کلوُبای"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:47.033004732Z",
+  "model": "glm-5.3"
+}

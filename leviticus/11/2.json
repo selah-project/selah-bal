@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "بگوَشت ئسرائیلءِ زہگانءَ پہ، کہ اے ⟨ہے⟩ جانور اِنت کہ تسی چہ ہر مال کہ زمینءِ سرءَ اِنت، بئوژیت۔",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "بگوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بئوژیت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہر"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:56.283184431Z",
+  "model": "glm-5.3"
+}

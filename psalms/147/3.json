@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 147,
+  "translation": "دلیں شکستگاںءَ شفا دیت ءُ اِشانیں زخمانءَ بند کیت۔",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "شفا دیت"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "شکستگاںءَ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلیں"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ءُ بند کیت"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "ایشانیں زخمانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:10.490601987Z",
+  "model": "glm-5.3"
+}

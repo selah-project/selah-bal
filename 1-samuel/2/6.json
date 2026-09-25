@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "یاہوہ مرانیت ءُ جان دیت، شیئولءَ چیر کَتائیت ءُ سوُزائیت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "مرانیت"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "ءُ جان دیت"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "چیر کَتائیت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیئولءَ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ءُ سوُزائیت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:24:53.834730621Z",
+  "model": "glm-5.3"
+}

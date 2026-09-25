@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 22:15",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ توءِ گوں گیشیءَ کارکنان ءُ کارءِ، تراشنان ءُ سنگ ءُ دارءِ دستکاران، ءُ ہر دانا ہر کارءَ.",
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "ءُ توءِ گوں"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "گیشیءَ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "کارکنان"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کارءِ"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "تراشنان"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "ءُ دستکاران"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگ ءُ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "دارءِ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کارءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:31:21.628830714Z",
+  "model": "glm-5.3"
+}

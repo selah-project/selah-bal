@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "ءُ آییءَ ⟨את⟩ ایپھود جوڑ کت — زر، تھزرنگ ءُ سرمیں ءُ کرمءِ سور رنگ ءُ ملتان تِلّیں کتّی.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایپھود"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ایپھود"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "تھزرنگ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ءُ سرمیں"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ءُ کرم"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سور"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ءُ کتّی"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ملتان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:15.485398750Z",
+  "model": "glm-5.3"
+}

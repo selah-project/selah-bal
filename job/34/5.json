@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "کہ اِیوَبءَ گوَشت، «من راست اِم، ءُ ایل مُءِ انصاف دوری کت۔»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اِیوَب"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "من راست اِم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ ایل"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "دوری کت"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "مُءِ انصاف"
+    }
+  ],
+  "timestamp": "2026-09-24T23:42:42.062331437Z",
+  "model": "glm-5.3"
+}

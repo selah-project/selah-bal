@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "شانءِ تخت، چہ اولیں ⟨چہ⟩ بنگیج بلند، منزلیں جاگہ ءُ منی پاک جاگہ۔",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شانءِ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "چہ اولیں"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "منی پاک جاگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:46.539285275Z",
+  "model": "glm-5.3"
+}

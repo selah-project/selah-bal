@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "آ شپءَ تہ بیلشَتسر، کَلدانیانی بادشاہ، کوشتگ بوت۔",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "شپءَ تہ"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "کوشتگ بوت"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "بیلشَتسر"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "کَلدانیانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:59:43.494799688Z",
+  "model": "glm-5.3"
+}

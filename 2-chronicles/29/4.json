@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ کاہنان ⟨את⟩ ءُ لویان ⟨את⟩ آورت ءُ آیانءَ مشرقیں روڈءَ جم کت۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آورت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہنان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "لویان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویان"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "ءُ آیانءَ جم کت"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "مشرقیں روڈءَ"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "مشرقی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:44:06.776677281Z",
+  "model": "glm-5.3"
+}

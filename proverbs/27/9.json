@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "تیل ءُ خوشبو دلءَ شاد کننت، ءُ یاریءِ شیرینی چہ نپسءِ مشورت ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "ءُ خوشبو"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد کنیت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "ءُ شیرینی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "یاریءِ"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "چہ مشورت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نپسءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:39.569778650Z",
+  "model": "glm-5.3"
+}

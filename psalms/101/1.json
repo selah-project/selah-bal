@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 101,
+  "translation": "داودءِ مز مور۔ ہیسید ءُ انصافءَ گوانیں پہ تہ، اے یاہوہ، سراوانی کنیں۔",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مز مور"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ہیسید"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ءُ انصاف"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "گوانیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "سراوانی کنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:16.199458991Z",
+  "model": "glm-5.3"
+}

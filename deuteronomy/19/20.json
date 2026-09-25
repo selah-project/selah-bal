@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ وانگ بوتگان گوشنت ءُ ڈرنت، ءُ نہ ہور کننت ود پہ کنگ چوش اے بد تئے میانءَ۔",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "ءُ وانگ بوتگان"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ءُ ڈرنت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "ہور کننت"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "پہ کنگ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ود"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تئے میانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:54.074161792Z",
+  "model": "glm-5.3"
+}

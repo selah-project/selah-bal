@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ آیءَ مگءَ ماں ⟨اے⟩ جاگہ آے آورد، ءُ آیءَ مگءَ ⟨את⟩ ⟨اے⟩ زمین آے دات — زمین کہ شیر ءُ شہد روان بیت۔",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "ءُ آورد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨اے⟩ جاگہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آے"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "לנو",
+      "gloss": "مگءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨اے⟩ زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨اے⟩ زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "آے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "روان بیتگئے"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ءُ شہد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:44.533929154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ ⟨את⟩ چرپیءَ چہ گائے ءُ چہ دنبہ — دمبءِ چرپی ءُ ڈڈءِ ڈھکن ءُ گُڑگُڑیان ءُ جگرءِ پردہءَ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چرپی"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چرپی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "השור",
+      "gloss": "گائے"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "دنبہ"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "دمبءِ چرپی"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "ءُ ڈھکن"
+    },
+    {
+      "surface": "והכליות",
+      "gloss": "ءُ گُڑگُڑیان"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "ءُ پردہ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگرءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:16.787601618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "اے گالءَ گوش کہ من آں کہ شمانءِ سرءَ چرانں، یک ماتمی نوحہ، اے اسرائیلءِ گدان.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گال"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے گال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چرانں"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "شمانءِ سرءَ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ماتمی نوحہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T22:36:45.027231007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 56,
+  "translation": "روچءَ کہ من ڈرنت‌ءَم، من تہءَ امید کن‌ءَم.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "روچءَ کہ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "من ڈرنت‌ءَم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "امید کن‌ءَم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:16.618325652Z",
+  "model": "glm-5.3"
+}

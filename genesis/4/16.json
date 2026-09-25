@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ قائین یاہوہءِ رخءَ چیر در کت ءُ نودءِ زمینءَ تہ، عدنءِ روبَرءَ جتہ۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ در کت"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قائین"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "چہ رخءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ءُ جتہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "نودءِ"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "روبَرءَ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "عدنءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:19.026094493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "دانا زہگ پیارءَ شاد کنیت، ءُ نادان مرد ماںءَ حقارت کنیت۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد کنیت"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیار"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ءُ نادان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "حقارت کنیت"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ماںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:49.590521130Z",
+  "model": "glm-5.3"
+}

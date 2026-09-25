@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "ءُ اے مردم چوش کت کہ یوسف گوَشت، ءُ اے مردم ⟨את⟩ مردمان یوسفءِ گدانءَ گنت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ اے مردم چوش کت"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اے مردم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ گنت"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اے مردم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردمان"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسفءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:45.864179365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ داودءِ بادشاہءَ گسیت ءُ آییءَ چہ ماخیر، عمی ایلءِ زہگءِ گڈیءَ، چہ لو-دبارءَ گپت۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "گسیت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "گپت"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "چہ گڈیءَ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماخیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عمی ایل"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لو-دبار"
+    }
+  ],
+  "timestamp": "2026-09-24T20:43:58.777751637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 72,
+  "translation": "دیم روت چوش باران سرءَ کوٹیگیں وچ، چوش شوری باران ءُ ترش زمینءَ.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "دیم روت"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "چوش باران"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "גז",
+      "gloss": "کوٹیگیں وچ"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "چوش شوری باران"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "ءُ ترش"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:41.705012285Z",
+  "model": "glm-5.3"
+}

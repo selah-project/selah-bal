@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "چوش اُوے ءِنت کہ مرد ⟨את⟩ آییءِ یارءَ فریب دیت ءُ گوَشت: کیا من مذاق نہ کنتاں؟",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "چوش اُوے ءِنت کہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "فریب دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ یارءَ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "آییءِ یارءَ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیا…نہ"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "مذاق کنتاں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:36.684438557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "یک نسل اِنت کہ وتءِ پتءَ لعنت کنت ءُ ⟨את⟩ وتءِ ماءِ نہ برکت دیت.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "وتءِ پت"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "لعنت کنت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "وتءِ ماء"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "وتءِ ماء"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:38.990296885Z",
+  "model": "glm-5.3"
+}

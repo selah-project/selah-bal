@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "کمزور دستاں ءَ زور دہ، ءُ لنگ گوڈاں ءَ پُخت کن.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "زور دہ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دستاں"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "کمزور"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "ءُ گوڈاں"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "لنگ"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "پُخت کن"
+    }
+  ],
+  "timestamp": "2026-09-24T21:32:14.910191375Z",
+  "model": "glm-5.3"
+}

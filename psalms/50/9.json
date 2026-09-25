@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "چہ تئے گدانءَ من پُر نہ گرنت، نہ چہ تئے مڑانءَ نر بزگال.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "من … نہ گرنت"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "چہ تئے گدانءَ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "چہ تئے مڑانءَ"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "نر بزگال"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:30.295147295Z",
+  "model": "glm-5.3"
+}

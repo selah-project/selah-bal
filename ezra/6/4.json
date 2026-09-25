@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "سئے پرہ چہ گیشتین سنگان، ءُ یک پرہ چہ نوکین دار، ءُ خرچ چہ شاہءِ گدانءَ دیت بیت.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "سئے پرہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگان"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "گیشتین"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "ءُ یک پرہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אע",
+      "gloss": "دار"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "نوکین"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "ءُ خرچ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "دیت بیت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:08:19.217254570Z",
+  "model": "glm-5.3"
+}

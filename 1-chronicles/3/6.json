@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ یِبھار ءُ اِلیشَماع ءُ اِلیفَلِت.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ءُ یِبھار"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "ءُ اِلیشَماع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ءُ اِلیفَلِت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:13:59.828700301Z",
+  "model": "glm-5.3"
+}

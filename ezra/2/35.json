@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "سِنَاہءِ زہگان — سئے ہزار ءُ شش سد ءُ سئے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سِنَاہءِ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سئے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:21.143103212Z",
+  "model": "glm-5.3"
+}

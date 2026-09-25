@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ اَوراہام زمینءِ قومءِ پیشءَ سجدہ کت.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ءُ سجدہ کت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومءِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:31:45.637261123Z",
+  "model": "glm-5.3"
+}

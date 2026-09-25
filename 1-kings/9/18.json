@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ ⟨את⟩ بعلات ءُ ⟨את⟩ تامار تہ بیابانءَ، تہ زمینءَ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "بعلات"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "بعلات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "تامار"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "تہ بیابانءَ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "تہ زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:58:23.132030667Z",
+  "model": "glm-5.3"
+}

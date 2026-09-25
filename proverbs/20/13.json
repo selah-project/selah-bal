@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "شپءَ دوست مکن، پہ اے کہ لوچ نہ بیت؛ تیریاں اکاں کھول، گوں نان شبرہ بیت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "دوست دار"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "لوچ بیت"
+    },
+    {
+      "surface": "پקח",
+      "gloss": "کھول"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تیریاں اکاں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبرہ بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:23.306600880Z",
+  "model": "glm-5.3"
+}

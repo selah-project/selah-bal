@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 132,
+  "translation": "اے منیءِ آرام اِنت، پہ ہمک وہد؛ ادا من نشتگ اہنت، کی من آییءَ پسند کتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "منیءِ آرام"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "پہ ہمک"
+    },
+    {
+      "surface": "עד",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ادا"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "نشتگ اہنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "آییءَ پسند کتگ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:46.813376637Z",
+  "model": "glm-5.3"
+}

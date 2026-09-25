@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ گیشتر چہ اِشاں، اے زہگ، حذر کن: کتاباں جوڑ کنگءِ گیشتریںءَ کُٹ نیست، ءُ گوں گیشتر وانگ گوڑاٹ جسمءِ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ءُ گیشتر"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "چہ اِشاں"
+    },
+    {
+      "surface": "בנی",
+      "gloss": "اے زہگ"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "حذر کن"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "جوڑ کنگ"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "کتاباں"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیشتریں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "کُٹ"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "ءُ گوں گیشتر وانگ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "گوڑاٹ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جسم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:35.535220743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ کاہن حکم کنیت کہ پہ پاک بوتوکی دو زندگ پاک مرگ ءُ ارزءِ دار ءُ سرمیں کرم ءُ زوفا گریڑنت،",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ءُ حکم کنیت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ءُ گریڑنت"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "پہ پاک بوتوکی"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "زندگ"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ءُ دارءِ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ارز"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ءُ سرمیں"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "کرم"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ءُ زوفا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:53.947670274Z",
+  "model": "glm-5.3"
+}

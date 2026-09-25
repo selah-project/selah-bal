@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ بادشاہ جنکءَ گوَشت: رو تیریں گدانءَ، ءُ من توریءَ فرمان دیت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "جنکءَ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "رو"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "تیریں گدانءَ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "فرمان دیم"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "توریءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:46:17.419693589Z",
+  "model": "glm-5.3"
+}

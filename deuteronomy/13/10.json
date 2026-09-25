@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "کی چہ آییءَ مار ءُ مار کن؛ تیءِ دست آییءَ تہ اولیںئین بیت آییءَ جنتیءِ پہ، ءُ تمام مردمءِ دست پشتءَ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی چہ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "مار ءُ مار"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "کن"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیءِ دست"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "اولیںئین"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "آییءَ جنتیءِ پہ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ءُ دست"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "پشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:59.061094572Z",
+  "model": "glm-5.3"
+}

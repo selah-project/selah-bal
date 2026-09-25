@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ یوسفءِ گدانءَ رد کت، ءُ افرایمءِ ٹولیءَ نہ چُنشت۔",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "ءُ رد کت"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسفءِ"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "ءُ ٹولیءَ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایمءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چُنشت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:35.993450264Z",
+  "model": "glm-5.3"
+}

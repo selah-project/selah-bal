@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ آ کہ آییءِ دل یاہوہءِ گالءِ سرءَ نہ دات، آییءَ وتی گولاں ⟨את⟩ ءُ وتی مال ⟨את⟩ کشتءَ ولوشت.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ آ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "נہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "دات"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "آییءِ دل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ءُ ولوشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی گولاں"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "وتی گولاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "وتی مال"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "وتی مال"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:55:13.080327436Z",
+  "model": "glm-5.3"
+}

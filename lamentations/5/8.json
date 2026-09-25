@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "غلامان ماں سر حکومت کت؛ رہائی چہ اِشانی دستان نیست.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "غلامان"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "حکومت کت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ماں سر"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "رہائی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "چہ اِشانی دستان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:36.042102858Z",
+  "model": "glm-5.3"
+}

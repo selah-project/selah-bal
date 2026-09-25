@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "تُرئے منہ پاٹ کت، راستیءَ داوری کن، ءُ مزدار ءُ گریبانءَ انصاف بدہ۔",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "پاٹ کت"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تُرئے منہ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "داوری کن"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستیءَ"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ءُ انصاف"
+    },
+    {
+      "surface": "עני",
+      "gloss": "مزدار"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ءُ گریبانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:01.658894987Z",
+  "model": "glm-5.3"
+}

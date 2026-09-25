@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ شیتان اِسرائیلءِ سرءَ اُستات ءُ داؤدءَ اِشکنیت کہ ⟨את⟩ اِسرائیلءَ شمار کنت.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ءُ اُستات"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "شیتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ءُ اِشکنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِسرائیل"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "لמנות",
+      "gloss": "پہ شمار کنگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-25T00:29:35.532533078Z",
+  "model": "glm-5.3"
+}

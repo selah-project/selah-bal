@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ هر جنین کہ آے روچءِ پوریں وہدءَ هر کار کنیت، ءُ من ⟨את⟩ اے جنینءَ چہ وتی قومءِ میانءَ ہلاک کنیت۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ هر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جنین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "پوریں وہدءَ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آے"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "ءُ من ہلاک کنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے جنینءَ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "اے جنین"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آے"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "چہ میانءَ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "وتی قومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:27.102278743Z",
+  "model": "glm-5.3"
+}

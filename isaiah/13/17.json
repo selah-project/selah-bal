@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ہن من اُشاںءِ سرءَ ⟨את⟩ مادایانءَ بےدار کنتاں، کہ سیم نہ شمارنت ءُ زر چہ آییءَ نہ مننت۔",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ہن من"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "بےدار کنتاں"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُشاںءِ سرءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مادایانءَ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادایان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "شمارنت"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ءُ زر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "مننت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "چہ آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:51.695569499Z",
+  "model": "glm-5.3"
+}

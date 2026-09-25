@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "ما گنہ کت گوں پئرانءَ، ما کج کت، ما بدی کت۔",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "ما گنہ کت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "پئرانءَ"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "ما کج کت"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "ما بدی کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:34.205108231Z",
+  "model": "glm-5.3"
+}

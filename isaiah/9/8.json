@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 9:8",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ قوم پورا زانت — افرایم ءُ شمرونءِ رہوک — آ کہ گوں شان ءُ گوں دلءِ گیشی گوَشنت:",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ءُ زانت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "پورا"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "ءُ رہوک"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمرونءِ"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "گوں شان"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "ءُ گوں گیشی"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دلءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَشنت:"
+    }
+  ],
+  "timestamp": "2026-09-24T21:25:15.863003492Z",
+  "model": "glm-5.3"
+}

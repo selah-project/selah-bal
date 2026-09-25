@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "جہ کہ چشمگان نالگانءَ تہیں رِچنت، کوهانی میانءَ رونت.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "جہ کہ رِچنت"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "چشمگان"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "نالگانءَ تہیں"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوهانی"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "رونت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:48.290431379Z",
+  "model": "glm-5.3"
+}

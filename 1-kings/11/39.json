@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ من ⟨את⟩ داودءِ نسلءَ پہ اے سبب عذاب دین، پر ہمگ روچانءَ نہ۔",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ءُ عذاب دین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داودءِ نسل"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ اے سبب"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "روچانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:00:29.055400682Z",
+  "model": "glm-5.3"
+}

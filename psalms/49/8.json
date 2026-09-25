@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "برات نہ فدیا دیت کہ یکے فدیا کیت؛ نہ دیت پہ ایلوہیم وتین فدیہ.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "برات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "فدیا دیت"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "فدیا کیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "پہ ایلوہیم"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "وتین فدیہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:22.143393296Z",
+  "model": "glm-5.3"
+}

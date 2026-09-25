@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "تہرے رخسار کتاراں ءَ دلگوش اِنت، تہراں گر دوریاں ءَ",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "دلگوش اِنت"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "تہرے رخسار"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "کتاراںءَ"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "تہراں گر"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "دوریاںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:25.504710479Z",
+  "model": "glm-5.3"
+}

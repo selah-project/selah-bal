@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ آییءِ ہمزینت ہمولکت زائینت ⟨את⟩ ایشہود ءُ ⟨את⟩ ابیعزر ءُ ⟨את⟩ ماحلہ۔",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "ءُ آییءِ ہمزینت"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "ہمولکت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زائینت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایشہود"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "ایشہود"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ابیعزر"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ابیعزر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ماحلہ"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ماحلہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:45.732091826Z",
+  "model": "glm-5.3"
+}

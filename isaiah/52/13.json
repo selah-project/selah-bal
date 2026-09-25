@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 52:13",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 52,
+  "translation": "ہنے مءِ بندہ دانا بیت، آ بلند بیت ءُ اُچٹ بیت ءُ گیش ⟨اِنت⟩ اُچ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ہنے"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "دانا بیت"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "مءِ بندہ"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "بلند بیت"
+    },
+    {
+      "surface": "وנשא",
+      "gloss": "ءُ اُچٹ بیت"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ءُ اُچ بیت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T21:37:55.795134533Z",
+  "model": "glm-5.3"
+}

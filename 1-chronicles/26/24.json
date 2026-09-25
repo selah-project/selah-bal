@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ شبوایل گرشومءِ زہگ، موشہءِ زہگ، خزانگانءِ سرءَ سردار اِنت۔",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "ءُ شبوایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گرشومءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشہءِ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "خزانگانءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:31:40.416345724Z",
+  "model": "glm-5.3"
+}

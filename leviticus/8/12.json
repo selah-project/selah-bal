@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ چہ مسیحءِ تیلءَ چہ ہارونءِ سرءَ چوڑت، ءُ ⟨את⟩ آییءَ مسیح کت پہ آییءَ پاک گرگ.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "چوڑت"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "چہ تیلءَ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "مسیحءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ہارونءِ"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "مسیح کت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "پہ آییءَ پاک گرگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:08.053697391Z",
+  "model": "glm-5.3"
+}

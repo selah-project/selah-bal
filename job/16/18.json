@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 16:18",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "اے زمین، منی ئینءَ نہ ڈپّیت، ءُ منی چینءَ پہ ہچ جاگہ نہ بیت.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "اے زمین"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכסי",
+      "gloss": "ڈپّیت"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "منی ئین"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "לזעקתי",
+      "gloss": "پہ منی چین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:36.159462304Z",
+  "model": "glm-5.3"
+}

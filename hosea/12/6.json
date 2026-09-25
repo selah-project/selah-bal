@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ یاہوہ، سباؤتءِ ایلوہیم — یاہوہ ⟨اِنت⟩ آییءِ یاد۔",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "سباؤتءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "آییءِ یاد"
+    }
+  ],
+  "timestamp": "2026-09-24T22:31:25.115415518Z",
+  "model": "glm-5.3"
+}

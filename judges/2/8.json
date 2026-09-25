@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یہوشوہ، نونءِ زہگ، یاہوہءے نوکر، مریت، سد ءُ دہ سالءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مریت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نونءِ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "نوکر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ءُ دہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:13:27.113805477Z",
+  "model": "glm-5.3"
+}

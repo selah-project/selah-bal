@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ ⟨את⟩ ہمان چیرے آ دارءَ لٹکیت کہ مِردکایءِ پہ تیار کتگ ءُ شاہءِ غم آرام کت۔",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "ءُ لٹکیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمان"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ہمانءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "چیرے"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دارءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "تیار کتگ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "مِردکایءِ پہ"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ءُ غم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "آرام کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:25.426393940Z",
+  "model": "glm-5.3"
+}

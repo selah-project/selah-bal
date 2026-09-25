@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ دہما، دہما پہ یک بریگءَ، پہ چار دہ بریگان.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ءُ دہما"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "دہما"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "پہ بریگءَ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "پہ چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بریگان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:42:37.993605963Z",
+  "model": "glm-5.3"
+}

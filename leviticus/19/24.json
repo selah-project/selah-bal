@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ چارمی سالءَ آییءِ گش میوہ پاک بیت — حمدءِ جشن پہ یاہوہ۔",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ءُ سالءِ تہ"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "چارمی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "آییءِ میوہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "حمدءِ جشن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:31.789947809Z",
+  "model": "glm-5.3"
+}

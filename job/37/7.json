@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "⟨اُو⟩ ہر مردمی دستءَ مُہر کنیت، پرچا کہ ہر مردم آییءِ کارءَ زاننت.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمی"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "مُہر کنیت"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "پہ زانتگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "آییءِ کارءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:38.190562975Z",
+  "model": "glm-5.3"
+}

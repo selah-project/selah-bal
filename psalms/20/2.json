@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "یاہوہءَ تہ تنگیءِ روچءَ تہ جواب دیت، یعقوبءِ ایلوہیمءِ نام تہ اُچ کنت۔",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "تہ جواب دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگیءِ"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "تہ اُچ کنت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:55.222409588Z",
+  "model": "glm-5.3"
+}

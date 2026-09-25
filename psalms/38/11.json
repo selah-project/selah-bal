@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "منی دل تیز دھڑکیت، منی زور منئَ اِشت ⟨اِنت⟩؛ ءُ منی چشمانی روشنائی — آءُ ہم گوں ⟨את⟩ من نہ اَنت.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "دل"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "تیز دھڑکیت"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "منئَ اِشت"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ءُ روشنائی"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چشمانی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "گوں من"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:03.584276564Z",
+  "model": "glm-5.3"
+}

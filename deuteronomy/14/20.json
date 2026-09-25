@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ہر پاک مرگ بورئت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بورئت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:47.345364607Z",
+  "model": "glm-5.3"
+}

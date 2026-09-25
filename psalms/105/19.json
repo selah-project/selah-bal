@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "تا آییءِ گالءِ رسِینءِ وہد، یاہوہءِ اِمرت آیءَ پاک کت.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עֵת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "בֹּא",
+      "gloss": "رسِین"
+    },
+    {
+      "surface": "דְּבָרֹו",
+      "gloss": "آییءِ گال"
+    },
+    {
+      "surface": "אִמְרַת",
+      "gloss": "اِمرت"
+    },
+    {
+      "surface": "יְהֹוָה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צְרָפָתְהוּ",
+      "gloss": "آیءَ پاک کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:58.637183070Z",
+  "model": "glm-5.3"
+}

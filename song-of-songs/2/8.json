@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "منی محبوبءِ آواز! اے بگوش، آ روت ⟨اِنت⟩، کوهانءِ سرءَ کوچیت، ٹلیں کوهانءِ سرءَ لپیت۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "منی محبوبءِ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اے بگوش"
+    },
+    {
+      "surface": "זה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "روت ⟨اِنت⟩"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "کوچیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "کوهانءِ"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "لپیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ٹلیں کوهانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:01.514335327Z",
+  "model": "glm-5.3"
+}

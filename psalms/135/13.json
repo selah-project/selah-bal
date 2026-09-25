@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "یاہوہ، تُئے نام پہ ہمیشہ اِنت؛ یاہوہ، تُئے یادگار نسل چہ نسل۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تُئے نام"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "تُئے یادگار"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسلءَ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ءُ نسلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:08.629649997Z",
+  "model": "glm-5.3"
+}

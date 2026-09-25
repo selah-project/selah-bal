@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "غلامءَ وتءِ آقاءَ لنگ گوَشت نہ دے، پہ آں کہ آیی توءَ لعنت کنت ءُ تو گنہگار بیت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "لنگ گوَشت دے"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "وتءِ آقا"
+    },
+    {
+      "surface": "פן",
+      "gloss": "پہ آں کہ"
+    },
+    {
+      "surface": "יקلלך",
+      "gloss": "توءَ لعنت کنت"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "ءُ گنہگار بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:38.990111860Z",
+  "model": "glm-5.3"
+}

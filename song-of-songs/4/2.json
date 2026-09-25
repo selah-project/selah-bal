@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 4:2",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "تڑے دند چوش کیپتگیں گل کہ چہ دَنیءَ اُٹرنت؛ ہر یک جوڑاں اِنت ءُ بیجانگ ماں شان نیست۔",
+  "tokens": [
+    {
+      "surface": "שניך",
+      "gloss": "تڑے دند"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "چوش گلءِ"
+    },
+    {
+      "surface": "הקצובות",
+      "gloss": "کیپتگیں"
+    },
+    {
+      "surface": "שעלו",
+      "gloss": "اُٹرنت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הרחצה",
+      "gloss": "دَنیءَ"
+    },
+    {
+      "surface": "שכלם",
+      "gloss": "ہر یک"
+    },
+    {
+      "surface": "מתאימות",
+      "gloss": "جوڑاں اِنت"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "ءُ بیجانگ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ماں شان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:45.313041201Z",
+  "model": "glm-5.3"
+}

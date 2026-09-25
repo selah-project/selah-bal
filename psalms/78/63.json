@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "آتش وتی جوانانءَ گوشت، ءُ وتی جنکان خرس نہ بوتنت.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "وتی جوانانءَ"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "ءُ وتی جنکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "خرس نہ بوتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:55.080920015Z",
+  "model": "glm-5.3"
+}

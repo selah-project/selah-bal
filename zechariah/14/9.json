@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ بیت یاہوہ پہ شاہ تمام زمینءِ سرءَ؛ اے روچءَ بیت یاہوہ یک، ءُ آییءِ نام یک۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پہ شاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ تہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ءُ آییءِ نام"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:46:52.304507868Z",
+  "model": "glm-5.3"
+}

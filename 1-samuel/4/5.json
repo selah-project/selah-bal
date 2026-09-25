@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ اَت کہ یہوہءِ عہدءِ صندوق گدانءَ آت، سئے اسرائیل یک گیش تراوش کت، ءُ زمین لرزیت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت کہ"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "آتنگءِ وہد"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "ءُ تراوش کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "تراوش"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "ءُ لرزیت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T20:27:53.398247409Z",
+  "model": "glm-5.3"
+}

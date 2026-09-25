@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 31:7",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "سئیمی ماہءَ دڑے بنیادءَ سرءَ شروع کنت، ءُ ہپتمی ماہءَ آیانءَ پور کت.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ماہءَ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "سئیمی"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "شروع کت"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "دڑے"
+    },
+    {
+      "surface": "ליסוד",
+      "gloss": "بنیادءَ سرءَ"
+    },
+    {
+      "surface": "ובחדש",
+      "gloss": "ءُ ماہءَ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ہپتمی"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "پور کت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:45:04.493439480Z",
+  "model": "glm-5.3"
+}

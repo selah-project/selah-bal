@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اِشاں وتی دہن مَہءِ سرءَ کھول کت، شیرءِ چوں کہ گوشت گِرنت ءُ غرنت۔",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "کھول کت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مَہءِ سرءَ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "وتی دہن"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیرءِ چوں"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "گوشت گِرنت"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "ءُ غرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:33.398409012Z",
+  "model": "glm-5.3"
+}

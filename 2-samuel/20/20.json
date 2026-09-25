@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یوآب جواب دیت ءُ گوَشت: دور بوت، دور بوت چہ من کہ من نگورں یا خراب کنں۔",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ءُ جواب دیت"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "دور بوت"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "دور بوت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "چہ من"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "نگورں"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "خراب کنں"
+    }
+  ],
+  "timestamp": "2026-09-24T20:49:00.186229945Z",
+  "model": "glm-5.3"
+}

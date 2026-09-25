@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "بیو، ءُ درگل کتگ، ءُ پلید کتگ، زناکار — ⟨את⟩ اِشاں نہ گرنت؛ بلے یک بیتولی چہ وتیءِ قومءَ گوں جنک گرنت.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "بیو"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ءُ درگل کتگ"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "ءُ پلید کتگ"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "زناکار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِشاں"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِشاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "بیتولی"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "چہ وتیءِ قومءَ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "جنک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:11.125294681Z",
+  "model": "glm-5.3"
+}

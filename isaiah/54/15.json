@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 54,
+  "translation": "اِشا! یکے چیز جمع کپیت، پر چہ ⟨את⟩ من نہ؛ کے کہ تُءَ گوں جمع بیت، تُءِ سرءَ ڈگیت۔",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "اِشا"
+    },
+    {
+      "surface": "גור",
+      "gloss": "چیز منش"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "جمع کپیت"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "پر…نہ"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "چہ ⟨את⟩ من",
+      "marks": "من"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "גר",
+      "gloss": "جمع کنوک"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ گوں تُ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تُءِ سرءَ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈگیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:38:40.302140338Z",
+  "model": "glm-5.3"
+}

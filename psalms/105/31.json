@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "اوءَ گوَشت، ءُ مچھری ءُ جوئیں آیانی پوریں سرحدءَ آتنت۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آتنت"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "مچھری"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "جوئیں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "آیانی سرحدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:09.474456700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "تس یاہوہ تہاںی ایلوہیمءَ ⟨את⟩ نہ ازمیں، چوش کہ ماساہءَ ازمیتگ اَنت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "نہ ازمیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تہاںی ایلوہیم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ازمیتگ اَنت"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "ماساہءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:53:59.092121265Z",
+  "model": "glm-5.3"
+}

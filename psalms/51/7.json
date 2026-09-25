@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "ہین، من گنہءَ جنیتگ بوتگ ءُ گنہءَ منی مات من گرپتگ.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ہین"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "گنہءَ"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "جنیتگ بوتگ"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "ءُ گنہءَ"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "من گرپتگ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "منی مات"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:47.302380677Z",
+  "model": "glm-5.3"
+}

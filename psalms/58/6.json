@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 58,
+  "translation": "کہ گوش نہ کنیت وانوکانی گالءَ، جادو کنوکءِ جادو گوں پوریں ہوشارءِ۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "گوش کنیت"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "گالءَ"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "وانوکانی"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "جادو کنوکءِ"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "جادو"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "پوریں ہوشارءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:38.835634723Z",
+  "model": "glm-5.3"
+}

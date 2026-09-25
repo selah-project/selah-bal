@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "نہ کن کہ گوں وتءِ ہمسایہ گواہیءِ دروگاھ دئی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תענه",
+      "gloss": "جواب دئی \/ گواہی دئی"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "گوں وتءِ ہمسایہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروگاھی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:57:35.533595178Z",
+  "model": "glm-5.3"
+}

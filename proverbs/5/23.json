@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "آ بے تادیبءَ مریت، ءُ آییءِ نادانیءِ گیشیءَ رُت راہ چچیت.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مریت"
+    },
+    {
+      "surface": "באין",
+      "gloss": "بے … ءَ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ءُ گیشیءَ"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "نادانیءِ"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "رُت راہ چچیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:13.641565374Z",
+  "model": "glm-5.3"
+}

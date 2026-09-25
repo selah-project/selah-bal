@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "گوَشیت پہ راست انسان کہ آییءَ پہ راست اِنت، چہ اِشاں وتی کارانی پھل چنت۔",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "گوَشیت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "پہ راست انسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "پہ راست اِنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "وتی کارانی"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "چنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:20:13.578214917Z",
+  "model": "glm-5.3"
+}

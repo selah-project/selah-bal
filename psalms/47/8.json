@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "کیہ شاہ تمام زمینءِ ایلوہیم ⟨اِنت⟩؛ گیت گوَنِت گوں سوجءَ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "گیت گوَنِت"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "گوں سوجءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:21.309185569Z",
+  "model": "glm-5.3"
+}

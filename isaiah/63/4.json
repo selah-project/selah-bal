@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 63,
+  "translation": "کیہ مے دلءِ تہ بدلءِ روچ اِنت ءُ مے نجات لہ گپتءانءِ سالءَ روتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلءِ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "مے دلءِ تہ"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "ءُ … سالءَ"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "مے نجات لہ گپتءانءِ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "روتگ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:41:31.686444893Z",
+  "model": "glm-5.3"
+}

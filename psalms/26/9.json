@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "مے نفسءَ گوں گناہگران جمع مکن، ءُ مے جانءَ گوں روینیں مردمان.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "جمع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گناہگران"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "مے نفس"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "روین"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "مے جان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:23.657822062Z",
+  "model": "glm-5.3"
+}

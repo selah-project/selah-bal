@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "گڈا کَنت ءُ آییءَ گَندیت، ءُ وتی کنءِ گڈا ءَ کپیت۔",
+  "tokens": [
+    {
+      "surface": "بור",
+      "gloss": "گڈا"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "کَنت"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ءُ آییءَ گَندیت"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ءُ کپیت"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "گڈا ءَ"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "کہ آییءَ کنتگی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:46.536212778Z",
+  "model": "glm-5.3"
+}

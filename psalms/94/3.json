@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "تا کد، اے یاہوہ، رشواکار، تا کد رشواکار شاد بنت",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کد"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رشواکار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کد"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رشواکار"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "شاد بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:29.533812972Z",
+  "model": "glm-5.3"
+}

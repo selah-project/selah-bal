@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ من ءُ گوں، مءِ چم رحم نہ کنت ءُ نہ بخشیت؛ اِشانیں رہ من آیانیں سرءَ دیم داتگ۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رحم کنت"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "مءِ چم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "بخشیت"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "اِشانیں رہ"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "آیانیں سرءَ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "داتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:10:52.084763630Z",
+  "model": "glm-5.3"
+}

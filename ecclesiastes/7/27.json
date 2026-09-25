@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "نگاہ کن، اے چیز من مُشتگ، گوَشت قہلِت، یک پہ یک، پہ مُشتگ حساب۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "نگاہ کن"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מצאתی",
+      "gloss": "من مُشتگ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قہلِت"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "پہ یک"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "پہ مُشتگ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حساب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:14.129618124Z",
+  "model": "glm-5.3"
+}

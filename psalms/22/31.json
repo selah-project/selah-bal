@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "زہگ آییءَ عبادت کنت؛ پہ ادونای پہ دمی نسلءَ شمار بیت.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "آییءَ عبادت کنت"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "شمار بیت"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "پہ ادونای"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "پہ دمی نسلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:55.810666126Z",
+  "model": "glm-5.3"
+}

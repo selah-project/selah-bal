@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ہنچ اے سرءِ تُئے چشمان پھاڑتگ ئے، ءُ ⟨את⟩ منءَ گوں تُے تہ فیصلہ آورت ئے؟",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ہنچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءِ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "پھاڑتگ ئے"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تُئے چشمان"
+    },
+    {
+      "surface": "وאתי",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "منءَ"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "آورت ئے"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "تہ فیصلہ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تُے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:43.260016718Z",
+  "model": "glm-5.3"
+}

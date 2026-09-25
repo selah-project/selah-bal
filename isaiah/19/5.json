@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ آپ چہ سمندرءَ کم بنت، ءُ دریا ویران بیت ءُ چُس بیت.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ءُ کم بنت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "چہ سمندرءَ"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ءُ دریا"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ویران بیت"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ءُ چُس بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:26:16.643681367Z",
+  "model": "glm-5.3"
+}

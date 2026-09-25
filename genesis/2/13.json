@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ دومین روچءِ نام گیحون اِنت، آءِ گلشنءِ سرا آ اِنت کہ ⟨את⟩ پوریں کشءِ زمینءَ گھیریت۔",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ءُ نام"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومین"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "گیحون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "گھیریت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں کشءِ زمین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کش"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:26.061259236Z",
+  "model": "glm-5.3"
+}

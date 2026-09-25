@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "یتمءَ چہ ماںءَ چکنت ءُ چہ غریبءَ رہن گرنت.",
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "چکنت"
+    },
+    {
+      "surface": "משד",
+      "gloss": "چہ ماںءَ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "رہن گرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:39:45.038771091Z",
+  "model": "glm-5.3"
+}

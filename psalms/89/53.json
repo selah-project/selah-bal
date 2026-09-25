@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "برکت داریت یاہوہ پہ ہمیشہ۔ اامین، ءُ اامین۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکت داریت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "اامین"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ءُ اامین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:26.732929933Z",
+  "model": "glm-5.3"
+}

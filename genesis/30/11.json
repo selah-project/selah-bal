@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ لیاہءَ گوَشت: بخت آت؛ ءُ آییءِ نامءَ ⟨את⟩ گاد گشت۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہءَ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "بخت"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "نام گشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ نام"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:03.652015974Z",
+  "model": "glm-5.3"
+}

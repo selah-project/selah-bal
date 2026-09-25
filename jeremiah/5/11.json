@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "پرچا کہ بیت اسرائیل ءُ بیت یہودا ماءَ سر دغا دغا کت، یاہوہءَ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "دغا"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "دغا کت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ماءَ سر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:44:54.527617464Z",
+  "model": "glm-5.3"
+}

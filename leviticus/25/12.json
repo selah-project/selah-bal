@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "کیہ کہ یوبل آ اِنت — پاکی تُہءِ پہ بیت؛ چہ میدانءَ ⟨את⟩ وتءِ حاصلءَ حوریں.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یوبل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاکی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہءِ پہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدانءَ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "حوریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتءِ حاصلءَ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "حاصل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:48.076394502Z",
+  "model": "glm-5.3"
+}

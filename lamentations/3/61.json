@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "تو گوشتگ، اے یاہوہ، آیانی شرمندی، آیانی ہمگ سوچان منی سرءَ۔",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "تو گوشتگ"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "آیانی شرمندی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "آیانی سوچان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:44.838093285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "تمام کہ آییءِ نکءَ زندگیں روحءِ دم ہست اِت، چہ تمام کہ سکءِ زمینءَ اِت، مُتنت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "دم"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روحءِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیں"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "آییءِ نکءَ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ تمام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "سکءِ زمینءَ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مُتنت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:49:42.952886832Z",
+  "model": "glm-5.3"
+}

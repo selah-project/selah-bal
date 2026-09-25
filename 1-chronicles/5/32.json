@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ عُزی ⟨את⟩ زرحیہءَ زائیت، ءُ زرحیہ ⟨את⟩ مرایوتءَ زائیت.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "ءُ عُزی"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرحیہءَ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زرحیہءَ"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "ءُ زرحیہ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرایوتءَ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مرایوتءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:08.730734821Z",
+  "model": "glm-5.3"
+}

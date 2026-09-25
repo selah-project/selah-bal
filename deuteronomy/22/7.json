@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "⟨את⟩ ماںءَ رہا کن ءُ ⟨את⟩ گچینان پہ وت گپ، پرچا کہ تُءِ پہ چنگ بیت ءُ تُءِ روچان دراز بنت.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "رہا"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماںءَ"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ماںءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گچینان"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "گچینان"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ وت"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "چنگ بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُءِ پہ"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "ءُ دراز بنت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:56.876725329Z",
+  "model": "glm-5.3"
+}

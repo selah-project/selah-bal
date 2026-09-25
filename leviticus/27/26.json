@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "بلے بچاریں زہگ کہ گوں مالءَ پہ یاہوہ بچار بیت، یکے ⟨את⟩ آییءَ پاک نہ کنت؛ اگر ڈانگ، اگر گُسپت — یاہوہءِ اِنت آ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بچاریں زہگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "بچار بیت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "گوں مالءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "پاک کنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "بچاریں زہگ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڈانگ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "שה",
+      "gloss": "گُسپت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت آ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:28.962562153Z",
+  "model": "glm-5.3"
+}

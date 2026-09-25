@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ شوہمءِ سنگان ءُ جڑاوناں سنگان، ایپدءِ پہ ءُ حوشنءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "ءُ سنگانِ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شوہم"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ءُ سنگانِ"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "جڑاوناں"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "ایپدءِ پہ"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ءُ حوشنءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:06:21.752474676Z",
+  "model": "glm-5.3"
+}

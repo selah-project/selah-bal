@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "سستءِ جان آرزو کنت ءُ ⟨چیز⟩ نیست؛ ءُ محنتیانءِ جان چرب بیت۔",
+  "tokens": [
+    {
+      "surface": "מתאوה",
+      "gloss": "آرزو کنت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "آییءِ جان"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سستءِ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ءُ جان"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "محنتیانءِ"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "چرب بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:52.869780113Z",
+  "model": "glm-5.3"
+}

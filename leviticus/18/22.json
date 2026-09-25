@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ ⟨את⟩ نرءَ نہ شپے زنءِ شپے؛ کریہگی آ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "نر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "شپے"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "شپے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "کریہگی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:20.079733232Z",
+  "model": "glm-5.3"
+}

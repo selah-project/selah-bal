@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 112,
+  "translation": "بد خبراں چہ نہ ترسیت؛ آییءِ دل مضبوط اِنت، یاہوہءَ تہ بھروسہ گوں.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "خبراں چہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ترسیت"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "آییءِ دل"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بھروسہ گوں"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:21.934800369Z",
+  "model": "glm-5.3"
+}

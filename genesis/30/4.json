@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ راتشیل آئَ ⟨את⟩ بلہہ وتی کنیز زنا پہ دیت، ءُ یاقوب آیءَ تہ روت۔",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ءُ راتشیل … دیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آئَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بلہہ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلہה"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "وتی کنیز"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زنا پہ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ … روت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آیءَ تہ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:57.466071923Z",
+  "model": "glm-5.3"
+}

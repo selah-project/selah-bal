@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 140,
+  "translation": "شۏکان دام منءَ پہ پنهان کت، ءُ رسمان؛ جاڵ رہءِ دستءَ پش کتنت، دامان منءَ پہ درا کتنت. سلا.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "پنهان کت"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "شۏکان"
+    },
+    {
+      "surface": "פח",
+      "gloss": "دام"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ پہ"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "ءُ رسمان"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "پش کتنت"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "جاڵ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "رہ"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "دامان"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "درا کتنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ پہ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:12.601743084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "چہ پہ آ کہ تُو مہانءَ دشمنانی سرا دَر کنی، چہ ہر بد چیزءَ بچار گریت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ پہ آ کہ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "دَر کنی"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "مہان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "دشمنانی"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "ءُ بچار گریت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:23.576646587Z",
+  "model": "glm-5.3"
+}

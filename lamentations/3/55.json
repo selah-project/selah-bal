@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اے یاہوہ، نومءَ اَت چہ بُنیزں گڈءَ بانگ کتم۔",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "بانگ کتم"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "نومءَ اَت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "چہ گڈءَ"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "بُنیزں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:46.199760180Z",
+  "model": "glm-5.3"
+}

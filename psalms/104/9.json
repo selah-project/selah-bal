@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "گڈر توں جاڑ کت کہ نہ گوزنت، نہ پدا گنت زمینءَ چم گرنءَ پہ.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "گڈر"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "توں جاڑ کت"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "گوزنت"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "پدا گنت"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "چم گرنءَ پہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:48.289549001Z",
+  "model": "glm-5.3"
+}

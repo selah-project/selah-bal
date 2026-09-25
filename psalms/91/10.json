@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 91,
+  "translation": "نہ ہچ بدی تہ رسیت، ءُ آزار تہءِ گدانءَ نزدیک نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "رسیت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ءُ آزار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "نزدیک بیت"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "تہءِ گدانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:03.917336698Z",
+  "model": "glm-5.3"
+}

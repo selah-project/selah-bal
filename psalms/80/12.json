@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 80,
+  "translation": "آیءَ وتی ٹارن سمندرءَ اَرپت ءُ نہءَ لہ آییءِ چوکاں.",
+  "tokens": [
+    {
+      "surface": "تشلح",
+      "gloss": "آیءَ وتی اَرپت"
+    },
+    {
+      "surface": "قطیرها",
+      "gloss": "ٹارن"
+    },
+    {
+      "surface": "عد",
+      "gloss": "تا"
+    },
+    {
+      "surface": "یم",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "وال",
+      "gloss": "ءُ نہءَ لہ"
+    },
+    {
+      "surface": "نهر",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "یونکوتیها",
+      "gloss": "آییءِ چوکاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:59.784738096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "چہ آں کہ ایشان ایلءِ گالانی سر بغاوت کت ءُ اُچیںءِ مشورےءَ حقارت کت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ آں کہ"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "بغاوت کت"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "گالانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ءُ مشورےءَ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "اُچیںءِ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "حقارت کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:38.753861579Z",
+  "model": "glm-5.3"
+}

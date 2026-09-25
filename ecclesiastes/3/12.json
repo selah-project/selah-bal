@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "من زانتگم کہ آیانی تہ ہچ چون نیست، مگر پہ شاد بوتن ءُ پہ چون کار گرگ آییءِ زندگیءَ تہ.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "زانتگم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چون"
+    },
+    {
+      "surface": "בם",
+      "gloss": "آیانی تہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "پہ شاد بوتن"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ءُ پہ کار گرگ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چون"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "آییءِ زندگیءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:19.021772271Z",
+  "model": "glm-5.3"
+}

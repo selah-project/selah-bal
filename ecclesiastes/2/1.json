@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "من چہ دلءِ تہَ گوَشتم: روت نا، شادمانیءَ ازمائیت ءُ نیکیءَ بچارت؛ ءُ اے چیزیں کہ شاک — آ ہم ہبیل اِنت.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "گوَشتم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "چہ دلءِ تہَ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "روت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "ازمائیت"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "شادمانیءَ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ءُ بچارت"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "نیکیءَ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ اے چیزیں کہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبیل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:45.630742435Z",
+  "model": "glm-5.3"
+}

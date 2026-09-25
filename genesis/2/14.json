@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ سئیمین روچءِ نام حِدّقِل اِنت، آ اِنت کہ آشورءِ روچءَ روت؛ ءُ چارمین روچ آ اِنت پِرات۔",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ءُ نام"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سئیمین"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "حِدّقِل ⟨حدیقل⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشورءِ"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "ءُ روچ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چارمین"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "پِرات"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:26.061700529Z",
+  "model": "glm-5.3"
+}

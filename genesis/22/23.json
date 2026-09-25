@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ بتوایل ⟨את⟩ ربکہءَ زائت؛ اے ہشت ملکہ نحورءَ زائتگ اَنت — نحورِ اوراہامءِ برات۔",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "ءُ بتوایل"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زائت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ربکہ"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ربکہ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ہشت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زائتگ اَنت"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ملکہ"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "نحورءَ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برات"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراہام"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:20.688185838Z",
+  "model": "glm-5.3"
+}

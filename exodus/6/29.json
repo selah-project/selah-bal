@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ یاہوہءَ موشہءَ لبیتیت گوَشت کہ من یاہوہ اَنت؛ تو پہ فرعونءَ، مِتسرایمءِ شاہءَ، ⟨את⟩ ہر آ کہ من تئے گوَشت، گپ دیت۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "لبیتیت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گپ دیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر آ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر آ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تئے"
+    }
+  ],
+  "timestamp": "2026-09-24T18:51:01.892181624Z",
+  "model": "glm-5.3"
+}

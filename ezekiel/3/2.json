@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ من وتی مُہ کُشاد کت ءُ ⟨او⟩ مءَ ⟨את⟩ اے لولک بوخورنت۔",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "ءُ من کُشاد کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُہ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُہ"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "ءُ مءَ بوخورنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے لولک"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "لولک"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T22:09:55.736072321Z",
+  "model": "glm-5.3"
+}

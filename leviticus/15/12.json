@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ مٹیءِ برتن کہ زاب آییءَ دست پہ کنت شکت بیت؛ ءُ هر چوبءِ برتن چہ آپءَ شُشت بیت.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "ءُ برتن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹیءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "دست پہ کنت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "زاب"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "شکت بیت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "چوبءِ"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "شُشت بیت"
+    },
+    {
+      "surface": "במים",
+      "gloss": "چہ آپءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:20.906872576Z",
+  "model": "glm-5.3"
+}

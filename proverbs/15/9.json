@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "بدکارءِ راہ یاہوہءِ پہ پلیت شے اِنت، ءُ راستیءِ رَمگ کوکءَ یے دوست داریت.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "پلیت شے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ پہ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکارءِ"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ءُ رَمگ کوک"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستیءِ"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "یے دوست داریت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:20.654429953Z",
+  "model": "glm-5.3"
+}

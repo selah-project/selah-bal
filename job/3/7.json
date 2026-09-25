@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "إیک، آ شپ بنجن بیت؛ ءُ آییءَ کوئے شادئیں آواز نہ روت.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "إیک"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "بنجن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "شادئیں آواز"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:41.368406894Z",
+  "model": "glm-5.3"
+}

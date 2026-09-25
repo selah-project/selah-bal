@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "روچ روچءَ گپ فشینت، ءُ شپ شپءَ زانتری دریک کنت.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "فشینت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ءُ شپ"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "دریک کنت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانتری"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:48.455529181Z",
+  "model": "glm-5.3"
+}

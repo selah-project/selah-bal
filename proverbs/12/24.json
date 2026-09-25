@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "محنتیءِ دست حکومت کنت، ءُ سستی باجءَ بیت.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "محنتیءِ"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "حکومت کنت"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "ءُ سستی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "למס",
+      "gloss": "باجءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:57.145736456Z",
+  "model": "glm-5.3"
+}

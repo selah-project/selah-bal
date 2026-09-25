@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ وتی کنیز — آییءِ نام رئومہ اِنت — آ ہم ⟨את⟩ تبہ ءُ ⟨את⟩ گہم ءُ ⟨את⟩ تہش ءُ ⟨את⟩ معکہءَ زائت۔",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "ءُ وتی کنیز"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "رئومہ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "آ ہم زائت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تبہ"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "تبہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گہم"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "گہم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "تہش"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "تہش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "معکہ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معکہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:20.688345717Z",
+  "model": "glm-5.3"
+}

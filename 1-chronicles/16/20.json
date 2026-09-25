@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ اِشاں گشتنت چہ یک قومءَ اِنت چہ دگہ قوم، ءُ چہ یک شاہیءَ اِنت چہ دگہ قومءَ.",
+  "tokens": [
+    {
+      "surface": "ויתהلכו",
+      "gloss": "ءُ اِشاں گشتنت"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "چہ یک قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "دگہ قوم"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "ءُ چہ یک شاہی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:27:26.165658577Z",
+  "model": "glm-5.3"
+}

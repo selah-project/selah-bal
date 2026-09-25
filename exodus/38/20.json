@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ مِشکانءِ ءُ چوگڑیءِ گِردءِ سریں میخان ہمگ چہ مسی اَنت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہمگ"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "میخان"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مِشکانءِ"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "ءُ چوگڑیءِ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گِردءِ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "چہ مسی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:23.942812188Z",
+  "model": "glm-5.3"
+}

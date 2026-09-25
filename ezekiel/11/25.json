@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ من گوں جلاوتانیاں ⟨את⟩ تمام یاہوہءِ گالان، کہ آ ماءَ دسگ، گپتار کت۔",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "ءُ من گپتار کت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "جلاوتانیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام یاہوہءِ گالان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ماءَ دسگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:10:32.817688694Z",
+  "model": "glm-5.3"
+}

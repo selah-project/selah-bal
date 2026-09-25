@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 60,
+  "translation": "پہ پیشوا، سرچوں شوشن ءِ گواہی، یک مکتام، پہ داود، پہ سک ءَ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرچوں"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "شوشن"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "مکتام"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داود"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "پہ سک ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:09.401110880Z",
+  "model": "glm-5.3"
+}

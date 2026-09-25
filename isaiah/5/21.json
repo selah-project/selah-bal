@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 5:21",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "وائے چہ اِشاں کہ وتی چشمانءَ دانا اَنت ءُ وتی رخشانءِ پیشءَ عاقل اَنت۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وائے"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "وتی چشمانءَ"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ءُ پیشءَ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "رخشانءِ"
+    },
+    {
+      "surface": "נבנים",
+      "gloss": "عاقل"
+    }
+  ],
+  "timestamp": "2026-09-24T21:23:10.755589067Z",
+  "model": "glm-5.3"
+}

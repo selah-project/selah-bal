@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ یاہوہءَ منی جاگہءَ گوَشت: اَت پہ اَت یک نادانءِ روئےءِ اسباب گور۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منی جاگہءَ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اَت پہ اَت"
+    },
+    {
+      "surface": "קח",
+      "gloss": "گور"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُئے پہ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اسباب"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "روئےءِ"
+    },
+    {
+      "surface": "אוילי",
+      "gloss": "نادان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:46:19.715504722Z",
+  "model": "glm-5.3"
+}

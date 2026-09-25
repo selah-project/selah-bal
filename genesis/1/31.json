@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ایلوہیمءَ ⟨את⟩ هر چی کہ کت گندیت، ءُ اے گوَن، گیش چنگ ⟨اِنت⟩؛ ءُ بوت شام، ءُ بوت سحر — ششمی روچ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هر چی کہ کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر چی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ اے گوَن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سحر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ششمی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:43.245797047Z",
+  "model": "glm-5.3"
+}

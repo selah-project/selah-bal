@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ عَبرون ءُ رَحوب ءُ حَمون ءُ قانہ، تا مزنین صیدون",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "ءُ عَبرون"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ءُ رَحوب"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "ءُ حَمون"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "ءُ قانہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صیدون"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "مزنین"
+    }
+  ],
+  "timestamp": "2026-09-24T20:11:37.111763794Z",
+  "model": "glm-5.3"
+}

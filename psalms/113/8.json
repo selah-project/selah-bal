@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 113,
+  "translation": "پہ نیشتانی آیاء گوں سرداران، گوں وتی قومءِ سرداران،",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "پہ نیشتانی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "سرداران"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "سرداران"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "وتی قومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:58.327451258Z",
+  "model": "glm-5.3"
+}

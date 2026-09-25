@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ زہگانی کُش: سبا، ءُ حَویلہ، ءُ سبتا، ءُ رَعمہ، ءُ سبتخا؛ ءُ زہگانی رَعمہ: شِبا ءُ دِدان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگانی"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُش"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "سِبا"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "ءُ حَویلہ"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "ءُ سبتا"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "ءُ رَعمہ"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "ءُ سبتخا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگانی"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "رَعمہ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبا"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "ءُ دِدان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:12.505594189Z",
+  "model": "glm-5.3"
+}

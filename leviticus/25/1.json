@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ یاہوہءَ موشہءَ گوَشت ہرءِ تہ سینائیءَ، آں کہ گوَشتءَ بیت،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ہرءِ تہ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینائیءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آں کہ گوَشتءَ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:48.799715770Z",
+  "model": "glm-5.3"
+}

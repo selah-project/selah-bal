@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "منی سپر ایلوہیمءِ سر ⟨اِنت⟩ — راست دلانءِ نجات دِنوک۔",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "منی سپر"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایلوہیمءِ سر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "نجات دِنوک"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "راست"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:38.461718637Z",
+  "model": "glm-5.3"
+}

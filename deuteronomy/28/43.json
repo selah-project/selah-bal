@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "پرانی کہ تُہءِ دلءَ ہست، تُہءِ سرءَ اُچڑ اُچڑ چڑھیت، ءُ تُہ جھڑ جھڑ ڈگیت۔",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "پرانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تُہءِ دلءَ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھیت"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تُہءِ سرءَ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "اُچڑ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "اُچڑ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تُہ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ڈگیت"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "جھڑ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "جھڑ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:24.123433134Z",
+  "model": "glm-5.3"
+}

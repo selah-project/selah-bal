@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "گوَش کنیت، چوکا من اشرافیں چیزان گوَشت ءُ منی لبانی کھولگءَ راستی اِنت۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوَش کنیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوکا"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "اشرافیں چیزان"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "ءُ کھولگ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "منی لبانی"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "راستی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:44.298234014Z",
+  "model": "glm-5.3"
+}

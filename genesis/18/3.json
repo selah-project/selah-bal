@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ گوَشت: اے ادونای، اگر ما تہ چشمانءَ رحمت لبم، ما تہ چہ مردمءَ گوَز نہ کہ، اے بانگءَ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے بانگءَ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "لبم"
+    },
+    {
+      "surface": "חן",
+      "gloss": "رحمت"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "تہ چشمانءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے بانگءَ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "گوَز کہ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تہ مردمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:30:12.313910863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "آیی کہ گوشءَ لانتیت، آیا آیی نہ گوشیت؟ آیی کہ چمءَ جوڑیت، آیا آیی نہ گندیت؟",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "لانتیت"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "آیا نہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "جوڑیت"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چم"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "آیا نہ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "گندیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:52.679863453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "من یاہوہءَ ⟨את⟩ گوں ہر وہد برکت دین، آییءِ تعریف ہمیشہ منی زبانءَ ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "برکت دین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "گوں ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "آییءِ تعریف"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "منی زبانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:41.585686108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ بنیامینءَ ⟨את⟩ بیلعءَ جوڑ کت، آییءِ اولی زہگ، اَشبیل دوامی، ءُ اَح‌راح سئیمی۔",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "ءُ بنیامینءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیلعءَ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بیلع"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "آییءِ اولی زہگ"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "اَشبیل"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوامی"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "ءُ اَحراح"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سئیمی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:37.713499533Z",
+  "model": "glm-5.3"
+}

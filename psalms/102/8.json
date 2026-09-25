@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "بیدار مانتُم، ءُ بُتم چوش مرگے یکے تہ بانءِ سرا.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "بیدار مانتُم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بُتم"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "چوش مرگے"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ ... سرا"
+    },
+    {
+      "surface": "גג",
+      "gloss": "بانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:36.518692091Z",
+  "model": "glm-5.3"
+}

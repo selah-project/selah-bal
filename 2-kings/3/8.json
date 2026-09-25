@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ گوَشت: 'کجا اے راہ اِنت کہ منی زاں؟' ءُ گوَشت: 'بیابانءِ اَدُومءِ راہ.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "منی زاں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابانءِ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدُوم"
+    }
+  ],
+  "timestamp": "2026-09-24T21:08:29.914197860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ کاہن آییءَ گندیت، ءُ چکا نشان چُوڑے گوں سفید بوتگ، ءُ کاہن ⟨את⟩ نشانءَ پاک گوَشت — آ پاک اِنت.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "ءُ آییءَ گندیت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ چکا"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "چُوڑے بوتگ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "گوں سفید"
+    },
+    {
+      "surface": "وטהר",
+      "gloss": "ءُ پاک گوَشت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نشانءَ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نشانءَ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:52.321227531Z",
+  "model": "glm-5.3"
+}

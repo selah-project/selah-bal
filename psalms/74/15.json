@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "تو چشمہ ءُ روڈ چیر کت؛ تو همیشگین روڈان وش کت.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "چیر کت"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ءُ روڈ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "وش کت"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "روڈان"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "همیشگین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:33.293038029Z",
+  "model": "glm-5.3"
+}

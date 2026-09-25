@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ آییءِ بُرازءِ نام یوبال اِنت؛ آ ءُ ہست کہ ہر رباب ءُ سرنگیءَ گوَشت کنوکءِ پیو بوت۔",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ءُ نام"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "آییءِ بُراز"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یوبال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "گوَشت کنوک"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "رباب"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ءُ سرنگی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:15.495683783Z",
+  "model": "glm-5.3"
+}

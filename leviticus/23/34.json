@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 23:34",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "گوں اسرائیلءِ زہگاناں گپ وارت کہ، آں ہپتمی ماہءِ پندہمی روچءَ سُکوتءِ چھٹی اِنت — ہپت روچ پہ یاہوہ۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "گپ وارت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ (پندہم)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماہءِ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ہپتمی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آں"
+    },
+    {
+      "surface": "חג",
+      "gloss": "چھٹی"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "سُکوت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:45.140861459Z",
+  "model": "glm-5.3"
+}

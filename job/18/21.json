@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "بےشک ہمے بے-راستءِ مِشکان اِنت، ءُ اے اُوں جاگہ اِنت کہ ایلءَ نہ زانت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بےشک"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "مِشکان"
+    },
+    {
+      "surface": "עול",
+      "gloss": "بے-راستءِ"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:54.556859437Z",
+  "model": "glm-5.3"
+}

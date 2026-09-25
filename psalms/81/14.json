@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 81,
+  "translation": "کاشکہ مہ قوم مہ گوشیت، یسرائیل ماں مہ راہاں روت۔",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "کاشکہ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "مہ قوم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل ⟨اسرائیل⟩"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ماں مہ راہاں"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "روت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:14.519222739Z",
+  "model": "glm-5.3"
+}

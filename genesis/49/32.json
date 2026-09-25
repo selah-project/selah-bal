@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "دار ءُ غار کہ آییءِ تہ اِنت — خریدءِ بابت چہ ⟨את⟩ حثءِ زہگانءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "خریدءِ بابت"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "دار ءُ"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "غارءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءِ تہ"
+    },
+    {
+      "surface": "مאת",
+      "gloss": "چہ ⟨את⟩",
+      "marks": "حثءِ زہگانءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانءِ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حثءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:49:57.597237172Z",
+  "model": "glm-5.3"
+}

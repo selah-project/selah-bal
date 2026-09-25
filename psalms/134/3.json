@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 134,
+  "translation": "یاہوہءَ تُئے سیونءَ چہ برکت دیت، آ کہ آسمانان ءُ زمین جوڑ کتگ.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "تُئے برکت دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "سیونءَ چہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کتگ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ءُ زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:17.305880040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "پرچا کہ یاہوہ تُہءِ اعتماد بیت، ءُ تُہءِ پا چہ دامءَ سات کنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "تُہءِ اعتماد"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ءُ سات کنت"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "تُہءِ پا"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "چہ دامءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:59.180742570Z",
+  "model": "glm-5.3"
+}

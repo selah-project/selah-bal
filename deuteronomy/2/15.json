@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ ھم یاہوہءِ دست آیاناںءِ سر اَت، آیاناں چہ پڑاوءِ میانءَ پرا کتنک پہ، تا کہ آیاناں تمام بوتنت۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ھم"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "בם",
+      "gloss": "آیاناںءِ سر"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "پرا کتنک پہ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "چہ میانءَ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاوءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "تمام بوتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:56.177776630Z",
+  "model": "glm-5.3"
+}

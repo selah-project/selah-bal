@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "یاہوہءِ چمان پہ راستان ⟨اَنت⟩، ءُ آییءِ گوشتے پہ آیانی بانگ ⟨اَنت⟩.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "چمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستان"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ءُ آییءِ گوشتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "آیانی بانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:46.878467097Z",
+  "model": "glm-5.3"
+}

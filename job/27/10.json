@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "اگر آیی پہ ایل شدّایءَ شاد بیت، آیی ایلوہءَ پہ ہر وہد بانگ کنت؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ایل شدّای"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "بانگ کنت"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہءَ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:39:14.507126927Z",
+  "model": "glm-5.3"
+}

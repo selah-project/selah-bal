@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یاہوہءَ جوابت دیت ⟨את⟩ فرشتہءَ کہ منی تہ گوَشتوک اِنت، شیریں گالان، دلدالیں گالان۔",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ءُ جوابت دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرشتہءَ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتہءَ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گوَشتوک"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منی تہ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "شیریں"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "دلدالیں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:43:47.463008724Z",
+  "model": "glm-5.3"
+}

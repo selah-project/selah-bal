@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "اے گادءِ زہگان اَنت، لشکرءِ سران؛ ہچ کمن یک ⟨اِنت⟩ پہ سد، ءُ گیش پہ ہزار.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گادءِ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سران"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکرءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "پہ سد"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ہچ کمن"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "پہ ہزار"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:50.506151895Z",
+  "model": "glm-5.3"
+}

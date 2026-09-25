@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 27:5",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ اگر چہ پنچ سالانی زہگءَ ءُ تا بیست سالانی زہگ، پس تُءِ ارزش نرءِ پہ بیست شکل بیت، ءُ مادہءِ پہ دہ شکل۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "چہ زہگءَ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگءَ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "پس بیت"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تُءِ ارزش"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "ءُ مادہءِ پہ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:49.581371910Z",
+  "model": "glm-5.3"
+}

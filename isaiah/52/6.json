@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 52,
+  "translation": "پہ اے سبب منی قوم منی نامءَ زانیت، پہ اے سبب اُو روچءَ زانیت کہ من اُو اِنت کہ گپیت — اِشا من اِنت.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "پہ اے سبب"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانیت"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قوم"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "منی نامءَ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "پہ اے سبب"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُو روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُو"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "کہ گپیت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اِشا من"
+    }
+  ],
+  "timestamp": "2026-09-24T21:39:16.552536394Z",
+  "model": "glm-5.3"
+}

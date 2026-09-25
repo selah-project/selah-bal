@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "زریں نکیں گوڑی چہ سؤءِ نکءَ — ہک زنکیں جنک ءُ چہ چمءَ پھتگ.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "نکیں گوڑی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زریں"
+    },
+    {
+      "surface": "באף",
+      "gloss": "چہ نکءَ"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "زنکیں"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "ءُ چہ چمءَ پھتگ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "چم"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:53.602501714Z",
+  "model": "glm-5.3"
+}

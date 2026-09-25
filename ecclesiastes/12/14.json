@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "چونکہ ایلوہیم ⟨את⟩ ہر کار انیت عدالتءَ، گوں ہر پنہائیں چیز، اگر چنگ ءُ اگر بد۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر کار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "انیت"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "عدالتءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "پنہائیں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:22.949873865Z",
+  "model": "glm-5.3"
+}

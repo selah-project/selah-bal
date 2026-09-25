@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "مشورتءَ گوش کن ءُ تربیتءَ گر، پہ اے کہ آے انتءَ تہ دانشمند بیت۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورتءَ"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "ءُ گر"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیتءَ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "دانشمند بیت"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "آے انتءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:31.613252143Z",
+  "model": "glm-5.3"
+}

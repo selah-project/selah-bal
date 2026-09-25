@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 38:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ یاہوہءِ گال یشعیاہوءَ گوَشتءَ آت:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاہو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:32:51.555603872Z",
+  "model": "glm-5.3"
+}

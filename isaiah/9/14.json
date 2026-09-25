@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "بُزگوماں ءُ پَدَرْوت دیم، آءِ سر اِنت؛ ءُ پیغمبر کہ دروگءِ مُعلِم اِنت، آءِ دُم اِنت۔",
+  "tokens": [
+    {
+      "surface": "زקן",
+      "gloss": "بُزگوماں"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "ءُ پَدَرْوت"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "دیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ءُ پیغمبر"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "مُعلِم"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروگ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "دُم"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:37.186635884Z",
+  "model": "glm-5.3"
+}

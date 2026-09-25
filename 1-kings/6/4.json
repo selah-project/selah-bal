@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ ⟨او⟩ گسءِ پہ جنڈلیں کشاد بند کت.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گسءِ پہ"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "جنڈلیں"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "کشاد"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "بند"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:09.681334750Z",
+  "model": "glm-5.3"
+}

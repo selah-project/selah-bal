@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ بوْعَز ءَ ⟨את⟩ عوْبید زا، ءُ عوْبید ءَ ⟨את⟩ یِشای زا.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "ءُ بوْعَز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوْبید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوْبید"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ءُ عوْبید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِشای"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:47.035827595Z",
+  "model": "glm-5.3"
+}

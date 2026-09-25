@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "تیٹءِ پہ گوپھرءِ چوءِ کیپ بگڑ؛ کونانءَ ⟨את⟩ کیپءَ بگڑت، ءُ ⟨את⟩ آییءَ چہ اندر ءُ چہ بیر گوں کِترانءَ پُش۔",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "بگڑ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیٹءِ پہ"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "کیپ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چو"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "گوپھر"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "کونان"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بگڑت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کیپ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کیپ"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "ءُ پُشیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "کیپ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "چہ اندر"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ءُ چہ بیر"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "گوں کِترانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:18.162093627Z",
+  "model": "glm-5.3"
+}

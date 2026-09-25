@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یادعءِ زہگان — شمیءِ برات — یتِر ءُ یوناتان اَنت؛ ءُ یتِر مُرت — زہگان نہ اَنت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ ... ءِ زہگان"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "یادع"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برات"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمیءِ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یتِر"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ءُ یوناتان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُرت"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یتِر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:57.850439548Z",
+  "model": "glm-5.3"
+}

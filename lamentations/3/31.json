@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کیچہ ادونای پہ ہمیشا ⟨⟨ایшу⟩⟩ پیش نہ کیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "پیش کیت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:51.585402830Z",
+  "model": "glm-5.3"
+}

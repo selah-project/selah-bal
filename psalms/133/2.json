@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 133,
+  "translation": "چوش شیرین تیل کہ سریءَ ڈنت، پہ رِشت، ہارونءِ رِشت، کہ پہ وتيں جلباني دہنءَ ڈنت۔",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "چوش تیل"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "شیرین"
+    },
+    {
+      "surface": "על",
+      "gloss": "سریءَ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ڈنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "رِشت"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "رِشت"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ہارون ⟨ہارون⟩"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "کہ ڈنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دہن"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "وتیں جلبان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:22.056588611Z",
+  "model": "glm-5.3"
+}

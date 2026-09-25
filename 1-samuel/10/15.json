@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ شاؤلءِ دودءَ گوَشت: «مہءَ اِے گنڈیngthen چہ چہ شمویلءَ تُمانءَ گوَشت؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "دוד",
+      "gloss": "دودءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءِ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "گنڈیngthen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اِے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مہءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ چی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُمانءَ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمویلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:29:54.952962738Z",
+  "model": "glm-5.3"
+}

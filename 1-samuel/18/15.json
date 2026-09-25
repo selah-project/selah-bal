@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ شاؤل گندیت کہ آ گوں جنک دوراندیش اِنت، ءُ چہ آییءِ پیشءَ ڈرست.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "دوراندیش"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گوں جنک"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ءُ ڈرست"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "چہ آییءِ پیشءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:34:04.876464658Z",
+  "model": "glm-5.3"
+}

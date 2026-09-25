@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "ءُ زنت هر بچین زہگ تہ آیانی زمین، اولین پہ تمام آیانی زور۔",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ءُ زنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بچین زہگ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "تہ آیانی زمین"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "اولین"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ تمام"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "آیانی زور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:33.817685381Z",
+  "model": "glm-5.3"
+}

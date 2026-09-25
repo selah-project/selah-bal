@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ آییءِ پیءِ قُدسی چیزاں ءُ وتءی قُدسی چیزاں ایلوہیمءِ گadanءَ آورت ⟨את⟩ چاندی ءُ زر ءُ برتن۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آورت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قُدسی چیزاں"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "قُدسی چیزاں"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آییءِ پیءِ"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "ءُ وتءی قُدسی چیزاں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گadanءَ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ءُ زر"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ءُ برتن"
+    }
+  ],
+  "timestamp": "2026-09-25T00:38:09.599978268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 115,
+  "translation": "آیانی جوڑ کنوک آیانی چوں بنت، ہر آ کہ آیانی تہ تیکار کنت.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "آیانی چوں"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "آیانی جوڑ کنوک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر آ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "تیکار کنت"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "آیانی تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:43.196975769Z",
+  "model": "glm-5.3"
+}

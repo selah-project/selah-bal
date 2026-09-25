@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ ⟨את⟩ ریسن مںجت نینوہ ءُ مںجت کلح — آیی آ ⟨اِنت⟩ گیش شار.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ریسن"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "ریسن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "مںجت"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوہ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ مںجت"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "کلح"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آیی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:19.653695212Z",
+  "model": "glm-5.3"
+}

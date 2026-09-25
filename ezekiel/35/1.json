@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 35:1",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ بوت یاہوہءِ گال منیءَ گوں آ بلگ بیت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منیءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بلگ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:24:20.154889075Z",
+  "model": "glm-5.3"
+}

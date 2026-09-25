@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 82,
+  "translation": "دال ءُ یتیمءَ داوری بدارئے، عانی ءُ کمبختءَ راست بدارئے۔",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "داوری بدارئے"
+    },
+    {
+      "surface": "דל",
+      "gloss": "دال"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ءُ یتیمءَ"
+    },
+    {
+      "surface": "عני",
+      "gloss": "عانی"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "ءُ کمبختءَ"
+    },
+    {
+      "surface": "הצדיקو",
+      "gloss": "راست بدارئے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:39.295514018Z",
+  "model": "glm-5.3"
+}

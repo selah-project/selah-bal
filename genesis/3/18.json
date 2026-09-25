@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ کانڑ ءُ دردر آ تُہءِ پہ پید کنیت، ءُ تُو ⟨את⟩ میدانءِ وانی وانگ بیت۔",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ءُ کانڑ"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ءُ دردر"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "پید کنیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءِ پہ"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ءُ تُو وانگ بیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میدانءِ وانی"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "وانی"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:46.897271354Z",
+  "model": "glm-5.3"
+}

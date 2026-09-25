@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 15:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ چارمی نسل اےدا ورتنت، کہ اَموریءِ گناہ تَنتہ اےدا پور نہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ודור",
+      "gloss": "ءُ نسل"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "چارمی"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ورتنت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اےدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پور"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اَموریءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تَنتہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اےدا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:29:33.368454610Z",
+  "model": "glm-5.3"
+}

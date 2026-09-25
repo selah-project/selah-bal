@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "نہ گنت سازش، پہ ہمگ آ کہ اے قوم گنت سازش؛ ءُ ⟨את⟩ آییءِ ڈرءَ نہ ڈرنت ءُ نہ لرزنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "گنت"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "سازش"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہمگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "گنت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اے قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "سازش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ ڈر"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "آییءِ ڈرءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ڈرنت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "لرزنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:22:25.124348859Z",
+  "model": "glm-5.3"
+}

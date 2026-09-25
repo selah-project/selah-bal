@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "اے یاہوہءَ گوں پوریں دلءَ سپاس وانت کنم، ءُ تُءِ عجیب کاران ہمگ بانم.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "سپاس وانت کنم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "گوں پوریں"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "بانم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "تُءِ عجیب کاران"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:32.858509845Z",
+  "model": "glm-5.3"
+}

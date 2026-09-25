@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "مان، گوں ⟨את⟩ من، نہ ترس؛ کہ آ کہ منءِ جنءَ ⟨את⟩ پیت گنت، توءِ جنءَ ⟨את⟩ پیت گنت؛ کہ تو منءَ گوں پہرہءَ اے۔",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "مان"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ گوں من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "پیت گنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منءِ جنءَ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منءِ جنءَ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "پیت گنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توءِ جنءَ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "توءِ جنءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "پہرہءَ گوں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "منءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:35:52.760404980Z",
+  "model": "glm-5.3"
+}

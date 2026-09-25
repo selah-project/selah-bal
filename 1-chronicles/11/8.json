@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ آ شہر گوڑ کت چہ ملوءَ ءُ تا گرد ءُ گرد؛ ءُ یوآب ⟨את⟩ شہرءِ گیشترئی چاک کت۔",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "گوڑ کت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "گرد ءُ گرد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ملو"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "گرد ءُ گرد"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ءُ یوآب"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "چاک کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہرءِ گیشترئی"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "گیشترئی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:42.918513915Z",
+  "model": "glm-5.3"
+}

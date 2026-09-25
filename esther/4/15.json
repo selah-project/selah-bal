@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ ایستیر گوَشت کہ اے گال پہ مردخایءَ پدا بیت:",
+  "tokens": [
+    {
+      "surface": "ותאمר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ایستیر"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "کہ اے گال پدا بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخایءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:56:03.910034218Z",
+  "model": "glm-5.3"
+}

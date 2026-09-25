@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "آیی ⟨את⟩ یہوہءِ گدءِ اُچمیں دروازہ جوڑ کت، ءُ عوفلءِ دیوارءَ تہ گیش جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "آیی"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوہءِ گدءِ اُچمیں دروازہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہءِ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "اُچمیں"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "ءُ دیوارءَ تہ"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "عوفلءِ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:42:33.298023320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 71,
+  "translation": "مان چوں نشانے گیشتریں مردمانی پہ بوتگءُ اَت، ءُ تو منی پناہءِ قلات۔",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "چوں نشانے"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بوتگءُ اَت"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "گیشتریں پہ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "منی پناہ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "قلات"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:34.380308750Z",
+  "model": "glm-5.3"
+}

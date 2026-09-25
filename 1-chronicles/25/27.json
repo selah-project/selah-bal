@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 25:27",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "دہمی پہ اِلیاتہ، آییءِ زہگان ءُ آییءِ براتان دو ءُ دہ اَنت۔",
+  "tokens": [
+    {
+      "surface": "לעשרים",
+      "gloss": "دہمی"
+    },
+    {
+      "surface": "לאליתה",
+      "gloss": "پہ اِلیاتہ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "آییءِ زہگان"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ءُ آییءِ براتان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ءُ دہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:14.886325369Z",
+  "model": "glm-5.3"
+}

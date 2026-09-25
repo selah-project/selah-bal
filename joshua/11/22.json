@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 11:22",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "یسرائیلی زہگانی زمینءَ ہچ عناقی نہ مانتگ — ہمک غزہ، گت ءُ اشدودءَ مانتگ اَنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "مانتگ"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "عناقی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "غزہءَ"
+    },
+    {
+      "surface": "بגת",
+      "gloss": "گتءَ"
+    },
+    {
+      "surface": "ובאשדוד",
+      "gloss": "ءُ اشدودءَ"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "مانتگ اَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:25.513311394Z",
+  "model": "glm-5.3"
+}

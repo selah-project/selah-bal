@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ ⟨את⟩ ہر زاغ آییءِ گونانءَ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "زاغ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "زاغ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "آییءِ گونانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:51.814370985Z",
+  "model": "glm-5.3"
+}

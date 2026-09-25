@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "تو وتی قومءَ بے مالءَ مَکت، ءُ چہ اِشانی مُلءَ تُو گیش نہ کتگ۔",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "مَکت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "وتی قومءَ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بے"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مالءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "گیش نہ کتگ"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "چہ اِشانی مُلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:02.085708248Z",
+  "model": "glm-5.3"
+}

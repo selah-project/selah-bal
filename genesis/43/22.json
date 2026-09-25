@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 43:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "ءُ دگہ چی ماں وتی دستءَ چار آورتگ پہ غوڑی خریدن؛ نہ زانیں کِے ماں ئے چی تھالان ئے تہ گِت۔",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "ءُ چی"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "הורדנו",
+      "gloss": "چار آورتگ"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "وتی دستءَ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "پہ خریدن"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "غوڑی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "زانیں"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "گِت"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "ماں ئے چی"
+    },
+    {
+      "surface": "באמתחתינו",
+      "gloss": "تھالان ئے تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:46:00.518238574Z",
+  "model": "glm-5.3"
+}

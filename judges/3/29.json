@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 3:29",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ آیان ⟨את⟩ موابءَ اے وہدءَ زت، گوں دہ ہزار مردی — ہر موٹے ءُ ہر زوراں مردی — ءُ یک مرد هم نہ رہت۔",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ءُ زت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موابءَ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موابءَ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اے وہدءَ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دہ ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "موٹے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زوراں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "رہت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T20:15:44.484777289Z",
+  "model": "glm-5.3"
+}

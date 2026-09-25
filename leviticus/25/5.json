@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "⟨את⟩ تیریں دروئِ خپڈال نہ درو، ءُ ⟨את⟩ نہ شستگیں تاکئِ انگوران نہ گنٹ — زمینءَ شباتونیں سال بیت۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپڈال"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "خپڈال"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "تیریں دروئِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "درو نہ کنت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "انگوران"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "انگوران"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "نہ شستگیں تاکئِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "گنٹ نہ کنت"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "شباتون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:44.658762161Z",
+  "model": "glm-5.3"
+}

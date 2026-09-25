@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "من تما شا رہ آنت تہ ایلءِ دستءَ آ کہ گوں ایل شدّای اِنت، من آ نہ پوشانیت.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "رہ آنت"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تما شا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "تہ ایلءِ دستءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ایل شدّای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "پوشانیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:39:14.507321102Z",
+  "model": "glm-5.3"
+}

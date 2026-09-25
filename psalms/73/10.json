@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "پس اِیءِ قوم ایدہ روت، ءُ پُریں گadanءِ آپ اِشانی پہ چکِشت بوت۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "پس"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "روت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اِیءِ قوم"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ایدہ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ آپ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پُریں"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "چکِشت بوت"
+    },
+    {
+      "surface": "למו",
+      "gloss": "پہ اِشاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:12.728892841Z",
+  "model": "glm-5.3"
+}

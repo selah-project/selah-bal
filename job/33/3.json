@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "مہ دلءِ راستیءَ مہ گپان ⟨اِنت⟩، ءُ مہ لبانءِ زانت روشن گپ کنت.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "مہ دلءِ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "مہ گپان"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ زانت"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "مہ لبانءِ"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "روشن"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "گپ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:41:58.041546609Z",
+  "model": "glm-5.3"
+}

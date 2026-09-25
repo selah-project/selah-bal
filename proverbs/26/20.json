@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "پہ چراہءِ نیستیءَ اگ پچ گریت، ءُ پہ غیبت کنوکءِ نیستیءَ رین چپ بیت۔",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "پہ…نستیءَ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "چراہءِ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "پچ گریت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگ"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "ءُ پہ…نستیءَ"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "غیبت کنوکءِ"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "چپ بیت"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "رین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:36.684621487Z",
+  "model": "glm-5.3"
+}

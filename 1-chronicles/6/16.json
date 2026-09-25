@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اے آ اَنت کہ داود آیانءَ گوَنگءِ دستءَ یاہوہءِ گدانءِ تہءَ ایستاو کت، چہ رند کہ صندوقءَ آرام کت.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨کہ⟩"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "ایستاو کت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستءِ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گوَنگ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "چہ آرام"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    }
+  ],
+  "timestamp": "2026-09-25T01:14:15.443048436Z",
+  "model": "glm-5.3"
+}

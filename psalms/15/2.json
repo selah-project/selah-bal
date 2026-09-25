@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "روتیں آ کہ تھامیتءَ رویت، ءُ راستی کنیت، ءُ وتی دلءَ تہ سچائی گوشیت۔",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "رویت"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تھامیتءَ"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ءُ کنیت"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ءُ گوشیت"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچائی"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "وتی دلءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:28.785507067Z",
+  "model": "glm-5.3"
+}

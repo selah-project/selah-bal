@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "شاؤل سالءِ زہگ اِنت آییءِ سلطنتءَ، ءُ دو سال آیی اسرائیلءِ سرءَ حکومت کت۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالءِ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "آییءِ سلطنتءَ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "حکومت کت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:30:51.696952355Z",
+  "model": "glm-5.3"
+}

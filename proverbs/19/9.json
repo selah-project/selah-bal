@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "جوٹانیں گواہ نہ بری بیت، ءُ آ کہ چٹان دَمیت، ہلاک بیت.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "جوٹانیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بری بیت"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ءُ آ کہ دَمیت"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ہلاک بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:39.297421690Z",
+  "model": "glm-5.3"
+}

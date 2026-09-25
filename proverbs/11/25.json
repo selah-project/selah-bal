@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "جانِ برکتءِ چرب بیت، ءُ آ کہ آپ دیت — آیی ہم باران گنت۔",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکتءِ"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "چرب بیت"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "ءُ آپ دیوک"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آیی"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "باران گنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:39.194076436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "تُءِ گال تُءِ نوکرءَ پکا کت، آ کہ تُءِ ڈرءِ پہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "پکا کت"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "تُءِ نوکرءَ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تُءِ گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "تُءِ ڈرءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:23.839256040Z",
+  "model": "glm-5.3"
+}

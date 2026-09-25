@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ یاہوہءِ گال ایلیاہو تِشبیءَ روئی کت، کہ گوَشتیت:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "روئی"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ایلیاہوءَ"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "تِشبیءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشتیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:05:45.997438982Z",
+  "model": "glm-5.3"
+}

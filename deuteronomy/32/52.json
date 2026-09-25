@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "کیچہ تو زمینءَ دُری چہ بِینی ⟨את⟩، ءُ اودا نہ گِندی آ زمینءَ کہ من اسرائیلءِ زہگانءَ دیم۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "מנגد",
+      "gloss": "دُری چہ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "بِینی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمینءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ءُ اودا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "گِندی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "آ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پہ زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:59.846693915Z",
+  "model": "glm-5.3"
+}

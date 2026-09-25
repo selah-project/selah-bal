@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ یسریائلءِ شاہءَ یہوشافتءَ گوَشت: مے تئے نہ گوَشتیت کہ آ مے پہ چُک پیشگوئی نہ کنت، بلے برا؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسریائل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یہوشافت"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "مے نہ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گوَشتیت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "پیشگوئی کنت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مے پہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چُک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    }
+  ],
+  "timestamp": "2026-09-24T21:08:08.248340487Z",
+  "model": "glm-5.3"
+}

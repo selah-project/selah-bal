@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ ات پہ روزانی انتہا، کہ نہال وشک بوت، پرچا کہ زمینءَ بارش نبوت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ ات"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "پہ…انتہا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روزانی"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "وشک بوت"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نہال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "بارش"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:02:20.222490012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "پس پہ اِنے مئے اندرونی پہ موآب چوش کنارءِ گونجیت، ءُ مئے دلی شے پہ قیر حریش.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِنے"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "مئے اندرونی"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "پہ موآب"
+    },
+    {
+      "surface": "ככנור",
+      "gloss": "چوش کنار"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "گونجیت"
+    },
+    {
+      "surface": "וקרבי",
+      "gloss": "ءُ مئے دلی شے"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "پہ قیر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "حریش"
+    }
+  ],
+  "timestamp": "2026-09-24T21:26:09.105981346Z",
+  "model": "glm-5.3"
+}

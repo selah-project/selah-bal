@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آ چہ اُشا دبیرءِ گوشوکانءَ روت؛ ءُ دبیرءِ نام پیش چہ اے قریت سفر اِنت.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ آ روت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "چہ اُشا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "گوشوکانءَ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبیرءِ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ءُ نام"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبیرءِ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پیش چہ اے"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفر"
+    }
+  ],
+  "timestamp": "2026-09-24T20:13:38.056786470Z",
+  "model": "glm-5.3"
+}

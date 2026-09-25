@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آیا مرگ په زمینءِ پچءَ ڈگیت، ءُ دام آییءَ نیست؟ آیا پچ چہ ڈگارءَ چیڑیت، ءُ شکار نہ گرنت؟",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "آیا ڈگیت"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "په ... ءَ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "پچءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "ءُ دام"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نست"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "آیا چیڑیت"
+    },
+    {
+      "surface": "פח",
+      "gloss": "پچ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ڈگارءَ"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "ءُ شکار گرگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "گرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:34:20.586770838Z",
+  "model": "glm-5.3"
+}

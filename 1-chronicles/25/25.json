@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 25:25",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ہشتمی پہ حَنانی، آییءِ زہگان ءُ آییءِ براتان دو ءُ دہ اَنت۔",
+  "tokens": [
+    {
+      "surface": "לשמונה",
+      "gloss": "ہشتمی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ہشتمی (ءِ دہمی حصہ)"
+    },
+    {
+      "surface": "לחנני",
+      "gloss": "پہ حَنانی"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "آییءِ زہگان"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ءُ آییءِ براتان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ءُ دہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:14.885865846Z",
+  "model": "glm-5.3"
+}

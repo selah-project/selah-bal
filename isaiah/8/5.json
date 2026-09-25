@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ یاہوہءَ مءِ سرا پدا گوَشت گوں آ کہ گوَشت:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ءُ پدا کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءِ سرا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوں آ کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:23:25.650336079Z",
+  "model": "glm-5.3"
+}

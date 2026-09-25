@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ مِینہ زَمینءَ سر گَرِشت چَل رَوز ءُ چَل شَپ.",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "مِینہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ءَ سر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زَمین"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چَل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "رَوز"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ءُ چَل"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شَپ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:27.506573067Z",
+  "model": "glm-5.3"
+}

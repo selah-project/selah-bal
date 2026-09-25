@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 110,
+  "translation": "یاہوہ قسم کت ءُ آییءِ دل نہ بدلینت: تُو پہ ہمیشہ کاہن ئے، مالکی سدکءِ رِشتہءَ۔",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "قسم کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "دل بدلینت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "رِشتہءَ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "مالکی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "سدک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:23.008438853Z",
+  "model": "glm-5.3"
+}

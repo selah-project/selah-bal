@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 22:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اے گوشءَ کج کن ءُ خردمندانی گالان گوش کن، ءُ دلءَ پہ منی زانگءَ دَر کن۔",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "کج کن"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "اے گوشءَ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ءُ گوش کن"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "خردمندانی"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "ءُ اے دل"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "دَر کن"
+    },
+    {
+      "surface": "לדעתי",
+      "gloss": "پہ منی زانگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:31.816134161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "آییءِ خوارءَ پہ ہچ بازمانت نیست؛ اے پہ زات آییءِ نیکی نہ مانیت۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نست"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "بازمانت"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "آییءِ خوارءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے زات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "مانیت"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "آییءِ نیکی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:38:09.610845351Z",
+  "model": "glm-5.3"
+}

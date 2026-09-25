@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ موشہءَ اِشاںءَ گوَشت: دَر بَئیں، ءُ من گوشیت کہ یاہوہ شماءِ بابت چ\tfrمان دیت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "עמدו",
+      "gloss": "دَر بَئیں"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "ءُ من گوشیت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "فرمان دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماءِ بابت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:32:52.261681290Z",
+  "model": "glm-5.3"
+}

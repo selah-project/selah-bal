@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "کہ گیش میزان اُلٹی ءُ گندیءَ چہ پُر اِنت — بے جاگہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "میزان"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "پُر بوتنت"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "اُلٹی"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "گندی"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:20.921838440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یاہوہءَ گوَشت: کیا تُیاءَ پہ غصہ چنگ اِنت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "کیا چنگ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُیاءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:37:59.149787651Z",
+  "model": "glm-5.3"
+}

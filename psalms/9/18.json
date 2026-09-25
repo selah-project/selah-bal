@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "گناہگاران شیئولءَ پدا روتنت، ہمگ قومان کہ ایلوہیمءَ بھچکنت۔",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "پدا روتنت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "گناہگاران"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "شیئولءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "بھچکن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:56.310937069Z",
+  "model": "glm-5.3"
+}

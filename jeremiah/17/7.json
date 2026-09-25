@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "برکت والا اِنت ⟨اے⟩ مرد کہ یاہوہءَ تہ بھروسہ کنت ءُ یاہوہ اِنت وتءِ بھروسہ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکت والا"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨اے⟩ مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "بھروسہ کنت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہءَ تہ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "وتءِ بھروسہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:50:27.384276276Z",
+  "model": "glm-5.3"
+}

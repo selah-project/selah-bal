@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "اے یاہوہ، مئَ تئَریں حکمانی راہ سکا، ءُ من آییءَ تا آخر گرت.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "مئَ سکا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تئَریں حکمانی"
+    },
+    {
+      "surface": "وאצרנה",
+      "gloss": "ءُ من آییءَ گرت"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "تا آخر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:46.068737357Z",
+  "model": "glm-5.3"
+}

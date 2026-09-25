@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "تُئے دستءَ مءِ روح سپار کنءُآں؛ تو ⟨את⟩ مءَ چنگ زت، اے یاہوہ، ایلءِ راستی۔",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "تُئے دستءَ"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "سپار کنءُآں"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "مءِ روح"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "چنگ زت"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ مءَ",
+      "marks": "مءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:29.930090594Z",
+  "model": "glm-5.3"
+}

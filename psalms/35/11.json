@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "زوریں گواہان اٹلنت؛ آ کہ من نہ زانتگءُم، چہ من پُچش کننت.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "اٹلنت"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "گواہان"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زوریں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زانتگءُم"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "چہ من پُچش کننت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:46.479697129Z",
+  "model": "glm-5.3"
+}

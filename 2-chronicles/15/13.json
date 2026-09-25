@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 15:13",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ ہر کس کہ یاہوہءَ، اسرائیلءِ ایلوہیمءَ، نہ جستجو کنت، آ کُش بیت — چہ نکیں ءُ تا رند، چہ مرد ءُ تا زن۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "جستجو کنت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "کُش بیت"
+    },
+    {
+      "surface": "למן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "نکیں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "رند"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "چہ مرد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    }
+  ],
+  "timestamp": "2026-09-25T00:38:44.513554338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ داوودءَ یوروشلمءَ دگہ زنانیان گرپت، ءُ داوودءَ دگہ زہگان ءُ جنکیان وَلد کت.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گرپت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زنانیان"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یوروشلمءَ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ وَلد کت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ءُ جنکیان"
+    }
+  ],
+  "timestamp": "2026-09-25T01:15:53.038543164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 56,
+  "translation": "من تہ ایلوہیم بھرپتی کنین، نہ من ڈرجت؛ مردم مہءَ چی کر کنت؟",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "تہ ایلوہیم"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "بھرپتی کنین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ڈرجت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کر کنت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:48.114602064Z",
+  "model": "glm-5.3"
+}

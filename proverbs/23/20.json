@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "نہ بیت مےءِ شربت‌کارانءِ گوں، گوشتءِ لوت‌کارانءِ گوں، پہ اِشاں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "شربت‌کارانءِ گوں"
+    },
+    {
+      "surface": "יין",
+      "gloss": "مےءِ"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "لوت‌کارانءِ گوں"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشتءِ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "پہ اِشاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:44.351791354Z",
+  "model": "glm-5.3"
+}

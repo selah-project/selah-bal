@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "کے کار کت ءُ جنیت، کہ دوریانءَ چہ بنیادءَ بانگ کنت؟ من یاہوہءُ — اول، ءُ گوں ⟨את⟩ آخریان — من آءُ۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کار کت"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ جنیت"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "بانگ کنت"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "دوریانءَ"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "چہ بنیادءَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءُ"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "اول"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "آخریان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءُ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:35:17.571063089Z",
+  "model": "glm-5.3"
+}

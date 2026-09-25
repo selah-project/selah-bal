@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یاہوہءَ گوں حکمتءَ زمین بنا کت، آسمانانءَ گوں فراستءَ برپا کت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "گوں حکمتءَ"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "بنا کت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "برپا کت"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانانءَ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "گوں فراستءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:46.389577399Z",
+  "model": "glm-5.3"
+}

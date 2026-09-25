@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 55,
+  "translation": "ایںئے، منءَ دور دروشم، بیابانءِ تہءَ اَتام کوم۔ سِلاہ",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ایںئے"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "دروشم"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "اَتام کوم"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابانءِ تہءَ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:39.317435840Z",
+  "model": "glm-5.3"
+}

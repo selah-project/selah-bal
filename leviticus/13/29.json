@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ مرد ءُ زنک، اگر آییءَ تہ زخمی بیت — سرءَ ءُ ریشءَ،",
+  "tokens": [
+    {
+      "surface": "ואישׁ",
+      "gloss": "ءُ مرد"
+    },
+    {
+      "surface": "או",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "אשׁה",
+      "gloss": "زنک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "בראשׁ",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ریشءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:18:11.908227490Z",
+  "model": "glm-5.3"
+}

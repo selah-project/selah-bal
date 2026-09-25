@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "بیرون تیر برات کنیت، ءُ دکانانءَ تہ ترس — ہم جوان، ہم کنڈہگ، شیر ماں گوں پیریءِ مرد.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "بیرون"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "برات کنیت"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "ءُ دکانانءَ تہ"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "کنڈہگ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "شیر ماں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "پیری"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:27.567329978Z",
+  "model": "glm-5.3"
+}

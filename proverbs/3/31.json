@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "زلمتی مردمءِ سکین نہ کن ءُ آییءِ راہانی چیز نہ چُنج.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "سکین کن"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زلمتی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "چُنج"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "آییءِ راہانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:59.982531457Z",
+  "model": "glm-5.3"
+}

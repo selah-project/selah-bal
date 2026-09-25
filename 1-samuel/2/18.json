@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ شموئیل ⟨את⟩ یاہوہءِ رُخءِ پیش خدمت کت، یک زہگ، کمرءَ بستگیں یک کتانیں ایپود۔",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "خدمت کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رُخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "کمرءَ بستگ"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ایپود"
+    },
+    {
+      "surface": "בד",
+      "gloss": "کتانیں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:55:53.660914669Z",
+  "model": "glm-5.3"
+}

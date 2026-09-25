@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "پہ گیرشومءِ (نسبتَ): لِبنی آییءِ زہگ، یَحَت آییءِ زہگ، زِمّاہ آییءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "پہ گیرشومءِ (نسبتَ)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبنی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یَحَت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زِمّاہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:40.904167679Z",
+  "model": "glm-5.3"
+}

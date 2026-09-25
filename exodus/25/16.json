@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ تہ صندوقءَ ⟨את⟩ گواہیءَ دہ کہ مان تہ تاں دیم.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ءُ تہ دہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوقءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواہی"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہیءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "مان دیم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تہ تاں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:57.401330487Z",
+  "model": "glm-5.3"
+}

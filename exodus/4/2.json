@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یاہوہءَ آیئے گوَشت: تئے دستءَ تہ چی هست؟ ءُ آیءَ گوَشت: یک عصا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آیئے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہוהءَ"
+    },
+    {
+      "surface": "מה־זה",
+      "gloss": "چی هست"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تئے دستءَ تہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "یک عصا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:51:12.584633384Z",
+  "model": "glm-5.3"
+}

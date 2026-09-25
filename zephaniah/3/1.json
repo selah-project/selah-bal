@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "وائے آ کہ سرکشت ءُ آلودہ اِنت، آ ظالمءِ شہر!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وائے"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "سرکشت"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "ءُ آلودہ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ظالمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:42.483020483Z",
+  "model": "glm-5.3"
+}

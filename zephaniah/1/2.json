@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "آءُ در کنیں در کنیں ہمگ چہ زمینءِ روچمیءَ — یاہوہءِ گالءِ وانگ۔",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "در کنیں"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "در کنیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "روچمیءِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "گالءِ وانگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:43:00.556890752Z",
+  "model": "glm-5.3"
+}

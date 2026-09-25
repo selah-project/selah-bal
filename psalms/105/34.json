@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "گوَشت ءُ ملخ آیا، ءُ ٹوکلیں ملخ بے شمار۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آیا"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ملخ"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "ءُ ٹوکلیں ملخ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "بے"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:33.817301013Z",
+  "model": "glm-5.3"
+}

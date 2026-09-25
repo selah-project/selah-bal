@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "پہ سون، پہ زر، ءُ پہ مس، ءُ پہ آہن شمار نیست؛ اُٹھ ءُ کار کن، ءُ بیت یاہوہ توءِ گوں.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "پہ سون"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "پہ زر"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "ءُ پہ مس"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "ءُ پہ آہن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ کار کن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "توءِ گوں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:31:21.629055062Z",
+  "model": "glm-5.3"
+}

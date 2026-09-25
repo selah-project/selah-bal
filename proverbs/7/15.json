@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "پہ آ چوں من در کت، تئے ملاقاتءَ، تئے رُخ پہ لبگ، ءُ توئے لب کت۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آ چوں"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "من در کت"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "تئے ملاقاتءَ"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "پہ لبگ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تئے رُخ"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "ءُ توئے لب کت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:59.690673545Z",
+  "model": "glm-5.3"
+}

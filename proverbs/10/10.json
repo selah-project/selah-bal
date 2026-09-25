@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "چشمی کوٹک دئنوک گم دیت، ءُ لوانیں احمق ڈگنت۔",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "کوٹک دئنوک"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "گم"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ءُ احمق"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لوانیں"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ڈگنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:25.144467765Z",
+  "model": "glm-5.3"
+}

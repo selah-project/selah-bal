@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ اِست، منئے زہگئے، منئے آوازءَ گوش، آ چیزءَ کہ من تءَ ⟨את⟩ حکم کنت۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِست"
+    },
+    {
+      "surface": "בני",
+      "gloss": "منئے زہگئے"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "منئے آوازءَ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "آ چیزءَ کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم کنت"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تءَ",
+      "marks": "تو"
+    }
+  ],
+  "timestamp": "2026-09-24T18:35:55.566837122Z",
+  "model": "glm-5.3"
+}

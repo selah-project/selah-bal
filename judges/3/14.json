@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ یسرائیلءِ زہگان ⟨את⟩ عگلونءَ خدمت کتنت، موآبءِ شاہءَ، ہبدہ سال۔",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ءُ خدمت کتنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عگلون"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "عگلون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ہشت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-24T20:16:43.732398531Z",
+  "model": "glm-5.3"
+}

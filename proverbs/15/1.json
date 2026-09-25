@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "نرم جواب خشمءَ وتی گرزینیت، ءُ دردیں لبز غصہءَ چڑھیت",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "جواب"
+    },
+    {
+      "surface": "רך",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "وتی گرزینیت"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ءُ لبز"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "دردیں"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھیت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:52.374730312Z",
+  "model": "glm-5.3"
+}

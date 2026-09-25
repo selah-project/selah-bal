@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "ءُ اِشا، اے ادونای، من چی پہ منت شاریں؟ منی امید آ تئے اِنت۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "پہ منت شاریں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "منی امید"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ ... اِنت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:32.960704107Z",
+  "model": "glm-5.3"
+}

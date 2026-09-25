@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ نَحشون ءَ ⟨את⟩ سَلما زا، ءُ سَلما ءَ ⟨את⟩ بوْعَز زا.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "ءُ نَحشون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سَلما"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "سَلما"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ءُ سَلما"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوْعَز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوْعَز"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:47.035003402Z",
+  "model": "glm-5.3"
+}

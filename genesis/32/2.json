@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ یعقوب وتی راہءَ روت، ءُ ایلوہیمءِ فرشتگان آیاءَ پجورتنت.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "ءُ یعقوب"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "وتی راہءَ"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "ءُ پجورتنت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آیاءَ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "فرشتگانءِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:25.402826417Z",
+  "model": "glm-5.3"
+}

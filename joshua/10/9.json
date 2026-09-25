@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ یہوشوءَ پھٹ اچا اشانءَ کپت — پوریں شپ چہ گِلگالءَ پور کت۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ اچا اشانءَ کپت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اشانءَ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوءَ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "پھٹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "پور کت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گِلگالءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:06:47.285389816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "ہر لاشہ ءُ پھاڑ بوتگیں شے، چہ مرگ ءُ چہ مال، کاہنان نہ خاننت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "لاشہ"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ءُ پھاڑ بوتگیں شے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خاننت"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:27:22.515012376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ پِلَگ سِ سال زندگی کت، ءُ رِعُوءَ ⟨את⟩ پیدا کت.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ءُ زندگی کت"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پِلَگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رِعُو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رِعُو"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:39.273462287Z",
+  "model": "glm-5.3"
+}

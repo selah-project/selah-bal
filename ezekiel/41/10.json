@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "ءُ لشکہانی درمیانءَ بیس اَمّہءِ لٹ بیتءِ گِرد اِنت، گِرد گِرد۔",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "ءُ درمیانءَ"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "لشکہانی"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "لٹ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمّہءِ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گِرد"
+    },
+    {
+      "surface": "لבית",
+      "gloss": "بیتءِ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گِرد"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گِرد"
+    }
+  ],
+  "timestamp": "2026-09-24T22:25:32.433698008Z",
+  "model": "glm-5.3"
+}

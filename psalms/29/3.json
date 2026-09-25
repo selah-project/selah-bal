@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "یاہوہءِ آواز آپانءِ سرءَ ⟨اِنت⟩؛ شانءِ ایل گرجیت، یاہوہ گیشتریں آپانءِ سرءَ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "شانءِ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "گرجیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیشتریں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:56.254430476Z",
+  "model": "glm-5.3"
+}

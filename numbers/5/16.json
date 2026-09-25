@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ کاهن ⟨את⟩ آییءَ پیش کت ءُ آییءَ یاہوہءِ پیشءَ درا کت —",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ءُ پیش کت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "آییءَ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "ءُ درا کت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ءِ پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:30:08.715901252Z",
+  "model": "glm-5.3"
+}

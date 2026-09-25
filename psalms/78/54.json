@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ آیانءَ آییءِ پاکءِ سرحدءَ آورت، آے کوہ کہ آییءِ راست دست آ گرانت کتگ.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "ءُ آیانءَ آورت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تا"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "آییءِ پاکءِ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "گرانت کتگ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "آییءِ راست دست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:46.578446055Z",
+  "model": "glm-5.3"
+}

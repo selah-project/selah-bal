@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "کسیل زہگ پتءِ پہ کاوڑ اِنت، ءُ چوک پہ آ جنکءَ کہ آییءَ زائیت.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "کاوڑ"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "پتءِ پہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کسیل"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "ءُ چوک"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "آ جنکءَ کہ آییءَ زائیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:08.934276269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ اُندی لشکر — اِشانی شمار گنگ چار ءُ ہبدہ ہزار ءُ شش سد اِنت۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ءُ اُندی لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ءُ اِشانی شمار گنگ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ءُ ہبدہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:10.127041287Z",
+  "model": "glm-5.3"
+}

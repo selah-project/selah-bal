@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ من گوشت ءُ نہ مانم؛ ءُ من گوَشت: اے ادونای، اے شانی آخر چنت؟",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "مانم"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ءُ من گوَشت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چنت"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے شانی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:21.614143388Z",
+  "model": "glm-5.3"
+}

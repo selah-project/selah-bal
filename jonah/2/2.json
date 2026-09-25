@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یونہ یاہوہءَ وتی ایلوہیمءَ دعا کت چہ ماہیگءِ پیٹءَ.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ءُ دعا کت"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "وتی ایلوہیم"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "چہ پیٹءِ"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ماہیگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:38:04.256684376Z",
+  "model": "glm-5.3"
+}

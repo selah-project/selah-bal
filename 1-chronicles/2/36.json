@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ عتای ⟨عتّای⟩ ⟨את⟩ ناتنءَ زائیت ءُ ناتن ⟨את⟩ زابدءَ زائیت.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "ءُ عتای ⟨عتّای⟩"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناتنءَ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ءُ ناتن"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زابدءَ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زابد"
+    }
+  ],
+  "timestamp": "2026-09-25T01:14:47.239717132Z",
+  "model": "glm-5.3"
+}

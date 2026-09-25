@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اگر شُوپار چہ شہرءَ بانگ دیت، ءُ قوم نہ لرزنت؟ اگر گندی چہ شہرءَ بیت، ءُ یاہوہءَ آ نہ کت؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "بانگ دیت"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شُوپار"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "چہ شہرءَ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ءُ قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "لرزنت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "گندی"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "چہ شہرءَ"
+    },
+    {
+      "surface": "ויהווה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:34:20.587007201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "نہ یاہوہ تُءِ ایلوہیمءِ نامءَ ⟨את⟩ بےکارءَ چک کنی، چی کہ یاہوہ اُنءَ پاک نہ کنت کہ آییءِ نامءَ ⟨את⟩ بےکارءَ چک کنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "چک کنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُءِ ایلوہیم"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "بےکارءَ پہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چی کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "پاک نہ کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "چک کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ نام"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "بےکارءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:57:48.732832151Z",
+  "model": "glm-5.3"
+}

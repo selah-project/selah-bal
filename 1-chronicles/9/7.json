@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ چہ بنیامینءِ زہگانءَ سلّوءً، مِشُلّامءِ زہگ، ہودَوْیہءِ زہگ، ہسِنُوءہءِ زہگ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانءَ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامینءِ"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "سلّوءً"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلّامءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "ہودَوْیہءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "ہسِنُوءہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:37.542717094Z",
+  "model": "glm-5.3"
+}

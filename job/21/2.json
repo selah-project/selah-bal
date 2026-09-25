@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "گوَن، گوَن زورءَ منی گال، ءُ اے بیت تہاری شمءِ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوَن"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "گوَن زورءَ"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "منی گال"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "تہاری شمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:38:34.697066536Z",
+  "model": "glm-5.3"
+}

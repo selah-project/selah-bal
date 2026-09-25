@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "وہد پہ کشنگ، ءُ وہد پہ شرگ؛ وہد پہ پروشگ، ءُ وہد پہ بنائگ۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "پہ کشنگ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "پہ شرگ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "پہ پروشگ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "پہ بنائگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:39.294677060Z",
+  "model": "glm-5.3"
+}

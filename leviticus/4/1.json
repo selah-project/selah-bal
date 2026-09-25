@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یاہوہءَ موشہءَ گوَشت کہ گوَش،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَش"
+    }
+  ],
+  "timestamp": "2026-09-24T19:11:44.141685025Z",
+  "model": "glm-5.3"
+}

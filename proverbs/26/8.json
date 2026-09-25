@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "چوش کہ سنگے گپاڑءِ تہ گرِست بیت، اوش اِنت کسیلءَ عزت دنتگ۔",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "چوش کہ … گرِست بیت"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگے"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "گپاڑءِ تہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اوش اِنت"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "دنتگ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "کسیلءَ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:15.072223234Z",
+  "model": "glm-5.3"
+}

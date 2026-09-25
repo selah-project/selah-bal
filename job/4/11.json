@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "بزرگ شیر چہ بوے شکارءَ ہلاک بیت، ءُ شیرنیءِ زہگان پرا بنت.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "بزرگ شیر"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ہلاک بیت"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "چہ بوے"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "شکار"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ءُ …زہگان"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "شیرنیءِ"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "پرا بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:26.317178761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "سئے رند سالءَ تیر تمام نرءَ ⟨את⟩ دیمءَ ادونای یاہوہءِ، اسرائیلءِ ایلوہیمءِ، روچیت.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "رند"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "روچیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "تیر نر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیمءَ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دیمءَ"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:06:51.909989656Z",
+  "model": "glm-5.3"
+}

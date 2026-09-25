@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "تُہءِ دلءِ بابت ءُ تُہءِ پوریں مشورت پُر کنت،",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "بِدیت"
+    },
+    {
+      "surface": "لך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "تُہءِ دلءِ بابت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ پوریں"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "تُہءِ مشورت"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "پُر کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:57.627328190Z",
+  "model": "glm-5.3"
+}

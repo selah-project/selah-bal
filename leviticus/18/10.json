@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "توءِ زہگءِ جنکءِ ننگ ءُ یا توءِ جنکءِ جنکءِ ننگ — آیانی ننگءِ پردہ نہ گوشیت، چہ آیانی ننگ توءِ وتءِ ننگ ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "توءِ زہگ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ءُ یا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "توءِ جنک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "پردہ گوشیت"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "آیانی ننگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "توءِ وتءِ ننگ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "آیا ⟨اِنت⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:03.941205017Z",
+  "model": "glm-5.3"
+}

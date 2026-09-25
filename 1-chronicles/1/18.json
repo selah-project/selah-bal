@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ارفکشادءَ ⟨את⟩ شالَح زائیت، ءُ شالَحءَ ⟨את⟩ ایبِر زائیت۔",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ءُ ارفکشادءَ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شالَح"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شالَح"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ءُ شالَحءَ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایبِر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ایبِر"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:53.103547697Z",
+  "model": "glm-5.3"
+}

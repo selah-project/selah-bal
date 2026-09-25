@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ چہ تسلمونہ روتنت ءُ تہ پوننءَ گدان زنتنت.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روتنت"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "چہ تسلمونہ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "گدان زنتنت"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "تہ پوننءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:45:03.514357303Z",
+  "model": "glm-5.3"
+}

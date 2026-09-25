@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "آ کہ بریں روچءَ دُر کہنت ءُ زلمءِ تختءَ مزدیک کننت.",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "آ کہ … دُر کہنت"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بریں"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "ءُ … مزدیک کننت"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "تختءِ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زلمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:36:16.111609649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ آدم آییءِ زانءِ نام حوا گشت، چوکئے آ کل زندگانءِ ماں بوت۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "آییءِ زانءِ"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "حوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوکئے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندگانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:46.897631625Z",
+  "model": "glm-5.3"
+}

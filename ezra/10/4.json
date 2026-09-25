@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "دمبڑی، پرچا کہ کار تہءِ سرءَ اِنت، ءُ ما گوں تہ اَمیں؛ گوَن بیت ءُ کر.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "دمبڑی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تہءِ سرءَ"
+    },
+    {
+      "surface": "هדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ءُ ما"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تہ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "گوَن بیت"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ کر"
+    }
+  ],
+  "timestamp": "2026-09-25T00:09:31.261862268Z",
+  "model": "glm-5.3"
+}

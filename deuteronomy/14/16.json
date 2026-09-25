@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "⟨את⟩ کوچیں اوپھیلم ءُ ⟨את⟩ لوٹیں اوپھیلم ءُ سپیں اوپھیلم",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوچیں اوپھیلم"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "کوچیں اوپھیلم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "لوٹیں اوپھیلم"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "لوٹیں اوپھیلم"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ءُ سپیں اوپھیلم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:51.814708276Z",
+  "model": "glm-5.3"
+}

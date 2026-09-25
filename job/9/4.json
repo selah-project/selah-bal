@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "دلءَ دانا ءُ زورءَ مستحکم؛ کے آییءَ سخت کنت ءُ سلامت بیت؟",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "ءُ مستحکم"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زورءَ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "سخت کنت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "ءُ سلامت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:04.514143348Z",
+  "model": "glm-5.3"
+}

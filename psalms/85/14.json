@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 85,
+  "translation": "راستی آییءِ پیشءَ روت، ءُ آییءِ قداں ءُ پہ رہءِ جاگہ کنیت.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "آییءِ پیشءَ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ءُ کنیت"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "پہ رہءِ جاگہ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "آییءِ قداں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:52.499027085Z",
+  "model": "glm-5.3"
+}

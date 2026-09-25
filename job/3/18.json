@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یکجا بندیان آسودہ اَنت، نہ گوشنت زورگوآئی آوازءَ.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "بندیان"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "آسودہ اَنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "زورگوآئی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:32.411044660Z",
+  "model": "glm-5.3"
+}

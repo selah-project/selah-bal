@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ راستی آییءِ کمرانی کمربند بیت، ءُ ایمان آییءِ لنگانی کمربند۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "کمربند"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "آییءِ کمران"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ءُ ایمان"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "کمربند"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "آییءِ لنگان"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:37.104346436Z",
+  "model": "glm-5.3"
+}

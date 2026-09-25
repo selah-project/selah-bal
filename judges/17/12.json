@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ میخا ⟨את⟩ لویءِ دست پُر کت، ءُ اے جنک آییءِ پہ یک کاہن بوت، ءُ میخاءِ گدانءَ تہ بوت۔",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ءُ پُر کت"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میخا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لویءِ دست"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ پہ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "اے جنک"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "یک کاہن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "تہ گدان"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میخاءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:22:59.635189390Z",
+  "model": "glm-5.3"
+}

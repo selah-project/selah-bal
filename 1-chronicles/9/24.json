@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "چار رخاں پہ دروازگ ⟨بنت⟩: مشرق، مغرب، اُتر ءُ جنوب۔",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "چارءَ پہ"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "رخاں"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازگ"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "مشرق"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "مغربءَ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "اُترءَ"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "ءُ جنوبءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:33.599076225Z",
+  "model": "glm-5.3"
+}

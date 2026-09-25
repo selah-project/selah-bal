@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یاہوہءَ موشہءَ لہ گوَشت کہ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:33.524550607Z",
+  "model": "glm-5.3"
+}

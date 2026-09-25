@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 92,
+  "translation": "زمزمہ، گان — شباتءِ روچءِ پہ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "زمزمہ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گان"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "روچءِ پہ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شباتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:40.637310259Z",
+  "model": "glm-5.3"
+}

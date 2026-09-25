@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "رونت ءُ آییءِ راستی یک نبلکت قومءَ گوشنت، چون آے کار کت.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "رونت"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ءُ گوشنت"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "آییءِ راستی"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "یک قومءَ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "نبلکت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کار کت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:55.810781303Z",
+  "model": "glm-5.3"
+}

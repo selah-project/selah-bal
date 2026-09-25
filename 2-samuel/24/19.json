@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ داود گادءِ گالءِ چوں سر کت، چوش کہ یاہوہ حکم کتگ اَت.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ءُ سر کت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "گالءِ چوں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گادءِ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:52:28.128108988Z",
+  "model": "glm-5.3"
+}

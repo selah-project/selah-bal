@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 28:39",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "انگوریان تو کاں ءُ آیانی کار کنی، پرچا کہ شراب نہ پئیں ءُ نہ گُنجائیں، کیجہ کہ کرم آیانءَ چنگیت۔",
+  "tokens": [
+    {
+      "surface": "כרמים",
+      "gloss": "انگوریان"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "تو کاں"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "ءُ آیانی کار کنی"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "پرچا کہ شراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "پئیں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תאגר",
+      "gloss": "گُنجائیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیجہ کہ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "آیانءَ چنگیت"
+    },
+    {
+      "surface": "התלעת",
+      "gloss": "کرم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:31.816908759Z",
+  "model": "glm-5.3"
+}

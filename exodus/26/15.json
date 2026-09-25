@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ تو ⟨את⟩ تختیان پہ مِشکان بندیت: شِتہءِ دارانی، اِستاگ۔",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ تو بندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تختیان"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تختیان"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "پہ مِشکان"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "دارانی"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شِتہءِ"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "اِستاگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:44.852423341Z",
+  "model": "glm-5.3"
+}

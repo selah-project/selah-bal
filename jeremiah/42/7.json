@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ بوت پہ سرءِ دہ روچ، ءُ بوت گالِ یاہوہ پہ یِرمیاوءَ۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "پہ سرءِ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گالِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاوءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:02:21.400952642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "رِتسینءِ زہگان، نَکوداءِ زہگان، گَزّامءِ زہگان،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگانِ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رِتسین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانِ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نَکودا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانِ"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "گَزّام"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:40.468539395Z",
+  "model": "glm-5.3"
+}

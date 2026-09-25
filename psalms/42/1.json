@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "پہ پیشواءَ، یک سپندنتیں وختیار، کورہءِ زہگانءِ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشواءَ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سپندنتیں وختیار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زہگانءِ ⟨پہ⟩"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "کورہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:41.755347050Z",
+  "model": "glm-5.3"
+}

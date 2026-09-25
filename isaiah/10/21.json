@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "شئار بزگرت — یعقوبءِ شئار — گوں ایل گبورءَ.",
+  "tokens": [
+    {
+      "surface": "שְׁאָ֥ר",
+      "gloss": "شئار"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "بزگرت"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "شئار"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "یعقوبءِ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גִּבּֽוֹר",
+      "gloss": "گبورءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:25:29.725493298Z",
+  "model": "glm-5.3"
+}

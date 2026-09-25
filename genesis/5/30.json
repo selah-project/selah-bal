@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ لامک چہ پس اے کہ آییءَ ⟨את⟩ نوح زائیت، پنچ ءُ نوے سال ءُ پنچ سد سال زیست، ءُ زہگان ءُ جنکان زائیت.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "زیست"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لامک"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "چہ پس"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "اے کہ آییءَ زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ءُ نوے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ءُ پنچ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ءُ جنکان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:15.326908647Z",
+  "model": "glm-5.3"
+}

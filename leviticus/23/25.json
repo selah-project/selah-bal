@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ہر کارے ءُ بندگیءِ نہ کنیت، بلے آتشءِ قربانی پہ یاہوہ پیش کنیت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کارے"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "بندگیءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "بلے پیش کنیت"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "آتشءِ قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:25:06.942524961Z",
+  "model": "glm-5.3"
+}

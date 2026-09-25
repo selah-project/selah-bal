@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "سپءِ روشن بوت، ءُ مردمان رنگا بوتنت — اِش ءُ اِشانی گداران.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "سپ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشن بوت"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "ءُ مردمان"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "رنگا بوتنت"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "ءُ اِشانی گداران"
+    }
+  ],
+  "timestamp": "2026-09-24T18:47:03.545583840Z",
+  "model": "glm-5.3"
+}

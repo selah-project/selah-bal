@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 82,
+  "translation": "نہ زانتنت ءُ نہ فہمنت؛ تہ تہاریءَ روتنت؛ زمینءِ ہمگ بنیادان لرزنت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "زانتنت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "فہمنت"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "تہ تہاریءَ"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "روتنت"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "لرزنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "بنیادان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:42.267184027Z",
+  "model": "glm-5.3"
+}

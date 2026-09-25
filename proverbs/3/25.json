@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "نہ ڈر چہ یکدمءِ ڈر، ءُ نہ چہ رےشاوانءِ تباهی، پرچا کہ آ بیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "چہ یکدمءِ ڈر"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "یکدم"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "ءُ چہ تباهی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رےشاوانءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "آ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:59.180496220Z",
+  "model": "glm-5.3"
+}

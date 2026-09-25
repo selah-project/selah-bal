@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ عیسو گوَشت: منءَ گیش ہست، برا من، آ کہ تُئے اِنت، تُءِ بیت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برا من"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُئے"
+    }
+  ],
+  "timestamp": "2026-09-24T18:39:50.804505077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "اے یاہوہ، مچءَ تسہ نہ کن؛ اے منی ایلوہیم، چہ من دور نہ بیت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "مچءَ تسہ نہ کن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "منی ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور نہ بیت"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ من"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:45.128969648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 112,
+  "translation": "پرچا کہ پہ ہمیشہ نہ لرزیت؛ راست مردم پہ ہمیشہءِ یادگار بیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "لرزیت"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "پہ یادگاری"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست مردم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:21.934629034Z",
+  "model": "glm-5.3"
+}

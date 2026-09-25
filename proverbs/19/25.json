@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "طعنہ گرءَ زرٹ، ءُ سادہ سوجیت؛ ءُ فہمندءَ پدا گوَشت کن، آ دانشءَ ونژیت.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "طعنہ گرءَ"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "زرٹ"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "ءُ سادہ"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "سوجیت"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "ءُ پدا گوَشت کن"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "فہمندءَ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ونژیت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:26.213916539Z",
+  "model": "glm-5.3"
+}

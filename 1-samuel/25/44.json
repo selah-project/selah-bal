@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ شاؤلءَ ⟨את⟩ میکال، ئی جنک، داودءِ زال، پلتیءَ دات — لیشءِ زہگءَ، کہ چہ گلیم اِنت.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "ءُ شاؤل"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میکال"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "میکالءَ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ئی جنکءَ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زالءِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءِ"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "پلتیءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگءَ"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "لیشءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "چہ گلیم"
+    }
+  ],
+  "timestamp": "2026-09-24T20:38:06.288941080Z",
+  "model": "glm-5.3"
+}

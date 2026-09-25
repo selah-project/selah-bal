@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ یاہوہءَ دم تر کت ءُ ⟨את⟩ شار ءُ ⟨את⟩ میناراں وانگ کت، کہ آدمءِ زہگان آیانءَ جوڑ کتگ ءُ۔",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ءُ دم تر کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "پہ وانگ کنگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شار"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "میناراں"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "میناراں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "جوڑ کتگ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:57.828697766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ گوں ءُتاں ⟨את⟩ بنت ہر مرد یک ٹولیءِ پہ، ہر یک سار پہ وتی پدرانی گانیءِ — خود آ.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "ءُ گوں ⟨את⟩ ءُتاں",
+      "marks": "ءُتاں"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر مرد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ... یک"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ٹولیءِ پہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر یک"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سار"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گانیءِ پہ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "وتی پدرانی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خود آ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:53:10.378355915Z",
+  "model": "glm-5.3"
+}

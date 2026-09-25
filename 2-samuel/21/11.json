@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ داؤدءَ گوَشتگ بوت ⟨את⟩ آ کہ رِصفہ، آیہءِ جنک، شاؤلءِ پیلگش، کتگ۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ءُ گوَشتگ بوت"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داؤدءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ رِصفہ کتگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "کتگ"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "رِصفہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "איה",
+      "gloss": "آیہءِ"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "پیلگش"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:50:03.543793815Z",
+  "model": "glm-5.3"
+}

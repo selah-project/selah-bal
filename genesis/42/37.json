@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 42:37",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ راوُبین وتی پِتءَ گوَشت کہ منی دو زہگانءَ بکُش اگر من آءَ تہءَ نہ آورم؛ آءَ منی دستءَ دیت ءُ من آءَ تہءَ پدا آورم۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "راوُبین"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "وتی پِتءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو زہگانءَ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "بکُش"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "آورم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آءَ",
+      "marks": "آ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "منی دستءَ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "پدا آورم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:04.071873615Z",
+  "model": "glm-5.3"
+}

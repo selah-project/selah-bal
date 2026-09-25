@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "منی مصیبتءِ روچءَ منی پیش دمیءَ اَتنت، ءُ یاہوہ منی سہارا اَت۔",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "منی پیش دمیءَ اَتنت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "منی مصیبتءِ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "سہارا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:18.646539583Z",
+  "model": "glm-5.3"
+}

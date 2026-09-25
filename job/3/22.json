@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "شاد بیتنت گوں خوشیءَ، ءُ وجہ کننت وہدے کہ قبرے لبزنت۔",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "شاد بیتنت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "خوشیءَ"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "ءُ وجہ کننت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "وہدے کہ"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "لبزنت"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "قبرے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:25.229269737Z",
+  "model": "glm-5.3"
+}

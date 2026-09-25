@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ چہ زہگءِ پنجاہی سالءَ ⟨آیی⟩ چہ سپاہءِ خدمت چوں روت، ءُ نہ گیشتر خدمت کنت۔",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "ءُ چہ زہگءِ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "چوں روت"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "چہ سپاہءِ"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "خدمت کنت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "گیشتر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:31:48.783352316Z",
+  "model": "glm-5.3"
+}

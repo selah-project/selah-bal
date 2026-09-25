@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ہمے گوَشت یاہوہ سباؤت یسرائیلءِ ایلوہیم: من ⟨את⟩ شاہِ بابلءِ جوءَ شکست کت.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیمِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "من شکست کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جوءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "جوءِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہِ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:56:31.505182983Z",
+  "model": "glm-5.3"
+}

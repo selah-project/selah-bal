@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ اِلیفزءِ زہگان تیمان، عمر، سپو، ءُ گعتام، ءُ کنز اَنت.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفزءِ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تیمان"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "عمر"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "سپو"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "ءُ گعتام"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "ءُ کنز"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:28.644260659Z",
+  "model": "glm-5.3"
+}

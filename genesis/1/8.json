@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ایلوہیمءَ پھیلنگءَ آسمان بانگ کت؛ ءُ شام بوت، ءُ سحر بوت — روچ دومی۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ … بانگ کت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "پھیلنگءَ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ … بوت"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ … بوت"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سحر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دومی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:51.907034904Z",
+  "model": "glm-5.3"
+}

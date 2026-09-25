@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ من شسئے تیران کنارءَ پرت، پہ خودءَ شوت داتنءَ پہ نشانہءَ۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "شسئے"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "تیران"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "کنارءَ"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "پرت"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "شوت داتنءَ پہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "خودءَ پہ"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "نشانہءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:34:56.802750544Z",
+  "model": "glm-5.3"
+}

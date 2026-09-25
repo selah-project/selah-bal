@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "گوں کیا گِلعادءَ مرہم نیست؟ گوں کیا ادا شفا دندوک نیست؟ پچ کہ چرا منی قومی جنکءِ شفا نہ برت؟",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "مرہم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نست"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "گِلعادءَ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "شفا دندوک"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نست"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ادا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پچ کہ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "برت"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "شفا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قومی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:46:49.671331502Z",
+  "model": "glm-5.3"
+}

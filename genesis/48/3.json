@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "ءُ یاکوب یوسفءَ گوَشت: ایل شدّای مءَ ظاہر بوت — لُوزءَ، کنعانءِ زمینءَ — ءُ ⟨את⟩ مءَ برکت دات۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاکوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسفءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ظاہر بوت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "لُوزءَ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "تہ زمینءَ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعانءِ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ءُ برکت دات"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:48:23.927376008Z",
+  "model": "glm-5.3"
+}

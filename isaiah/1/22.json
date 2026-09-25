@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "تاں ئے زر جر بوتگ ⟨اِنت⟩، تاں ئے شراب گوں آپ رل بوتگ۔",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "تاں ئے زر"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوتگ"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "جر ⟨اِنت⟩"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "تاں ئے شراب"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "رل بوتگ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "گوں آپ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:20:13.149274065Z",
+  "model": "glm-5.3"
+}

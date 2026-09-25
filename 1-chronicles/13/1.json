@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ داؤدءَ گوں ہزارانی ءُ سدانی سرداراں لہ ہر رہبر مشورت کت۔",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ءُ مشورت کت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ہزارانی"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "ءُ سدانی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لہ ہر"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "رہبر"
+    }
+  ],
+  "timestamp": "2026-09-25T00:27:24.711124818Z",
+  "model": "glm-5.3"
+}

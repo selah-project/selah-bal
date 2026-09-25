@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "دشمنی جھیڑیان جاگینیت، ءُ همگ گناہانی سرءَ محبت لُپیت۔",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "دشمنی"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "جاگینیت"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "جھیڑیان"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همگ"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "گناہانی"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "لُپیت"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "محبت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:25.144811203Z",
+  "model": "glm-5.3"
+}

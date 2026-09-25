@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "وتءِ پیغمبرانءَ وا کنیت، ءُ وتءِ نوکچرانءَ شعلہ دار آتش۔",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "وتءِ پیغمبران"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "وا"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "وتءِ نوکچران"
+    },
+    {
+      "surface": "אש",
+      "gloss": "شعلہ دار آتش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:37.741678891Z",
+  "model": "glm-5.3"
+}

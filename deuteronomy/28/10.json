@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ زمینءِ چمگ قومانءَ گندنت کہ یاہوہءِ نام توءِ سرءَ بانگ بیت، ءُ چہ توءَ ڈرنت۔",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ءُ گندنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "چمگ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومانءِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "بانگ بیت"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "توءِ سرءَ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ءُ ڈرنت"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "چہ توءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:34.908258340Z",
+  "model": "glm-5.3"
+}

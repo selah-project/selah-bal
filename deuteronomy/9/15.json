@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ من پدا روت ءُ ہرءَ چہ لہر روت، ءُ ہر آشءَ گوں سوجیت، ءُ عہدءِ دو لوح من دو دستانی تہ اوشتنت۔",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ءُ من پدا روت"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ءُ من لہر روت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ہرءَ"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "בער",
+      "gloss": "سوجیت"
+    },
+    {
+      "surface": "באש",
+      "gloss": "گوں آش"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوح"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہدءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "من دستانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:01.679141796Z",
+  "model": "glm-5.3"
+}

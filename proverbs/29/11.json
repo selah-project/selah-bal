@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "نادان وتی پوریں غصہ در کیت، بلے دانا آءَ پچاءَ کہلو کیت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "وتی غصہءَ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "در کیت"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "بلے دانا"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "پچاءَ"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "کہلو کیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:37.769553774Z",
+  "model": "glm-5.3"
+}

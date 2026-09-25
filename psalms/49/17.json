@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "نہ متری چہ آ کہ یک مرد تونگر بیت، چہ باز آ کہ آییءِ گڈءِ شان گیش بیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "متری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چہ باز آ کہ"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "تونگر بیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چہ باز آ کہ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "گیش بیت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "آییءِ گڈءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:36.714174973Z",
+  "model": "glm-5.3"
+}

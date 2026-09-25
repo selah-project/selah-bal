@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "جو کہ اندھار ءُ موتءِ سایہءَ نشستگ، قیدی زلمت ءُ آہنءَ.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "نشستگ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اندھار"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ءُ موتءِ سایہ"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "قیدی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "زلمت"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "ءُ آہن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:38.753707287Z",
+  "model": "glm-5.3"
+}

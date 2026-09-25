@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "اِلکاناہ آییءِ زہگ، ءُ اِبیاسَف آییءِ زہگ، ءُ اَسّیر آییءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "اِلکاناہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "ءُ اِبیاسَف"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "ءُ اَسّیر"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:40.904931246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "یاہوہءَ توءَ گوں دیوانگی ءُ گوں کوڑومی ءُ دلءِ حیرانیءَ زنت۔",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "توءَ زنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "گوں دیوانگی"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "ءُ گوں کوڑومی"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "ءُ گوں حیرانی"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:55.228745339Z",
+  "model": "glm-5.3"
+}

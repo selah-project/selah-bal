@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "زانم کہ تو ہر چیزءَ تونیت، ءُ چہ تءَ ہچ بچار نہ راہءَ کپیت۔",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "زانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر چیز"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "تونیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "راہءَ کپیت"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "چہ تءَ"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "بچار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:10.908395803Z",
+  "model": "glm-5.3"
+}

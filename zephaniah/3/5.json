@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یاہوہ آییءِ درميانءَ راست اِنت، زلم نہ کنت؛ صپءَ صپءَ آییءِ انصاف روشنائیءَ دنت، آ نہ گم بیت، ءُ زالم شرم نہ زانت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "آییءِ درميانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "زلم"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صپءَ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صپءَ صپ"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "آییءِ انصاف"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دنت"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "روشنائیءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "گم بیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "עול",
+      "gloss": "زالم"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "شرم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:43:38.179716768Z",
+  "model": "glm-5.3"
+}

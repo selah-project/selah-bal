@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "شاہءِ کہ انصافءِ تختءَ سرءَ نشت، آییءِ چشمانءَ گوں هر شرءَ کنج دیت.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "نشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "דין",
+      "gloss": "انصافءِ"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "کنج دیت"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "آییءِ چشمانءَ گوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:05.071691877Z",
+  "model": "glm-5.3"
+}

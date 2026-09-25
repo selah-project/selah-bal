@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 108,
+  "translation": "اُٹّ! نبل ءُ کنور؛ من شپءِ ساہءَ اُٹّانیں۔",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "اُٹّ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "نبل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ءُ کنور"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "اُٹّانیں"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "شپءِ ساہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:51.320014220Z",
+  "model": "glm-5.3"
+}

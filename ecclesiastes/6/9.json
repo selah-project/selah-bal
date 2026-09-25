@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "چمءِ دِستنگ چہ نپسءِ گشتنگ چنگ اِنت — اے ہم ہابل اِنت ءُ روحءِ اِشکامیت۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "دِستنگ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چمءِ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "گشتنگ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نپسءِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہابل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ءُ اِشکامیت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روحءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:09.598343670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 138,
+  "translation": "ءُ ئے یاہوہءِ راہاناں تہ دُا کننت، چونک یاہوہءِ شوکت گیش اِنت.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "ءُ دُا کننت"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "راہاناں تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونک"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شوکت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:12.953534839Z",
+  "model": "glm-5.3"
+}

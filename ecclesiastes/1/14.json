@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "من ⟨את⟩ ہر کاری کہ کتگ بوتگ ماں گُریاںءِ تہ گندیت — ءُ واہ، ہمگ ہبل اِنت ءُ گوں شۏرءِ گنڈیتگئے۔",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "من گندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر کاری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "کتگ بوتگ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "گُریاںءِ تہ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ واہ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل اِنت"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ءُ گوں شۏرءِ گنڈیتگئے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "شۏر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:07.531315115Z",
+  "model": "glm-5.3"
+}

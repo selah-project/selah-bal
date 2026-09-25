@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ اُلامءِ زہگان: بیدان۔ اے گِلعادءِ زہگان اَنت، ماکیرءِ زہگ، منشہءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ …ءِ زہگان"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "اُلامءِ"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "بیدان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعادءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماکیرءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:45.731503715Z",
+  "model": "glm-5.3"
+}

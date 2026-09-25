@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 18:32",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "کیہ می مرنوکءِ مرنءَ پسند نہ کناں — ادونای یاہوہءِ اِلام — واپس بیت ءُ جیوت بنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "پسند نہ کناں"
+    },
+    {
+      "surface": "במות",
+      "gloss": "مرنءَ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مرنوکءِ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اِلام"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "واپس بیت"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ءُ جیوت بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:15:51.437017495Z",
+  "model": "glm-5.3"
+}

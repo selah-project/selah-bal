@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "تہ یاہوہءِ کِیسءَ ⟨ه not⟩ یک سنگ ءُ یک سنگ، گیش ءُ گوش نہ بیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "تہءِ کِیسءَ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "یک سنگ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ءُ یک سنگ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ءُ گوش"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:19.613279523Z",
+  "model": "glm-5.3"
+}

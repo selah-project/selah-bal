@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ آ زر ءُ ⟨את⟩ نیلی ءُ ⟨את⟩ ارغوانی ءُ ⟨את⟩ سرمچی کرم ءُ ⟨את⟩ مہین کتانی گنت۔",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "گنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرءَ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "نیلیءَ"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "نیلی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ارغوانیءَ"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ارغوانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "سرمچی کرمءَ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "کرم"
+    },
+    {
+      "surface": "השני",
+      "gloss": "سرمچی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مہین کتانیءَ"
+    },
+    {
+      "surface": "השש",
+      "gloss": "مہین کتانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:43.062139312Z",
+  "model": "glm-5.3"
+}

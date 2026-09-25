@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "⟨את⟩ پوری چیز آ وختءَ چون جوڑ کت؛ ہم ⟨את⟩ ہمیشگی آیانی دلءَ شر کت، اے پادءَ کہ آدمی ⟨את⟩ آ کارءَ نہ لبزیت کہ ایلوہیم چہ بنگیجءَ ءُ رندءَ جوڑ کتگ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوری چیز"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "پوری چیز"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "چون"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "آ وختءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمیشگی"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ہمیشگی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "شر کت"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "آیانی دلءَ"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "اے پادءَ کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لبزیت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کار"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "آ کار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کتگ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "چہ بنگیجءَ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ رندءَ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "پایان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:19.020095732Z",
+  "model": "glm-5.3"
+}

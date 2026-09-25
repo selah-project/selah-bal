@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ اے بیت کاهنانءِ حق قومءَ چہ ⟨את⟩ — زبح کنوکانءَ چہ ⟨את⟩، اگر گائے، اگر گُسپند — کاهنءَ دنت: مُڑ ءُ دو زبان ءُ اُودر۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حق"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانءِ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "چہ ⟨את⟩",
+      "marks": "قومءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "چہ ⟨את⟩",
+      "marks": "زبح کنوکانءَ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "زبح کنوکانءَ"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "قربانیءِ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گائے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "שה",
+      "gloss": "گُسپند"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ءُ دنت"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "کاهنءَ"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "مُڑ"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "ءُ دو زبان"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "ءُ اُودر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:31.106918479Z",
+  "model": "glm-5.3"
+}

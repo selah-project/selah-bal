@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "من، قوهلت، اسرائیلءِ سرءَ بیرشلمءَ شاہ بوتم۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "קהلת",
+      "gloss": "قوهلت"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بوتم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "بیرشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:56.516100638Z",
+  "model": "glm-5.3"
+}

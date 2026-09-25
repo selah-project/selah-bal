@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 97,
+  "translation": "کوہان چوش موم گونڈیت چہ پیشءِ یاہوہ، چہ پیشءِ ادونای تمام زمینءِ۔",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "کوہان"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "چوش موم"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "گونڈیت"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "چہ پیشءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "چہ پیشءِ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:49.863791807Z",
+  "model": "glm-5.3"
+}

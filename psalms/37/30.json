@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "راستیںءِ دہن حکمت پساریت ءُ آییءِ زبان انصاف گپیت.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "دہن"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستیںءِ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "پساریت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ءُ آییءِ زبان"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "گپیت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:43.845634835Z",
+  "model": "glm-5.3"
+}

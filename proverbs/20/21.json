@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ارث کہ اولیں وہدءَ ہچ کنیت بیت، آییءِ آخرتءَ برکت نہ دیت بیت.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "ارث"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "ہچ کنیت بیت"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "اولیں وہدءَ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ءُ آییءِ آخرتءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "برکت دیت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:56.090370856Z",
+  "model": "glm-5.3"
+}

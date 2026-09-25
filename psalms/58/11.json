@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 58,
+  "translation": "راستیں شاد بیت کہ انتقامءَ گندیت، وتی پا ءُ چہ بدکارءِ رشتءَ چُرت۔",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقامءَ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "وتی پا"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "چُرت"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "رشتءَ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدکارءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:58.853241434Z",
+  "model": "glm-5.3"
+}

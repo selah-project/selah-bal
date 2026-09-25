@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 129,
+  "translation": "شرمسار بنت ءُ پشتءَ وردِنت گیش بچوش کنوکانی صہیونءِ۔",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "شرمسار بنت"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ءُ پشتءَ وردِنت"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پشتءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "بچوش کنوکانی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صہیونءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:55.073906273Z",
+  "model": "glm-5.3"
+}

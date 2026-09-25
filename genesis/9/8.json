@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ ایلوہیمءَ پہ نُوح ءُ پہ اَییءِ زہگانءَ گوں ⟨את⟩ آ گوَشت، کہ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اَییءِ زہگانءَ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "گوں ⟨את⟩ آ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:20.874878278Z",
+  "model": "glm-5.3"
+}

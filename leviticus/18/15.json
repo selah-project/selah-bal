@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "برہنائی زہگءِ زالءِ نہ پدا کن؛ زہگءِ زال آ ⟨اِنت⟩؛ آییءِ برہنائی نہ پدا کن۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برہنائی"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "زہگءِ زال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "پدا کن"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "زہگءِ تیءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اِنت⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "پدا کن"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "آییءِ برہنائی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:03.673807355Z",
+  "model": "glm-5.3"
+}

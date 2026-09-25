@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ پہ ہر اُچیں کُہان، ءُ پہ ہر ٹپانیں گنبدانی کہ اُچ کرتگ اَنت۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "کُہان"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "اُچیں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "گنبدان"
+    },
+    {
+      "surface": "הנשאאות",
+      "gloss": "ٹپانیں کہ اُچ کرتگ اَنت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:00:15.944012121Z",
+  "model": "glm-5.3"
+}

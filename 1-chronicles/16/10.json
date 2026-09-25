@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "آییءِ پکیں نامءِ ناز کنت؛ یاہوہءَ تلاشی کنوکانءِ دل شاد بیت۔",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "ناز کنت"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "تہ نام"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "آییءِ پکیں"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "مבקשי",
+      "gloss": "تلاشی کنوکانءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:38.746247271Z",
+  "model": "glm-5.3"
+}

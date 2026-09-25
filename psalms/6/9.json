@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "چہ منءَ دور شنو، گش منی آوێنءِ کنوک؛ پرچا کہ یاہوہءَ منی گریانءِ آواز شنیتگ۔",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "دور شنو"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ منءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کنوک"
+    },
+    {
+      "surface": "און",
+      "gloss": "آوێن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنیتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "منی گریان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:39.576030814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ہر کشوک کہ زندگی اِنت، شمایا پہ خوارگ بیت؛ چوش کہ سبز وشن ⟨من⟩ مہ شمارا دات اَت ⟨את⟩ ہمگ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "کشوک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندگی اِنت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شمایا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "پہ خوارگ"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "سبز وشن"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مہ شمارا دات اَت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "مہ شمارا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:49:24.830051932Z",
+  "model": "glm-5.3"
+}

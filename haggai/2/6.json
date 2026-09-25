@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کی ایشتا یاہوہ سباؤت گوَشت: اڈ یک، کمیں اِنت، ءُ من ⟨את⟩ آسمانان ءُ ⟨את⟩ زمین ءُ ⟨את⟩ دریا ءُ ⟨את⟩ وشکل ڈگار لرز دینت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایشتا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڈ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کمیں"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "لرز دینت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آسمانان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دریا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "وشکل ڈگار"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "وشکل ڈگار"
+    }
+  ],
+  "timestamp": "2026-09-24T22:41:48.767807537Z",
+  "model": "glm-5.3"
+}

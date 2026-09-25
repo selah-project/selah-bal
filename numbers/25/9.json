@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ تہ مگیپاءَ مُرگانءِ شمار چار ءُ دہ ہزار اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ءُ ... اِنت"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُرگان"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "تہ مگیپاءَ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ دہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:12.400842040Z",
+  "model": "glm-5.3"
+}

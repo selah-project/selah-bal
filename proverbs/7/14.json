@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "سلامتیءِ قربانیان منی سرءَ اِنت، اے روچ ماں وتی نذرانی پورہ کتگ اَنت.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "قربانیان"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "سلامتیءِ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرءَ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے روچ"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "پورہ کت"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "منی نذران"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:41.349868207Z",
+  "model": "glm-5.3"
+}

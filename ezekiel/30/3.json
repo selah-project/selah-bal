@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "کیا کہ روچ نزدیک اِنت، ءُ روچ یاہوہءِ پہ نزدیک اِنت — ابرانی روچ، قوماںءِ وہد بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک اِنت"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ءُ نزدیک اِنت"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءِ پہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ابرانی"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماںءِ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:20:43.739530694Z",
+  "model": "glm-5.3"
+}

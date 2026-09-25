@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ موشہ تنہا وتی پہ یاہوہءَ لڑی بیت؛ ءُ اِشان نہ لڑنت، ءُ قوم گوں اے نہ چڑھت۔",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ءُ لڑی بیت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לבדو",
+      "gloss": "تنہا وتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ءُ اِشان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "لڑنت"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ءُ قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں اے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:55.751742166Z",
+  "model": "glm-5.3"
+}

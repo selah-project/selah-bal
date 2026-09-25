@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ گدعون، یوآشءِ زہگ، چہ جنگءَ واپس آت، چہ ہیرسءِ بلندیءَ۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ءُ واپس آت"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "گدعون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآشءِ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگءَ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "چہ بلندیءَ"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "ہیرسءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:19:04.245393828Z",
+  "model": "glm-5.3"
+}

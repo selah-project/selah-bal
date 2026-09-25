@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "گال کہ یاہوہءَ پہ بابل ءُ پہ کسدئیں زمینءِ بابت پیغمبر یِرمیاہوءِ دستءَ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کسدئیں"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہوءِ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبر"
+    }
+  ],
+  "timestamp": "2026-09-24T22:05:51.979380311Z",
+  "model": "glm-5.3"
+}

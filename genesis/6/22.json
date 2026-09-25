@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ نوح کت، چوش کہ ایلوہیم ⟨את⟩ آییءَ حکم کتگ — ہمے چوں آ کت.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح ⟨نوح⟩"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "چوش کہ ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کتگ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آییءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ہمے چوں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:52.365979217Z",
+  "model": "glm-5.3"
+}

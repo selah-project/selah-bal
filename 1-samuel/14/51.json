@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ قیش شاؤلءِ پیءُ اَت، ءُ نیر اَبنیرءِ پیءُ، اَبییلءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "ءُ قیش"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیءُ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءِ"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ءُ نیر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیءُ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبنیرءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "اَبییلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:31:23.382826552Z",
+  "model": "glm-5.3"
+}

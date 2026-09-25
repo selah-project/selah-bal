@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "سمندرءَ روت‌کنوک گوں کشتیان، کار کنوک تہ گیش آپان",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "روت‌کنوک"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندرءَ"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "گوں کشتیان"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "کار کنوک"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "במים",
+      "gloss": "تہ آپان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:52.907425900Z",
+  "model": "glm-5.3"
+}

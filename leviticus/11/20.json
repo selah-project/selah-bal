@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ہر ورندوک مرگ کہ چارءَ روت، آ تہاں پہ یک گندthings — گند اِنت تہاں پہ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ورندوک"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گند"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اُو⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاں پہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:35.773192033Z",
+  "model": "glm-5.3"
+}

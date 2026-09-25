@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "مگبیشءِ زہگان، یک صد ءُ پنجاه ءُ شش۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "مگبیش"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "یک صد"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ءُ شش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:13.581044344Z",
+  "model": "glm-5.3"
+}

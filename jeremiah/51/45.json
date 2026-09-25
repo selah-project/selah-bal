@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "jeremiah 51:45",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "اے مئے قوم، آییءِ میانءَ چہ روت، ءُ ہر کس وتی جان ⟨את⟩ چہ یاہوہءِ غضبءِ قہرءَ نجات دیت۔",
+  "tokens": [
+    {
+      "surface": "צאו",
+      "gloss": "روت"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "آییءِ میانءَ چہ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "اے مئے قوم"
+    },
+    {
+      "surface": "ומלטו",
+      "gloss": "ءُ نجات دیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر کس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی جان"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "وتی جان"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "قہر"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:07:27.184145016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ یہویاقیمءِ زہگان: یکونیاه آئیءِ زہگ، زدکیاهو آئیءِ زہگ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ …ءِ زہگان"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "یہویاقیمءِ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "یکونیاه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آئیءِ زہگ"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "زدکیاهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آئیءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:14:06.457769396Z",
+  "model": "glm-5.3"
+}

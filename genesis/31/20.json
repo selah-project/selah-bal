@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ یعقوب چوری کت ⟨את⟩ لابانءِ دلءَ، آرامیءَ — اے سبہ کہ آییءَ نہ گوَشت کہ آیی فراری اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "ءُ چوری کت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لابانءِ دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "آرامی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "گوَش کتن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "فراری"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:38:57.193272584Z",
+  "model": "glm-5.3"
+}

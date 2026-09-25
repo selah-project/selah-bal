@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 148,
+  "translation": "جوانان ءُ دیما کنیژکان، پیران گوں نوجوانان،",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "جوانان"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ دیما"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "کونیژکان"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "نوجوانان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:53.546903798Z",
+  "model": "glm-5.3"
+}

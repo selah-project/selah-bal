@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "جھوٹانی گواہ نہ بخشیت بیت، ءُ جہڑا دروغانی پھوک دیت، آ نہ بچیت۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "جھوٹانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بخشیت بیت"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ءُ پھوک دیت"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "دروغانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:04.746345339Z",
+  "model": "glm-5.3"
+}

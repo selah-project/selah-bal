@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "مالدار کمبزانءِ سرا حکومت کنیت، ءُ قرض گیر قرض دِنوکءِ غلام اِنت۔",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "مالدار"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "کمبزانءِ سرا"
+    },
+    {
+      "surface": "یמשול",
+      "gloss": "حکومت کنیت"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ءُ غلام"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "قرض گیر"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "آ مردءَ"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "قرض دِنوک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:51.225435553Z",
+  "model": "glm-5.3"
+}

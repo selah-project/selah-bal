@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "یاہوہ پہ من اِنت، من نہ ڈرَں — مردم منءَ چہ کنت؟",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ڈرَں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:56.706004728Z",
+  "model": "glm-5.3"
+}

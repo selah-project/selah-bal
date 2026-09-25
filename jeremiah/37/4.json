@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ یرمیاہو قومءِ میانءَ ایت ءُ روت، ءُ آییءَ ⟨את⟩ قیدءِ گadanءَ تہ نہ داتنت۔",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "ءُ یرمیاہو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ایت"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "داتنت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "قیدءِ گadan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "قیدءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:00:21.154958724Z",
+  "model": "glm-5.3"
+}

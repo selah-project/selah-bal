@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "منءَ رؤ بگریت ءُ حیران بوتیت، ءُ دست ءُ دمانءَ تہ گپ کیت۔",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "رؤ بگریت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "ءُ حیران بوتیت"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "ءُ تہ گپ کیت"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست ءُ دمان"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "گپ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:37:45.554512735Z",
+  "model": "glm-5.3"
+}

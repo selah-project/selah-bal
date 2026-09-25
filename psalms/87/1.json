@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 87,
+  "translation": "پہ قورحءِ زہگانءَ — مزمد، سرود. آییءِ بنیاد کوهانی پاکءَ ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "پہ … زہگانءَ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورحءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمد"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "آییءِ بنیاد"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "کوهانءَ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاکءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:10.980850666Z",
+  "model": "glm-5.3"
+}

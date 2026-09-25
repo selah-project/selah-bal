@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "من یاہوہءَ چہ پدا دیم پہ آییءِ ہمگ تگمولاں کہ منءِ سرءَ اَنت؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "پدا دیم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "تگمولاں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:59.552166883Z",
+  "model": "glm-5.3"
+}

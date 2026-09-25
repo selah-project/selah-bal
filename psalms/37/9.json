@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "کی بدکاران کپیت بنت، ءُ یاہوہءِ چشمیوان آ اِنت کہ زمینءَ میرنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "بدکاران"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "کپیت بنت"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "ءُ چشمیوان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "میرنت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:54.932272679Z",
+  "model": "glm-5.3"
+}

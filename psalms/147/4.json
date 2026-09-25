@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 147,
+  "translation": "ستارہانی شمار کنیت، پہ گیش اِشانی نامانءَ بانگ دیت۔",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "شمار کنیت"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ستارہانی"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "پہ گیش اِشان"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نامانءَ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "بانگ دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:10.490737351Z",
+  "model": "glm-5.3"
+}

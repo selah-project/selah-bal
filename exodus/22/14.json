@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اگر آییءِ مالک گوں آیی اَت، جبران نہ کنت؛ اگر آ کرایہءِ اِنت، آ آییءِ کرایہءَ آتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "آییءِ مالک"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں آیی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "جبران کنت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "کرایہءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتگ"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "آییءِ کرایہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:20.505475958Z",
+  "model": "glm-5.3"
+}

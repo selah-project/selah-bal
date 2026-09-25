@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ آ دگہ راہءَ روت، ءُ آ راہءَ نہ پدا گپت کہ آییءَ بیت ءیلءَ آتگ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہءَ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "پدا گپت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتگ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءیل"
+    }
+  ],
+  "timestamp": "2026-09-24T21:00:50.850555374Z",
+  "model": "glm-5.3"
+}

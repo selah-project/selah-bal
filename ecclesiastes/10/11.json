@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "اگر مار بے منترءَ گزنت، ءُ زبانءِ مالکءَ ہچ برتری نیست۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "گزنت"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "بے"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "منترءَ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "برتری"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "پہ مالک"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "زبانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:09.255628247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "دیک، تئے سوہنی اِنت، اے منءِ یار؛ دیک، تئے سوہنی اِنت؛ تئے چمان کوتریان ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "دیک"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہنی"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "منءِ یار"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "دیک"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہنی"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تئے چمان"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "کوتریان"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:41.686912448Z",
+  "model": "glm-5.3"
+}

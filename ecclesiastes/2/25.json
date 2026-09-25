@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "پرچا کِہ گوشیت ءُ کِہ شۏریت، بیرے چہ ماں؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کِہ"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "شۏریت"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "بیرے"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ ماں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:38.746099715Z",
+  "model": "glm-5.3"
+}

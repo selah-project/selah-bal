@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کیہ کہ یاہوہ ⟨את⟩ آ کہ جوش منیت آییءَ تنبیہ کیت، ءُ چوش کہ پیو ⟨את⟩ زہگ کہ آییءَ چہ آ خوش اِنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "جوش منیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "آییءَ تنبیہ کیت"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "ءُ چوش کہ پیو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زہگ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "آییءَ چہ آ خوش اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:04.043212782Z",
+  "model": "glm-5.3"
+}

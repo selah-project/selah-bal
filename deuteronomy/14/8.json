@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ ⟨את⟩ خوک — پرچا کہ آ پاچہ درز کنت پرچا کہ چیج نہ ہور کنت، آ شماں پہ ناپاک اِنت؛ اِشانی گوشتءَ نہ چیکن ءُ اِشانی لاشہ ءَ نہ لَٹّکن",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "خوک"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "خوک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "پاچہ درز کنتا"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "پاچہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "چیج"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماں پہ"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "چہ اِشانی گوشت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "چیکن"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ءُ اِشانی لاشہ ءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "لَٹّکن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:10.879756928Z",
+  "model": "glm-5.3"
+}

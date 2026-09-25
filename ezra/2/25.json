@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "زہگانِ قریت یعاریم، کفیرہ ءُ بئیروت — ہپت سد ءُ چالی ءُ سئے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگانِ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "یعاریم"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "کفیرہ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ءُ بئیروت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ءُ چالی"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ءُ سئے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:27.025930665Z",
+  "model": "glm-5.3"
+}

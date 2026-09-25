@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "روبن، شمئون، لوی ءُ یہودا۔",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "روبن"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمئون"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ءُ یہودا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:50:13.886911931Z",
+  "model": "glm-5.3"
+}

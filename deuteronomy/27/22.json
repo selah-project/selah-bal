@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "لعنت بیت آ کہ گوں آییءِ خوشالک شپیت، آییءِ پیءِ جنک یا آییءِ ماءِ جنک ءُ گوَشتِت کل قوم کہ آمین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت بیت"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "شپیت آ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "آییءِ خوشالک"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آییءِ پی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "آییءِ ماء"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشتِت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:04.354797431Z",
+  "model": "glm-5.3"
+}

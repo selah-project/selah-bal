@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یاہوہ ماءَ گوَشت: چہ شمالءَ بدی گشائی بیت، اے ساریں زمینءِ رہونکاںءِ سرءَ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماءَ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "چہ شمالءَ"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "گشائی بیت"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریں"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "رہونکاںءِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:43:43.385269025Z",
+  "model": "glm-5.3"
+}

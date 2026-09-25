@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 92,
+  "translation": "ءُ تُں بُلندیءَ اِنت پہ ہمیشہ، اے یاہوہ۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تُں"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "بُلندیءَ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:52.237061858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 4:15",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ منءَ گوَشت: گند، من تئے ⟨את⟩ مالءِ گوہ مردمءِ گوہءِ جاگہءَ دتگم، ءُ تُو وتے نان آییءِ سرءَ چاہیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گند"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دتگم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مالءِ گوہ"
+    },
+    {
+      "surface": "צפועי",
+      "gloss": "گوہ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "مالءِ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "جاگہءَ"
+    },
+    {
+      "surface": "גללי",
+      "gloss": "گوہ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ چاہیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتے نان"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "وتے نان"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "آییءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:09:37.704823479Z",
+  "model": "glm-5.3"
+}

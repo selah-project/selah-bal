@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "کوہلِتءِ گالان، داودءِ زہگ، یورشلمءِ پادشاہ۔",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کوہلِتءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یورشلمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:05.780728852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 103,
+  "translation": "برکت دئ اے منی جان ⟨את⟩ یاہوہءَ، ءُ ہمگ آییءِ نیکیان نہ بھلرئ۔",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "برکت دئ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "اے منی جان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "بھلرئ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "آییءِ نیکیان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:41.763179239Z",
+  "model": "glm-5.3"
+}

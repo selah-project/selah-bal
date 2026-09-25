@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ آ قومءَ ⟨את⟩ آ بَد گپءَ اےءَ شنیت ءُ ماتم کتانت، ءُ ہر کس وتی زیور آییءَ نہ لائی۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ءُ شنیت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "آ قومءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ بَد گپ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "آ گپ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بَد"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ءُ ماتم کتانت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "لائی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر کس"
+    },
+    {
+      "surface": "עדיو",
+      "gloss": "وتی زیور"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:08:04.879534271Z",
+  "model": "glm-5.3"
+}

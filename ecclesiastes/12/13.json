@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "گپءِ پایان، ہمگ گوش بوتگ: چہ ⟨את⟩ ایلوہیم بتریت ءُ ⟨את⟩ آییءِ حکمان داریت، کہ اے ⟨اِنت⟩ مردمءِ ہمگ۔",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "پایان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "گوش بوتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "بتریت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ حکمان"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "آییءِ حکمان"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "داریت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:22.948419231Z",
+  "model": "glm-5.3"
+}

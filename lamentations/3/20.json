@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یاد کن ءُ پدا یاد کن، ءُ منی جان منی سرءَ جہک بیت۔",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "یاد کن"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "پدا یاد کن"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "ءُ جہک بیت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرءَ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:28.797338675Z",
+  "model": "glm-5.3"
+}

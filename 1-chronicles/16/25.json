@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "چہ یاہوہ گش ⟨اِنت⟩، ءُ گیشتر ستائیتگ، ءُ آ ہر ہدا ءُ بالا تھرکنوک ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ءُ ستائیتگ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ءُ تھرکنوک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءُ بالا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدا"
+    }
+  ],
+  "timestamp": "2026-09-25T00:27:10.194086431Z",
+  "model": "glm-5.3"
+}

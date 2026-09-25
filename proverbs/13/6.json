@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "راستی پاکیں رہءَ پالیت، ءُ بدکاری گناہءَ کج کنت۔",
+  "tokens": [
+    {
+      "surface": "צְדָקָה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "תִּצֹּר",
+      "gloss": "پالیت"
+    },
+    {
+      "surface": "תָּם",
+      "gloss": "پاکیں"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "رہءَ"
+    },
+    {
+      "surface": "וְרִשְׁעָה",
+      "gloss": "ءُ بدکاری"
+    },
+    {
+      "surface": "תְּסַלֵּף",
+      "gloss": "کج کنت"
+    },
+    {
+      "surface": "חַטָּאת",
+      "gloss": "گناہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:42.299847380Z",
+  "model": "glm-5.3"
+}

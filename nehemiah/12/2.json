@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "امریا، ملوک، حتّوش",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "امریا"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ملوک"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "حتّوش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:18:49.287747296Z",
+  "model": "glm-5.3"
+}

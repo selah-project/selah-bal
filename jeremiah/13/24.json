@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 13:24",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ ما اِشاں چوش بھوسہ کہ روت بیت، بہ بیابانیءِ وا پروش کنیں۔",
+  "tokens": [
+    {
+      "surface": "ואפיצם",
+      "gloss": "ءُ ما اِشاں پروش کنیں"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "چوش بھوسہ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "روت بیت"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "بہ وا"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابانیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:04.616659471Z",
+  "model": "glm-5.3"
+}

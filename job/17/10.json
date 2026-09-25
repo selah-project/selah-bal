@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 17:10",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "بلے تُماں همگ ورد کنیں ءُ اے گوش آئیں — تُماں تہ من یک دانا نہ لبزیت۔",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "تُماں همگ"
+    },
+    {
+      "surface": "תשבو",
+      "gloss": "ورد کنیں"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ءُ آئیں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "لبزیت"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تُماں تہ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:15.950380450Z",
+  "model": "glm-5.3"
+}

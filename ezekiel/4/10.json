@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ تیڑی خوراک کہ تو آءَ شکیت، بیں ترازو بیس شیکل پہ روچ گنیت — چہ وہد تا وہد تو آءَ شکیت۔",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "ءُ تیڑی خوراک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "تو آءَ شکیت"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "بیں ترازو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "لיום",
+      "gloss": "پہ روچ"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "چہ وہد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "תאכלنו",
+      "gloss": "تو آءَ شکیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:08:50.355121761Z",
+  "model": "glm-5.3"
+}

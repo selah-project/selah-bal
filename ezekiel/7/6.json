@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "آخر بیت، آخر بیت — آ تو رند جاگ بیتگ؛ دیستگ، گوَڑیت۔",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "בא",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "جاگ بیتگ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو رند"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیستگ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "گوَڑیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:09:13.463100528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "دو دہ سال اِشاں ⟨את⟩ کِدرلعُمرءَ نوکتی کتنت، ءُ سئے دہ سالءَ بغاوت کتنت.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "نوکتی کتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کِدرلعُمر"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "کِدرلعُمر"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "بغاوت کتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:28:27.706686065Z",
+  "model": "glm-5.3"
+}

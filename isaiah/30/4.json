@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "کیہ کہ آییءِ سردار زؤعانءَ اَنتنت ءُ آییءِ الچی چانیسءَ رسنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "אَنتنت"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "زؤعانءَ"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "آییءِ سردار"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "ءُ آییءِ الچی"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "چانیسءَ"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "رسنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:31:05.745990385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ ⟨את⟩ اِشاںءَ ڈھیر ءُ ڈھیر کتنت، ءُ زمین بدبو بوت۔",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "ءُ ڈھیر ءُ ڈھیر کتنت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اِشاںءَ",
+      "marks": "مینڈوکان"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ڈھیر"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ڈھیر"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "ءُ بدبو بوت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T18:53:28.488206387Z",
+  "model": "glm-5.3"
+}

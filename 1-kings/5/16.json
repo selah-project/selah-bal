@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ شِلوموہ ہیرامءَ پیغام درا کت کہ گوَشت:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ پیغام درا کت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ءَ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ہیرامءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:55:34.375167412Z",
+  "model": "glm-5.3"
+}

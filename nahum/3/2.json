@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "چابکءِ آواز ءُ چرخءِ شورءِ آواز، ءُ گوڑ کہ زہی، ءُ گاڑی کہ نچیت۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "چابک"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ءُ آواز"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "شور"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "چرخ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ءُ گوڑ"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "زہی"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "ءُ گاڑی"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "نچیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:40:25.176007193Z",
+  "model": "glm-5.3"
+}

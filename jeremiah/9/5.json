@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "توءِ وتہ جاہ مکرءِ تہءَ اِنت؛ گوں مکر اِشاں شناختءَ ⟨את⟩ منءَ انکار کت — یاہوہءِ گال اِنت۔",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "توءِ وتہ جاہ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "مکر"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "گوں مکر"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "انکار کت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "شناخت"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:47:26.801153995Z",
+  "model": "glm-5.3"
+}

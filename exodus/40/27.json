@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ آییءِ سرا مشکانیں دود کت، چوش کہ یاہوہءَ ⟨את⟩ موشہءَ حکم کت۔",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "ءُ دود کت"
+    },
+    {
+      "surface": "עליو",
+      "gloss": "آییءِ سرا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "دود"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "مشکانیں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشہءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:17.912833077Z",
+  "model": "glm-5.3"
+}

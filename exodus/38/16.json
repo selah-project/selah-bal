@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ہمگ پردہ دنگءِ چوکسار چہ رشتگیں کتانءِ تار۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "دنگءِ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوکسار"
+    },
+    {
+      "surface": "שש",
+      "gloss": "کتان"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "رشتگیں تار"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:24.863684487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "کج بوتگیں چیز کہ نہ کنیت تا سیم ببیت، ءُ کما چیزی کہ نہ کنیت تا شمار ببیت۔",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "کج بوتگیں چیز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "تا سیم ببیت"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ءُ کما چیزی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "تا شمار ببیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:07.536816966Z",
+  "model": "glm-5.3"
+}

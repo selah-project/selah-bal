@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ⟨את⟩ شاپان، چوں آ وا چاب کنیت ءُ سُم نہ دوپرہ کنیت، ناپاک آ تُماں پہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شاپان"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "شاپان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "پدا اَوریت"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "وا چاب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ءُ سُم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "دوپرہ کنیت"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُماں پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:36.995100650Z",
+  "model": "glm-5.3"
+}

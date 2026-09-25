@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "گور، من بے شمے بانگ کتگ بتسائلءَ، اوریءِ زہگ، حورءِ زہگ، یہوداہءِ ٹولیءَ چے۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "گور"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "من … بانگ کتگ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "بے شمے"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بتسائلءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اوریءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حورءِ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "چے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ ٹولیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:04:11.620865437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "نہ بدگو کن کم شنوکءَ، ءُ لتاں مَتکءِ پیشءَ نہ ٹکر دہ؛ ءُ وتی ایلوہیمءَ چہ ڈر — من یاہوہ اَت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "بدگو کن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کم شنوکءَ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ءُ…ءِ پیشءَ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "لتاں مَتکءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "ٹکر"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ءُ…چہ ڈر"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "وتی ایلوہیمءَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:16.563957883Z",
+  "model": "glm-5.3"
+}

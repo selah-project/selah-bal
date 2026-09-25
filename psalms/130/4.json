@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 130,
+  "translation": "کیہ کہ تُہءِ نزدیکءَ بخشش اِنت، پہ اے کہ تُہ ڈَرسمجیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تُہءِ نزدیکءَ"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "بخشش"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ڈَرسمجیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:19.803671921Z",
+  "model": "glm-5.3"
+}

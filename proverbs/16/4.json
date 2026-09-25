@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ہر چیز یاہوہءَ آییءِ مقصدءَ پہ جوڑ کت، ءُ بدکار ہم پہ بری روچءَ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر چیز"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "آییءِ مقصدءَ پہ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "روچءَ پہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بری"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:46.089229944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 92,
+  "translation": "پہ اے گوَشتگ کہ یاہوہ راست اِنت، منءِ چٹان، ءُ آییءَ تہ ہچ زالمی نیست۔",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "پہ اے گوَشتگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "منءِ چٹان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "زالمی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:09.598526747Z",
+  "model": "glm-5.3"
+}

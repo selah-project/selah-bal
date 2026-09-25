@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 1:47",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "بلے لاویان پہ وتی پدءِ ٹولیءَ اِشانی چمءَ شمار نہ بوتگ۔",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "بلے لاویان"
+    },
+    {
+      "surface": "لמטה",
+      "gloss": "پہ ٹولیءَ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "وتی پدءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "شمار بوتگ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "اِشانی چمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:05.441320984Z",
+  "model": "glm-5.3"
+}

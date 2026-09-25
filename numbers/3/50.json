@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "چہ ⟨את⟩ اسرائیلانی زہگانی پہلواند گرپت ⟨את⟩ چاند — پنچ ءُ شش ءُ سئے سد ءُ ہزار، مقدسءِ شاقلءَ.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "چہ ⟨את⟩",
+      "marks": "پہلواند"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پہلواند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاند"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاند"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ءُ ہزار"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شاقلءَ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدسءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:37.971184100Z",
+  "model": "glm-5.3"
+}

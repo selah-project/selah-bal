@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "اُٹّو ءُ شپءَ سر بکیت ءُ آییءِ قلعہاناں ءُ ہلاک کُنیں.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "اُٹّو"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "ءُ سر بکیت"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "ءُ ہلاک کُنیں"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "آییءِ قلعہان"
+    }
+  ],
+  "timestamp": "2026-09-24T21:45:29.059321529Z",
+  "model": "glm-5.3"
+}

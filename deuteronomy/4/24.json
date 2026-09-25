@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کیا کہ تُہرں ایلوهیم یاہوہ اِشِ لُٹاک اِنت، ایلِ رشک گر۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُہرں ایلوہیم"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "لُٹاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "رشک گر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:58.344965236Z",
+  "model": "glm-5.3"
+}

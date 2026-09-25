@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کی آءِ گدان مرگءَ دیم کپیت، ءُ آءِ رہان رفائیمءَ روتنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "دیم کپیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "آءِ گدان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائیم"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "آءِ رہان"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:59.970013268Z",
+  "model": "glm-5.3"
+}

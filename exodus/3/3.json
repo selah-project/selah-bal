@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ موشہءَ گوَشت: وت برت کن، مہربانی، ءُ ⟨את⟩ اے بزرگ دیم‌نما گندم — چُو سُنہ نہ سُوخت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "وت برت کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مہربانی"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ءُ گندم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیم‌نما"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "دیم‌نما"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "چُو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "سُوخت"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "سُنہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:50:51.943207484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ تو رسی کہانگان لویانءَ تہ ءُ گوں دادگر کہ او روچانءَ ہست بیت، ءُ تو پچیت ءُ اِشاں تہا گوَشنت ⟨את⟩ فیصلہءِ گال۔",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ءُ تو رسی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کہانگان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "دادگر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہست بیت"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "روچانءَ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "او"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ءُ تو پچیت"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "ءُ اِشاں گوَشنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فیصلہءِ گال"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "فیصلہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:22.776474846Z",
+  "model": "glm-5.3"
+}

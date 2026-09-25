@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "گناهءِ دوستے جنگالءِ دوستے اِنت، ءُ آ کہ وتءِ دروازہءَ اُچ کیت، شکستءِ گندگ کنت۔",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "دوستے"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "گناهءِ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوستے"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "جنگالءِ"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "اُچ کیت"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "دروازہءَ"
+    },
+    {
+      "surface": "مבקש",
+      "gloss": "گندگ کنت"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکستءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:44.825443369Z",
+  "model": "glm-5.3"
+}

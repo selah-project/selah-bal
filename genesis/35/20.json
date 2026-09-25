@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ یعقوب یک ستون آءِ قبرءِ سرءَ لگا کت؛ آ راحیلءِ قبرءِ ستون ⟨اِنت⟩، تہ اِمروزیں روچ.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ءُ لگا کت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "آءِ قبر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "قبر"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحیلءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِمروزیں روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:39.497036234Z",
+  "model": "glm-5.3"
+}

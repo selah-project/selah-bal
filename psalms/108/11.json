@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 108,
+  "translation": "کے منیءَ مستحفظں شہرءَ ءَ گلَنت؟ کے منیءَ رَاہ ڈَستِرت اَنت ادومءَ ءَ ؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "منیءَ … گلَنت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "مבצר",
+      "gloss": "مستحفظں"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "منیءَ رَاہ ڈَستِرت اَنت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا … ءَ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:43.746393496Z",
+  "model": "glm-5.3"
+}

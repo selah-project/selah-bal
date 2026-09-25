@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 100,
+  "translation": "مزمور پہ شکرانہءِ۔ پاد زنیت پہ یاہوہءَ، پوری زمین!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "پہ شکرانہءِ"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "پاد زنیت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:25.894432083Z",
+  "model": "glm-5.3"
+}

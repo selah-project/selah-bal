@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "چک نہ کنیں — چک کننت؛ اِشاںءَ نہ چک کننت — شرم فری نہ گنت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "چک مکنیں"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "چک کننت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "چک کننت"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "فری نہ گنت"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "شرم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:37:48.987429656Z",
+  "model": "glm-5.3"
+}

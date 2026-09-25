@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 19:33",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "چہ اے راہءَ کہ آیی آتگ، آیی وتی پدا روت، ءُ اے شہرءَ چیر نہ بیت — یاہوہءِ فرمانءِ چم۔",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "چہ اے راہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آتگ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پدا روت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:59:27.830069881Z",
+  "model": "glm-5.3"
+}

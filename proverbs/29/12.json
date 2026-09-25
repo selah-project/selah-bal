@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "حاکمی کہ دروغءِ گالءَ گوشیت، آییءِ ساری نوکر بد اَنت۔",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "حاکمی"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "آییءِ نوکر"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بد اَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:37.769670977Z",
+  "model": "glm-5.3"
+}

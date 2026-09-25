@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "یقیناں تُو ایلی ءُ لُکیت، اسرائیلءِ ایلوہیم، رہاکنندگ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "یقیناں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "لُکیت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "رہاکنندگ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:36:15.007363090Z",
+  "model": "glm-5.3"
+}

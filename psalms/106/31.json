@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "ءُ آیی پہ راستی شمار بوت، نسل چہ نسلءَ، تا همیشه۔",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "ءُ شمار بوت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیی پہ"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "پہ راستی"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل چہ نسلءَ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ءُ نسل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "همیشه"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:59.285217100Z",
+  "model": "glm-5.3"
+}

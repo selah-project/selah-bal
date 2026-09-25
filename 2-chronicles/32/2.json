@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ حزقیاہ گندیت کہ سانحیریب آتگ ءُ آییءِ رخ جنگءَ پہ یروشلمءِ سر اِنت۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "حزقیاہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتگ"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "سانحیریب"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "ءُ آییءِ رخ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلمءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:45:58.608091209Z",
+  "model": "glm-5.3"
+}

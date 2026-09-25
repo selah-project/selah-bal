@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "پہ یاہوہءَ کار کنیں وہد اِنت، کہ اِشاں تئاریں توراءَ پروش کتگ۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کار کنیں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "پروش کتگ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تئاریں تورا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:57.116589822Z",
+  "model": "glm-5.3"
+}

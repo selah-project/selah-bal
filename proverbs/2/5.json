@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "آ وختءَ تو یاہوہءِ ڈرءَ بزانیت ءُ ایلوہیمءِ شناخت ⟨تو⟩ دست آیت.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آ وختءَ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "تو بزانیت"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ڈرءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ شناخت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "دست آیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:01.676758679Z",
+  "model": "glm-5.3"
+}

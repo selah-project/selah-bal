@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "آءُ آییءِ منہ حکمتءَ کھولیت، ءُ مہربانیءِ تورات آییءِ زبانءِ سر اِنت۔",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "آییءِ منہ"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "آءُ کھولیت"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حکمتءَ"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "ءُ تورات"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "مہربانیءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "آییءِ زبانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:01.982708719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "بیت وتیءِ منہ خاکءَ دیت — شاید چیزیں امید ہست۔",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "خاکءَ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "وتیءِ منہ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "شاید"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "امید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:51.582738375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ اگر بے شک آءَ سئیمی روچءَ شوک بیت، آ میتہ اِنت، پسند نہ بیت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "شوک بیت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سئیمی"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "میتہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "پسند بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:20:09.351271687Z",
+  "model": "glm-5.3"
+}

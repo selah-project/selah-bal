@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "کیچہ آییءِ سارے فیصلے مینءِ پیش اِنت، ءُ آییءِ حکم من چہ مٰءِ نہ پھیر کت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "آییءِ فیصلے"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "مینءِ پیش"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ءُ آییءِ حکم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "پھیر نہ کت"
+    },
+    {
+      "surface": "מני",
+      "gloss": "چہ مٰءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:05.688999642Z",
+  "model": "glm-5.3"
+}

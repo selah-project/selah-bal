@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "زہگانی آشر: یمنہ ءُ یشوہ ءُ یشوی ءُ بریعہ ءُ سرح آشانی خور۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "یمنہ"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "ءُ یشوہ"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "ءُ یشوی"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ءُ بریعہ"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "ءُ سرح"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "آشانی خور"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:17.586909896Z",
+  "model": "glm-5.3"
+}

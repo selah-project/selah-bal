@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ من رہائی ڈیم مءِ قومءَ ءُ تءِ قومءِ میانءَ؛ پداںیں روچءَ اے نشان بیت۔",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ءُ من ڈیم"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "رہائی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "مءِ قومءَ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ میانءَ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تءِ قومءَ"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "پداںیں روچءَ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "האות",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T18:53:37.438009465Z",
+  "model": "glm-5.3"
+}

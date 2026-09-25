@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "اُٹ، ءُ کُشاں گرءِ کِدءَ لڑ، ءُ اودا من تا شں بدراںںت منءِ گالانءَ ⟨את⟩۔",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٹ"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "ءُ لڑ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کِدءَ"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "کُشاں گرءِ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ءُ اودا"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "من تا شں بدراںںت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منءِ گالان"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "منءِ گالان"
+    }
+  ],
+  "timestamp": "2026-09-24T21:52:45.001155595Z",
+  "model": "glm-5.3"
+}

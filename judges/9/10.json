@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ داران انجیریءَ گوَشتنت: روت، تو اِشانی سر پادشاہ بیت.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ءُ گوَشتنت"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "داران"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "انجیریءَ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "رو"
+    },
+    {
+      "surface": "את",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاہ بیت"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اِشانی سر"
+    }
+  ],
+  "timestamp": "2026-09-24T20:17:50.916706754Z",
+  "model": "glm-5.3"
+}

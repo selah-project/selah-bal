@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "آ زنگاناں تا زمینءِ کناڑی بند کیت، کمانءَ شکانیت ءُ نیزہ کپیت، گاڑیاں بلءَ سوزیت۔",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "بند کیت"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "زنگان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "کناڑی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "شکانیت"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ءُ کپیت"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "نیزہ"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "گاڑیاں"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "سوزیت"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:32.492793471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "دریائی آپان چوش کہ یک ڈنگ کٹمیتیت؛ تہومیانءَ وتءِ خزانہاں تہ شِیت.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "کٹمیتیت"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "چوش کہ یک ڈنگ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریائی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "شِیت"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "خزانہاں تہ"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "تہومیان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:10.401780321Z",
+  "model": "glm-5.3"
+}

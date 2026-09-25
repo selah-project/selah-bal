@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "آ قربانگاہءِ جاگءَ پہ کہ آ اُڈے اولانی وہدءَ جوڑ کتگ اَت — ءُ اُڈے ابرام یاہوہءِ نامءَ بانگ کت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگءَ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "آ قربانگاہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کتگ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُڈے"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "اولانی وہدءَ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُڈے"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نامءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:28:18.450382981Z",
+  "model": "glm-5.3"
+}

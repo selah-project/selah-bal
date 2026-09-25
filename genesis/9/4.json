@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "بلے گوشت گوں وتی نفس — وتی وینءَ — ⟨شمایا⟩ نہ ونوچیت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "گوں وتی نفس"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "وتی وینءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ونوچیت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:49:24.830299818Z",
+  "model": "glm-5.3"
+}

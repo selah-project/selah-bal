@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "راستانی سوچاں انصاف ⟨اِنت⟩؛ ءُ بدکارانی چالاں دغا ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "سوچاں"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستانی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "چالاں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دغا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:13.025260675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 9:22",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ پادشاہ شُلومہ چہ زمینءِ گش شاہانءَ پہ دولت ءُ دانش گیشتر بوت۔",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "گیشتر بوت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شُلومہ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ گش"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "شاہان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "پہ دولت"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ءُ دانش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:36:09.477751940Z",
+  "model": "glm-5.3"
+}

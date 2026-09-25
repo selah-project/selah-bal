@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "کی آ وتیں پاکیں گال یاد کت، ⟨את⟩ آبراهام ءُ ⟨את⟩ آییءِ چاکر",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاکیں گال"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "وتیں پاکیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آبراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "آبراهام"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ءُ آییءِ چاکر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:12.646722671Z",
+  "model": "glm-5.3"
+}

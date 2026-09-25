@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "نزریءِ تمامیں روچانءَ آ پہ یاہوہ پاک اِنت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تمامیں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچانءِ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "نزریءِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:29:38.371802581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 145,
+  "translation": "یاہوہ ہر ڈگوکاںءَ سنبالیت ءُ ہر خم بوتگیزانءَ سید کنیت.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "سنبالیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ڈگوکاں"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ءُ سید کنیت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "خم بوتگیزان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:59.861740214Z",
+  "model": "glm-5.3"
+}

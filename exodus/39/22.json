@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "ءُ آیے ایفُدءِ پوشاک ⟨את⟩ جوڑ کت — بافتہءِ کار، تمام تکیلِت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوشاک"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "پوشاک"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ایفُدءِ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "بافتہءِ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "تکیلِت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:51.854866505Z",
+  "model": "glm-5.3"
+}

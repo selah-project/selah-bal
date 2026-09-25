@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "اِشانی دل چوش گوڑءِ موٹا بوتگ؛ من تُئیں توراءَ شاد کت۔",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "موٹا بوتگ"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "چوش گوڑءِ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "اِشانی دل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تُئیں توراءَ"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "شاد کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:29.126749073Z",
+  "model": "glm-5.3"
+}

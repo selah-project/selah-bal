@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ گوَشت: «ڈر مکن، چون گیش اَنت کہ ⟨את⟩ ماں گوں اَنت، چہ کہ ⟨את⟩ اِشانی گوں اَنت.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈر مکن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ماں گوں"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ اِشانی گوں"
+    }
+  ],
+  "timestamp": "2026-09-24T21:10:22.280657612Z",
+  "model": "glm-5.3"
+}

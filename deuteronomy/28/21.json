@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "یاہوہءَ ⟨את⟩ مرض تُوءَ سر گوَنڈیت، تا آییءَ ⟨את⟩ تُوءَ چینیت چہ زمینءَ، جتہ تُو روتئی اُشاں پہ تہ ملنڑ۔",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "گوَنڈیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُوءَ سر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرض"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "مرض"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "آییءَ چینیت"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تُوءَ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "روتئی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُشاں"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "پہ تہ ملنڑ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:16.810158805Z",
+  "model": "glm-5.3"
+}

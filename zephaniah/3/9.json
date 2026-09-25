@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 3:9",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "چون آ وہدءَ من قومانءَ پہ پاکیں لب پھیر دیت، کہ اِشان پُرے یاہوہءِ نامءَ بانگ کنن ءُ آیاءَ گوں یک شانءَ خدمت کنن۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אז",
+      "gloss": "آ وہدءَ"
+    },
+    {
+      "surface": "אהפך",
+      "gloss": "پھیر دیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومانءَ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لب"
+    },
+    {
+      "surface": "ברורه",
+      "gloss": "پاکیں"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "بانگ کنن"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "اِشان پُرے"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نامءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "לעבדו",
+      "gloss": "آیاءَ خدمت کنن"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-25T01:06:52.178852298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ من مے پاکیءَ گوں روتءُآن؛ مءَ آزاد کن ءُ مءَ رحمت کن.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "مے پاکیءَ گوں"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "روتءُآن"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "مءَ آزاد کن"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ءُ مءَ رحمت کن"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:23.658293041Z",
+  "model": "glm-5.3"
+}

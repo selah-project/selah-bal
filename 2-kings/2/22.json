@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آپان تا اے روچ چنگ بوتنت، چوش کہ الیشعءِ گال کہ گوَشت.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "ءُ چنگ بوتنت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "چوش کہ گال"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "الیشع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:07:36.664595976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ من چوش کہ کوڈا گوشنت نہ، ءُ چوش کہ گنگ کہ آییءِ منہ نہ کُشیت۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "چوش کہ کوڈا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "ءُ چوش کہ گنگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "کُشیت"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "آییءِ منہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:05.882020587Z",
+  "model": "glm-5.3"
+}

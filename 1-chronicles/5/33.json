@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "مرایوت ⟨את⟩ اَمریہءَ گوَندیت، ءُ اَمریہ ⟨את⟩ اَہیتوبءَ گوَندیت.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مرایوت"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "گوَندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَمریہءَ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "اَمریہ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ءُ اَمریہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "گوَندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَہیتوبءَ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اَہیتوب"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:29.811433492Z",
+  "model": "glm-5.3"
+}

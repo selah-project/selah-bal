@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 22:19",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "خرءِ دفنءِ چوں آ دفن بیت، درگ بیت ءُ پرت بیت یروشلمءِ دروازگانءَ چہ دُر.",
+  "tokens": [
+    {
+      "surface": "קבורת",
+      "gloss": "دفنءِ چوں"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خر"
+    },
+    {
+      "surface": "יקבר",
+      "gloss": "دفن بیت"
+    },
+    {
+      "surface": "سחוב",
+      "gloss": "درگ بیت"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "ءُ پرت بیت"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "چہ دُر"
+    },
+    {
+      "surface": "לשערי",
+      "gloss": "دروازگانءَ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    }
+  ],
+  "timestamp": "2026-09-24T21:52:04.971854943Z",
+  "model": "glm-5.3"
+}

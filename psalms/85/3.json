@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 85,
+  "translation": "تو تئر قومءِ گناہ بلند کت؛ تو اِشانی چمگ گناہانءَ پوشیت. سلاہ.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "تو بلند کت"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تئر قومءِ"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "تو پوشیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "چمگ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "گناہانءَ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:08.391847758Z",
+  "model": "glm-5.3"
+}

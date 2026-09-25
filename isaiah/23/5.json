@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "چوش کہ گوَری مِتسرایمءَ پہڑیت، آئے شنیزءِ پہڑیت کہ چہ تُر اَت۔",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوَری"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "مِتسرایمءَ"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "پہڑیت"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "شنیزءِ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تُر"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:14.889111854Z",
+  "model": "glm-5.3"
+}

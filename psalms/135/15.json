@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "قومانی بتان چاندی ءُ زر ⟨اَنت⟩، مردمانی دستانی کار۔",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "بتانِ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومانی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ءُ زر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کارِ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:08.630024796Z",
+  "model": "glm-5.3"
+}

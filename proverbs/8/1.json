@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "آیا حکمت بانگ نہ زنت، ءُ سمجھ وتِ آواز نہ دنت؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "بانگ زنت"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ءُ سمجھ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دنت"
+    },
+    {
+      "surface": "کולה",
+      "gloss": "وتِ آواز"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:14.037610047Z",
+  "model": "glm-5.3"
+}

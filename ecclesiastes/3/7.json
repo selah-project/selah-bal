@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "وہد چیرنگءِ ءُ وہد سینگءِ؛ وہد مست بوتگءِ ءُ وہد گپ زینگءِ۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "چیرنگءِ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "سینگءِ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "مست بوتگءِ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "گپ زینگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:51.031702898Z",
+  "model": "glm-5.3"
+}

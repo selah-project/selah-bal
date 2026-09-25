@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 32:28",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ لویءِ زہگان موشہءِ گالءِ چُن کت، ءُ چہ قوم اے روچءَ چوش سئے ہزار مرد ڈگت۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لویءِ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "گالءِ چُن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءِ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ءُ ڈگت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "چوش سئے"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:07:26.215319099Z",
+  "model": "glm-5.3"
+}

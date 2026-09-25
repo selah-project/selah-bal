@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آییءِ لشکر ءُ اِشانی شمارکرتگے: پنچ ءُ سی ہزار ءُ چار سد.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ءُ آییءِ لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ءُ اِشانی شمارکرتگے"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ءُ چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:37.638665395Z",
+  "model": "glm-5.3"
+}

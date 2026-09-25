@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "مہر برزنت، آ رُوپ اِشکننت ءُ وتی گداناں تہ درتنت۔",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "برزنت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "مہر"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "روپ اِشکننت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ دیمءَ"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "وتی گداناں"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "درتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:41.532657041Z",
+  "model": "glm-5.3"
+}

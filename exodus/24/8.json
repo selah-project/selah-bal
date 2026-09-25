@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ موشہ ⟨את⟩ گونءَ گرت ءُ قومءِ سرءَ پاشیت، ءُ گوَشت: ایش گون اِنت عہدءِ گون، کہ یاہوہ گوں شما ءُ ایں گن گالانی پہ بستگ۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گرت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گون"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "گونءَ"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ءُ پاشیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ایش"
+    },
+    {
+      "surface": "דם",
+      "gloss": "گون"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہدءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "بست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "گوں شما"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گن"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالانی"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:45.850171361Z",
+  "model": "glm-5.3"
+}

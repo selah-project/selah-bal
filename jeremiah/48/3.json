@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "آوازے بانگ چہ حورونایم: تہریب ءُ گیش ترُ مُٹ آچ۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آوازے"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "بانگ"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "چہ حورونایم"
+    },
+    {
+      "surface": "שד",
+      "gloss": "تہریب"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ءُ مُٹ آچ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش ترُ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:03:48.898737438Z",
+  "model": "glm-5.3"
+}

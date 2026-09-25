@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ پرچا کہ چور بیت چہ آیءَ آ چور بیت، آ مالکءَ پت دیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ پرچا کہ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چور بیت"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "آ چور بیت"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "چہ آیءَ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "پت دیت"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "مالکءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:09.685691875Z",
+  "model": "glm-5.3"
+}

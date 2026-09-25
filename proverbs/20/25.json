@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "دم اِنت پہ آدمءَ کہ بے-سوجیءَ گوشیت «مقدس» ءُ نذرانءِ پشتءَ پرسشت کنیت۔",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "دم"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءَ"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "بے-سوجیءَ گوشیت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "«مقدس»"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ءُ پشتءَ"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "نذرانءِ"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "پرسشت کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:00.979132937Z",
+  "model": "glm-5.3"
+}

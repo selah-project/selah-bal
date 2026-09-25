@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ من پدا گشتم کہ ⟨את⟩ منءِ دلءَ پہ ناامید کنم، سئے تمام مشقتءِ سرءَ کہ من گڈءِ تہءَ مشقت کت۔",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ءُ پدا گشتم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "پہ ناامید کنم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منءِ دلءَ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "منءِ دلءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سئے … سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "مشقتءِ"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "مشقت کت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "گڈءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:41.667462881Z",
+  "model": "glm-5.3"
+}

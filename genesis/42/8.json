@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ یوسفءَ وتی براتان ⟨את⟩ پہ شناست، بلے ایشان آییءَ نہ پہ شناستنت۔",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ءُ پہ شناست"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسفءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی براتان"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "وتی براتان"
+    },
+    {
+      "surface": "והם",
+      "gloss": "بلے ایشان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "آییءَ پہ شناستنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:36.601147147Z",
+  "model": "glm-5.3"
+}

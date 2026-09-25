@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 112,
+  "translation": "دولت ءُ گنج ⟨تہ⟩ آییءِ گد ءُ آییءِ راستی پہ ہمیشہ اِیشیت۔",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ءُ گنج"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "آییءِ گدءِ تہ"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ءُ آییءِ راستی"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "اِیشیت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:28.101595739Z",
+  "model": "glm-5.3"
+}

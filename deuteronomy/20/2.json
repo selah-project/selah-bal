@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ بیت، پرچا کہ شما جنگءَ نزدیک بہ، کاہن نزدیک بیت ءُ قومءَ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "כקרבככם",
+      "gloss": "پرچا کہ شما نزدیک بہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگءَ"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "ءُ نزدیک بیت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:08.419074846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "یک نامشروع زائنگ یاہوہءِ محفلءَ نہ روئیت؛ ھمے آییءِ دہمی نسلی ءُ پہ یاہوہءِ محفلءَ نہ روئیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "روئیت"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "نامشروع زائنگ"
+    },
+    {
+      "surface": "בקהل",
+      "gloss": "محفلءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھمے"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسلی"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "دہمی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "روئیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "محفلءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:18.489229655Z",
+  "model": "glm-5.3"
+}

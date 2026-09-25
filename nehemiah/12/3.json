@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "شکنیا، رحُوم، میریموت",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "شکنیا"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحُوم"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "میریموت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:18:49.287880285Z",
+  "model": "glm-5.3"
+}

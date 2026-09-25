@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ شِمعیءِ زہگان: یاحت، زینا، ءُ یعوش، ءُ بریعہ؛ اے شِمعیءِ زہگان اَنت، چار.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگان"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعیءِ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاحت"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "زینا"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ءُ یعوش"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ءُ بریعہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعیءِ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:14.142657865Z",
+  "model": "glm-5.3"
+}

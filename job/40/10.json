@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "اَدا نا شۏں ءُ بلندی پیش کن، ءُ شکوہ ءُ شان ءَ پُش",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "پیش کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اَدا نا"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "شۏں"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ءُ بلندی"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ءُ شکوہ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ءُ شان"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "پُش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:44:09.764417407Z",
+  "model": "glm-5.3"
+}

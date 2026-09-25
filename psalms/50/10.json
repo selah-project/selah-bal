@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "چوش کہ منی اِنت گش جنگلءِ جانور، ءُ مال ہزار کوهانءِ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی اِنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگلءِ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "مال"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "کوهانءِ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:30.295452247Z",
+  "model": "glm-5.3"
+}

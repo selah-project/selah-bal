@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ ایشتا تو گوشیت: روت، تیرے ادونایءَ گوں: دیما اِلیاہو۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ ایشتا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "تیرے ادونایءَ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیما"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیاہو"
+    }
+  ],
+  "timestamp": "2026-09-24T21:04:01.661363822Z",
+  "model": "glm-5.3"
+}

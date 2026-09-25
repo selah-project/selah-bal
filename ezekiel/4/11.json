@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ آپ بیں پیمانءَ بشیت — ششمی پارہ ہینءِ — چہ وہد تا وہد تو بشیت۔",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "ءُ آپ"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "بیں پیمانءَ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "بشیت"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "ششمی پارہ"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ہینءِ"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "چہ وہد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "تو بشیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:08:50.355251886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "چہ سستیءَ چھت ڈگیت، ءُ چہ دستانی سُستیءَ گَڈ کپیت۔",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "چہ سستیءَ"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "ڈگیت"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "چھت"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ءُ چہ سُستیءَ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دستانی"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "کپیت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گَڈ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:11.198198257Z",
+  "model": "glm-5.3"
+}

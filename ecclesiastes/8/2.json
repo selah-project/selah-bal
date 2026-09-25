@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "مان ⟨گوَش⟩ بادشاہءِ منہءِ نبیں، ءُ ایلوہیمءِ سوگندءِ بابت۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہءِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "نبیں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "بابتءِ"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "سوگندءِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:33.164156132Z",
+  "model": "glm-5.3"
+}

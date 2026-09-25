@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "تی قومءَ، اے یاہوہ، پروشنت ءُ تی ورثتءَ ستائنت۔",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "تی قومءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "پروشنت"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ءُ تی ورثتءَ"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ستائنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:46.193342560Z",
+  "model": "glm-5.3"
+}

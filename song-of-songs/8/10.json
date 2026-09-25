@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "من دیوار اِم، ءُ مزن من چوش برجان اَنت؛ رند من آئیءِ چشمانءَ چوش یکے کہ شالی لبگ اَت اَم۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "ءُ مزن"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "چوش برجان"
+    },
+    {
+      "surface": "אז",
+      "gloss": "رند"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "اَت اَم"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "آئیءِ چشمانءَ"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "چوش یکے کہ لبگ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:21.519389145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 30:32",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "مردمءِ گوشتءِ سرءَ نہ پاجیت، ءُ آئیءِ پیمانءَ گوں آئیءِ چوں نہ کنیت؛ آ پاک اِنت، پاک بیت پہ تُمان۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "بשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ייסך",
+      "gloss": "پاجیت"
+    },
+    {
+      "surface": "ובמתכנתו",
+      "gloss": "ءُ آئیءِ پیمانءَ گوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "כמהو",
+      "gloss": "آئیءِ چوں"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ تُمان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:05:19.294510548Z",
+  "model": "glm-5.3"
+}

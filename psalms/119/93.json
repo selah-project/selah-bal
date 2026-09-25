@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "تا ابد نہ ونجراں تہدئیاں حکم، چون آیاں ⟨تُو⟩ منی زندگ کت.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "تا ابد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ونجراں"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "تہدئیاں حکم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "בם",
+      "gloss": "آیاں"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "منی زندگ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:17.887553679Z",
+  "model": "glm-5.3"
+}

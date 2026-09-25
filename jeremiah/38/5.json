@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ بادشاہ صِدقیاہُ گوَشت: اِشا آ چُماں دستءَ، کہ بادشاہ چُماں پہ ہچ یک گالءَ نہ تونیت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقیاہُ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اِشا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "چُماں دستءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "تونیت"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ چُماں",
+      "marks": "گال"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    }
+  ],
+  "timestamp": "2026-09-24T22:00:41.366320545Z",
+  "model": "glm-5.3"
+}

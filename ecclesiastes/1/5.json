@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ طلعت کنت گریڈ، ءُ لہت گریڈ، ءُ تہ وتی جاگہءَ ہانپیت آ کہ اُت طلعت کنت۔",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ءُ طلعت کنت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "گریڈ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ءُ لہت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "گریڈ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ تہ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "وتی جاگہءَ"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ہانپیت"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "طلعت کنت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:34.569174279Z",
+  "model": "glm-5.3"
+}

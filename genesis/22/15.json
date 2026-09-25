@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ یاہوہءِ پیغامءَ ابراہیمءَ دویمی وار چہ آسمانانءَ بانگ کت،",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "پیغام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراہیمءَ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دویمی وار"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:33:10.150194640Z",
+  "model": "glm-5.3"
+}

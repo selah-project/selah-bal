@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "مءِ زبان توءِ امرءِ گیت وانت، کیچہ توءِ گیش فرمان راستی اَنت۔",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "گیت وانت"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "مءِ زبان"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "توءِ امر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "توءِ فرمان"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:37.414598034Z",
+  "model": "glm-5.3"
+}

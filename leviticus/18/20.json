@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ وتءِ یارءِ زنءَ وتی شمولءِ دانگ نہ دئنت پہ دانگءِ پہ، پہ گوں آءَ ناپاک بیت.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زن"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "وتءِ یار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "نہ دئنت"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "وتی شمولءِ دانگ"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "پہ دانگءِ پہ"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "پہ ناپاک کنگ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "گوں آءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:45.098094291Z",
+  "model": "glm-5.3"
+}

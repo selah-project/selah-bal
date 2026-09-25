@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اَے آسمان، اِشءِ سرءَ وِرَان بِت، ءُ کمبَک بِت، پُور وِرَان بِت، یاہوہءِ اِعلان.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "وِرَان بِت"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اَے آسمان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "ءُ کمبَک بِت"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "وِرَان بِت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "پُور"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اِعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:42:35.225648231Z",
+  "model": "glm-5.3"
+}

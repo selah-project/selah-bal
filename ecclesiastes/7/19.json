@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "دانایی دانا ءَ زور دیت، چہ دہ ءُ زیشتریں حاکماں کہ شہرءَ بیتگنت.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "زور دیت"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "دانا ءَ"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "چہ دہ"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "حاکماں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بیتگنت"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:08.164418609Z",
+  "model": "glm-5.3"
+}

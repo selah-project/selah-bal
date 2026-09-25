@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 6:18",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ دزر گadanءِ سرءَ تہلا اِنت — کنشگریں گنبدان ءُ کھلنگیں گلان؛ ہمگ دزر اِنت، ہچ سنگے نہ دیستگ بیت۔",
+  "tokens": [
+    {
+      "surface": "וארז",
+      "gloss": "ءُ دزر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گadanءِ"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "تہلا"
+    },
+    {
+      "surface": "מקלעת",
+      "gloss": "کنشگریں"
+    },
+    {
+      "surface": "פקעים",
+      "gloss": "گنبدان"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "ءُ کھلنگیں"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "گلان"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "دزر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ہچ … نہ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگے"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "دیستگ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:00.709475682Z",
+  "model": "glm-5.3"
+}

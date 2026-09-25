@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اے اِنت آ کہ آییءَ ⟨את⟩ بگڑت: سئے سد گت کیپءِ دراز٘ی، پنچ گت آییءِ کشاد٘ی، ءُ سئے گت آییءِ بلندی۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بگڑت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "کیپ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گت"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "دراز٘ی"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کیپ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گت"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "کشاد٘ی"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گت"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "بلندی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:18.162326078Z",
+  "model": "glm-5.3"
+}

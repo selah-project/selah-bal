@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ آییءَ ⟨את⟩ مُوآبءِ زمینءِ گجءَ، بیت پُعورءِ روبڑال، دفن کت، ءُ ہچ مردم آییءِ قبر ⟨את⟩ تا اے روچءَ نہ زانیت۔",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "ءُ دفن کت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "گجءَ"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "گجءِ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآبءِ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "روبڑال"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "پُعورءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہچ مردم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ قبر"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "آییءِ قبر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:50.314693119Z",
+  "model": "glm-5.3"
+}

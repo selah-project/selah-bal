@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ اَلعاساءَ ⟨את⟩ سِسمائی زائیت، ءُ سِسمائیءَ ⟨את⟩ شَلّوم زائیت۔",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "ءُ اَلعاساءَ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سِسمائی"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "سِسمائی"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "ءُ سِسمائیءَ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلّوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شَلّوم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:47.443007891Z",
+  "model": "glm-5.3"
+}

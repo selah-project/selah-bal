@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "وہدے کہ تو ⟨את⟩ حاکمءَ گوں کھادءَ پہ نشت کنءِ، فہم ءُ تبین کن ⟨את⟩ آ کہ توءِ پیشءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "وہدے کہ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "نشت کنءِ"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "کھادءَ پہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حاکم"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "בין",
+      "gloss": "فہم"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "تبین کن"
+    },
+    {
+      "surface": "אت",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ توءِ پیشءَ اِنت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "توءِ پیشءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:48.087014915Z",
+  "model": "glm-5.3"
+}

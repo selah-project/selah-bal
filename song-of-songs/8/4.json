@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "من شمءَ قسم دیت، یروشلمءِ جنکان، مہ مُشتگیر کنیت ءُ مہ ایشنیت ⟨את⟩ مُشت، تا کہ آ چاہیت۔",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "من قسم دیت"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شمءَ",
+      "marks": "یروشلمءِ جنکان"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "جنکانی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلمءِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תעירو",
+      "gloss": "مُشتگیر کنیت"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ مہ"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "ایشنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُشت"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "مُشتءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "آ چاہیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:27.072787821Z",
+  "model": "glm-5.3"
+}

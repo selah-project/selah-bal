@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "آ کہ سادگیءَ روت، بے‌ترسءَ روت؛ ءُ آ کہ وتی رہان کجنیت، زانتہ بیت۔",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "آ کہ روت"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "سادگیءَ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بے‌ترسءَ"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "ءُ کجنوک"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "وتی رہان"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانتہ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:25.144217852Z",
+  "model": "glm-5.3"
+}

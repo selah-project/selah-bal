@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "شادی پہ راست اِنت کہ انصافءِ کار کنت، ءُ بربادگری پہ اوبونءِ کارکنان۔",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "پہ راست"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "کار کنت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصافءِ"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "ءُ بربادگری"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "پہ کارکنانِ"
+    },
+    {
+      "surface": "און",
+      "gloss": "اوبون"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:32.306064864Z",
+  "model": "glm-5.3"
+}

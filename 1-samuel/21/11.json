@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ داود اُستیگت ءُ اُو روچءَ شاؤلءِ رخءَ چہ بگریت ءُ اَکیش شاہِ گتءَ لوت.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُستیگت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ءُ بگریت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُو"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "چہ رخءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءِ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ لوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اَکیش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہِ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:36:35.556380189Z",
+  "model": "glm-5.3"
+}

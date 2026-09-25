@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ چہ اِشانی یکی یک شاخ برات — چڑتریں — ءُ آ گیش تر بیت درا لمس ءُ درا شرق ءُ درا شیمیں ڈگار.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یکی"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "چہ اِشان"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "برات"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "شاخ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "چڑتریں"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "ءُ گیش تر بیت"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "درا"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "لمس"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ درا"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "شرق"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ درا"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "شیمیں ڈگار"
+    }
+  ],
+  "timestamp": "2026-09-25T00:02:55.168613726Z",
+  "model": "glm-5.3"
+}

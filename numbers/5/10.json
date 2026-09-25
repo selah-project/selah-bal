@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ ہر مرد ⟨את⟩ وتی پاک چیزیں وتیءَ بنت؛ جے کہ مرد کاہنءَ دیت، آییءِ بیت۔",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ ہر مرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی پاک چیزیں"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "وتی پاک چیزیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "وتیءَ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "جے مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "کاہنءَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:29:15.002508339Z",
+  "model": "glm-5.3"
+}

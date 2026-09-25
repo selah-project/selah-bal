@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ ⟨את⟩ یعوتس ءُ ⟨את⟩ شکیا ءُ ⟨את⟩ مِرمہ — اے آییءِ زاگ اَنت، پدرانی ٹولیانی سردار۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یعوتس"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "یعوتس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شکیا"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "شکیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مِرمہ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "مِرمہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "آییءِ زاگ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پدرانی ٹولیان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:03.835149800Z",
+  "model": "glm-5.3"
+}

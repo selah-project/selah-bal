@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "یکمی روچءَ پاکءِ جمع اِنت؛ ہر مزدوریں کار نہ کریت۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یکمی"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "جمع"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "مزدوری"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کریت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:45.141035518Z",
+  "model": "glm-5.3"
+}

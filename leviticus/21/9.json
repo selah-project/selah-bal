@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ یک کاہنءِ جنک، اگر زناکاریءَ شروع کنت — ⟨את⟩ آءِ پیءَ آ پاکئے ءَ چیڑہ کنیت؛ آتشءَ سوزیت بیت.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "ءُ جنک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردءِ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "شروع کنت"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "زناکاریءَ پہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آءِ پیءَ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "آءِ پیءَ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "پاکئے ءَ چیڑہ کنیت"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آتشءَ"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "سوزیت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:10.388276388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ آییءَ یاہوہءِ چشمانءِ تہ راست ئے کت، رت نہ گوں پوریں دل.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ آییءَ کت"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشمانءِ تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "گوں دل"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پوریں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:43:31.872999817Z",
+  "model": "glm-5.3"
+}

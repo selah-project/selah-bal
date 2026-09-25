@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ما پشو کت ءُ سرکشی کت — تُہ نہ بخشیت۔",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "پشو کت"
+    },
+    {
+      "surface": "وמרינו",
+      "gloss": "ءُ سرکشی کت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "بخشیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:09.471569271Z",
+  "model": "glm-5.3"
+}

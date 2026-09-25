@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 103,
+  "translation": "مردم چوش گیا اِنت وتّی روچان؛ چوش گلءِ ڈگارءِ، شون آیی گل کپیت۔",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "چوش گیا"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "وتّی روچان"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "چوش گلءِ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ڈگارءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شون"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "گل کپیت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:52.861443561Z",
+  "model": "glm-5.3"
+}

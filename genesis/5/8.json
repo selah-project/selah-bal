@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ شیتءِ کلیں روچان دو دہ سال ءُ نہ سد سال بیت، ءُ آ مُنت۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کلیں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شیت"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:34.087072497Z",
+  "model": "glm-5.3"
+}

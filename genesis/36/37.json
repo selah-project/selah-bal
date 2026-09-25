@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ سملہ مُوت بوت، ءُ آییءِ جاگہءَ شاؤل چہ رحوبوتِ دریا شاهی کت۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُوت بوت"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سملہ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ءُ شاهی کت"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "آییءِ جاگہءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "چہ رحوبوت"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "دریا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:35.632207899Z",
+  "model": "glm-5.3"
+}

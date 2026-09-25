@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ یاہوہءِ گال آییءَ آت، آ کہ گوَشت:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ ات"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ آت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:02:20.222596739Z",
+  "model": "glm-5.3"
+}

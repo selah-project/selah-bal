@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ہبدہمی پہ حِزیر، ہژدہمی پہ ہپِطیطس.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "پہ حِزیر"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ہبدہمی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ہبدہمی"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "پہ ہپِطیطس"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ہژدہمی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ہژدہمی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:12.534740963Z",
+  "model": "glm-5.3"
+}

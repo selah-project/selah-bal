@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ یارد دو ءُ شست سال ءُ سد سال زندگی کت، ءُ ⟨את⟩ خانوکءَ زائیت۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ءُ زندگی کت"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یارد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ءُ شست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ءُ سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خانوکءَ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خانوک"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:52.074890833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ آییءِ برات اَساف، کہ آییءِ دستءِ رستءَ اِشتی؛ اَساف، بَرَکیہُءِ زہگ، شِماعءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ءُ آییءِ برات"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "اَساف"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "کہ اِشتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "آییءِ دستءِ رستءَ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "اَساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "بَرَکیہُءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شِماعءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:01.354531647Z",
+  "model": "glm-5.3"
+}

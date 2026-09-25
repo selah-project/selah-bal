@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ گوشت ⟨את⟩ مرگءِ یکے تہ گملءِ برتنءَ، زندگیں آپءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرگءِ یکے"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "مرگءِ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتنءَ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "گملءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپءِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:25.492447891Z",
+  "model": "glm-5.3"
+}

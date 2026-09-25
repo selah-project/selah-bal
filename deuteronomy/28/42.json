@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "تُہءِ پوریں داران ءُ تُہءِ زمینءِ میوہءَ ٹڈی کرے گندیت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "تُہءِ داران"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ءُ میوہ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "تُہءِ زمینءِ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "کرے گندیت"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ٹڈی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:24.123285617Z",
+  "model": "glm-5.3"
+}

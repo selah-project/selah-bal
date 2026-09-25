@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "من یاہوہءِ پیشءَ زندگیں زمینانی تہ گشمنت بیت.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "گشمنت بیت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "زمینانی تہ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:59.551398985Z",
+  "model": "glm-5.3"
+}

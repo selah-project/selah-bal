@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 29:20",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "کیہ زوراور مک بیت، ءُ پچہ کار لوت بیت، ءُ گناہءِ گچین چوکنوک تمام کپنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "مک بیت"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "زوراور"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ءُ لوت بیت"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "پچہ کار"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "ءُ کپنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "שקדי",
+      "gloss": "گچین چوکنوک"
+    },
+    {
+      "surface": "און",
+      "gloss": "گناہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:50.064473666Z",
+  "model": "glm-5.3"
+}

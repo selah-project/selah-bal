@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ گندیت ⟨את⟩ زمینءَ چہ آ اِنت، ءُ ءُ ⟨את⟩ قومءَ کہ آءِ سرءَ اوست اِنت — آ زورور اِنت، یا کمزور؟ آ گن اِنت، یا گیش؟",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمینءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "قومءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "اوست کنوک"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آءِ سرءَ"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "زورور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "کمزور"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "گن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T19:34:54.118024484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "دولت مند مرد وتئے چشمانءَ دانا اِنت، ءُ فہموتگ غریب آءَ چانچیت.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "وتئے چشمانءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "دولت مند"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ءُ غریب"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "فہموتگ"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "آءَ چانچیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:01.357822123Z",
+  "model": "glm-5.3"
+}

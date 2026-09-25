@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اے چوں ہر بے انصابیں کمیتءِ راہان اَنت؛ بے انصابیں کمائی ⟨את⟩ جان آییءِ والاںءَ گرنت۔",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "راہان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "بے انصابیں کمیتءِ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "بے انصابیں کمائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جان"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "آییءِ والاں"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:45.697169367Z",
+  "model": "glm-5.3"
+}

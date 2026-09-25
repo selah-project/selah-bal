@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آئے وتی کمان تان کت ءُ مءَ تیرءِ نشان چوں جاہ کت۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "کمان تان کت"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "وتی کمان"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "ءُ مءَ جاہ کت"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "تیرءِ نشان چوں"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "تیر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:16.356965415Z",
+  "model": "glm-5.3"
+}

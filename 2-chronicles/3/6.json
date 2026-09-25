@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ⟨את⟩ گدانءَ گران‌بہا سنگانءَ ءَ پوشیت پہ زیبائیءِ، ءُ زہب اِنت پروایمءِ زہب.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ءُ پوشیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گدان"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "گران‌بہا"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "پہ زیبائی"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ءُ زہب"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زہب"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "پروایم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:34:29.961734129Z",
+  "model": "glm-5.3"
+}

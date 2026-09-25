@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "اے یاہوہ، مءِ دُعا گوش، ءُ مءِ بانگ تُہءِ سرءَ بیائیت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "مءِ دُعا"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ءُ مءِ بانگ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تُہءِ سرءَ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "بیائیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:31.360859475Z",
+  "model": "glm-5.3"
+}

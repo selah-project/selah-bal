@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "نہ گوں اِشان ءُ گوں اِشانی ہدایانءَ عہد بریج کنی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "بریج کنی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "گوں اِشان"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "ءُ گوں اِشانی ہدایانءَ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:54.423095823Z",
+  "model": "glm-5.3"
+}

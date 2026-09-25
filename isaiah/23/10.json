@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "تری زمینءَ چوش کہ نیل روڈ پار بہ گر، اے ترشیشءِ جنک؛ دیما کمربند نیست.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "پار بہ گر"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "تری زمینءَ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "چوش کہ نیل روڈ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ترشیشءِ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "کمربند"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیما"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:14.734393741Z",
+  "model": "glm-5.3"
+}

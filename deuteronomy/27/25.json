@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "لعنت بیت آ کہ رشوت گیرت پہ یک بے‌گناهءِ دیمءِ جانءَ مارگ — ءُ گیش مردم گوَشنت آمین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت بیت"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "آ کہ گیرت"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "پہ مارگ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دیم"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بے‌گناهءِ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:05.617303622Z",
+  "model": "glm-5.3"
+}

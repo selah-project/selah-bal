@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ یسرائیل روت، ءُ آییءِ گدان چہ گل پہ مِگدل-اعد چڑ کت۔",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ءُ چڑ کت"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "آییءِ گدان"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "چہ گل"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "پہ مِگدل"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "اعد"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:35.006908960Z",
+  "model": "glm-5.3"
+}

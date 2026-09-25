@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "چہ تنگیءَ من یاہءَ بانگ کت، یاہ منءَ جواب کت فراخیءَ تہ۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "تنگیءَ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "من بانگ کت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "منءَ جواب کت"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "فراخیءَ تہ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:56.705828853Z",
+  "model": "glm-5.3"
+}

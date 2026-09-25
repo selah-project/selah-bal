@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "نابیءَ پہ ہونتءِ زیادتی نہ شایست ⟨اِنت⟩؛ ہنچ پہ نادینءَ ہونتءِ دروغ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "شایست"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "نابیءَ پہ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ہونتءِ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "زیادتی"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ہنچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "نادینءَ پہ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ہونتءِ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:06.518184820Z",
+  "model": "glm-5.3"
+}

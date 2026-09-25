@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ماں بی‌سودءَ مردمانی شریک نہ بیسستگءُ، ءُ چشم‌پوشانی گوں نہ رون۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "بیسستگءُ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں شریک"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بی‌سودءَ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "چشم‌پوشانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "رون"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:57.123803184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ہبدہ سالءَ ءُ شاہ یاربعمءِ، ابیاہ یہوداہءِ سرءَ شاہ بوت.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "تہ سالءَ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ہشت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یاربعم"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ءُ شاہ بوت"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابیاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:39:05.882293161Z",
+  "model": "glm-5.3"
+}

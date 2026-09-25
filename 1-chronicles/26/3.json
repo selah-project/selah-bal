@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ایلام پنچمی، یِہوہانان ششمی، اِلییِہوعینای ہپتمی.",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "ایلام"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنچمی"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یِہوہانان"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ششمی"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "اِلییِہوعینای"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ہپتمی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:31:17.668657357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "مبارک تُئے اے یاہوہ؛ مہ تیءِ مقرریانءِ سکا دی.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُئے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "مہ سکا دی"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیءِ مقرریان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:09.035710597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "کیہ آ قوم سرکشی اِنت، زہگان دغابازیءَ، زہگان کہ توراتءِ یاہوہءَ گوشن ءُ نہ مننت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "سرکشی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "دغابازیءَ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "مننت"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "گوشن"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:53.385095433Z",
+  "model": "glm-5.3"
+}

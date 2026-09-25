@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "سرتیر ہم منءَ بابتءَ مچ کت ءُ گپ جت، پر تیں غلام تیں چوکانءَ تہ سوچیت۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "مچ کت"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سرتیر"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منءَ بابتءَ"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "ءُ گپ جت"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیں غلام"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "سوچیت"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "تیں چوکانءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:49.138733198Z",
+  "model": "glm-5.3"
+}

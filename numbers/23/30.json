@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ بالاق چوش کت چوش کہ بلعام گشتگ، ءُ یک گائ ءُ یک نر گوَست قربانگاہءَ چڑھایت.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گشتگ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ءُ چڑھایت"
+    },
+    {
+      "surface": "פר",
+      "gloss": "گائ"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ءُ نر گوَست"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "قربانگاہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:39:32.047896791Z",
+  "model": "glm-5.3"
+}

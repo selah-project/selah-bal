@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "تہ پاکانءِ پاک جاگہءَ آءَ کھاند؛ ہر نرءَ ⟨את⟩ آءَ کھاند؛ پاک پہ تہ بیت.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "پاکءِ جاگہءَ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاکانءِ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "آءَ کھاند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاند"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:36:32.897189048Z",
+  "model": "glm-5.3"
+}

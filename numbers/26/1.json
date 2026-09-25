@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ یاہوہءَ گوَشت پہ موشہءَ ءُ پہ ایلعازارءَ، اہرونءِ زہگءَ کاہنءَ، پہ گوَشتگ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ایلعازارءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگءَ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرونءِ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہنءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "پہ گوَشتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:41:13.679326109Z",
+  "model": "glm-5.3"
+}

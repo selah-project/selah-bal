@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ ایلوہیمءَ ⟨את⟩ شمایءِ پیءِ مال روبار کت ءُ منءَ دات.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "روبار کت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شمایءِ پیءِ مال"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "شمایءِ پی"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:39:14.777381599Z",
+  "model": "glm-5.3"
+}

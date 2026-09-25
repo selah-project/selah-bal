@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ گوَشت: مدارگءَ تہ دارں، اَے یاہوہ، مہ زور",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "مدارگءَ تہ دارں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اَے یاہوہ"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "مہ زور"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:47.764186630Z",
+  "model": "glm-5.3"
+}

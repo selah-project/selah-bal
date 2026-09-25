@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "یا تارءَ تہ، یا پُٹءَ تہ، پہ کتان ءُ پہ اُن، یا چمءَ تہ، یا چمءِ هر کارءِ تہ —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "تارءَ تہ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "پُٹءَ تہ"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "پہ کتان"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "ءُ پہ اُن"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چمءَ تہ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هر …ءَ تہ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:24.653026668Z",
+  "model": "glm-5.3"
+}

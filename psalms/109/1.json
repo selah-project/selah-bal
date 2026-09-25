@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "پہ رہبر۔ داودءِ سرود۔ اے منی تعریفءِ ایلوہیم، چُپ نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہبر"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داود"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "منی تعریف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "چُپ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:38.869773509Z",
+  "model": "glm-5.3"
+}

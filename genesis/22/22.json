@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ ⟨את⟩ کسد ءُ ⟨את⟩ حزو ءُ ⟨את⟩ پلدش ءُ ⟨את⟩ یدلاف ءُ ⟨את⟩ بتوایل۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کسد"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "کسد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حزو"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "حزو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پلدش"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "پلدش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یدلاف"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "یدلاف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "بتوایل"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بتوایل"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:20.688034200Z",
+  "model": "glm-5.3"
+}

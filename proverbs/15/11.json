@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "شیئول ءُ ابدون یاہوہءِ پیشءَ ⟨اَنت⟩، ہمے کہ آدمءِ زہگانی دلان.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "شیئول"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "ءُ ابدون"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "دلان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:20.654947659Z",
+  "model": "glm-5.3"
+}

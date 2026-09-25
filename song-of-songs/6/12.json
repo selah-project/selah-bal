@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "نہ زانتگم — منی جان منءَ نشاند منی قومیءِ بزرگءِ گاڑیانی تہ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زانتگم"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جان"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "منءَ نشاند"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "گاڑیانی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قومیءِ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "بزرگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:48.154884522Z",
+  "model": "glm-5.3"
+}

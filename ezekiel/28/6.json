@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "پس اِشّیا ادونای یاہوہءَ گوَشت: پرچا کہ تُئے دلءَ ⟨את⟩ چوش ایلوہیمی دل دِت،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "پس"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اِشّیا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "دِت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تُئے دلءَ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تُئے دلءَ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "چوش دل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:19:20.090167491Z",
+  "model": "glm-5.3"
+}

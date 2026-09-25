@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "رمان ءُ گوانی گوچہ، ءُ ھم کھیتانی مال۔",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "رمان"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ءُ گوانی"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "گوچہ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ھم"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "مال"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کھیتانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:37.372538974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ اگر تُماں گوَشِیت، ’ہپتمی سالءَ چہ چَٹُں؟ بےشک، نہ تخم دِں ءُ نہ گِرِیت ⟨את⟩ وتیں حاصلءَ۔‘",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "گوَشِیت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "چَٹُں"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سالءَ تہ"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ہپتمی"
+    },
+    {
+      "surface": "הן",
+      "gloss": "بےشک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "تخم دِں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "گِرِیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتیں حاصلءَ"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "وتیں حاصلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:46.230186062Z",
+  "model": "glm-5.3"
+}

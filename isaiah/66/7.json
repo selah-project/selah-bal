@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "پیش چہ درد گنت، زائیت؛ پیش چہ آییءَ زائگءِ درد آیت، ءُ یک نرینہ زہگ رہا بوت.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "پیش چہ"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "درد گنت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "پیش چہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آیت"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "زائگءِ درد"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "ءُ رہا بوت"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نرینہ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:42:23.994005784Z",
+  "model": "glm-5.3"
+}

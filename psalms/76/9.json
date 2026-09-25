@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 76,
+  "translation": "چہ آسمانان توں انصافءَ گوشتنگ کت، زمین ترسیت ءُ آسودگ بیت۔",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "چہ آسمانان"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "توں گوشتنگ کت"
+    },
+    {
+      "surface": "דין",
+      "gloss": "انصافءَ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ترسیت"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "ءُ آسودگ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:31.059332762Z",
+  "model": "glm-5.3"
+}

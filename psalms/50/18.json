@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "اگر چوری رَوَت دیت، ءُ گوں آ شوٹت، ءُ گوں زناکاران تئی بەش اِنت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "رَوَت دیت"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چور"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ءُ شوٹت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں آ"
+    },
+    {
+      "surface": "وעם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "زناکاران"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "تئی بەش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:52.938229143Z",
+  "model": "glm-5.3"
+}

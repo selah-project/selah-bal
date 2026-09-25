@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "زالوءَ دو جنکیان ءُ گوَشیت: «دے، دے.» سئے چیزی ⟨هست⟩ کہ شاد نہ بنت، ءُ چار کہ نہ گوَشیت: «بس اِنت.»",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "زالوءَ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "جنکیان"
+    },
+    {
+      "surface": "הב",
+      "gloss": "دے"
+    },
+    {
+      "surface": "הב",
+      "gloss": "دے"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨اِشاں⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "شاد بنت"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "گوَشیت"
+    },
+    {
+      "surface": "הון",
+      "gloss": "بس"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:45.252037186Z",
+  "model": "glm-5.3"
+}

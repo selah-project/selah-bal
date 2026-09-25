@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "رائوبن جیوَنت بیت ءُ نہ مرت، ءُ آییءِ مردومان شمار بنت۔",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "جیوَنت بیت"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رائوبن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "مرت"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "آییءِ مردومان"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:23.202863870Z",
+  "model": "glm-5.3"
+}

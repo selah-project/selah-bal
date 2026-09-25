@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "قومان ماءِ تلءَ زیر کنت ءُ اُممات ماءِ پیرانءِ تلءَ۔",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "زیر کنت"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "ماءِ تلءَ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ءُ اُممات"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "رגלינו",
+      "gloss": "ماءِ پیران"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:58.747862081Z",
+  "model": "glm-5.3"
+}

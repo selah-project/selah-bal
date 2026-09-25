@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "اے یہوداہءِ خاندان اَنت، شمار بوتگیں پہ، شش ءُ ہپت ہزار ءُ پنچ سد۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "شمار بوتگیں پہ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ءُ ہپت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ءُ پنچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:21.411347578Z",
+  "model": "glm-5.3"
+}

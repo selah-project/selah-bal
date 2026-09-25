@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "اے اِش آں مشپچہانِ بچگانِ گاد، آیانءِ شمارءِ روشءَ، چل ہزار ءُ پنچ سد۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "مشپچہان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بچگان"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "آیانءِ شمارءِ روشءَ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ءُ پنچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:50.586297202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "آییءَ گوَشت: اگہ تہ دیم روٹگ نہ اِنت، مہ ماءَ چہ اے جاگہ نہ بُرز۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تہ دیم"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "روٹگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעלنו",
+      "gloss": "مہ ماءَ بُرز"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "چہ اے جاگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:08:00.085411711Z",
+  "model": "glm-5.3"
+}

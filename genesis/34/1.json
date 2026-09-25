@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ دینا، لِیہءِ جنک کہ آ یاکوبءَ زائیت، درآت کہ زمینءِ جنکانءَ گندیت۔",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "درآت"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دینا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِیہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یاکوبءَ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "کہ گندیت"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "جنکانءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:09.679873077Z",
+  "model": "glm-5.3"
+}

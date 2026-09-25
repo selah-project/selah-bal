@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "آیا مءِ کومک مہ تہ نیست، ءُ توشییہ چہ من پرے درٹ بوتگ؟",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "مءِ کومک"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مہ تہ"
+    },
+    {
+      "surface": "ותushיה",
+      "gloss": "ءُ توشییہ"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "درٹ بوتگ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ من"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:18.332640903Z",
+  "model": "glm-5.3"
+}

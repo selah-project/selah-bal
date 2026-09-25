@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 11:1",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ بوت کہ چوش یابین شاہِ حاصورءَ گوشیت، آ گوں یواب شاہِ مادون ءُ گوں شاہِ شمران ءُ گوں شاہِ اکشافءَ نامہ برت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "چوش کہ گوشیت"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "یابین"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حاصور"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ نامہ برت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یواب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "مادون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمران"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "اکشاف"
+    }
+  ],
+  "timestamp": "2026-09-24T20:09:23.174530079Z",
+  "model": "glm-5.3"
+}

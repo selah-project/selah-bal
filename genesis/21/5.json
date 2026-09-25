@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ اَبراہام سَد سالءِ زُہگ اَت پہ آیی بورگ بیتءَ ⟨את⟩ اِسحاق آییءِ زُہگ۔",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "ءُ اَبراہام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زُہگءِ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سَد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "پہ آیی بورگ بیتءَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پہ آیی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِسحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اِسحاق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زُہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:31:48.388962144Z",
+  "model": "glm-5.3"
+}

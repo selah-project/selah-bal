@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ ہر کاہنءِ منہہءِ قربانگ پوریں ببیت — نہ کورائیت۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "منہہءِ قربانگ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہنءِ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ببیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کورائیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:20.711622514Z",
+  "model": "glm-5.3"
+}

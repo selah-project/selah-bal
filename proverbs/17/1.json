@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "خشک تُک ءُ وتی آسودگی چنگ اِنت، چہ گڈی کہ قربانی گوشتءَ ءُ چیڑءَ پُر اِنت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "تُک"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "خشک"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "ءُ آسودگی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "چہ گڈی"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانی گوشتءَ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "چیڑءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:11.352367998Z",
+  "model": "glm-5.3"
+}

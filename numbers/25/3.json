@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ یسرائیل بعل فعورءَ گوں جوڑ بوت، ءُ یاہوہءِ نکءِ غصہ یسرائیلءَ چڑیت۔",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "ءُ جوڑ بوت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "بعلءَ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فعور"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ءُ چڑیت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نکءِ غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یسرائیلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:37.968245636Z",
+  "model": "glm-5.3"
+}

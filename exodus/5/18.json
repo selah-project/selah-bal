@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اِستا گروءَ، کار کنءَ؛ ءُ درس شماءَ نہ دیت بیت، ءُ شمارءِ خشتانِ شما دئے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِستا"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "گروءَ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "کار کنءَ"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ءُ درس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "دیت بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماءَ"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ءُ شمارءِ"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "خشتان"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "دئے"
+    }
+  ],
+  "timestamp": "2026-09-24T18:52:22.222173420Z",
+  "model": "glm-5.3"
+}

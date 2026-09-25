@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "زمین گندم ءُ جو ءُ ونزوڑ ءُ انجیر ءُ انارءِ — زمین زیتونءِ تیل ءُ شہدءِ.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "گندم ءُ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "جو ءُ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ونزوڑ ءُ"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "انجیر ءُ"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "انارءِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زیتونءِ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل ءُ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "شہدءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:21.483325593Z",
+  "model": "glm-5.3"
+}

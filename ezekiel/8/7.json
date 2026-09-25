@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ منءَ ⟨את⟩ لڑ دروازءِ حویلیءَ اَیت، ءُ منءَ گندیت، ءُ اے نیمت دیوارءَ یک سُراہہ۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ اَیت"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "منءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لڑ"
+    },
+    {
+      "surface": "پתח",
+      "gloss": "دروازءِ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حویلیءَ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ءُ منءَ گندیت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ اے نیمت"
+    },
+    {
+      "surface": "חר",
+      "gloss": "سُراہہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "دیوارءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:10:12.238698260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ قوم موشہءَ بانگ کت ءُ موشہ یاہوہءَ لوٹ ءُ آتش مرگ۔",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ — پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ ⟨موسیٰ⟩"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ءُ لوٹ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ — پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ءُ مرگ — ءُ دَم بوت"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آتش"
+    }
+  ],
+  "timestamp": "2026-09-24T19:33:20.650872510Z",
+  "model": "glm-5.3"
+}

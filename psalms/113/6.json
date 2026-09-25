@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 113,
+  "translation": "زہ وتءَ جھک کنیت پہ گندن آسمانانءَ ءُ زمینءَ،",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "زہ وتءَ جھک کنیت"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "پہ گندن"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانانءَ"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ءُ زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:58.327193592Z",
+  "model": "glm-5.3"
+}

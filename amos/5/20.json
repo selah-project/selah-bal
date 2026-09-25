@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "بلی نہ یاہوہءِ روچ تہاری ءُ روشنائی نہ اِنت؟ ءُ گوَنڈیں تہاری ءُ آییءَ چمک نہ؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "بلی نہ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تہاری"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنائی"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "ءُ گوَنڈیں تہاری"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "چمک"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:36:04.294048164Z",
+  "model": "glm-5.3"
+}

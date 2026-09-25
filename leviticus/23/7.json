@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "چہ اولی روچءَ شماءَ پاک کٹھی ⟨بیت⟩؛ ہر بندگئین کارءِ کار نہ کنئت۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "چہ روچءَ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "اولی"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "کٹھی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کارءِ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "بندگئین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کنئت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:50.097904984Z",
+  "model": "glm-5.3"
+}

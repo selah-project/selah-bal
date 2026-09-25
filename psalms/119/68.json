@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "تو چنگ اِنْت ءُ چنگی کنگءَ، تئی چوکاں منءَ سوں زان۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "ءُ چنگی کنگءَ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "منءَ سوں زان"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تئی چوکاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:12.001854599Z",
+  "model": "glm-5.3"
+}

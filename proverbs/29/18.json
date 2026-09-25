@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "جتے کہ رؤیت نیست، قوم بے لگام بیت؛ بلے جکوں تورا ءُ — آ خوش‌بخت اِنت۔",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "جتے کہ … نیست"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "رؤیت"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "بے لگام بیت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ءُ جکوں"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "אשרהו",
+      "gloss": "آ خوش‌بخت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:40.904657647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ چہ ہُدیش، آییءِ زالانی چہ، ⟨את⟩ یوواب ءُ ⟨את⟩ صبیا ءُ ⟨את⟩ مisha ءُ ⟨את⟩ مَلکام زاگ بیت۔",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "زاگ بیت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ہُدیش"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "آییءِ زال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوواب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوواب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "صبیا"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "صبیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مisha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "مisha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مَلکام"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "مَلکام"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:03.834860214Z",
+  "model": "glm-5.3"
+}

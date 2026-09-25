@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ من ⟨את⟩ مُردگانءِ ستایش کت کہ گوں دگہ مُشتنت، چہ زندگان کہ اِشان اَنت زندگ تہ ھنوں۔",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ءُ ستایش کتوم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُردگان"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُردگانءِ"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "گوں دگہ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مُشتنت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِشان"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگ اَنت"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "تہ ھنوں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:07.866257297Z",
+  "model": "glm-5.3"
+}

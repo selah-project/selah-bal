@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "ءُ دانءِ سرحدءِ سرءَ، چہ شرقی پلوچءَ تا دریایی پلوچءَ — آشر، یک.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دانءِ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "چہ پلوچءَ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "شرقی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پلوچءَ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریایی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:28:54.762622699Z",
+  "model": "glm-5.3"
+}

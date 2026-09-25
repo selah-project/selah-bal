@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 108,
+  "translation": "اُچّ بیت اے ایلوہیم آسمانانءَ سرءَ ءُ ماں دگن زمینءَ سرءَ تیری شان۔",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "اُچّ بیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "تیری شان"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:23.863441572Z",
+  "model": "glm-5.3"
+}

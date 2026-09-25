@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "دانایی درات بانگ کنت، پھیلیں راہانءَ وتی آواز دیت۔",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "درات"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "بانگ کنت"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "پھیلیں راہانءَ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "وتی آواز"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:45.697363542Z",
+  "model": "glm-5.3"
+}

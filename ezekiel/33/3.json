@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ آیی ⟨את⟩ تلوار گندیت کہ زمینءَ آتگ اِنت، ءُ شپرءَ وجینت ءُ ⟨את⟩ قومءَ ہشیار کنت۔",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تلوار"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آتگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "ءُ وجینت"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "شپرءَ"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "ءُ ہشیار کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:22:04.463437129Z",
+  "model": "glm-5.3"
+}

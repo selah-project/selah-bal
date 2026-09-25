@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ تو پہ اے قومءِ بابت دعا نہ کن، ءُ آئے پہ بابت بانگ ءُ دعا نہ اڑ، ءُ منی تہ واسطہ نہ گر، چونکہ من ⟨את⟩ توءَ نہ گوشیں.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "دعا کن"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "پہ بابت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "اڑ"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "آئے پہ بابت"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "بانگ"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "ءُ دعا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "واسطہ گر"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منی تہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "من نہ اَم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوشیں"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ توءَ",
+      "marks": "توءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:46:44.089757833Z",
+  "model": "glm-5.3"
+}

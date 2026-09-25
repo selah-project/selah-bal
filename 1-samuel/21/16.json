@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "چہ دیوانگان کم اِنت‌م، کہ تسیں ⟨את⟩ اےءَ پہ دیوانگی مءِ پیشءَ آرنتے؟ آے مءِ گدانءَ تاں؟",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "چہ … کم"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "دیوانگان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اِنت‌م"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "تسیں آرنتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اےءَ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اےءَ"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "پہ دیوانگی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مءِ پیشءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آے"
+    },
+    {
+      "surface": "י בוא",
+      "gloss": "تاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "مءِ گدانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:35:29.849695198Z",
+  "model": "glm-5.3"
+}

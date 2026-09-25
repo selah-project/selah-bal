@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کارانءَ من گیش کت، گدانان مہ پہ وت جوڑ کت، انگوری باغان مہ پہ وت لگ کت.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "گیش کت"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کارانءَ من"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مہ پہ وت"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گدانان"
+    },
+    {
+      "surface": "נטעתی",
+      "gloss": "لگ کت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مہ پہ وت"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "انگوری باغان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:45.636436016Z",
+  "model": "glm-5.3"
+}

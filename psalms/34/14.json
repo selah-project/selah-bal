@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "وتءِ زبان چہ شر نگہ دار، ءُ وتءِ لۏچان چہ فریبئیں گپ زگار.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "نگہ دار"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "وتءِ زبان"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "چہ شر"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ءُ وتءِ لۏچان"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "گپ زگار"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "چہ فریب"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:46.878212783Z",
+  "model": "glm-5.3"
+}

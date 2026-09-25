@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ نوحءَ یاہوہءِ چشماںءَ مہر لُٹیت۔",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ءُ نوح"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "لُٹیت"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مہر"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشماںءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:26.911264495Z",
+  "model": "glm-5.3"
+}

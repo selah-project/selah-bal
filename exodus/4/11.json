@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یاہوہءَ آییءَ گوَشت: کیءَ آدمءَ دہان ڈت؟ یا کی لال ڈیت، یا کار، یا روتوک، یا کور؟ کیا من نہ اِم یاہوہ؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پہ آییءَ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ڈت"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دہان"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "پہ آدم"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "ڈیت"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "لال"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کار"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "روتوک"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کور"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیا نہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:52:30.367327714Z",
+  "model": "glm-5.3"
+}

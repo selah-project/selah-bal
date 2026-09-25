@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ⟨את⟩ بیت صُور ءُ ⟨את⟩ سوکو ءُ ⟨את⟩ عدلام،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "بیت صُور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "سوکو"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "سوکو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "عدلام"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عدلام"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:34.187826616Z",
+  "model": "glm-5.3"
+}

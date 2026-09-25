@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "اودا کہ بادشاہءِ گال ⟨اِنت⟩، اودا زور ⟨اِنت⟩؛ ءُ کے آییءَ گوَشیت، چی کنیں؟",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "اودا کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کے"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "گوَشیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:33.166613630Z",
+  "model": "glm-5.3"
+}

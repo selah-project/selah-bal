@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ اے نا، اَت ہنوں گوں شاہءَ گپ گندیت کہ ناتان پیغمبر آت۔",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ءُ اے نا"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "اَت ہنوں"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "گپ گندیت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءَ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "کہ ناتان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:53:00.654686218Z",
+  "model": "glm-5.3"
+}

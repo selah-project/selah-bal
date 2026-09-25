@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "توءِ سرءَ من چہ رحم پراگتگ اَت؛ چہ میں مانیءِ زہگدانءَ تو میں ایل اِنت۔",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "توءِ سرءَ"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "من پراگتگ اَت"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "چہ رحم"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "چہ زہگدان"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "مانیءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میں ایل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:22.917856905Z",
+  "model": "glm-5.3"
+}

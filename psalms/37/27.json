@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "چہ گندی جتا بیت ءُ چنگی کن، ءُ پہ ہمیشہ بہ۔",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "جتا بیت"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "چہ گندی"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ کن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "ءُ بہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:47.038589101Z",
+  "model": "glm-5.3"
+}

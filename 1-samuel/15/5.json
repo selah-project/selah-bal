@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ شاؤل عمالقءِ ⟨اے⟩ شہرءَ رسیت ءُ نہالءَ تہ کمین نشست.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ رسیت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالقءِ"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ءُ کمین نشست"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "نہالءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:32:03.866881247Z",
+  "model": "glm-5.3"
+}

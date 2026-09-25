@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "کمے شپ، کمے اُنیدی، کمے دستانءِ گیرگ پہ شپ کنگءَ",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "کمے"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کمے"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "اُنیدی"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کمے"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "گیرگ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دستانءِ"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "پہ شپ کنگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:21.901745632Z",
+  "model": "glm-5.3"
+}

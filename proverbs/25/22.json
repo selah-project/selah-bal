@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "چون آ کوئلے اَنت کہ تُہ آییءِ سرءَ گنیت، ءُ یاہوہ تُہارا بدلہ دیت —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "کوئلے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُہ"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "گنیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "آییءِ سر"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدلہ دیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہارا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:13.201314839Z",
+  "model": "glm-5.3"
+}

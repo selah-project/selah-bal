@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "کیہ یاہوہ برزترین دَرناک اِنت، گیش شاہ تمام زمینءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "برزترین"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "دَرناک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:58.747730978Z",
+  "model": "glm-5.3"
+}

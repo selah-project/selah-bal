@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "مہ زور چی اِنت کہ آس بگرن؟ ءُ مہ سرانجام چی اِنت کہ مہ جانءَ دراز بگرن؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "مہ زور"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "آس بگرن"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ مہ"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "مہ سرانجام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "دراز بگرن"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "مہ جان"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:52.051409097Z",
+  "model": "glm-5.3"
+}

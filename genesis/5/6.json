@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ شیت پنچ سال ءُ یک سد سال زیست، ءُ ⟨את⟩ انوشءَ زہگ کت۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "زیست"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شیت"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ءُ یک سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ زہگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انوش"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انوش"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:34.086761958Z",
+  "model": "glm-5.3"
+}

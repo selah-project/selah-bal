@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 8:11",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "یک زرزار شُلوموہءَ اَت پہ بعل-ہامونءَ؛ شُلوموہ ⟨את⟩ زرزار نگهبانیاںءَ دات؛ هر کس پہ آئیءِ میوہءَ ہزار زر آنیت۔",
+  "tokens": [
+    {
+      "surface": "כרם",
+      "gloss": "زرزار"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شُلوموہءَ"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "پہ بعل"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ہامون"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرزار"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "زرزار"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "نگهبانیاںءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر کس"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آنیت"
+    },
+    {
+      "surface": "בפריו",
+      "gloss": "پہ آئیءِ میوہءَ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:21.522882824Z",
+  "model": "glm-5.3"
+}

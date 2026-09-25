@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ بوت بنگیج آییءِ پادشاہیءِ بابل ءُ ارک ءُ اکد ءُ کلنہ، تہ زمینءِ شنار.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "بنگیج"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "آییءِ پادشاہیءِ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "ءُ ارک"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "ءُ اکد"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "ءُ کلنہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "تہ زمینءِ"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "شنار"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:19.653341856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 84,
+  "translation": "چیں دوست داشتگیں اِنتنت تُہءِ مِشکان، اے یاہوہ سباؤت!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چیں"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "دوست داشتگیں"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "تُہءِ مِشکان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:13.257497850Z",
+  "model": "glm-5.3"
+}

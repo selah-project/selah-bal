@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اے بوت کہ یسرائیلءِ زہگان یاہوہءَ وانگ کتنت پہ مادیانءِ بابت،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "وانگ کتنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مادیانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:16:18.957057933Z",
+  "model": "glm-5.3"
+}

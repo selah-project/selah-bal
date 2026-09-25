@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ ⟨את⟩ میشءِ زہگ چار گون پس دِت کنیت، پہ اے کہ آ اے کار کت ءُ پہ اے کہ آ رحم نہ کت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "میشءِ زہگ"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "میشءِ زہگ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "پس دِت کنیت"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "چار گون"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے کار"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے کارءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ پہ اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "رحم کت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:45:22.536758749Z",
+  "model": "glm-5.3"
+}

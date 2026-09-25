@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "اے اِشترا شمعونیانی خاندان اَنت — دو ءُ دہ ہزار ءُ دو سد۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "شمعونیانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "وעשרים",
+      "gloss": "ءُ دہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ءُ دو سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:52.380226837Z",
+  "model": "glm-5.3"
+}

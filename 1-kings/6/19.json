@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 6:19",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ دبیر گadanءِ مانءِ تہلا آمادہ کت، بدنءِ پہ کہ اودا یاہوہءِ عہدءِ صندوقءَ ⟨את⟩ جاہ بدنت۔",
+  "tokens": [
+    {
+      "surface": "ודביר",
+      "gloss": "ءُ دبیر"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "مانءِ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گadanءِ"
+    },
+    {
+      "surface": "مפנימה",
+      "gloss": "تہلا"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "آمادہ کت"
+    },
+    {
+      "surface": "לתתן",
+      "gloss": "بدنءِ پہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءِ عہدءِ صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہدءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:00.709717492Z",
+  "model": "glm-5.3"
+}

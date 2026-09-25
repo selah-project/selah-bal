@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ یاہوہءَ موشہءَ ءُ اہارونءَ گوَشت کہ ءُ اِشاںءَ بگوَیت،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ ءُ اِشاںءَ بگوَیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:18:43.669580558Z",
+  "model": "glm-5.3"
+}

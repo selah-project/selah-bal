@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ اَشتون ⟨את⟩ بیت رَفا، ءُ ⟨את⟩ پَسح، ءُ ⟨את⟩ تَحنہ — عیر نَحشءِ پِت — زائگ کت؛ اے رَکہءِ مردمان اَنت.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "ءُ اَشتون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیت رَفا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "رَفا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پَسح"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پَسح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "تَحنہ"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "تَحنہ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پِت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نَحش"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردمانِ"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "رَکہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:08.057497130Z",
+  "model": "glm-5.3"
+}

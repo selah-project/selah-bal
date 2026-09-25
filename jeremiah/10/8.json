@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ یکے تہ اَشاں بی‌عقل ءُ احمق اِنت؛ بے‌سودیانی تلمنی آ دار اِنت۔",
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "ءُ یکے تہ"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "بی‌عقل اَنت"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "ءُ احمق اَنت"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تلمنی"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "بے‌سودیانی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:46:52.294468722Z",
+  "model": "glm-5.3"
+}

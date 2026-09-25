@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "ءُ پہ بعل فعورءَ جتا بوتنت ءُ مرگانءِ قربانیان خوردنت.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "ءُ جتا بوتنت"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "پہ بعلءَ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فعور"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ءُ خوردنت"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانیانی"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "مرگانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:05.826186251Z",
+  "model": "glm-5.3"
+}

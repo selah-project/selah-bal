@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 5:14",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "آییءِ دستان گول زرءِ حلقان، ترشیشءَ چہ پُر؛ آییءِ درون شنتءِ بُن، نیلمانءَ چہ ڈھکتگ.",
+  "tokens": [
+    {
+      "surface": "ידיו",
+      "gloss": "آییءِ دستان"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "گول حلقے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "ממלאים",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "בתרשיש",
+      "gloss": "ترشیشءَ چہ"
+    },
+    {
+      "surface": "מעיו",
+      "gloss": "آییءِ درون"
+    },
+    {
+      "surface": "עשת",
+      "gloss": "بُن"
+    },
+    {
+      "surface": "שן",
+      "gloss": "شنت"
+    },
+    {
+      "surface": "מעולפת",
+      "gloss": "ڈھکتگیں"
+    },
+    {
+      "surface": "ספירים",
+      "gloss": "نیلمان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:26.760338361Z",
+  "model": "glm-5.3"
+}

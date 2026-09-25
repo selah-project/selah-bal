@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "عمونی ءُ موابی یاہوہءِ محفلءَ نہ روئیت؛ ھمے اشانیءِ دہمی نسلی ءُ پہ یاہوہءِ محفلءَ نہ روئیت، پہ ھمیشہ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "روئیت"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "عمونی"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "ءُ موابی"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "محفلءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھمے"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسلی"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "دہمی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "روئیت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اشانیءَ پہ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "محفلءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ھمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:18.489386112Z",
+  "model": "glm-5.3"
+}

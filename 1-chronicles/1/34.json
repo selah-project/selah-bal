@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 1:34",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ اَوراہامءَ ⟨את⟩ اِسحاق جَنِت — اِسحاقءِ زہگان عیسو ءُ اِسرائیل اَنت۔",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ جَنِت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہامءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِسحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اِسحاکءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اِسحاکءِ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ءُ اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:10.504256429Z",
+  "model": "glm-5.3"
+}

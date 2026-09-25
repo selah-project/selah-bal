@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "غریبءَ لُٹ مکن، پرچا کہ اُو غریب اِنت، ءُ بےسہاگءَ دروازہءَ نہ پیس.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "لُٹ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ مکن"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "پیس"
+    },
+    {
+      "surface": "עני",
+      "gloss": "بےسہاگ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:58.245025455Z",
+  "model": "glm-5.3"
+}

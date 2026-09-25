@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "شما زہگان اَنت پہ یاہوہ ایلوہیمءِ شمایءَ؛ وتیءَ نہ لڈیٹ ءُ کچی نہ کنیٹ چشمانی شمایءِ میانءَ پہ مرندئے۔",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ایلوہیم شمای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "لڈیٹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "کنیٹ"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "چشمانی شمای"
+    },
+    {
+      "surface": "למת",
+      "gloss": "پہ مرندئے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:52.023642580Z",
+  "model": "glm-5.3"
+}

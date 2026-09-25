@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 20:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "بس اے قومانی شہرانی چے، کہ یاہوہ تُءِ ایلوہیم تُءِ پہ ورثت دیت — ہر ساہ دارءَ زندہ نہ داریت۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بس"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "چے شہرانی"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "اے قومانی"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُءِ ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُءِ پہ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ورثت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "زندہ داریت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ساہ دار"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:55.785109995Z",
+  "model": "glm-5.3"
+}

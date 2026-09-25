@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "نہ مبی گیشتر چہ اندازہ راستیں، ءُ نہ مبی گیشتر چہ اندازہ دانا؛ چہ پہ تباہ بیی؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "مبی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستیں"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیشتر چہ اندازہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "دانا مبی"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "گیشتر چہ اندازہ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چہ پہ"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "تباہ بیی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:51.176108151Z",
+  "model": "glm-5.3"
+}

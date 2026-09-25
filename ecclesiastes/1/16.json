@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 1:16",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "من گوں منئے دلءَ گپ کت ءُ گوَشت: من، واہ، من گیش چمائی ءُ گیشتر چمائی چہ ہر چہ کہ منی پدا یوروشلمءَ اِنت ءُ منئے دل گیش چمائی ءُ زانتاری گندیت۔",
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "من گپ کت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "منئے دلءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "واہ"
+    },
+    {
+      "surface": "הגדלתי",
+      "gloss": "من گیش"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "ءُ گیشتر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "چمائی"
+    },
+    {
+      "surface": "על",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر چہ کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چہ کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "منی پدا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یوروشلمءَ"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ءُ منئے دل"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "چمائی"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ زانتاری"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:07.540956590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "دانا زہگ پدرءِ تربیت ⟨اِنت⟩؛ ءُ گوَندار چمکاریءَ نہ گوشیت۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پدر"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "ءُ گوَندار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "چمکاری"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:52.868871054Z",
+  "model": "glm-5.3"
+}

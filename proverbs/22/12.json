@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "یاہوہءِ چشمان علمءَ پاسبانی کننت، ءُ خیانتگرءِ گالانءَ وڑ کنت.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "چشمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "پاسبانی کننت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علمءَ"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ءُ وڑ کنت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالانءَ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "خیانتگرءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:46.845804662Z",
+  "model": "glm-5.3"
+}

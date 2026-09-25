@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 7:7",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "گڈی بوت تو رند، ءُ زمینءِ والگءَ رند؛ وہد بیت، روچ نزیک اِنت — گونجیش اِنت، نہ کوہانی بانگ۔",
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "הצפירה",
+      "gloss": "گڈی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو رند"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "والگ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בא",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "העת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزیک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "گونجیش"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "הד",
+      "gloss": "بانگ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوہان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:09:13.463250769Z",
+  "model": "glm-5.3"
+}

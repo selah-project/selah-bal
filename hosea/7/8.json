@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 7:8",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اِپھرایم قومانءِ ماں گڈ گڈ بیت؛ اِپھرایم یک روٹی بوت بے پدا چنگیتگ.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "اِپھرایم"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قومانءِ ماں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آیی"
+    },
+    {
+      "surface": "יתבולל",
+      "gloss": "گڈ گڈ بیت"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِپھرایم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "עגה",
+      "gloss": "یک روٹی"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "הפוכה",
+      "gloss": "پدا چنگیتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:32:12.478906781Z",
+  "model": "glm-5.3"
+}

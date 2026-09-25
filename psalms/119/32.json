@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "توئیں حکمانی رستءَ من دوڑیت، پہ اے کہ تو منءِ دلءَ کھل دیت۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رستءَ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "توئیں حکمانی"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "من دوڑیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "تو … کھل دیت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "منءِ دلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:56.836000027Z",
+  "model": "glm-5.3"
+}

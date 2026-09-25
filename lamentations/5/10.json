@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ماریں رێچ چوش تنور تپشیتگ اِنت، چہ کالیں تندیں تپشانی پیشءَ۔",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "ماریں رێچ"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "چوش تنور"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "تپشیتگ اِنت"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "چہ پیشءَ"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "تندیں تپشان"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "کال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:41.979222215Z",
+  "model": "glm-5.3"
+}

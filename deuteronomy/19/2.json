@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 19:2",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "سئے شہر تُہءَ جتا کن، تُہریں زمینءِ نیمگئ تہ، آءُ کہ یاہوہ تُہریں ایلوہیم تُہءَ دیت پہ آءُ وارث گرگ۔",
+  "tokens": [
+    {
+      "surface": "שלוש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "جتا کن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "بתוך",
+      "gloss": "تہ نیمگئ تہ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "تُہریں زمینءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آءُ کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُہریں ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "لך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "پہ آءُ وارث گرگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:01.522884056Z",
+  "model": "glm-5.3"
+}

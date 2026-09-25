@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ لوی ءُ بنیامین اِشانی ماں شمار نہ کت، پرچا کہ شاہءِ گال یوابءَ ⟨את⟩ نفرتاں اِنت۔",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "ءُ لوی"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ءُ بنیامین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "شمار کت"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "اِشانی ماں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "نفرتاں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوابءَ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوابءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:15:38.530851447Z",
+  "model": "glm-5.3"
+}

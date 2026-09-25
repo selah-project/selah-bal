@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "ءُ کالءَ زمینءِ سرءَ بانگ کت، نانءِ پوریں عصا شکست کت.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "کالءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نانءِ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکست کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:58.600858478Z",
+  "model": "glm-5.3"
+}

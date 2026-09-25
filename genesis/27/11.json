@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ یعقوبءَ آییءِ ماتر ربکہءَ گوَشت: اری، عیسو منی بُرز واردار اِنت ءُ من نرم اِنت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ربکہ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "آییءِ ماتر"
+    },
+    {
+      "surface": "הן",
+      "gloss": "اری"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "منی بُرز"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨مرد⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "واردار"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨مرد⟩"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "نرم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:38.185616114Z",
+  "model": "glm-5.3"
+}

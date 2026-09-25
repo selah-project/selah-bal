@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ داؤد چہ اُشتا پرت ءُ تہ عین گدیءِ پنہ جاگہاں مند بوت.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "پرت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "משם",
+      "gloss": "چہ اُشتا"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ءُ مند بوت"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "تہ پنہ جاگہاں"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عین"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گدی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:36:57.440958700Z",
+  "model": "glm-5.3"
+}

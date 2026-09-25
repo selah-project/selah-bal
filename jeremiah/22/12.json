@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "کی اُڈا جاگہءَ کہ آیانءَ ⟨את⟩ جلا کتنت، اُڈا آ مریت، ءُ ⟨את⟩ اے زمینءَ ہچ رند نہ گندیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اُڈا جاگہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "جلا کتنت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "آیانءَ (شلومءَ)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُڈا"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مریت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اے زمینءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "اے زمینءَ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہچ رند"
+    }
+  ],
+  "timestamp": "2026-09-24T21:52:12.087499469Z",
+  "model": "glm-5.3"
+}

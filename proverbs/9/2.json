@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "وتی مال کش کت، وتی شرابے مدام کت، بلکہ وتی میز چیر کت۔",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "کش کت"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "وتی مال"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "مدام کت"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "وتی شرابے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "چیر کت"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "وتی میز"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:26.327792980Z",
+  "model": "glm-5.3"
+}

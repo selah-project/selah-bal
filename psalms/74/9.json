@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "نشانیانءِ ما نه دیست اَنت؛ ہچ پیغمبر دگہ نیست، ءُ گوں ماں ⟨את⟩ ہچ زانوک نیست کہ زانت تا چہ وہد۔",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "نشانیانءِ ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "دیست اَنت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نست"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نه"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ گوں ماں",
+      "marks": "سانوک"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ وہد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:22.318420124Z",
+  "model": "glm-5.3"
+}

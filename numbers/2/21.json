@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آییءِ لشکر ءُ اِشانی شمارکرتگے: دو ءُ سی ہزار ءُ دو سد.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ءُ آییءِ لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ءُ اِشانی شمارکرتگے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ءُ دو سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:37.638267476Z",
+  "model": "glm-5.3"
+}

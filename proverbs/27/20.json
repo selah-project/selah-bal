@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "شیئول ءُ ہلاکت نہ سیر بنت، ءُ مردمءِ چشم ءُ نہ سیر بنت.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "شیئول"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "ءُ ہلاکت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "سیر بنت"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ءُ چشم"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "سیر بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:03.103146466Z",
+  "model": "glm-5.3"
+}

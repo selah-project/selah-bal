@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "چہ پاءِ کپءَ تا سر، آءِ تہ پوریں صحت نیست — زخم ءُ کوچ ءُ تازگیں مارگ؛ نہ دم بوتگ، نہ بند کتگ، ءُ نہ تیلءَ گوں نرم کتگ۔",
+  "tokens": [
+    {
+      "surface": "مכף",
+      "gloss": "چہ کپءِ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آءِ تہ"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "پوریں صحت"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "ءُ کوچ"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ءُ مارگ"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "تازگیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "دم بوتگ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "بند کتگ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "نرم کتگ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیلءَ گوں"
+    }
+  ],
+  "timestamp": "2026-09-24T21:20:43.871205475Z",
+  "model": "glm-5.3"
+}

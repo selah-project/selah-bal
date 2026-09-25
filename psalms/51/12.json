@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "اے ایلوہیم، منی تہ پاکیں دل جوڑ ک؛ ءُ منی اندامیں تہ درست روح نو ک.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکیں"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "جوڑ ک"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی تہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ءُ روح"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "درست"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نو ک"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "منی اندامیں تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:43.579134790Z",
+  "model": "glm-5.3"
+}

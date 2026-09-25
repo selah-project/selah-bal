@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 75,
+  "translation": "ءُ تمام بدکارانی شینہاں من کپیت؛ راستءِ شینہاں اُچّنت۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ تمام"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "شینہانی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "کپیت"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "اُچّنت"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "شینہاں"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:10.261133181Z",
+  "model": "glm-5.3"
+}

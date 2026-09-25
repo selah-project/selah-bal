@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "چہ آییءَ دلءِ ما شاد بیت، چہ آییءِ پاک نامءَ ما امید کتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "دلءِ ما"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نامءِ تہ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "آییءِ پاک"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "ما امید کتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:58.387006822Z",
+  "model": "glm-5.3"
+}

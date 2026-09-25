@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "کے آ اِنت، اے شانیں شاہ؟ یاہوہ سباؤت — آئے اِنت شانیں شاہ۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "شانیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "شانیں"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:20.979344466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "من شتم ءُ خت گوَشتم، پاچ شتم، کیہ یاہوہ مءَ سہارا دیت۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "شتم"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ءُ خت گوَشتم"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "پاچ شتم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "مءَ سہارا دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:58.880094085Z",
+  "model": "glm-5.3"
+}

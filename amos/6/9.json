@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اے بیت کہ اگر دہ مردمانی یک گدانءَ تہ مانی بنت، ءُ مُرنت۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ اے بیت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "مانی بنت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "تہ گدانءَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "وמתו",
+      "gloss": "ءُ مُرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:35:58.665152430Z",
+  "model": "glm-5.3"
+}

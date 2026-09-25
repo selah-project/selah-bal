@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 62,
+  "translation": "یک وری ایلوہیم گپ زیت، دو وری منءَ اے گوشیت — کہ زور ایلوہیمءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "یک وری"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گپ زیت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو وری"
+    },
+    {
+      "surface": "זו",
+      "gloss": "اے"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "منءَ گوشیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:29.096525045Z",
+  "model": "glm-5.3"
+}

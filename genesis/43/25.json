@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "ءُ اِشاں ⟨את⟩ سوغاتءَ تیار کت، تا یوسفءِ آئیں دوپہرءَ؛ چی کہ اِشاں گوشتگ چی کہ اودا نانءَ ہاپنت۔",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "ءُ تیار کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سوغاتءَ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "سوغاتءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "آئیں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسفءِ"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "دوپہرءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چی کہ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوشتگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چی کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ہاپنت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:11.161161166Z",
+  "model": "glm-5.3"
+}

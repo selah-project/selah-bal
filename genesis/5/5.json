@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ ادمءِ کلیں روچان کہ آ زیست نہ سد سال ءُ سی سال بیت، ءُ آ مُنت۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کلیں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیست"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:34.086447367Z",
+  "model": "glm-5.3"
+}

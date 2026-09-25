@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ تسہن ⟨את⟩ ⟨the⟩ شارءَ دور گریں — تسہنی پوریں جنگءِ مردمان — شارءِ چوک یک وار؛ اے چوں شش روچ کن۔",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "ءُ تسہن … دور گریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ شار"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ شارءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردمانءِ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگءِ"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "چوک کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ شار"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ شارءَ"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "وار"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:05:41.947034319Z",
+  "model": "glm-5.3"
+}

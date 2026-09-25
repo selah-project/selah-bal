@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ کہ چو تسیں گندیت ءُ چو تسیں شوت، آیا نئے کہ تسیں اوشتنت کہ گندنت، ءُ تسیں اوشتنت کہ شوت؟",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ءُ کہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ءُ کہ"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "شوت"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "آیا نئے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تسیں"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "گندوک"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ءُ تسیں"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "شوتوک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:15.964154742Z",
+  "model": "glm-5.3"
+}

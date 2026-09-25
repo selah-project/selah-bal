@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ قوم چہ قوم کوٹیت ءُ شہر چہ شہر، پرچا کہ ایلوہیم اِشاں گوں ہر یک سختی پریشان کتگ اِنت.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "ءُ کوٹیت"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "چہ قوم"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ءُ شہر"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "چہ شہر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "اِشاں پریشان کتگ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "گوں ہر یک"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "سختی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:39:09.910167408Z",
+  "model": "glm-5.3"
+}

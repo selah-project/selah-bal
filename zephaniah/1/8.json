@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 1:8",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آ کار بیت یاہوہءِ قربانیءِ روچءَ کہ ما شازانءَ ءُ شاہءِ زہگانءَ ءُ ہر بیگانہ پوشاک پوشوکءَ سزا دیں",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ آ کار بیت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانیءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ءُ سزا دیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "شازان"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הלבשים",
+      "gloss": "پوشوک"
+    },
+    {
+      "surface": "מלבוש",
+      "gloss": "پوشاک"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "بیگانہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:19.149200703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 3:10",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "تہءَ دیدنت ءُ کوہان لرزنت؛ آپیں دریو گوزشت؛ تہوم وتی آواز دات ءُ بلندءَ وتی دستان اوچشتنت.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "تہءَ دیدنت"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "لرزنت"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوہان"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "دریو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپیں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "گوزشت"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تہوم"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "وتی آواز"
+    },
+    {
+      "surface": "רום",
+      "gloss": "بلندءَ"
+    },
+    {
+      "surface": "ידיהו",
+      "gloss": "وتی دستان"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "اوچشتنت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:06:55.009218103Z",
+  "model": "glm-5.3"
+}

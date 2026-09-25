@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "بدی بدکارءَ بکشت، ءُ راستءِ دشمن گناهگ بنت۔",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "بکشت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "ءُ دشمن"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "گناهگ بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:05.818956012Z",
+  "model": "glm-5.3"
+}

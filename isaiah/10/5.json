@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ہائے پہ اَشّور! آ سوت اِنت غضبءِ من، ءُ عصا — آ چہ اِشانی دستءَ ⟨اِنت⟩ خیشمءِ من.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "سوت"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "غضبءِ من"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "ءُ عصا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "چہ اِشانی دستءَ"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "خیشمءِ من"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:07.326000054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 108,
+  "translation": "گوَنیت، یک زبور، داودءِ۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گوَنیت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:51.319640259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ اِسرائیل ءُ اَبشلوم گلعادءِ زمینءَ چتر زنت.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "چتر زنت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "ءُ اَبشلوم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعادءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:47:24.406179433Z",
+  "model": "glm-5.3"
+}

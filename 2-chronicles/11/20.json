@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ آیءِ پسا ⟨את⟩ مکاہ گپت — ابشالومءِ جنک — ءُ آ وتی ⟨את⟩ ابیاہ ءُ ⟨את⟩ عتّی ءُ ⟨את⟩ زیزا ءُ ⟨את⟩ شلومیت گپتنت.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "ءُ آیءِ پسا"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مکاہ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مکاہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ابشالومءِ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ گپتنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابیاہ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابیاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "عتّی"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "عتّی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "زیزا"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "زیزا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شلومیت"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شلومیت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:36:31.873899387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آ روچءَ ہمے یِروشلمءَ گوَشت بیت: نہ ترس اے تسیون، نہ تُہدی دستان سُست بنت۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "آ روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "گوَشت بیت"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "یِروشلمءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "اے تسیون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "سُست بنت"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "تُہدی دستان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:01.381046924Z",
+  "model": "glm-5.3"
+}

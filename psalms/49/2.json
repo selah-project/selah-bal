@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "گوش کنیت اے، گچین قومان؛ کان کنیت گچین رہندوک ءُچ ڈگارءِ۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوش کنیت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گچین"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "کان کنیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گچین"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رہندوک"
+    },
+    {
+      "surface": "חלد",
+      "gloss": "ڈگارءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:08.180644589Z",
+  "model": "glm-5.3"
+}

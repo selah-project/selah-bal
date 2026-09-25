@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "تو نزدیک اِنت، اے یاہوہ؛ ءُ تمام تری حکمان سچ اِنت۔",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ تمام"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تری حکمان"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:10.067259513Z",
+  "model": "glm-5.3"
+}

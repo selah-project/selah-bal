@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ آییءِ جنگلءِ دارانی شیءوگ گنتی بنت، ءُ یک زہگ آیانءَ نبیشیت.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "ءُ شیءوگ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "آییءِ جنگلءِ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "گنتی"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ءُ یک زہگ"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "آیانءَ نبیشیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:54.717496727Z",
+  "model": "glm-5.3"
+}

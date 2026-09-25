@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "غم چہ کھاںڈ چنگتر ⟨اِنت⟩، پہ چہ رُپچءِ تلخیءَ دل چنگ بیت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگتر"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "غم"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "چہ کھاںڈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پہ چہ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "تلخیءَ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "رُپچءِ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "چنگ بیت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:16.718716764Z",
+  "model": "glm-5.3"
+}

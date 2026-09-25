@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "آیی آ گپ ⟨اِنت⟩ کہ ماں پہ فرعونءَ گوَشتگم: آ کہ ایلوہیم کنیت، آیی ⟨את⟩ فرعونءَ دیدیتگ۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "آیی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "آ گپ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "گوَشتگم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "دیدیتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرعون"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:43:59.791932941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ ⟨את⟩ پرمشتا ءُ ⟨את⟩ اریسای ءُ ⟨את⟩ اردای ءُ ⟨את⟩ ویزتا",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پرمشتا"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "پرمشتا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اریسای"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "اریسای"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اردای"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "اردای"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ویزتا"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "ویزتا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:38.872519009Z",
+  "model": "glm-5.3"
+}

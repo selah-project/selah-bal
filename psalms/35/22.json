@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "تو دیستگءِ، اے یاہوہ؛ چُپ مہ مان؛ اے ادونای، ماں چے دُور مہ رو۔",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "تو دیستگءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "چُپ مہ مان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دُور مہ رو"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ ماں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:11.714599759Z",
+  "model": "glm-5.3"
+}

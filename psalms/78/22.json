@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "آ کہ اِشاں ایلوہیمءَ نه ایمان کت ءُ آییءِ نجاتءَ نه تکیشت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ایمان کت"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نه"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "تکیشت"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "آییءِ نجاتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:07.894619082Z",
+  "model": "glm-5.3"
+}

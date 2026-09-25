@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ اَہارونءِ زہگان، کاہن، قربانگاہءَ آچ ڈننت ءُ دارانءَ آچءِ سرءَ چیرکننت.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ءُ ڈننت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَہارونءِ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہءَ"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "ءُ چیرکننت"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "دارانءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آچءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:11:29.541747162Z",
+  "model": "glm-5.3"
+}

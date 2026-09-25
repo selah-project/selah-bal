@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 138,
+  "ref": "psalms 119:138",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "تو تیں گواہیاں گوں راستی فرمان کت ءُ وفا گیش۔",
+  "tokens": [
+    {
+      "surface": "צוית",
+      "gloss": "فرمان کت"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "گوں راستی"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "تیں گواہیاں"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "ءُ وفا"
+    },
+    {
+      "surface": "مאד",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:13.882107911Z",
+  "model": "glm-5.3"
+}

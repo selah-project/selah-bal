@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یہوناتان ⟨את⟩ شاؤلءَ جواب دت: داؤد پُرشیت پُرشتگ چہ منءَ، بیت لحمءَ روت۔",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ءُ جواب دت"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاؤلءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءَ"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "پُرشیت"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "پُرشتگ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "چہ منءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:35:16.825817412Z",
+  "model": "glm-5.3"
+}

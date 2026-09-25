@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "ءُ اگر تُو نہ لَرتیں، ما درءَ نہ روت؛ چون آ مرد ماءَ گوَشت: تُمے منی دیم نہ گندیت، بجز کہ تُمیں بُرا تُمیں گوں بیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "لَرتیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "درءَ روت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آ مرد"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ماءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دیم"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "بجز"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "تُمیں بُرا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ گوں تُمے",
+      "marks": "تُمیں بُرا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:48.917301821Z",
+  "model": "glm-5.3"
+}

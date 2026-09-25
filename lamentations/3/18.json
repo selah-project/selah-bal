@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ من گوَشت: ہلاک بوت منی برداشت ءُ منی اُمید چہ یاہوہ۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ من گوَشت"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ہلاک بوت"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "منی برداشت"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "ءُ منی اُمید"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "چہ یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:28.794600602Z",
+  "model": "glm-5.3"
+}

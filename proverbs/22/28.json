@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "قدیمیں سرحد کہ توءِ پدران جوڑ کتگ، آییءَ نہ لیکنٹ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "لیکنٹ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "قدیمیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "جوڑ کتگ"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "توءِ پدران"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:53.465966772Z",
+  "model": "glm-5.3"
+}

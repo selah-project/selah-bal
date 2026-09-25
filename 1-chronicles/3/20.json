@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ حَشُباہ ءُ اُوہِل ءُ بَرِکیاہ ءُ حَسَدیاہ ءُ یوشَب-حِسِد — پنچ.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "ءُ حَشُباہ"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ءُ اُوہِل"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "ءُ بَرِکیاہ"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "ءُ حَسَدیاہ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "یوشَب"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "-حِسِد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:13.989112081Z",
+  "model": "glm-5.3"
+}

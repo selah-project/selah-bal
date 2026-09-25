@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "دلیءِ کش ءُ لال جھیڑہ اٹھائیت، پر جہڑا یاہوہ تیک بھروسہ کیت، آ موٹا بیت۔",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "دلیءِ کش"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "لال"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "اٹھائیت"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "جھیڑہ"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ءُ بھروسہ کیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تیک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "موٹا بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:47.809784460Z",
+  "model": "glm-5.3"
+}

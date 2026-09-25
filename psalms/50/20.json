@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "نشت ءُ تئی بھراءِ بابت بُرزبانیت، تئی ماسی زہگءَ بہتان دیت۔",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "نشت"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "تئی بھراءِ بابت"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "بُرزبانیت"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تئی ماسی"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "بہتان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:52.938689575Z",
+  "model": "glm-5.3"
+}

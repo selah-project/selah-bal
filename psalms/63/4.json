@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 63,
+  "translation": "کیہ کہ تئے ہیسید جانءَ چہ بہتر اِنت، مئے لب تئے تعریف کننت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تئے ہیسید"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "جانءَ چہ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "مئے لب"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "تئے تعریف کننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:04.853714456Z",
+  "model": "glm-5.3"
+}

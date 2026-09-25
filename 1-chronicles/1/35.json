@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "عیسوءِ زہگان: اِلیپَز، رِعوئِل، ءُ یَعوش، ءُ یَعلام، ءُ قورَح۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسوءِ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیپَز"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رِعوئِل"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ءُ یَعوش"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "ءُ یَعلام"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "ءُ قورَح"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:10.505338218Z",
+  "model": "glm-5.3"
+}

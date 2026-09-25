@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 97,
+  "translation": "شرمنت تمام پجاریں بتانی کنوک، بتانی گوں نازنت — آییءَ سجده کننت تمام ہدایان۔",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "شرمنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "کنوک"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "پجاریں بت"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "نازنت"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "گوں بتان"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "سجده کننت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:49.865351213Z",
+  "model": "glm-5.3"
+}

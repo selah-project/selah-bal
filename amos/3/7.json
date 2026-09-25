@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 3:7",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کیہ ادونای یاہوہ گال نہ کنیت، مگر چہ وت آییءِ راز پہ وتی غلامان پیغمبرانءَ آشکار کنیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "آشکار کنیت"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "وت آییءِ راز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "وتی غلامان"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "پیغمبرانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:34:20.587156813Z",
+  "model": "glm-5.3"
+}

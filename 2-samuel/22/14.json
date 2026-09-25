@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "یاہوہءَ چہ آسمانانءَ گرجاوت ءُ اُلوہ چہ آییءِ بانگ دات۔",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "گرجاوت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانانءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ءُ اُلوہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "آییءِ بانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:51:24.074870813Z",
+  "model": "glm-5.3"
+}

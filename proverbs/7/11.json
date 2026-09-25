@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "شور иск ءُ سرکش اِنت آ؛ آییءِ گداںَ آییءِ پڈ نہ آرام گنت",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "شور maks"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اِنت آ"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "ءُ سرکش"
+    },
+    {
+      "surface": "בביתہ",
+      "gloss": "آییءِ گداںَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "آرام گنت"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "آییءِ پڈ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:32.827699563Z",
+  "model": "glm-5.3"
+}

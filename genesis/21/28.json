@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ اَوراہامءَ ⟨את⟩ ہپت میدکاں گوانیءِ جتا کت.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ءُ جتا کت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہامءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہپت میدکاں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "میدکاں"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گوانیءِ"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "جتا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:31:50.985650968Z",
+  "model": "glm-5.3"
+}

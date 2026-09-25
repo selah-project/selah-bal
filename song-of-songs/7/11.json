@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "من مے ماشءِ اِنت، ءُ آییءِ شوق منی سرءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "مے ماشءِ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ءُ منی سرءَ"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "آییءِ شوق"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:18.722693481Z",
+  "model": "glm-5.3"
+}

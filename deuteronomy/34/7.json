@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ موشہ سد ءُ بیست سالءِ بچ اَت وہدءَ کہ مریت؛ آییءِ چم نہ مدہم بیت، ءُ آییءِ ترویی نہ روست۔",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ءُ موشہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بچ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالءِ"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "مریتءِ وہدءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "مدہم بیت"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "آییءِ چم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "روست"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "ترویی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:50.314882474Z",
+  "model": "glm-5.3"
+}

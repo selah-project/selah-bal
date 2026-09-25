@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ زابادءَ ⟨את⟩ اِپلال زائیت، ءُ اِپلالءَ ⟨את⟩ عوبید زائیت۔",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ءُ زابادءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِپلال"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "اِپلال"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ءُ اِپلالءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوبید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوبید"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:47.441195224Z",
+  "model": "glm-5.3"
+}

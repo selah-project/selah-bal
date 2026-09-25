@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "چرا اے — نادانءِ دستءَ چنڈ پہ دانائی گریگا، ءُ دل نیست؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "چنڈ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "تہ دست"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "پہ گریگا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ءُ دل"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:28.930337917Z",
+  "model": "glm-5.3"
+}

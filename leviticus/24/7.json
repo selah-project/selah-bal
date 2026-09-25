@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 24:7",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ تو گنت سرءَ ⟨the⟩ رجءَ پاکیں لُبانہ، ءُ بیت پہ نانءَ یادگاریءِ پہ، آتشی قربانی یاہوہءَ پہ۔",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ءُ تو گنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "⟨the⟩ رج"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لُبانہ"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "پاکیں"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "نانءَ پہ"
+    },
+    {
+      "surface": "לאזכרה",
+      "gloss": "یادگاریءِ پہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "آتشی قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:00.127211491Z",
+  "model": "glm-5.3"
+}

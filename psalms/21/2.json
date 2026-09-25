@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "اے یاہوہ، وتءِ زورءَ شاہ شاد بیت، ءُ وتءِ نجاتءَ چقدر آیی دلگشا بیت گیش!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "وتءِ زورءَ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "ءُ وتءِ نجاتءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چقدر"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "دلگشا بیت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:54.099614419Z",
+  "model": "glm-5.3"
+}

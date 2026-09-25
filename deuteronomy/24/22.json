@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ تُو یاد بکہ تُو مِتسرایمءِ زمینءَ غلام اُتایت؛ اے سببءَ من تُوءَ حکم کن ئے کہ ⟨את⟩ اے داۏت بکہ۔",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "ءُ تُو یاد بک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "היית",
+      "gloss": "اُتایت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے سببءَ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تُوءَ حکم کن ئے"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کہ ... بکہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے داۏت"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے داۏت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:56.286970483Z",
+  "model": "glm-5.3"
+}

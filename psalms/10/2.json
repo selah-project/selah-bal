@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "مانڑیءِ چڑءَ فقیر داغین بیت؛ گوں آ چالاں گپتگ بنت کہ آشونتگ.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "تہ چڑءَ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "مانڑیءِ"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "داغین بیت"
+    },
+    {
+      "surface": "עני",
+      "gloss": "فقیر"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "گپتگ بنت"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "تہ آ چالاں"
+    },
+    {
+      "surface": "זו",
+      "gloss": "آ"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "آشونتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:24.680828154Z",
+  "model": "glm-5.3"
+}

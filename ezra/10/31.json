@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 10:31",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ چہ حرمءِ زہگان: الیعزر، ایشیا، ملکیا، شمیا، شمعون،",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ چہ …ءِ زہگان"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حرم"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "الیعزر"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ایشیا"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "ملکیا"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمیا"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    }
+  ],
+  "timestamp": "2026-09-25T00:08:50.991694874Z",
+  "model": "glm-5.3"
+}

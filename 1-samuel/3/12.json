@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آ روچءَ من عیلیءِ سرا ⟨את⟩ کل آ گپ استاد کنیت کہ من وتئے گدءَ گپیتگ — بنگیج چہ ءُ پُجا۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "آ روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ … (کہ)"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "استاد کنیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءِ سرا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عیلی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کل آ گپ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "گپیتگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "وتئے گد"
+    },
+    {
+      "surface": "החל",
+      "gloss": "بنگیج"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ءُ پُجا"
+    }
+  ],
+  "timestamp": "2026-09-24T20:27:08.852986551Z",
+  "model": "glm-5.3"
+}

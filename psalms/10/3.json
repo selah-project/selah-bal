@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "کیہ مانڑی وتی نفسءِ خواہشءِ سرءَ ڈنگ دیت، ءُ لالچی برکت دیت — یاہوہءَ حقارت کنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ڈنگ دیت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "مانڑی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "خواہش"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "وتی نفسءِ"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ءُ لالچی"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت دیت"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "حقارت کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:24.680969036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ یک گیشتین بانگ بیت پوریں زمینءِ مِتسرایمءَ، کہ آییءِ چوں نہ بوتگ ءُ آییءِ چوں نہ ہور بیت۔",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "بانگ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "گیشتین"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "آییءِ چوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "بوتگ"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "ءُ آییءِ چوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ہور بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:55:06.278788585Z",
+  "model": "glm-5.3"
+}

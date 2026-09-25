@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اِستیر جواب دت ءُ گوَشت, منیں خواہش ءُ منیں دارد۔",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "ءُ جواب دت"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستیر"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "منیں خواہش"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "ءُ منیں دارد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:56:22.826124850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "ہیسدءِ تُو یاہوہ زمینءَ پُر کنتگ؛ تُئیں چک ماںءَ سک بڈ۔",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "ہیسدءِ تُو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پُر کنتگ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تُئیں چک"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ماںءَ سک بڈ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:11.394875928Z",
+  "model": "glm-5.3"
+}

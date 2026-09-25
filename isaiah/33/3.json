@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "شورءِ آوازءَ چہ قومان جھتنت؛ تیری بلندیءَ چہ گویان پھٹنت۔",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "آوازءَ چہ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "شورءِ"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "جھتنت"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "بلندیءَ چہ تیری"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "پھٹنت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گویان"
+    }
+  ],
+  "timestamp": "2026-09-24T21:31:15.285764999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "آ وختءَ من شرمسار نہ بم، پہ منیءِ چنڈنءَ تُئے تمام فرمانان.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آ وختءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "شرمسار بم"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "پہ منیءِ چنڈنءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تُئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تُئے فرمانان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:23.035379962Z",
+  "model": "glm-5.3"
+}

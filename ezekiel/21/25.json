@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "رست نبشتگ بیت پہ شمشیر آئت کنت ⟨את⟩ ربہ عاممونءِ زہگان ءُ ⟨את⟩ یہودہ ما یورشلیمءَ مستحکم۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رست"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "نبشتگ بیت"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "آئت کنت"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ربہ"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ربہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عاممون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یہودہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یورشلیمءَ"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "مستحکم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:16:00.300682671Z",
+  "model": "glm-5.3"
+}

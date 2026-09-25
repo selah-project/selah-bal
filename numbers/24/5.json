@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "چه چوک اِنت اے یعقوبءِ گڈاں، اے اسرائیلءِ مِشکانان!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "چوک اِنت"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "توںِ گڈاں"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "توںِ مشکانان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:05.955038536Z",
+  "model": "glm-5.3"
+}

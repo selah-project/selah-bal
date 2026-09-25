@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ یترو، موشہءِ زوماد، آییءِ لہڑانی پشتءَ ⟨את⟩ صیپورہءَ، موشہءِ زنءَ، گرپت۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گرپت"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "یترو"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "زوماد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صیپورہءَ"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "صیپورہءَ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنءِ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءِ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پشتءَ"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "آییءِ لہڑان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:59:21.925891769Z",
+  "model": "glm-5.3"
+}

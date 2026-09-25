@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "زمین — چہ آییءَ نان در کنت، ءُ آییءِ تہاری آتش چوش ⟨اِنت⟩ پدا بوتگ۔",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "چہ آییءَ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "در کنت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "ءُ آییءِ تہاری"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "پدا بوتگ"
+    },
+    {
+      "surface": "کمו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:39:39.579225559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 36:38",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ شاؤل مُوت بوت، ءُ آییءِ جاگہءَ بعل حنان، عکبورءِ زہگ، شاهی کت۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُوت بوت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ءُ شاهی کت"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "آییءِ جاگہءَ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ءِ زہگ"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "عکبور"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:35.632454180Z",
+  "model": "glm-5.3"
+}

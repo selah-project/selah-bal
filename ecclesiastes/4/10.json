@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کی اگر یک ڈگت، دومے آیءِ رفیقءَ اُستیت کنت ⟨את⟩؛ ءُ بلے اگر یک ڈگت ءُ دومی نیست کہ آءَ اُستیت کنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈگنت"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "اُستیت کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آیءِ رفیقءَ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "آیءِ رفیقءَ"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ءُ بلے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "کہ ڈگت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "کہ آءَ اُستیت کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:58.432570587Z",
+  "model": "glm-5.3"
+}

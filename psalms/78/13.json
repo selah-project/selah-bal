@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "یَمءَ پھا کت ءُ اِشانءَ گوزارت، ءُ آپان ڈَنگ کت چوش یک ڈھیر۔",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "پھا کت"
+    },
+    {
+      "surface": "ים",
+      "gloss": "یَمءَ"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ءُ اِشانءَ گوزارت"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ءُ ڈَنگ کت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ڈھیر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:16.905115426Z",
+  "model": "glm-5.3"
+}

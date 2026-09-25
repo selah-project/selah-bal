@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کی ما دیریں اوشتیں ءُ نہ زانتگ، کی ماںی روچان ⟨تہ⟩ زمینءِ سرءَ یک سایہ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "دیریں"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "زانتگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "צל",
+      "gloss": "سایہ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ماںی روچان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨تہ⟩ … ءِ سرءَ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:32:56.547972789Z",
+  "model": "glm-5.3"
+}

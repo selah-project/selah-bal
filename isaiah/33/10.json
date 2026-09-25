@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "اِشو ءُ اُستیت، اے یاہوہ گوَشت؛ اِشو ءُ بُرز بیت، اِشو ءُ وتءَ اُچ کیت۔",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اِشو"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ءُ اُستیت"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اِشو"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "ءُ بُرز بیت"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اِشو"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ءُ وتءَ اُچ کیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:36.797639209Z",
+  "model": "glm-5.3"
+}

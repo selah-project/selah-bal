@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 13:26",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ من ہم تئے دامن تئے رخءِ سرءَ لہر کت، ءُ تئے شرم پدا وَنت.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ من ہم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "لہر کت"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "تئے دامن"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تئے رخءِ"
+    },
+    {
+      "surface": "ונראه",
+      "gloss": "ءُ پدا وَنت"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "تئے شرم"
+    }
+  ],
+  "timestamp": "2026-09-25T01:03:30.446233786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ پوریں پیران ءُ پوریں قوم آءَ گوَشتنت: گوش نہ کن ءُ رازی نہ بیت.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ءُ گوَشتنت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ پوریں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "رازی بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:05:04.178082302Z",
+  "model": "glm-5.3"
+}

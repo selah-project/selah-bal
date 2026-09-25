@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ پہ مرگ زخم تُمانی گوشتءَ نہ دیں، ءُ نشانی کٹوئی تُمانی سرءَ نہ دیں؛ من یاہوہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "ءُ زخم"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "پہ مرگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "دیں"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "تُمانی گوشتءَ"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "ءُ نشانی"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "کٹوئی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "دیں"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تُمانی سرءَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:34.519067076Z",
+  "model": "glm-5.3"
+}

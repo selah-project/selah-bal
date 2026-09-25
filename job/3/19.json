@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کوچ ءُ لوچ اودا اَنت، ءُ غلام چہ وتی آقاءَ آزاد اِنت.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "کوچ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ءُ لوچ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ءُ غلام"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "آزاد"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "چہ وتی آقاءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:32.411180093Z",
+  "model": "glm-5.3"
+}

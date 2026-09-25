@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "چہ ایلءِ نسمتءَ پرت دنت بیت ءُ آپانی گناؤ تہ ٹھار بیت۔",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "چہ نسمتءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دنت بیت"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "پرت"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ءُ گناؤ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپانی"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "تہ ٹھار بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:42:30.782331409Z",
+  "model": "glm-5.3"
+}

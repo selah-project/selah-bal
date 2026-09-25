@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اگر یک نوکین گدان جوڑ کنیت، تُءِ چتءِ سرءَ کچ گر، ءُ نہ گر خون تُءِ گدانءَ تہ، پرچا کہ فرشتوک چہ آییءَ ڈگیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "جوڑ کنیت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوکین"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ گر"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "کچ"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "تُءِ چتءِ سرءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "گر"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "تُءِ گدانءَ تہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈگیت"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "فرشتوک"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:56.876890238Z",
+  "model": "glm-5.3"
+}

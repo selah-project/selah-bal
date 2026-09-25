@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 103,
+  "translation": "چوش کہ یک پیءَ زہگانی سرءَ رحم کیت، یاہوہءَ آییءِ درشت کنوکانی سرءَ رحم کت۔",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحم کیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "آییءِ درشت کنوک"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:11.526026643Z",
+  "model": "glm-5.3"
+}

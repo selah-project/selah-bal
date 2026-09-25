@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "رَت گوشنءِ زمینءَ، آ جاگہ کہ اِسرائیلءِ زہگان اَتنت، تُرشاپ نہ اَت.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رَت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "گوشنءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ جاگہ کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اَتنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "تُرشاپ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:54:10.733934103Z",
+  "model": "glm-5.3"
+}

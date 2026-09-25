@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ کاہن حکم دیت کہ ⟨את⟩ یکے مرگ مٹیءِ برجءِ تہ زندگ آپءِ سرءَ بکُشت کنت",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "حکم دیت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ءُ بکُشت کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یکے مرگ"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برجءِ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹیءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپءِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:18:38.233847432Z",
+  "model": "glm-5.3"
+}

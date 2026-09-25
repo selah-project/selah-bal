@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "بوت یاہوہءِ گال پہ یرمیاہءَ چہ ⟨את⟩ یاہوہءَ، آ کہ گوَشت:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہءَ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "چہ ⟨את⟩",
+      "marks": "یاہوہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:04:21.235939192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 90,
+  "translation": "صوبءَ گل دیت ءُ روت، شامءَ کپیت ءُ وشک بیت۔",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "صوبءَ"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "گل دیت"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "شامءَ"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "کپیت"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ءُ وشک بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:09.591288894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ ہکات ءُ ⟨את⟩ ہرحمہ ءُ ⟨את⟩ ہشلاخ۔",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ءُ ہکات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ہرحمہ"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ہرحمہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ہشلاخ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ہشلاخ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:47.344890276Z",
+  "model": "glm-5.3"
+}

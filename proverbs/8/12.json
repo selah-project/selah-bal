@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "من ہوشم اَم، ہوشیاریءَ گوں جا کت ءُ چالکیءِ دشت لیم۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ہوشم"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "جا کت"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ہوشیاریءَ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ دشت"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "چالکیءِ"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "لیم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:51.772248010Z",
+  "model": "glm-5.3"
+}

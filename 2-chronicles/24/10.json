@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ گیش سرداران ءُ گیش قوم شاد بیتنت، ءُ آور کتنت ءُ گدانءَ تہ داتنت، تا پُر بوت.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ءُ شاد بیتنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سرداران"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ءُ آور کتنت"
+    },
+    {
+      "surface": "וישליכو",
+      "gloss": "ءُ داتنت"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "گدانءَ تہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "پُر بوت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:42:21.422597794Z",
+  "model": "glm-5.3"
+}

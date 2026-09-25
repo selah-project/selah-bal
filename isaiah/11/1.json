@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ یک شاخ چہ یِشائیءِ تنے درآیت، ءُ یک نذر چہ آییءِ رہاں پھل دیت۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ درآیت"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "یک شاخ"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "چہ تنے"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشائیءِ"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "ءُ نذر"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "چہ آییءِ رہاں"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "پھل دیت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:01:30.852750020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ اگر آ چہ جلدءَ گیش پھشیت، ءُ کاہن ⟨את⟩ آییءَ نجس اعلان کیت — آ یک زخم اِنت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھشیت"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "گیش پھشیت"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چہ جلدءَ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ءُ نجس اعلان کیت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "زخم"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ یک زخم اِنت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:44.227451414Z",
+  "model": "glm-5.3"
+}

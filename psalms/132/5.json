@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 132,
+  "translation": "تا من یک جاگہ پہ یاہوہ پیدا کنان، مِشکانان پہ یعقوبءِ زورمندءَ۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "پیدا کنان"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "مِشکانان"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "پہ زورمندءَ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:11.711174063Z",
+  "model": "glm-5.3"
+}

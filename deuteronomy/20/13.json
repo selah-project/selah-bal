@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یاہوہ تُءِ ایلوہیم آءَ تُءِ دستءَ دیت، ءُ تُو ⟨את⟩ ہر نرینہ آییءَ شمشیرءِ دہنءَ ماریت۔",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "ءُ دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُءِ ایلوہیم"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تُءِ دستءَ"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ءُ ماریت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر نرینہ آییءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "نرینہ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "دہنءَ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیرءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:55.784385752Z",
+  "model": "glm-5.3"
+}

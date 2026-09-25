@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ گرشونیانی پیوءِ گانیءِ سردار الیاسف اِنت، لائلءِ زہگ.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ءُ سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گانی"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیوءِ"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "گرشونیانی"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "الیاسف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لائل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:29.987205872Z",
+  "model": "glm-5.3"
+}

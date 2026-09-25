@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ پیغامچی روت، ءُ آوت، ءُ داؤدءَ ⟨את⟩ ہمگ آ چِڑ کتگ گوں یُواب چِڑ کتگ۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ پیغامچی روت"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "پیغامچیءُ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آوت"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ءُ چِڑ کت"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داؤدءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمگ آ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "چِڑ کتگ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یُواب"
+    }
+  ],
+  "timestamp": "2026-09-24T20:44:57.878027271Z",
+  "model": "glm-5.3"
+}

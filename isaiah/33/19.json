@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "⟨את⟩ زوراور قوم نہ گندیں، قومی گران لبز کہ گوشیت نہ بیت، کُج زبان — کہ سمج نیست.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "زوراور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "گندیں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومی"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "گران"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لبز"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "کہ گوشیت نہ بیت"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "کُج"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمج"
+    }
+  ],
+  "timestamp": "2026-09-24T21:30:49.400585890Z",
+  "model": "glm-5.3"
+}

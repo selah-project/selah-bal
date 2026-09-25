@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "تو آییءِ روشنائیءَ بس کت، ءُ آییءِ تخت تو زمینءَ ڈیگت.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "بس کت"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "آییءِ روشنائیءَ"
+    },
+    {
+      "surface": "וככסאו",
+      "gloss": "ءُ آییءِ تخت"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "ڈیگت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:42.266881951Z",
+  "model": "glm-5.3"
+}

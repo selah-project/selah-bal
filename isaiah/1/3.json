@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "گاہ وتی گرنتءَ زانت ءُ کھر وتی مالکءِ دارابءَ؛ اسرائیل نہ زانت، منی قوم نہ سوچیت.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گاہ"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "وتی گرنتءَ"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ءُ کھر"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "داراب"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "وتی مالکءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "سوچیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:20:55.047984110Z",
+  "model": "glm-5.3"
+}

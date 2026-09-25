@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ہم گیش مردم کہ گوشیت ءُ آپ نوشیت ءُ تہ گیش وتی محنت خوب گندیت — آ ⟨اِنت⟩ ایلوהیمءِ بخشش۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "کہ گوشیت"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ءُ آپ نوشیت"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ گیش"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "وتی محنت"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "بخشش"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:21.487710975Z",
+  "model": "glm-5.3"
+}

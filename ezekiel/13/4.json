@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 13:4",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "چوش گوڑانیں مزناںءِ چوں، اے اسرائیل، تئے پیغمبران اتن۔",
+  "tokens": [
+    {
+      "surface": "כשעלים",
+      "gloss": "چوش گوڑانیں"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "مزناںءِ تہ"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "تئے پیغمبران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اتن"
+    }
+  ],
+  "timestamp": "2026-09-24T22:12:06.795643694Z",
+  "model": "glm-5.3"
+}

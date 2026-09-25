@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "شکار گوشتنت منا مانیں دشمن چوش کہ یک مرگ، بے سبب.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "شکار"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "شکار گوشتنت منا"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "چوش کہ یک مرگ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "مانیں دشمن"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے سبب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:09.217404868Z",
+  "model": "glm-5.3"
+}

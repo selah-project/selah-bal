@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ موشہ روت ءُ اے گالان ⟨את⟩ پہ اسرائیلءِ پوریں قومءَ گوَشت،",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گالان"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:41.418060557Z",
+  "model": "glm-5.3"
+}

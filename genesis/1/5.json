@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ایلوہیمءَ روشنائیءَ روچ بانگ کت، ءُ تہاریءَ شپ بانگ کت؛ ءُ شام بوت، ءُ سحر بوت — روچ یک۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ … بانگ کت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "روشنائیءَ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ءُ تہاریءَ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "بانگ کت"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ … بوت"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ … بوت"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سحر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:51.905503301Z",
+  "model": "glm-5.3"
+}

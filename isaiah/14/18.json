@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ہمگ قوماںءِ شاہان، اِشانی ہمگ، عزتءَ لیٹنت، ہر یک وتءِ گدانءَ تہ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "شاہانی"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماںءِ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "اِشانی ہمگ"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "لیٹنت"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "عزتءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر یک"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "وتءِ گدانءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:25:23.202419701Z",
+  "model": "glm-5.3"
+}

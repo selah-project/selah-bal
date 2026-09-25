@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "آ مئں پہ یک گدان جوڑیت، ءُ من ⟨את⟩ آییءِ تختءَ ہمیشہءَ تا مستحکم کنت۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "جوڑیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مئں پہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ءُ من مستحکم کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ تخت"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "آییءِ تخت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:28:35.679567341Z",
+  "model": "glm-5.3"
+}

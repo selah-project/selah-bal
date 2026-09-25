@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 63,
+  "translation": "چوش کہ چربی ءُ دشمءِ گوں مہ جان سیر بیت، ءُ شادمانیءِ لبان گوں مہ دہن ستایش کنت.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "חלب",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "ءُ دشم"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "سیر بیت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "مہ جان"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ءُ لبان"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "شادمانیءِ"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ستایش کنت"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مہ دہن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:53.615188640Z",
+  "model": "glm-5.3"
+}

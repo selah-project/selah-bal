@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ تئے تالو چاں شرابءِ چوش، آہ مے ماشءَ راستیءَ روت، شپءِ ونوکانی لباں ءَ سریریت۔",
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "ءُ تئے تالو"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "شرابءِ چوش"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چاں"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "مے ماشءَ"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "راستیءَ"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "سریریت"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لباں ءَ"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "شپءِ ونوکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:18.719818717Z",
+  "model": "glm-5.3"
+}

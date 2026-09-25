@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "چنگ ءُ راست ⟨اِنت⟩ یاہوہ؛ پہ اِشی سببءَ گنہگارانءَ رہءَ سیڑنت۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ءُ راست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِشی سببءَ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "سیڑنت"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گنہگارانءَ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:41.561669499Z",
+  "model": "glm-5.3"
+}

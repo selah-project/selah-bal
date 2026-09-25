@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "آییءِ جما گر، پہ اے کہ آ بیگانہءِ پہ زمانت اِنت؛ ءُ پہ بیگانانی آییءَ چہ گرو گر.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "گر"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "آییءِ جما"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "زمانت اِنت"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیگانہ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "بیگانانی"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "آییءَ چہ گرو گر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:23.307094698Z",
+  "model": "glm-5.3"
+}

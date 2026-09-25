@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "پہ پیشواءِ — گۏان ءُ مزموُر — تمام زمین ایلوہیمءَ پہ بلند بانگ کن۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشواءِ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گۏان"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزموُر"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "بلند بانگ کن"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیمءَ پہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:16.195079831Z",
+  "model": "glm-5.3"
+}

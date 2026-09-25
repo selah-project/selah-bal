@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "تا کجگ، اے ایلوہیم، دشمن ہرفت؟ ئشمن نامتءَ پہ ہمیشہ سپت؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کجگ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "ہرفت"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "سپت"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ئشمن"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "نامتءَ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:22.318742119Z",
+  "model": "glm-5.3"
+}

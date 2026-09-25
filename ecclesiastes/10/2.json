@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "داناں دل آییءِ راست دستءَ ⟨اِنت⟩، ءُ کم عقلءِ دل آییءِ چپ دستءَ۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "داناں"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "آییءِ راست دستءَ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ءُ دل"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کم عقلءِ"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "آییءِ چپ دستءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:45.977531998Z",
+  "model": "glm-5.3"
+}

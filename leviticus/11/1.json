@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ یاہوہءَ موشہءَ ءُ ہارونءَ گوَشت کہ اِشاںءَ گوَشت:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ہارونءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اِشاںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:56.282932493Z",
+  "model": "glm-5.3"
+}

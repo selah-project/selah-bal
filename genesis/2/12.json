@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آ زمینءِ زر چنگ اِنت — اودا بدولچ ءُ شوهamءِ سنگ ⟨ہست⟩۔",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ءُ زر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "הבדלچ",
+      "gloss": "بدولچ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ءُ سنگ"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "شوهamءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:08.447761875Z",
+  "model": "glm-5.3"
+}

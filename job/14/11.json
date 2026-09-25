@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "آپان چہ دریا رونت ءُ روچاں خشک بیت ءُ وشن بیت۔",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "رونت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "מני",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ءُ روچاں"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "خشک بیت"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ءُ وشن بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:42.835272019Z",
+  "model": "glm-5.3"
+}

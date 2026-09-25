@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 58,
+  "translation": "چوش کہ شبلول روان بوت گوں وتی چسک ءُ روت، جنکءِ نپلءِ چوش — روچ نہ گندیت۔",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "شبلول"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "روان بوت"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "نپل"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "جنکءِ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:58.852663450Z",
+  "model": "glm-5.3"
+}

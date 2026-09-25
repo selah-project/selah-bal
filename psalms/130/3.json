@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 130,
+  "translation": "اگر گناہانءِ حساب گپتنت اے یاہ، اے ادونای، کے ایستہ بیت؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "گناہانءِ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "حساب گپتنت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "اے یاہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יעمד",
+      "gloss": "ایستہ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:19.803528805Z",
+  "model": "glm-5.3"
+}

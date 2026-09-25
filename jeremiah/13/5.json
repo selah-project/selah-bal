@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ من روت ءُ آیءَ پھراتءَ پنہ کت، چوش کہ یاہوہءَ منءَ حکم کت ⟨את⟩ منءَ۔",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "ءُ من روت"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "ءُ آیءَ پنہ کت"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "پھراتءَ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ منءَ",
+      "marks": "منءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:26.928414538Z",
+  "model": "glm-5.3"
+}

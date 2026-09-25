@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "پِتءِ زالءِ برہنائی کھول نہ کن؛ آ پِتءِ برہنائی اِنت۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برہنائی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زالءِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پِتءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھول کن"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برہنائی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پِتءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:18:50.000417024Z",
+  "model": "glm-5.3"
+}

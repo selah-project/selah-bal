@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "وتۓ پیغمبر بے ثبات اَنت، خیانتءِ مردمان؛ وتۓ کاہنان پاکئیءَ نجس کت، تورا ءَ زلم کت.",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "وتۓ پیغمبر"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "بے ثبات"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "خیانتءِ"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "وتۓ کاہنان"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "نجس کت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاکئیءَ"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "زلم کت"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورا ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:42.483649595Z",
+  "model": "glm-5.3"
+}

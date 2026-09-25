@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ بیت اُدروچءَ یک مروڑی یک گوانی مالءِ ءُ دو مہ زندہ گندیت",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُد"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "زندہ گندیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مروڑی"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "یک گوانی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مالءِ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:22:53.289236260Z",
+  "model": "glm-5.3"
+}

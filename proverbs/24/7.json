@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "پہ نادانءَ پہ بلندیں دانش اِنت؛ دروازگاہءَ آییءِ منہ نہ کوشیت۔",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "بلندیں"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "پہ نادانءَ"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازگاہءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "کوشیت"
+    },
+    {
+      "surface": "پיהو",
+      "gloss": "آییءِ منہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:17.776679391Z",
+  "model": "glm-5.3"
+}

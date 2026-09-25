@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ اے گال گناهءَ بوت، ءُ قوم یکےءِ پیشءَ روت، سنگت دانءَ۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے گال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناهءَ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "روت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکےءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "سنگت"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:01:32.110360950Z",
+  "model": "glm-5.3"
+}

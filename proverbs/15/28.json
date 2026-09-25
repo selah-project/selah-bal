@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 15:28",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "راستیں دل جوابءِ پہ سوچیت، ءُ بدکارانی منہ گندیں چیزان اُچیت۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستیں"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "سوچیت"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "جوابءِ پہ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ءُ منہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "اُچیت"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "گندیں چیزان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:51.248718662Z",
+  "model": "glm-5.3"
+}

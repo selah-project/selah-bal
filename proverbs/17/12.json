@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "رند ⟨اِنت⟩ کہ مردءَ زہگ کوشتگیں رچھ دراوشیت، نہ کہ نادانءَ وتی نادانیءَ تہ.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "دراوشیت"
+    },
+    {
+      "surface": "דב",
+      "gloss": "رچھ"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "زہگ کوشتگیں"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "مردءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "وتی نادانیءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:20.557132166Z",
+  "model": "glm-5.3"
+}

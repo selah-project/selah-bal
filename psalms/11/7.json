@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "کیہ کہ یاہوہ راست اِنت، راستیءَ دلپسند اِنت؛ رست لوگ آییءِ رخ گندنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دلپسند اِنت"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "رست لوگ"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "گندنت"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "آییءِ رخ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:51.610766672Z",
+  "model": "glm-5.3"
+}

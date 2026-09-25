@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 64,
+  "translation": "پہ رہنما، یک سرود، داودءِ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہنما"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:47.407341945Z",
+  "model": "glm-5.3"
+}

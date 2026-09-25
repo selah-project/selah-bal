@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 24:28",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "بے سببءَ پہ وتءِ ہمسایہءَ گواہ نہ بیت، ءُ وتءِ ہونٹاناں فریب نہ دیت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے سببءَ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "پہ وتءِ ہمسایہءَ"
+    },
+    {
+      "surface": "והפתית",
+      "gloss": "ءُ فریب دیت"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "وتءِ ہونٹاناں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:31.343029687Z",
+  "model": "glm-5.3"
+}

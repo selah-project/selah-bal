@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ ہ کروبانانءَ گوَندیتگ کہ زمینءِ انسانی دستءِ شکل اِشانی پرانی تلءَ۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گوَندیتگ"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "ہ کروبانانءَ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "اِشانی پرانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:11:08.266214457Z",
+  "model": "glm-5.3"
+}

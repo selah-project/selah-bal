@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "ءُ گوَشتیت: چونگہ ایل زانیت؟ ءُ ماں علیونءَ دانیستگی ہست؟",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ءُ گوَشتیت"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "چونگہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ءُ ہست"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "دانیستگی"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "ماں علیونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:12.729091836Z",
+  "model": "glm-5.3"
+}

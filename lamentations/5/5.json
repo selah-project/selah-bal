@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ماں چوکءِ سرءَ پسا گپتگ بوت، مانگ بوتوں — آرام ما ءُ نہ دات بیت.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "ماں چوک"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "پسا گپتگ بوت"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "مانگ بوتوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "دات بیت ⟨آرام⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ما ءُ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:36.038443851Z",
+  "model": "glm-5.3"
+}

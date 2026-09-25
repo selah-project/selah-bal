@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 148,
+  "translation": "تعریف کننت ⟨את⟩ یاہوہءِ نامءَ، چی کہ آءَ حکم کت ءُ ⟨آے⟩ جوڑ بوتنت.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "تعریف کننت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءِ نامءَ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چی کہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "ءُ جوڑ بوتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:40.373212992Z",
+  "model": "glm-5.3"
+}

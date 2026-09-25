@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ تو پنجاه قلابءِ زری کن ءُ ⟨את⟩ پردہان یکے گوں یکے گوں قلابان جوڑ کن؛ ءُ بیت مشکان یک.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ تو کن"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "قلاب"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "ءُ تو جوڑ کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردہان"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردہان"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "گوں قلابان"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مِشکان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:11.783727270Z",
+  "model": "glm-5.3"
+}

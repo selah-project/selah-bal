@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "دو سد مادین بز ءُ بیست نر بز، دو سد میش ءُ بیست قوچ،",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "مادین بز"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سد"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "ءُ بیست نر بز"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "میش"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سد"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "ءُ قوچ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    }
+  ],
+  "timestamp": "2026-09-24T18:38:55.956701955Z",
+  "model": "glm-5.3"
+}

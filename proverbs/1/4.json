@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "پہ داتگءِ سادہءِ دگا شعور، پہ نوجوانءَ دانش ءُ ٹھیک فیصلہءِ ہوش —",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "پہ داتگءِ"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "سادہءِ دگا"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "شعور"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "پہ نوجوانءَ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "ءُ ٹھیک فیصلہءِ ہوش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:39.006499504Z",
+  "model": "glm-5.3"
+}

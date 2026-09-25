@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ بنی‌ئے اسرائیل وتانءِ سجاوٹ ⟨את⟩ چہ کوہِ حوریبءَ لہ کت.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ءُ لہ کت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتانءِ سجاوٹ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "وتانءِ سجاوٹ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "چہ کوہ"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "حوریب"
+    }
+  ],
+  "timestamp": "2026-09-24T19:07:17.522943988Z",
+  "model": "glm-5.3"
+}

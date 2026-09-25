@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ شٹیمی دارءِ چوبانی لاٹان جوڑ کت ءُ ⟨את⟩ آیانءَ زرءَ چا چڑاوت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "لاٹان"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چوبانی"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شٹیمی"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "چڑاوت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "لاٹان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:38.618174762Z",
+  "model": "glm-5.3"
+}

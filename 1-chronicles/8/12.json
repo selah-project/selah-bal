@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ اِلپعلءِ زاگ اَنت: عِبیر ءُ مِشعام ءُ شامِد — آءُ ⟨את⟩ اونو ءُ ⟨את⟩ لود ءُ آییءِ دہاتان جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زاگ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "اِلپعل"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِبیر"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ءُ مِشعام"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "ءُ شامِد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اونو"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "اونو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "لود"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ءُ آییءِ دہاتان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:03.835536682Z",
+  "model": "glm-5.3"
+}

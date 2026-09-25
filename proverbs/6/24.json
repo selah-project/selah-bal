@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "پہ اے کہ آ تُئَ پالیت چہ بد زنائے، ءُ چہ بیگانہءِ چپتر زبانءَ.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "پہ اے کہ آ تُئَ پالیت"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "چہ زنائے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "چہ چپتری"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بیگانہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:22.802832655Z",
+  "model": "glm-5.3"
+}

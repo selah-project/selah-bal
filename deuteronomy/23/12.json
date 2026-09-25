@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ چہ پہ چو شامءِ گرگ بیت، آ آپءَ دَہانت کنیت، ءُ چو روچءِ ڈب گنت، مہانءِ میانءَ داخل بیت.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "چُو...گرگ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شامءِ"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "دَہانت کنیت"
+    },
+    {
+      "surface": "במים",
+      "gloss": "آپءَ"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "ءُ چُو ڈب گنت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "داخل بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "مہانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:23.576939176Z",
+  "model": "glm-5.3"
+}

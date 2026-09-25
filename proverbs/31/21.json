@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "آیی وتی گدءِ بابت چہ برفءَ نہ ترسیت، پرچا کہ آییءِ پوری گد شنءِ لبزان ⟨اِنت⟩ لبیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ترسیت"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "وتی گدءِ بابت"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "چہ برفءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "گد"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "لبیت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "شنءِ لبزان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:57.350581058Z",
+  "model": "glm-5.3"
+}

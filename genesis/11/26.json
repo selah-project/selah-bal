@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ تارحءَ ہفتاد سال زندگی کت، ءُ آییءَ ⟨את⟩ آبرام ⟨את⟩ ناحور ءُ ⟨את⟩ هاران زائیت۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "زندگی کت"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارحءَ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ہفتاد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آبرامءَ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "آبرامءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحورءَ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحورءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "هارانءَ"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هارانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:26.865780144Z",
+  "model": "glm-5.3"
+}

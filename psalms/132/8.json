@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 132,
+  "translation": "اُٹھ، اے یاہوہ، پہ تُئے آرام گاہءَ، تو ءُ تُئے زورءِ صندوق۔",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "لמנוחתך",
+      "gloss": "پہ تُئے آرام گاہءَ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "ءُ صندوق"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "تُئے زور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:11.711846061Z",
+  "model": "glm-5.3"
+}

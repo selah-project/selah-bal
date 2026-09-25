@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "مَرد تہ بدکاریءَ ٹھیک نہ اِستنت، ءُ راستانیں مردمانی گوڑہ ہچ نہ لڑزیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ٹھیک اِستنت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مَرد"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "تہ بدکاریءَ"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ءُ گوڑہ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستانیں مردمانی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ہچ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "لڑزیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:39.332997271Z",
+  "model": "glm-5.3"
+}

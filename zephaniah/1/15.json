@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 1:15",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "غضبءِ روچ، آ روچ — تنگی ءُ مزدلیءِ روچ، ویرانی ءُ بربادیءِ روچ، تہاری ءُ کالیمیءِ روچ، بادل ءُ گوَنڈاریءِ روچ۔",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آ روچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "ומצוקה",
+      "gloss": "ءُ مزدلی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "ומשואה",
+      "gloss": "ءُ بربادی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تہاری"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ءُ کالیمی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ءُ گوَنڈاری"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:06.789926258Z",
+  "model": "glm-5.3"
+}

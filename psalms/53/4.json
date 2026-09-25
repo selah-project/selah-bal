@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 53,
+  "translation": "همہ پسگ روتنت، همیں شبانک ناپاک بوتنت؛ چاکیں کار کنوک نیست، ہچ یکے هم ⟨نیست⟩.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "همہ"
+    },
+    {
+      "surface": "סג",
+      "gloss": "پسگ روتنت"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "همیں شبانک"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ناپاک بوتنت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنوک"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکیں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکے هم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:33.736261837Z",
+  "model": "glm-5.3"
+}

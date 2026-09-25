@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "تیری چشم آییءَ ترس نہ کنت، ءُ تو پاکءِ رت چہ اِسرائیلءَ پاک کنیں، ءُ توءِ پہ چنگ بیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ترس کنت"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیری چشم"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ءُ پاک کنیں"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "پاکءِ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "چہ اِسرائیل"
+    },
+    {
+      "surface": "وטוב",
+      "gloss": "ءُ چنگ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:18.879294750Z",
+  "model": "glm-5.3"
+}

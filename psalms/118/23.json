@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "چہ ⟨את⟩ یاهوہءَ اے بوت؛ آ منءِ چشمانءَ تہ شگفت اِنت۔",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "چہ ⟨את⟩ یاهوہءَ",
+      "marks": "یاهوہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "شگفت"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "منءِ چشمانءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:59.250168180Z",
+  "model": "glm-5.3"
+}

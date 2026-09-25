@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 145,
+  "translation": "راست ⟨اِنت⟩ یاہوہ وتی ہمگ رہانءَ، ءُ ہیسید وتی ہمگ کارانءَ۔",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "وتی رہانءَ"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ءُ ہیسید"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "وتی کارانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:04.986002397Z",
+  "model": "glm-5.3"
+}

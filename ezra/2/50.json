@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اسناہ ءِ زہگان، مئونیم ءِ زہگان، نفیسیم ءِ زہگان،",
+  "tokens": [
+    {
+      "surface": "بני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "اسناہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "مئونیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "نفیسیم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:52.435818420Z",
+  "model": "glm-5.3"
+}

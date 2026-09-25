@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "رونت، مان ئے نانءَ خوار کنت ءُ ئے شرابءَ گشنت کہ من چمگ کتگءَ.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "رونت"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "خوار کنت"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "مان ئے نانءَ"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ءُ گشنت"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ئے شرابءَ"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "کہ من چمگ کتگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:27.348588147Z",
+  "model": "glm-5.3"
+}

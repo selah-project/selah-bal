@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اے اسرائیل غلام اِنت؟ اگر گدانی زہگ اِنت؟ چرا آ لٹاری بوتگ؟",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "گدانی زہگ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوتگ"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "لٹاری"
+    }
+  ],
+  "timestamp": "2026-09-24T21:42:18.028808500Z",
+  "model": "glm-5.3"
+}

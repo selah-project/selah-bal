@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "یاہوہءِ دستِ راست اُچّا ⟨اِنت⟩؛ یاہوہءِ دستِ راست بہادری کنت۔",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "دستِ راست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "اُچّا"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "دستِ راست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادری"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:21.506208959Z",
+  "model": "glm-5.3"
+}

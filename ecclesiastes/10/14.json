@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ نادان گالان گیش کنیت؛ آدمی نہ زانت چی بیت، ءُ چی آییءِ پشتءَ بیت، کِم آییءَ گوشیت؟",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "ءُ نادان"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "گیش کنیت"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ چی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "آییءِ پشتءَ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِم"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:23.208393286Z",
+  "model": "glm-5.3"
+}

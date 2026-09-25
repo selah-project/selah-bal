@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "دہمی دہمی کن ⟨את⟩ ہر چی تُءِ دانءِ حاصلءِ، کہ چہ میدانءَ درآئیت — سال پہ سال۔",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دہمی"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "دہمی کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر چی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر چی"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "حاصل"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تُءِ دانءِ"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "کہ چہ … درآئیت"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدانءَ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "پہ سال"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:46.075324440Z",
+  "model": "glm-5.3"
+}

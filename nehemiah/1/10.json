@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 1:10",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آ ⟨اِنت⟩ تُئی گل ءُ تُئی قوم، کہ تُی وتی زورءِ گیشءَ ءُ وتی دستءِ مزیںءَ پدا گرنتگ.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تُئی گل"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ءُ تُئی قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "پدا گرنتگ"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "تُئی زورءَ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ءُ تُئی دستءَ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "مزیں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:13:46.982111212Z",
+  "model": "glm-5.3"
+}

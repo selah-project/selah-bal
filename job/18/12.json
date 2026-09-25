@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 18:12",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "آییءِ زور سرشوت بیت، ءُ بلا آییءِ بغلءَ تیار بیت۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "سرشوت"
+    },
+    {
+      "surface": "אנו",
+      "gloss": "آییءِ زور"
+    },
+    {
+      "surface": "ואיד",
+      "gloss": "ءُ بلا"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "تیار"
+    },
+    {
+      "surface": "לצלעו",
+      "gloss": "آییءِ بغلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:31.471616724Z",
+  "model": "glm-5.3"
+}

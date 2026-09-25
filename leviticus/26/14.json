@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ اگر مے گالءَ نہ گوشیں، ءُ ⟨את⟩ اے پوریں حکم نہ کار کنیں —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשمעו",
+      "gloss": "گوشیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مے گالءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کار کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے پوریں حکم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:25:40.113649633Z",
+  "model": "glm-5.3"
+}

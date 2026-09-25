@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ اُوءِ بھائی ہیلَمءِ زہگان: سوفک ءُ یِمنع ءُ شیلش ءُ عمال.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ءُ …ءِ زہگان"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ہیلَم"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اُوءِ بھائی"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "سوفک"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "ءُ یِمنع"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ءُ شیلش"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ءُ عمال"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:22.087884290Z",
+  "model": "glm-5.3"
+}

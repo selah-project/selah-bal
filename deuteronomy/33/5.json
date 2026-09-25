@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ بوت چہ یِشورنءَ ملك، وہدے کہ قومانی سرۆکان یکڈّہ بنت، یِسرائیلءِ ٹولی یکڈّہ۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "یِشورنءَ تہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملک"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "یکڈّہ بوتگءَ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرۆکان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومءِ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکڈّہ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ٹولی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:23.202583923Z",
+  "model": "glm-5.3"
+}

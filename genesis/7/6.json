@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ نُوح شش سد سالءِ زہگ اَت، ءُ طوفانءِ آپان زمینءِ سرءَ اَنت۔",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ءُ نُوح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ءُ طوفان"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:27.808218059Z",
+  "model": "glm-5.3"
+}

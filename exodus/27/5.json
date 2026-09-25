@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ ⟨את⟩ آیءَ تہ قربانگاہءِ کنارءِ بونءَ دیت، ءُ جال بیت تا قربانگاہءِ نیمگءَ۔",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ءُ دیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آیءَ",
+      "marks": "آیءَ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "کنار"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہءِ"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "بونءَ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "جال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیمگ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:41.109958433Z",
+  "model": "glm-5.3"
+}

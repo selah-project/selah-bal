@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "روت ⟨את⟩ حکیمانءَ گوں ءُ حکیم بیت، ءُ کم عقلانیں ہمدم شر زہگ بیت۔",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکیمان"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حکیمان"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ءُ حکیم بیت"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ءُ ہمدم"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "کم عقلانیں"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "شر زہگ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:20.226112593Z",
+  "model": "glm-5.3"
+}

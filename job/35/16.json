@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 35:16",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ ایوب وتی زبان بے سودگئیں کشیت؛ بے زانگ لبزان گیش کنیت۔",
+  "tokens": [
+    {
+      "surface": "ואיוב",
+      "gloss": "ءُ ایوب"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بے سودگئیں"
+    },
+    {
+      "surface": "יפצה",
+      "gloss": "کشیت"
+    },
+    {
+      "surface": "פיהو",
+      "gloss": "وتی زبان"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانگ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "لبزان"
+    },
+    {
+      "surface": "יכבר",
+      "gloss": "گیش کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:43:07.050403054Z",
+  "model": "glm-5.3"
+}

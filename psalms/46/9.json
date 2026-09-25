@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "روء، یاہوہءِ کاران گندیت، آیی کہ زمینءَ تباهیاں کتگان۔",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "روء"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "کاران"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آیی کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "کتگان"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "تباهیاں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:32.492433549Z",
+  "model": "glm-5.3"
+}

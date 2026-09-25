@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ٹولیءِ زبلون، ءُ زبلونئیں زہگانءِ سردار ایلیاب، حیلونءِ زہگ، اِنت.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "ٹولیءِ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبلون"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ءُ سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زہگانءِ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبلون"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ایلیاب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "حیلون"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:29.093415656Z",
+  "model": "glm-5.3"
+}

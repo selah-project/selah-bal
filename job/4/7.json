@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 4:7",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "یاد کن اِشاں، کے ⟨اے⟩ بےگناه هلاک بوت؟ ءُ کجا راستان مک بوتگ؟",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اِشاں"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اے⟩"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بےگناه"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "هلاک بوت"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ءُ کجا"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "راستان"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "مک بوتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:33.200881131Z",
+  "model": "glm-5.3"
+}

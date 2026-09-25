@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "چون آراں نے چہ تئے شرءِ مشورت کتءَ، اپفرایم ءُ رملیاہءِ زہگ، آ کہ گوَنت:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "چون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "مشورت کتءَ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "چہ تئے"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آراں نے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرءِ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپفرایم"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "رملیاہءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ گوَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:22:11.746876266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ من یروشلمءَ آتُم تُ اُتا سئے روچ اَتُم۔",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ءُ من آتُم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلمءَ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ءُ اَتُم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:15:14.803787614Z",
+  "model": "glm-5.3"
+}

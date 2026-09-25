@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "مِراریءِ زہگان مَحلی ءُ موشی اَنت؛ مَحلیءِ زہگان اِلعازر ءُ قیش اَنت۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراریءِ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحلی"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "ءُ موشی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "مחלי",
+      "gloss": "مَحلیءِ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازر"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ءُ قیش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:35.049458687Z",
+  "model": "glm-5.3"
+}

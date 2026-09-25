@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "یک رند مان مئں پاکیءَ سوگند کت کہ مان داودءَ دروغ نہ گنت.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "یک رند"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "مان سوگند کت"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "مئں پاکیءَ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "دروغ نہ گنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:00.893126376Z",
+  "model": "glm-5.3"
+}

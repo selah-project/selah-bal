@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ رعایاہ، شوبالءِ زہگ، یاحتءَ زائیت؛ ءُ یاحت احومایءَ ⟨את⟩ زائیت ءُ ⟨את⟩ لہادءَ۔ اے صراعتیانی خیلان اَنت.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "ءُ رعایاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوبالءِ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاحت"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاحت"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "ءُ یاحت"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "احومای"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "احومایءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "لہاد"
+    },
+    {
+      "surface": "להד",
+      "gloss": "لہادءَ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خیلان"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "صراعتیانی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:28.575616355Z",
+  "model": "glm-5.3"
+}

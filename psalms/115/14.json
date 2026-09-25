@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 115,
+  "translation": "یاہوہ تہ ءُ زائد کنت، تہ ءُ تہءِ زہگانءَ.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "زائد کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ءُ تہ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ تہ"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "زہگانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:51.927022202Z",
+  "model": "glm-5.3"
+}

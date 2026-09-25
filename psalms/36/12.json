@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "تکبرءِ پا مئے سرے نہ اَت، ءُ زالمانی دست مئے جتا نہ کنت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "مئے سرے اَت"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "تکبرءِ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ءُ دست"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "زالمانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנדנی",
+      "gloss": "مئے جتا نہ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:27.782106214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 33:1",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ یاہوہءِ گال یرمیاہوءَ دومی رند اوشت، ءُ آ ہنو ماں پہرئیں ہتراءَ بند اَت، گوں گپ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اوشت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دومی رند"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ہنو"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "بند"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ماں ہتراءَ"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "پہرئیں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوں گپ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:58:58.787939010Z",
+  "model": "glm-5.3"
+}

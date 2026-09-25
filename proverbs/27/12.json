@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ہوشیار بادی گندی‌ئے ءُ ⟨خودءَ⟩ پنات؛ سادہ لوک پار بنت ءُ سزا گیٹنت۔",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ہوشیار"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بادی"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "پنات"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "سادہ لوک"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "پار بنت"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "سزا گیٹنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:39.570353980Z",
+  "model": "glm-5.3"
+}

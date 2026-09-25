@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "آیا پہ ہمیشہ ادونای اِشکانت؟ ءُ نہ ہور دیت پہ خوش بوتگ دگہ؟",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "آیا پہ ہمیشہ"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "اِشکانت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ہور دیت"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "پہ خوش بوتگ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:29.494344493Z",
+  "model": "glm-5.3"
+}

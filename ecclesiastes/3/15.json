@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آ کہ بوت ⟨اِنت⟩ چہ پیشءَ؛ ءُ آ کہ بیت چہ پیشءَ بوتگ اِنت؛ ءُ ایلوہیم ⟨את⟩ گندگ بوتگیں لبلیت۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "کہ بوت"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "چہ پیشءَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ آ کہ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "چہ پیشءَ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ءُ ایلوہیم"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "لبلیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گندگ بوتگیں"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "گندگ بوتگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:21.492155342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "یاہوہءِ آواز بیابانءَ لرزش دیت؛ یاہوہءَ قادشءِ بیابانءَ لرزش دیت۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "لرزش دیت"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "لرزش دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:43.750941784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "وتی ہمسایہءِ پشتءَ بُرائی منصوبہ نہ کن، اے وھدے کہ آ گوں تہ ⟨את⟩ امانءَ نشتہ اِنت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "منصوبہ کن"
+    },
+    {
+      "surface": "על",
+      "gloss": "پشتءَ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "وتی ہمسایہءِ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "نشتہ اِنت"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "امانءَ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ گوں تہ",
+      "marks": "تہ گوں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:59.982024507Z",
+  "model": "glm-5.3"
+}

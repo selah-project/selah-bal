@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 72,
+  "translation": "مک بنت داودءِ نمازاں، یِشایءِ زہگءِ.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "مک بنت"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "نمازاں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "یשי",
+      "gloss": "یِشایءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:25.160942669Z",
+  "model": "glm-5.3"
+}

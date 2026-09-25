@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "آءَءَ یک نوکیں سرود ونت؛ چنگ چاہءَ ونجنت ترانیں بانگءَ گوں.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "سرود ونت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءَءَ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوکیں"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "چاہءَ ونجنت"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ترانیں بانگءَ گوں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:08.708778333Z",
+  "model": "glm-5.3"
+}

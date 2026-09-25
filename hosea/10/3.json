@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "کیہ انگت اِشاں گوَشنت: ماہءَ شاہ نیست، کیہ ما یاہوہءَ ⟨את⟩ نہ ترسایت؛ ءُ شاہ ماہءَ پہ چی کریت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "انگت"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "گوَشنت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ هست"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماہءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "یראנו",
+      "gloss": "ترسایت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ءُ شاہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:32:53.649174257Z",
+  "model": "glm-5.3"
+}

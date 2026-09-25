@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 5:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ چرا، اے مہءِ زہگ، گم بیت گوں بیگانہ جنک، ءُ آغوش کن بیگانہءِ سینہءَ؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ءُ چرا"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "گم بیت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اے مہءِ زہگ"
+    },
+    {
+      "surface": "בזרה",
+      "gloss": "گوں بیگانہ جنک"
+    },
+    {
+      "surface": "ותחבק",
+      "gloss": "ءُ آغوش کن"
+    },
+    {
+      "surface": "חק",
+      "gloss": "سینہ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بیگانہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:57.818352898Z",
+  "model": "glm-5.3"
+}

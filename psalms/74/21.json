@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "نہ بیت کہ دچک پدا شرمناک ببیت؛ اِنت کہ غریب ءُ مستکوت تُءِ نامءَ برز کننت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "پدا لوت"
+    },
+    {
+      "surface": "דך",
+      "gloss": "دچک"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "شرمناک ببیت"
+    },
+    {
+      "surface": "عני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ءُ مستکوت"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "برز کننت"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تُءِ نامءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:18.623507162Z",
+  "model": "glm-5.3"
+}

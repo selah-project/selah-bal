@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "کہ بدکار زن ⟨اِنت⟩ یک ژیرین گودل، ءُ بیگانہ زن ⟨اِنت⟩ یک تنگ کُہز۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "گودل"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ژیرین"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "بدکار زن"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ءُ کُہز"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بیگانہ زن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:55.113777553Z",
+  "model": "glm-5.3"
+}

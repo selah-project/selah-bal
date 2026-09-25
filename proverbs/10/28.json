@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "راست‌شارانِ انتظار شادئی ⟨اِنت⟩ ءُ بدکارانی امید لہت بیت۔",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "انتظار"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راست‌شارانِ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادئی"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "ءُ امید"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "תאבد",
+      "gloss": "لہت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:48.789465732Z",
+  "model": "glm-5.3"
+}

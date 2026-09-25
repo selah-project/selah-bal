@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 16:31",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ آ بوت چوش کہ آیی ءُ اے سچگ گپانءَ ⟨את⟩ گنٹ، زمین کہ ایشانی دمءَ اشت زچ بیت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "چوش کہ آیی گنٹ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "سچگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "همه اے گپان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گپان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "ءُ زچ بیت"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "ایشانی دمءَ اشت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:37:12.982197878Z",
+  "model": "glm-5.3"
+}

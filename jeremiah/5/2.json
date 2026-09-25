@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اگر گوشنت «یاہوہ زہ اِنت»، راستی چہ دروغءَ قسم وارتنت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "چہ دروغءَ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "قسم وارتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:46:18.957381923Z",
+  "model": "glm-5.3"
+}

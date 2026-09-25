@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اے اَنت قومان کہ یاہوہءَ چم ڈت پہ اے کہ آیانی تہ ⟨את⟩ یسرائلءَ آزمیت — ⟨את⟩ گش کہ نہ زانتنت ⟨את⟩ گش کنعانءِ جنگان۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "הגויים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "چم ڈت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "پہ آزمیتگ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "آیانی تہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یسرائل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائلءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "زانتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "جنگان"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:15:17.952088568Z",
+  "model": "glm-5.3"
+}

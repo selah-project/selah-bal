@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ شاہءِ غلاماں کہ شاہءِ دروازہءَ اِنتنت گوَشتنت پہ مرتختی: چر تا شاہءِ حکم ⟨את⟩ شکنیت؟",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ءُ گوَشتنت"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "غلامان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازہءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "پہ مرتختی"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "چر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "شکنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکم"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:45.514794219Z",
+  "model": "glm-5.3"
+}

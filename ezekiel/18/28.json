@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 18:28",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "کیا آییءَ گندیت ءُ چہ تمامی وتی سرکشیان کہ کتگ درگت بیت — زندگ بیت، مریت نہ.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "וישוב",
+      "gloss": "ءُ درگت بیت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ تمامی"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "وتی سرکشیان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کتگ"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "زندگ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مریت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:15:11.681797995Z",
+  "model": "glm-5.3"
+}

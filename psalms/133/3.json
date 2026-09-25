@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 133,
+  "translation": "چوش حرمونءِ شپ، کہ صیونءِ کوهانيءَ ڈنت — پرچا کہ اودا یاہوہءَ ⟨את⟩ برکتءِ حکم دت، زندگی، ساریں وہتءَ تان۔",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "چوش شپ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حرمون"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "کہ ڈنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "کوهان"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برکت"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تان"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ساریں وہت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:22.056801435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اَستَر گوَشت: اگر شاہءَ چنگ مانیت، شا ءُ ہامان اے روچ پہ آ میہمانیءَ آینت کہ من آءِ پہ جوڑ کتگ۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اَستَر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءَ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ مانیت"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آینت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شا"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ءُ ہامان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے روچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "میہمانیءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "من جوڑ کتگ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:26.652699981Z",
+  "model": "glm-5.3"
+}

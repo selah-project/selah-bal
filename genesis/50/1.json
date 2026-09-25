@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "ءُ یوسف پہ وتی پِتءِ دیمءَ ڈگت، ءُ آییءِ پشتءَ روئیت، ءُ آییءَ چُمبت۔",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ءُ ڈگت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دیمءَ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "وتی پِت"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ءُ روئیت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءِ پشتءَ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ءُ چُمبت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:50:37.360834456Z",
+  "model": "glm-5.3"
+}

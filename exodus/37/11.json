@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ آییءَ ⟨אתו⟩ زرءِ پاکءَ چمِش کت ءُ آییءَ پہ یک زرءِ گڈ ہر دیمءَ جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ءُ آییءَ چمِش کت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "میزءَ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرءِ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکءَ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ آییءَ جوڑ کت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "گڈ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرءِ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ہر دیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:24.109843769Z",
+  "model": "glm-5.3"
+}

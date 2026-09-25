@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ داود وتی پدرانی گوں شپ کت ءُ داودءِ شہرءَ دفن بوت۔",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ءُ شپ کت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "وتی پدرانِ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ءُ دفن بوت"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہرءَ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:53:29.404380204Z",
+  "model": "glm-5.3"
+}

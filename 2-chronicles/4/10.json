@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ ⟨את⟩ سمندرءَ ناگشت چہ راست کتہءَ، روچ کپءَ، نیمروزءِ روبری.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "سمندر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندرءَ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناگشت"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "چہ کتہءَ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "راست"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "روچ کپءَ"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "روبری"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "نیمروز"
+    }
+  ],
+  "timestamp": "2026-09-25T01:15:12.315953257Z",
+  "model": "glm-5.3"
+}

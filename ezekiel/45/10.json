@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "راستیں ترازو، ءُ راستیں ایفاہ، ءُ راستیں بَت — تُماںءَ بِت۔",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ترازو"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستیں"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "ءُ ایفاہ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستیں"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "ءُ بَت"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستیں"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بِت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُماںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:27:22.030437864Z",
+  "model": "glm-5.3"
+}

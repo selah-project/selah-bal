@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "من نزدیک بوتم کہ تہ ہر بدی ماں بیت، تہ جمع ءُ مجلسءِ میان۔",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "نزدیک کہ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بوتم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "تہ …ءِ میان"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جمع"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ءُ مجلس"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:35.056667624Z",
+  "model": "glm-5.3"
+}

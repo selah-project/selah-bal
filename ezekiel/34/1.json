@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ یاہوہءِ گال منیءَ اَت کہ گوَشت —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منیءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:22:40.389025408Z",
+  "model": "glm-5.3"
+}

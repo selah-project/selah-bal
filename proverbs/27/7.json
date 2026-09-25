@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "جان سیر شیرےءَ تروڑیت، ءُ جان بھوکا ہر کَڑکی چیز شیریں مانیت۔",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سیر"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "تروڑیت"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "شیرے"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ءُ جان"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "بھوکا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מר",
+      "gloss": "کَڑکی"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "شیریں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:25.944024273Z",
+  "model": "glm-5.3"
+}

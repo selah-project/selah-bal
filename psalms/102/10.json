@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "کیہ خاکستر چوش نان مَن تہ کت، ءُ منی شربت گوں گریان رلوت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "خاکستر"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "چوش نان"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "مَن تہ کت"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ءُ منی شربت"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "گوں گریان"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "رلوت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:39.390193174Z",
+  "model": "glm-5.3"
+}

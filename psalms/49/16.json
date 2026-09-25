@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "بلے ایلوہیم مانیءِ جانؑ چہ شیئولءِ دستءَ رہائی دیت، کیہ آءَ گپت. سِلاہ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "رہائی دیت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "مانیءِ جانؑ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "چہ … دستءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیئولءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "آءَ گپت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:50.604741257Z",
+  "model": "glm-5.3"
+}

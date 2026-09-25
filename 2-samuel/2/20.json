@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ اَبنیر وتی پشتا واڑیت ءُ گوَشت: تو ئے اَساہیل؟ ءُ آیی گوَشت: من اَں۔",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ءُ واڑیت"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبنیر"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "وتی پشتا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئے"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "اَساہیل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من اَں"
+    }
+  ],
+  "timestamp": "2026-09-24T20:41:13.339970672Z",
+  "model": "glm-5.3"
+}

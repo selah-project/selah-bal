@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ ⟨את⟩ شارءِ میدان ءُ ⟨את⟩ آییءِ دہات داتنت پہ کالب، زہگءِ یفنہ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شارءِ میدان"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارءِ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ دہات"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "آییءِ دہات"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "داتنت"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "پہ کالب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگءِ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یفنہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:10.467940888Z",
+  "model": "glm-5.3"
+}

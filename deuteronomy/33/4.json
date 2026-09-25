@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "تورا پہ ما موشہءَ حکم دات — یعقوبءِ جمعیتءِ ورثت۔",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دات"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "پہ ما"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ورثت"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "جمعیتءِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:17.117327203Z",
+  "model": "glm-5.3"
+}

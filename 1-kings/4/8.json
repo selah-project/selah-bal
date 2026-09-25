@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ اے اِشانی نام اِنت: بِن-حور، اِفرایِمءِ کڈءِ تہ۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کڈءِ تہ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایِمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:53:48.794931685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 64,
+  "translation": "بلے ایلوہیم اِشاںءَ یک تیر گوں یکدم گرنت؛ یکدم اِشاںی زخمان بنت۔",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "بلے … گرنت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "یک تیر"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "گوں یکدم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "اِشاںی زخمان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:49.286383971Z",
+  "model": "glm-5.3"
+}

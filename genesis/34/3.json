@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ آییءِ جان دیناءَ، یاکوبءِ جنکءَ، چسپیت؛ ءُ آیی ⟨את⟩ جنکءَ محبت کت ءُ جنکءِ دلءَ گوں آییءَ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "چسپیت"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "آییءِ جان"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "دیناءَ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "یעקב",
+      "gloss": "یاکوبءِ"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "محبت کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جنکءَ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "جنکءَ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءِ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "جنکءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:09.680345172Z",
+  "model": "glm-5.3"
+}

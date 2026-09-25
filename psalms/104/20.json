@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "تو تاریکی دَر دیت ءُ شپ بیت؛ آءِ تہ جنگلءِ تمام جانور کشوک کننت.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "تو دَر دیت"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آءِ تہ"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "کشوک کننت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:09.316408670Z",
+  "model": "glm-5.3"
+}

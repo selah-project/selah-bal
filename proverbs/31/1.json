@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "لیموہ شاہءِ گالان — یک بار کہ آییءِ ماںءَ آییءَ ڈنہ کت۔",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "لیموہءِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "مשא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ڈنہ کت"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "آییءِ ماںءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:21.339277853Z",
+  "model": "glm-5.3"
+}

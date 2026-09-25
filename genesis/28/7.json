@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ کہ یعقوبءَ وتی پیتءَ ءُ وتی ماںءَ گوشیت ءُ روت پدن ارمءَ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "وتی پیتءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "وتی ماںءَ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "پدن"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:24.274461816Z",
+  "model": "glm-5.3"
+}

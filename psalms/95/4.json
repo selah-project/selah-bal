@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 95,
+  "translation": "آ کہ زمینءِ ژیرانی آییءِ دستءَ اَنت، ءُ کوئیانی بلندیان هم آییءَ اَنت",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "آییءِ دستءَ"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ژیرانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "ءُ بلندیان"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوئیانی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:17.260402320Z",
+  "model": "glm-5.3"
+}

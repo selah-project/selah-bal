@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "اے توراہ اِنت ⟨او⟩ کہ آییءَ کوڑھءِ نگاہ اِنت، ⟨او⟩ کہ آییءِ دست پاکیءَ نہ رسیت۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نگاہ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "کوڑھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "رسیت"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دست"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "پاکیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:18.046912778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 57,
+  "translation": "اُٹھ، منی شانءَ، اُٹھ منی ہارپ ءُ منی بربط — من سپہءَ اُٹھیسیں.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "منی شانءَ"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "منی ہارپ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ءُ منی بربط"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "من اُٹھیسیں"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سپہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:38.582920437Z",
+  "model": "glm-5.3"
+}

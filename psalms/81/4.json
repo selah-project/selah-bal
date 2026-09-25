@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 81,
+  "translation": "شوفارءَ پہ تازہ ماہءَ ونیں، پوریں ماہءَ، وتئی عیدءِ روچءَ.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "ونیں"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "پہ تازہ ماہءَ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "پوریں ماہءَ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "وتئی عیدءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:40.748134020Z",
+  "model": "glm-5.3"
+}

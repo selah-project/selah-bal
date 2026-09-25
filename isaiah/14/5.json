@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "یاہوہءَ بدکارانی عصا ءُ حاکمانی چوب شکست کت.",
+  "tokens": [
+    {
+      "surface": "שָׁבַר",
+      "gloss": "شکست کت"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "מַטֵּה",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "שֵׁבֶט",
+      "gloss": "چوب"
+    },
+    {
+      "surface": "מֹשְׁלִים",
+      "gloss": "حاکمانی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:56.017304752Z",
+  "model": "glm-5.3"
+}

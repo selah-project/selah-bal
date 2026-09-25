@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "مشالانی شَلومہ ⟨موسیٰ نہ — شَلومہ⟩ زہگِ داود، مِتسرایِ شاہ، ءُ یسرائیلءِ شاہ —",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "مشالانی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شَلومہءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:39.005977467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "چوش کہ یاہوہءَ موشہءَ ⟨את⟩ حکم کت، شا کنتگ تسلوفچادءِ جنکان۔",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "شا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کنتگ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "جنکانِ"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "تسلوفچاد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:51.873137554Z",
+  "model": "glm-5.3"
+}

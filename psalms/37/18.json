@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "یاہوہءَ پورینانی روزان زانتگ ءُ اشتانی ورثت پہ ہمیش بیت۔",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "زانتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روزان"
+    },
+    {
+      "surface": "תמימים",
+      "gloss": "پورینانی"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "ءُ اشتانی ورثت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیش"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:49.255340012Z",
+  "model": "glm-5.3"
+}

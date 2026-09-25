@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 114,
+  "translation": "ڈنگر گندیت ءُ بیزار بوت؛ جُردان پسو روت؛",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ڈنگر"
+    },
+    {
+      "surface": "رאה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ءُ بیزار بوت"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "جُردان"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "روت \/ بگردیت"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "پسو"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:31.730614867Z",
+  "model": "glm-5.3"
+}

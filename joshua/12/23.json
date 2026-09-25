@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "دورءِ بادشاہ، دورءِ نافتءَ، یک؛ گویمءِ بادشاہ، گلگلءِ، یک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دورءِ"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "نافتءَ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دورءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گویمءِ"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "گلگلءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:13.067212409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "من شتیں کت ءُ دیر نہ کت کہ تُءِ حکمان پالانیں۔",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "شتیں کت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "دیر نہ کت"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "پہ پالانیں"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تُءِ حکمان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:47.300455580Z",
+  "model": "glm-5.3"
+}

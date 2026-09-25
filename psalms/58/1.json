@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 58,
+  "translation": "پہ پیشوا، ⟨تُہ نہ پروش⟩، داودءِ پہ، یک مکتام۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "پروش"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ پہ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "مکتام"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:36.342315428Z",
+  "model": "glm-5.3"
+}

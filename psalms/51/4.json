@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "گیش دھو مکن منءَ چہ منی گناہ، ءُ چہ منی چُک پاک کن منءَ۔",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "کבסני",
+      "gloss": "دھو مکن منءَ"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "چہ منی گناہ"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "ءُ چہ منی چُک"
+    },
+    {
+      "surface": "טהרנی",
+      "gloss": "پاک کن منءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:09.715710524Z",
+  "model": "glm-5.3"
+}

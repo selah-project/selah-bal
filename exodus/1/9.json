@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آ وتی قومءَ گوَشت: دیڑہ، اسرائیلءِ زہگانی قوم گیش ءُ زوراور اِنت چہ ما ءُ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ قوم"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیڑہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "بני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ءُ زوراور"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ ما"
+    }
+  ],
+  "timestamp": "2026-09-25T00:50:21.964053647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ اے تُہءَ چہ یاہوہءَ نشانی ⟨اِنت⟩، کہ یاہوہ ⟨את⟩ اے گال کنیت، اے کہ گوَشت.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "האות",
+      "gloss": "نشانی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "چہ ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گال"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:01:23.399981147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "گوَشتنت اے اہرونءِ گد، کہ پہ ہمیشہ آییءِ ہیسد ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "گوَشتنت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گد"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہیسد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:17.018548675Z",
+  "model": "glm-5.3"
+}

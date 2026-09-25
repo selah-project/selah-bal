@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "کھوکی تہ تختان ⟨את⟩ آیءَ کن؛ چوش کہ تہ کۏہءَ ⟨את⟩ تُک دیستک بوت، اشیں کننت۔",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "کھوکی"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "تہ تختان"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آیءَ",
+      "marks": "آیءَ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "دیستک بوت"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تُک",
+      "marks": "تُک"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "تہ کۏہءَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اشیں"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "کننت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:41.110548154Z",
+  "model": "glm-5.3"
+}

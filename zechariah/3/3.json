@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ یہوشوع گندار جنامان پوشیتگ اَت ءُ فرشتہءِ پیشءَ اِستا.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "ءُ یہوشوع"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "پوشیتگ اَت"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "جنامان"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "گندار"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ءُ اِستا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:29.063880990Z",
+  "model": "glm-5.3"
+}

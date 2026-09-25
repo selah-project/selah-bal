@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ ابراہیم پلشتانی ءُ زمینءَ گیش روچان مہمان بوت۔",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "ءُ مہمان بوت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراہیم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتانی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T18:31:35.070711133Z",
+  "model": "glm-5.3"
+}

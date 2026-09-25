@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "تربیتءَ وتى دلءَ در آورت، ءُ دانیءِ لبزاں وتى گوشءَ.",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "در آورت"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "تربیتءَ"
+    },
+    {
+      "surface": "لבך",
+      "gloss": "وتى دلءَ"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "ءُ وتى گوشءَ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "لبزاں"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:11.813022889Z",
+  "model": "glm-5.3"
+}

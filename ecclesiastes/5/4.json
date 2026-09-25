@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "چاک اِنت کہ نہ گنیںی، چہ آ کہ گنیںی ءُ نہ پورا کنی۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "گنیںی"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "چہ آ کہ گنیںی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "پورا کنی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:00.043543865Z",
+  "model": "glm-5.3"
+}

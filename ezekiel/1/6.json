@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ہر اکءَ چار من اِنت ءُ ہر اکءَ چار پر — اِشاں رہ۔",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "ءُ چار"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "من"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ہر اکے رہ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ءُ چار"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ہر اکے رہ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاں رہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:06:56.818509225Z",
+  "model": "glm-5.3"
+}

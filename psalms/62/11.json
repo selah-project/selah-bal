@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 62,
+  "translation": "سیب مکنیت ستمءَ، ءُ لوٹءَ سراں مکنیت؛ اگہ دولت گیش بیت، تو دل نہ شاریت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "سیب مکنیت"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "ستمءَ"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "ءُ لوٹءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהבلו",
+      "gloss": "سراں مکنیت"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگہ"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "گیش بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "نہ شاریت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:29.096219813Z",
+  "model": "glm-5.3"
+}

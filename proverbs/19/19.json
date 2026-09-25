@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "گوَنڈیں غضبءِ مردم عذاب چنت؛ پرچا کہ آییءَ چڑ کتءَ، تاں پدا گیش کنیں۔",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "گوَنڈیں"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چنت"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "عذاب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "چڑ کت"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ءُ پدا"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "گیش کنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:31.613078154Z",
+  "model": "glm-5.3"
+}

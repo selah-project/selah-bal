@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 68,
+  "translation": "گوڑانک گوشوازی پشتءَ، ماں جنکانی درمیان کہ ڈہول زنت۔",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "پیش روتنت"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "گوڑانک"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پشتءَ"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "گوشوازی"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ماں درمیان"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "جنکان"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "ڈہول زنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:27.307565945Z",
+  "model": "glm-5.3"
+}

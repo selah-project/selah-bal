@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ یاہوہءَ موشہءَ گوَشت: پھرعونءِ دل گران اِنت، آ قومءَ شینکءَ چہ انکار کنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "گران"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پھرعونءِ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انکار کنت"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "پہ شینکئے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:52:30.654328940Z",
+  "model": "glm-5.3"
+}

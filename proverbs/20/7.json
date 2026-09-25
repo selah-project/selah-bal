@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "راست گوں پاکیءَ چلنت — وشت اِنت آییءِ زہگان آییءِ پشتءَ.",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "چلنت"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "گوں پاکیءَ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "وشت"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "آییءِ زہگان"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "آییءِ پشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:05.071520472Z",
+  "model": "glm-5.3"
+}

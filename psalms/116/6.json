@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "حفاظت کنوک اِنت یاہوہ سادہ دلانی پہ؛ من پست بوتم ءُ منءَ ؤچ کت۔",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "حفاظت کنوک"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "سادہ دلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "من پست بوتم"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ءُ منءَ"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "ؤچ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:22.816828936Z",
+  "model": "glm-5.3"
+}

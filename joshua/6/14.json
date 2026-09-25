@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ ⟨את⟩ شہرءَ دومی روچءَ یک وار گرد کتنت، ءُ لشکرءِ گدانءَ پدا آتنت؛ اے چوش کتنت شش روچ.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ءُ گرد کتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہرءَ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "وار"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ءُ پدا آتنت"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لشکرءِ گدانءَ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اے چوش"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کتنت"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:05:08.030632024Z",
+  "model": "glm-5.3"
+}

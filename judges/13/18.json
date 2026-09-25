@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ یاہوہءِ فرشتہ آءَ گوَشت: پہ چہ اے کہ تُءَ مءِ نام پُچھیت؟ ءُ آ پیلہی اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "پہ چہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "پُچھیت"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "مءِ نام"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "پیلہی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:20:30.550349564Z",
+  "model": "glm-5.3"
+}

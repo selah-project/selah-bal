@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "چوش اے آءُ آیی ⟨את⟩ دہ مِکنان جوڑ کت — یک ریتءِ کِتگی، یک مانگ، یک شکل، پہ ہمگاں.",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "چوش اے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دہ مِکنان"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "مِکنان"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ریتءِ کِتگی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "مانگ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "پہ ہمگاں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:58:27.062601501Z",
+  "model": "glm-5.3"
+}

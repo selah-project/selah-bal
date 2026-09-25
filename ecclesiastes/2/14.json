@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "داناءِ چشمان آییءِ سرءَ اِنت، ءُ نادان تاریکیءَ تہ روت؛ ءُ من ہم زانتم کہ یک واقعه یکسان ⟨את⟩ ہر دوءَ پیش آیت",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "آییءِ چشمان"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "ءُ نادان"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "تاریکیءَ تہ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "ءُ زانتم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "کہ واقعه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "پیش آیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر دوءَ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ہر دو"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:50.403538013Z",
+  "model": "glm-5.3"
+}

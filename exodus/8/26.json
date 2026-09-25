@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ موشہ فرعونءَ گوں دروت کت، ءُ یاہوہءَ پیش دروت کت۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ دروت کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "چہ ... گوں"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعونءَ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ءُ پیش دروت کت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:53:54.395376563Z",
+  "model": "glm-5.3"
+}

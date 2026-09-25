@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ سیگوب ⟨את⟩ یایرءَ زائیت، ءُ آیءَ تہ گلعادءِ زمینءَ بیست ءُ سئے شہر ہست اَنت۔",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "ءُ سیگوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یایر"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یایرءَ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "تہ … زمینءَ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعادءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:37.814135538Z",
+  "model": "glm-5.3"
+}

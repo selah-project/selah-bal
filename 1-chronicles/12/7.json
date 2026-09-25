@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 12:7",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ایلکاناہ ءُ یشییاہو ءُ عزرائیل ءُ یوعوزر ءُ یاشابعام قورحی",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ایلکاناہ"
+    },
+    {
+      "surface": "וישיהו",
+      "gloss": "ءُ یشییاہو"
+    },
+    {
+      "surface": "ועזראל",
+      "gloss": "ءُ عزرائیل"
+    },
+    {
+      "surface": "ויועזר",
+      "gloss": "ءُ یوعوزر"
+    },
+    {
+      "surface": "וישבעם",
+      "gloss": "ءُ یاشابعام"
+    },
+    {
+      "surface": "הקרחים",
+      "gloss": "قورحی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:25:17.263044112Z",
+  "model": "glm-5.3"
+}

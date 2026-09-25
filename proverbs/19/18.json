@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "آے زہگءَ سزا دیت، پرچا کہ آلوس ⟨اِنت⟩؛ ءُ آییءِ مرنءَ مہ آپءِ جان نہ گر۔",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "سزا دیت"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "آے زہگءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨اِنت⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "آلوس"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "آییءِ مرنءَ مہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "گر"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "آپءِ جان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:31.612888729Z",
+  "model": "glm-5.3"
+}

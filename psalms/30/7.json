@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ منءَ آسودگیءَ گوَشت: من ہچبر نہ لڑزیت، پہ ہمیشہ۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ءُ منءَ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "آسودگیءَ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ہچبر نہ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "لڑزیت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:12.419567739Z",
+  "model": "glm-5.3"
+}

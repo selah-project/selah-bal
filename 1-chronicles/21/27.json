@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ یاہوہ فرشتہءَ گوَشت، ءُ آیی وتی تلوار آییءِ نیامءَ واپس پہ کت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "فرشتہءَ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ءُ … واپس پہ کت"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "وتی تلوار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "آییءِ نیامءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:28:34.810074367Z",
+  "model": "glm-5.3"
+}

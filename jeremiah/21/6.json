@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ من ⟨את⟩ اے شہرءِ رہوکان ءُ ⟨את⟩ آدمزاد ءُ ⟨את⟩ مال زنٹ کنیں — چہ یک گیش بیماریا مرنت۔",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ءُ … زنٹ کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے شہرءِ رہوکان"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "رہوکان"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آدمزاد"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمزاد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مال"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "چہ بیماریا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "مرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:52:46.376664920Z",
+  "model": "glm-5.3"
+}

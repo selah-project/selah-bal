@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "چم کہ! منکینءِ جان آیءِ تہ راست نہ اِنت؛ بلے راست کم آیءِ ایمانءَ گوں زندگی بیت۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "چم کہ"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "منکین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "راست"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "آیءِ جان"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آیءِ تہ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "بلے راست کم"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "آیءِ ایمانءَ گوں"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "زندگی بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:40:35.133754018Z",
+  "model": "glm-5.3"
+}

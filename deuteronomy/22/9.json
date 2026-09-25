@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "تُءِ کرمءَ نہ دو جوڑاں گوں کاشت کن، پہ اے کہ پوریں پیداوار — بِژ کہ تو کاشت کنی ءُ کرمءِ پھڈ — پاک نہ بیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "کاشت کن"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "تُءِ کرمءَ"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "دو جوڑاں"
+    },
+    {
+      "surface": "פן",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "پاک نہ بیت"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "پوریں پیداوار"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "بِژ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "کاشت کنی"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "ءُ پھڈ"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "کرمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:35.585182594Z",
+  "model": "glm-5.3"
+}

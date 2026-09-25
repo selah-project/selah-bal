@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "ہچ کہ یاہوہ چاہیت، آے کت تہ آسمانان ءُ تہ زمین، تہ دریان ءُ تہ گش تہوریں ماپان۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "تہ آسمانان"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ءُ تہ زمین"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "تہ دریان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ تہ گش"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "تہوریں ماپان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:47.496224317Z",
+  "model": "glm-5.3"
+}

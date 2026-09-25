@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 148,
+  "translation": "زمینءِ شاہان ءُ ہر قومان، سرداران ءُ زمینءِ ہر داواران،",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "شاہان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سرداران"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "داواران"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:53.546777026Z",
+  "model": "glm-5.3"
+}

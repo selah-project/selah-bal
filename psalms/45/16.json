@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "آءَ گوش شادی ءُ سرہونی برنت؛ شاہءِ مہلءَ درا بنت۔",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "آءَ گوش برنت"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "شادیءَ"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ءُ سرہونی"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "درا بنت"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "مہلءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:55.609548548Z",
+  "model": "glm-5.3"
+}

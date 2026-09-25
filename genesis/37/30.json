@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ آ وتی براتانءَ واپس تھا ءُ گوَشت: زہگ نیست؛ ءُ من — کوءَ من روت؟",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "واپس تھا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چُہ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "وتی براتانءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نست\/نہ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کوءَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בא",
+      "gloss": "روت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:42:41.631388862Z",
+  "model": "glm-5.3"
+}

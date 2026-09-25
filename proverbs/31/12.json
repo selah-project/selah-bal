@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "آ آییءَ چنگ کم، بُروت نہ، آییءِ زندگیءِ ہمگ روچان۔",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "آ آییءَ چنگ کم"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُروت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "آییءِ زندگیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:01.659350249Z",
+  "model": "glm-5.3"
+}

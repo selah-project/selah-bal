@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اگر تو شپءَ کپیت، نہ ترسیت؛ ءُ کپیت ءُ تری خواب شیریں بیت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "تو کپیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפחد",
+      "gloss": "ترسیت"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "ءُ کپیت"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "ءُ شیریں بیت"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "تری خواب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:58.147001992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "جوں راستگو چہ آئیں راستیءَ پدا بیت ءُ زلم کنیت، آ چہ آئیں ءَ مریت.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "پدا بوتءَ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستگو"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "چہ آئیں راستیءَ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ کنیت"
+    },
+    {
+      "surface": "עול",
+      "gloss": "زلم"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ءُ مریت"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "آئیں ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:21:24.343268782Z",
+  "model": "glm-5.3"
+}

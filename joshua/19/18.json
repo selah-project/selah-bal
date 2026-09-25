@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 19:18",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ اِشانی سرحد یزرعیل ءُ کسّلوت ءُ شونم اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اِنت"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "اِشانی سرحد"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "یزرعیل"
+    },
+    {
+      "surface": "והכסולת",
+      "gloss": "ءُ کسّلوت"
+    },
+    {
+      "surface": "ושונם",
+      "gloss": "ءُ شونم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:30.815343489Z",
+  "model": "glm-5.3"
+}

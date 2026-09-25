@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 95,
+  "translation": "کیچہ یاہوہ ڈیر ایل اِنت، ءُ همگ ہدایانی سرا ڈیر بادشاہ اِنت",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ڈیر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ءُ بادشاہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ڈیر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همگ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:17.259604597Z",
+  "model": "glm-5.3"
+}

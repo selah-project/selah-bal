@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ چنت شمارءِ تہاں کم گر ءُ ⟨את⟩ آیانءَ وتءِ چوڑانی تہاں بند کن.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ءُ گر"
+    },
+    {
+      "surface": "משם",
+      "gloss": "چنت"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کم"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "تہ شمار"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ءُ بند کن"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "آیانءَ"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "وتءِ چوڑانی تہاں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:10:25.729598940Z",
+  "model": "glm-5.3"
+}

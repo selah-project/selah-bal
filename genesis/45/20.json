@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "ءُ شمئیں چشم شمئیں اسبابءَ ترس نہ گریت، چوک مِتسرایمءِ پوریں ملکءِ مٹھ شمئیں پہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "ءُ شمئیں چشم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "ترس گریت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "شمئیں اسباب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "مٹھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملکءِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمءِ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شمئیں پہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:48:31.642705954Z",
+  "model": "glm-5.3"
+}

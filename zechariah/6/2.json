@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "یکمیں گادیءَ سرہ اسپ ⟨اَنت⟩ ءُ دوومیں گادیءَ تاریں اسپ ⟨اَنت⟩۔",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "یکمیں گادیءَ تہ"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "یکمیں"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "اسپ"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "سرہ"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ءُ دوومیں گادیءَ تہ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوومیں"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "اسپ"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "تاریں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:42.663833907Z",
+  "model": "glm-5.3"
+}

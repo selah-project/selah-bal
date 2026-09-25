@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "بلے تُہءِ پکانی چیزیں کہ تُہءَ اِنت ءُ تُہءِ نذر، آءَ گر ءُ اُت جاگہءَ آئیں کہ یاہوہ چنگیت۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "تُہءِ پکانی چیزیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "ءُ تُہءِ نذر"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "گر"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ءُ آئیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُت"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاگہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "چنگیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:44.708947325Z",
+  "model": "glm-5.3"
+}

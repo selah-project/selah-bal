@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "مردم کہ عقلءِ رہءَ چہ گندر وات، رفائیمیں ٹولیءَ آرمش گنت۔",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "گندر وات"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "چہ رہءَ"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "عقلءِ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "تہ ٹولیءَ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائیمیں"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرمش گنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:32.306222788Z",
+  "model": "glm-5.3"
+}

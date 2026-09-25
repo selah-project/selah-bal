@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ آءَ چار ٹبا چار کونجاںَ یک نچوشتءِ جالءَ لہ گوانت — جاگہ پہ بڑاں۔",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "ءُ آءَ گوانت"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "ٹبا"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "کونجاںَ"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "یک جالءَ لہ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "نچوشتءِ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "پہ بڑاں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:00.727996656Z",
+  "model": "glm-5.3"
+}

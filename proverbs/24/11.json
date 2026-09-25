@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "مرگءَ بریتگانی رہائی بگر، ءُ کشتارءَ کمبتگانی — اگر تو دریگر کنی.",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "رہائی بگر"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "بریتگانی"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرگءَ"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "ءُ کمبتگانی"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "کشتارءَ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "دریگر کنی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:18.472801619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "پہ پیشواءَ، پہ قورحءِ زہگانءِ، یک مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشواءَ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پہ … زہگانءِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورحءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:08.180357378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 98,
+  "translation": "پہ یاہوہ گوں کنورءَ ساز کنیت، گوں کنورءَ ءُ گیتءِ آوازءَ.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ساز کنیت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "گوں کنورءَ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "گوں کنورءَ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ءُ آوازءِ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "گیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:47.309727383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یک روچہ چہ عدنءَ در کت پہ ⟨את⟩ گadan ءَ آپ دیگ ءُ چہ اودا جتا بیت ءُ چار سریاں ءَ بیت۔",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "ءُ روچہ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "در کت"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "چہ عدنءَ"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "پہ آپ دیگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گadanءَ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ءُ چہ اودا"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "جتا بیت"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "سریاں ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:08.446758454Z",
+  "model": "glm-5.3"
+}

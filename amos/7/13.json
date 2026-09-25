@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 7:13",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ بیتءِ ایلءَ نہ ہور پیغمبریءَ شروع کن، پرچا کہ آ شاہءِ مقدسگاہ اِنت ءُ شاہیءِ گدان اِنت.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ءُ بیتءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ہور شروع کن"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "להנבא",
+      "gloss": "پیغمبریءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مقدسگاہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ءُ گadanءِ"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "شاہی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:36:00.386253579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ موشہءَ پوری کت گپ گوَشتیءِ پہ ⟨את⟩ پوریں اے گالانءَ پہ پوریں یسرائیلءَ۔",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ءُ پوری کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "گپ گوَشتیءِ پہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں اے گالانءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "اے گالانءَ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:24.835577879Z",
+  "model": "glm-5.3"
+}

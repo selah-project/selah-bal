@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ⟨اوءَ⟩ منءِ دانان گوں ریجاں پیست کت، منءَ خاکسترءَ تہ لت کت.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "ءُ پیست کت"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "گوں ریجاں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "منءِ دانان"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "منءَ لت کت"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "خاکسترءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:44.465037358Z",
+  "model": "glm-5.3"
+}

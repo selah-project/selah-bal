@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 149,
+  "translation": "آیان آییءِ نامءَ ناچءَ ستاینت، ڈہل ءُ کنور گوں آییءَ ساز کرنت.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ستاینت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نامءَ"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ناچءَ"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ڈہل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ءُ کنور"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ساز کرنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:32.939646762Z",
+  "model": "glm-5.3"
+}

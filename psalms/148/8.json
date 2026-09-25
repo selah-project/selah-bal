@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 148,
+  "translation": "آتش ءُ شیل، برف ءُ ہوک، زوراں واءُ کہ آییءِ گال جات ءُ کوئیت.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ءُ شیل"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "ءُ ہوک"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "واءُ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "زوراں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جات ءُ کوئیت"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "آییءِ گال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:40.373991996Z",
+  "model": "glm-5.3"
+}

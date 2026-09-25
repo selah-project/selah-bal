@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "یاہوہ زور وتی قومءَ دیت؛ یاہوہ وتی قومءَ ⟨את⟩ گوں سُکائیءَ برکت دیت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "وتی قومءَ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی قومءَ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "وتی قومءَ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "گوں سُکائیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:29.026379197Z",
+  "model": "glm-5.3"
+}

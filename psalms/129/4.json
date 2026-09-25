@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 129,
+  "translation": "یاہوہ راست اِنت؛ آ رُدءِ مردمانی رسیان پرا کت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "پرا کت"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "رسیان"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رُدءِ مردمانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:52.284401366Z",
+  "model": "glm-5.3"
+}

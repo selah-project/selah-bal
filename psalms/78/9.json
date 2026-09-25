@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "اِفرایمیءِ زہگان، کمانءِ تیراندازان، جنگءِ روچءَ پدا گشت انت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "تیراندازان"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "کمانءِ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "پدا گشت انت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "جنگءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:31.180574279Z",
+  "model": "glm-5.3"
+}

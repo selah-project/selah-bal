@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ داؤد روت ءُ چہ شاؤلءَ پدا گشت، پہ چروکءِ ⟨את⟩ وتی پِتءِ مِش، بیت لاحمءَ.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ءُ داؤد"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ءُ پدا گشت"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءَ"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "پہ چروکءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِش"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مِش"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "وتی پِتءِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لاحم"
+    }
+  ],
+  "timestamp": "2026-09-24T20:33:29.918634928Z",
+  "model": "glm-5.3"
+}

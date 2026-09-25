@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ یہوشافات، یہوداہءِ بادشاہ، وتی گدانءَ آشتیءَ گوں چہ یہروشلمءَ پدا روت۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "پدا روت"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یہوشافات"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "وتی گدانءَ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "آشتیءَ گوں"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "یہروشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:40:29.567763453Z",
+  "model": "glm-5.3"
+}

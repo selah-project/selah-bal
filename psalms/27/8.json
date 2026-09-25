@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "تا مءِ دلءَ گوَشت: مءِ رُخ جوڑیت؛ ⟨את⟩ تُرءِ رُخ، اے یاہوہ، من جوڑِت۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "مءِ دل"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "جوڑیت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مءِ رُخ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تُرءِ رُخ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تُرءِ رُخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "من جوڑِت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:20.007523112Z",
+  "model": "glm-5.3"
+}

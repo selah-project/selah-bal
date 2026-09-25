@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ اَت کُل جن یِئے چہ یعقوبءِ ران، ہپت جن؛ ءُ یوسف اَت مِتسرایمءَ۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کُل"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جن"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "یِئے"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جن"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ءُ یوسف"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتسرایمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:49:32.748222967Z",
+  "model": "glm-5.3"
+}

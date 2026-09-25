@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "تپّوءُچءِ بادشاہ، یک؛ حیپیرءِ بادشاہ، یک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تپّوءُچءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حیپیرءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:11.618363043Z",
+  "model": "glm-5.3"
+}

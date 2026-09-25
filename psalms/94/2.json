@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "بلند بہ، اے زمینءِ داں، سروں کوتاں سرءَ بدلہ پدا گرماو",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "بلند بہ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "داں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "השב",
+      "gloss": "پدا گرماو"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "سروں کوتاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:29.532682078Z",
+  "model": "glm-5.3"
+}

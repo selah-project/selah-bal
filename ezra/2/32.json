@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "حارمءِ زہگان، سئے صد ءُ بیست۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ بیست"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:13.581381494Z",
+  "model": "glm-5.3"
+}

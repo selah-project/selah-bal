@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "وتءَ محافظت کن پہ آ کہ تئے سوچگیں قربانیانءَ تہ ہر جاگہءَ کہ تئے گندیت، پدا نہ چیں۔",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "محافظت کن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وتءَ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "پہ آ کہ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "پدا نہ چیں"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "تئے سوچگیں قربانیان"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "تئے گندیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:44.714395467Z",
+  "model": "glm-5.3"
+}

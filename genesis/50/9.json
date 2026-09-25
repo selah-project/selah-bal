@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "ءُ گوں آییءَ ہم رتّابیں گاڑی ءُ ہم سوار روت، ءُ اُو پڑاؤ سک گیش ءُ گران بوت.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "روت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں آییءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رتّابیں گاڑی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "سوار"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "گران"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "سک"
+    }
+  ],
+  "timestamp": "2026-09-24T18:50:09.292176210Z",
+  "model": "glm-5.3"
+}

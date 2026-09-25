@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ تُو چہ آسمانان آیانی دعا ⟨את⟩ ءُ آیانی منت ⟨את⟩ گوشی، ءُ آیانی انصاف کنی.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ءُ تُو گوشی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آیانی دعا"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "آیانی دعا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آیانی منت"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "آیانی منت"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ کنی"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "آیانی انصاف"
+    }
+  ],
+  "timestamp": "2026-09-25T00:34:32.126961628Z",
+  "model": "glm-5.3"
+}

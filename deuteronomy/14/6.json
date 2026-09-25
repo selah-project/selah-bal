@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ ہر مال کہ پاچہءِ درز گوَنت ءُ درزءَ دو تیں پاچہ شِت ءُ چیج ہور کنت، چہ ماں مالانءَ — اِش ⟨את⟩ چیکن",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "پاچہ درز کنتا"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "پاچہ"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ءُ تیں کنتا"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "درز"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "پاچان"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ہور کنتا"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "چیج"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "چہ ماں مالانءَ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اِش چیکن"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "چیکن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:10.879216871Z",
+  "model": "glm-5.3"
+}

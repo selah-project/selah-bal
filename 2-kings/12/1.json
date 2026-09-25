@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "یہوآش وتی پادشاہیءَ ہپت سالءِ زہگ اَت۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "یہوآش"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "وتی پادشاہیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:14:44.365240890Z",
+  "model": "glm-5.3"
+}

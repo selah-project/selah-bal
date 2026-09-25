@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "منیءِ تربیت گریت ءُ نہ سیماب، ءُ دشت چہ سوچیتگیں سونا۔",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "گریت"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "منیءِ تربیت"
+    },
+    {
+      "surface": "وאל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سیماب"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ دشت"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "چہ سوچیتگیں"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:51.771929926Z",
+  "model": "glm-5.3"
+}

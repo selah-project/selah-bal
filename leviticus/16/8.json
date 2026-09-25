@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ ہارون دوے گوٹانی سرءَ قرعے دنت: یک قرعہ یاہوہءِ پہ ءُ یک قرعہ عزازیلءِ پہ.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ءُ دنت"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ہارون"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوے"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "گوٹانی"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "قرعے"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "قرعہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءِ پہ"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "ءُ قرعہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "عزازیلءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:28.696288403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ داود اُڈدیشءَ گڑءَ اِنت، ءُ فلستیاںئی چوکی اُڈدیشءَ بیت‌لحہمءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ءُ داود"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اُڈدیشءَ"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "گڑءَ"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ءُ چوکی"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستیاںئی"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اُڈدیشءَ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحہم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:25:00.665072743Z",
+  "model": "glm-5.3"
+}

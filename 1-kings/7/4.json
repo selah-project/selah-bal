@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ کھڑکیان سئے صفانءَ، ءُ منظر آں طرفءَ منظرءَ، سئے وار۔",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "ءُ کھڑکیان"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "صفانءَ"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "ءُ منظر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "آں طرفءَ"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "منظرءَ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "وار"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:53.222110708Z",
+  "model": "glm-5.3"
+}

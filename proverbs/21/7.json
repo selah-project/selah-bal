@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "بدانءِ ظلم آیاناں درگ کنت، پرچا کہ آءُ چہ انصافءِ کارءَ انکار کتگ.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدانءِ"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "آیاناں درگ کنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "انکار کتگ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کارءَ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصافءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:39.356701864Z",
+  "model": "glm-5.3"
+}

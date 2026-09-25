@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "کی چون تو پنہانیءَ کت، بلے من اے کار ⟨את⟩ اے گپ سارءِ اسرائیلءِ پیشءَ ءُ اے آفتابءِ پیشءَ کنیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی چون"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کت"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "پنہانیءَ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "بلے من"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گپ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے گپ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ءُ پیشءَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "اے آفتابءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:57:14.067760216Z",
+  "model": "glm-5.3"
+}

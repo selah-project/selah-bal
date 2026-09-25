@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ تو ⟨את⟩ آیانءَ گنت دو رجاں، شش ⟨the⟩ رجءَ سرءَ، پاکیں میزءِ سرءَ، یاہوہءِ پیشءَ۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ءُ تو گنت"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "دو رجاں"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "رجاں"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "⟨the⟩ رج"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨the⟩ میز"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "پاکیں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:00.127056081Z",
+  "model": "glm-5.3"
+}

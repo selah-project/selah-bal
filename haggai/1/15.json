@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "بیست ءُ چارمی روچءَ، ششمی ماہءَ، دارایَوشءِ شاہءِ دومی سالءَ۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ءُ چارمی"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماہءَ"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "ششمی"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "دارایَوشءِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:41:49.818474826Z",
+  "model": "glm-5.3"
+}

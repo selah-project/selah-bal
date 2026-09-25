@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "نادانءِ رہ آییءِ چشمانءَ راست اِنت، بلے دانا نصیحتءَ گوشیت۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رہ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نادانءِ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست اِنت"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "آییءِ چشمانءَ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "بلے گوشیت"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "نصیحتءَ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:28.133459728Z",
+  "model": "glm-5.3"
+}

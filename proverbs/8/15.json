@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "منی راہءَ بادشاہ بادشاہی کننت ءُ حاکم راستی فرمان کننت۔",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "منی راہءَ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "بادشاہی کننت"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "ءُ حاکم"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "فرمان کننت"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:51.059275104Z",
+  "model": "glm-5.3"
+}

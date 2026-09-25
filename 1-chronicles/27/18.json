@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "پہ یہوداہ اِلیہو، چہ داؤدءِ براتنان؛ پہ یِساکار عمرے مِیخائیلءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "پہ یہوداہ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیہو"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "چہ براتنان"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "پہ یِساکار"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "عمرے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "مِیخائیل"
+    }
+  ],
+  "timestamp": "2026-09-25T00:31:49.075403295Z",
+  "model": "glm-5.3"
+}

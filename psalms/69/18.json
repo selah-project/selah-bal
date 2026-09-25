@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 69,
+  "translation": "ءُ تُءِ رُخ چہ تُءِ نوکرءَ پوشیت، کہ منءَ تنگی اِنت؛ چُکتی منءَ جواب دیت۔",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "پوشیت"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تُءِ رُخ"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "چہ تُءِ نوکرءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "چُکتی"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "منءَ جواب دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:55.331985960Z",
+  "model": "glm-5.3"
+}

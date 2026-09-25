@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ پہ تمام زورءِ دست ءُ پہ تمام گیشتر ڈر کہ موشہءَ تمام اسرائیلءِ چشمانی پیشءَ کت.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "ءُ پہ تمام"
+    },
+    {
+      "surface": "היד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "زورءِ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ءُ پہ تمام"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "ڈرءِ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "چشمانی پیشءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:04:03.770171945Z",
+  "model": "glm-5.3"
+}

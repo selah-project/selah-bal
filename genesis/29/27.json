@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 29:27",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "اےءِ ہپتہ پور کن، ءُ اے هم تئا داده بیت ⟨את⟩ اےءَ، کارءِ بدلہءَ کہ تئو گوں من ءُ دگہ ہپت سال کار کنیں.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "پور کن"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپتہ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اےءِ"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ءُ داده بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اےءَ (راحیل)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اےءَ"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "کارءِ بدلہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تو کار کنیں"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "گوں من"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ءُ دگہ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:15.791332546Z",
+  "model": "glm-5.3"
+}

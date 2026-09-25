@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "بازرنگ ماں وتی قومءَ پلوت نہ بیت — آییءَ پاک نہ کنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پلوت بیت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بازرنگ"
+    },
+    {
+      "surface": "بעמיو",
+      "gloss": "وتی قومءِ ماں"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "آییءَ پاک نہ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:46.389558974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ ⟨את⟩ یک دریاگڈ، ءُ ⟨את⟩ گوانان دو دہ دریاگڈءِ تلءَ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دریاگڈ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریاگڈ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گوانان"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گوانان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریاگڈءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:55:42.148105129Z",
+  "model": "glm-5.3"
+}

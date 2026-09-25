@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "گردءِ سرءَ آیی‌ءِ راج نیست؛ آ بے ڈول جوڑ بوتگ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "گردءِ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "آیی‌ءِ راج"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "جوڑ بوتگ"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ڈول"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:05.446956248Z",
+  "model": "glm-5.3"
+}

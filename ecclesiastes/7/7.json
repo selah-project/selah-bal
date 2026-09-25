@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "کہ زلم چانکءَ دیوانگ کنت ءُ تحفہ ⟨את⟩ دل تباہ کنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "زلم"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "دیوانگ کنت"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "چانکءَ"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ءُ تباہ کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "تحفہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:27.405386289Z",
+  "model": "glm-5.3"
+}

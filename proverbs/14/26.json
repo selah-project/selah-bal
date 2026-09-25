@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "تہ یاہوہءِ ڈرءَ زورءِ بھروسہ اِنت، ءُ آییءِ زہگانءَ پناہ گاہ بیت۔",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "تہ …ءِ ڈرءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "بھروسہ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ءُ آییءِ زہگانءَ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناہ گاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:05.193821652Z",
+  "model": "glm-5.3"
+}

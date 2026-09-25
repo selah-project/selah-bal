@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 49:27",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "بنیامین گرگ اِنت کہ پھاڑیت؛ سبالہءَ شکار خورت، ءُ شامءَ لوٹ ونڈیت.",
+  "tokens": [
+    {
+      "surface": "בנימין",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "گرگ"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "پھاڑیت"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سبالہءَ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خورت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شکار"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ءُ شامءَ"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "ونڈیت"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لوٹ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:50:16.702717958Z",
+  "model": "glm-5.3"
+}

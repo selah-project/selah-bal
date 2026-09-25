@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "مچے چہ ہپت سالءِ، تُوءَ شمیتاہ بکن۔",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "مچے چہ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالءِ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکن"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "شمیتاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:13.645305380Z",
+  "model": "glm-5.3"
+}

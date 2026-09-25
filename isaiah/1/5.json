@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "پہ چیءَ سرءَ اَنت اَڈے گڈا بیت، آ کہ اَنت رندتر سرکشی کنیت؟ پوریں سر بیمار اِنت ءُ پوریں دل کمزور۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ …ءِ سرءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "گڈا بیت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اَڈے"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "رندتر کنیت"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "سرکشی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "بیمار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ پوریں"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "کمزور"
+    }
+  ],
+  "timestamp": "2026-09-24T21:20:43.870944387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ تو قیدانی ماں یک زانگتگین توارءِ جنکءَ گندیت، ءُ آییءَ دلءَ لگیت، ءُ آییءَ پہ وتی پہ جنک گرنیت۔",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "قیدانی ماں"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "زانگتگین"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "توار"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "ءُ دلءَ لگیت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ءُ گرنیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ وتی"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "پہ جنک"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:55.989673007Z",
+  "model": "glm-5.3"
+}

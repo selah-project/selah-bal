@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ بادشاہ ءُ ہمگ مردم یاہوہءِ پیشءَ قربانی چنیتنت.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ءُ بادشاہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہمگ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "قربانی چنیتنت"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:38.486571729Z",
+  "model": "glm-5.3"
+}

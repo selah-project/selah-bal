@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ حزقیاہءَ یاہوہءَ وتی دعا کت، آ کہ گوَشت:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ءُ دعا کت"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقیاہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:32:16.262851845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "آییءَ گانیں، آییءَ پہ ساز بزنیت، آییءِ ہمگ شگفتیاںءِ بابتءَ سوجیت۔",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "گانیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ساز بزنیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "سوجیت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہمگ"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "آییءِ شگفتیاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:34.245071784Z",
+  "model": "glm-5.3"
+}

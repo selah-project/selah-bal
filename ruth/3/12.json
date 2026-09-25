@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اِشاں، پچ آشکار اِنت کہ من یک گوَل ءُءَ، بلے یک گوَل چہ من ءُ نزدیک‌تر ہست۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "پچ آشکار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گوَل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من … ءُءَ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "بلے … ہم"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "یک گوَل"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک‌تر"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ من ءُ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:45.391197493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "اے ایلوہیم، تؤے رستہ پاکیءَ ⟨اِنت⟩؛ کے ءُ گوں ⟨اِنت⟩ چوش ایلوہیم؟",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "پاکیءَ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "تؤے رستہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "چوش ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:02.501811981Z",
+  "model": "glm-5.3"
+}

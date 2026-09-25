@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ عیسوُ چے اے روچءَ آییءِ راہءَ سیئیرءَ پدا گپت۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ءُ پدا گپت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "آییءِ راہءَ"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "سیئیرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:39:42.988232040Z",
+  "model": "glm-5.3"
+}

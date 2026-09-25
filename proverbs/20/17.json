@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "دروغءِ نان یک مردءَ شیرین اِنت، بلے پدا آییءِ دہن ریگالانءَ پُر بیت۔",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "شیرین"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "یک مردءَ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغءِ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ءُ پدا"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "پُر بیت"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "آییءِ دہن"
+    },
+    {
+      "surface": "חצצ",
+      "gloss": "ریگالانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:19.371926252Z",
+  "model": "glm-5.3"
+}

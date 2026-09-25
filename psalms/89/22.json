@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "آ کہ منیءِ دست گوں آییءَ جوڑ بیت، ءُ مخ منیءِ بازو آییءَ زور دیت.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "منیءِ دست"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "جوڑ بیت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں آییءَ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ءُ مخ"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "منیءِ بازو"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "آییءَ زور دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:50.850301293Z",
+  "model": "glm-5.3"
+}

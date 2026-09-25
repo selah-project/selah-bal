@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ہمگ یک جاگہءَ رونت؛ ہمگ چہ گردءَ بوتگ ءُ ہمگ گردءَ پدا لوت۔",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "رونت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوتگ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "گرد"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ءُ ہمگ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "پدا لوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "گرد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:58.768978184Z",
+  "model": "glm-5.3"
+}

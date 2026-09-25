@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "دہ زہگءِ ہامن، زہگءِ ہمدتا، دشمنءِ یہودیان، ہرگنت؛ ءُ لوٹءَ ⟨את⟩ وتکان دست نہ شلنت",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانءِ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ہامن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگءِ"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ہمدتا"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "دشمنءِ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودیان"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ہرگنت"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "ءُ لوٹءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "شلنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتکان دست"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "وتکان دست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:38.873118925Z",
+  "model": "glm-5.3"
+}

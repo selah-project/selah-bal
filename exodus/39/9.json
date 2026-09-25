@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "چوکور بوت؛ ہمے چوشنءَ دوہر جوڑ کت ⟨את⟩؛ یک زرت آییءِ وتر ءُ یک زرت آییءِ پچ — دوہر.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "چوکور بوت"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "دوہر"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چوشن"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "چوشن"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "یک زرت"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "آییءِ وتر"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ءُ یک زرت"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "آییءِ پچ"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "دوہر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:44.813403914Z",
+  "model": "glm-5.3"
+}

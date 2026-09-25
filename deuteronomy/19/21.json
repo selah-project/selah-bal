@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ تُری گمءَ نہ کر — جان پہ جان، چشم پہ چشم، دنداں پہ دنداں، دست پہ دست، پا پہ پا.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "گمءَ کر"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تُری"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "پہ جان"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشم"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "پہ چشم"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دنداں"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "پہ دنداں"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "پہ دست"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "پہ پا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:52.676984632Z",
+  "model": "glm-5.3"
+}

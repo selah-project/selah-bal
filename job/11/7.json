@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "تلاشءَ کیا تئے ایلوہءَ لبیت؟ آیا شدّایءِ اَنتہا تئے لبیت؟",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "تلاشءَ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہءَ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "لبیت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "اَنتہا"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّایءِ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "لبیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:39.575287660Z",
+  "model": "glm-5.3"
+}

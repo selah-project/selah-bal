@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ موشہءَ اِسرائیلءِ زہگانءَ گوَشت پہ پسح کنگءَ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ … ءَ گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "پہ کنگ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسحءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:33:11.255368723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "ءُ یاہوہءِ نامءَ من بانگ کنان: اے یاہوہ، منا مئے نَفَس رچا۔",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "ءُ یاہوہءِ نامءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "من بانگ کنان"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "منا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "رچا"
+    },
+    {
+      "surface": "نפשי",
+      "gloss": "مئے نَفَس"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:20.099370818Z",
+  "model": "glm-5.3"
+}

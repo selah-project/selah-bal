@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ داؤد جوانانءَ چہ یکءَ بانگ کت ءُ گوَشت: روڑ، آءَ بزن۔ ءُ آ آیءَ زت ءُ آ مرد۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "یکیں"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "چہ جوانان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "גש",
+      "gloss": "روڑ"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "بزن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ءُ آیءَ زت"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T20:40:44.878135461Z",
+  "model": "glm-5.3"
+}

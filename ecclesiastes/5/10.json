@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "چون مال گیش بیت، آیءَ گوشتگن گیش بنت؛ ءُ آیءِ مالکءَ چئے فائدہ اِنت، بجز آیءِ اچمءِ دیدارءَ؟",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "چون گیش بیت"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "گیش بنت"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "آیءَ گوشتگن"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چئے"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "فائدہ"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "آیءِ مالکءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بجز"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "دیدار"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "آیءِ اچم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:42.080000786Z",
+  "model": "glm-5.3"
+}

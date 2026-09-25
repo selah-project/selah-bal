@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "اے بیتءِ یِسرایل، اے گال کہ یاہوہءَ تہ شما گوَشت اِنت، آ ⟨את⟩ گوشیٹ۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گushiٹ — گوشیٹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گال"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تہ شما"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-09-24T21:48:22.672421483Z",
+  "model": "glm-5.3"
+}

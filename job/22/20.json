@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "آیا دشمن نابود نہ بوتنت؟ ءُ اِشانی نسبت آتشءَ خورت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "نابود"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "ءُ اِشانی نسبت"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "خورت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتشءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:38:11.638935024Z",
+  "model": "glm-5.3"
+}

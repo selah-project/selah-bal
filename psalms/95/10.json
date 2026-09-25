@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 95,
+  "translation": "چل سال من آ نسلءَ گوں بیزار بتم ءُ گوَشتم: اے قومءِ دل گم روچگ اِنت، ءُ اِشاں منی رستاں نہ زانتنت۔",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "بیزار بتم"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "آ نسلءَ گوں"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "گم روچگ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ءُ اِشاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "زانتنت"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "منی رستاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:48.122579384Z",
+  "model": "glm-5.3"
+}

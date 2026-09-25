@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "اے یاہوہ مءِ ایلوہیم، مءَ تَءَ بانگ کت‌اں ءُ تُو مءَ شفا کت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "مءِ ایلوہیم"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "بانگ کت‌اں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تَءَ"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ءُ مءَ شفا کت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:15.317070526Z",
+  "model": "glm-5.3"
+}

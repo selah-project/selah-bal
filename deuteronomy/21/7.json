@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ جواب دنت ءُ گوَشنت: ماںءِ دستان نہ چِکیتگ ⟨את⟩ اے رتءَ، ءُ ماںءِ چشم اِشاں نہ گندیتگ۔",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ءُ جواب دنت"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ءُ گوَشنت"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ماںءِ دستان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "چِکیتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے رت"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ءُ ماںءِ چشم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "گندیتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:26.977811426Z",
+  "model": "glm-5.3"
+}

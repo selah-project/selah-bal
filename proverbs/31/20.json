@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "کلہِ لنگءَ کہ پڑ دیت ءُ وتی دستان چارہ زارءَ درێژ کت.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "کلہ"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "پڑ دیت"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "لنگءَ کہ"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "ءُ وتی دستان"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "درێژ کت"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "چارہ زارءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:08.066116755Z",
+  "model": "glm-5.3"
+}

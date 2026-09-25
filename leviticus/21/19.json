@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "یا کسے کہ آییءَ تہ پا ئِ شکیست بیت، یا دست ئِ شکیست.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کسے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکیست"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکیست"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:18.715321915Z",
+  "model": "glm-5.3"
+}

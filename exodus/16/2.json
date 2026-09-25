@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ پوریں ٹولی چہ بنی اِسرائیلءِ بیابانءَ تہ موشہ ءُ ہارونءِ سرا گِلہ کت۔",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "ءُ گِلہ کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ٹولی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ہارونءَ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابانءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:58:06.575839098Z",
+  "model": "glm-5.3"
+}

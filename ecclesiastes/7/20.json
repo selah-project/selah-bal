@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "پرچا کہ زمینءَ راست کوئم نیست کہ چنگ کنیت ءُ گناہ نہ کنیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "کوئم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "گناہ کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:08.165617952Z",
+  "model": "glm-5.3"
+}

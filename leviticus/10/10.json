@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ پہ جتا کنگ میان مقدس ءُ عام، ءُ میان نجیس ءُ پاک —",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ءُ پہ جتا کنگ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میان"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ میان"
+    },
+    {
+      "surface": "החל",
+      "gloss": "عام"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ میان"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "نجیس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ میان"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:28.229034072Z",
+  "model": "glm-5.3"
+}

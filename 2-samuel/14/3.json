@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ آءِ پادشاہءَ روت ءُ آءَ گوں اے چوک گپ بزنیت؛ ءُ یوآب ⟨את⟩ گالان آءِ منہءَ دَنت۔",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاہءَ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ءُ گپ بزنیت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "چوش اے گال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ءُ دَنت"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گالان"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "آءِ منہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:44:49.266042825Z",
+  "model": "glm-5.3"
+}

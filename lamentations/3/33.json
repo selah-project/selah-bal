@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کی چہ وتی دلءَ نہ ستَم کت، ءُ آدمءِ زہگانءَ دگر نہ کت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ستَم کت"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "چہ وتی دلءَ"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "ءُ دگر نہ کت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:39.742669599Z",
+  "model": "glm-5.3"
+}

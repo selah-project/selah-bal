@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ منا گیش گند بیت، ءُ من ⟨את⟩ ہمگ طوبیہءِ گدانی برتنان چہ کمرہءَ بیراگ پرت کت.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ءُ گند بیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "ءُ پرت کتمن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتنان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدانی"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "طوبیہ"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "بیراگ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "کمرہءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:19:51.919527088Z",
+  "model": "glm-5.3"
+}

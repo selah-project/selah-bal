@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "کیہ آ مردِے تہ آییءِ گدءَ نیست، روت اِنت چہ دورءِ راہ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آ مردِے"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "تہ آییءِ گدءَ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روت اِنت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "تہ راہ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "چہ دور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:09.326738122Z",
+  "model": "glm-5.3"
+}

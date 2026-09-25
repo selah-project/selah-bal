@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "طعنہ گر دانائی لبیت ءُ آ نیست، ءُ زانشت پہ سمجھوکءَ آسان اِنت۔",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "لبیت"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "طعنہ گر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ زانشت"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "پہ سمجھوکءَ"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "آسان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:46.958322245Z",
+  "model": "glm-5.3"
+}

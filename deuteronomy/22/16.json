@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ دوشیزہءِ پیٹ پیرانءَ گوَشت: من وتی جنک ⟨את⟩ اے مردءَ پہ زن دت ءُ او آییءَ بچڑیت،",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیٹ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "دوشیزہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی جنک"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "وتی جنک"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "من دت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "مردءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "پہ زن"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ءُ او آییءَ بچڑیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:15.520294026Z",
+  "model": "glm-5.3"
+}

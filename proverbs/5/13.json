@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 5:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ من مءِ استادانی گالءَ گوش نہ کت، ءُ مءِ ونڈونوکاںءَ گوں نہ چم کت مءِ گوڑ۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "گوش کت"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "تہ گال"
+    },
+    {
+      "surface": "מורי",
+      "gloss": "مءِ استاد"
+    },
+    {
+      "surface": "ולמלמדי",
+      "gloss": "ءُ مءِ ونڈونوکاںءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הטיתי",
+      "gloss": "چم کت"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "مءِ گوڑ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:35.056290032Z",
+  "model": "glm-5.3"
+}

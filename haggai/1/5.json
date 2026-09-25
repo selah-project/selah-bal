@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ایشا ہمے چوں گوَشت یاہوہ سباؤت: شماںءِ دلءَ شماںءِ راہانی سرءَ ڈئنت.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ ایشا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ہمے چوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ڈئنت"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "شماںءِ دلءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "شماںءِ راہان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:46.243322911Z",
+  "model": "glm-5.3"
+}

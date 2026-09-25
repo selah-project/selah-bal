@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "چنگ اِنت کہ یاہوہءَ پناه بگرٹیت چہ آدمی ءَ اعتماد کنت۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "پناه بگرٹیت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "اعتماد کنت"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "آدمی ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:56.706243256Z",
+  "model": "glm-5.3"
+}

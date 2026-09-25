@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اگر پدا گپت بیت، ہپت برار واپس دیت — ⟨את⟩ ہمگ مال کہ وتی گدانءِ دیت.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "ءُ اگر پدا گپت بیت"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "واپس دیت"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ہپت برار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمگ مال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "وتی گدانءِ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:01.033726607Z",
+  "model": "glm-5.3"
+}

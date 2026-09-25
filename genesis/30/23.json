@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ آ پیش آت ءُ یک زہگ زائیت، ءُ گوَشت: ایلوہیمءَ ⟨את⟩ مءِ رسوائی دور کت۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "پیش آت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "یک زہگ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "دور کت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مءِ رسوائی"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "مءِ رسوائی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:07.247831072Z",
+  "model": "glm-5.3"
+}

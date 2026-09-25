@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 68,
+  "translation": "زمینءِ شاہیان، ایلوہیمءَ گانیں؛ ادونایءَ سرود گانیں۔ سلاہ۔",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "شاہیان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "שירو",
+      "gloss": "گانیں"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "זמרو",
+      "gloss": "سرود گانیں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونایءَ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:42.741814259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "کہلہت چاہیئت پہ لبنت گالانی خوشی، ءُ نبشتگیں راستی گالانی سچ۔",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "چاہیئت"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کہلہت"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "پہ لبنت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالانی"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ءُ نبشتگیں"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالانی"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:35.533687670Z",
+  "model": "glm-5.3"
+}

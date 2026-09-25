@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "قومان شور کنیت، شاهیںیں لرزیتنت؛ آیءِ آواز دیت، زمین پگڑیت.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "شور کنیت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "لرزیتنت"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "شاهیںیں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "آیءِ آواز"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "پگڑیت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:51.121572957Z",
+  "model": "glm-5.3"
+}

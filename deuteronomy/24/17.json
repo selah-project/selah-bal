@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "مہمانءِ ءُ یتیمءِ راستی نہ کج کن، ءُ بیوہءِ چوغا رہن ءَ نہ گِر۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "کج کن"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مہمانءِ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیمءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "رہن گِر"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "چوغا"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:36.486364411Z",
+  "model": "glm-5.3"
+}

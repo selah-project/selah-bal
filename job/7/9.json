@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "بدَل بوت ءُ روت؛ چوشے آ کہ شیئولءَ دَرگ کیت، پدا نہ بَرزیت.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "بدَل بوت"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بدَل"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چوشے"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "دَرگ کیت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیئولءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "پدا بَرزیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:32:47.030840981Z",
+  "model": "glm-5.3"
+}

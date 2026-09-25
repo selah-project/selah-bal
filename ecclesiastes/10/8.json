@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "گڈی کَپَن کنوک تہ آییءَ ڈگیت ءُ دیوار شکانوکءَ مار لگت۔",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "کَپَن کنوک"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "گڈی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تہ آییءَ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈگیت"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ءُ شکانوک"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "لگت"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "مار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:29.769132180Z",
+  "model": "glm-5.3"
+}

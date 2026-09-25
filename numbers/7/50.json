@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "یک زرءِ چمچی دہ ⟨شکل⟩، پُر خوشبوءِ دُود.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "چمچی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرءِ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبوءِ دُود"
+    }
+  ],
+  "timestamp": "2026-09-24T19:30:36.488812200Z",
+  "model": "glm-5.3"
+}

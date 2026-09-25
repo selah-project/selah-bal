@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ یاہوہ ایلوہیمءَ آدمءَ بانگ کت ءُ آییءَ گوَشت، تو کُجا اَستی؟",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "بانگ کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ … بانگ کت (پہ)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "کُجا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:13.575457328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اُٹی، رو نینوہءَ پہ، ⟨اے⟩ شہرءِ گیشءَ، ءُ آیءَ پہ ⟨את⟩ اے بانگ کر کہ ماں تُہءَ گوشیت۔",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٹی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "رو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوہءَ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨اے⟩ شہر"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ءُ بانگ کر"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آیءَ پہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بانگ"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "بانگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تُہءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:07:17.441547404Z",
+  "model": "glm-5.3"
+}

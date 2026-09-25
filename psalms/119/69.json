@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "زورآوریں منءَ تہ یک دروغ دَم کت؛ پرچا من توتالءِ دلءَ گوں تُئیں حکمان داریں۔",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "دَم کت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءَ تہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "یک دروغ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "زورآوریں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "توتالءَ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "داریں"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "تُئیں حکمان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:29.126497553Z",
+  "model": "glm-5.3"
+}

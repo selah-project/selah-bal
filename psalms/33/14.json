@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "چہ وتئین نشستءِ جاگہءَ آییءَ تیک چم گرت دیمءَ سال زمینءِ وتھوکاں۔",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "چہ جاگہءَ"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "وتئین نشستءِ"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "تیک چم گرت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دیمءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وتھوک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:48.598311519Z",
+  "model": "glm-5.3"
+}

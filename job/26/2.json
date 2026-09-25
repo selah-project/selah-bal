@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "چون تو کِسے کہ زور نہ اِنت یاری کتئے؟ یک زرۏگئے کہ تۏک نہ اِنت چون توءَ رہایی دئے؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چون"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "یاری کتئے"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "کہ … نہ اِنت"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "رہایی دئے"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "زرۏگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "تۏک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:39:24.769681737Z",
+  "model": "glm-5.3"
+}

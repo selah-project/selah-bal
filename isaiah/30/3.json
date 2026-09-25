@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ پیرؤنءِ زور تما پہ شرم بیت، ءُ پنا پہ مِتسرایمءِ سیاہءَ پہ بدنامی بیت.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تما"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پیرؤن"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "پہ شرم"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "ءُ پنا"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "پہ سیاہءَ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "پہ بدنامی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:31:05.745863054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ یاہوہءَ قومءَ ⟨את⟩ زد، چون کہ اِشاں گوانہیءَ ⟨את⟩ جوڑ کت کہ آہرونءَ جوڑ کتگ.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "ءُ … زد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوانہی"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "گوانہیءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کتگ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "آہرونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:06:08.439790094Z",
+  "model": "glm-5.3"
+}

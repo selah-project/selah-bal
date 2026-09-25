@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ڈھال ءُ ساپڑ پکا گر؛ ءُ منءِ مددءَ پہ اُتینڈ۔",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "پکا گر"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ءُ ساپڑ"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "ءُ اُتینڈ"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "منءِ مددءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:53.007410593Z",
+  "model": "glm-5.3"
+}

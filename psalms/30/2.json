@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "اے یاہوہ، تہ اُچ کنت‌اں، کہ تُو مءَ اَنگت ءُ مءِ دشمنانءَ شاد نہ کت پہ من۔",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "تہ اُچ کنت‌اں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "مءَ اَنگت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "شاد کت"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "مءِ دشمنانءَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ من"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:15.316934534Z",
+  "model": "glm-5.3"
+}

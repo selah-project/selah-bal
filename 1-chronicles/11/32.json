@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "حورائی چہ گَعشءِ ڈَگیران، اَبِیل عَرباتی",
+  "tokens": [
+    {
+      "surface": "חוּרַי",
+      "gloss": "حورائی"
+    },
+    {
+      "surface": "מִנַּחֲלֵי",
+      "gloss": "چہ … ڈَگیران"
+    },
+    {
+      "surface": "גַּעַשׁ",
+      "gloss": "گَعشءِ"
+    },
+    {
+      "surface": "אֲבִיאֵל",
+      "gloss": "اَبِیل"
+    },
+    {
+      "surface": "הָעַרְבָתִי",
+      "gloss": "عَرباتی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:25:05.081718582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "حیسیدءِ زہگ — آروبوتءَ؛ آییءَ سوکوہ ءُ ہپرءِ پوریں سرزمین اِشت",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حیسید"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "آروبوتءَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "سوکوہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ پوریں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سرزمین"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ہپر"
+    }
+  ],
+  "timestamp": "2026-09-25T00:57:50.097858940Z",
+  "model": "glm-5.3"
+}

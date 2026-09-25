@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "چہ مءِ روچان چوش دُود تمام بوتگنت، ءُ مءِ ہڈیان چوش یکے ئاچ گرم بوتگنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "تمام بوتگنت"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "چوش دُود"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "مءِ روچان"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "ءُ مءِ ہڈیان"
+    },
+    {
+      "surface": "کمו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "קד",
+      "gloss": "یکے ئاچ"
+    },
+    {
+      "surface": "נחرو",
+      "gloss": "گرم بوتگنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:31.363550193Z",
+  "model": "glm-5.3"
+}

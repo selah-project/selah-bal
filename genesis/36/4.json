@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ عادا عیساوءَ ⟨את⟩ ایلیفاز زائیت، ءُ بَسمت ⟨את⟩ رعوئیل زائیت.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادا"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "عیساوءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلیفاز"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ایلیفاز"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ءُ بَسمت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رعوئیل"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوئیل"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:46.853387905Z",
+  "model": "glm-5.3"
+}

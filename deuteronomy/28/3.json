@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "برکت‌دار اَئی تو شہرءِ تہ، ءُ برکت‌دار اَئی تو میدانءِ تہ۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکت‌دار"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہرءِ تہ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ءُ برکت‌دار"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "میدانءِ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:11.580724479Z",
+  "model": "glm-5.3"
+}

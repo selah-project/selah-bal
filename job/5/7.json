@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "کی کہ آدم پہ محنتءَ زائگ بیت، ءُ شولانی زہگ اُڑ اُڑانت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی کہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "پہ محنتءَ"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "زائگ بیت"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ءُ …انی زہگ"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "شول"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "اُڑ اُڑانت"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "اُڑوک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:43.647290771Z",
+  "model": "glm-5.3"
+}

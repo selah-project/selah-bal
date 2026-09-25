@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "کیاہ کہ من مانی گدانءِ کانڈءَ، چہ مانی جالیں کانڈءَ باہر چمشت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیاہ کہ"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "کانڈءَ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "مانی گدانءِ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "مانی جالیں کانڈءَ"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "باہر چمشت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:41.385176067Z",
+  "model": "glm-5.3"
+}

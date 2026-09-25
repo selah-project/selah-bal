@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "آ منءَ بانگ کنیں: تو مءِ پیپ، مءِ ایل ءُ مءِ نجاتءِ سنگ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "منءَ بانگ کنیں"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "مءِ پیپ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءِ ایل"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ءُ سنگ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "مءِ نجاتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:08.081110479Z",
+  "model": "glm-5.3"
+}

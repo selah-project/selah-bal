@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "تو گوں وتءِ زورءَ دریا پروش کت؛ تو تنینانی سران آپانی سرا کوج کت.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "پروش کت"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "گوں وتءِ زورءَ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "کوج کت"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سران"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "تنینان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:33.291984805Z",
+  "model": "glm-5.3"
+}

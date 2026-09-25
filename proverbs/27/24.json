@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "کیا کہ مال ہمیشا نہ اِنت، ءُ اگر تاج ⟨مانت⟩، نسلءَ نسلءَ ⟨نہ اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشا"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "نسلءَ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسلءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:45.367975702Z",
+  "model": "glm-5.3"
+}

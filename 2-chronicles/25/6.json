@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ چہ اسرائیلءَ سد ہزار زورآور دلیر سد کیکر چاندیءِ پہ کرایہ گپت۔",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "ءُ کرایہ گپت"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "چہ اسرائیلءَ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زورآور"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دلیر"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کیکر"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندیءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:42:50.732159848Z",
+  "model": "glm-5.3"
+}

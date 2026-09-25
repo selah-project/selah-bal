@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "گنہءَ پوشانوک محبت لبزیت، ءُ گالءَ دواییت کنوک اُلوفءَ جتا کنت.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "پوشانوک"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "گنہ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "لبزیت"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "محبت"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "ءُ دواییت کنوک"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "گالءَ"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "جتا کنت"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "اُلوف"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:20.556514439Z",
+  "model": "glm-5.3"
+}

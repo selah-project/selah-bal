@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "یا اگر یک مردم گوں آنتانی سر روت ءُ آییءِ پا نہ سوزنت؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "یا اگر"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مردم"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "گوں آنتانی"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "ءُ آییءِ پا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "سوزنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:48.423063229Z",
+  "model": "glm-5.3"
+}

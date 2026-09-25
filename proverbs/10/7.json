@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "راستءِ یاد برکتءَ اِنت، ءُ بدکارانی نام گندیت۔",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "برکتءَ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ءُ نام"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "گندیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:21.478639811Z",
+  "model": "glm-5.3"
+}

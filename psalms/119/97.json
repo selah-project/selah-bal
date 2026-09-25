@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "چہ گیش ءُ تورتءَ دوست دارم، گوشتی آ منی سوچ اِنت۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چہ گیش"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "دوست دارم"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تورتءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گوشتی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "منی سوچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:50.794712244Z",
+  "model": "glm-5.3"
+}

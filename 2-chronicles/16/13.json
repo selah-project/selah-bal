@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ آسا وتی پیسرانءَ گوں آرتھیت ءُ چل ءُ یکمی سالءَ تہ آییءِ پاڈشاہیءَ مرت.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ءُ آرتھیت"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "وتی پیسرانءَ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سالءَ تہ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ءُ یکمی"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "آییءِ پاڈشاہیءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:38:15.203565428Z",
+  "model": "glm-5.3"
+}

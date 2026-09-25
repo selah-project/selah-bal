@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "وتءِ پا چہ دوستءِ گدءَ گران گر، پرچا کہ آ تہ سیر کنت ءُ تہ بُزر بچیت.",
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "گران گر"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "وتءِ پا"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "چہ دوستءِ گد"
+    },
+    {
+      "surface": "رעך",
+      "gloss": "دوستءِ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "یִשׂבָּעֲךָ",
+      "gloss": "آ تہ سیر کنت"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "ءُ تہ بُزر بچیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:50.683164871Z",
+  "model": "glm-5.3"
+}

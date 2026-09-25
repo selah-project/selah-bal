@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ موشہءَ ⟨את⟩ اے گانی آ رُوزءَ نبشت ءُ ⟨את⟩ یِسرائیلءِ زہگانی سیخ دیت.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ءُ نبشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گانی"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "گانی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "رُوزءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "ءُ سیخ دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیلءِ زہگانی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:03:07.807933315Z",
+  "model": "glm-5.3"
+}

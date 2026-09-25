@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 75,
+  "translation": "کیہ من مقرریں وخت گپت، من خود راستیءَ داوری کنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "من گپت"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقرریں وخت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من خود"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "راستیءَ"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "داوری کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:49.421649798Z",
+  "model": "glm-5.3"
+}

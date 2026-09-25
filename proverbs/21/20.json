@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "عزیز خزانہ ءُ روغن دانا ءِ گدانءَ ⟨اِنت⟩، ءُ کنڈکار مردم اےءَ نگوت کنت.",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "خزانہ"
+    },
+    {
+      "surface": "נחמد",
+      "gloss": "عزیز"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ءُ روغن"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا ءِ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ءُ کنڈکار"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "اےءَ نگوت کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:06.241494975Z",
+  "model": "glm-5.3"
+}

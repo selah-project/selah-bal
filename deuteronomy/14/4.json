@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ایا مال اِنت کہ شما ورگیٹ: گاؤ، مینہانی زہگ ءُ بزانی زہگ۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ورگیٹ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "مینہانی"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:52.024191717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ مرد چہ گنہءَ پاک بیت، ءُ او جنک ⟨את⟩ وتی گنہءَ بریت۔",
+  "tokens": [
+    {
+      "surface": "וְנִקָּה",
+      "gloss": "ءُ پاک بیت"
+    },
+    {
+      "surface": "הָאִישׁ",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "מֵעָוֹן",
+      "gloss": "چہ گنہءَ"
+    },
+    {
+      "surface": "וְהָאִשָּׁה",
+      "gloss": "ءُ جنک"
+    },
+    {
+      "surface": "הַהִוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "תִּשָּׂא",
+      "gloss": "بریت"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "وتی گنہ"
+    },
+    {
+      "surface": "עֲוֹנָהּ",
+      "gloss": "وتی گنہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:29:45.571118064Z",
+  "model": "glm-5.3"
+}

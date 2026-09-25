@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "نہ کنیت چوش پریں کہ ما ادا امرؤ روچ کنیں — هر یکے پریں کہ آییءِ چشمانءَ راست منیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "چوش پریں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ادا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امرؤ روچ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر یکے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پریں"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "آییءِ چشمانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:46.532258551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "تہاں روت، تہائیں ٹوکار گرنت جاگہءَ کہ لبزنت، پرچا چہ تہائیں کارانی ہچ چیز کم نہ بیت.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "تہاں"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "روت"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہائیں"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ٹوکار"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "جاگہءَ کہ"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "لبزنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ ہست"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "کم بیت"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "چہ تہائیں کارانی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ہچ چیزی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:51:19.918718211Z",
+  "model": "glm-5.3"
+}

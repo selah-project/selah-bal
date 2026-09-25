@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "اگر لشکر مئِ سرءَ خیمہ زننت، مئِ دل نہ ڈریت؛ اگر جنگ مئِ سرءَ اُستینت، اِشاںءَ من بھروسہ کنت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "خیمہ زننت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مئِ سرءَ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ڈریت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "مئِ دل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "اُستینت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مئِ سرءَ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "بھروسہ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:48.487138841Z",
+  "model": "glm-5.3"
+}

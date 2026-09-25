@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "توءِ پاءِ راہ ہمووار کت ءُ گش توءِ راہان ثابت بنت.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "ہمووار کت"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "توءِ پا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ گش"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "توءِ راہان"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ثابت بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:30.962635486Z",
+  "model": "glm-5.3"
+}

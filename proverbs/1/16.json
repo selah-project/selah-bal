@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "کیچہ پای اِشان پہ گندءِ دَوِنت، ءُ پہ گون رچاگءَ شتاب کننت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "پای اِشان"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "پہ گندءِ"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "دَوِنت"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "ءُ شتاب کننت"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "پہ رچاگءِ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "گون"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:37.472628529Z",
+  "model": "glm-5.3"
+}

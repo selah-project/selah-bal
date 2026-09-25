@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 30:36",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ سئے روچءِ رہ آئی ءُ یعقوبءِ مانجی جا کت، ءُ یعقوب لابنءِ ⟨את⟩ گوں باقی راندنت.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ءُ جا کت"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رہ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "آئی ءُ … مانجی"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ مانجی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءِ"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ءُ یعقوبءَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "راندنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوں"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابنءِ"
+    },
+    {
+      "surface": "הנותרת",
+      "gloss": "باقی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:38:37.018297128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "نہ کریت گوں گائءَ ءُ گوں خرءَ یکجا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "کریت"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "گوں گائءَ"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "ءُ گوں خرءَ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکجا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:35.585464776Z",
+  "model": "glm-5.3"
+}

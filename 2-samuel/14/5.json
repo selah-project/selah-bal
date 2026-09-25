@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ بادشاہ آییءَ گوَشت: توءَ چہ اِنت؟ ءُ آ گوَشت: سچ کہ من یک بیوہ جنک اَں، ءُ میریں مرد مرگ کت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "سچ کہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرگ کت"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "میریں مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T20:46:17.418958519Z",
+  "model": "glm-5.3"
+}

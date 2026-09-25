@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 147,
+  "translation": "نہ آسیءِ زورءَ چُشت اِنت، نہ مردءِ لنگانءَ پسند کیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "زورءَ"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "آسیءِ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "چُشت اِنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "لنگانءَ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مردءِ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "پسند کیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:48.811498826Z",
+  "model": "glm-5.3"
+}

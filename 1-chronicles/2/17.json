@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ ابیگیل ⟨את⟩ عماسا زائیت، ءُ عماساءِ پیو یتر اِشماعیلی اَت۔",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "ءُ ابیگیل"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عماسا"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عماسا"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ءُ …ءِ پیو"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عماسا"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یتر"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "اِشماعیلی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:08.719376510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "یاہوہ جنگءِ مرد اِنت، یاہوہ آییءِ نام اِنت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    }
+  ],
+  "timestamp": "2026-09-24T18:56:58.194345314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ کینانءِ تمامیں روچاں دہ سال ءُ نہ سد سال اتنت، ءُ آ مُرد.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اتنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامیں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچاں"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "کینانءِ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:13.294416665Z",
+  "model": "glm-5.3"
+}

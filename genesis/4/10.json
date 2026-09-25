@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ گوَشت: چہ کتروئے؟ تُوءِ برازیءِ گونیءِ آواز چہ زمینءَ پہ من بانگ کنت اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کتروئے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "گونیءِ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تُوءِ برازیءِ"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "بانگ کنت اِنت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پہ من"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:09.657741545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 56,
+  "translation": "تماہ روچ اِش منی گالان ءُ کج کنت؛ اِشانی ہمگ سوچ منءِ سرءَ بدیءِ پہ اِنت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تماہ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "منی گالان"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "کج کنت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءِ سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ایشانی ہمگ"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "سوچ"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "پہ بدیءِ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:18.687468179Z",
+  "model": "glm-5.3"
+}

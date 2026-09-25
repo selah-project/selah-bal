@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "سُستیں گوَشت: شیر روچءَ اِنت، شیر ⟨تہ⟩ بازاریں کوشانءَ اِنت.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سُستیں"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בין",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "بازاریں کوشانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:24.428174572Z",
+  "model": "glm-5.3"
+}

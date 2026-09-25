@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ اے آشامءِ تورا اِنت — پاکءِ پاکان آ اِنت.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "آشام"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاکان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:19.868363630Z",
+  "model": "glm-5.3"
+}

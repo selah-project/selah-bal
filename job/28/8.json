@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 28:8",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "گمنیں زورانی زہگان آ ءُ نہ لیتگ، شیر ءُ نہ آییءِ سرءَ گزر کتگ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "آءُ نہ لیتگ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "گمنیں زور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "گزر کتگ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شیر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:39:39.579926334Z",
+  "model": "glm-5.3"
+}

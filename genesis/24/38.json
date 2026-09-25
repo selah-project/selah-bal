@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "اگر نہ — تُو منءِ پتءِ گدانءَ رو ءُ منءِ خاندانءَ، ءُ منءِ زہگءَ پہ یک جنک گرئی۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "منءِ پتءِ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "رو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ ءَ"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "منءِ خاندانءَ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ءُ گرئی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پہ منءِ زہگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:34:19.720541348Z",
+  "model": "glm-5.3"
+}

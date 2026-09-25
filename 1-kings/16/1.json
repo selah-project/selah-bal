@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ بوت یاہوہءِ گال پہ یہوءَ، حنانیءِ زہگءَ، گوں بعشاءَ بابت، آ کہ گوَشت:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یہوءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حنانیءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشاءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:03:30.560275355Z",
+  "model": "glm-5.3"
+}

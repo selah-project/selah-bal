@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "آ شماءِ پہ دیگ نہ بیت، ءُ شما آییءِ میانءَ گوشت نہ بیت؛ اسرائیلءِ سرحدءَ سر من ⟨את⟩ شماءَ تہ کیم۔",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماءِ پہ"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "دیگ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ءُ شما"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "آییءِ میانءَ"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ سر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحدءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "من تہ کیم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شماءَ",
+      "marks": "شما"
+    }
+  ],
+  "timestamp": "2026-09-24T22:10:57.526984867Z",
+  "model": "glm-5.3"
+}

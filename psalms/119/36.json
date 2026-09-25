@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "منئَ دل تئَریں گواہیانی طرف مائل کت ءُ نہ ناڕَیں فایدءَ ⟨طرف⟩.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "مائل کت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "منئَ دل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…طرف"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "تئَریں گواہیان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨طرف⟩"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ناڕَیں فائد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:46.069423465Z",
+  "model": "glm-5.3"
+}

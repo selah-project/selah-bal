@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "نہ پاڈیں غلامءَ لش اِشت مالک، آ کہ نسیت لش تئے چہ اِشت مالک۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "پاڈیں"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلامءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لش"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اِشت مالک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "نسیت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لش تئے"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اِشت مالک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:59.710319166Z",
+  "model": "glm-5.3"
+}

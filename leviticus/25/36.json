@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "چہ ⟨את⟩ آءَ سود ءُ ودھا نہ گن، ءُ تُءِ چہ ایلوہیمءَ بترسیں، تا تُءِ برات گوں تُءِ زند بیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گن"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "چہ ⟨את⟩ آءَ",
+      "marks": "آءَ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سود"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ءُ ودھا"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ءُ بترسیں"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "چہ تُءِ ایلوہیم"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ءُ زند بیت"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تُءِ برات"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تُءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:10.746088109Z",
+  "model": "glm-5.3"
+}

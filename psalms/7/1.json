@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "شگیون، داودءِ پہ، کہ آ یاہوہءَ گوَشت، کُش ءُ یمنیءِ زہگءِ گالانی سرءَ۔",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "شگیون"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ پہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالانی"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "یمنیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:11.502024627Z",
+  "model": "glm-5.3"
+}

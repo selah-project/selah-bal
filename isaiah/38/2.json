@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ حِزقیاہو وتءِ من ءُ دیوارءَ چرکیت ءُ یاہوہءَ دعا کت۔",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ءُ چرکیت"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وتءِ من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءُ … ءَ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ءُ دعا کت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:32:51.555061440Z",
+  "model": "glm-5.3"
+}

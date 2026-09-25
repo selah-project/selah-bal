@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ ناں ڈنگ اِنت کہ وتِ سیمءَ ہپت روچ شفتال گندیت؛ ءُ چہ گوشتءَ کہ اِشءَ یکمی روچءَ شپءَ ذبح کنیں، چہ سحرءَ پِت — نہ شپ کنیت.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ ناں"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وتِ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "شفتال"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر چہ"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "وتِ سیمءَ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "شپ کنیت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشتءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "ذبح کنیں"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یکمی"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "سحرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:49.222571989Z",
+  "model": "glm-5.3"
+}

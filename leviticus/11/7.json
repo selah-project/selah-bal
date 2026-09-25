@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ⟨את⟩ خوک، چوں آ سُم دوپرہ کنیت ءُ سُمءِ دوپرہ دوپرہ کنیت، ءُ آ وا چاب نہ چابیت، ناپاک آ تُماں پہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "خوک"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "خوک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "دوپرہ کنیت"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "سُم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "ءُ دوپرہ"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "دوپرہ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "سُمءِ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "وا چاب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "چابیت"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُماں پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:36.995549836Z",
+  "model": "glm-5.3"
+}

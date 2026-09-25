@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اگر توءَ چیزی نیست پہ داتگ، چرا وتءِ بسترا تہتءَ چہ تو گپیت؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "پہ داتگ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گپیت"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "وتءِ بسترا"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "تہتءَ چہ تو"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:53.465830221Z",
+  "model": "glm-5.3"
+}

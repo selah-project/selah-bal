@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 120,
+  "translation": "گیش جنہ کت منی جان، گوں شالومءِ دشمنءَ۔",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "جنہ کت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨زیادکردگیں⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:19.146497676Z",
+  "model": "glm-5.3"
+}

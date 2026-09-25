@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ شما گوَشیت: pesachءِ قربانی اِنت پہ یاہوہ، چو آیی اسرائیلءِ زہگانی گدانی سر چہ Mitserayimءَ گوَشت، وہدے کہ یاہوہءَ ⟨את⟩ Mitserayimءَ زہریت ءُ ⟨את⟩ ایشانی گدان رہائی دیت۔ ءُ قوم سر جھکات ءُ سجدہ کت۔",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ءُ شما گوَشیت"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ پہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چو"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "گوَشت (سر چو گوَشت)"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitserayimءَ"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "زہریتءِ وہدءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitserayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitserayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ایشانی گدان"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ایشانی گدان"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "رہائی دیت"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "ءُ سر جھکات"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ءُ سجدہ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:56:55.524235185Z",
+  "model": "glm-5.3"
+}

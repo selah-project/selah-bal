@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "دانشمند گوشیت ءُ دانشی زیاد کنیت، ءُ فہم وند رہبریاں بگرنت۔",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانشمند"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ءُ زیاد کنیت"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ءُ فہم وند"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "رہبریاں"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "بگرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:39.648242315Z",
+  "model": "glm-5.3"
+}

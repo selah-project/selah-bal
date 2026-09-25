@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اے زنءِ زہگ شپءَ مرد، پرچا کہ آ گوں آییءِ سرءَ اشت۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "اے زنءِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "اشت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "گوں آییءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:54:25.091194470Z",
+  "model": "glm-5.3"
+}

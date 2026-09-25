@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ اگر چے چیزاںءَ منءِ تہ تربیت نہ گرنت، ءُ تسی گوں من دشمنیءَ روچ بیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "چے چیزاںءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוסרو",
+      "gloss": "تربیت نہ گرنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءِ تہ"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ءُ روچ بیت"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گوں من"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "دشمنیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:25:51.082312636Z",
+  "model": "glm-5.3"
+}

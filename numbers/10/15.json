@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ یساکارءِ زہگانءِ ٹولیءِ لشکرءِ سرءَ نتان‌ایل، صوعرءِ زہگ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ءُ … سرءَ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکرءِ"
+    },
+    {
+      "surface": "مטה",
+      "gloss": "ٹولیءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانءِ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یساکارءِ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نتان‌ایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "صوعرءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:32:07.690636962Z",
+  "model": "glm-5.3"
+}

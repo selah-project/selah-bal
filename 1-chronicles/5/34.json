@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اَہیتوب ⟨את⟩ سادوکءَ گوَندیت، ءُ سادوک ⟨את⟩ اَہیمعصءَ گوَندیت.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ءُ اَہیتوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "گوَندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سادوکءَ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "سادوک"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ءُ سادوک"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "گوَندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَہیمعصءَ"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "اَہیمعص"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:29.811872410Z",
+  "model": "glm-5.3"
+}

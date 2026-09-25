@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "نہ توانیں پہ زبت کنیں ⟨את⟩ پاچہ تہ یکے چہ تیریں درءَان، آ جاگہ کہ یاہوہ تیریں ایلوہیم تُہءَ دیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "توانیں"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "پہ زبت کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاچہ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پاچہ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "تہ یکے"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "تیریں درءَان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیریں ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:27.695717889Z",
+  "model": "glm-5.3"
+}

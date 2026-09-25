@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ حلیمان زمینءَ میرنت، ءُ سلامءِ فروانیءَ تہ شاد بنت.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "ءُ حلیمان"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "میرنت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ءُ شاد بنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراونی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلام"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:54.932667594Z",
+  "model": "glm-5.3"
+}

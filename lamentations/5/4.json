@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ماںی آپ گوں زر پیٹاں؛ ماںی چوب گوں قیمتءَ روت.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ماںی آپ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "گوں زر"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "پیٹاں"
+    },
+    {
+      "surface": "עצינو",
+      "gloss": "ماںی چوب"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "گوں قیمتءَ"
+    },
+    {
+      "surface": "יבאو",
+      "gloss": "روت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:53.136163213Z",
+  "model": "glm-5.3"
+}

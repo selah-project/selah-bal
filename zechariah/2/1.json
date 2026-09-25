@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ من ⟨את⟩ چم اٹکاتگ ءُ گندیت ءُ اے بیت کہ چار سنگان۔",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "چم اٹکاتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چم"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چم"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اے بیت کہ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "سنگان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:38.736828131Z",
+  "model": "glm-5.3"
+}

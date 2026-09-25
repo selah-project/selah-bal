@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ کحانءَ وتی انگشت چہ خونءَ تہ شوست، ءُ ہپت وار یاہوہءِ پیشءَ پردهءِ دیمءَ ⟨את⟩ پچ کت۔",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ءُ تہ شوست"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کحانءَ"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "وتی انگشت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خونءَ"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ءُ پچ کت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "وار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دیم"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پردهءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:33.307683486Z",
+  "model": "glm-5.3"
+}

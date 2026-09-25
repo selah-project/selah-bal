@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اِشانی چہ نہ ڈریت، پرچا کہ یاہوہ تری ایلوہیم اُ اِنت کہ تیراءِ پہ لڑیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "اِشانی چہ ڈریت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تری ایلوہیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُ"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "لڑوک"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تیراءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:18.844371567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "پوریں ٟولی ⟨اِنت⟩ یک گوں، چار دہ ہزار ءُ دو ہزار ءُ سئے سد ءُ ششت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ٹولی"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "یک گوں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "دہ ہزار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ءُ ششت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:17:14.765535386Z",
+  "model": "glm-5.3"
+}

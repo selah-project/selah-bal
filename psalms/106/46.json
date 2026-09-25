@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "ءُ دات ⟨את⟩ اِشاں پہ رحمتاں، دیمی همه آیانی قیدیگرانءِ۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اِشاں"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "پہ رحمتاں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دیمی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "آیانی قیدیگرانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:58.314605603Z",
+  "model": "glm-5.3"
+}

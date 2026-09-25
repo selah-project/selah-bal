@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ اگر تو نذر کنگءَ چم کنیت، تُئے تہ گناه نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "תחדل",
+      "gloss": "چم کنیت"
+    },
+    {
+      "surface": "لנדר",
+      "gloss": "نذر کنگءَ پہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُئے تہ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناه"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:16.412235438Z",
+  "model": "glm-5.3"
+}

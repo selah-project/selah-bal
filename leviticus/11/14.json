@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ⟨את⟩ کال `\n    ہڈ مرگ، ءُ ⟨את⟩ باز لئے وتی جنسءَ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کال ہڈ مرگ"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "کال ہڈ مرگ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "باز"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "باز"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "وتی جنسءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:14:32.475607884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اے چوں گوَشت یاہوہءَ: داݔ روت یہوداہءِ شاہءِ گدانءَ ءُ اُدا اے ⟨את⟩ گال ءُ گوَشت:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "داݔ روت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گال"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T21:52:21.735171539Z",
+  "model": "glm-5.3"
+}

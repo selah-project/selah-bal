@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 38:15",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "مہ گپ زنم؟ آ منی سرا گوَشت ءُ آءَ کت۔ من تمامی سالان نرمیءَ روں، منی جانءِ تلخیءِ سرا۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "گپ زنم"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی سرا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "אדדה",
+      "gloss": "نرمیءَ روں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامی"
+    },
+    {
+      "surface": "شנותי",
+      "gloss": "سالان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تلخی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جان"
+    }
+  ],
+  "timestamp": "2026-09-24T21:32:12.263077191Z",
+  "model": "glm-5.3"
+}

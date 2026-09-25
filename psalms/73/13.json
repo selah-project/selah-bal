@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "بےشک یک واری من ءُ پاک کت منی دل ءُ شستم منی دستان ماں بےگناهیءَ۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بےشک"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "یک واری"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "پاک کت"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "منی دل"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "ءُ شستم"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ماں بےگناهیءَ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "منی دستان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:09.133217812Z",
+  "model": "glm-5.3"
+}

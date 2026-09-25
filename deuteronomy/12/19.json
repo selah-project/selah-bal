@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "پہ خود محتاط بیت کہ نہ لاویءَ کل کنیں — ⟨את⟩ لاوی — ہر روچانی توءِ تہ زمینءِ توءِ۔",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "پہ خود محتاط بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تو"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "کل کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاوی"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "روچانی توءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "زمینءِ توءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:32.982373375Z",
+  "model": "glm-5.3"
+}

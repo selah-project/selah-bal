@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "بدگوان بوتنت ءُ گندیتنت مئں زخمان، مئں نادانیءِ پہ.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "بدگوان بوتنت"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "گندیتنت"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "مئں زخمان"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ءِ پہ"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "مئں نادانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:58.924141888Z",
+  "model": "glm-5.3"
+}

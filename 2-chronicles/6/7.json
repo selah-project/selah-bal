@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ آ داودءِ مءِ پِلءِ دلءَ گوں اَت کہ یاہوہءِ، یِسرائیلءِ ایلوہیمءِ نامءِ پہ گدان جوڑ کنت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داودءِ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "مءِ پِلءِ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "پہ جوڑ کتگ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "پہ نامءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:34:03.935111867Z",
+  "model": "glm-5.3"
+}

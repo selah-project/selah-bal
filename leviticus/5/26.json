@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 5:26",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ کاهن آییءِ پہ یاہوہءِ دیما کفارت کنت، ءُ آییءَ بخشیت بیت — پہ یک چہ ہمگ آ کہ کنیت پہ گنہءِ مانیت آییءَ تہ.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ءُ کفارت کنت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءِ پہ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دیما"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ءُ بخشیت بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہمگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "پہ گنہءِ مانیت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:11:59.083517899Z",
+  "model": "glm-5.3"
+}

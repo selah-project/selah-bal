@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "یک مرد ⟨את⟩ وتی پتءِ زال نہ گنت، ءُ وتی پتءِ دامن نہ روپٹ کنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی پتءِ زال"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "وتی پتءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "روپٹ کنت"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "وتی پتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:18.488825869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ موشہ چادراںءَ تہ جتا بوت — آءُ ءُ اسرائیلءِ پیران.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ءُ جتا بوت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "چادراں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ءُ پیران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:35:04.033128586Z",
+  "model": "glm-5.3"
+}

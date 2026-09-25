@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 121,
+  "translation": "یاہوہ تئے چہ ہمگ بدیءَ نگہ بیت، آ تئے ⟨את⟩ تئے جانءَ نگہ بیت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "تئے نگہ بیت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہمگ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدیءَ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "نگہ بیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تئے جانءَ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تئے جان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:35.181727944Z",
+  "model": "glm-5.3"
+}

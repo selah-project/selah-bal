@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ تو گوں آیی کیچہ روچان مانیت، اِنت کہ توءِ براتءِ چڑ پدا گرشت کنت۔",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "ءُ تو مانیت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں آیی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "اِنت کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "پدا گرشت کنت"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "چڑءِ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "توءِ برات"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:28.961450426Z",
+  "model": "glm-5.3"
+}

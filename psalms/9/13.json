@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "کیہ کہ خونءِ گشتگر ءُ ⟨את⟩ اِشاں یاد کت، افگارانی بانگءَ نہ بھیریتگ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "گشتگر"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خونءِ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اِشاں"
+    },
+    {
+      "surface": "زכר",
+      "gloss": "یاد کت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "بھیریتگ"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "بانگءَ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "افگارانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:57.183032868Z",
+  "model": "glm-5.3"
+}

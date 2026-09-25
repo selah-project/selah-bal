@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "ہمے اشور اِشاںءَ گوں جتا بوتگ؛ اِشاں لوتءِ زہگانءَ پہ بازو بوتگنت۔ سیلاہ۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "جتا بوتگ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "اِشاںءَ گوں"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوتگنت"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زہگانءَ پہ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سیلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:57.863355850Z",
+  "model": "glm-5.3"
+}

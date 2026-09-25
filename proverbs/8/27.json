@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "تا کہ آییءَ ⟨את⟩ آسمانان تیار کت، اودا منں اَت؛ تا کہ آییءَ تہومءِ دیکءِ سرا گول خانگ کت.",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "تا کہ آییءَ تیار کت"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "منں اَت"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "خانگ کت"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "گول"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دیکءِ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تہوم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:15.634909474Z",
+  "model": "glm-5.3"
+}

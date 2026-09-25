@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "سپءِ سرءَ ⟨את⟩ وتی تخم بچڑ، ءُ شپءَ سرءَ وتی دست آرام نہ دہ، پرچا کہ تو نہ زانی کجا چنگ بیت — اے یا یک — ءُ اگر دوئے چوش یک چنگ اَنت.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "سپءِ سرءَ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بچڑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی تخم"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "وتی تخم"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ءُ شپءِ سرءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "آرام دہ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "وتی دست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "چنگ بیت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "دوئے"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "چوش یک"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:45.429599534Z",
+  "model": "glm-5.3"
+}

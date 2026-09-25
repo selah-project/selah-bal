@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کیا کہ سنگ چہ دیوارءَ بانگ دِنت ءُ تَک‌چوب چہ دارءَ آییءَ جواب دِنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "چہ دیوارءَ"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "بانگ دِنت"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "ءُ تَک‌چوب"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "چہ دارءَ"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "آییءَ جواب دِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:39:57.494405040Z",
+  "model": "glm-5.3"
+}

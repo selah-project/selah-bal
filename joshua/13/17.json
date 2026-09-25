@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 13:17",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "حشبون ءُ همه وتی شہرے کہ میدانءَ اِنت — دیبون، ءُ باموت بعال، ءُ بیت بعال معون،",
+  "tokens": [
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ همه"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "وتی شہرے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "میدانءَ"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "دیبون"
+    },
+    {
+      "surface": "ובמות",
+      "gloss": "ءُ باموت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعال"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعال"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "معون"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:30.632204696Z",
+  "model": "glm-5.3"
+}

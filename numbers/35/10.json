@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "اے بنانی یسرائیلءَ دگار کن ءُ آئانءَ بگو کہ چوکہ اے ⟨את⟩ یردنءَ پار کننت کنعانءِ زمینءَ،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "دگار کن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ءُ بگو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "آئانءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "پار کننت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردنءَ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:02.309464283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "بلے اوہ درخت کہ تو زانیں کہ آ ورگءِ درخت نہ اِنت، ⟨את⟩ آءَ تو بگاریں ءُ کپیں، ءُ تو آ شاریءِ سرءَ کہ گوں تو جنگ کنیت محاصرہءِ دیوار جوڑ کنیں، تا کہ آءَ سر buzz کنیں.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تو زانیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ورگءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آءَ",
+      "marks": "آءَ"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "تو بگاریں"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "ءُ کپیں"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "ءُ تو جوڑ کنیں"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "محاصرہءِ دیوار"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "آ شاریءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تو"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "آءَ سر buzz کنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:20.948170328Z",
+  "model": "glm-5.3"
+}

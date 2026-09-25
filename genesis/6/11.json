@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ زمین ایلوہیمءِ پیشءَ خراب بوت، ءُ زمین چوسءَ پُر بوت۔",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "ءُ خراب بوت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ءُ پُر بوت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "چوس"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:24.664242018Z",
+  "model": "glm-5.3"
+}

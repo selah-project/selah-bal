@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "پر آییءِ انت تلخ اِنت چوش تکمانی، تیز چوش ترارءِ کہ دو دہن داریت۔",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "پر آییءِ انت"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "تلخ"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "چوش تکمانی"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "تیز"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "چوش ترارءِ"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "کہ دو دہن داریت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:06.542919497Z",
+  "model": "glm-5.3"
+}

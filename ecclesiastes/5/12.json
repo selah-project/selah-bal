@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "یک بیماریں گنہی hast کہ ماں گرمءِ تلءَ مے دیستگ — دولت کہ آیءِ مالکءِ پہ آیءِ گنہءَ نگہ بوتگ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "hast"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "گنہی"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "بیماریں"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مے دیستگ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "گرم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "نگہ بوتگ"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "آیءِ مالکءِ پہ"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "آیءِ گنہءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:42.083373420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ اُٹی ءُ روت، ءُ یوہانتان شارءَ آت۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ءُ اُٹی"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "یوہانتان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:36:02.923668196Z",
+  "model": "glm-5.3"
+}

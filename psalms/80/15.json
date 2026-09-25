@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 80,
+  "translation": "ایلوہیم سباؤتءَ، اے پدا گوَر، چہ آسمانءَ نگاہ کن ءُ گند، ءُ اے تاکءَ دیدن کن.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "پدا گوَر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "نگاہ کن"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "چہ آسمانءَ"
+    },
+    {
+      "surface": "وראה",
+      "gloss": "ءُ گند"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "ءُ دیدن کن"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "تاک"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:12.065360079Z",
+  "model": "glm-5.3"
+}

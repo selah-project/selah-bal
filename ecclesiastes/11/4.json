@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "جو واءءَ نگاه کنت، دِچ نہ کنت؛ ءُ جو بادلانی چُش اِنت، درو نہ کنت۔",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "نگاه کنت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "واءءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "دِچ کنت"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ءُ چُش اِنت"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "بادلانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "درو کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:32.848339506Z",
+  "model": "glm-5.3"
+}

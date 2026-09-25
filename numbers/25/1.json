@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ یسرائیل شٹیمءَ مانیت، ءُ قوم جنکاری شروع کت پہ موآبءِ جنکانءَ روت۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ءُ مانیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "شٹیمءَ"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "ءُ شروع کت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "جنکاری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "جنکانءَ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآبءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:37.967810768Z",
+  "model": "glm-5.3"
+}

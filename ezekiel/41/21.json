@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 41:21",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "ہیکلءِ دروازی پُشت چوکار اِنت؛ ءُ قدسءِ رخءِ مورت چوش مورتءِ۔",
+  "tokens": [
+    {
+      "surface": "ההיכל",
+      "gloss": "ہیکلءِ"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "دروازی پُشت"
+    },
+    {
+      "surface": "רבעה",
+      "gloss": "چوکار"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ءُ رخءِ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "مورت"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "چوش مورتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:25:15.666877919Z",
+  "model": "glm-5.3"
+}

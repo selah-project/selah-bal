@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "من یاہوہ آہم؛ آ منءِ نام اِنت؛ ءُ منءِ شکوہ دگہءَ نہ دم، ءُ منءِ تعریف مورتانءَ نہ دم۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "منءِ نام"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ءُ منءِ شکوہ"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "دگہءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دم"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ءُ منءِ تعریف"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "مورتانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:00.554248593Z",
+  "model": "glm-5.3"
+}

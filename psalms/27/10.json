@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "کیچہ مئے پِت ءُ مئے مات مُن شَر کتگن، یَہووَہ مُن گِٹ کَنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "مئے پِت"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ءُ مئے مات"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "مُن شَر کتگن"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یَہووَہ"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "مُن گِٹ کَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:34.036642292Z",
+  "model": "glm-5.3"
+}

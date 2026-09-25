@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ اے روچءَ بیت کہ من جستجو کنیں ⟨את⟩ تمام قومانءِ نابود کنگءِ پہ، آ کہ یروشلمءِ سرءَ آئنت۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اے روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "من جستجو کنیں"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "نابود کنگءِ پہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام قومان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "آئنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:45:56.331388607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "چہ کہ دیماہی، من تہ قومانءِ میانءَ نکیں کتگ ءُ مردمانءِ میانءَ خوار کتگ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ کہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیماہی"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "نکیں"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "من تہءَ کتگ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "تہ قومان"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "خوار"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "تہ مردم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:05:51.534590840Z",
+  "model": "glm-5.3"
+}

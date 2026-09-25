@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ نہ گریت کُفار پہ قاتلءِ جان کہ آ مجرمءِ پہ مرگ اِنت — پرچا کہ آے مرگءَ مریت.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "گریت"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "کُفار"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "پہ جان"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتلءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "مجرم"
+    },
+    {
+      "surface": "למות",
+      "gloss": "پہ مرگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگءَ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مریت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:20.205865406Z",
+  "model": "glm-5.3"
+}

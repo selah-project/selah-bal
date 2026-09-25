@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ہمگ پچی اتگیں کولان، کول کولے جتا، ءُ اوشانی زالان جتا۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "پچی اتگیں کولان"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "⟨پچی اتگیں⟩"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کول"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کولے"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جتا"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ءُ اوشانی زالان"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جتا"
+    }
+  ],
+  "timestamp": "2026-09-24T22:45:22.050877229Z",
+  "model": "glm-5.3"
+}

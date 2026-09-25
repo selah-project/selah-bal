@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ اِشاں مِدیانءَ سرءَ لشکر کتنت، چوش کہ یاہوہءَ ⟨את⟩ موشہءَ حکم کتگ ؛ ءُ ہر نرءَ بکوشتنت.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "لشکر کتنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مِدیانءَ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "بکوشتنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:44:41.532320018Z",
+  "model": "glm-5.3"
+}

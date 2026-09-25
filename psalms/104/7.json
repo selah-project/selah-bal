@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "تُہءِ شلابءَ چہ آیان بجرگت؛ تُہءِ گجگجءِ آوازءَ چہ آیان تیز درکندنت۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "تُہءِ شلاب"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "بجرگت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "تُہءِ گجگج"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "تیز درکندنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:58.968740202Z",
+  "model": "glm-5.3"
+}

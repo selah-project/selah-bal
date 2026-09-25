@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "یک سونءِ کفچہ، دہ شکلءِ وزنءَ، چہ بخورا پر.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کفچہ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پر"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    }
+  ],
+  "timestamp": "2026-09-24T19:32:29.594728734Z",
+  "model": "glm-5.3"
+}

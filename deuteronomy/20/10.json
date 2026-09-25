@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "کہ توں یک شہرءَ نزدیک بیت پہ گوں آییءَ جنگ کرن، ءُ توں آیءَ بانگ دیں پہ آشتی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "توں … نزدیک بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہرءَ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "پہ جنگ کرن"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "گوں آییءَ"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ءُ توں بانگ دیں"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "پہ آشتی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:12.524069837Z",
+  "model": "glm-5.3"
+}

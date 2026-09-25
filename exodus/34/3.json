@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ هیچ مردم گوں تو نہ چڑھیت، ءُ ہچ مردم پوریں کوهءَ نہ گندیت؛ ہم گۆان ءُ گئوان اے کوهءِ روبہءَ نہ چرتنت۔",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ هیچ مردم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھیت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تو"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہچ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوهءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گۆان"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ءُ گئوان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "چرتنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "روبہءَ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوهءِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:07:01.716732320Z",
+  "model": "glm-5.3"
+}

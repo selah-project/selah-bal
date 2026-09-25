@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ موشہءَ اَہارونءَ، ءُ آییءِ زہگاںءَ، ءُ بنی اسرائیلءِ تمام زہگاںءَ آ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَہارونءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ ءَ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "آییءِ زہگاںءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ ءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگاںءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:05.391431656Z",
+  "model": "glm-5.3"
+}

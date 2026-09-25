@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ آ آءَ گوَشت: نہ، منءِ برات، منءَ مار نہ دے، پرچا کہ اے چوش نہ کن بیت یسرائیلءَ؛ اے نادانی ⟨את⟩ نہ کن.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "منءِ برات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "منءَ مار دے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کن بیت"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے چوش"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یسرائیلءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نادانی"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "نادانی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:46:05.498372712Z",
+  "model": "glm-5.3"
+}

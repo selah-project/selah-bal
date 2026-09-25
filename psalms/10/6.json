@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "آییءِ دلءَ گوَشت: مہ لُرزیت، نسل پہ نسل مہ بَدءَ نہ رسیت۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "آییءِ دلءَ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "لُرزیت"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسلءَ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ءُ نسل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "بَدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:19.603745453Z",
+  "model": "glm-5.3"
+}

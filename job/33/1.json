@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 33:1",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ پرچا، نہ گوش کن، اے ایوب، چہ مہ لبزان، ءُ مہ گیشتریں لبزان بگوش.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ءُ پرچا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اے ایوب"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "چہ مہ لبزان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ مہ گیشتر"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لبز"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "بگوش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:41:58.041182147Z",
+  "model": "glm-5.3"
+}

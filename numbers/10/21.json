@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ کوہاتیان روتنت، مقدس چیزانی گننوک، ءُ مشکانءَ آیانی رسگا لنگ ؤڑ کت۔",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "ءُ روتنت"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "کوہاتیان"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "گننوک"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "مقدس چیزان"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ءُ ؤڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِشکان"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مِشکان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "لنگ"
+    },
+    {
+      "surface": "באם",
+      "gloss": "آیانی رسگا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:31:54.116172027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ موتساءَ ⟨את⟩ بنعا پیدا کت؛ ءُ رپایہ آییءِ زہگ، الفرہ آییءِ زہگ، اَتسل آییءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "ءُ موتساءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنعا"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "بنعا"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "ءُ رپایہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "الفرہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "اَتسل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:47.884327603Z",
+  "model": "glm-5.3"
+}

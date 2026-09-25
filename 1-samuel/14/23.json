@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ یاہوہ اے روچءَ ⟨את⟩ اِسرائیلءَ چنڑ کت، ءُ جنگ ⟨את⟩ بیت اَوَنءَ گزر کت.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "ءُ چنڑ کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "ءُ جنگ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "گزر کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیت اَوَن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "און",
+      "gloss": "اَوَن"
+    }
+  ],
+  "timestamp": "2026-09-24T20:31:47.568924554Z",
+  "model": "glm-5.3"
+}

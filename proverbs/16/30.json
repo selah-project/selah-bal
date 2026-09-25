@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 16:30",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "چمانءَ بند کنت پہ کجی گندیت، لپانءَ کوَڑیت پہ شر پورہ کنت۔",
+  "tokens": [
+    {
+      "surface": "עצה",
+      "gloss": "بند کنت"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "چمانءَ"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "پہ گندیت"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "کجی"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "کوَڑیت"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لپانءَ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "پورہ کنت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:03.804911610Z",
+  "model": "glm-5.3"
+}

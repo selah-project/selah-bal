@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ یوسف جواب دات ءُ گوَشت: اے آییءِ تعب اِنت — سئے گدان سئے روچ اِنت.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ءُ جواب دات"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "تعب"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:44:17.115233853Z",
+  "model": "glm-5.3"
+}

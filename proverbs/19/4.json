@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "دولت گیش یاراں اضافہ کنت، ءُ کمبخت چہ آییءِ یار جتا بیت.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "اضافہ کنت"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "یاراں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ءُ کمبخت"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "چہ آییءِ یار"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "جتا بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:29.661145119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 136,
+  "translation": "⟨את⟩ ماہ ءُ ستارگ پہ شپءَ حکومت کنت، چوں کہ آییءِ ہیسید پہ ہمیشہ اِنت.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماہ"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "ماہ"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ءُ ستارگ"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "پہ حکومت"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "تہ شپ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوں کہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:16.810028346Z",
+  "model": "glm-5.3"
+}

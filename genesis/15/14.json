@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ ہم ⟨את⟩ آ قوم کہ اِشان آیاءَ نوکگری کننت — من داں کنیں، ءُ پد اِشانی اِشان گوں گیشتریں مال درکننت۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ قوم"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "آ قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "نوکگری کننت"
+    },
+    {
+      "surface": "דן",
+      "gloss": "داں کنیں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ءُ پد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِشانی"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "درکننت"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "گوں مال"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیشت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:29:33.368140229Z",
+  "model": "glm-5.3"
+}

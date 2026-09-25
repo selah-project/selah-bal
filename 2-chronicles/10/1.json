@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ رحبام ⟨موسیٰ نہ⟩ شکمءَ روت، پرچا کہ پوری اسرائیل شکمءَ آتنت کہ ⟨את⟩ آییءَ بادشاہ کننت.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبام"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "شکمءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکم"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آتنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "بادشاہ کننت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:37:14.799238509Z",
+  "model": "glm-5.3"
+}

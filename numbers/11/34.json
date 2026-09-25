@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 11:34",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ آیی اے جاگہءِ نامءَ ⟨את⟩ قبروت ہتّاؤہ گُشتیت، پرچا کہ اودا قومءَ ⟨את⟩ دفن کت، آرزومند۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ نام گُشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جاگہءِ نام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "قبروت"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ہتّاؤہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "دفن کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "آرزومند"
+    }
+  ],
+  "timestamp": "2026-09-24T19:33:57.815930249Z",
+  "model": "glm-5.3"
+}

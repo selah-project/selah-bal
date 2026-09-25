@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "مِیاکاہءِ برات اِشعیاہ اِنت؛ اِشعیاہءِ زہگان: زکریاہو۔",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ءِ برات"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِیاکاہ"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "اِشعیاہ"
+    },
+    {
+      "surface": "لבני",
+      "gloss": "ءِ زہگان"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "اِشعیاہءِ"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زکریاہو"
+    }
+  ],
+  "timestamp": "2026-09-25T00:29:59.591707621Z",
+  "model": "glm-5.3"
+}

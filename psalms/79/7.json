@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 79,
+  "translation": "کیچہ اِشاں ⟨את⟩ یعقوبءَ خورت کت ءُ ⟨את⟩ آییءِ گدان واران کت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خورت کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یعقوب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ گدان"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "آییءِ گدان"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "واران کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:39.211367724Z",
+  "model": "glm-5.3"
+}

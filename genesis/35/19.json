@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ راحیل مُت، ءُ اِفراتہءِ رستہءَ تہ دفن بوت — آ ⟨اِنت⟩ بیت لَحم.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ءُ مُت"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحیل"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "ءُ دفن بوت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستہءَ تہ"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "اِفراتہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:39.496883269Z",
+  "model": "glm-5.3"
+}

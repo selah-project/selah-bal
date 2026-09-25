@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ یعقوب چہ وتی خوابا جاگ بیت ءُ گوَشت: بے شک یاہوہ اے جاگہءَ ہست، ءُ من ⟨آ⟩ نہ زانیت۔",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "ءُ جاگ بیت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "چہ وتی خوابا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اے جاگہءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زانیت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:09.196757639Z",
+  "model": "glm-5.3"
+}

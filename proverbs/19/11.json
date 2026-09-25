@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "مردءِ عقل آییءِ غصہ دراز کنت، ءُ آییءِ شان اِنت کہ سرکشیءَ درگوز کنت.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "عقل"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردءِ"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "دراز کنت"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "آییءِ غصہ"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "ءُ آییءِ شان"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "درگوز کنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨سر⟩"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "سرکشیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:39.297937021Z",
+  "model": "glm-5.3"
+}

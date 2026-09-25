@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یاہوہءِ بددعا رزگءِ گدانءَ ⟨اِنت⟩، ءُ راستانیں گدانءَ آ ءُ برکت دیت۔",
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "بددعا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گadanءَ تہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رزگءِ"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "ءُ گadan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستانیں"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:23.215058209Z",
+  "model": "glm-5.3"
+}

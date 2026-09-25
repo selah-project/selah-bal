@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "زمین کہ نہ تہ تنگیءَ تہ آییءَ نان گوشیں، تہ آییءَ ہچ چیز کم نہ بیت؛ زمین کہ آییءِ سنگان آہن ءُ چہ آییءِ کوہان پٹانگ تراشیں،",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "تہ تنگیءَ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "گوشیں"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تہ آییءَ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "کم بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہچ چیز"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تہ آییءَ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "آییءِ سنگان"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "آہن"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "ءُ چہ آییءِ کوہان"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "تراشیں"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "پٹانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:50:33.325020838Z",
+  "model": "glm-5.3"
+}

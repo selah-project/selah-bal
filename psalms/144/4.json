@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 144,
+  "translation": "انسان چوں ہوا اِنت؛ آییءِ روچاں یک گزرانک سیاہیے چوں اَنت۔",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "چوں ہوا"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "آییءِ روچاں"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "چوں سیاہی"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "گزرانوک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:23.298018955Z",
+  "model": "glm-5.3"
+}

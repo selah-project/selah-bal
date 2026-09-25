@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 18:37",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "تو منی قدم پهن کت، منی زیرا، ءُ منی ٹخلیان لڑزیت نہ کننت.",
+  "tokens": [
+    {
+      "surface": "תרחיב",
+      "gloss": "پهن کت"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "منی قدم"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "منی زیرا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "מעדו",
+      "gloss": "لڑزیت کننت"
+    },
+    {
+      "surface": "קרסלי",
+      "gloss": "منی ٹخلیان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:07.813807743Z",
+  "model": "glm-5.3"
+}

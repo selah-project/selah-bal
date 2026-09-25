@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "سہارا بوتگیں سوچ تءَ سلامتی، سلامتی ءَ راکیت، پرچا کہ تءَ تہ بھروسہ اِنت.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "سوچ"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "سہارا بوتگیں"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "راکیت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تءَ تہ"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "بھروسہ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:24.221978178Z",
+  "model": "glm-5.3"
+}

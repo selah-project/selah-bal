@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 114,
+  "translation": "یہودہ آییءِ پاکی بیت، اِسرائیل آییءِ مامورتہ؛",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "بیت \/ بوت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "آییءِ پاکی پہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "مמשלותיו",
+      "gloss": "آییءِ مامورتہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:31.730443602Z",
+  "model": "glm-5.3"
+}

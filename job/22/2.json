@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "کیا یک مردم ایلءَ پہ سود اِنت، یا کہ یک دانا پہ وت سود رسیت؟",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "کیا … ایلءَ پہ"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "سود اِنت"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "یک مردم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "یا کہ"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "سود رسیت"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "پہ وت"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "یک دانا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:38:32.585441960Z",
+  "model": "glm-5.3"
+}

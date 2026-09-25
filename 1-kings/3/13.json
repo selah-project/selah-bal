@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 3:13",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اے کہ تو نہ پُچشت، آ منّی انت پہ تو — گوش داولت ءُ گوش عزت — آ کہ چوش تو یک مردم تہ بادشاہانءَ نہ بوت، تہءِ سئے روچانءَ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "پُچشت"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "منّی انت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "داولت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "چوش تو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "تہ بادشاہانءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "تہءِ روچانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:54:06.606236182Z",
+  "model": "glm-5.3"
+}

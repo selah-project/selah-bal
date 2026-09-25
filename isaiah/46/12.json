@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "منءَ گوشیت، اے سخت دلان، کہ چہ راستی دور اَنت۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "دور اَنت"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "چہ راستی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:35:51.422038320Z",
+  "model": "glm-5.3"
+}

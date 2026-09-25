@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 91,
+  "translation": "کیہ آیی توءَ رہا کنیت چہ شکاریءِ ڈورءَ ءُ چہ تباهیں وبا",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آیی"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "توءَ رہا کنیت"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "چہ ڈورءَ"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "شکاریءِ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "چہ وبا"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "تباهیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:53.434693535Z",
+  "model": "glm-5.3"
+}

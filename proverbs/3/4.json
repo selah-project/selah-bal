@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ تو ایلوہیم ءُ مردمانی چشمانءِ پیشءَ بخشش ءُ چنگ شعور لبز.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ءُ تو لبز"
+    },
+    {
+      "surface": "חן",
+      "gloss": "بخشش"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ءُ چنگ شعور"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشمانءِ پیشءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ءُ مردمانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:57.106172825Z",
+  "model": "glm-5.3"
+}

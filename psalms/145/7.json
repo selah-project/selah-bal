@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 145,
+  "translation": "تری گیش نیکیءِ یاد ءَ روان کننت، ءُ تری راستیءَ سُرود واننت۔",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یادِ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "تری نیکیءِ"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "روان کننت"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ءُ تری راستیءَ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "سُرود واننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:56.202513616Z",
+  "model": "glm-5.3"
+}

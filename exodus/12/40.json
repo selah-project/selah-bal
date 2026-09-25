@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ یسرائیلءِ زہگانی مَنزِل کہ مِتسرایمءَ اِشتن، سی سال ءُ چار سد سال اَت۔",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "ءُ مَنزِل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "اِشتن"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتسرایمءَ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ءُ چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-24T18:55:34.741836364Z",
+  "model": "glm-5.3"
+}

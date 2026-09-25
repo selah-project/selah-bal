@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "بلے اے گپءَ گوش کہ من آءَ توءِ گوشانءَ ءُ چمین قومءِ گوشانءَ گوشانت.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوش ک"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گپءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوشانت"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "توءِ گوشانءَ"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "ءُ گوشانءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "چمین"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:55:39.499545458Z",
+  "model": "glm-5.3"
+}

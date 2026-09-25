@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "چراغِ یاہوہ آدمءِ ساہ اِنت، پیٹءِ تمام کمران گشیت۔",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "چراغ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "گشیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "کمران"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "پیٹءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:00.979600913Z",
+  "model": "glm-5.3"
+}

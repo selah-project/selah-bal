@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "چارمی سالءَ یاہوہءِ گدانءِ بنیاد گنّیج بیت، زیو ماہءَ —",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "چارمی"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "بنیاد گنّیج بیت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ماہءَ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "زیو"
+    }
+  ],
+  "timestamp": "2026-09-24T20:55:04.523098396Z",
+  "model": "glm-5.3"
+}

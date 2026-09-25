@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "منءَ چہ تیری دیمءَ نہ اندیزیت، ءُ تیری گڈینیءِ روح منءَ چہ نہ گپیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "منءَ اندیزیت"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "چہ تیری دیمءَ"
+    },
+    {
+      "surface": "وרוח",
+      "gloss": "ءُ روح"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "تیری گڈینی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گپیت"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "منءَ چہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:02.121365710Z",
+  "model": "glm-5.3"
+}

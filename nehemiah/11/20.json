@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ بقیہ اسرائیلءِ، کاہنان ءُ لاوی، یہوداہءِ ہر شہرءَ اِشتنِت، هر یک وتی ورثتءَ۔",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "ءُ بقیہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر یک"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "وتی ورثتءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:19:02.949103478Z",
+  "model": "glm-5.3"
+}

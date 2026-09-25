@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ گوَشت: اے ادونای یاہوہ، چیزءَ من زانم کہ من آییءَ وارسیں بیت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "چیزءَ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "من زانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "من آییءَ وارسیں بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:28:18.842917619Z",
+  "model": "glm-5.3"
+}

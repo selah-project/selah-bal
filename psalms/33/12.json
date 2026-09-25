@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "شاد اَنت آ گویم کہ یاہوہ آییءِ ایلوہیم اِنت؛ آ قوم کہ آییءَ پہ وتی ورثت چینیتگ.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "شاد اَنت"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "آ گویم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "آییءِ ایلوہیم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "آ قوم"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چینیتگ"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "پہ ورثت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پہ وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:15.162250907Z",
+  "model": "glm-5.3"
+}

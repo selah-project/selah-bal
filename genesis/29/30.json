@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ ہم راشلءَ پہ آیی اَت، ءُ راشلءَ ہم ⟨את⟩ راشل چہ لئہ گیشتر پَت کت، ءُ آییءَ لگ ہم نوک ہپت سال دگہ کار کت.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ آیی"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راشل"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "ءُ … پَت کت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راشل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راشل"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "چہ لئہ گیشتر"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ءُ کار کت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءَ لگ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نوک ہم"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:47.315063033Z",
+  "model": "glm-5.3"
+}

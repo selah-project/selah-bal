@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "تیری گجگجءِ بانگ چکرءَ اِنت؛ بجلیاں دنیا روشن کت؛ زمین لرزیت ءُ کمبیت۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "بانگ"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "تیری گجگجءِ"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "چکرءَ"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "روشن کت"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "بجلیاں"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "لرزیت"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ءُ کمبیت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:40.393272880Z",
+  "model": "glm-5.3"
+}

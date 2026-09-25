@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 9:3",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ہر کس چہ وتانی یارءَ ھوشیار بیت، ءُ ہچ براتءِ سرءِ کھال مکنت؛ پری کہ ہر برات فریب پہ فریب کنت، ءُ ہر یار چغلگو گشت کنت.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ہر کس"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "چہ وتانی یار"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "ھوشیار بیت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہچ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "برات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "کھال مکنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پری کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אח",
+      "gloss": "برات"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "فریب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "فریب کنت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "یار"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "چغلگو"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "گشت کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:48:33.679313249Z",
+  "model": "glm-5.3"
+}

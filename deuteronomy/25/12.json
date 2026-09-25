@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ آییءِ ⟨את⟩ دستءَ کپیت، تُہءِ چشم آییءَ نہ رحم دیت.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ءُ کپیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دستءَ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "آییءِ دستءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رحم دیت"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تُہءِ چشم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:19.075074627Z",
+  "model": "glm-5.3"
+}

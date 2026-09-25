@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "اے گوں کہ تو گندیتءَ، شنگانءِ صاحب — مداین ءُ فارسءِ پادشاہ اَنت۔",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "اے گوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "تو گندیتءَ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "صاحب"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "شنگانءِ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پادشاہ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مداین"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "ءُ فارس"
+    }
+  ],
+  "timestamp": "2026-09-25T00:02:44.795525913Z",
+  "model": "glm-5.3"
+}

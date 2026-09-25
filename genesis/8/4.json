@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ گدان ہپتمی ماہءَ، ماہءِ ہبدہمی روچءَ، اراراتءِ کوهانءِ سرءَ آرام کت۔",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "ءُ آرام کت"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ماہءَ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ہپتمی"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماہءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "کوهان"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "ارارات"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:29.721261446Z",
+  "model": "glm-5.3"
+}

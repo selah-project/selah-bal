@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ شما منیں تمامءِ مشورہءَ پیش کت، ءُ منیں سرزنشتءَ نہ منیت۔",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "ءُ پیش کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامءِ"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "منیں مشورہءَ"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ءُ منیں سرزنشتءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "منیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:08.299196344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ اگر آہنءِ اوزارءَ گوں وارا کت ءُ مرد، آ قاتل اِنت — قاتلءَ مار بیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "اوزارءَ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "آہنءِ"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "وارا کت"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرد"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مار"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:07.400947145Z",
+  "model": "glm-5.3"
+}

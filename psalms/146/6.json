@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 146,
+  "translation": "جوڑاوک آسمانان ءُ زمین، ⟨את⟩ دریا ءُ ءُ ⟨את⟩ ہر آ چہ آیاناں تہ اِنت؛ راستیءِ محافظ پہ ہمیشہ۔",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "جوڑاوک"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ءُ زمین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دریا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ہر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ چہ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "آیاناں تہ"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "محافظ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:35.905784365Z",
+  "model": "glm-5.3"
+}

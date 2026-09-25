@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ نحور نہ سال ءُ بیست سال زندگی کت، ءُ ⟨את⟩ تارحءَ پیدا کت.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ءُ زندگی کت"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "نحور"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تارحءَ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارح"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:00.656552311Z",
+  "model": "glm-5.3"
+}

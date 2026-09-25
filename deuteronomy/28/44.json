@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "او تُہءَ قرض دیت، ءُ تُہ آییءَ قرض نہ دییت؛ او ⟨سر⟩ بیت، ءُ تُہ ⟨دُم⟩ بیت۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "تُہءَ قرض دیت"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تُہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "آییءَ قرض دییت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تُہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "دُم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:24.123597135Z",
+  "model": "glm-5.3"
+}

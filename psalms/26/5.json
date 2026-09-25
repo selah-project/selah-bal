@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "منہ بدکارانی مجلسءَ دشمنی کت، ءُ گوں زالمان نہ بشیناں۔",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "منہ دشمنی کت"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "مجلس"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "بدکاران"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "زالمان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "بشیناں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:51.913541302Z",
+  "model": "glm-5.3"
+}

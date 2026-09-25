@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ شیت پدءَ کہ آ ⟨את⟩ انوشءَ زہگ کت ہپت سال ءُ ہشت سد سال زیست، ءُ زہگان ءُ جنکان کت۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "زیست"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شیت"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پدءَ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "زہگ کتگءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انوش"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انوش"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ءُ ہشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ زہگ کت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ءُ جنکان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:34.086926168Z",
+  "model": "glm-5.3"
+}

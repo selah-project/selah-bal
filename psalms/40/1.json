@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "پہ پیشوا، داودءِ گوݔال، مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ گوݔال"
+    },
+    {
+      "surface": "مזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:25.300683517Z",
+  "model": "glm-5.3"
+}

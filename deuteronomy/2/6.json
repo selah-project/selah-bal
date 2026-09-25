@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "روٹی چہ آشاں ⟨את⟩ گوں زر گریں ءُ بوریں، ءُ گوں چہ آشاں ⟨את⟩ آپ گوں زر گریں ءُ نوشیں.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "گریں"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "چہ آشاں ⟨את⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "گوں زر"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ءُ بوریں"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ گوں چہ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "گریں"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "چہ آشاں ⟨את⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "گوں زر"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "ءُ نوشیں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:01.112148033Z",
+  "model": "glm-5.3"
+}

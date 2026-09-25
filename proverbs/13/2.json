@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "چہ میوہءِ دہانءِ مرد چنگ چیز خانت؛ ءُ خیانتگرانی جان — زلمتی۔",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "چہ میوہءِ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دہانءِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خانت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ چیز"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ءُ جان"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "خیانتگرانی"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زلمتی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:52.869239986Z",
+  "model": "glm-5.3"
+}

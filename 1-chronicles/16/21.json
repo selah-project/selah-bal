@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "کسیءَ ہچ نہ ہل کت کہ اِشاںءَ زلم کنت، ءُ ملکانءَ اِشانی بابتءَ سرزنش کت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ہل کت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "کسیءَ"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "کہ اِشاںءَ زلم کنت"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "ءُ سرزنش کت"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اِشانی بابتءَ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ملکانءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:35.897239984Z",
+  "model": "glm-5.3"
+}

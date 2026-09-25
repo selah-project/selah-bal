@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "تالنت چم سونا ⟨את⟩ آ جوڑ بیت ⟨את⟩ گوں ہمے مالانءَ.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "تالنت"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "چم سونا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "چم"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "جوڑ بیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آ",
+      "marks": "چراغ‌دان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمے مالان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گوں ہمے"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "مالان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ہمے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:27.898168524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 7:8",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ شلیماہ ⟨את⟩ جشن آ وہدءَ ہپت روچ کیت، ءُ گیش اِسرائیل آییءِ گوں، یک گیشتر جمعیت، چہ حماتءِ رندءَ گوَڑ مِتسرایمءَ ءَ۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کیت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلیماہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جشن"
+    },
+    {
+      "surface": "החג",
+      "gloss": "جشن"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "وہدءَ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ گوں"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جمعیت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "یک گیشتر"
+    },
+    {
+      "surface": "מלבוא",
+      "gloss": "رندءَ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "گوَڑ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:37:21.117493017Z",
+  "model": "glm-5.3"
+}

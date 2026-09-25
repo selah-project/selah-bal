@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "راست جتا کنوکءِ پہ تہاری برا اِنت، ءُ درست گوَشتگءِ دُشممن مریت.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "تہاری"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "پہ جتا کنوکءِ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "راست"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "دُشممن"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "درست گوَشتگءِ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مریت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:20.654783100Z",
+  "model": "glm-5.3"
+}

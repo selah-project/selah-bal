@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "ءُ گشتنت چہ قومی گوں قومی، چہ مملکتی گوں دگہ قوم.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ءُ گشتنت"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "چہ قومی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قومی"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "چہ مملکتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:58.600334835Z",
+  "model": "glm-5.3"
+}

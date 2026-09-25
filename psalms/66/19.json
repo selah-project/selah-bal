@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "بلے سچاں ایلوہیم گوشیت، منی دعاءِ آوازءَ گوشیست ءُ دشتیت۔",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "بلے سچاں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "گوشیست ءُ دشتیت"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آوازءَ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "منی دعاءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:24.823320414Z",
+  "model": "glm-5.3"
+}

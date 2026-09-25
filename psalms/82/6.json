@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 82,
+  "translation": "من گوَشتگم: «شما ہدایان اِنت، ءُ شمایان ہمگ علیونءِ زہگان اِنت.»",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گوَشتگم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگان"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "علیون"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "شمایان ہمگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:42.269074996Z",
+  "model": "glm-5.3"
+}

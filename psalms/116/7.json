@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "پدا گر اے منی جان، تئے آرامءَ، پرچا کہ یاہوہ تئے سرءَ خیر کتگ۔",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "پدا گر"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "اے منی جان"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "تئے آرامءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "خیر کتگ"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "تئے سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:22.816941879Z",
+  "model": "glm-5.3"
+}

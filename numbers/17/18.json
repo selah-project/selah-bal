@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ ⟨את⟩ ہارونءِ نام لئویءِ ماتہءَ لکھ، کہ یک ماتہ پہ اِشانی پدرانی گدانی سردارءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ہارونءِ نام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ہارون"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "لکھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ماتہءَ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لئوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "مטה",
+      "gloss": "ماتہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "پہ سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گد"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "اِشانی پدرانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:36:28.076601750Z",
+  "model": "glm-5.3"
+}

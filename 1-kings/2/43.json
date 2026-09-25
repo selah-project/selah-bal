@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ چرا تو یاہوہءِ ⟨את⟩ قسم ءُ ⟨את⟩ حکم نہ بچارتی کہ مَں توءِ سرءَ اَستُم؟",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "ءُ چرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "بچارتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قسم"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حکم"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ہن کتُم"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "توءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:54:28.687740Z",
+  "model": "glm-5.3"
+}

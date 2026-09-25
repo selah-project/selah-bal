@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اے گال کہ چہ یاہوہءَ چہ ⟨את⟩ اِشاں یِرمِیاہُوءَ بوت، آں کہ گوَشت:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "اے گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِشاں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہُوءَ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "چہ ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آں کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:46:44.998451062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 75,
+  "translation": "نہ اُشکیں آئے سنگءَ اُچا؛ ءُ گوں گلءَ سرکشیں گپ نہ زنیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "اُشکیں"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "آئے سنگ"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "گپ زنیت"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "گوں گلءَ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "سرکشیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:56.246253145Z",
+  "model": "glm-5.3"
+}

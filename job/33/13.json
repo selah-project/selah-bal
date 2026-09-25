@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 33:13",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "چُو آییءَ گوں داوی کنیں، پرچا کہ آییءِ ساریں گالانءَ جواب نہ دیت؟",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "چُو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ריבות",
+      "gloss": "داوی کنیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریں"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "گالانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:41:52.797199333Z",
+  "model": "glm-5.3"
+}

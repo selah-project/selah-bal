@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "رچءَ آیے منی زور درگ کت، منی روچانءَ کوتاہ کت۔",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "آیے درگ کت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رچءَ"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "منی زور"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "کوتاہ کت"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "منی روچانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:28.242372238Z",
+  "model": "glm-5.3"
+}

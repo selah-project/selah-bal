@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 6:4",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "آییءِ سرءَ جنگ پاک کڑے، اُٹھے ءُ دوپہرءَ چڑھے۔ وای پہ ماں، کہ روچ پشٹ گشت، کہ شامءِ سایان دراز بنت۔",
+  "tokens": [
+    {
+      "surface": "קדשו",
+      "gloss": "پاک کڑے"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "اُٹھے"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "ءُ چڑھے"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "دوپہرءَ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "لנו",
+      "gloss": "پہ ماں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "پشٹ گشت"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ינטו",
+      "gloss": "دراز بنت"
+    },
+    {
+      "surface": "צללי",
+      "gloss": "سایان"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شامءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:46:08.451944321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "شمران-میرانءِ بادشاہ، یک؛ اکشافءِ بادشاہ، یک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمران-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "میرانءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "اکشافءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:11.618889343Z",
+  "model": "glm-5.3"
+}

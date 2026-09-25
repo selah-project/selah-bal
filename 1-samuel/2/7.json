@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "یاہوہ غریب کنیت ءُ مالمان کنیت، جھلائیت ءُ اے برز کَتائیت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "غریب کنیت"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "ءُ مالمان کنیت"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "جھلائیت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "برز کَتائیت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:24:53.834874436Z",
+  "model": "glm-5.3"
+}

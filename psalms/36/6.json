@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "اے یاہوہ، تہءِ ہیسید آسمانانءَ اِنت، ءُ تہءِ سچائی تا ابران۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "آسمانانءَ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تہءِ ہیسید"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "تہءِ سچائی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ابران"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:55.986170467Z",
+  "model": "glm-5.3"
+}

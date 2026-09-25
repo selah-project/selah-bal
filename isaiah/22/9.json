@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ ⟨את⟩ درزانی شارِ داود گندیتاں کہ گیش بوتنت، ءُ ⟨את⟩ زیرینی کُلابیءِ آپان جمع کتاں۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "درزانی"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "درزانی"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "گندیتاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "گیش بوتنت"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "ءُ جمع کتاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "کُلابی"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "زیرینی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:26:42.584178297Z",
+  "model": "glm-5.3"
+}

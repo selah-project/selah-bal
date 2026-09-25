@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "اگر یاہوہ ماءِ سرءَ رازی بیت، ءُ ماءِ ⟨את⟩ آے زمینءَ ان درآورت، ءُ آءُ ماءَ دیت — زمین کہ دود ءُ شہدءَ روان اِنت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "رازی بیت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ماءِ سرءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ءُ ان درآورت"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ماءَ",
+      "marks": "ماءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "آے زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "آے"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ءُ آءُ دیت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماءَ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "روان"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "دود"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ءُ شہد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:34:41.098820020Z",
+  "model": "glm-5.3"
+}

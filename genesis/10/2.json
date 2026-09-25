@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "یافتءِ زہگ: گومر، ءُ ماگوگ، ءُ مادای، ءُ یاوان، ءُ توبال، ءُ ماشک، ءُ تیراس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافتءِ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "ءُ ماگوگ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ءُ مادای"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ءُ یاوان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ءُ توبال"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ءُ ماشک"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ءُ تیراس"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:36.923981639Z",
+  "model": "glm-5.3"
+}

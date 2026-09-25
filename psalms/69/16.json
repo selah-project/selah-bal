@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 69,
+  "translation": "آپءِ سیلاب منءَ نہ پوشیت ءُ گہا منءَ نہ نِوریت ءُ نہ کنڈ وتی دہن منءَ سر بند کیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "منءَ پوشیت"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "سیلاب"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپءِ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "منءَ نِوریت"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "گہا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "بند کیت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءَ سر"
+    },
+    {
+      "surface": "באר",
+      "gloss": "کنڈ"
+    },
+    {
+      "surface": "پיה",
+      "gloss": "وتی دہن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:49.944786323Z",
+  "model": "glm-5.3"
+}

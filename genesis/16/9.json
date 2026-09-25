@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ یاہوہءِ فرشتہ آیءَ گوَشت: پدا بگر اے تئے بانکءَ، ءُ وتءَ کم بگر آءِ دستءِ تلءَ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "پدا بگر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "تئے بانکءَ"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "ءُ وتءَ کم بگر"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "آءِ دستءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:29:50.635284788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "برکت والا تُی چہ گچین قومانءَ بیت؛ تُیءِ تہ ہچ بانہ نر نہ بیت ءُ نہ بانہ مادہ، ءُ نہ تُیءِ مالءِ تہ۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکت والا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تُی بیت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ گچین"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُیءِ تہ"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "بانہ نر"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ءُ بانہ مادہ"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "ءُ تُیءِ مالءِ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:58.245595366Z",
+  "model": "glm-5.3"
+}

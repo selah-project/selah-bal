@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "لُچت چہ لُچت یاہوہءَ گوں اِشمار گپ کت، چہ کوتھءَ تہ، چہ آتشءِ میانگاں.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "لُچت"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "چہ لُچت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گپ کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "گوں اِشمار"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "چہ کوتھءَ تہ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "چہ میانگاں"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آتشءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:54.587306355Z",
+  "model": "glm-5.3"
+}

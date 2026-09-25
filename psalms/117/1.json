@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 117,
+  "translation": "سیمگ قومان اے یاہوہءَ ⟨את⟩ شاباس کننت، سیمگ اُممان آییءَ شاباس کننت.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "شاباس کننت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سیمگ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "آییءَ شاباس کننت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سیمگ"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "اُممان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:51.872668967Z",
+  "model": "glm-5.3"
+}

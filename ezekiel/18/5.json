@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ یک مرد اگر راست بیت ءُ فیصلہ ءُ انصاف کنیت،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ یک مرد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ کنیت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ءُ انصاف"
+    }
+  ],
+  "timestamp": "2026-09-24T22:14:50.908344004Z",
+  "model": "glm-5.3"
+}

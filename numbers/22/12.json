@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ ایلوہیم بلعمءَ گوَشت: اَییءِ گوں نہ روءُ ⟨את⟩ اے قومءَ نہ بددوہ کن کیہ‌جان آ برکتءِ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بلعمءَ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "رو"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "اَییءِ گوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "بددوہ کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اے قومءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ‌جان"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "برکتءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:39:27.512671632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "آییءِ پاک نامءَ تہ فخر کنیت، یاہوہءَ جست کنوکانی دل شاد بیت۔",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "فخر کنیت"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "تہ نام"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "آییءِ پاک"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "جست کنوکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:34.245210920Z",
+  "model": "glm-5.3"
+}

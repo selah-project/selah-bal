@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "تِنت اے ایلوہیم، آپاں؛ تِنت اے آپاں، اِشاں کجیج بنت؛ بلکہ تہوماں لرزنت۔",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "تِنت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپاں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "تِنت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپاں"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "کجیج بنت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "لرزنت"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "تہوماں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:40.392706141Z",
+  "model": "glm-5.3"
+}

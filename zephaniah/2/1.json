@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "خود ءَ جمع کن، آ ہا جمع کن، اے قوم کہ نہ آرزو بوتگ اِنت،",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "خود ءَ جمع کن"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "ءُ آ ہا جمع کن"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "اے قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "آرزو بوتگ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:07:27.925722570Z",
+  "model": "glm-5.3"
+}

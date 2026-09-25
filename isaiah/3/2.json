@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "زوروار ءُ جنگی مَرد، داوار ءُ پیغمبر، فالگیر ءُ پیر —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "زوروار"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ مَرد"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگی"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "داوار"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ءُ پیغمبر"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ءُ فالگیر"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ءُ پیر"
+    }
+  ],
+  "timestamp": "2026-09-24T21:21:28.511282738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ یاہوہءِ گال شلمہءَ آت کہ گوَش بیت",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ آت کہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلمہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَش بیت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:57:58.450346076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 4:4",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یہودہ گوَشت: بار کنوکانی زور کمزور بوتگ ءُ گاری گیش اِنت، ءُ ما نہ شکیں بنت دیوارءَ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "کمزور بوتگ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "הסבל",
+      "gloss": "بار کنوکانی"
+    },
+    {
+      "surface": "והעפר",
+      "gloss": "ءُ گاری"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ءُ ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "شکیں"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "دیوارءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:15:42.660764123Z",
+  "model": "glm-5.3"
+}

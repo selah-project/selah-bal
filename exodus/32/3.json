@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ سئے قوم گوشءِ اشتگین زرءِ گوہت ⟨את⟩ کڍ کت ءُ آہرونءَ رَونت۔",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "ءُ کڍ کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرءِ گوہت"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "گوہت"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زرءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "اشنءِ گوشءَ"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ءُ رَونت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "آہرونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:07:48.814705863Z",
+  "model": "glm-5.3"
+}

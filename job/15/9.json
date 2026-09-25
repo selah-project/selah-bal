@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "چه زانیت کہ ما نہ زاننت؟ چه سوجیت کہ آ گوں ماں نہ اِنت؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "زانیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "زاننت"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "سوجیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "گوں ماں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:11.015530340Z",
+  "model": "glm-5.3"
+}

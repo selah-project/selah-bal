@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اے اِسرائیلءِ زہگان اَنت: روبین، شِمائون، لایوی، ءُ یہوداہ، یِساکار، ءُ زَبولون.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "روبین"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمائون"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لایوی"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ءُ یہوداہ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساکار"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "ءُ زَبولون"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:24.048896568Z",
+  "model": "glm-5.3"
+}

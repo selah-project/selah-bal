@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "پہ آییءَ بدکشان تہ انصافءَ نہ اُشتیت، ءُ گونہگاران ⟨تہ⟩ راستانی جمعءَ۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "اُشتیت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکشان"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "تہ انصافءَ"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ءُ گونہگاران"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "⟨تہ⟩ جمعءَ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:34.691235793Z",
+  "model": "glm-5.3"
+}

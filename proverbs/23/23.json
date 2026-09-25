@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "سچ گرانیت ءُ اےءَ نہ روت فروشیت — دانائی ءُ تربیت ءُ سمج۔",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "گرانیت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "فروشیت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ءُ تربیت"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "ءُ سمج"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:41.507384062Z",
+  "model": "glm-5.3"
+}

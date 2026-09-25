@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 3:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اے زہگءَ، اِشاں چہ تری چشمان جتا نہ بنت؛ تُوشیاءَ ءُ مزیمءَ پیش دار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "اے زہگءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ילזו",
+      "gloss": "جتا بنت"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "چہ تری چشمان"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "پیش دار"
+    },
+    {
+      "surface": "תשיה",
+      "gloss": "تُوشیاءَ"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "ءُ مزیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:58.146497627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ شامءَ وت، آ ⟨את⟩ لیاہ آییءِ جنک گیپت ءُ ⟨את⟩ آییءَ آءِ سرا گِست، ءُ ⟨آ⟩ آییءَ سر بوت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ وت بوت"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شامءَ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "آ گیپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لیاہ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "آییءِ جنک"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ گِست"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "آییءَ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آءِ سرا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ سر بوت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:26.575227447Z",
+  "model": "glm-5.3"
+}

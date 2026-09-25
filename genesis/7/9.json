@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "دو دو نُوحءَ لَٹارءَ تہ گوَش اَنت، نَر ءُ مادہ، چُوش کہ ایلوہیم نُوحءَ ⟨את⟩ ہُکم کتگ اَت.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "באו",
+      "gloss": "گوَش اَنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوحءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "لَٹارءَ تہ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نَر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ءُ مادہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چُوش کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ہُکم کتگ اَت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نُوحءَ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:27.505694672Z",
+  "model": "glm-5.3"
+}

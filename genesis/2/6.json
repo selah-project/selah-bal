@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یک کھوراں چہ زمینءَ اُوڑیت، ءُ ⟨את⟩ گش رُخءِ خاکءَ آپاریت۔",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "ءُ کھوراں"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "اُوڑیت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ءُ آپاریت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُخ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "خاکءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:44.050950055Z",
+  "model": "glm-5.3"
+}

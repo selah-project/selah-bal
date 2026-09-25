@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "شریں اِنت کہ گوڈءِ گوشہءَ نشت بیت، چہ جنگالیں زالانی ءُ چہ کشیلیں گُدانءَ ءُ ہم‌شرینی ءِ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "شریں"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "نشت بیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "گوشہ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "گوڈ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "چہ زالانی"
+    },
+    {
+      "surface": "مדינים",
+      "gloss": "جنگالیں"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ءُ گُدانءَ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ہم‌شرینی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:31.520244766Z",
+  "model": "glm-5.3"
+}

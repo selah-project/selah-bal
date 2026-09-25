@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 55,
+  "translation": "اے ایلوہیم، مئی دعاءَ گوش کن، ءُ چہ مئی منتءَ پنپ نہ کت۔",
+  "tokens": [
+    {
+      "surface": "האزינה",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "مئی دعاءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "پنپ کت"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "چہ مئی منتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:42.819752542Z",
+  "model": "glm-5.3"
+}

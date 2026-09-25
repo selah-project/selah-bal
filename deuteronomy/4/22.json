@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کیا کہ مں اے زمینءَ مران، مں یردنءَ ⟨את⟩ نہ پارم کنان؛ ءُ تُمی پارت کنیت ءُ اے چنگں زمینءَ ⟨את⟩ تُہرں کرئیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مں"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مران"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "اے زمینءَ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "نہ مں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پارم کنان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یردنءَ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ءُ تُمی"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "پارت کنیت"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ءُ تُہرں کرئیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمینءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "چنگں"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:58.344653649Z",
+  "model": "glm-5.3"
+}

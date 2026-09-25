@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "بِچار! آ درندہ ءُ مرضءَ گوں وتی ناگوار گراندیت، ءُ دروغءَ زائیت۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "بِچار!"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "گوں وتی ناگوار گراندیت"
+    },
+    {
+      "surface": "און",
+      "gloss": "درندہ ءُ"
+    },
+    {
+      "surface": "והرה",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "עמل",
+      "gloss": "مرضءَ"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:46.536097320Z",
+  "model": "glm-5.3"
+}

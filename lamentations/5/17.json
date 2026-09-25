@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "پہ اے دلءِ ما بیمار بوت، پہ ایشانگ چشمان ما تاریک بنت۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "بیمار"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "دلءِ ما"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایشانگ"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "تاریک بنت"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "چشمان ما"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:34.710430615Z",
+  "model": "glm-5.3"
+}

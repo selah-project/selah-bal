@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "منی ئے گالءَ نہ مانیت، ءُ منی پوریں سرزنشتءَ حقارت کت،",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "مانیت"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "منی ئے گالءَ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "حقارت کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "منی سرزنشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:04.529006812Z",
+  "model": "glm-5.3"
+}

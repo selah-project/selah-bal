@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "چند اَنت تئی نوکرءِ روچان؟ کڈا تئی مئی بردگانی سرا فیصلہ کنئے؟",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "چند"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تئی نوکرءِ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کڈا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کنئے"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "مئی بردگانی سرا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:56.067924959Z",
+  "model": "glm-5.3"
+}

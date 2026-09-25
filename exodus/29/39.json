@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "⟨את⟩ یکمی گوژیں سبزگالءَ کنیں ءُ ⟨את⟩ دومی گوژیں کنیں دو شامانی درمیان.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یکمی گوژیں"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "گوژیں"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکمی"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سبزگالءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دومی گوژیں"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "گوژیں"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "בין",
+      "gloss": "درمیان"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "دو شامانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:04:48.623104907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ مگڈ ما روتگءَ اِنت تہ گرءَ: تہ انصافءِ جاگہءَ اوتھا زالم اِنت، ءُ تہ راستیءِ جاگہءَ اوتھا زالم اِنت۔",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ءُ مگڈ"
+    },
+    {
+      "surface": "ראיתی",
+      "gloss": "ما روتگءَ اِنت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "گرءَ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھا"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "زالم"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ءُ جاگہ"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھا"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "زالم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:21.494787946Z",
+  "model": "glm-5.3"
+}

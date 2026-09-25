@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "نہ چوش اَے رِشوان، بلکہ چوش بُھُش اَنت کہ شَل آییءَ در کیت۔",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כֵ֥ן",
+      "gloss": "چوش اَے"
+    },
+    {
+      "surface": "הָרְשָׁעִ֑ים",
+      "gloss": "رِشوان"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אִ֝ם",
+      "gloss": ""
+    },
+    {
+      "surface": "כַּמֹּ֗ץ",
+      "gloss": "چوش بُھُش"
+    },
+    {
+      "surface": "אֲֽשֶׁר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תִּדְּפֶ֥נּוּ",
+      "gloss": "آییءَ در کیت"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "شَل"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:05.519815886Z",
+  "model": "glm-5.3"
+}

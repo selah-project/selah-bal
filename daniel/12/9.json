@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ گوَشت: رو اے دانیال، چیں کہ گالان بند کرتگ ءُ مہر بوتگ اِنت، تا کٹءِ وہتءَ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "رو"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "اے دانیال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چیں کہ"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "بند کرتگ"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "ءُ مہر بوتگ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہتءِ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "کٹ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:05:27.850454876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 92,
+  "translation": "دہ-تارءِ سرءَ، ءُ نبالءِ سرءَ، ہگایونءِ سرءَ، گوں کنور.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "دہ-تار"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "نבל",
+      "gloss": "نبال"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ہگایون"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "گوں کنور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:40.641427254Z",
+  "model": "glm-5.3"
+}

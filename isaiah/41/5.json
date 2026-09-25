@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "جزیران گندیت ءُ ترسنت، زمینءِ سراں لرزنت، نزیک بوتنت ءُ آتنت۔",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "איים",
+      "gloss": "جزیران"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ءُ ترسنت"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "سراں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "لرزنت"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "نزیک بوتنت"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "ءُ آتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:13.389920966Z",
+  "model": "glm-5.3"
+}

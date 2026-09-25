@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 68,
+  "translation": "پہ رہبرءِ، پہ داودءِ، مزمور، گانی۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہبرءِ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داودءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:05.865791586Z",
+  "model": "glm-5.3"
+}

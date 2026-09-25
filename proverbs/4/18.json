@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 4:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ راستاںءِ راہ چوش روشنائیءِ چمکءَ ⟨اِنت⟩، روت ءُ روشن بیت، تا ⟨کہ⟩ روچ بَتا بیت.",
+  "tokens": [
+    {
+      "surface": "וארח",
+      "gloss": "ءُ راہ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستاںءِ"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "چوش روشنائی"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "چمکءَ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ءُ روشن بیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "بَتا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:05.069967802Z",
+  "model": "glm-5.3"
+}

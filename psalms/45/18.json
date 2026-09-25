@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "من تہ ءِ نامءَ یاد کنان تہ ہر نسل ءُ نسل؛ اے پہ ادگیں قومان تہ ءِ شکر گنت ہمیشہ ءُ ابدءَ.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "یاد کنان"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تہ ءِ نام"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہر"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ءُ نسل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے پہ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "تہ ءِ شکر گنت"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ ابدءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:13.713966602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "آتان اشتے گندیتنت، اکے تہار گپتنت، ترسیتنت ءُ گریز کتنت۔",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "آتان"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "گندیتنت"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اکے"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "تہار گپتنت"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ترسیتنت"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "گریز کتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:41.921905739Z",
+  "model": "glm-5.3"
+}

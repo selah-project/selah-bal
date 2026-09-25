@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "تو وتی رخ منی گناهانی چہ پشت کن، ءُ منی سار بدکاریانءَ مِہ کن.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "پشت کن"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تو وتی رخ"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "منی گناهانی چہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ سار"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "منی بدکاریانءَ"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "مِہ کن"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:43.578983013Z",
+  "model": "glm-5.3"
+}

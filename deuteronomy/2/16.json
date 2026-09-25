@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آے وتیں بوت کہ چوش کہ جنگءِ گیش مردم چہ قومءِ میانءَ مرگءَ تمام بوتنت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ آے وتیں بوت"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "تمام بوتنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگءِ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرگءَ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "چہ میانءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:56.177895999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "بَعنا حوشیءِ زہگ آشیرءَ ءُ بَعَلوتءَ اَت۔",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "بَعنا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "حوشی"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "آشیرءَ"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ءُ بَعَلوتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:53:36.982037582Z",
+  "model": "glm-5.3"
+}

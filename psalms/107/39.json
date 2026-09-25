@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "ءُ کم بیتنت ءُ سرد بوتنت چہ دچاری، چہ بدی ءُ چہ غم۔",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "ءُ کم بیتنت"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ءُ سرد بوتنت"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "چہ دچاری"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ءُ چہ غم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:30.058324353Z",
+  "model": "glm-5.3"
+}

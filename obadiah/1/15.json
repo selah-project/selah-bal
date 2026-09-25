@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "پرچا یاہوہءِ روچ ہمگ قومانءِ سرءَ نزدیک اِنت؛ چوش کہ توءَ کت، تءَ کنت بیت؛ تئے بدلہ تئے سرءَ پدا روت",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومانءِ سرءَ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "توءَ کت"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنت بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تءَ"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "تئے بدلہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پدا روت"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "تئے سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:36:19.019832563Z",
+  "model": "glm-5.3"
+}

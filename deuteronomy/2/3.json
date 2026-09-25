@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "گیش بوتگ اِنت شمار پہ آے کوہءِ چرخ کتنا؛ روت شمار شمالءَ سُو۔",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "گیش بوتگ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شمار پہ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "چرخ کتنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آے کوہ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "آے کوہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آے"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "روت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شمار پہ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "شمالءَ سُو"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:15.717571455Z",
+  "model": "glm-5.3"
+}

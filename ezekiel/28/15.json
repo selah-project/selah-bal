@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 28:15",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "تُم اِنت تو تیاں راہاناں تہ، چہ آ روچءَ کہ تو جوڑ بوتگءِ، تا کہ زیتی تہ تہ پدا بوت۔",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "تُم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "تیاں راہاناں تہ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "چہ روچءَ"
+    },
+    {
+      "surface": "הבראך",
+      "gloss": "کہ تو جوڑ بوتگءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "پدا بوت"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "زیتی"
+    },
+    {
+      "surface": "بך",
+      "gloss": "تہ تہ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:05:54.245971618Z",
+  "model": "glm-5.3"
+}

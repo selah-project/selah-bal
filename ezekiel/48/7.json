@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "ءُ رائوبنءِ سرحدءِ سرءَ، چے رتگیں دمءَ چے گودیں دمءَ — یہودا یک ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ءُ …ءِ سرءَ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رائوبن"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "چے …دمءَ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "رتگیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "چے"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "دمءَ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "گودیں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:28:54.805735368Z",
+  "model": "glm-5.3"
+}

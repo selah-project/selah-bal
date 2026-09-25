@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ ⟨את⟩ حُکوک ءُ ⟨את⟩ آییءِ مگرشے، ءُ ⟨את⟩ رحوب ءُ ⟨את⟩ آییءِ مگرشے،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حُکوک"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "حُکوک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ مگرشے"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "آییءِ مگرشے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "رحوب"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رحوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ مگرشے"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "آییءِ مگرشے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:18.899185897Z",
+  "model": "glm-5.3"
+}

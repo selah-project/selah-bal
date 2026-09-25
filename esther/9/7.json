@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ ⟨את⟩ پَرشَنداتا ءُ ⟨את⟩ دَلفون ءُ ⟨את⟩ اَسپاتا",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پَرشَنداتا"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "پَرشَنداتا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دَلفون"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "دَلفون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اَسپاتا"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "اَسپاتا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:27.546160164Z",
+  "model": "glm-5.3"
+}

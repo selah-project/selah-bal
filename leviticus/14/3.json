@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ کاہن برون روت اِنت چہ گودءَ، ءُ کاہن گندیت، ءُ اے کہ نگہءِ زہریءِ چہ زہری شفا بوتگ اِنت،",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ برون روت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "برون"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "گودءَ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ اے کہ"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "شفا بوتگ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نگہءِ"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "زہریءِ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "زہری"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:53.947513188Z",
+  "model": "glm-5.3"
+}

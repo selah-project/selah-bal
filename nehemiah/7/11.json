@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "پَچَت موابءِ زہگان، یشوعءِ زہگانی ءُ یوآبءِ، دو ہزار ءُ ہشت سد ہشت دہ ءُ ہشت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَچَت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موابءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یشوعءِ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ءُ ہشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ہشت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ ءُ ہشت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:13.721333892Z",
+  "model": "glm-5.3"
+}

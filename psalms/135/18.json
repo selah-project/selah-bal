@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "چوش آشاں آشانیں جوڑ کنوکان بنت؛ ہر آ کہ آشاں تُھامیت",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "چوش آشاں"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "آشانیں جوڑ کنوکان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر آ کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨آ کہ⟩"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "تُھامیت"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "آشاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:31.817186456Z",
+  "model": "glm-5.3"
+}

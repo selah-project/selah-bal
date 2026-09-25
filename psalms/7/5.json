@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اگر من شونی منءَ بد بدل دیم ءُ دشمن منءَ بے سبب رہا کت —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "بدل دیم"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "شونی منءَ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ءُ رہا کت"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "دشمن منءَ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "بے سبب"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:20.091755526Z",
+  "model": "glm-5.3"
+}

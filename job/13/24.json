@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 13:24",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "چرا تئے منہ پوشیت، ءُ منءَ پہ وتئے دشمن شماریت؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تئے منہ"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "پوشیت"
+    },
+    {
+      "surface": "ותחשבני",
+      "gloss": "ءُ منءَ شماریت"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "پہ دشمن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ وتئے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:25.257801185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "جہ چنگائیءِ بدلہ بدی پدا گندیت، چہ آییءِ گدانءَ بدی جتا نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "پدا گندوک"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چنگائی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "جتا بیت"
+    },
+    {
+      "surface": "رעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "چہ آییءِ گدانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:28.929740445Z",
+  "model": "glm-5.3"
+}

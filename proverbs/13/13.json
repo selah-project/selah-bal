@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "آ کہ گالءَ بے عزت کنت، آییءَ پابند بیت؛ ءُ آ کہ حکمءَ ڈرنت، آییءَ پاداش دات بیت.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "بے عزت کنت"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "گالءَ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "پابند بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ءُ ڈرنت"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکمءَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "پاداش دات بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:26.767250476Z",
+  "model": "glm-5.3"
+}

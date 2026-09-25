@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ تُوعُو چماتءِ شاہ گوشیت کہ داودءَ ⟨את⟩ ہددعزر صوبہءِ شاہءِ پوریں لشکر مار کتگ۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "تُوعُو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "چماتءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "مار کتگ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں لشکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ہددعزرءِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:29:01.087129860Z",
+  "model": "glm-5.3"
+}

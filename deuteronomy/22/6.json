@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 22:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اگر تُءِ پیشءَ راہءَ تہ یک مرگءِ آشیانہ مَل کیت — کہیں دارءَ تہ یا زمینءَ، گچینان یا ہیکان، ءُ ماں گچینانءَ یا ہیکانءَ تہ بیٹھی اِنت — ماںءَ نہ گپیت، گوں گچینانءَ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "مَل کیت"
+    },
+    {
+      "surface": "קן",
+      "gloss": "آشیانہ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "مرگءِ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تُءِ پیشءَ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہءَ تہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دارءَ تہ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "אפרחים",
+      "gloss": "گچینان"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "ביצים",
+      "gloss": "ہیکان"
+    },
+    {
+      "surface": "והאם",
+      "gloss": "ءُ ماں"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "بیٹھی اِنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "האפרחים",
+      "gloss": "گچینان"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הביצים",
+      "gloss": "ہیکانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گپیت"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ماںءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "گچینانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:56.876472972Z",
+  "model": "glm-5.3"
+}

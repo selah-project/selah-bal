@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ من کتابءَ نبیستہ ءُ مہر کت ءُ گواہانءَ پیش کت ءُ زرءَ تڑازوءَ تار کت۔",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "نبیستہ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "کتابءَ"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "ءُ مہر کت"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "ءُ پیش کت"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہانءَ"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "ءُ تار کت"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "زرءَ"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "تڑازوءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:57:47.550852785Z",
+  "model": "glm-5.3"
+}

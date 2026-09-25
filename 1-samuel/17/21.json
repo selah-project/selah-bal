@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ یِسْرایل ءُ پلشتین لشکر چم کت لشکرءِ مقابلءَ۔",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "چم کت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسْرایل"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ءُ پلشتین"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "مقابلءَ پہ"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "لشکر"
+    }
+  ],
+  "timestamp": "2026-09-24T20:33:15.055418431Z",
+  "model": "glm-5.3"
+}

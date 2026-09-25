@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "یاہوہ، تُو مءِ جان چہ شیئول اُچ کت، مءَ زنده کت چہ بورءِ ڈگۏکاں۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "اُچ کت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیئول"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "مءِ جان"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "مءَ زنده کت"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "چہ ڈگۏکاں"
+    },
+    {
+      "surface": "בור",
+      "gloss": "بورءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:15.317211198Z",
+  "model": "glm-5.3"
+}

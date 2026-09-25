@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 4:13",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ آیءَ شماءَ ⟨את⟩ وتی عہد گوشایت کت، کہ آ فرمان کت ⟨את⟩ شماءَ کہ کنیں، دہ گالان؛ ءُ آیانءَ دو لچءِ سنگءِ سرءَ نبشت.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ءُ گوشایت کت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی عہد"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "وتی عہد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان کت"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شماءَ",
+      "marks": "کنیں"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کہ کنیں"
+    },
+    {
+      "surface": "عשרת",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "ויכתבם",
+      "gloss": "ءُ آیانءَ نبشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "لچ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "سنگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:49:00.449242119Z",
+  "model": "glm-5.3"
+}

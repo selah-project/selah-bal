@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "پا آییءَ تپیت کنت — غریبانی پایان ءُ کمبزانی قدمان.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "تپیت کنت (آییءَ)"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پایانِ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "قدمانِ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "کمبز"
+    }
+  ],
+  "timestamp": "2026-09-25T01:01:51.627534414Z",
+  "model": "glm-5.3"
+}

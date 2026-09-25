@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "پہ اے ہوڈ من گوَشت: منءَ گوش، من دانش نشانیں، بلے خود من",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "پہ اے ہوڈ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "من گوَشت"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "نشانیں"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "خود من"
+    }
+  ],
+  "timestamp": "2026-09-24T23:40:43.814515598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 52,
+  "translation": "پہ رہنما، آموزشیں ⟨سرود⟩، داودءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہنما"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "آموزشیں"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:21.601056695Z",
+  "model": "glm-5.3"
+}

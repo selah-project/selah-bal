@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "یاہوہءِ آواز سدران پروشیت؛ ءُ یاہوہءَ ⟨את⟩ لبنانءِ سدران پروشیت۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "پروشیت"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "سدران"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ءُ پروشیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لبنانءِ سدران"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "سدرانِ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبنان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:43.750385801Z",
+  "model": "glm-5.3"
+}

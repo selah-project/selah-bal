@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ آییءَ لُڑ اے چوں بوت: قوم ⟨את⟩ آءَ دروازہءَ تہ کُشیل کت ءُ آ مُت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ لُڑ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "ءُ کُشیل کت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازہءَ تہ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:11:36.484860976Z",
+  "model": "glm-5.3"
+}

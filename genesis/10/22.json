@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "شیمءِ زہگان: ایلام، ءُ اشور، ءُ ارپکشد، ءُ لود، ءُ ارام۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیمءِ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ایلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ءُ اشور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ءُ ارپکشد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ءُ لود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ءُ ارام"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:58.908379702Z",
+  "model": "glm-5.3"
+}

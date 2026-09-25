@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 55,
+  "translation": "ڈر ءُ لرزش منءَ تہ اَنت، ءُ دہشت منءَ ڈھنڈھیت۔",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "ءُ لرزش"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منءَ تہ"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "ءُ منءَ ڈھنڈھیت"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "دہشت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:39.317130887Z",
+  "model": "glm-5.3"
+}

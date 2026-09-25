@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 31:1",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ بوت چہ یازدمیں سالءَ، سئیمی ماہءَ، ماہءِ یکمی روچءَ، کہ یاہوہءِ گال منءَ اَت، کہ گوَشت:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "چہ یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בשלישי",
+      "gloss": "سئیمی ماہءَ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "چہ یکمی"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماہءَ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:21:21.135890683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ دگہ سنگان گرنت ءُ آیانءَ اے سنگانی تلءَ آنتنت، ءُ دگہ ایچار گرنت ءُ ⟨את⟩ گدانءَ لیپیت.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ءُ گرنت"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "سنگان"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ءُ آنتنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "اے سنگانی"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ءُ ایچار"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "ءُ لیپیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گدان"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:18:13.468588167Z",
+  "model": "glm-5.3"
+}

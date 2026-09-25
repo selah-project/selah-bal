@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "همہ قوم کہ پات بوتگ چہ ہتیان ءُ اموریان ءُ پرزیان ءُ حویان ءُ یبوسیان، کہ اِشنت نہ چہ یسرائل —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همہ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "پات بوتگ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ہتیان"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ءُ اموریان"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ءُ پرزیان"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ءُ حویان"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ءُ یبوسیان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "چہ یسرائل"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِشنت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:37:21.039748597Z",
+  "model": "glm-5.3"
+}

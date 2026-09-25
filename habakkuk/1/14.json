@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ مردمءَ چو ماہیگانءِ دریا کنیءِ، چو کشوکی کہ آءِ سر حاکم ⟨نیست⟩؟",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "ءُ کنیءِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمءَ"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "چو ماہیگانءِ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "کרמش؟ no כרמש",
+      "gloss": "چو کشوکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آءِ سر"
+    }
+  ],
+  "timestamp": "2026-09-24T22:40:12.498341044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 25:9",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ یکمیں پشک آصفءِ پہ پہ یوسفءَ برت؛ گدلیاہوءَ دومی، آ ءُ آئیءِ براتان ءُ آئیءِ زہگان دو دہ۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "برت"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "پشک"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یکمیں"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آصفءِ پہ"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "پہ یوسفءَ"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "گدلیاہوءَ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ءُ آئیءِ براتان"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ءُ آئیءِ زہگان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:07.683579944Z",
+  "model": "glm-5.3"
+}

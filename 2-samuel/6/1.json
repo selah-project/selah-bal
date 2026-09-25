@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ داود پدا ⟨את⟩ اسرائیلءِ ہر گچین بچارءَ یکجا کت، تہ ہزار۔",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ءُ پدا یکجا کت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائیلءِ ہر گچین بچار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "گچین بچار"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-24T20:44:16.439731144Z",
+  "model": "glm-5.3"
+}

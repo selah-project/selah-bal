@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 96,
+  "translation": "کشتزار جہپیت ءُ سارے آ کہ آییءِ تہ اِنت؛ اَوکیت سارے جنگلءِ درختان گیت گنت۔",
+  "tokens": [
+    {
+      "surface": "יעלز",
+      "gloss": "جہپیت"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کشتزار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ سارے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءِ تہ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اَوکیت"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "گیت گنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "درختانءِ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:00.298680363Z",
+  "model": "glm-5.3"
+}

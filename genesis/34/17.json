@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ اگر شمے ماءِ گوش نہ کنیت پہ ختنہ بوتگ، پس ما وتی جنک ⟨את⟩ گپت ءُ روت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "گوش نہ کنیت"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ماءِ"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "پہ ختنہ بوتگ"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "ءُ ما گپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جنک"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "وتی جنک"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "ءُ روت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:48:57.105116672Z",
+  "model": "glm-5.3"
+}

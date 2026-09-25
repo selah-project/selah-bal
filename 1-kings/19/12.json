@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ زلزلاںءِ پدا آتش — نہ آتشءَ تہ یاہوہ؛ ءُ آتشءِ پدا چُپءِ نازک آواز۔",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ءُ پدا"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "زلزلاںءِ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آتشءَ تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ءُ پدا"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آتشءِ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "چُپءِ"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "نازک"
+    }
+  ],
+  "timestamp": "2026-09-25T00:59:31.250638399Z",
+  "model": "glm-5.3"
+}

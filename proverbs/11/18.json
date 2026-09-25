@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "بدکار دروگءِ کار کنیت، ءُ راستیءِ تخم پچوک پہ راستیں اجر سر کنیت۔",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروگءِ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ءُ تخم پچوک"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستیءِ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:19.222081699Z",
+  "model": "glm-5.3"
+}

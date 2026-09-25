@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ بنی اسرائیل موشہءَ ⟨את⟩ مُوآبءِ میدانانءَ سی روچ گریانت؛ ءُ موشہءِ گریان ءُ سوگءِ روچان پور بیتنت۔",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "ءُ گریانت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشہءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "میدانانءَ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآبءِ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "ءُ پور بیتنت"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "گریانءِ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ءُ سوگءِ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:50.315066521Z",
+  "model": "glm-5.3"
+}

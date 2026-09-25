@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ گadan اِشٹیت ⟨את⟩ یاہوہءِ فرشتہءَ، ءُ چپیت تہ دیوارءَ، ءُ چپیت ⟨את⟩ بیلامءِ پا تہ دیوارءَ، ءُ پدا زر کت آییءَ۔",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ءُ اِشٹیت"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرشتہءَ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "ءُ چپیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوارءَ"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "ءُ چپیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پا"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلامءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوارءَ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ءُ پدا"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "زر کت آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:53:46.290643047Z",
+  "model": "glm-5.3"
+}

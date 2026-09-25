@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ چو کسے مالءِ جانءَ مارِت، آییءَ پور کنت — جان تہ جان۔",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ءُ چو کسے مارِت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانءَ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مالءِ"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "آییءَ پور کنت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:31.786413660Z",
+  "model": "glm-5.3"
+}

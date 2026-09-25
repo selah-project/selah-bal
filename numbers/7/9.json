@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ کہاتءِ زہگانءَ نہ دات، پرچا کہ پاکءِ کار آیانءِ سرءَ اِنت — کاندءَ آ چکنت۔",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ءُ ...ءِ زہگانءَ"
+    },
+    {
+      "surface": "کہات",
+      "gloss": "کہات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "آیانءِ سرءَ"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "کاندءَ"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "چکنت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:53:33.323095340Z",
+  "model": "glm-5.3"
+}

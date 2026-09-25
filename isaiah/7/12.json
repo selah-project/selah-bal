@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ اَحازءَ گوَشت: نہ پرسش کنءاں، ءُ نہ یاہوہءَ ⟨את⟩ آزمائش کنءاں.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَحازءَ"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "پرسش کنءاں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "آزمائش کنءاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:22:09.716157654Z",
+  "model": "glm-5.3"
+}

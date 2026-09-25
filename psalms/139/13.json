@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 139,
+  "translation": "چون تُو منی گرڈان جوڑ کت، منی ماءِ چڑیءَ تہ منی گنڈیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "منی گرڈان"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "منی گنڈیت"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "چڑیءَ تہ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "منی ماءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:55.229919897Z",
+  "model": "glm-5.3"
+}

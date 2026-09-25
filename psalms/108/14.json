@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 108,
+  "translation": "گوں ایلوہیم ماں بہادری کنیں، ءُ آ اِنت کہ دشمنانءَ پجا کنت.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "گوں ایلوہیم"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادری"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "پجا کنت"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "دشمنانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:33.231667549Z",
+  "model": "glm-5.3"
+}

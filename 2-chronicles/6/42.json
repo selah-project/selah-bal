@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "اے یاہوہ ایلوہیم، تُئے ماشیاحانی رُخ پدا مٹا؛ داودءِ تُئے غلامءِ ہیسیدانی یاد کن۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "پدا مٹا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُخ"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "تُئے ماشیاحانی"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "یاد کن"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "ہیسیدانی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داودءِ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تُئے غلامءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:33:41.811694382Z",
+  "model": "glm-5.3"
+}

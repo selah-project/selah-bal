@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 84,
+  "translation": "چہ گوَن شاد اِنت آے زانگءَ کہ آییءِ زور تہ ئے اِنت؛ رہان اِشاںءی دلءَ هنت.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "چہ گوَن شاد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آے زانگءَ"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تہ ئے"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "رہان"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "اِشاںءی دلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:22.440242298Z",
+  "model": "glm-5.3"
+}

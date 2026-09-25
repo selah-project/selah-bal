@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ غلام یضحاق ⟨اسحاق⟩ءَ گوں ⟨את⟩ پوریں گالانی بارءَ سوچیت کہ آ چا کتگ.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ءُ سوچیت"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "یضحاق ⟨اسحاق⟩ءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں گالان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "چا کتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:34:00.916360176Z",
+  "model": "glm-5.3"
+}

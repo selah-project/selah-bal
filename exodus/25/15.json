@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "تہ صندوقءِ انگوٹھانی بادیان بیتنت؛ چہ آیءَ نہ در بیتنت.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "تہ انگوٹھانی"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوقءِ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بیتنت"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "بادیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יסרو",
+      "gloss": "در بیتنت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:57.401186322Z",
+  "model": "glm-5.3"
+}

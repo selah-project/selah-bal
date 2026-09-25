@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ زبلونءِ زہگانءِ ٹولیءِ لشکرءِ سرءَ ایلیاب، حیلونءِ زہگ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ءُ … سرءَ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکرءِ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ٹولیءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانءِ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبلونءِ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ایلیاب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "حیلونءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:32:07.690752070Z",
+  "model": "glm-5.3"
+}

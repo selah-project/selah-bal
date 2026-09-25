@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 11:13",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ اَرفکشاد چہ پسءَ کہ ⟨את⟩ شِلح جوڑ کت، سئے سال ءُ چار سد سال زندگی کت، ءُ زہگان ءُ جنکان جوڑ کت.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "زندگی کت"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "اَرفکشاد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "چہ پسءَ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شِلح"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شِلح"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ءُ چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ءُ جنکان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:17.971383292Z",
+  "model": "glm-5.3"
+}

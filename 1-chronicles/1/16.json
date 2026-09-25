@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ⟨את⟩ ارودی ءُ ⟨את⟩ زمری ءُ ⟨את⟩ حمتی۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ارودی"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ارودی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "زمری"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "زمری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حمتی"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "حمتی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:34.330882823Z",
+  "model": "glm-5.3"
+}

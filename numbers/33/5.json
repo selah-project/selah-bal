@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ اِسرائیلءِ زہگان چہ رعمسس روگ کت، ءُ سکوتءَ گدان زت۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ءُ روگ کت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "چہ رعمسس"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ءُ گدان زت"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "سکوتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:45:18.823248313Z",
+  "model": "glm-5.3"
+}

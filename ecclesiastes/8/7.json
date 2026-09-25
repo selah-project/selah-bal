@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کیہ کہ آءُ ہچ نہ زانت چی بیت؛ کیہ کہ چوش کہ بیت، کے آییءَ پیش کنت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نہ ہست"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "پیش کنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:01.287583418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 65,
+  "translation": "پہ پیشوا، مز مور، پہ داودءِ، گانی۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مز مور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داود"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:49.575428680Z",
+  "model": "glm-5.3"
+}

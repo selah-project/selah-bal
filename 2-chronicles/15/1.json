@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ عزریاہوءَ، عوددءِ زہگ، آییءِ سرءَ ایلوہیمءِ روح اَت۔",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "ءُ عزریاہوءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "عوددءِ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:39:04.992745458Z",
+  "model": "glm-5.3"
+}

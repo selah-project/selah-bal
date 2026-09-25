@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ بادشاہءَ چیر گوَشت ءُ یہودہ ءُ یروشلمءِ گیشتر بزرگان ⟨את⟩ جمع کت۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ چیر گوَشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہءَ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ءُ جمع کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیشتر بزرگان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ءُ یروشلم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:48:02.885435570Z",
+  "model": "glm-5.3"
+}

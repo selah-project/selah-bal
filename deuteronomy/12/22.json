@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "بلے چوش کہ ⟨את⟩ آہو ءُ ⟨את⟩ ہرن کھاگ بنت، ہمے چوں تُءَ آءَ کھا؛ ناپاک ءُ پاک یکجا آءَ کھانت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاگ بنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آہو"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "آہو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ہرن"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ہرن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ہمے چوں"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "تُءَ آءَ کھا"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ءُ پاک"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "آءَ کھانت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:09.591972646Z",
+  "model": "glm-5.3"
+}

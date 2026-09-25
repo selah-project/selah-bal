@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ یحزیقیاہو چہ کاهنان ءُ لویان پہ ڈنگاران پرسش کت.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "پرسش کت"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "یحزیقیاہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ءُ لویان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ڈنگاران"
+    }
+  ],
+  "timestamp": "2026-09-25T00:44:56.186154590Z",
+  "model": "glm-5.3"
+}

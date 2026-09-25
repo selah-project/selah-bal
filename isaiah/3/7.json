@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آ روچءَ آ ہمدم دیت کہ من پٹی بندوک نہ بیت، ءُ مہ گدانءَ تہ نان نیست ءُ شملہ نیست؛ مہ قومءِ سالار نہ کنیت۔",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ہمدم دیت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "نمان"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "پٹی بندوک"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "ءُ مہ گدانءَ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "شملہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "مہ نہ کنیت"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "سالار"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:21:11.391573474Z",
+  "model": "glm-5.3"
+}

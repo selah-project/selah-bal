@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "گران جوڑ کیت ءُ وتھ کیت، ءُ باغان نشا کیت ءُ ⟨את⟩ آیانی میوہ خرچ کیت۔",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "جوڑ کیت"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گران"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ءُ وتھ کیت"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ءُ نشا کیت"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "باغان"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ءُ خرچ کیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آیانی میوہ"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "آیانی میوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:56:08.857500942Z",
+  "model": "glm-5.3"
+}

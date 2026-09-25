@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ تہومءِ چشمگان ءُ آسمانءِ کھڑکیان بند بوتنت، ءُ چہ آسمانءَ بارش روک بوت۔",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "ءُ بند بوتنت"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "چشمگان"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تہوم"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "ءُ کھڑکیان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانءِ"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "ءُ روک بوت"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "بارش"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:29.720919335Z",
+  "model": "glm-5.3"
+}

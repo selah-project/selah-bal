@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ تامار، آییءِ کنیش، آییءَ ⟨את⟩ پریتس ءُ ⟨את⟩ زارح پیدا کت — یہوداہءِ زہگان مچ کل پنچ اَنت.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "ءُ تامار"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "آییءِ کنیش"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پریتس"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پریتس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "زارح"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زارح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنچ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:24.054124471Z",
+  "model": "glm-5.3"
+}

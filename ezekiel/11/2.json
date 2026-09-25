@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 11:2",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ آ منیءَ گوَشت: اے آدمءِ زہگ، اے اِنت اُو مردمان کہ بدی سوجنت ءُ اے شہرءِ ماں بُرائیں صلاح دنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ آ گوَشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منیءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "החשבים",
+      "gloss": "سوجنت"
+    },
+    {
+      "surface": "און",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "והיעצים",
+      "gloss": "ءُ دنت صلاح"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُرائیں"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہرءِ ماں"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T22:12:00.467572549Z",
+  "model": "glm-5.3"
+}

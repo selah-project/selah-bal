@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "آ کہ مانی جانءَ ماں زندگیءَ جاہ کت ءُ نہ دات کہ مانی پا لوڑیت۔",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "آ کہ جاہ کت"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "مانی جانءَ"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "ماں زندگیءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "کہ لوڑیت"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "مانی پا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:11.892819353Z",
+  "model": "glm-5.3"
+}

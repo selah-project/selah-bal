@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "تسراں پہ وت چہ قومءَ دہ دو مردمان گرئیت، یک مرد — یک مرد چہ یک ٹولیءَ،",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "گرئیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تسراں پہ وت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "چہ ٹولیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:05:09.506644664Z",
+  "model": "glm-5.3"
+}

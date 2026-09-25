@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "گور! من اَمریں روچ شمءِ پیشءَ برکت ءُ نپُت دِن.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "گور"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "شمءِ پیشءَ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَمریں روچ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ءُ نپُت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:17.183832298Z",
+  "model": "glm-5.3"
+}

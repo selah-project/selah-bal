@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ گندیت ⟨את⟩ گندوک چیزاران اچی ءُ ⟨את⟩ بت اچان دار ءُ سنگ سیم ءُ زر آ کہ گوں اچان",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گندوک چیزاران اچی"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "گندوک چیزاران اچی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "بت اچان"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "بت اچان"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ءُ سنگ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سیم"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ءُ زر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "گوں اچان"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:08.530570155Z",
+  "model": "glm-5.3"
+}

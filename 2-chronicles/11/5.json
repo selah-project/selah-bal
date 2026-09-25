@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ رحبام یورشلمءَ اوشت، ءُ شہران پہ مستز یہوداہءَ جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "اوشت"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبام"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یورشلمءَ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہران"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "پہ مستز"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "یہوداہءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:34.187110335Z",
+  "model": "glm-5.3"
+}

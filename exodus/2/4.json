@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آءِ گوہر دورءَ ایشتگ بیت، پہ آ زانگ کہ آءِ پہ چہ کہ بیت۔",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "ءُ ایشتگ بیت"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "آءِ گوہر"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "دورءَ"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "پہ آ زانگ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ کہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:50:40.948453412Z",
+  "model": "glm-5.3"
+}

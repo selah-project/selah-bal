@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "بلے ایلوہیم منءَ گوَشت: تُو میرے نامءِ پہ گود نہ جوڑ کنت، چوں کہ تُو جنگانی مڑدی ءُ رتان چڑاویتگ ئے۔",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "بلے ایلوہیم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "جوڑ نہ کنت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گود"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "میرے نامءِ پہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوں کہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مڑد"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "جنگانی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ءُ رتان"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "چڑاویتگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:33:21.960051504Z",
+  "model": "glm-5.3"
+}

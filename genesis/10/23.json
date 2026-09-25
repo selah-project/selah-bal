@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ ارامءِ زہگان: عوض، ءُ حول، ءُ گتھر، ءُ مش۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ ... زہگان"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارامءِ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوض"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "ءُ حول"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ءُ گتھر"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "ءُ مش"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:58.908539582Z",
+  "model": "glm-5.3"
+}

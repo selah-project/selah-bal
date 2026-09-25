@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "ءُ اِشا گوش، اے یعقوب منیں نوکر، ءُ اے اِسرائیل کہ من آییءَ چنٹگ کت۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "منیں نوکر"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ءُ اِسرائیل"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "چنٹگ کتُم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:35:17.859767618Z",
+  "model": "glm-5.3"
+}

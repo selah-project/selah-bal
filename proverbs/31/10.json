@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "زنِءِ بہادر کہ لبیت؟ آییءِ ارزش چہ مرجانانءَ گیش دور اِنت۔",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "زنِءِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لبیت"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "ءُ دور"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "چہ مرجانانءَ"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "آییءِ ارزش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:01.659112350Z",
+  "model": "glm-5.3"
+}

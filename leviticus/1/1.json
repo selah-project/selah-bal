@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ⟨او⟩ موشہءَ بانگ کت، ءُ یاہوہ چہ ملاقاتءِ گدانءَ آیءَ گال کت، گوں گپیک۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ ⟨او⟩ بانگ کت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گال کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "گدانءَ چہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقاتءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوں گپیک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:00.544734215Z",
+  "model": "glm-5.3"
+}

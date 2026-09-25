@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اینوشءِ تمامیں روچان پنچ سال ءُ نہ سد سال اِنتنت، ءُ آ مُرد۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اِنتنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تامیں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اینوشءِ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُرد"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:44.270394879Z",
+  "model": "glm-5.3"
+}

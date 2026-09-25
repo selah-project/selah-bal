@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 2:50",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اے کالِبءِ زہگان اَنت، حورءِ زہگ، اِفراتہءِ اولیں زہگ — شوبال قریت یعاریمءِ پیروک.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِبءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حورءِ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "اولیں زہگ"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "اِفراتہءِ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوبال"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیروک"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یعاریمءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:55.229358874Z",
+  "model": "glm-5.3"
+}

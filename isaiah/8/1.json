@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ یاہوہءَ مءَ گوَشت: تہئے یک گیشتگیں لوح گر ءُ آیءِ سرءَ بچ مردمیں قلمءَ نبشتہ کن: مَہیر شَلال حَش بَز.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "گر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہئے"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "لوح"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیشتگیں"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "ءُ نبشتہ کن"
+    },
+    {
+      "surface": "עליو",
+      "gloss": "آیءِ سرءَ"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "بچ قلم"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مردمیں"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "مَہیر"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "شَلال"
+    },
+    {
+      "surface": "חש",
+      "gloss": "حَش"
+    },
+    {
+      "surface": "בז",
+      "gloss": "بَز"
+    }
+  ],
+  "timestamp": "2026-09-24T21:23:12.572232039Z",
+  "model": "glm-5.3"
+}

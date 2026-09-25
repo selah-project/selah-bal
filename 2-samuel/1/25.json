@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "چوں ڈگتنت گیشتر تہ جنگ! یہوناتن، سر تی بلندیاں زخمی!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڈگتنت"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "تی بلندیاں"
+    },
+    {
+      "surface": "חלال",
+      "gloss": "زخمی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:40:34.864735222Z",
+  "model": "glm-5.3"
+}

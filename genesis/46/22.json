@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "اے راحلءِ زہگان اَنت، آ کہ یعقوبءَ پیدائش بوتنت؛ پوریں جان چار دہ اِنت.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پیدائش بوتنت"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوبءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:46:44.025401895Z",
+  "model": "glm-5.3"
+}

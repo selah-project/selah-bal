@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 62,
+  "translation": "ہمک پہ ایلوہیم چپ مان، اے منی جان؛ چونکہ چہ آییءَ منی امید اِنت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "پہ ایلوہیم"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "چپ مان"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "اے منی جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آییءَ"
+    },
+    {
+      "surface": "תקותی",
+      "gloss": "منی امید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:22.755653208Z",
+  "model": "glm-5.3"
+}

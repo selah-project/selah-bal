@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "پارس، کوش ءُ پوت ⟨את⟩ گوں اِشان؛ اِشانی ہمگانی گوں سپر ءُ خود۔",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ءُ پوت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ گوں اِشان"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "اِشانی ہمگانی"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "سپر"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ءُ خود"
+    }
+  ],
+  "timestamp": "2026-09-24T22:24:05.563069139Z",
+  "model": "glm-5.3"
+}

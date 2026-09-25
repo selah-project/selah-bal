@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 17:21",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ ⟨את⟩ منی عہد من برپا کینت ⟨את⟩ یزحاق، کہ سارہ تہ اے مقرریں وہدءَ جنئیت، آئین سالءَ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "منی عہد"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "منی عہد"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "برپا کینت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یزحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یزحاق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "جنئیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہ"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "مقرریں وہدءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "آئین"
+    }
+  ],
+  "timestamp": "2026-09-24T18:30:06.478000693Z",
+  "model": "glm-5.3"
+}

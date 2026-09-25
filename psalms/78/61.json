@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ دَت چہ گیرءَ وتی زور، ءُ وتی شان تہ دشمنءِ دَستءَ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دَت"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "چہ گیرءَ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "وتی زور"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "ءُ وتی شان"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "تہ دَستءَ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمنءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:55.080389317Z",
+  "model": "glm-5.3"
+}

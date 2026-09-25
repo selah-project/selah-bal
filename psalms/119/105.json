@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "توئے گال منی پا ءِ چراغ اِنت ءُ منی راہءِ روشنائی.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "چراغ"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "پہ منی پا"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "توئے گال"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ءُ روشنائی"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "پہ منی راہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:11.017029957Z",
+  "model": "glm-5.3"
+}

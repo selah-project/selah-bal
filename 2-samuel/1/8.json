@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آ منءِ لگ گوَشت: تو کے ئے؟ ءُ من آییءِ لگ گوَشتم: من عمالیکی اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءِ لگ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءِ لگ"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "عملیکی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T20:40:43.329321778Z",
+  "model": "glm-5.3"
+}

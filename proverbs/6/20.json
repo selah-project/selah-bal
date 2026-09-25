@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "زہگ من، وتي پءِ فرمانءَ پال، ءُ وتي مءِ تورا رہا مکن۔",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "پال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگ من"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "وتي پءِ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "رہا مکن"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "وتي مءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:44.969405063Z",
+  "model": "glm-5.3"
+}

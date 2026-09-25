@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "اورتگ بگیر چہ یاہوہ؛ مست بیت ءُ تُہءِ دلءَ جرئت دِئ — ءُ اورتگ بگیر چہ یاہوہ.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "اورتگ بگیر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "مست بیت"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "ءُ جرئت دِئ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تُہءِ دلءَ"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ءُ اورتگ بگیر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:20.969709832Z",
+  "model": "glm-5.3"
+}

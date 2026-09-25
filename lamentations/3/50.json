@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "تا کہ یاہوہ چہ آسمانانءَ سر-کشیت ءُ گندیت.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "سر-کشیت"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "چہ آسمانانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:09.211803346Z",
+  "model": "glm-5.3"
+}

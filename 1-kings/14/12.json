@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ تئے، اُٹھ رو وتئے گدءَ — آئیںءِ وہدءَ تئے پیر شہرءَ، ءُ زہگ مرِت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ تئے"
+    },
+    {
+      "surface": "קומی",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "رو"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "وتئے گدءَ"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "آئیںءِ وہدءَ"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "تئے پیر"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "شہرءَ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ءُ مرِت"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "زہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:01:55.922213884Z",
+  "model": "glm-5.3"
+}

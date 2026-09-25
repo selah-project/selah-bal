@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "لویءِ زہگان: گرشوم، قہات ءُ مراری۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لویءِ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گرشوم"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قہات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ءُ مراری"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:44.390659436Z",
+  "model": "glm-5.3"
+}

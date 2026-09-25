@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 37:24",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "پس مردمان آییءَ ڈرنت، دلءِ ہمگ دانشمندانی نہ گندیت.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "پس"
+    },
+    {
+      "surface": "יראוהו",
+      "gloss": "آییءَ ڈرنت"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "دانشمند"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:43:41.716323256Z",
+  "model": "glm-5.3"
+}

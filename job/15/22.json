@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 15:22",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "آ یقین نہ کنت کہ چہ تہاریءَ پدا بیت، ءُ تلوار پہ آییءَ چاگ بیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "یقین نہ کنت"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "پدا بیت"
+    },
+    {
+      "surface": "מני",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تہاریءَ"
+    },
+    {
+      "surface": "וצפו",
+      "gloss": "ءُ چاگ بیت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آییءَ پشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:22.351312795Z",
+  "model": "glm-5.3"
+}

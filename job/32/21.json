@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "مہ کن، آ، کہ مردمءِ رُچمانی اُشتیراں، ءُ پہ آدم لقب نہ دِنت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مہ کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "اُشتیراں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُچمانی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "لقب دِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:40:43.657155380Z",
+  "model": "glm-5.3"
+}

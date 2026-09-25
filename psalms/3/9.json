@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یاہوہءَ اِنت رستگاری؛ اے یاہوہ، تُئے قومءِ سرءَ اِنت تُئے برکت۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "رستگاری"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تُئے قومءِ"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "تُئے برکت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:24.827844332Z",
+  "model": "glm-5.3"
+}

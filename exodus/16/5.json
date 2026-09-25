@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ بیت کہ ششمی روچءَ ⟨את⟩ آ کہ ببرنت تیار کننت، ءُ بیت دوئین گیش چہ آ کہ روزی روزی چنتنت.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ششمی"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "تیار کننت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ ببرنت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "ببرنت"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "دوئین گیش"
+    },
+    {
+      "surface": "על",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "چنتنت"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روزی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روزی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:59:37.256883834Z",
+  "model": "glm-5.3"
+}

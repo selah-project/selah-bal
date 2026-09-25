@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "چوں بے سبب رشتہ پھیلا کیتگ بیت چشمانی ءَ ہر پرءِ والاءِ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے سبب"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "پھیلا کیتگ بیت"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "رشتہ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشمانی ءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "والا"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:45.696656201Z",
+  "model": "glm-5.3"
+}

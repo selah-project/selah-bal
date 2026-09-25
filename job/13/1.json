@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "اے! منی چشم گیش چیز شت، منی گوش شنیت ءُ آییءَ داںشت.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "اے!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "شت"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "منی چشم"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "شنیت"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "منی گوش"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ءُ داںشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:21.621381122Z",
+  "model": "glm-5.3"
+}

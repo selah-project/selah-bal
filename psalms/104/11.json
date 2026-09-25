@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "میدانیءِ ہمگ جانورانءَ وش کننت؛ گورکھران آتشانءَ شکننت.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "وش کننت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانوران"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "میدانیءِ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "شکننت"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "گورکھران"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "آتشانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:48.291154086Z",
+  "model": "glm-5.3"
+}

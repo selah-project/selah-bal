@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 18:14",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "کہ آیا چہ ڈگاری چٹءَ، چہ شادیءِ، برف چہ لبنان رہیت بیت؟ یا کڈم بنت پردیسی سرد آپ کہ روان بنت؟",
+  "tokens": [
+    {
+      "surface": "היעזב",
+      "gloss": "رہیت بیت"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "چٹءَ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شادیءِ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لبنان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "ינתשו",
+      "gloss": "کڈم بنت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "پردیسی"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "سرد"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "روان بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:51:36.773002547Z",
+  "model": "glm-5.3"
+}

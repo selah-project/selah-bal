@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "کیہ تُءِ تیر منہ ءَ ڈُبنت، ءُ تو آپءِ دست منءِ سرءَ ڈَت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "تُءِ تیر"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "ڈُبنت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منہ ءَ"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "ءُ ڈَت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءِ سرءَ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "آپءِ دست"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:10.239410816Z",
+  "model": "glm-5.3"
+}

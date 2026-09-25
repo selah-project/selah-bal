@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-samuel 17:58",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ شاؤل آییءَ گوَشت: اے نوجوان، تُو کیءِ زہگ اِنت؟ ءُ داود گوَشت: تُءِ گلام یشایءِ زہگ، بیتءِ لحمی۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "اے نوجوان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تُءِ گلام"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یشای"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "لحمی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:33:25.571985702Z",
+  "model": "glm-5.3"
+}

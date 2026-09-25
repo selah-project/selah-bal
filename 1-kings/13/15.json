@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ آییءَ گوَشت: گوں من ⟨את⟩ رو گدانءَ، ءُ نان بوخور.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "رو"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ گوں من"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ءُ نان بوخور"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T21:00:33.615456095Z",
+  "model": "glm-5.3"
+}

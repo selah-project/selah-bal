@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ موشہءَ ⟨את⟩ کوڑیان یاہوہءِ پیشءَ ملاقاتءِ گدانءِ تہ پیش کت.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ءُ پیش کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڑیان"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "کوڑیان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "گدانءِ تہ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ملاقاتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:36:04.016205519Z",
+  "model": "glm-5.3"
+}

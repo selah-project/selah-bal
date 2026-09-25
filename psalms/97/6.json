@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 97,
+  "translation": "آسمانان آییءِ راستی گوش کت ءُ تمام قومان آییءِ جلالءَ گندیت۔",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "گوش کت"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "آییءِ راستی"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "آییءِ جلال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:49.864675512Z",
+  "model": "glm-5.3"
+}

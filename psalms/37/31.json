@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "آییءِ ایلوہیمءِ تورا آییءِ دلءِ تہ اِنت؛ آییءِ قدم لڑزنت نہ.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "آییءِ ایلوہیمءِ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "آییءِ دلءِ تہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "لڑزنت"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "آییءِ قدم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:43.845805611Z",
+  "model": "glm-5.3"
+}

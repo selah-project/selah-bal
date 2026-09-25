@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "مقرر کن آییءِ سرءَ یک بدکار، ءُ یک دشمن آییءِ راست دستءَ اِستات.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "مقرر کن"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "یک بدکار"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ءُ یک دشمن"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "اِستات"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "آییءِ راست دست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:55.348644701Z",
+  "model": "glm-5.3"
+}

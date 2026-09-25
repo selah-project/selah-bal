@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "شتءَ پہ وت ہچ مورتی ءُ ہچ یک شکل کہ آسمانءَ ماں لڑءَ اِنت، ءُ کہ زمینءَ تہ تلءَ اِنت، ءُ کہ آپانءَ تہ زمینءِ تلءَ اِنت، نہ جوڑ کن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "جوڑ کن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "شتءَ پہ وت"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "مورتی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہچ یک"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانءَ ماں"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "لڑءَ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ کہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ کہ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "آپانءَ تہ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:51.950372764Z",
+  "model": "glm-5.3"
+}

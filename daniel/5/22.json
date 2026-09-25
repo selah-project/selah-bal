@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ تو، آییءِ زہگ بیلشصر، تُہ دل نہ ہمیش کت، ہمگءِ باوجود کہ اے ہمگ توءَ زانتیگ۔",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "بیلشصر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "ہمیش کت"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تُہ دل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگءِ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "باوجود"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "اے ہمگ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "توءَ زانتیگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:00:18.949769033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ تو اے یاہوہ، دور مہ رو؛ منیءِ زور، منیءِ مددءَ شتاب بۆ۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور مہ رو"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "منیءِ زور"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "منیءِ مددءَ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "شتاب بۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:42.331968603Z",
+  "model": "glm-5.3"
+}

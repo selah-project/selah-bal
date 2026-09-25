@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 7:13",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ بوت چی ⟨اے⟩ بانگ کت ءُ اِشاں نہ گوشیت، چیں چیں اِشاں بانگ کننت ءُ من نہ گوشم، یاہوہِ سباؤتءَ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چی"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "⟨اے⟩ بانگ کت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چیں چیں"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "بانگ کننت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "نہ گوشم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:43:22.117288511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ہپتءَ بھر بِدہ ءُ گوں ہشتءَ، پرچا کہ نہ زانی چہ بدی زمینءِ سرءَ بیت۔",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "بِدہ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "بھر"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ہپتءَ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "ہشتءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:32.845047545Z",
+  "model": "glm-5.3"
+}

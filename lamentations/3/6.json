@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "منیءَ تاریکیاں تہ رہنگ کت، چوش کہ رندءِ مُرتان.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "تاریکیاں تہ"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "منیءَ رہنگ کت"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "چوش کہ مُرتان"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "رندءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:04.433476711Z",
+  "model": "glm-5.3"
+}

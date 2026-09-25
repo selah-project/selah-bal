@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 132,
+  "translation": "داودءِ تیری غلامءِ پہ، اے یاہوہ، تیری ماشیاحءِ رُخ پشت گپت نہ کن۔",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیری غلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "پشت گپت نہ کن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُخ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "تیری ماشیاح"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:43.667717532Z",
+  "model": "glm-5.3"
+}

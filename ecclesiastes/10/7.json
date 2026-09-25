@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "گندیتگ کہ غلامان آسپانءِ سرا اَنت ءُ سرداران چوش غلامان زمینءِ سرا رونت۔",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "گندیتگ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلامان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "آسپانءِ"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ءُ سرداران"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "رونت"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "چوش غلامان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:29.767744529Z",
+  "model": "glm-5.3"
+}

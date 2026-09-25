@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "گوش کن، اے منءِ زہگ، ءُ منی گپان گپت؛ ءُ تُہءَ زندگیں سالان گیش بنت.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اے منءِ زہگ"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ءُ گپت"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "منی گپان"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ءُ گیش بنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "سالان"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:07.491493016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "اے آدمءِ زہگ، وتءِ چهر اسرائیلءِ مانزانءَ گر کن ءُ اِشانءَ پہ پیغمبری کن",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "گر کن"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وتءِ چهر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "مانزان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ءُ پیغمبری کن"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اِشانءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:10:06.658940799Z",
+  "model": "glm-5.3"
+}

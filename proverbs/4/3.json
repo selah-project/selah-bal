@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کی چون ماں ماءِ پیءِ یک زہگ اَتݔم، نرم ءُ یکتا ماءِ ماںءِ پیشءَ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "اَتݔم"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "ماءِ پیءِ"
+    },
+    {
+      "surface": "רך",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "ءُ یکتا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ماءِ ماںءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:53.428145583Z",
+  "model": "glm-5.3"
+}

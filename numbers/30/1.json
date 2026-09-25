@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ موشہءَ اسرائیلءِ زہگانیءَ گوَشت: چوش کہ ہر چیز کہ یاہوہءَ ⟨את⟩ موشہءَ حکم کتگ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانیءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "چوش کہ ہر چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشہءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:44:36.453089237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ دومی مُڈءَ پنچ دہ ارش پردہ، اِشانی ستن سئے ءُ اِشانی بنیاد سئے۔",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "ءُ پہ مُڈءَ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "اِشانی ستن"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ءُ اِشانی بنیاد"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:39.605908520Z",
+  "model": "glm-5.3"
+}

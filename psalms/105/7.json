@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "آ یاہوہ اِنت، ماءِ ایلوہیم؛ آییءِ حکم گیشتریں زمینءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ماءِ ایلوہیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "گیشتریں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "آییءِ حکم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:26.468028487Z",
+  "model": "glm-5.3"
+}

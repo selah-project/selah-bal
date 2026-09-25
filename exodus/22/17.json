@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "جوگریں زنا ءَ زنده نہ دار",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "جوگریں زنا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "زنده دار"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:05.531041880Z",
+  "model": "glm-5.3"
+}

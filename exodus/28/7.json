@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "دو شانیں پارے جتا بوتگیں بنت آییءِ دو سرانءَ تا، ءُ جتا بوت بیت۔",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "شانیں پارے"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "جتا بوتگیں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "سرانءَ"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ءُ جتا بوت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:43.062618604Z",
+  "model": "glm-5.3"
+}

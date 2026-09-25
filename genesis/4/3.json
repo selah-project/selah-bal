@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ بوت روچانیءِ انتءَ کہ قابیل چہ زمینءِ میوانءَ نذر پہ یاہوہءَ آنیت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "انت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچانی"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آنیت"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قابیل"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "چہ میوانءَ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:59.443849236Z",
+  "model": "glm-5.3"
+}

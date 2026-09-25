@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ ⟨את⟩ پایان رچیت، ءُ ⟨את⟩ حوضان رچیت پایانی سرءَ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پایان"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "پایان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "رچیت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حوضان"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "حوضان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "رچیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "پایان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:34:20.088181520Z",
+  "model": "glm-5.3"
+}

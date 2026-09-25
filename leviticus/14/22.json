@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 14:22",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ دو کُرکی مرگ یا دو کَوتریانی زہگ، کہ آییءِ دستءَ رسیت؛ ءُ یک بیت گنہائی قربانی ءُ دومی سوچگیں قربانی",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "کُرکی مرگ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "کَوتری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "رسیت"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "آییءِ دست"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گنہائی قربانی"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ءُ دومی"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سوچگیں قربانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:59.791233188Z",
+  "model": "glm-5.3"
+}

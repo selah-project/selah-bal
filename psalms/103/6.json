@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 103,
+  "translation": "یاہوہ راستیان کنیت ءُ پہ ہمگ زلم بوتگیںاں انصاف۔",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "راستیان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ءُ انصافان"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہمگ"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "زلم بوتگیںاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:46.094221668Z",
+  "model": "glm-5.3"
+}

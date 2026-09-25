@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "پہ اے کہ تمام قومانءِ ⟨اے⟩ زمین بزانن کہ یاہوہ — آ ⟨اے⟩ ایلوہیم اِنت؛ دگہ کس نیست۔",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "بزانن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومانءِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨اے⟩ زمین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨اے⟩ ایلوہیم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:57:55.840908437Z",
+  "model": "glm-5.3"
+}

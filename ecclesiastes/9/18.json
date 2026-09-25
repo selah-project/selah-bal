@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "چنگتر اِنت دانائی چہ جنگءِ ہتھیاران، ءُ یک گنہگار گیش نیکی تباه کنت۔",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "چنگتر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "چہ ہتھیاران"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "جنگءِ"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ءُ گنہگار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "تباه کنت"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:58.767188773Z",
+  "model": "glm-5.3"
+}

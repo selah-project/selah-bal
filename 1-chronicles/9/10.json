@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ کاهنانءَ چہ: یِدعیا ءُ یِہویاریب ءُ یاکین،",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یِدعیا"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "ءُ یِہویاریب"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ءُ یاکین"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:30.387704027Z",
+  "model": "glm-5.3"
+}

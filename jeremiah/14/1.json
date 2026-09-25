@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "آ کہ بوت، یاہوہءِ گال یرمیاہوءَ گوَشتیت، پہ خشکسالیءِ گالانءِ بابتءَ۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہوءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالانءِ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "خشکسالی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:50:14.996364584Z",
+  "model": "glm-5.3"
+}

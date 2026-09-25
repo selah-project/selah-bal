@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "یک دہ روچءِ راہ اِنت چہ حورێبءَ، چہ راہءِ کوءِ سعیر، انت کادێش بارنێا.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "چہ حورێبءَ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رہءِ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوءِ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "انت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "کادێش"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "بارنێا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:43.583265793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "ءُ پہ شمعونءِ سرحدءَ، چے رندءِ دیمءَ تا چے مغزءِ دیمءَ، یساکار یک ⟨حصہ⟩",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "چے دیمءَ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "رندءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "دیم"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "مغزءِ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یساکار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:30:21.242040695Z",
+  "model": "glm-5.3"
+}

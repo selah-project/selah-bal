@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "زندگءَ چہ تَئَ گُشت، تُئے آییءَ دات — درازی روچان، ہمیشہ ءُ ہمیش۔",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "زندگءَ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "گُشت"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "چہ تَئَ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "تُئے دات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درازی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ ہمیش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:49.132201129Z",
+  "model": "glm-5.3"
+}

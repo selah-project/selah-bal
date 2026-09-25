@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ایل من، ایل من، چرا مءَ لٹیت؟ منے نجاتیءَ دوست، منے گژامءِ گالانءَ۔",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "ایل من"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ایل من"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "עזבתנی",
+      "gloss": "مءَ لٹیت"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "دوست"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "منے نجاتیءَ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالانءِ"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "منے گژامءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:48.513527175Z",
+  "model": "glm-5.3"
+}

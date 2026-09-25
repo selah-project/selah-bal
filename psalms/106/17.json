@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "زمین پات کت ءُ داتانءَ نِشت کت، ءُ اَبیرامءِ ٹولیءِ سرءَ ڈھپ کت.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "پات کت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ءُ نِشت کت"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "داتان"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ءُ ڈھپ کت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ٹولی"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "اَبیرام"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:48.310143312Z",
+  "model": "glm-5.3"
+}

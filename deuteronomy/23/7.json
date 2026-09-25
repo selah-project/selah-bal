@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "اِشانیں سکوچ ءُ اِشانیں بھتری نہ جہنت، تُہءِ گیشتر روچان، پہ ہمیشہ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "جہنت"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "اِشانیں سکوچ"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "ءُ اِشانیں بھتری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "تُہءِ روچان"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:50.503165219Z",
+  "model": "glm-5.3"
+}

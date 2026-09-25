@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ہر گدا کہ روت وال آییءِ سرءَ شبیت ناپاک بیت، ءُ ہر چیز کہ آییءِ سرءَ تشیت ناپاک بیت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "گدا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "شبیت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "روت وال"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک بیت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "تشیت"
+    },
+    {
+      "surface": "עליو",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:18:43.670283639Z",
+  "model": "glm-5.3"
+}

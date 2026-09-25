@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "اے چوں گوَشت یاہوہ، اسرائیلءِ ایلوہیم، آ کہ: نبیس پہ تئے کتابءَ ⟨את⟩ ہمگ گالان کہ من تئے اَت گوَشتم.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "نبیس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمگ گالان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "اَت گوَشتم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتابءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:56:59.960680268Z",
+  "model": "glm-5.3"
+}

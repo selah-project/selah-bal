@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 27:6",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ یوتام زوراور بوت، کہ آ وتی رستہ یاہوہءِ، وتی ایلوہیمءِ پیشءَ تیار کت۔",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "ءُ زوراور بوت"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "یوتام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "تیار کت"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "وتی رستہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "وتی ایلوہیمءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:42:33.124651506Z",
+  "model": "glm-5.3"
+}

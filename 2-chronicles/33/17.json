@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "بلے مردم ہنے ہم چہ اُچ جاگاںءَ قربانی کننت، ہمک پہ یاہوہ ءُ ئشانءِ ایلوہیمءَ.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہنے ہم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "قربانی کننت"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "چہ اُچ جاگاںءَ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ئشانءِ ایلوہیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:45:48.124642795Z",
+  "model": "glm-5.3"
+}

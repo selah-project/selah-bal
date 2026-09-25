@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ موشہءَ چوش کت چوش کہ یاہوہ آییءَ ⟨את⟩ حکم کتگ اَت؛ ءُ قوم ملاقاتءِ گadanءِ پیشاگرءَ جمع بوت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کتگ اَت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "جمع بوت"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "پیشاگرءَ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گadanءِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقاتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:14:08.544213994Z",
+  "model": "glm-5.3"
+}

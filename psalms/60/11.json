@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 60,
+  "translation": "کے مئےءَ یک محکمءِ شہرءَ شنگیت کنت؟ کے مئےءَ ایڈومءَ رہبری کنت؟",
+  "tokens": [
+    {
+      "surface": "مי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "مئےءَ شنگیت کنت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہرءَ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "محکمءِ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "مئےءَ رہبری کنت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ایڈومءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:00.965338974Z",
+  "model": "glm-5.3"
+}

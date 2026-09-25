@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 136,
+  "translation": "⟨آفتاب⟩ پہ روچءِ حکومتءَ، چیچہ آییءِ حیسید پہ ہمیشہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آفتاب"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "آفتاب"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "پہ حکومتءَ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چیچہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ حیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:13.885961211Z",
+  "model": "glm-5.3"
+}

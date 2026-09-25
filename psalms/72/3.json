@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 72,
+  "translation": "کوهان قومءَ پہ آشتی چکِنت ءُ ٹپان گوں راستی۔",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "چکِنت"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوهان"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "آشتی"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "پہ قوم"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ءُ ٹپان"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "گوں راستی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:34.321335730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ تو پردہانی بزانی پہ گدانی سرءِ مِشکان کن؛ یازده پردہان کن ⟨את⟩ اِشانءَ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ تو کن"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پردہانی"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزانی"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "پہ گدانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءِ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مِشکانءِ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "یاز"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پردہان"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اِشانءَ",
+      "marks": "پردہان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:11.783910060Z",
+  "model": "glm-5.3"
+}

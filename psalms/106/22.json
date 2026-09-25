@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "عجیب کاراں حامءِ زمینءَ تہ، ءُ دہشتنگ کاراں سوفءِ دریاءِ سرءَ.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "عجیب کاراں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حامءِ"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "دہشتنگ کاراں"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریاءِ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سوف"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:12.160541247Z",
+  "model": "glm-5.3"
+}

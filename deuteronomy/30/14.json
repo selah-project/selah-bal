@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "کی گال تُہ نزدیک اِنت گوَستگیں — تہءِ مُنگءَ تہ ءُ تہءِ دلءَ تہ، آ جنکءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تُہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گوَستگیں"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "تہءِ مُنگءَ تہ"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "ءُ تہءِ دلءَ تہ"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "آ جنکءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:17.875128319Z",
+  "model": "glm-5.3"
+}

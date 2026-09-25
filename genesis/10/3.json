@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ گومرءِ زہگ: اشکناز، ءُ ریفت، ءُ توگرما.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ … ءِ زہگ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اشکناز"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ءُ ریفت"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ءُ توگرما"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:36.924108551Z",
+  "model": "glm-5.3"
+}

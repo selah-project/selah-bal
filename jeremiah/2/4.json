@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "گوش کن یاہوہءِ گال، اے یعقوبءِ خانوادہ، ءُ اسرائیلءِ خانوادءِ سئے کوان۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانوادہ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءِ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "کوان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانوادءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:43:17.534722506Z",
+  "model": "glm-5.3"
+}

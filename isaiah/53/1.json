@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 53,
+  "translation": "کی پہ ماءِ گوشتئے ایمان کت؟ ءُ یاہوہءِ بازو پہ کیءَ اِشکار بوت؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "ایمان کت"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "پہ ماءِ گوشتئے"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ءُ بازو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "اِشکار بوت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:38:25.165648440Z",
+  "model": "glm-5.3"
+}

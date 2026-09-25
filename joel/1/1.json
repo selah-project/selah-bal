@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "یاہوہءِ گال کہ یوایلءَ، پتُایلءِ زہگءَ، اَت.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لہ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوایلءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "پتُایلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:32:47.359536927Z",
+  "model": "glm-5.3"
+}

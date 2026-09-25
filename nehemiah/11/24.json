@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 11:24",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ فتخیجا، مشیزابیلءِ زہگ، چہ زراحءِ زہگان، یہوداءِ زہگ، شاہءِ دستءَ اَت — پہ ہر کار قومءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "ופתחיה",
+      "gloss": "ءُ فتخیجا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "משיזבאל",
+      "gloss": "مشیزابیل"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "چہ زہگانِ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زراح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودا"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قومءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:19:17.915202833Z",
+  "model": "glm-5.3"
+}

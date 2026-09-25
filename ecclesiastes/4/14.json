@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "چون کہ چہ بندانی گڈءَ درآت پہ پادشا گرگ؛ چون کہ گوں آییءِ پادشاہیءَ تہ مسکین زایگ بوت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون کہ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "چہ بندانی گڈءَ"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "بندان"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "درآت"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پہ پادشا گرگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون کہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "آییءِ پادشاہیءَ تہ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "زایگ بوت"
+    },
+    {
+      "surface": "רש",
+      "gloss": "مسکین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:13.491809942Z",
+  "model": "glm-5.3"
+}

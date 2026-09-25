@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 26:17",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "دو دست یک تختءَ بنت، جوڑ بوتگیں یکے گوں دگہءَ؛ چوشءَ آئے پہ گیش تختانی مِشکان کن.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "دست"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "پہ یک تخت"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "جوڑ بوتگیں"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "دگہءَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چوشءَ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ گیش"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "تختانی"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مِشکانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:26.622881015Z",
+  "model": "glm-5.3"
+}

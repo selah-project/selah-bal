@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ یک زورمند سالار اِستت ءُ حکومتی گیش شیر کت ءُ چہ آییءِ منشءَ کنت.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "ءُ اِستت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "سالار"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زورمند"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ءُ حکومت کت"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "حکومتی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ کنت"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "چہ آییءِ منشءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:20.997274300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 111,
+  "translation": "شکار دات آیانءَ کہ آءَ ڈرتنت؛ آییءِ عہدءَ ہمیشہ یاد کنیت.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "شکار"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "آیانءَ کہ آءَ ڈرتنت"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "یاد کنیت"
+    },
+    {
+      "surface": "لעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "آییءِ عہدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:29.820960597Z",
+  "model": "glm-5.3"
+}

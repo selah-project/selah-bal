@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "کی کہ یاہوہ وتی قومءَ نہ پرے کنت ءُ وتی میراثءَ نہ چھوڑیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "پرے کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "وتی قومءَ"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "ءُ وتی میراثءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "چھوڑیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:12.823285113Z",
+  "model": "glm-5.3"
+}

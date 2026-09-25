@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "روتءَ گوں آپءَ نہ بگواریت؛ فال نہ گپیت ءُ جادوگری نہ کنیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بگواریت"
+    },
+    {
+      "surface": "על",
+      "gloss": "روتءَ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "گوں آپءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "فال نہ گپیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "جادوگری نہ کنیت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:28.025721570Z",
+  "model": "glm-5.3"
+}

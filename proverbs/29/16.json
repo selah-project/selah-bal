@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "چہ رند گرگ بدکاراں گناه رند بیت، ءُ راست آشانی ڈگراںءَ گندنت۔",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "رند گرگءَ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں"
+    },
+    {
+      "surface": "یרבה",
+      "gloss": "رند بیت"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ءُ راست"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "آشانی ڈگراںءَ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "گندنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:03.030779173Z",
+  "model": "glm-5.3"
+}

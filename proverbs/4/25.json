@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "توءِ چمان سیدءَ گندیت ءُ توءِ چمءِ پلان توءِ پیشءَ سید بنت.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "توءِ چمان"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "سیدءَ"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "ءُ توءِ چمءِ پلان"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "سید بنت"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "توءِ پیشءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:30.962300011Z",
+  "model": "glm-5.3"
+}

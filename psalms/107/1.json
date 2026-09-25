@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "یاہوہءَ شکر کنیت، پرچا کہ آ چنگ اِنت، پرچا کہ آییءِ ہیسید پہ ہمیشہ اِنت.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "شکر کنیت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:24.864854110Z",
+  "model": "glm-5.3"
+}

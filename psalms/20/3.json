@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "تہ مدد چہ مِقدس بگنت، ءُ چہ صہیون تہ سہارا دنت۔",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "بگنت"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "تہ مدد"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "چہ مِقدس"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "ءُ چہ صہیون"
+    },
+    {
+      "surface": "יסעدך",
+      "gloss": "تہ سہارا دنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:55.222590213Z",
+  "model": "glm-5.3"
+}

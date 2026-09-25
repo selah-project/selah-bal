@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یسرائیلءِ زہگان چوش کہ مُڈ کہ یاہوہءَ موشہءَ ⟨את⟩ حکم کت، همے چوش کتنت۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ءُ کتنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "چوش کہ مُڈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشہءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ ⟨موسیٰ⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همے چوش"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:04.818252759Z",
+  "model": "glm-5.3"
+}

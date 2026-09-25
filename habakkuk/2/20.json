@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یاہوہ وتی پاک کوشکءَ اِنت — چُپ بنت آیءِ دیما گیش زمین!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "کوشکءَ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "وتی پاک"
+    },
+    {
+      "surface": "הס",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "آیءِ دیما"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T22:40:53.837621366Z",
+  "model": "glm-5.3"
+}

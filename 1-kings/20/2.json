@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ آ پیغامان چینت پہ اَحاب، اسرائیلی شاہ، شہرءَ تہ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ چینت"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "پیغامان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَحابءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "شہرءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:05:19.574666667Z",
+  "model": "glm-5.3"
+}

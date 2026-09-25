@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "دَھولءِ شادی بند بیت، شادماناںءِ شور رُکیت، بربطءِ شادی بند بیت.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "بند بیت"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "دَھولءِ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "رُکیت"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "شور"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "شادماناںءِ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "بند بیت"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "بربطءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:38.080350687Z",
+  "model": "glm-5.3"
+}

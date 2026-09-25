@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ یاہوہ برُت ءُ اُش قوماناں گوں جنگ کنیت، چوش کہ آ ماں جنگءِ روچءَ جنگ کتی۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ برُت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ءُ جنگ کنیت"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماناں گوں"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "اُش"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "چوش کہ…روچءَ"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "جنگ کتی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ماں روچءَ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "جنگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:15.334646676Z",
+  "model": "glm-5.3"
+}

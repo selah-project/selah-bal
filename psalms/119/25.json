@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "نفسم چہ گردءَ چنگ کنیت؛ مارا گوں تری گال جیوا کن.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "چنگ کنیت"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "چہ گردءَ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسم"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "جیوا کن"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "گوں تری گال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:45.341052477Z",
+  "model": "glm-5.3"
+}

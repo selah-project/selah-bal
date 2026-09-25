@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "پہ زانگءِ حکمت ءُ سبق، پہ فہمگءِ فہمیں گالان —",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "پہ زانگءِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ءُ سبق"
+    },
+    {
+      "surface": "لהבין",
+      "gloss": "پہ فہمگءِ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فہمیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:39.006231780Z",
+  "model": "glm-5.3"
+}

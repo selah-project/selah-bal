@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ کرت گوں جلاوطنیءِ زہگان ⟨את⟩ پسحءَ چاردہمی روچءَ اولیں ماہءِ.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ءُ کرت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "جلاوطنیءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسحءَ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسحءَ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماہءِ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "اولیں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:07:52.689879126Z",
+  "model": "glm-5.3"
+}

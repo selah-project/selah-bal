@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "چہ کہ ہپت رند راست ڈگیت ءُ اُستیت، ءُ بدکاران تہ بدیءَ ٹُک انت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ کہ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت رند"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈگیت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ءُ اُستیت"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ءُ بدکاران"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ٹُک انت"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "تہ بدیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:31.640989682Z",
+  "model": "glm-5.3"
+}

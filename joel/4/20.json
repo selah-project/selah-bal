@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یہوداہ ہمیشہ وتی جاہ داریت، ءُ یروشالم نسل چہ نسل۔",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "ءُ یہوداہ"
+    },
+    {
+      "surface": "לעולم",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "وتی جاہ داریت"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ءُ یروشالم"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "نسل چہ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "نسل"
+    }
+  ],
+  "timestamp": "2026-09-24T22:34:02.690316816Z",
+  "model": "glm-5.3"
+}

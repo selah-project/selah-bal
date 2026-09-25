@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ہر جانءِ قاتل — پہ منdg گواہان قاتلءَ ⟨את⟩ کُشیت ءُ یک گواہ نہ پہ یک جان پہ مرگ جواب دیت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانءِ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "پہ منdg"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہان"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "کُشیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتلءَ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتلءَ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ گواہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دیت"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "پہ جان"
+    },
+    {
+      "surface": "למות",
+      "gloss": "پہ مرگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:20.205697913Z",
+  "model": "glm-5.3"
+}

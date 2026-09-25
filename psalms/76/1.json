@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 76,
+  "translation": "پہ پیشوا، گوں تارانی سازاں؛ مزمور، پہ آسافءِ؛ گیت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "گوں تارانی سازاں"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "پہ آسافءِ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:55.736844385Z",
+  "model": "glm-5.3"
+}

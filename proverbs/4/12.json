@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کہ تو روت، تُہءِ قدم تنگ نہ بیت؛ ءُ اگر دوڑیت، نہ ڈگیت.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "کہ تو روت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "تنگ بیت"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "تُہءِ قدم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "دوڑیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "ڈگیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:07.491884020Z",
+  "model": "glm-5.3"
+}

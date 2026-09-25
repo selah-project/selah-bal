@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "آہن ءُ مس ⟨اِنت⟩ تریءِ کنج؛ ءُ چوش کہ تئے روچاں اَنت، ہمے شان تئے زور اِنت۔",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "آہن"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ءُ مس"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "تئے کنج"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "ءُ چوش کہ تئے روچاں"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "تئے زور"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:15.424117376Z",
+  "model": "glm-5.3"
+}

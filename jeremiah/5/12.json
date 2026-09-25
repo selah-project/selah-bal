@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "یاہوہءِ سرءَ دروغ گوتانت ءُ گوَشتانت: آ نہ اِنت، ءُ نہ بدی ماءِ سرءَ ئی؛ ءُ تلوار ءُ قحط نہ گندیں۔",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "دروغ گوتانت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہءِ سرءَ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ءُ گوَشتانت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ئی"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ماءِ سرءَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ءُ تلوار"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "ءُ قحط"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "گندیں"
+    }
+  ],
+  "timestamp": "2026-09-24T21:44:54.527749475Z",
+  "model": "glm-5.3"
+}

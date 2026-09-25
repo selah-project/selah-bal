@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ یاہوہ ایلوہیمءَ زنءَ گوَشت: اے چہ کتگ ئے؟ ءُ زن گوَشت: مار منءَ گمراہ کت ءُ مان گم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زنءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کتگ ئے"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "منءَ گمراہ کت"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ءُ مان گم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:43.072662782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آسمان ءُ زمین پورہ بوتنت، ءُ ایشانی گیش لشکر ءُ",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "پورہ بوتنت"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ءُ زمین"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ایشانی لشکر"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:37.891835981Z",
+  "model": "glm-5.3"
+}

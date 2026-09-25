@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 101,
+  "translation": "کج دل چہ منی جاگہءَ کنج بیت؛ بریءَ نہ زانیں۔",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "کج"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "کنج بیت"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ منی جاگہءَ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بریءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "زانیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:16.205594846Z",
+  "model": "glm-5.3"
+}

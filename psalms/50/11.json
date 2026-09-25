@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "من زانت گش کوهانی مرگ، ءُ دشتءِ کشوک گوں من اِنت.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "من زانت"
+    },
+    {
+      "surface": "کل",
+      "gloss": "گش"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوهانی"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ءُ کشوک"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "دشتءِ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "گوں من اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:30.295638041Z",
+  "model": "glm-5.3"
+}

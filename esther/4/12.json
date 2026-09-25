@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ اِشاں مُردُخایءَ اِستَرءِ گالان ⟨את⟩ گوشیج کتنت.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ءُ گوشیج کتنت"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "مُردُخایءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گالان"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستَرءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:32.983631815Z",
+  "model": "glm-5.3"
+}

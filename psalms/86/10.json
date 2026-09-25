@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 86,
+  "translation": "کیہ تو گیش اِنت ءُ عجیب کاراں کنیں، تو وت ایلوہیم اِنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ کنوک"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "عجیب کاراں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "وت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:07.051208254Z",
+  "model": "glm-5.3"
+}

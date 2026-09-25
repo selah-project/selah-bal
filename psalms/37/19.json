@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "رٹیں وہدءَ شرم نہ کننت ءُ کنگرانی روزانءَ شکم پور بنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرم نہ کننت"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "رٹیں وہدءَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "رٹیں"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ءُ کنگرانی روزانءَ"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "کنگر"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "شکم پور بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:49.255507925Z",
+  "model": "glm-5.3"
+}

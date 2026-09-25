@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "سُستیں وتّی دست کاسہءَ تہ لُکیت، آ وتّی دَہنءَ پس گرگاں تھکیت.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "لُکیت"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سُستیں"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "وتّی دست"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "کاسہءَ تہ"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "تھکیت"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "پس گرگاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چُہ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "وتّی دَہنءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:24.428611116Z",
+  "model": "glm-5.3"
+}

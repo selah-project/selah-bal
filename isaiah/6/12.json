@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ یاہوہ ⟨את⟩ مردمءَ دور کت، ءُ ریدگیں جاگہ زمینءِ تہءَ گیش بیت.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "ءُ دور کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردمءَ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردمءَ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ءُ گیش بیت"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ریدگیں جاگہ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "تہءِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T21:23:04.016030108Z",
+  "model": "glm-5.3"
+}

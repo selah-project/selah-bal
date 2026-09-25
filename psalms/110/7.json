@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 110,
+  "translation": "رستءِ روڈءَ چہ ناہءَ شیت؛ دے سببءَ وتءِ سرءَ اُچ کیت۔",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "چہ ناہءَ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستءِ روڈءَ"
+    },
+    {
+      "surface": "یשתه",
+      "gloss": "شیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "سببءَ"
+    },
+    {
+      "surface": "یרים",
+      "gloss": "اُچ کیت"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "وتءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:10.982111964Z",
+  "model": "glm-5.3"
+}

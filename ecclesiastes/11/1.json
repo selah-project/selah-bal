@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "اَپءُ نان ⟨اپءُ⟩ آپانی تہءَ بِرِیت، پرچا کہ روچانی گیشیءَ آیءَ لبزیں۔",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "بِرِیت"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "نانءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سطحءِ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "گیشیءَ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "روچانی"
+    },
+    {
+      "surface": "תמצאנو",
+      "gloss": "آیءَ لبزیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:32.843901774Z",
+  "model": "glm-5.3"
+}

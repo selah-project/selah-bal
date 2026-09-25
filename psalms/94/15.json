@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "کی کہ مچھل راستیءَ سرا پدا گِندیت ءُ آییءِ پشتا گیش دلءِ راست مردم۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی کہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ءَ سرا"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستیءَ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پدا گِندیت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مچھل"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ءُ آییءِ پشتا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "دلءِ راست"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:12.823879441Z",
+  "model": "glm-5.3"
+}

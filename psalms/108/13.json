@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 108,
+  "translation": "دِت پہ ماں مدد پہ دشمنیءَ، ءُ بیکار اِنت مردمءِ نجات.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "دِت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "پہ ماں"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "دشمنیءَ"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ءُ بیکار"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "نجات"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:33.231377545Z",
+  "model": "glm-5.3"
+}

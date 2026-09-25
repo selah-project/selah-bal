@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "بدکارانی وڑیگ — ءُ آ نہ اَنت؛ ءُ راستانی گدان رون ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "وڑیگ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "ءُ آ نہ اَنت"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ءُ گدان"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستانی"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "رون اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:13.025621295Z",
+  "model": "glm-5.3"
+}

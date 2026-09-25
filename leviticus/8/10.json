@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ موشہءَ مسیحءِ ⟨את⟩ تیل گریت، ءُ ⟨את⟩ مِشکان ءُ ⟨את⟩ گچ آ کہ آییءِ تہ اِنت مسیح کت، ءُ ⟨את⟩ اِشاںءَ پاک کت.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "گریت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسیحءِ تیل"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "مسیحءِ"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "مسیح کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِشکان"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مِشکان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءِ تہ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "پاک کت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اِشاںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:08.053303104Z",
+  "model": "glm-5.3"
+}

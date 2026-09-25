@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "گلایتگیں ہدایان پہ تہءَ نہ جوڑیں.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ہدایان"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "گلایتگیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "جوڑیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تہءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:50:04.364081947Z",
+  "model": "glm-5.3"
+}

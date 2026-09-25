@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ عتلیاہو ⟨את⟩ قومءِ آوازءَ گوشیت، کہ دوئنت ءُ شاہءَ سربرنت، ءُ آ قومءَ یاہوہءِ گدانءَ داخل بیت.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "عتلیاہو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومءِ آواز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "دوئنت"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "ءُ سربرنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءَ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "داخل بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:41:40.129381343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 114,
+  "translation": "لرزیت اے زمین، ادونایءِ دیما، یعقوبءِ ایلوہءِ دیما!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "ءِ دیما"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "لرزیت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "اے زمین"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ءِ دیما"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "یעקב",
+      "gloss": "یعقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:37.153181120Z",
+  "model": "glm-5.3"
+}

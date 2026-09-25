@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 14:28",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ اَبشالوم دو سال یوروشلمءَ اِشت، ءُ پادشاہءِ دیم ءُ نہ دیست.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "اِشت"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَبشالوم"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یوروشلمءَ"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دو سال"
+    },
+    {
+      "surface": "ימים",
+      "gloss": ""
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ءُ پادشاہءِ دیم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دیست"
+    }
+  ],
+  "timestamp": "2026-09-25T00:57:21.499181205Z",
+  "model": "glm-5.3"
+}

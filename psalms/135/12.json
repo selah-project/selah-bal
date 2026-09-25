@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "ءُ آیانءِ زمینءَ میراث دات، میراث پہ اسرائیل، آییءِ قومءَ۔",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "آیانءِ زمین"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "پہ اسرائیل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ قوم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:58.201985152Z",
+  "model": "glm-5.3"
+}

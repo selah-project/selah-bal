@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یہوداہ چہ یاہوہءِ لبزءَ جمع بیت؛ ہم چہ یہوداہءِ گشی شہران آیمتنت کہ یاہوہءَ ⟨את⟩ لبزنت.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ءُ جمع بیت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "پہ لبزگ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "چہ یاہوہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ گش"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہرانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آیمتنت"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "پہ لبزگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:40:59.987638350Z",
+  "model": "glm-5.3"
+}

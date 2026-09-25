@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ تُو آ مردَ ءُ آ زنانَ کہ اے گندگں کار آیان کتگ اِنت، اَتھ تُءِ دروازگاںءَ در کن — ⟨את⟩ اے مرد یا ⟨את⟩ اے زنان — ءُ سنگان ءَ آیانءَ سنگسار کن ءُ آ مُنتنت.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "ءُ در کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے مرد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اے مرد"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے زنان"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "اے زنان"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے کار"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے کار"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "گندگ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اَتھ"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "تُءِ دروازگاںءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے مرد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اے مرد"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے زنان"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "اے زنان"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "ءُ سنگسار کن"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "گوں سنگان"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ءُ مُنتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:42.484622924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 15:11",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ائلءِ دلاسہیان تُءَ کم اِنت، ءُ گال کہ گوں تُءَ نرمین اِنت؟",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "کم اِنت"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تُءَ"
+    },
+    {
+      "surface": "תנחמות",
+      "gloss": "دلاسہیان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ائلءِ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ءُ گال"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "نرمین"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تُءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:11.015957804Z",
+  "model": "glm-5.3"
+}

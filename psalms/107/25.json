@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "ءُ گوَشت، ءُ توفانی وائے چم کت، ءُ آییءِ کالان اُچ کتنت",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ءُ چم کت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "وائے"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "توفانی"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "ءُ اُچ کتنت"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "آییءِ کالان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:35.143415287Z",
+  "model": "glm-5.3"
+}

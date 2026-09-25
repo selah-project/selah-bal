@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "نہ پشتہ سر کتگ دلءِ ما، ءُ نہ کج کتگیں ماڑی گام چہ توءی راہءَ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "پشتہ سر کتگ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پشتءَ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "دلءِ ما"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "ءُ نہ کج کتگیں"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "ماڑی گام"
+    },
+    {
+      "surface": "מני",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "توءی راہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:02.268899745Z",
+  "model": "glm-5.3"
+}

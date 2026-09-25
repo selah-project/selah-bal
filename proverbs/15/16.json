@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "تھور چیز یاہوہءِ ڈَرءِ گوں چہ گیش خزانہ ءُ گوں آءِ تہ آشوب خوبتر اِنت۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خوبتر اِنت"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھور چیز"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ءِ ڈَرءِ گوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "چہ خزانہ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "ءُ آشوب"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آءِ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:22.306265467Z",
+  "model": "glm-5.3"
+}

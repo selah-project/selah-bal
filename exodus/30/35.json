@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ تو ⟨את⟩ آءِءَ کنیں بخور — رقاح، رقاحگرءِ کارءِ چوں، نمکاں، پاک، پیرس.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ تو کنیں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "آءِءَ (بخور)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "رقاح"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کارءِ چوں"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "رقاحگرءِ"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "نمکاں"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرس"
+    }
+  ],
+  "timestamp": "2026-09-24T19:04:16.153467215Z",
+  "model": "glm-5.3"
+}

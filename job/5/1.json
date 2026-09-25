@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "اِشا بانگ کن — کے ئے کہ تہءَ جواب دیت؟ ءُ پہ کے چہ پاکانءَ تُ رھچیں؟",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "بانگ کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اِشا"
+    },
+    {
+      "surface": "היש",
+      "gloss": "کے ئے کہ"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "تہءَ جواب دیت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "پاکانءَ"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "تُ رھچیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:59.444293294Z",
+  "model": "glm-5.3"
+}

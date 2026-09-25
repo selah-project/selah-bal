@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "منی آواز تۆ شنوت؛ منی ساہءَ، منی بانگءَ نہ تۆءِ گوشءَ پوش۔",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "منی آواز"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "تۆ شنوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "پوش"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "تۆءِ گوشءَ"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "منی ساہءَ"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "منی بانگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:46.200850142Z",
+  "model": "glm-5.3"
+}

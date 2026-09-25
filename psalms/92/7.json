@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 92,
+  "translation": "یک چارویش مرد نہ زانت، ءُ یک نادان اے چیز ⟨את⟩ نہ فهمیت۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "בער",
+      "gloss": "چارویش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ءُ یک نادان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "فهمیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے چیز"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے چیز"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:36.804748999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ نوح پنچ سد سالءِ زہگ اَت، ءُ نوحءَ ⟨את⟩ شیم ءُ ⟨את⟩ حام ءُ ءُ ⟨את⟩ یافت زائیت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالءِ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوحءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شیم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یافت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:15.327185869Z",
+  "model": "glm-5.3"
+}

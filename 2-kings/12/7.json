@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ بوت بادشاہ یہوآشءِ بیست ءُ سئے سالءَ، کاہنانءَ گدانءِ گڈی ⟨את⟩ مستھکم نہ کت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالءِ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "یہوآش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "مستھکم کت"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنانءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گڈی"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "گڈی"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:14:46.840083749Z",
+  "model": "glm-5.3"
+}

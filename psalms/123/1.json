@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 123,
+  "translation": "چڑھونءِ گیت۔ تہ روتءَ میں ⟨את⟩ چم اچشت انت، اے آسمانانءَ نشتہ کنوک۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "چڑھونءِ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تہ روتءَ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "اچشت انت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میں چم"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میں چم"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "نشتہ کنوک"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:53.912794060Z",
+  "model": "glm-5.3"
+}

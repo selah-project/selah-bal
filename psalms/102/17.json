@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "کی یاہوہ صیونءَ جوڑ کنت، آ وتی جلالءَ گندگ بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڑ کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیونءَ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "گندگ بیت"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "وتی جلالءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:03.031688027Z",
+  "model": "glm-5.3"
+}

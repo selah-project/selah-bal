@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 16:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "دانشءِ خریدگن چو زر کتیر چنگ اِنت، ءُ سمےءِ خریدگن چہ زنگارءَ برزگتریں اِنت۔",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "خریدگن"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانشءِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چو… کتیر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "چہ زرءَ"
+    },
+    {
+      "surface": "וקנות",
+      "gloss": "ءُ خریدگن"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمےءِ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "برزگتریں"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "چہ زنگار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:35.590534634Z",
+  "model": "glm-5.3"
+}

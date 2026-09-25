@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "یہووہءَ گوں من ⟨את⟩ گنگ بنت، ءُ شئوں آییءِ نامءَ یکتا اُچ ببرین.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "گنگ بنت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یہووہءَ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "گوں من ⟨את⟩"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "ءُ اُچ ببرین"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکتا"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:41.585978767Z",
+  "model": "glm-5.3"
+}

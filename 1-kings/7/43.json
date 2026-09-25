@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ ⟨את⟩ پایہاں دہ، ءُ ⟨את⟩ حوضان دہ پایہانی سرءَ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پایہاں"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "پایہاں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حوضان"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "حوضان"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "پایہانی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:55:42.147965784Z",
+  "model": "glm-5.3"
+}

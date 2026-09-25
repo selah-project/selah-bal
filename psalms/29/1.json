@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "داودءِ زمزمہ۔ اے ایلءِ زہگان، یاہوہءَ شان ءُ زور دیں، یاہوہءَ شان ءُ زور دیں۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "زمزمہ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داودءِ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "دیں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ایلءِ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "دیں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ءُ زور"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:56.254002314Z",
+  "model": "glm-5.3"
+}

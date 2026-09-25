@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ اگہ یک مردءَ تہ یک گناہ ہوئیت کہ مارگءِ حکم اِنت، ءُ آ مار بیت، ءُ توں آییءَ ⟨את⟩ یک دارءِ سرءَ لٹکائیت،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ءُ اگہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوئیت"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "یک مردءَ تہ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مارگءِ"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "ءُ آ مار بیت"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "ءُ لٹکائیت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "آییءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "یک دار"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:22.395505532Z",
+  "model": "glm-5.3"
+}

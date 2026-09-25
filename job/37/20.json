@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "آیءَ چا رسیت کہ من گپ لنگیت؟ اگر کسی گپ بزنت، کہ یقیناً بلیت بیت۔",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "چا رسیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "من گپ لنگیت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گپ بزنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کسی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ یقیناً"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "بلیت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:43:04.537865047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ شِلح سی سال زندگی کت، ءُ ⟨את⟩ عِبیر جوڑ کت.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ءُ شِلح"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندگی کت"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِبیر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِبیر"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:17.971764936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 136,
+  "translation": "ءُ زوراور شاهانءَ زہگ، پرچا کہ پہ ہمیشہ آییءِ ہیسید اِنت.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "شاهان"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "زوراور"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:30.145012138Z",
+  "model": "glm-5.3"
+}

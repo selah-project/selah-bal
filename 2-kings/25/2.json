@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ شار محاصرءَ تہ درا بیت، تآن شاہ صدقیاہوءِ یازدہمی سالءَ۔",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ءُ درا بیت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "محاصرءَ تہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تآن"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "یاز-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "لמלך",
+      "gloss": "شاہءِ پہ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقیاہو"
+    }
+  ],
+  "timestamp": "2026-09-24T21:21:32.734197883Z",
+  "model": "glm-5.3"
+}

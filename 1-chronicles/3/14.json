@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اَمون آییءِ زہگ، یُوشیاہو آییءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "اَمون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یُوشیاہو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:13:59.095990912Z",
+  "model": "glm-5.3"
+}

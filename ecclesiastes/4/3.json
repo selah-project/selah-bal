@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ چہ اِشانی دوئین چہ آ بہتر اِنت ⟨את⟩ آ کہ تہ ھنوں ہچ نہ بوت، کہ ⟨את⟩ بد کارءَ نہ گندیت کہ گن بیت تہ آفتابءِ تلے۔",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ءُ بہتر اِنت"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "چہ اِشانی دوئین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ تہ ھنوں ہچ نہ بوت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "تہ ھنوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ہچ نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بد کار"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کارءِ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "گن بیت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "آفتابءِ تلے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:07.867971344Z",
+  "model": "glm-5.3"
+}

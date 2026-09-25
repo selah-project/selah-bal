@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 28:4",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ قربانی دات ءُ باماںءَ ءُ ٹیلانءِ سرءَ بخور سوُت، ءُ ھر سبز دراختءِ تہءَ۔",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ءُ قربانی دات"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ءُ بخور سوُت"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "باماںءَ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ٹیلانءِ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ءُ تہءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دراختءِ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "سبز"
+    }
+  ],
+  "timestamp": "2026-09-25T00:43:06.076955956Z",
+  "model": "glm-5.3"
+}

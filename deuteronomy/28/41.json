@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "زہگان ءُ جنکان تُہ تہ زاییت، ءُ اِشاں تُہءِ ⟨نہ⟩ بنت، پرچا کہ اِشاں اسارتءَ رونت۔",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ءُ جنکان"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "تُہ تہ زاییت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "رونت"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "اسارتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:24.123030815Z",
+  "model": "glm-5.3"
+}

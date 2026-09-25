@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ شاؤلءِ چاکر آییءَ گوَشتانت: چوش اے گستاں داؤدءَ گوَشت.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ءُ حکایت کت"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "چاکر"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءِ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "چوش گستاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    }
+  ],
+  "timestamp": "2026-09-24T20:34:08.987701563Z",
+  "model": "glm-5.3"
+}

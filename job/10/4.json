@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "کہ تیاں گوشتی چیم اَنت، یا چوش کہ مردوم گندیت، تیاں ہم گند ءَ؟",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "چیم"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشتی"
+    },
+    {
+      "surface": "لך",
+      "gloss": "تیاں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "چوش کہ گندیت"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مردوم"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "تیاں ہم گند ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:34.042716852Z",
+  "model": "glm-5.3"
+}

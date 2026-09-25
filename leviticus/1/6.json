@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ سوچگیں قربانیءَ ⟨את⟩ کھلہءَ کنت ءُ ⟨את⟩ آءَ وتی ٹوکانیءَ ٹوک کنت.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "ءُ کھل کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سوچگیں قربانی"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوچگیں قربانیءَ"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "ءُ ٹوک کنت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "آ"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "وتی ٹوکانیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:11:29.541546491Z",
+  "model": "glm-5.3"
+}

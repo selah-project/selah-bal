@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ ایشءِ سرءَ ⟨את⟩ سینہ‌بند دیت، ءُ سینہ‌بندءَ تہ ⟨את⟩ اُوریم ءُ ⟨את⟩ تُمیم دیت.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ءُ دیت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ایشءِ سرءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سینہ‌بند"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سینہ‌بند"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سینہ‌بندءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُوریم"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "اُوریم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "تُمیم"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "تُمیم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:24.242002395Z",
+  "model": "glm-5.3"
+}

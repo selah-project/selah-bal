@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "تُوءِ منم، منی چارہ کن، چون منی تلاش کت تہدئیاں حکم.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تُوءِ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "منم"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "منی چارہ کن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "تہدئیاں حکم"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "منی تلاش کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:17.887866245Z",
+  "model": "glm-5.3"
+}

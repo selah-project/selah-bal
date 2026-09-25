@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "«منءِ بھاگ یاہوہ اِنت»، منءِ جاؤن گوَشت — پہ اے سبب من آییءِ چشمت دارنت.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "منءِ بھاگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منءِ جاؤن"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے سبب"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "چشمت دارنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:38.712741810Z",
+  "model": "glm-5.3"
+}

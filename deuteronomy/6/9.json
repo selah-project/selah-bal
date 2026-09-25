@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اِشاں تُہ مہ گدءِ چوکاںءَ تہ تُہءِ گدانءِ ءُ تُہءِ دروازاںءَ لِکِّت.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ءُ لِکِّت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "گدءِ چوکاںءَ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "تُہءِ گدانءِ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ءُ تُہءِ دروازاںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:49:06.376498807Z",
+  "model": "glm-5.3"
+}

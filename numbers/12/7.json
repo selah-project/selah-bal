@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "نہ چوش؛ منی بندہ موشہ ⟨موسیٰ⟩ منی پوریں گدانءَ تہ امانتدار اِنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "منی بندہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ ⟨موسیٰ⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ پوریں"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "منی گدان"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "امانتدار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:34:58.113013362Z",
+  "model": "glm-5.3"
+}

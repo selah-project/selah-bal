@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آں وہدءَ مالک شدرک، میشک ءُ عبد نگوءَ بابلءِ ملکتءَ ودی کت۔",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "آں وہدءَ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "ودی کت"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "شدرکءَ"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "میشک"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ءُ عبد"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "نگو"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "ملکتءَ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابلءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:00:04.579326736Z",
+  "model": "glm-5.3"
+}

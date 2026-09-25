@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ یکمیں گورال یہویریبءَ پہ در آت، دومیں پہ یدعیاہ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ در آت"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "گورال"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یکمیں"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "یہویریبءَ پہ"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "پہ یدعیاہ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومیں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:32.733404985Z",
+  "model": "glm-5.3"
+}

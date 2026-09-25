@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ بوت پوریں زمینءِ لب یک، ءُ گالان یک اَنت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لب"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ءُ گالان"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T18:28:21.139832094Z",
+  "model": "glm-5.3"
+}

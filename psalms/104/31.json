@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "یاہوہءِ بزرگی همیش پہ بیت؛ یاہوہ وتی کاراں ءَ شاد بیت۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "بزرگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "همیش پہ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "وتی کاراں ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:10.712016954Z",
+  "model": "glm-5.3"
+}

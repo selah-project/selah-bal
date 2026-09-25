@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "راستءِ گدانءَ تہ گیشتر گنج ⟨اِنت⟩، ءُ بدکارءِ حاصلءَ تہ پریشانی۔",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گدانءَ تہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستءِ"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "گنج"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "ءُ حاصلءَ تہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکارءِ"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "پریشانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:10.691122448Z",
+  "model": "glm-5.3"
+}

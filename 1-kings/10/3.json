@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ شُلُموہءَ آیءَ ⟨את⟩ ہر آ آیءِ گَپان گوَشت؛ چہ پادشاہءَ ہچ گَپ پوشیت نہ اَت کہ آیءَ نہ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شُلُموہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر آ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر آ"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "آیءِ گَپان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گَپ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "پوشیت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:58:51.412933541Z",
+  "model": "glm-5.3"
+}

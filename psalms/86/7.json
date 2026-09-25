@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 86,
+  "translation": "تنگیءِ روچءَ من تُلءَ بانگ کنت، پرچا کہ تُو منءَ جواب دیت۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "تنگیءِ"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "تُلءَ بانگ کنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "منءَ جواب دیت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:10.781321602Z",
+  "model": "glm-5.3"
+}

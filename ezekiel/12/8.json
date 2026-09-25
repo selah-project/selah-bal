@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ صُبحءَ یاہوہءِ گال منءَ آت کہ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوت ءُ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صُبحءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:11:06.828451481Z",
+  "model": "glm-5.3"
+}

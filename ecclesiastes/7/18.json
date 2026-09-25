@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "چنگ اِنت کہ اے ءَ پکّیچے ءُ چہ آءَ ءُ ہم ⟨את⟩ دستءَت نہ چمکیں؛ پرچا کہ ایلوہیمءَ ڈرءَ آءُ چہ ⟨את⟩ شمگاں وت کپیت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "پکّیچے"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "اے ءَ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "چہ آءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "چمکیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دستءَت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستءَت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈرءَ آءُ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "وت کپیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شمگاں"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "شمگاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:08.163255236Z",
+  "model": "glm-5.3"
+}

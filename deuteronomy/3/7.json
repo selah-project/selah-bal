@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ تمام مال ءُ شہرانی لُٹ ما لُٹ کت پہ ماں.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ تمام"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ءُ لُٹ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہرانی"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "لُٹ کت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "پہ ماں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:25.236458132Z",
+  "model": "glm-5.3"
+}

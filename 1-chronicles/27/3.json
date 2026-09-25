@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "چہ پیرتزءِ زہگان اَت — ہمگ سباؤتءِ سردارانی سرءُ، اولیں ماہءِ پہ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پیرتزءِ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سرءُ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردارانی"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "سباؤتءِ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماہءِ پہ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "اولیں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:32:11.198583670Z",
+  "model": "glm-5.3"
+}

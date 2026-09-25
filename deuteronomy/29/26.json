@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ یاہوہءِ ناک آ زمینءَ سر گرم بوت پہ آییءَ سر ⟨את⟩ پوریں لاعنت کہ اے کتابءَ تہ نبشتہ اِنت درا کتنک.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ءُ گرم بوت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ناک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "آ زمینءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "پہ درا کتنک"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آییءَ سر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں لاعنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "لاعنت"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "نبشتگی"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "اے کتابءَ تہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:15.389564339Z",
+  "model": "glm-5.3"
+}

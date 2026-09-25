@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "چشمان ءُچا شاہءَ وتی جوانی ءَ گندنت، ءُ یک دویریں زمین گندنت.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "شاہءَ"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "وتی جوانی ءَ"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "گندنت"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "چشمان ءُچا"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "گندنت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "دویریں"
+    }
+  ],
+  "timestamp": "2026-09-24T21:30:49.400129509Z",
+  "model": "glm-5.3"
+}

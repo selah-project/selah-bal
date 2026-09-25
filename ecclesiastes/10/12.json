@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "داناءِ دہنءِ گالان چن دارنت، ءُ نادانءِ لبان آییءَ نگورتنت۔",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دہنءِ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "داناءِ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چن"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ءُ لبان"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادانءِ"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "آییءَ نگورتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:09.257788196Z",
+  "model": "glm-5.3"
+}

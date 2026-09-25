@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ ہَتَک روت پہ مُردُکای، پہ شہرءِ میدانءَ، کہ شاہءِ دَرءِ پیشءَ اِنت.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ہَتَک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردُکای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہرءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دَرءِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:56:56.486304036Z",
+  "model": "glm-5.3"
+}

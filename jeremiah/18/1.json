@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "گال کہ بوت پہ یِرمِیاہوءَ چہ یاہوہءَ ⟨את⟩، گوں اے گپ کہ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہوءَ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "چہ ⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوں اے گپ کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:52:45.000925170Z",
+  "model": "glm-5.3"
+}

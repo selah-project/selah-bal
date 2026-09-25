@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ہر چیرم کہ چہ مردم ءُ چیرم بوت، نہ رستگار کپت؛ موتءَ مُرٹ بیت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "چیرم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "چیرم بوت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "رستگار کپت"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتءَ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مُرٹ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:31.087400744Z",
+  "model": "glm-5.3"
+}

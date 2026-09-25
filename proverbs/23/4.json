@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "تھکیت نہ بیت پہ دولت مند گرگءَ، چہ توءِ عقلءَ دست کش بیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "تھکیت نہ بیت"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "پہ دولت مند گرگءَ"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "چہ توءِ عقلءَ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "دست کش بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:48.087517115Z",
+  "model": "glm-5.3"
+}

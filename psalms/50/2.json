@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "چہ زیونءَ، جمالءِ کمالءَ، ایلوہیم چم دات۔",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "چہ زیونءَ"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "کمالءِ"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "جمالءِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "چم دات"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:32.956279010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ گادءِ زہگان ⟨את⟩ دِیبون ءُ ⟨את⟩ عتاروت ءُ ⟨את⟩ عروعیر جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گادءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دِیبون"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "دِیبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "عتاروت"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عتاروت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "عروعیر"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "عروعیر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:44:29.890911518Z",
+  "model": "glm-5.3"
+}

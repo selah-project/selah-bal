@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "توند آییءِ شہرءِ سردار آییءَ چوکیت ءُ ⟨את⟩ آییءَ چہ اُڈا گنت ءُ ⟨את⟩ آییءَ گوںءِ گوالیءِ دستءَ دیت ءُ آ بمریت۔",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ءُ چوکیت"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "آییءِ شہرءِ"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ءُ گنت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آییءَ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "چہ اُڈا"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ءُ دنت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آییءَ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دستءَ تہ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گوالی"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "گوںءِ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ءُ بمریت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:32.724840442Z",
+  "model": "glm-5.3"
+}

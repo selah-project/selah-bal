@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ شلیمہءَ تہ یروشلمءَ گوں تمام یسرائیلءِ سرءَ چال سال شاہی کت.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ءُ شاہی کت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلیمہءَ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "تہ یروشلمءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں…ءِ سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چال"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:59.505081335Z",
+  "model": "glm-5.3"
+}

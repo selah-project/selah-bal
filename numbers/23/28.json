@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ بَلَقءَ بِلعام ⟨את⟩ گرِت، پئورءِ سرءَ، کہ یِشیمونءِ رُخءَ نِس آیں اِنت.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گرِت"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَقءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِلعام"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "پئورءِ"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "نِس آیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُخ"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "یِشیمونءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:39:59.958022248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کیہ ایل مشپاتءَ کج کنت؟ ءُ اگر ایل شدّای راستیءَ کج کنت؟",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "کیہ ایل"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "کج کنت"
+    },
+    {
+      "surface": "مשפט",
+      "gloss": "مشپاتءَ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ایل شدّای"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "کج کنت"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:47.502055479Z",
+  "model": "glm-5.3"
+}

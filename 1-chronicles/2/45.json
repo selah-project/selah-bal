@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ شمّایءِ زہگ ماعون ⟨اِت⟩، ءُ ماعون بیت سورءِ پیءُ ⟨اِت⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ءُ …ءِ زہگ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّای"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ماعون"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ءُ ماعون"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…ءِ پیءُ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "سور"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:15.747409761Z",
+  "model": "glm-5.3"
+}

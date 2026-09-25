@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 76,
+  "translation": "تُو، خود تُو ڈرناک اِنت؛ ءُ کے تئے پیشءَ ایستیت چہ اودا کہ تئے غضب اِنت؟",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ڈرناک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "خود تُو"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کے"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ایستیت"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تئے پیشءَ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "چہ اودا"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تئے غضب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:54.013888747Z",
+  "model": "glm-5.3"
+}

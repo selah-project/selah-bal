@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "آءُ آییءِ پستانءِ نسلءَ رسیت، سرکاپہ روشنائی نہ گندنت۔",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "آءُ ... رسیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "آییءِ پستانءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "سرکاپہ"
+    },
+    {
+      "surface": "نצח",
+      "gloss": "سرکاپہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "گندنت"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنائی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:36.714646860Z",
+  "model": "glm-5.3"
+}

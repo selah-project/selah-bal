@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 130,
+  "translation": "چڑھائیانی گانی۔ چہ گونڈاں تُہءَ بانگ کت اے یاہوہ۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گانی"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "چڑھائیانی"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "چہ گونڈاں"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "تُہءَ بانگ کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:19.803067186Z",
+  "model": "glm-5.3"
+}

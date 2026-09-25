@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اے ماں وتءِ دلءَ شرون کنت، پہ اے سبب من چشمت دارنت.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "شرون کنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "وتءِ دل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے سبب"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "چشمت دارنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:38.679642699Z",
+  "model": "glm-5.3"
+}

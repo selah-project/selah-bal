@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "اے گوَشت یاہوہ، آ کہ دریاءِ تہ رستہ دیت ءُ زورءِ آپانءِ تہ راہ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "آ کہ … دیت"
+    },
+    {
+      "surface": "בים",
+      "gloss": "دریاءِ تہ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ءُ … آپانءِ تہ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "زورءِ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "راہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:43.585498959Z",
+  "model": "glm-5.3"
+}

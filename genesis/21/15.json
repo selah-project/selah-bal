@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ آپ چہ مشکءَ تمام بیت، ءُ آ ⟨את⟩ زہگءَ یکے جھاڑءِ تلءَ اِنجنت.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ءُ تمام بیت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "مشکءَ"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ءُ اِنجنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زہگ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "زہگءَ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "جھاڑءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:48.482870281Z",
+  "model": "glm-5.3"
+}

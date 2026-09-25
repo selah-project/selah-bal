@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "دل وتی تلخیءَ زانت، ءُ وتی شادیءَ گوں اجنبی شریک نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "تلخیءَ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "ءُ وتی شادیءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתעارב",
+      "gloss": "شریک بیت"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اجنبی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:06.350115695Z",
+  "model": "glm-5.3"
+}

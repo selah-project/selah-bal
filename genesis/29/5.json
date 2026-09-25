@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "گوَشت اِشاںءَ: اِشاں لبانءَ ناحورءِ زہگءَ زانت؟ اِشاں گوَشتنت: ما آییءَ زانت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "زانتءے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لبان"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لبان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "گوَشتنت"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "ما زانت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:02.123718571Z",
+  "model": "glm-5.3"
+}

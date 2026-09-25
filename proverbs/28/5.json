@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "بدءِ مردمی انصاف نہ دریابنت، ءُ یاہوہءِ لبھوکنوک ہمگ دریابنت.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مردمی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "دریابنت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "ءُ لبھوکنوک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "دریابنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:27.934552224Z",
+  "model": "glm-5.3"
+}

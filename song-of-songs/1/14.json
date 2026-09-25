@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "حنا ءِ دستہ مہ یار مہ پہ ⟨اِنت⟩، عین گدیءِ انگوریانی گوہڑیاں تہ۔",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "دستہ"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "حنا ءِ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "مہ یار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مہ پہ"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "انگوریانی گوہڑیاں تہ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عین"
+    },
+    {
+      "surface": "גדی",
+      "gloss": "گدی"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:37.518409917Z",
+  "model": "glm-5.3"
+}

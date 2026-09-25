@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "شہر کہ پیش کپتگ ءُ دیوارءَ نیست — آ مرد اِنت کہ وتی روحءِ باز نہ داریت۔",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "پیش کپتگ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "باز"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "وتی روحءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:02.973156818Z",
+  "model": "glm-5.3"
+}

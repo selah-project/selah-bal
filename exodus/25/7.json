@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "شوہمءِ سنگ، ءُ نشانیں سنگ ایفُدءَ پہ ءُ چوشنءَ پہ،",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شوہمءِ"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ءُ سنگ"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "نشانیں"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "ایفُدءَ پہ"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ءُ چوشنءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:02.057895225Z",
+  "model": "glm-5.3"
+}

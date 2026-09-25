@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 88,
+  "translation": "چہ منی جان بُرہونیانءَ سیر اِنت، ءُ منی زندگی شیئولءَ رسیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سیر اِنت"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "بُرہونیانءَ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جان"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ءُ منی زندگی"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شیئولءَ"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "رسیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:07.113222763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "کہ تو ماءِ جانءَ پہ شیئول نہ رھاندیت، تُءِ ہیسیدءَ پہ گڈاگءِ گندگ نہ دیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "رھاندیت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ماءِ جانءَ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "پہ شیئول"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "تُءِ ہیسیدءَ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "پہ گندگ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "گڈاگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:40.205904133Z",
+  "model": "glm-5.3"
+}

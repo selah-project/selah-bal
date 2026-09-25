@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "پہ تُہءَ چہ بدیءِ رہ چہ رہائی گرگ، چہ یکے کہ پٹھ چیزان گوشنت.",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "پہ تُہءَ رہائی گرگ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "چہ رہ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدیءِ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "چہ یکے"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "پٹھ چیزان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:02.662493283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ یاد کن کہ تُہ مِتسرایمءَ غلام اُت؛ ءُ آے حکمنے رار ءُ ⟨את⟩ کر۔",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "ءُ یاد کن"
+    },
+    {
+      "surface": "کہ",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "عبد",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "ہیت",
+      "gloss": "اُت"
+    },
+    {
+      "surface": "بمصر",
+      "gloss": "تہ مِتسرایمءَ"
+    },
+    {
+      "surface": "وشمرت",
+      "gloss": "ءُ رار"
+    },
+    {
+      "surface": "وعسیت",
+      "gloss": "ءُ کر"
+    },
+    {
+      "surface": "اتھ",
+      "gloss": "⟨את⟩",
+      "marks": "آے حکمنے"
+    },
+    {
+      "surface": "حکم",
+      "gloss": "آے حکمنے"
+    },
+    {
+      "surface": "ہاﻻۃ",
+      "gloss": "آے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:24.323541054Z",
+  "model": "glm-5.3"
+}

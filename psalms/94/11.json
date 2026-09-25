@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "یاہوہ مردمءِ سوچانءَ زانت، کہ اِشاں ہبل اَنت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "سوچان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِشاں"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:52.682604740Z",
+  "model": "glm-5.3"
+}

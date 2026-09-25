@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 15:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ تُ تُءِ پیسرونءَ لڑ گوں سلامتی آئی، تہ پیریءَ چنگ دفن بیت۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تُ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لڑ"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "تُءِ پیسرونءَ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "گوں سلامتی"
+    },
+    {
+      "surface": "תקבר",
+      "gloss": "دفن بیت"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "تہ پیریءَ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:29:33.368302274Z",
+  "model": "glm-5.3"
+}

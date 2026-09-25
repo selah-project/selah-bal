@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ یاہوہءَ موشہءَ کتان گوَشت کہ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ کتان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:32:26.429357838Z",
+  "model": "glm-5.3"
+}

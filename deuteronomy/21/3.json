@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 21:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ بیت، آ شار کہ کشتگءَ چُ نزیک اِنت — آ اے شارءِ ڈاتگان مالءِ مادی گوار گرنت کہ آیءَ کار نہ کتگ، کہ جوڑءَ نہ کشیتگ۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "آ شار"
+    },
+    {
+      "surface": "הקרבה",
+      "gloss": "نزیک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چُ"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "کشتگءَ"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ءُ گرنت"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ڈاتگان"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارءِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "مادی گوار"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مالءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "کار کتگ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "משכה",
+      "gloss": "کشیتگ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "چہ جوڑءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:44.863574749Z",
+  "model": "glm-5.3"
+}

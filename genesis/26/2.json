@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ یاہوہ آییءَ دیمءَ چیر بوت ءُ گوَشت: متسرایمءَ نہ ڈگ؛ اے زمینءَ مان کہ من تئے گوَشت کنت۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ چیر بوت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ دیمءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ڈگ"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "متسرایمءَ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "تہ اے زمینءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت کنت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تئے"
+    }
+  ],
+  "timestamp": "2026-09-24T18:35:56.020381142Z",
+  "model": "glm-5.3"
+}

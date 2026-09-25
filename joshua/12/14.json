@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "بادشاہءِ حورماہ، یک؛ بادشاہءِ عاراد، یک؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "حورماہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "عاراد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:11.053644681Z",
+  "model": "glm-5.3"
+}

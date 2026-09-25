@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "کے دگہ ہدائی جوڑیت ءُ ریختگیں بت، کہ سود نہ دیت؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "جوڑیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دگہ ہدائی"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ءُ بت"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ریختگیں"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "کہ... نہ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "سود دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:35:58.707468318Z",
+  "model": "glm-5.3"
+}

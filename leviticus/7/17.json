@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ آ کہ چہ قربانیءِ گوشتءَ ماندگ اِنت، سئیمی روچءَ آتشءَ سوزشت بیت.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ءُ ماندگ"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "چہ گوشتءَ"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "قربانیءِ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سئیمی"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آتشءَ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "سوزشت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:04.419611161Z",
+  "model": "glm-5.3"
+}

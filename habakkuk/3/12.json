@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "غضبءَ تُو زمینءَ ماروتی، خشمءَ تُو قومانءَ مالیت.",
+  "tokens": [
+    {
+      "surface": "בְּזַ֖עַם",
+      "gloss": "غضبءَ"
+    },
+    {
+      "surface": "תִּצְעַ֥ד",
+      "gloss": "تُو ماروتی"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "בְּאַ֖ף",
+      "gloss": "خشمءَ"
+    },
+    {
+      "surface": "תָּד֥וּשׁ",
+      "gloss": "تُو مالیت"
+    },
+    {
+      "surface": "גּוֹיִֽם",
+      "gloss": "قومانءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:07:25.994877989Z",
+  "model": "glm-5.3"
+}

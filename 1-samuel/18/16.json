@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ ہر اِسرائیل ءُ یہوداہ داؤد ⟨את⟩ پرچیت، کیجہ کہ آ شانی پیشءَ روت ءُ اندراوت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ءُ یہوداہ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پرچیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داؤد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیجہ کہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ءُ اندراوت"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "شانی پیشءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:34:04.876663652Z",
+  "model": "glm-5.3"
+}

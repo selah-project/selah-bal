@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "بےشک منءِ پشتءَ آ پدا گشت، آییءِ دستءَ پوریں روچ پدا گندیت.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بےشک"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منءِ پشتءَ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "پدا گشت"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "پدا گندیت"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "آییءِ دستءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:26.007389623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "اے شان یاہوہ منءِ ایلوہیمءَ گوَشت: ⟨את⟩ مارگئانی رمہ چرا کن۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اے شان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "منءِ ایلوہیمءَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چرا کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مارگئانی رمہ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "رمہ"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "مارگئانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:45:57.973533287Z",
+  "model": "glm-5.3"
+}

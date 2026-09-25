@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "کیہ کہ اے گوَشت ادونای ماںءَ: یک سالءِ دراج، مزدورءِ سالانی چوں، ءُ قیدارءِ تمام شان پورا بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماںءَ"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "دراج"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "چوں سالانی"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "مزدورءِ"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ءُ پورا بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قیدارءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:26:05.228255980Z",
+  "model": "glm-5.3"
+}

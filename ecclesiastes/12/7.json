@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ گدار زمینءِ سرءَ پدا گشت چوش کہ اُت، ءُ روح پدا گشت پہ ایلوہیمءَ کہ آییءَ دات.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ءُ پدا گشت"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "گدار"
+    },
+    {
+      "surface": "על",
+      "gloss": "زمینءِ سرءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "چوش کہ اُت"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ءُ روح"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "پدا گشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "آییءَ دات"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:31.510981162Z",
+  "model": "glm-5.3"
+}

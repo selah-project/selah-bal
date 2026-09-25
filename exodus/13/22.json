@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "رِتءِ چیراہاں روچءَ ءُ رِتءِ آتش شپءَ قومءِ پیشا چے نہ گوَست.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "گوَست"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "رِتءِ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "چیراہاں"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "ءُ رِتءِ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:55:02.892621892Z",
+  "model": "glm-5.3"
+}

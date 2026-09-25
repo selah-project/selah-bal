@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "⟨את⟩ حشبون ءُ ⟨את⟩ وتی چراگاہاں، ⟨את⟩ یعزر ءُ ⟨את⟩ وتی چراگاہاں — ہمگ شہر چار۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حشبون"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چراگاہاں"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "چراگاہاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یعزر"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "یعزر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چراگاہاں"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "چراگاہاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-09-24T20:12:07.768107791Z",
+  "model": "glm-5.3"
+}

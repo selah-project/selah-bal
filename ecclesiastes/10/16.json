@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "وای تہ پہ، زمین، آ کہ تُہءِ شاہ جنکیں اِنت ءُ تُہءِ سرداران سپدینءَ گندنت!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہ پہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "آ کہ تُہءِ شاہ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "جنکیں"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ءُ تُہءِ سرداران"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سپدینءَ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "گندنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:23.210872925Z",
+  "model": "glm-5.3"
+}

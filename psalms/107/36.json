@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "ءُ بھوکانءَ اُتھءَ جا دیت، ءُ اِشاں یک مانستگیں شہر جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "جا دیت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھءَ"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "بھوکانءَ"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "ءُ اِشاں جوڑ کت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "مانستگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:32.879889403Z",
+  "model": "glm-5.3"
+}

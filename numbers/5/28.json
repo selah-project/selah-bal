@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 5:28",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اگہ جنک پلّیت نه بیت ءُ پاک اِنت، آ نجات پاویت ءُ نسل گرنت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "پلّیت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "ءُ پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "ءُ نجات پاویت"
+    },
+    {
+      "surface": "ונזרעה",
+      "gloss": "ءُ نسل گرنت"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:30:47.061667293Z",
+  "model": "glm-5.3"
+}

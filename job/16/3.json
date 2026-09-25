@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 16:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "بادیں گپانی انت چُست؟ ءُ چہ تُہءَ گرم کنت کہ تُہ جواب دئے؟",
+  "tokens": [
+    {
+      "surface": "הקץ",
+      "gloss": "انت چُست"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "پہ گپانی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "بادیں"
+    },
+    {
+      "surface": "או",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "ימריצך",
+      "gloss": "تُہءَ گرم کنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "تُہ جواب دئے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:53.295197684Z",
+  "model": "glm-5.3"
+}

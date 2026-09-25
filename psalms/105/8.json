@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "آیی وتی عہد ہمیشہ یاد لگیت، آ گپ کہ ہزار نسلءَ پہ حکم کت۔",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد لگیت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "وتی عہد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آ گپ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:26.468194793Z",
+  "model": "glm-5.3"
+}

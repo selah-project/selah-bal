@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 97,
+  "translation": "آییءِ بجلیان دنیاءَ روشن کت؛ زمین گندیت ءُ کنگ بیت۔",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "روشن کت"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "آییءِ بجلیان"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ءُ کنگ بیت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:48.635375829Z",
+  "model": "glm-5.3"
+}

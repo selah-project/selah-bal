@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ دشت عربہ ءُ یرڈن ءُ سرحدّ، چہ کِنرتءَ ءُ تا دشتءِ دریا — نمکیں دریا — تلے اشدوت پِسگاءِ، مشرقءَ.",
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "ءُ دشت عربہ"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "ءُ یرڈن"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "ءُ سرحدّ"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "چہ کِنرتءَ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "دشتءِ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "نمکیں"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "اشدوت"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "پِسگاءِ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "مشرقءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:18.102998888Z",
+  "model": "glm-5.3"
+}

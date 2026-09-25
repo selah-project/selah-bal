@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ یاہوہءَ موشہ ⟨موسیٰ⟩ءَ گوں گپ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوں گپ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ ⟨موسیٰ⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوں گپ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:12.401066737Z",
+  "model": "glm-5.3"
+}

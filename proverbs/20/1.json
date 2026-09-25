@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "شراب یک تاوان کوک ⟨اِنت⟩، مستیءِ آپ ہمدام شور کنیت، ءُ ہر کس کہ آییءَ تہ ما روت، دانا نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "تاوان کوک"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "המה",
+      "gloss": "شور کنیت"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "مستیءِ آپ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر کس"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ما روت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "دانا بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:24.339041570Z",
+  "model": "glm-5.3"
+}

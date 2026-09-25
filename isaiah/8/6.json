@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "پرچا کہ اے قوم شیلوہءِ آپاں کہ آرامی روَنت ⟨את⟩ رد کتگ، ءُ گوں ⟨את⟩ رتسین ءُ رمالیہُءِ زہگ شاد بیت.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "پرچا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "رد کتگ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "شیلوہءِ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "روَنوک"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "آرامی"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "ءُ شاد بیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رتسین"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رتسین"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "رمالیہُءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:23:25.650686921Z",
+  "model": "glm-5.3"
+}

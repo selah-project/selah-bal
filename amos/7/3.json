@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "یاہوہءَ چہ اے بابت پچیم کت — آ نہ بیت، یاہوہءَ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "پچیم کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "چہ …ءَ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے بابت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:36:48.525389845Z",
+  "model": "glm-5.3"
+}

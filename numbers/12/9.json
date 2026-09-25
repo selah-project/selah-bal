@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ یاہوہءِ اَڑ اِشانی سرا چڑیت، ءُ ⟨او⟩ روت۔",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ءُ چڑیت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "اَڑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اِشانی سرا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:33:44.149191474Z",
+  "model": "glm-5.3"
+}

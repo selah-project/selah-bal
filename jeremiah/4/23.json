@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "⟨את⟩ زمینءَ اِشکتم، ءُ اے لو تہو ءُ بہو؛ ءُ آسمانانءَ، ءُ اِشانیءِ روشنی نیست۔",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "اِشکتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمینءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ اے لو"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "تہو"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ءُ بہو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانانءَ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "اِشانیءِ روشنی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:44:44.476102887Z",
+  "model": "glm-5.3"
+}

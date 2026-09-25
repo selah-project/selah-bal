@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "من اِشاںءِ سرءَ بدیانیں گنایان در کنان؛ منءِ تیر اِشاںءِ سرءَ مک کنان.",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "در کنان"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "اِشاںءِ سرءَ"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بدیانیں گنایان"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "منءِ تیر"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "مک کنان"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اِشاںءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:16.217174117Z",
+  "model": "glm-5.3"
+}

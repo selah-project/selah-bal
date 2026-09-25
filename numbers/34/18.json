@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ یک ناسۏی، یک ناسۏی چہ ہر ٹولی، گپیت پہ موہبوڑی ⟨את⟩ زمین۔",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ءُ یک ناسۏی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ناسۏی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "چہ ہر ٹولی"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "گپیت"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "پہ موہبوڑی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T19:45:37.875212940Z",
+  "model": "glm-5.3"
+}

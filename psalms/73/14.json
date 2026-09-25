@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "ءُ من بوتم مبتلا تمام روچ ءُ منی توپاز ہر صوب۔",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ءُ من بوتم"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "مبتلا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ءُ منی توپاز"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ہر صوب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:09.133514592Z",
+  "model": "glm-5.3"
+}

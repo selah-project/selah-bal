@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "پُر ہمگاںءَ زخمان، یکے کہ نادانءَ کم کار گنیت ءُ روتکانی ءُ کم کار گنیت۔",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "زخمان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگاںءَ"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ءُ کم کار گنیت"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادانءَ"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ءُ کم کار گنیت"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "روتکانی ءُ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:13.207456883Z",
+  "model": "glm-5.3"
+}

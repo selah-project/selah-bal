@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 11:20",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ابشای، یوآبءِ بڑا، آ سئیانی سر اَت؛ ءُ آ وتی نیزہ ⟨את⟩ سئے سد زخمیءَ سر اُستائیت، ءُ آ سئیانی شانءَ نہ داشت۔",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "ءُ ابشای"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ءِ بڑا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "سئیانی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "اُستائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی نیزہ"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "وتی نیزہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ءَ سر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "زخمی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شان"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "سئیانی شانءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:25:45.349212909Z",
+  "model": "glm-5.3"
+}

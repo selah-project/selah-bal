@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "رِشا ءُ بَدءِ بازوءَ شِکن؛ آییءِ رِشائیءَ پَے گِر — ہَرگِز نہ پَیدائیت۔",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "شِکن"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رِشا"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ءُ بَد"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "پَے گِر"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "رِشائی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ہَرگِز نہ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "پَیدائیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:13.322220947Z",
+  "model": "glm-5.3"
+}

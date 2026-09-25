@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ تو آیاناں گوَشیت: اوش گوَشت یاہوہءَ — آیا ڈگنت ءُ نہ اٹنت؟ کیا ⟨او⟩ پدا گرنت ءُ نہ پدا گرنت؟",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ءُ تو گوَشیت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "آیاناں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اوش"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "آیا ڈگنت"
+    },
+    {
+      "surface": "وלא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "اٹنت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پدا گرنت"
+    },
+    {
+      "surface": "وלא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پدا گرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:48:21.555992728Z",
+  "model": "glm-5.3"
+}

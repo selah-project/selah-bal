@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "کی ہنہ شاهان کٹا بوتنت، یکلتی چیر گونتنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ہنہ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "شاهان"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "کٹا بوتنت"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "چیر گونتنت"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکلتی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:41.921681041Z",
+  "model": "glm-5.3"
+}

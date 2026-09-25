@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 23:5",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ اہولہ مئے تہ زنا کت، ءُ آیی وتی ماہبوبانءَ پہ سر مست بیت — آشورءِ، ہمسایہ۔",
+  "tokens": [
+    {
+      "surface": "ותזן",
+      "gloss": "ءُ زنا کت"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "اہولہ"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "مئے تہ"
+    },
+    {
+      "surface": "ותעגב",
+      "gloss": "ءُ مست بیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "آییءِ ماہبوبان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "ہمسایہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:18:31.728452102Z",
+  "model": "glm-5.3"
+}

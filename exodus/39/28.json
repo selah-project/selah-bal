@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "ءُ ⟨את⟩ پگڑ چہ شش، ءُ ⟨את⟩ گنبدانی سربندان چہ شش، ءُ ⟨את⟩ شلواران چہ بد چہ شش پیچیتگ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پگڑ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "پگڑ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گنبدانی سربندان"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "سربندان"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "گنبدان"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شلواران"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "شلواران"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "بد"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "پیچیتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:59.554567497Z",
+  "model": "glm-5.3"
+}

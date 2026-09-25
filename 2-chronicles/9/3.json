@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ ملکہ شبا گندیت ⟨את⟩ شلمہءِ دانائی ءُ ⟨את⟩ گدان کہ آ جوڑیت۔",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ملکہ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شبا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلمہءِ دانائی"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلمہءِ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ءُ گدان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "آ جوڑیت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:37:19.410789161Z",
+  "model": "glm-5.3"
+}

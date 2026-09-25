@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ دعا کت ہمے ایلوہیمءَ لَہِ، ءُ پہرہ پاہ کت آیانی سرءَ روچ ءُ شپ، آیانی پہ۔",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "ءُ دعا کت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لَہِ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ہمے ایلوہیمءَ"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "ءُ پاہ کت"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "پہرہ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "آیانی سرءَ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ءُ شپ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "آیانی پہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:15:42.659809526Z",
+  "model": "glm-5.3"
+}

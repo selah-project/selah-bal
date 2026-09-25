@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ آ ⟨את⟩ مزہار گوشت ءُ ؗ ⟨את⟩ نان کہ آ پچا کتگ آئے، یعقوبءِ دستءَ دیت — آییءِ زہگءَ.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ءُ آ دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مزہار گوشت"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "مزہار گوشت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "نان"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "پچا کتگ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "آییءِ زہگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:58.904429517Z",
+  "model": "glm-5.3"
+}

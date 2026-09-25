@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ چہ شارءِ پیرانی چُشت؛ گوَشت: اِشا نشنت؛ ءُ اِشنت۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ چُشت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "چہ … پیرانی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨اے⟩ شارءِ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "نشنت"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اِشا"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ءُ اِشنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:48:54.441948311Z",
+  "model": "glm-5.3"
+}

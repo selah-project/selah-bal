@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ اے شپءَ آ بوت کہ ایلوہیمءِ گال ناتانءَ آت، چہ گوَشت:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اے بوت"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "اے شپءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ … بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتانءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:28:58.465860738Z",
+  "model": "glm-5.3"
+}

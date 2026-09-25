@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "میکتام، داؤدءِ. مار ءُ سامب، اے ایل، پرچا کہ ماں تہ پناہ گرتگ اِم.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "میکتام"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داؤدءِ پہ"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "مار ءُ سامب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے ایل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "پناہ گرتگ اِم"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ماں تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:12.773944225Z",
+  "model": "glm-5.3"
+}

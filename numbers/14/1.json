@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ پوریں جمعیت اُٹ کت ءُ ⟨את⟩ وتے شنوکءَ دات، ءُ مردم اِش اے شپءَ گریانت۔",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "اُٹ کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جمعیت"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتے شنوکءَ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "وتے شنوک"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ءُ گریانت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "اے شپءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:34:25.103219441Z",
+  "model": "glm-5.3"
+}

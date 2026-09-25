@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 49:9",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "اگر انگورچینوک تُہ نیں آتنت، گلچین نہ داریتنت؛ اگر شپءِ دوزدان آتنت، آیانءَ بسءَ خراب کتنت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "בצרים",
+      "gloss": "انگورچینوک"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آتنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہ نیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישארו",
+      "gloss": "داریتنت"
+    },
+    {
+      "surface": "עוללות",
+      "gloss": "گلچین"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "دوزدان"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "شپءِ"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "خراب کتنت"
+    },
+    {
+      "surface": "דים",
+      "gloss": "بسءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:05:22.402335687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "پہ اے کہ زمین شکانتگ، چون کہ باران زمینءَ تہ نہ اشت؛ کاشتکار شرمناک بوتنت، آیانی سران ڈپنت۔",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "شکانتگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اِشت"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "باران"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "شرمناک بوتنت"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "کاشتکار"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "ڈپنت"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "آیانی سران"
+    }
+  ],
+  "timestamp": "2026-09-24T21:50:14.997046010Z",
+  "model": "glm-5.3"
+}

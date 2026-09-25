@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "یاہوہءَ یاد کن آ چه ماں جاگہءَ آمد؛ نگاه کن ءُ ⟨את⟩ ماںءِ شرمءَ گند.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد کن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آمد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماں جاگہءَ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "نگاه کن"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ءُ گند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماںءِ شرمءَ"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ماںءِ شرم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:53.130025335Z",
+  "model": "glm-5.3"
+}

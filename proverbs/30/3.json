@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ من دانائی نہ سِکیتگ اَم، ءُ مقدسانی زانت نہ زان اَم۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "سِکیتگ اَم"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ … زانت"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مقدسانی"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "زان اَم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:58.572214847Z",
+  "model": "glm-5.3"
+}

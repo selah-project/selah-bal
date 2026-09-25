@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ عیلی آیءَ گوَشت: تا کجا مست بیت؟ اے آپءَ چہ خودءَ دور کن!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عیلی"
+    },
+    {
+      "surface": "عד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "مست بیت"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "دور کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے آپءَ"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "تُءِ آپ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "چہ خودءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:25:29.443889502Z",
+  "model": "glm-5.3"
+}

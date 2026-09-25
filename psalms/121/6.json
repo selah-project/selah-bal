@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 121,
+  "translation": "روچءَ روچ تئے نہ زنت، ءُ ماہ شپءَ ⟨تئے نہ زنت⟩۔",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "تئے زنت"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ءُ ماہ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "شپءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:35.181573443Z",
+  "model": "glm-5.3"
+}

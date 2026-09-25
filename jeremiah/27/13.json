@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 27:13",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "چرا مرنت، او ⟨شما⟩ ءُ تءِ قوم، تہ تیغ ءُ تہ لوگ ءُ تہ مرضءَ، چوش کہ یہوہ گوَشت پہ اے قومءَ کہ ⟨את⟩ بابلءِ شاہءَ نہ ملبیت؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "مرنت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "او"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ءُ تءِ قوم"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تہ تیغ"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "تہ لوگ"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "ءُ تہ مرضءَ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ملبیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بابلءِ شاہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-09-24T21:55:18.095580804Z",
+  "model": "glm-5.3"
+}

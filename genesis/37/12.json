@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ آییءِ براتان روتنت آیانءِ پپءِ مالءَ چروکءَ، تہ شیکمءَ۔",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ءُ روتنت"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "آییءِ براتان"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "چروکءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مال"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مال"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "آیانءِ پپءِ"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "تہ شیکمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:35.388603150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ما ⟨את⟩ آییءِ پوری شہراں اے وہدءَ گپت؛ ہچ شہر نیست کہ ما چہ اِشاں ⟨את⟩ نہ گپتگ باشنت — شست شہر، پوری اَرگُبءِ خطہ، اوگءِ شاہی ہبشانءَ۔",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "ءُ ما گپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ پوری شہراں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "آییءِ شہراں"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "وہدءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "ما گپتگ"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "چہ اِشاں ⟨את⟩"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شست"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "خطہ"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "اَرگُبءِ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "شاہی"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "اوگءِ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ہبشانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:16.826167072Z",
+  "model": "glm-5.3"
+}

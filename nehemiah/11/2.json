@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ مردمءَ گش مردمانی خودخواہانءَ برکت دت کہ یروشلمءَ مانش بکنت۔",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "ءُ برکت دنت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردمءَ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "خودخواہانءَ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "پہ مانشگءِ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:19:33.216586121Z",
+  "model": "glm-5.3"
+}

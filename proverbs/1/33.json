@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ کہ مءِ گوشیت، بے خطرءَ جاگہ گیریت ءُ چہ بدءِ ڈگاریں پچھیٹءَ ارام بیت۔",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ءُ گوشیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مءِ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "جاگہ گیریت"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بے خطرءَ"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "ءُ ارام بیت"
+    },
+    {
+      "surface": "مפחד",
+      "gloss": "چہ ڈگاریں پچھیٹءَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:41.167376120Z",
+  "model": "glm-5.3"
+}

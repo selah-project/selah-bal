@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آ ⟨את⟩ منءَ رہباری کت ءُ مں تاریکی روایت کت، ءُ نہ روشنائیءَ.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ منءَ",
+      "marks": "رہباری کت"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "رہباری کت"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روایت کت"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "مں تاریکی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنائی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:26.006191327Z",
+  "model": "glm-5.3"
+}

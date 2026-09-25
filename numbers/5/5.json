@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ یاہوہءَ گوں موشہ گوَشت کہ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ ⟨موسیٰ⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:30:29.021105271Z",
+  "model": "glm-5.3"
+}

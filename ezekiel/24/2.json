@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 24:2",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "اے زہگءِ آدم، پہ تے نبسیت اے روچءِ نام ⟨את⟩، ⟨את⟩ اے روچءِ پوری وہد — بابلءِ شاہ اے پوری وہد روچءَ یروشلمءِ سرءَ مڑیت۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگءِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "نبسیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے روچءِ نام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے روچءِ پوری وہد"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "پوری وہد"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "مڑیت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابلءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءِ سرءَ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "پوری وہد"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T22:17:42.854663532Z",
+  "model": "glm-5.3"
+}

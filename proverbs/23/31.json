@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "شراب مہ گند چوش کہ سرخ بیت، چوش کہ ⟨⟩ پیالہءَ تہ چشمی رنگ دیت، چوش کہ راستءَ روت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "گند"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "كי",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "سرخ بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "בכוס",
+      "gloss": "پیالہءَ تہ"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "چشمی رنگ"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "راستءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:09.349555841Z",
+  "model": "glm-5.3"
+}

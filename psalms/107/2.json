@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "یاہوہءِ رہا کتگینءَ گوَشننت — آیان کہ آ چہ دشمنءِ دستءَ رہا کت.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "گوَشننت"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "رہا کتگین"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آیان کہ"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "آیانءَ رہا کت"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "چہ … دستءَ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:24.865089774Z",
+  "model": "glm-5.3"
+}

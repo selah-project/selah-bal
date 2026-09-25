@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "پاک دلءَ دوست داروکءَ — لبانی چہءَ گوں — شاہ آییءِ یار اِنت.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "دوست داروکءَ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لبانی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "یار"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:46.845578987Z",
+  "model": "glm-5.3"
+}

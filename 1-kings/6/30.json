@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ ⟨את⟩ فرشءِ گadanءَ زرءَ روچین کت، اندر ءُ بیرن۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "فرشءِ گadan"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "فرش"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "روچین کت"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "اندر"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "ءُ بیرن"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:08.955793247Z",
+  "model": "glm-5.3"
+}

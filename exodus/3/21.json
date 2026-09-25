@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ مانءَ ⟨את⟩ پسند اے قومی مِتسرایمانی چشمانءَ دیت، ءُ بیت کہ گوں تہ روتءَ، تہ روتءَ نہ خالی۔",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ءُ مانءَ دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسند"
+    },
+    {
+      "surface": "חן",
+      "gloss": "پسند"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اے قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشمانءَ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمان"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "تہ روتءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "تہ روتءَ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "خالی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:51:06.826870412Z",
+  "model": "glm-5.3"
+}

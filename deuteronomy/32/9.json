@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "چوکات کہ یاہوہءِ بھاگ اِنت آییءِ قوم؛ یعقوب آییءِ میراثءِ ڈور۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چوکات کہ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "بھاگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ قوم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ڈور"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "آییءِ میراثءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:43.098718474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اِشانی شمار اِنت پہ منشہءِ ٹولیءَ: دو ءُ سئی ہزار ءُ دو سد.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اِشانی شمار"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "پہ ٹولیءَ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہءِ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سئی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ءُ دو سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:23.018796514Z",
+  "model": "glm-5.3"
+}

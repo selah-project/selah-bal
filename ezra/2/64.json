@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "پوریں مجلس چوش یکے، چار دہ ہزار دو ہزار سئے سد ءُ شش ڈہ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "مجلس"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "چوش یکے"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "دہ ہزار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ءُ شش ڈہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:07:07.634705144Z",
+  "model": "glm-5.3"
+}

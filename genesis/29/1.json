@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ یعقوبءَ وتی پاں اُٹ گرگت ءُ روتءُ آت چہ زمینءَ روچءِ مردمانی.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ءُ گرگت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءَ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "وتی پاں"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "چہ زمینءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "روچءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:44.371989862Z",
+  "model": "glm-5.3"
+}

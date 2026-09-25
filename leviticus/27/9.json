@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ اگر مالی اِنت کہ چہ آیی قربانی پہ یاہوہءَ پیش کننت، ہر آ کہ چہ آیی پہ یاہوہءَ دیت بیت، مقدس بیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "پیش کننت"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "چہ آیی"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آیی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہءَ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:36.621999446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ شِکِم اے گوں وتی پِت حَمورءَ گوَشت کہ: اے گرت پہ من ⟨את⟩ اے جنک پہ زال۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شِکِم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حَمورءَ"
+    },
+    {
+      "surface": "אביو",
+      "gloss": "وتی پِت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "قח",
+      "gloss": "گرت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جنکءَ"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "پہ زال"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:09.680497299Z",
+  "model": "glm-5.3"
+}

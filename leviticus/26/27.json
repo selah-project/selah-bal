@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ اگر اے ٹولیءَ گوش نہ کنیں منءَ، پرچا کہ گوں من مخالفتءَ روئیت —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "اے ٹولیءَ"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "گوش کنیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "پرچا کہ … روئیت"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گوں من"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "مخالفتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:25:42.738409924Z",
+  "model": "glm-5.3"
+}

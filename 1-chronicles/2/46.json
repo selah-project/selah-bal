@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ عیفہ، کالبءِ کنیز، ⟨את⟩ ہاران ءُ ⟨את⟩ موتسا ءُ ⟨את⟩ گزز زائ؛ ءُ ہاران ⟨את⟩ گزز جنّیت.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "ءُ عیفہ"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "کنیز"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالب"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زائ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہاران"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ہاران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "موتسا"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "موتسا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گزز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گزز"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "ءُ ہاران"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "جنّیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گزز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گزز"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:15.750113186Z",
+  "model": "glm-5.3"
+}

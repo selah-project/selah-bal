@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ ⟨את⟩ عَمالِقءِ رِستگار بوتگانءِ بچاوتگ زنتنت، ءُ اوداں تا اے روچ اَتنت۔",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ءُ زنتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بچاوتگ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "بچاوتگ"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "رِستگار بوتگ"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "عَمالِقءِ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ءُ اَتنت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوداں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے روچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:04.773288303Z",
+  "model": "glm-5.3"
+}

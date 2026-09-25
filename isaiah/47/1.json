@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 47:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "«ڈھگ ءُ ماں گرد ءَ گد، اے پکنژ جنک، اے بابلءِ جنک؛ زمینءَ گد، تخت نیست، اے کسدانی جنک؛ پرچا کہ گیشتر توءَ نہ بانگ کننت نرم ءُ نازنین.»",
+  "tokens": [
+    {
+      "surface": "רדי",
+      "gloss": "ڈھگ"
+    },
+    {
+      "surface": "ושבי",
+      "gloss": "ءُ گد"
+    },
+    {
+      "surface": "על",
+      "gloss": "ماں … ءَ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "گرد"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "پکنژ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "گد"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کسدانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "بانگ کننت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "رכה",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "וענגה",
+      "gloss": "ءُ نازنین"
+    }
+  ],
+  "timestamp": "2026-09-24T21:36:57.387070778Z",
+  "model": "glm-5.3"
+}

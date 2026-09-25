@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ موشہ ⟨את⟩ ءُ گلعاد مکیرءَ، منشہءِ زہگءَ، دات؛ ءُ آ اودا جنیت.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ءُ گلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ءُ گلعاد"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "مکیرءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ءُ جنیت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اودا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:44:07.995839416Z",
+  "model": "glm-5.3"
+}

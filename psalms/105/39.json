@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "او ابرءَ پہ پردہ پش کت ءُ آتشءَ پہ شپءِ روشن گرگ۔",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "پش کت"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "پہ پردہ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ءُ آتش"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "پہ روشن گرگ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:24.150960903Z",
+  "model": "glm-5.3"
+}

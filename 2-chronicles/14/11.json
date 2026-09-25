@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ یاہوہءَ ⟨את⟩ کوشیانی گوں اَسا ءُ گوں یہوداہءِ اگہءَ زد، ءُ کوشیان ڈُٹنت۔",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "ءُ زد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوشیانی"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "کوشیانی گوں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ءِ اگہءَ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "اَسا"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ءُ ءِ اگہءَ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ءُ ڈُٹنت"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "کوشیان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:38:46.438555367Z",
+  "model": "glm-5.3"
+}

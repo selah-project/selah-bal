@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 3:38",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ما دیوارءَ ⟨את⟩ جوڑ کت، ءُ پوریں دیوار آییءِ نیمءِ سرءَ جُڑ بیت، ءُ قومءَ دل کارءِ پشتگ پیت۔",
+  "tokens": [
+    {
+      "surface": "ונבנה",
+      "gloss": "ءُ ما جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیوار"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "ءُ جُڑ بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…ءِ سرءَ"
+    },
+    {
+      "surface": "חציה",
+      "gloss": "آییءِ نیم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "لעשות",
+      "gloss": "پہ کرگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:22.689763877Z",
+  "model": "glm-5.3"
+}

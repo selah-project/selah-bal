@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ تو ⟨את⟩ کپارت آرنءِ سرءَ چہ لوتڑءَ دگیں، ءُ تہ آرنءَ تو ⟨את⟩ گواہی دگیں کہ مان توءَ دیم.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ءُ تو دگیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کپارت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کپارت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ سرءَ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "آرنءِ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "چہ لوتڑءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ تہ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "آرنءَ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تو دگیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواہی"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "مان دیم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "توءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:23.568056790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ مِکال داودءَ ⟨את⟩ چہ کھڑکیءَ زیر دیت، ءُ آ روت ءُ گریز کت ءُ نجات پت۔",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "ءُ زیر دیت"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "مِکال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داودءَ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "کھڑکیءَ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ءُ گریز کت"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ءُ نجات پت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:34:52.742832669Z",
+  "model": "glm-5.3"
+}

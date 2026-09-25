@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ هک دگہ چاہ کَنتنت، ءُ آییءِ سرا هَم نزاع کتنت؛ ءُ آییءِ نام ءَ شتنہ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "ءُ کَنتنت"
+    },
+    {
+      "surface": "באר",
+      "gloss": "چاہ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "ءُ نزاع کتنت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هَم"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آییءِ سرا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آییءِ نام ءَ"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "شتنہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:03.898032501Z",
+  "model": "glm-5.3"
+}

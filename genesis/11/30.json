@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ سارای بانڈاہ بوت، آییءَ ہچ زہگ نیست.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سارای"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "بانڈاہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ہچ… نیست"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "زہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:28:50.744598718Z",
+  "model": "glm-5.3"
+}

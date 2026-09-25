@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 88,
+  "translation": "چرا یاہوہءَ مءِ جانءَ دور کنیں، تُہءِ رُپءَ چہ من پوشیں؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "دور کنیں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "مءِ جانءَ"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "پوشیں"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تُہءِ رُپءَ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ من"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:44.213219782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ آیءَ ساخت ⟨את⟩ مِشکانءِ تختان چہ اکاسیا دار، اِشتنوک۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ آیءَ ساخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تختان"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تختان"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مِشکانءِ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چہ اکاسیا دار"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "اکاسیا"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "اِشتنوک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:04.465909970Z",
+  "model": "glm-5.3"
+}

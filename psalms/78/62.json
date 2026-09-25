@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ وتی قوم تیغءِ دَستءَ دَت، ءُ وتی ورثتءَ تہ زار بوت.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "ءُ دَت"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "تیغءِ دَستءَ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "وتی قوم"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "ءُ وتی ورثتءَ تہ"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "زار بوت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:55.080718646Z",
+  "model": "glm-5.3"
+}

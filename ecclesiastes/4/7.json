@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ من پدا روت، من، ءُ ہبلءَ گندم چہ روچءِ تلءَ۔",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ءُ پدا روت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ءُ گندم"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "چہ…تلءَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:35.353423635Z",
+  "model": "glm-5.3"
+}

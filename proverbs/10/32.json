@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "راستکارءِ لباں پسندءَ زانت، ءُ بدکارانی منہ گھڑنڈ اِنت۔",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "لباں"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستکارءِ"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "پسندءَ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ءُ منہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "گھڑنڈ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:47.998182963Z",
+  "model": "glm-5.3"
+}

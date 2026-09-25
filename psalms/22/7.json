@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ من یک کرم ءُ نہ یک مردَم اِنت؛ مردمانی رسیائی ءُ قومءِ پیشکوئیں۔",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "یک کرم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مردَم"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "رسیائی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ءُ پیشکوئیں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:58.681206597Z",
+  "model": "glm-5.3"
+}

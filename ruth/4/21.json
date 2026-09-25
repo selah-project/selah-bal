@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ سلمون بوعزءَ پیدا کت، ءُ بوعز عوبیدءَ پیدا کت۔",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "ءُ سلمون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوعزءَ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعز"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "ءُ بوعز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوبیدءَ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوبید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:55.791640389Z",
+  "model": "glm-5.3"
+}

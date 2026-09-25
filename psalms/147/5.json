@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 147,
+  "translation": "گشان ادونائیں ماں ءُ گیش زور، آییءِ تیوسمیءَ ⟨اِنت⟩ شمار نیست۔",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "گشان"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "ادونائیں ماں"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "آییءِ تیوسمیءَ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیشت"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:17.203007983Z",
+  "model": "glm-5.3"
+}

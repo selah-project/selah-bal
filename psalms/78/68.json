@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "بلکہ یہوداہءِ ٹولیءَ چُنشت، ⟨את⟩ صییونءِ کوهءَ کہ آییءَ پرچاشت۔",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "بلکہ چُنشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٹولیءَ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ٹولیءَ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوهءَ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوهءَ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صییونءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پرچاشت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:35.995591077Z",
+  "model": "glm-5.3"
+}

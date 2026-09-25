@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "من یاہوہءِ فرمانءَ بیان کنم‌اں: یاہوہءَ مءَ گوَشت: «تو منءِ زہگ ⟨ئے⟩؛ من اے روچ توءَ زائتم.»",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "بیان کنم‌اں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "منءِ زہگ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے روچ"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "توءَ زائتم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:15.447246057Z",
+  "model": "glm-5.3"
+}

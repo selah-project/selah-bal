@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ ⟨את⟩ گڈیءَ آییءِ ٹوٹاںءَ ٹوٹ کت؛ ءُ موشہءَ ⟨את⟩ سر ءُ ⟨את⟩ ٹوٹان ءُ ⟨את⟩ چربی گوں سوزانیت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گڈیءَ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "گڈیءَ"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ٹوٹ کت"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "آییءِ ٹوٹاںءَ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ءُ گوں سوزانیت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ٹوٹان"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ٹوٹان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "چربی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:03.910657955Z",
+  "model": "glm-5.3"
+}

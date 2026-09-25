@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "اے کنیں: تانءَ ماچھہیان گیریں، قورہ ءُ وتی تمام جمعیت.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "گیریں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تانءَ"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "ماچھہیان"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ تمام"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "وتی جمعیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:36:01.892976210Z",
+  "model": "glm-5.3"
+}

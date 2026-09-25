@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "بہتر اِنت پاداشت کہ آشکار بیت، چہ محبت کہ پنہان بیت۔",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "پاداشت"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "آشکار"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "چہ محبت"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "پنہان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:25.943545193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ کنعانءَ ⟨את⟩ سیدون، آییءِ اولیں زہگ، ءُ ⟨את⟩ حِت پیغ دیت.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ءُ کنعانءَ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پیغ دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سیدون"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "سیدون"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "آییءِ اولیں زہگ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حِت"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:34.328837915Z",
+  "model": "glm-5.3"
+}

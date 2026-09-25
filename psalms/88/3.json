@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 88,
+  "translation": "منی دعا تُہءِ پیشءَ آئیت؛ تُہءِ گوشءَ منی چیخیءِ پہ لٹ کت۔",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "آئیت"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تُہءِ پیشءَ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "منی دعا"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "لٹ کت"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "تُہءِ گوشءَ"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "منی چیخیءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:07.112940022Z",
+  "model": "glm-5.3"
+}

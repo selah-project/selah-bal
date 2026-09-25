@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "آییءِ پتانءِ گناه یاہوہءَ پیش یاد بیت، ءُ آییءِ ماںءِ گناه مچ نہ بیت.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "یاد بیت"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آییءِ پتانءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پیش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ءُ گناه"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "آییءِ ماںءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "مچ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:23.866236655Z",
+  "model": "glm-5.3"
+}

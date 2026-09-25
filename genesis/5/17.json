@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ مہاللایلءِ پوریں روچان پنچ ءُ نہ سال ءُ ہشت سد سال بیت، ءُ آ مرتگ بوت۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مہاللایلءِ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ءُ ہشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرتگ بوت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:52.074636311Z",
+  "model": "glm-5.3"
+}

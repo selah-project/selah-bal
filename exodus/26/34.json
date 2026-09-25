@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ تو ⟨את⟩ کفورتءَ گواہیءِ صندوقءِ سرءَ دیت، مقدسانءِ مقدسءَ تہ.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ءُ تو دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کفورت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کفورتءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "گواہیءِ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "تہ مقدسءِ"
+    },
+    {
+      "surface": "הקדששים",
+      "gloss": "مقدسانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:00.507598606Z",
+  "model": "glm-5.3"
+}

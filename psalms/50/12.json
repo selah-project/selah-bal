@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "اگر من لال بیت، نہ تئے ءَ گوَشمت، چوش کہ منی اِنت زمین ءُ آییءِ پُرائی.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "لال بیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشمت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی اِنت"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ءُ آییءِ پُرائی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:30.295786605Z",
+  "model": "glm-5.3"
+}

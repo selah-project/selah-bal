@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "ءُ آ گِندیت گدانءِ دیوار شش ہتھ، ءُ کمرہءِ چوڑائی چار ہتھ، چوں چوں گدانءِ چوں چوں۔",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ءُ آ گِندیت"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ءُ چوڑائی"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "کمرہءِ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:26:10.501379487Z",
+  "model": "glm-5.3"
+}

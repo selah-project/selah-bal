@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "اسرائیلی زہگاںءَ گوَش کہ آ کہ یک جانور چہ یاہوہءِ حکماں چہ بے قصدی گنہ کنت — چیزاں کہ نہ کنگ بنت — ءُ ایشاناں چہ یکے کنت،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "گوَش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگاںءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "כי",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "گنہ کنت"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "چہ بے قصدی"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہمگ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "کنگ بنت"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ کنت"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "چہ یکے"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ایشاناں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:11:44.141987393Z",
+  "model": "glm-5.3"
+}

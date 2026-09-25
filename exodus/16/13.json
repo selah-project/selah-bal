@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ بوت شامءَ، ءُ بٹیر چڑھت ءُ ⟨את⟩ مچءَ ڈپت؛ ءُ صوبءَ شبنمءِ تہاری مچءِ چوگرد اَت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شامءَ"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ءُ چڑھت"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "بٹیر"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ءُ ڈپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مچءَ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "مچءَ"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ءُ صوبءَ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "تہاری"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "شبنمءِ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوگرد"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "مچءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:59:27.315197725Z",
+  "model": "glm-5.3"
+}

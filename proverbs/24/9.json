@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "گوڑیءِ نقشہ گناہ اِنت، ءُ مذاقگر مردمءِ نزاوت اِنت.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "نقشہ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "گوڑیءِ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ءُ نزاوت"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "مذاقگر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:18.472449520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ یوآبءَ فرستت کت ءُ پہ داودءَ ⟨את⟩ جنگءِ ہمگ گالان گوَشت.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فرستت کت"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داودءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:45:33.517185594Z",
+  "model": "glm-5.3"
+}

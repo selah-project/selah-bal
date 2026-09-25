@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 5:6",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "بیرہ آییءِ زہگ، آ کہ تِلگت پِلناسر، آشورءِ شاہ، آییءَ جلا وطن کت؛ آ رئوبینی ءُ چوک اِنت۔",
+  "tokens": [
+    {
+      "surface": "בארה",
+      "gloss": "بیرہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "جلا وطن کت"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "تِلگت"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "پِلناسر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "رئوبینی ءُ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:17.990363216Z",
+  "model": "glm-5.3"
+}

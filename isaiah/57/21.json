@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 57,
+  "translation": "شالوم نیست، ماءِ ایلوہیم گوَشت، پہ رستگاناں۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ماءِ ایلوہیم"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "پہ رستگاناں"
+    }
+  ],
+  "timestamp": "2026-09-24T21:39:47.528256181Z",
+  "model": "glm-5.3"
+}

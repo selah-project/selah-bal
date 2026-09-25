@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "شکست تہ شکست، چم تہ چم، دند تہ دند؛ چوش کہ کسءَ عیب دیت، ہمے گوں آیءَ دیت بیت۔",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "شکست"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکست"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چم"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دند"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دند"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عیب"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "کسءَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "دیت بیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "گوں آیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:31.786804384Z",
+  "model": "glm-5.3"
+}

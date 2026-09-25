@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ شمءَ پدا گتانت ءُ یاہوہءِ پیشءَ شیون کنتانت، بلے یاہوہ شمءِ آوازءَ نہ گوَشت ءُ شمءَ گوش نہ کت۔",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "ءُ پدا گتانت"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "ءُ شیون کنتانت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "بلے نہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "شمءِ آوازءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "گوش کت"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "شمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:24.588720366Z",
+  "model": "glm-5.3"
+}

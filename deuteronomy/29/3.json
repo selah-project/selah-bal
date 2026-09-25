@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ یاہوہءَ اِشمانءَ آ اِجے روچءَ یک دل پہ زانگ ءُ چشمانی پہ گندگ ءُ گوشانی پہ شنگ نہ داتگ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اِشمانءَ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "یک دل"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "پہ زانگ"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ءُ چشمانی"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "پہ گندگ"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ءُ گوشانی"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "پہ شنگ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "آ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِجے روچءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِجے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:57.160794752Z",
+  "model": "glm-5.3"
+}

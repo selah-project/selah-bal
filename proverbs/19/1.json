@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "چمتر اِنت کمبختءِ کہ تہاریءَ روت، چہ اُنکہ آ کہ آییءِ لبان کج اَنت ءُ آ کم‌عقل اِنت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چمتر"
+    },
+    {
+      "surface": "רש",
+      "gloss": "کمبختءِ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "تہاریءَ"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "کج"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "آییءِ لبان"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کم‌عقل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:29.660520687Z",
+  "model": "glm-5.3"
+}

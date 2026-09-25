@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "دانیں جنک وتی گدان جوڑ کت، ءُ نادانی وتی دستانءَ آییءَ ڈہایت کنت.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "دانیں"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "وتی گدان"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "ءُ نادانی"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "وتی دستانءَ"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "آییءَ ڈہایت کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:50.465473814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ ⟨את⟩ آییءِ رخ ایشتات ءُ دیت تہ شرمءَ، ءُ مردِ ایلوہیمءَ روئت.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ءُ ایشتات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ رخ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "آییءِ رخ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ءُ دیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "בש",
+      "gloss": "شرمءَ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ءُ روئت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:11:52.877070858Z",
+  "model": "glm-5.3"
+}

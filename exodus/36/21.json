@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "دہ اَمّہ تختہءِ دراز، ءُ یک اَمّہ ءُ نیم اَمّہ یک تختہءِ پان۔",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "اَمّہ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "دراز"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختہءِ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ءُ یک اَمّہ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ءُ نیم"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "اَمّہ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پان"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختہءِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:36.902790658Z",
+  "model": "glm-5.3"
+}

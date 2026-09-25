@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "تُئے پہ دگہ ہدایان منءِ پیشءَ نہ بنت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُئے پہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ…ءَ"
+    },
+    {
+      "surface": "پני",
+      "gloss": "منءِ پیش"
+    }
+  ],
+  "timestamp": "2026-09-24T18:59:02.392299870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 11:15",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "چون آ وہد تُ رُخ چہ داغ اُٹں کنی، ءُ تو پکا بیت ءُ نہ ڈریں،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אז",
+      "gloss": "آ وہد"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "اُٹں کنی"
+    },
+    {
+      "surface": "پניך",
+      "gloss": "تُ رُخ"
+    },
+    {
+      "surface": "ממום",
+      "gloss": "چہ داغ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ءُ تو بیت"
+    },
+    {
+      "surface": "מצק",
+      "gloss": "پکا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈریں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:19.716739475Z",
+  "model": "glm-5.3"
+}

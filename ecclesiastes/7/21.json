@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ھم پہ گیشتر گپان کہ اِشاں گوَشنت، توءِ دل مہ دِنت، تا نہ گوشیت ⟨את⟩ توءِ غلامءَ کہ آ توءَ لعنت کنت۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ھم"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ گیشتر"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گپان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "گوَشنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دِنت"
+    },
+    {
+      "surface": "لבך",
+      "gloss": "توءِ دل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "تا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توءِ غلام"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "توءِ غلام"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "توءَ لعنت کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:15.111362097Z",
+  "model": "glm-5.3"
+}

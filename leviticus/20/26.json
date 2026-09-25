@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ شما پہ من پاک بیت، پرچا کہ من، یاہوہ، پاک اِنت؛ ءُ من ⟨את⟩ شما چہ قومانی جتا کت پہ آیی کہ پہ من بیت.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "ءُ شما بیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ من"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "ءُ من جتا کت"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شما"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "پہ بیتگ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ من"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:26.793594167Z",
+  "model": "glm-5.3"
+}

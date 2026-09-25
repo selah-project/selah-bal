@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ تیریں مالءَ، ءُ جانورءَ کہ تیریں زمینءَ ⟨اِنت⟩ — آییءِ گیش رزق پہ خوارگ بیت۔",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "ءُ تیریں مالءَ"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "ءُ جانورءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "تیریں زمینءَ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "آییءِ رزق"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "پہ خوارگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:44.659164411Z",
+  "model": "glm-5.3"
+}

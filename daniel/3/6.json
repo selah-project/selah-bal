@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 3:6",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ هر کس کہ ڈیر نہ بیت ءُ پرستش نہ کنت، آ وہدءَ ساعتءَ پہ تہ سوژنگ آتشءِ تنور پرتیت بیت.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ءُ هر کس"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈیر بیت"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "ءُ پرستش کنت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آ وہدءَ"
+    },
+    {
+      "surface": "שעתא",
+      "gloss": "ساعتءَ"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "پرتیت"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "پہ تہ"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "تنور"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "آتشءِ"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "سوژنگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:00:30.476150642Z",
+  "model": "glm-5.3"
+}

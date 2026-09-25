@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "اے شیمءِ نسلاں اَنت: شیم سد سالءِ زہگ اَت ءُ مہابوڑءِ دو سالءِ پدا اَرفَکشَدءَ ⟨את⟩ پیدا کت.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسلاں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیمءِ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالءِ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ … پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَرفَکشَدءَ"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "اَرفَکشَد"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دو سالءِ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "مہابوڑءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:20.259162033Z",
+  "model": "glm-5.3"
+}

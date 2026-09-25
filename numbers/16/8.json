@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ موشہءَ چہ قورہءَ گوَشت: گوشیں اے نا، لیویءِ زہگان!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورہءَ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوشیں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے نا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لیویءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:36:01.893250010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "ءُ آیانءَ رسیت ءُ اِشاںءَ اے گالان ⟨את⟩ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "ءُ آیانءَ رسیت"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گالان"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "اے گالان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T18:46:21.402373664Z",
+  "model": "glm-5.3"
+}

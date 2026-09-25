@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 93,
+  "translation": "تءِ تخت چہ اڈے ٹھاہ اِنت؛ چہ ہمے اولہ زمانگءَ تو ہستی۔",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ٹھاہ اِنت"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تءِ تخت"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "چہ اڈے"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "چہ ہمے اولہ زمانگءَ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو ہستی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:34.665449531Z",
+  "model": "glm-5.3"
+}

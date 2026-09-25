@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ داؤد دژءَ مانت؛ اے پہ آییءَ داؤدءِ شہر بانگ کت۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "مانت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "دژءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے پہ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "بانگ کت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داؤد"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:42.918304793Z",
+  "model": "glm-5.3"
+}

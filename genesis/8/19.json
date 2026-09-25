@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 8:19",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ہر جانور، هر کشوک، ءُ هر مرگ، ہر کہ زمینءِ سر کشیت، وتی خیلانی وانگ چہ کشتیءَ در اتنت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "کشوک"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ هر"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "کہ کشیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "למשפחתיהם",
+      "gloss": "وتی خیلانی وانگ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "در اتنت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:32.649982649Z",
+  "model": "glm-5.3"
+}

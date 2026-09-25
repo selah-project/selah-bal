@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ مِتسرایمءَ ⟨את⟩ لودیان ءُ ⟨את⟩ عنامیم ءُ ⟨את⟩ لہابیم ءُ ⟨את⟩ نفتوحیم جنیت.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "ءُ مِتسرایمءَ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لودیان"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "لودیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "عنامیم"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "عنامیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "لہابیم"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "لہابیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "نفتوحیم"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "نفتوحیم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:12.507646012Z",
+  "model": "glm-5.3"
+}

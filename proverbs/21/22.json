@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "یک دانا شہرِ پہلوانانءَ چڑھیت ءُ آییءِ بھروسہءِ زور در کت.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شہرِ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "پہلوانان"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھیت"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "یک دانا"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ءُ در کت"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "بھروسہ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:19.274633020Z",
+  "model": "glm-5.3"
+}

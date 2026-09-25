@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "ہنن، اے رِشایت ہستنت ءُ ہمیشہ ماں آرامی، اِشاں ⟨پہ اِشاں⟩ دولت گیش کتگ۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ہنن"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رِشایت"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ءُ آرامیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "گیش کتگ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دولت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:12.729275394Z",
+  "model": "glm-5.3"
+}

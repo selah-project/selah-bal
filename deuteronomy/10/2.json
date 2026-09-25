@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ من لُوہانءَ سرءَ ⟨את⟩ گالان نبیسم کہ اولینی لُوہانءَ سرءَ اَتنت، کہ تو اِشاںءَ شکست، ءُ اِشاں صندوقءَ تہ بشکن۔",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "ءُ نبیسم"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لُوہان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گالان"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اَتنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لُوہان"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "اولینی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "شکست"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ءُ بشکن"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "صندوقءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:04.143916140Z",
+  "model": "glm-5.3"
+}

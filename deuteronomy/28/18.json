@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "لعنت اِنت توتے پیٹءِ پھل ءُ توتے زمینءِ پھل، توتے گاوانی زہگ ءُ توتے مہگانی زہگ۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "توتے پیٹ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ءُ پھل"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "توتے زمین"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "توتے گاوان"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "توتے مہگان"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:31.061726364Z",
+  "model": "glm-5.3"
+}

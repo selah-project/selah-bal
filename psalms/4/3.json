@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "مردمانی زہگان، تا کدہ منی شان ⟨پہ⟩ بے آبروءَ؟ خالی چیزءَ پیار کنیت ءُ دروغءَ لبزیت۔ سلاہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کدہ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "منی شان"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "بے آبروءَ پہ"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "پیار کنیت"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "خالی چیز"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "لبزیت"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:13.530312916Z",
+  "model": "glm-5.3"
+}

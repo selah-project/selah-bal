@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "سچءِ لَب پہ ہمیشہ مستحکم بیت، ءُ تا ⟨یک⟩ لحظہ ⟨اِنت⟩ دروگءِ زبان.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "لَب"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "مستحکم بیت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "لحظہ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبانءِ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:27.468783549Z",
+  "model": "glm-5.3"
+}

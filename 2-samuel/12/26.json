@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ یوآب عمونءِ زہگانیءِ ربتءَ شل کت ءُ ⟨את⟩ شاہی شہر کپت.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "ءُ شل کت"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "تہ ربتءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانیءِ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ءُ کپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاہی شہر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "شاہی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:45:21.918706066Z",
+  "model": "glm-5.3"
+}

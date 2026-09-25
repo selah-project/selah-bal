@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ آساءَ چہ وتی ایلوہیم یاہوہءِ دیواناں چاک ءُ راست ⟨کار⟩ کت.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آساءَ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "ءُ راست"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چہ دیواناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "وتی ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:38:42.595474097Z",
+  "model": "glm-5.3"
+}

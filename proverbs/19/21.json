@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "گیشتر چوشتاں تہ مردمءِ دلءَ اَنت، بلے یاہوہءِ صلا ہمے اِنت کہ پجا بیت.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "چوشتاں"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "تہ دلءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "بلے صلا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "پجا بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:50.738640837Z",
+  "model": "glm-5.3"
+}

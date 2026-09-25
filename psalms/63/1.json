@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 63,
+  "translation": "داؤدءِ سرود، آییءِ یہوداہءِ بیابانءَ ہوتگئین وختا.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داؤدءِ"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "آییءِ ہوتگئین وختا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابانءَ تہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:04.852589150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ داود ⟨את⟩ صندوقءَ وتی نہ پھیرائت — داودءِ شارءَ — بلکہ آییءَ پہ عوبید-ادوم گتّیءِ گدانءَ پھیرائت۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "نہ پھیرائت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوقءَ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوقءَ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شارءَ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داودءِ"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "آییءَ پھیرائت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عوبید"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "گتّی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:27.438079050Z",
+  "model": "glm-5.3"
+}

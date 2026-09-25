@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "پہ پیشواءَ، گتیتءِ سرءَ — داودءِ مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشواءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گتیت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:50.992243275Z",
+  "model": "glm-5.3"
+}

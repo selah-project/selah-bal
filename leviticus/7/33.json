@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "چہ اَہارونءِ زہگانانءَ آ کہ ⟨את⟩ سلامتیانی ءُ ⟨את⟩ چربی پیش کنت، آییءَ پہ رستا ران یک حصہ بیت۔",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "پیش کنتگے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "سلامتیانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "مבני",
+      "gloss": "چہ زہگانانءَ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَہارون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ران"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "رست"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "پہ حصہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:37.830953673Z",
+  "model": "glm-5.3"
+}

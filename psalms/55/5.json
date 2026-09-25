@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 55,
+  "translation": "مءِ دل منءِ تہءَ چمڑیت، ءُ مرگءِ ڈر منءَ سرءَ کپتنت۔",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "مءِ دل"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "چمڑیت"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "منءِ تہءَ"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "ءُ ڈر"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگءِ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "کپتنت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءَ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:39.316845562Z",
+  "model": "glm-5.3"
+}

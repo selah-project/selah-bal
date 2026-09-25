@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 27:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "پگار پہ چاندار ءُ کور پہ زر، ءُ مردے پہ آییءِ تعریفءِ ردا۔",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "پگار"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "پہ چاندار"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "ءُ کور"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "پہ زر"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ مردے"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "پہ ردا"
+    },
+    {
+      "surface": "מהללו",
+      "gloss": "آییءِ تعریف"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:01.052839873Z",
+  "model": "glm-5.3"
+}

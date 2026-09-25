@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کیچہ اگرچہ آییءَ غم دیت، پر آییءَ وتیءِ ہیسیدءِ فراوانیءَ پشتءَ رحم کیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگرچہ"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "غم دیت"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ءُ رحم کیت"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "گوں فراوانی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "وتیءِ ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:51.586416520Z",
+  "model": "glm-5.3"
+}

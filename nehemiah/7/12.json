@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ایلَمءِ زہگان، ہزار دو سد پنجاه ءُ چار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ایلَمءِ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سد"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ءُ چار"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:13.721782728Z",
+  "model": "glm-5.3"
+}

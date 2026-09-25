@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ آ بوت چہ ہپت روچانی پُچءَ، ءُ بوت کہ یاہوہءِ گال منی ءَ آت گوَشتءَ۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ آ بوت"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "چہ پُچءَ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچانی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منی ءَ آت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:09:45.977052980Z",
+  "model": "glm-5.3"
+}

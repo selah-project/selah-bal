@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "زمینءِ شاہان ءُ گچ گردءِ رہۏک ایمان نہ کت کہ دشمن ءُ یاغی یروشلمءِ دروازگانی تہ آییت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ایمان نہ کت"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "شاہان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ گچ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "رہۏک"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "گردءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آییت"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ءُ یاغی"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "دروازگانی تہ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:50:13.651575711Z",
+  "model": "glm-5.3"
+}

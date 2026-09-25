@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ ⟨את⟩ ما آ در کت، پہ آے کہ ⟨את⟩ ما آربیت، پہ آے کہ ماءَ ⟨את⟩ زمین دئنگ کت کہ آیءَ پہ ماںی پدشانءَ سوگند گشت۔",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "ءُ ⟨את⟩ ما",
+      "marks": "ما"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "در کت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "چہ اوتھءَ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ آے کہ"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "آربیت"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ما",
+      "marks": "ما"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "پہ دئنگئے کہ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "سوگند گشت"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "پہ ماںی پدشانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:49:04.148750877Z",
+  "model": "glm-5.3"
+}

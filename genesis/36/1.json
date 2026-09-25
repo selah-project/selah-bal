@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ اے عیساوءِ نسلانی پیڑ اَنت — آ ئے ئے اِنت، آ اِنت ادوم.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "نسلانی پیڑ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساوءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ ئے ئے اِنت"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:46.852690134Z",
+  "model": "glm-5.3"
+}

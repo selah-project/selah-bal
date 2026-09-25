@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 121,
+  "translation": "یاہوہ تئے روتگءَ ءُ تئے آیگءَ نگہ بیت، چہ اے وھد ءُ تا ہمیشہ۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "نگہ بیت"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "تئے روتگءَ"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ءُ تئے آیگءَ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "چہ اے وھد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:35.181874204Z",
+  "model": "glm-5.3"
+}

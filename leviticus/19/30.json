@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "⟨את⟩ منئِ شباتان داریں ءُ منئِ مقدس جاہءَ چہ درس تُرسیں؛ من یاہوہ اَم۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منئِ شباتان"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "منئِ شباتان"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "داریں"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ءُ منئِ مقدس جاہءَ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "تُرسیں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:22.021016684Z",
+  "model": "glm-5.3"
+}

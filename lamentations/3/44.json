@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "تُہ وتءِ سر بادلءَ چیر کتای، پرچا کہ دعا چہ آ گوزیت نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "چیر کتای"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "بادلءَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وتءِ سر"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "چہ گوزیک"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:09.481935269Z",
+  "model": "glm-5.3"
+}

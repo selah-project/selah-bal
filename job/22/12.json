@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 22:12",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "مگن نہ ایلوہ آسمانانءَ بلند نیست؟ ءُ ستارگانی سر گند کہ آ بلند اَنت۔",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "مگن نہ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ءُ گند"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "ستارگانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "بلند اَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:37:42.670344431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 7:17",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "انسان چہ اِنت کہ تو آییءَ بزرگ کنی ءُ کہ آییءِ سرءَ وتءِ دل گِنّی؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תגדלנו",
+      "gloss": "آییءَ بزرگ کنی"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ءُ کہ"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "گِنّی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "وتءِ دل"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:31.009770006Z",
+  "model": "glm-5.3"
+}

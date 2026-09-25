@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 80,
+  "translation": "ءُ اے تاک کہ تئیں راست دستءَ کاشت کتگ، ءُ اے زہگ کہ پہ وتءَ پُرزور کتگئے.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "ءُ اے تاک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "کاشت کتگ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تئیں راست دستءَ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگءِ"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "پُرزور کتگئے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ وتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:12.066654415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "ءُ یسرائیل یوسفءِ زہگانءَ ⟨את⟩ گندیت ءُ گوَشت: اِشاں کَنت؟",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زہگان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسفءِ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کَنت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِشاں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:49:20.151255626Z",
+  "model": "glm-5.3"
+}

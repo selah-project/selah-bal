@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ یاہوہءَ موشہءَ گوَشت کہ گوَشتءَ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چہ\/پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:20:00.290058855Z",
+  "model": "glm-5.3"
+}

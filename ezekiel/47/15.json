@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "ءُ اے ⟨اِنت⟩ زمینءِ سرحد: شمالیں رخءَ چہ گیشترین دریا، ہتلونءِ راہءَ، تسدءَ لبہ رسیتءَ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پہ رخءَ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "شمالیں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "گیشترین"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "ہتلون"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "لبہ رسیتءَ"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "تسد"
+    }
+  ],
+  "timestamp": "2026-09-24T22:28:08.498437871Z",
+  "model": "glm-5.3"
+}

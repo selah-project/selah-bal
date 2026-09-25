@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اگر یک مرد یک زن ⟨את⟩ گنت ءُ آییءَ لڑت ءُ آییءَ بچڑیت،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ءُ لڑت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آییءَ لڑ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ءُ آییءَ بچڑیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:15.519659955Z",
+  "model": "glm-5.3"
+}

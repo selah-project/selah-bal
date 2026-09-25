@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ موشہ یاہوہءَ بانگ کت ءُ گوَشت: اے ایل، کار کن، آییءَ شفا دِئ، کار کن۔",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "بانگ کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے ایل"
+    },
+    {
+      "surface": "נא",
+      "gloss": "کار کن"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "شفا دِئ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "کار کن"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:33:41.475903347Z",
+  "model": "glm-5.3"
+}

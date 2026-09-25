@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 27:12",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "آں! تما ہمگ گندیتگ، ءُ چرا اے اِنت کہ تما ہبل بنت؟",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "آں!"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تما"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "گندیتگ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ءُ چرا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "ہبل بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:39:14.507498513Z",
+  "model": "glm-5.3"
+}

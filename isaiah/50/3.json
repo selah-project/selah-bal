@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "پوشانگم آسمانان تاریکی ءُ گونی کنگم آیانی پوشاک۔",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "پوشانگم"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "تاریکی"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ءُ گونی"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "کنگم"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "آیانی پوشاک"
+    }
+  ],
+  "timestamp": "2026-09-24T21:39:20.549897622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 11:15",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ سئے چہ سیّماںءِ سرداراں گوڑءَ لنگیت اِشاں داودءَ اِنت، عدلامءِ غارءَ، ءُ فلستیاںئی مُچ عمقءِ رفائیمءَ مست بیت۔",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ءُ لنگیت"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "سیّماں"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "گوڑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "غارءِ"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عدلام"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "ءُ مُچ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستیاںئی"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "مست بیت"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "عمقءَ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائیم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:25:00.664887649Z",
+  "model": "glm-5.3"
+}

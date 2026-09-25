@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ بوعزءَ روت ⟨את⟩ گرت، ءُ آ پہ آییءِ زانگ بوت؛ ءُ آ آییءِ سرءَ آوت، ءُ یاہوہ آییءَ جنین دیت، ءُ آ یک زہگ زائیت.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "گرت"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روت"
+    },
+    {
+      "surface": "רות",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "پہ زانگ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "آوت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "جنین"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:51.126254999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ یاہوہءَ گوَشت: آیا من اَوراہامءَ چہ پُشتءَ کم کناں اے چیز کہ من کنٹ؟",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہءَ گوَشت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "آیا کم کناں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "چہ اَوراہامءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اے چیز کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنٹ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:30:04.012049725Z",
+  "model": "glm-5.3"
+}

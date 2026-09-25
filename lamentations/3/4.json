@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "منءِ گوشت ءُ منءِ پوستءَ فرسود کت، منءِ ہڈیانءَ توڑ کت.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "فرسود کت"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "منءِ گوشت"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ءُ منءِ پوستءَ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "توڑ کت"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "منءِ ہڈیانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:26.014339961Z",
+  "model": "glm-5.3"
+}

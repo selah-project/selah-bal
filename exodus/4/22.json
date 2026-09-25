@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ تو پارعہءَ گوَشیں: اے شئے گوَشت یاہوہ: اسرائیل منی زہگ اِنت، منی اولزاد۔",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ءُ تو گوَشیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارعہ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اے شئے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "منی زہگ"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "منی اولزاد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-25T00:50:51.273840157Z",
+  "model": "glm-5.3"
+}

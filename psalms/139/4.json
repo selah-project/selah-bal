@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 139,
+  "translation": "کیچہ کہ منی زبانءَ یکے لبز نیست، آں دیم اے یاہوہ، آءَ تو پوریں زانی‌تگ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "یکے لبز"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "منی زبانءَ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "آں دیم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "زانی‌تگ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "آءَ پوریں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:51.101980003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ مردمان کہ نہ مردنت، عافلیم ءَ زنت انت، ءُ شارءِ بانگ آسمانءَ پدا کت۔",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "ءُ مردمان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مردنت"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "زنت انت"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "عافلیم ءَ"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ءُ پدا کت"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "بانگ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارءِ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:28:01.209620217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ موشہءَ یک قربانگاہ جوڑ کت ءُ آییءِ نامءَ رائے یاہوہ نسی.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانگاہ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ رائے"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نامءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "نسی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:57:39.781229278Z",
+  "model": "glm-5.3"
+}

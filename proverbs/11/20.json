@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "کوڑدل یاہوہءَ گندگ اِنت، ءُ راہءِ پاک لوگ آییءِ پسند اِنت۔",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "گندگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "کوڑ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "ءُ آییءِ پسند"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:19.222335314Z",
+  "model": "glm-5.3"
+}

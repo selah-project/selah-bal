@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "زہگءَ وتی راہءِ منہءِ سرئے رواج دے؛ ہم کہ بوڑا بیت، چہ آ نہ پھرِت۔",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "رواج دے"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "زہگءَ پہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرئے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہءِ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "وتی راہءِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "یזקין",
+      "gloss": "بوڑا بیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "پھرِت"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "چہ آ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:51.225266802Z",
+  "model": "glm-5.3"
+}

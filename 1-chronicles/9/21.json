@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "زکریاہ، مشلمیہءِ زہگ، ⟨اِنت⟩ ملاقاتءِ گدانءِ پتاہءِ دروازگ۔",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "زکریاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "مشلمیہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازگ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "پتاہ"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "پہ گدان"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:33.598432516Z",
+  "model": "glm-5.3"
+}

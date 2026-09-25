@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "مسکین چہ وتی ہمسایہ ہم چگی بیت، ءُ مالدارءِ دوست گیش اَنت۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "وتی ہمسایہ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "چگی بیت"
+    },
+    {
+      "surface": "רש",
+      "gloss": "مسکین"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ءُ دوست"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "مالدارءِ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:55.499908650Z",
+  "model": "glm-5.3"
+}

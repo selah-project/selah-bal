@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 3:13",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کی ہنوں شپتگ ءُ چُپ اَتم، مہموتم، اودا منگ آرام بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہنوں"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "شپتگُم"
+    },
+    {
+      "surface": "ואשקוט",
+      "gloss": "ءُ چُپ اَتم"
+    },
+    {
+      "surface": "ישנתי",
+      "gloss": "مہموتُم"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرام بیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:31.321361857Z",
+  "model": "glm-5.3"
+}

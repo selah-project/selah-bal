@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ہم تہ کھندارءَ دلءَ درد اِنت، ءُ شادیءِ پجا غم اِنت۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "تہ کھندارءَ"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "درد کنت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ءُ آییءِ پجا"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "غم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:49.853235103Z",
+  "model": "glm-5.3"
+}

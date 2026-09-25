@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "موشہءَ ⟨את⟩ لویانءَ — اَرُنِ عہدِ یاہوہءِ برندگ — فرمان دت، گوءِ آ گوَشت:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "فرمان دت"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لویانءَ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویان"
+    },
+    {
+      "surface": "نשאי",
+      "gloss": "برندگ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "اَرُنِ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہدِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوءِ آ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:03:06.991901793Z",
+  "model": "glm-5.3"
+}

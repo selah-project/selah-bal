@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "نادان وتی دستانءَ چمبیت ءُ ⟨את⟩ وتی گوشت کھانت۔",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "چمبیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی دستان"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "وتی دستان"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ءُ کھانت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی گوشت"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "وتی گوشت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:35.350338421Z",
+  "model": "glm-5.3"
+}

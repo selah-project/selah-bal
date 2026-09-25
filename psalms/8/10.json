@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "اے یاہوہ، اے اسپئے اداں ⟨ادونای⟩، تُئے نام چہ سب زمینءَ چه قدر گیش اِنت!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "اسپئے اداں ⟨ادونای⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه قدر"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تُئے نام"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "چہ سب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:21.697516666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "تُچِ برارءَ نَشَک مَدِت — سِکّہءِ نَشَک، کَوکءِ نَشَک، ہر چیزءِ نَشَک کہ نَشَکءِ سرا دِنّت بِت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نَہ"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "نَشَک مَدِت"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "تُچِ برارءَ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "نَشَک"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سِکّہءِ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "نَشَک"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کَوکءِ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "نَشَک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیزءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "نَشَکءِ سرا دِنّت بِت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:11.596247100Z",
+  "model": "glm-5.3"
+}

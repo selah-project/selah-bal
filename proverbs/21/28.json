@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "دروغءِ گواہ لہت بیت، بلے گوشوکءِ مردم ہمیشہ گپ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "دروغءِ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "لہت بیت"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "بلے مردم"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "گوشوکءِ"
+    },
+    {
+      "surface": "لנצח",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "گپ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:04.975032981Z",
+  "model": "glm-5.3"
+}

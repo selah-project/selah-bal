@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "اگر آہن کند بیت ءُ آ دیم ئے تیز نہ کتگ بیت، ءُ زور ءُ گیش کنیت بیت؛ بلے کامیابیءِ برتری دانش اِنت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "کند بیت"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "آہن"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "دیم ئے"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "تیز نہ کتگ بیت"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "ءُ زور"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "گیش کنیت بیت"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ءُ برتری"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "کامیابیءِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:09.252048307Z",
+  "model": "glm-5.3"
+}

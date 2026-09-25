@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ زلپہ، لیاہءِ کنیز، یاعقوبءَ پہ یک زہگ جنیت۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "جنیت"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زلپہ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "کنیز"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہءِ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یاعقوبءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:03.651896746Z",
+  "model": "glm-5.3"
+}

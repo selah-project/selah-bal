@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "چوش کہ یکتی یاہوہ ⟨את⟩ موشہءَ حکم کتگ، ہمے چوں اسرائیلءِ زہگان ⟨את⟩ پوریں کار کت.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "چوش کہ یکتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ہمے چوں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں کار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "هעבדה",
+      "gloss": "کار"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:45.553841589Z",
+  "model": "glm-5.3"
+}

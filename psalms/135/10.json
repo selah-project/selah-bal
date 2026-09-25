@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "کہ آییءَ گیش قومان زدنت ءُ زورمند پادشاہانءَ کشتنت۔",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "کہ آییءَ زدنت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ءُ کشتنت"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پادشاہان"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "زورمند"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:58.201673075Z",
+  "model": "glm-5.3"
+}

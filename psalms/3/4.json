@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ تو، اے یاہوہ، منی پہ سپر ⟨اِنت⟩، منی جلال، ءُ منی سرءَ اُچ کوک ⟨اَنت⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "سپر"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "منی پہ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "منی جلال"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ءُ اُچ کوک"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "منی سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:52.724532783Z",
+  "model": "glm-5.3"
+}

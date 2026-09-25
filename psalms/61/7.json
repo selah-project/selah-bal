@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 61,
+  "translation": "روچاں چہ شاہءِ روچاںءَ زیاد کن؛ آئیءِ سالان گوش ماں نسل ءُ نسلءَ بنت۔",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "روچاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "چہ…ءَ زیاد"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "شاہءِ روچاںءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "زیاد کن"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "آئیءِ سالان"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ءُ نسلءَ بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:44.318542577Z",
+  "model": "glm-5.3"
+}

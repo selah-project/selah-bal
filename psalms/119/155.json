@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "رستگاری چہ بدکاران دور ⟨اِنت⟩، چون اِشان تُوءِ حکمان نہ جُستیت۔",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "چہ بدکاران"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "رستگاری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تُوءِ حکمان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "جُستیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:37.036283670Z",
+  "model": "glm-5.3"
+}

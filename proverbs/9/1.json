@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "حکمتے وتی گدان جوڑ کت، وتی ہپت ستون پٹی کت۔",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "حکمتے"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "وتی گدان"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "پٹی کت"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "وتی ستون"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ہپت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:26.327559691Z",
+  "model": "glm-5.3"
+}

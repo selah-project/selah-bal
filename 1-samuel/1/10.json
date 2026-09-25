@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آ جانءَ تہ تلخ بوت، ءُ یاہوہءَ دعا کت، ءُ گوشتا روئیت گیش.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "تلخ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "ءُ دعا کت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ءُ گوشتا"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "روئیت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:25:27.641178388Z",
+  "model": "glm-5.3"
+}

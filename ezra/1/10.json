@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "پیالہ زرءِ سی، پیالہ سیمءِ دومی درجہءِ چار سد ءُ دہ، ءُ دگہ زاگ ہزار۔",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "پیالہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرءِ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "پیالہ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سیمءِ"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "دومی درجہءِ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ءُ دہ"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "زاگ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:17.307130469Z",
+  "model": "glm-5.3"
+}

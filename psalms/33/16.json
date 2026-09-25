@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "پادشاہ نیست کہ گوں لشکرءِ گیشیءَ نجات یابیت؛ زوراور نہ رہا بیت گوں زورءِ گیشیءَ۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاہ"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "نجات یابیت"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "گوں گیشیءَ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشکرءِ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زوراور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "رہا بیت"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "گوں گیشیءَ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زورءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:48.598661732Z",
+  "model": "glm-5.3"
+}

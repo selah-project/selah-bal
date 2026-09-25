@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "اے یاہوہ، اَنّا نجات دِت — ہُنا! اے یاہوہ، اَنّا کامیاب کت — ہُنا!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "اَنّا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "نجات دِت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُنا"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "اَنّا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "کامیاب کت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُنا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:14.532429669Z",
+  "model": "glm-5.3"
+}

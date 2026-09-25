@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ وتءِ دست سوچگیں قربانیءِ سرءَ چرکنت، ءُ آیءِ پہ پسند بیت، آءَ پاک کتنءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ءُ چرکنت"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "وتءِ دست"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ پہ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرءِ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوچگیں قربانیءِ"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "ءُ پسند بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیءِ پہ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "پاک کتنءِ پہ"
+    },
+    {
+      "surface": "عליו",
+      "gloss": "آءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:00.545619737Z",
+  "model": "glm-5.3"
+}

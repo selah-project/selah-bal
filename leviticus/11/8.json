@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "اِشانی گوشتءَ نہ گوشیت ءُ اِشانی لاشاں نہ دست دریت — ناپاک اِنت تُماں پہ۔",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "اِشانی گوشتءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ءُ اِشانی لاشاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגעو",
+      "gloss": "دست دریت"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُماں پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:36.995683175Z",
+  "model": "glm-5.3"
+}

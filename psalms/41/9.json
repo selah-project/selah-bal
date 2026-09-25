@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "بیلیالءِ گپ آییءِ سرءَ ڈَٹکیت، ءُ آ کہ دراز گپت، اے پدا نہ اِستنت۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بیلیالءِ"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ڈَٹکیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ آ کہ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "دراز گپت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "اے پدا"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "اِستنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:11.770608460Z",
+  "model": "glm-5.3"
+}

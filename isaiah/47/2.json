@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 47:2",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "«آسیابءِ سنگ گرت ءُ آرد پیس؛ تُہءِ مندہݢ در کن، دامن در گرت، لنگ پیش کن، ءُ روڈانءَ اندڑ.»",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "گرت"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "آسیابءِ سنگ"
+    },
+    {
+      "surface": "וטחני",
+      "gloss": "ءُ پیس"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "آرد"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "در کن"
+    },
+    {
+      "surface": "צמתך",
+      "gloss": "تُہءِ مندہݢ"
+    },
+    {
+      "surface": "חשפי",
+      "gloss": "در گرت"
+    },
+    {
+      "surface": "שבל",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "پیش کن"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "لنگ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "اندڑ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "روڈان"
+    }
+  ],
+  "timestamp": "2026-09-24T21:36:57.387367488Z",
+  "model": "glm-5.3"
+}

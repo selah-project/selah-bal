@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "حارِمءِ زہگان، ہزار ءُ ہبدہ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارِم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:59.034081004Z",
+  "model": "glm-5.3"
+}

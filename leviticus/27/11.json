@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ اگر ہر ناپاک مال اِنت کہ چہ آیی قربانی پہ یاہوہءَ پیش نہ کننت، آ مالءَ ⟨את⟩ کاهنءِ پیشءَ وستا کنت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "پیش کننت"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "چہ آیی"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہءَ"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "ءُ وستا کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مال"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:36.622425723Z",
+  "model": "glm-5.3"
+}

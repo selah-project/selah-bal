@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ اسرائیلءِ زہگان کہ اے وہدءَ ہست اَنت ⟨את⟩ پسح کیتنت ءُ ⟨את⟩ مصوتانی چگ ہپت روچ۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "کیتنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "کہ ہست اَنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "وہدءَ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چگ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "چگ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "مصوتانی"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:47:18.261691152Z",
+  "model": "glm-5.3"
+}

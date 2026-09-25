@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "اے مرد یک تسراتی اِنت، ناپاک اِنت آیی؛ ناپاک آییءَ کنت کاہن — آییءِ زہم آییءِ سرءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "اے مرد"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "تسراتی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "آییءَ ناپاک کنت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "تہ آییءِ سر"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "آییءِ زہم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:56.960561083Z",
+  "model": "glm-5.3"
+}

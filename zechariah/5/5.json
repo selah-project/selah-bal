@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 5:5",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ فرشتہءِ کہ منءَ تہ گپ گوَشت برات، ءُ منءَ گوَشت: اے ہن زانگءَ چُک، ءُ بچار کہ چے اِنت آ کہ درکَنت اے۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "برات"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتہءِ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گپ گوَشت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منءَ تہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ منءَ گوَشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "چُک"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "زانگءَ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ءُ بچار"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چے"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "درکَنت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:12.478407565Z",
+  "model": "glm-5.3"
+}

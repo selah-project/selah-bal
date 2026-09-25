@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 132,
+  "translation": "کی یاہوہ صہیونءَ چنیتگ، آییءَ پہ وتءِ نشتگءِ جاگہ پسند کتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چنیتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صہیونءَ"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "پسند کتگ اِنت"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "پہ نشتگءِ جاگہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پہ وت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:46.813129728Z",
+  "model": "glm-5.3"
+}

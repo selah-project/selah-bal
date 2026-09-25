@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ شمایں منءَ قوم بیت، ءُ من شماءَ پہ ایلوہیم بیت۔",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "ءُ شمایں بیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "پہ قوم"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماءَ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "پہ ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T21:55:22.907037371Z",
+  "model": "glm-5.3"
+}

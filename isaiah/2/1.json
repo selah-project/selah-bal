@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "آ گال کہ یشعیاہو، اموتءِ زہگ، آیءَ دیدت، پہ یہودہ ءُ یروشلمءِ سرءَ.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دیدت"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "اموت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ءُ یروشلم"
+    }
+  ],
+  "timestamp": "2026-09-24T21:21:42.583426928Z",
+  "model": "glm-5.3"
+}

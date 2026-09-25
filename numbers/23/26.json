@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 23:26",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ بِلعام جواب دیت ءُ بَلَقءَ گوَشت: ما نئے تئے تہ گتگ کہ ہر آ کہ یاہوہ گوَشتِنت ⟨את⟩ آءُ من کنیں؟",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ءُ جواب دیت"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعامءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ما نئے"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "گتگ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تئے تہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر آ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "گوَشتِنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آءُ",
+      "marks": "من کنیں"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "من کنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:39:59.957537231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ آیءَ کروبانءَ سونءَ چڑایت ⟨את⟩۔",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ءُ آیءَ چڑایت کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کروبانءَ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروبانءَ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:25.371998067Z",
+  "model": "glm-5.3"
+}

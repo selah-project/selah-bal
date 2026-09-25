@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اگر آییءِ کُشتءِ سلامتان پیشکنگ بويت، اگر چہ مال آ پیش کنت، اگر نر، اگر مادہ، کامل آییءَ یاہوہءِ پیشءَ پیش کنت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "کُشت"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "سلامتان"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "آییءِ پیشکنگ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "مال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "پیش کنت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مادہ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "آییءَ پیش کنت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ءِ پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:09.667282159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ آ آییءَ ⟨את⟩ زمران ءُ ⟨את⟩ یقشان ءُ ⟨את⟩ مدان ءُ ⟨את⟩ مدیان ءُ ⟨את⟩ اِشباق ءُ ⟨את⟩ شوح زائیت.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمران"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "زمران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یقشان"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "یقشان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مدان"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "مدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مدیان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مدیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اِشباق"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "اِشباق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شوح"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "شوح"
+    }
+  ],
+  "timestamp": "2026-09-24T18:35:19.212751772Z",
+  "model": "glm-5.3"
+}

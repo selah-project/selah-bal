@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ سارہ منکر بوت ءُ گوَشت: من نہ کھندیتگ — پرچا کہ ترسیت۔ ءُ آیءَ گوَشت: نہ، تو کھندیتگ۔",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "ءُ منکر بوت"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "من کھندیتگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ترسیت"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "تو کھندیتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:30:00.861402236Z",
+  "model": "glm-5.3"
+}

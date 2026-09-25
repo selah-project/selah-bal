@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "حدد، ءُ تعما، یکتور، نفیش ءُ قدمہ.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "حدد"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ءُ تعما"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "یکتور"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "نفیش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ءُ قدمہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:34:20.475991321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "یاہوہءَ دیت ⟨את⟩ وار تُوءِ زمینءَ غبار ءُ گرد؛ چہ آسمانءَ آیی تُوءَ سر درت، تا تُو فنا بیت۔",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وار"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "وار"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "تُوءِ زمینءِ"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "غبار"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ءُ گرد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانءَ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "درت"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تُوءَ سر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "تُو فنا بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:16.810907355Z",
+  "model": "glm-5.3"
+}

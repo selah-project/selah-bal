@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ہر ورندوکءِ مرگ کہ آییءَ چار پاں اَنت — آ تسی پہ مکروہ اِنت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ورندوکءِ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پاں"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "مکروہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تسی پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:14:50.251905845Z",
+  "model": "glm-5.3"
+}

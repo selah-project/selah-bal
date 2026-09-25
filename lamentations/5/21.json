@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 5:21",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "اے یاہوہ، ما ءَ اے ءَ پدا گرگ دیت ءُ ما پدا گریں؛ روچان ءِ ما چوش کہ اول اوشت نو کن۔",
+  "tokens": [
+    {
+      "surface": "השיבנו",
+      "gloss": "ما ءَ اے ءَ پدا گرگ دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "اے ءَ"
+    },
+    {
+      "surface": "ונשוב",
+      "gloss": "ءُ ما پدا گریں"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نو کن"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "روچان ءِ ما"
+    },
+    {
+      "surface": "כקדם",
+      "gloss": "چوش کہ اول اوشت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:30.857685800Z",
+  "model": "glm-5.3"
+}

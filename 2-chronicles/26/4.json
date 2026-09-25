@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ آ یاہوہءِ چشمانءَ ⟨הישר⟩ راست کار کت، گوشوش آ کہ اَمَصیاہو آییءِ پیت کت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "راست کار"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشمانءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "گوشوش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "اَمَصیاہو"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آییءِ پیت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:42:28.770082258Z",
+  "model": "glm-5.3"
+}

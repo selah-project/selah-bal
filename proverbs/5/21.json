@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "کی مردءِ راہان یاہوہءِ چشمانی پیشءَ اَنت، ءُ آییءِ ہرہہ رستہ ءُ سنجیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چشمانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "راہان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردءِ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہرہہ"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "ءُ سنجیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:13.641077702Z",
+  "model": "glm-5.3"
+}

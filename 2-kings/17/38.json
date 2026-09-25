@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ عہد کہ من گوں ⟨את⟩ شما کت، آیءَ نہ فراموش کریں؛ ءُ دگہ ہدایانءَ نہ ڈریں۔",
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "ءُ عہد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "من کت"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "گوں ⟨את⟩ شما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "فراموش کریں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ڈریں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:16:06.890286096Z",
+  "model": "glm-5.3"
+}

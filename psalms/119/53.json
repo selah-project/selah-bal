@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "غصہ منی چنگیت چہ رستنگاناں رند، کہ تنت تورا چھوڑ کنت.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "منی چنگیت"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "چہ رستنگاناں"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "چھوڑ کنوک"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تنت تورا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:43.667579830Z",
+  "model": "glm-5.3"
+}

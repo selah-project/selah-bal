@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ موشہ آیانءَ ⟨את⟩ شمار کت یاہوہءِ گالءِ سرءَ، چوش کہ حکم بوتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ءُ شمار کت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "آیانءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ ⟨موسیٰ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "گالءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم بوتگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:53:16.495164226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ بیت کہ یوآب شہرءَ چاہیت، ءُ اوریاہءَ ⟨את⟩ آ جاگہءَ دات کہ آییءَ زانت کہ اُتھے زورءِ مردمان اَنت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "چاہنگءَ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہرءَ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوریاہءَ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوریاہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاگہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زور"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:45:49.465244989Z",
+  "model": "glm-5.3"
+}

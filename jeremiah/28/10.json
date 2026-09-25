@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ حننیاہءَ پیغمبر ⟨את⟩ جوءے چہ گچی یرمیاہ پیغمبرءِ سرا گرت ءُ آییءَ شست.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گرت"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حننیاہءَ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جوءے"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "جوءے"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "چہ سرا"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "گچی"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یرمیاہ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "ءُ آییءَ شست"
+    }
+  ],
+  "timestamp": "2026-09-24T21:55:29.301402732Z",
+  "model": "glm-5.3"
+}

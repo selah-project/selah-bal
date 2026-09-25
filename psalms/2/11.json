@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "یاہوہءَ ⟨את⟩ گوں ترس بندہ‌گر کنیں، ءُ گوں لرزش شاد بیت۔",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "بندہ‌گر کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "گوں ترس"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ءُ شاد بیت"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "گوں لرزش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:52.144134772Z",
+  "model": "glm-5.3"
+}

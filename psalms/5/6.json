@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "گنوک تُءِ دیگانی پیشءَ پُخت نہ کننت؛ تُو بُرائیءِ کارگرانءَ ہمگ بُزوریت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "پُخت کننت"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "گنوک"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تُءِ دیگانی"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "بُزوریت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کارگران"
+    },
+    {
+      "surface": "און",
+      "gloss": "بُرائیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:03.406373456Z",
+  "model": "glm-5.3"
+}

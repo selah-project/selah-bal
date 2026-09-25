@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "زانت کہ آییءِ سود چنگ اِنت؛ آییءِ چراغ شپءَ نہ مُرێنت.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "آییءِ سود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "مُرێنت"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "آییءِ چراغ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:08.065823887Z",
+  "model": "glm-5.3"
+}

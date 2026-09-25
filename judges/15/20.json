@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ آیی ⟨את⟩ اِسرائیلءَ پلشتانی روچانءَ بیست سال داوری کت۔",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ءُ آیی داوری کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِسرائیلءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءَ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "روچانءَ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتانی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-24T20:21:53.636102520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ یاہوہءِ ارون ⟨את⟩ شہرءَ یک وار گھیر دت، ءُ لشکرگاہءَ آتنت ءُ لشکرگاہءَ شپ مننت۔",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ءُ گھیر دت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ارون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہرءَ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "گھیر"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "وار"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آتنت"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لشکرگاہءَ"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ءُ شپ مننت"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "لشکرگاہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:04:31.387659364Z",
+  "model": "glm-5.3"
+}

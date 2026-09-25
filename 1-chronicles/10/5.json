@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ آییءِ ہتھیار نوسوک گندیت کہ شاؤل مات بوت، ءُ آءُ ہم تیغءِ سرءَ ڈگت ءُ مات بوت۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "نوسوک"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "آییءِ ہتھیار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مات بوت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ڈگت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "تیگءِ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مات بوت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:25:36.674446119Z",
+  "model": "glm-5.3"
+}

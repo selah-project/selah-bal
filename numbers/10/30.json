@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ آءَ گوَشت: نہ روان، پرچا کہ چُ مءِ زمین ءُ چُ مءِ زائگ جاگہءَ روان اَت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "روان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیجا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "پرچا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چُ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "مءِ زمین"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ چُ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "مءِ زائگ جاگہءَ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "روان اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:32:51.509573063Z",
+  "model": "glm-5.3"
+}

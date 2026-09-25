@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "آ بیابانءَ آپءِ ڈنڈ کنیت ءُ وشکیں زمینءَ آپءِ جششانءَ۔",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابانءَ"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "آپءِ ڈنڈءَ"
+    },
+    {
+      "surface": "مים",
+      "gloss": "آپءِ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ءُ وشکیں زمینءَ"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "وشکیں"
+    },
+    {
+      "surface": "למוצאי",
+      "gloss": "آپءِ جششانءَ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:32.879728545Z",
+  "model": "glm-5.3"
+}

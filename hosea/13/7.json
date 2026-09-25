@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ من آیانی پہ چوش شیر بوتم، چوش پلنگءَ کہ راہءَ سر چوک دیم گرم.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ءُ بوتم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آیانی پہ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "چوش پلنگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "چوک دیم گرم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:32:06.558628571Z",
+  "model": "glm-5.3"
+}

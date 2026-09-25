@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 81,
+  "translation": "سرود بلند کنیں ءُ دہل دیں، شیریں کنور گوں نبلءَ.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "بلند کنیں"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ءُ دیں"
+    },
+    {
+      "surface": "תף",
+      "gloss": "دہل"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "کنور"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "شیریں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نبل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:40.743945920Z",
+  "model": "glm-5.3"
+}

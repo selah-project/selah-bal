@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "ءُ یاہوہ ⟨את⟩ یوسفءَ گوں اَت، ءُ آ یک کامیابءِ مردم اَت، ءُ آ وتی آقائی — مِتسرائیں — ءِ گadanءَ تہ اَت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسفءَ گوں"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ آ اَت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "کامیاب"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ آ اَت"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گadanءَ تہ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "وتی آقائی"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "مِتسرائیں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:44:05.495530800Z",
+  "model": "glm-5.3"
+}

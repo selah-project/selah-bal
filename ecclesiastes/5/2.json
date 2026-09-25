@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "پرچا کہ خواب چہ کشوکءِ گیشیءَ رات، ءُ کسہءِ آواز چہ گالانی گیشیءَ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "رات"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "گیشیءَ تہ"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "کشوک"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ءُ آواز"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کسہءِ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "گیشیءَ تہ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "گالان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:00.038970072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ یایر مُرت ءُ قامونءَ دفن بوت.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُرت"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یایر"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ءُ دفن بوت"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "قامونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:19:33.780788232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 52,
+  "translation": "تو بدی چہ نیکی پسند کنت، دروغ چہ راستی گوَش — سلا.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "تو پسند کنت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "چہ نیکی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "چہ گوَش"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلا"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:08.588722120Z",
+  "model": "glm-5.3"
+}

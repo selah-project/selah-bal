@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ایلوہیمءَ گوَشت: پھیلنگ بیت آپانی تہءَ، ءُ بیت جتا کنوک آپانیں گشءَ آپانیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ ایلوہیمءَ گوَشت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "پھیلنگ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپانی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "جتا کنوک"
+    },
+    {
+      "surface": "בין",
+      "gloss": "… گشءَ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپانیں"
+    },
+    {
+      "surface": "למים",
+      "gloss": "آپانیں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:51.906242072Z",
+  "model": "glm-5.3"
+}

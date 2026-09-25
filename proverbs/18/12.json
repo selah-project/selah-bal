@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "شکستءِ پیشیں مردءِ دل اُچڑ بیت، ءُ شانءِ پیشیں عاجزی اِنت۔",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "پیشیں"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکست"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "اُچڑ بیت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ءُ پیشیں"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "عاجزی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:11.688452054Z",
+  "model": "glm-5.3"
+}

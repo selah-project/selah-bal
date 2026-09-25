@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "تولیت ءُ تولیت یاہوہءِ کریہگیں کار اِنت، ءُ دھوکہءِ ترازو چنگ نہ اَنت.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "کریہگیں کار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "تولیت"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ءُ تولیت"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "ءُ ترازو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکہءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:56.090808797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ وتی خواہشءِ پہ — دوشیزگ، وتی نزدیکیں، کہ یک مردءَ نہ بوتگ — آییءِ پہ پلوت بیت۔",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "ءُ وتی خواہشءِ پہ"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "دوشیزگ"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "نزدیکیں"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوتگ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "یک مردءَ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءِ پہ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پلوت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:46.389383588Z",
+  "model": "glm-5.3"
+}

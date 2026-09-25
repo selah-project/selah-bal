@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آ روت ءُ ⟨את⟩ گومر، دِبلایِمءِ جنک، گرگ؛ ءُ آ جنین پیت ءُ آءَ یک زہگ زائیت۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ آ روت"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گرگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گومر"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "دِبلایِمءِ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ءُ جنین پیت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:30:38.648822257Z",
+  "model": "glm-5.3"
+}

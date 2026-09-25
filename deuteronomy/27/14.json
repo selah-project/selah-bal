@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ لاویان جواب دنت ءُ اِسرائیلءِ ڈگرے مردمانَ گوں بُلندءِ آواز گوَشنت.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ءُ جواب دنت"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ءُ گوَشنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڈگرے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردمانَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "רם",
+      "gloss": "بُلندءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:25.716257332Z",
+  "model": "glm-5.3"
+}

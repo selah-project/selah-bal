@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "دلءِ عاقل حکم گپیت، ءُ لبانءِ نادان ڈہیت۔",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "عاقل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءِ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گپیت"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ءُ نادان"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لبانءِ"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ڈہیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:21.478780064Z",
+  "model": "glm-5.3"
+}

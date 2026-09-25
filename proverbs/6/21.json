@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "اِشاںءَ ماں وتی دلءَ ہمیش بند کن، اِشاںءَ گردنءَ سر بند کن.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "اِشاںءَ بند کن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دل"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "اِشاںءَ بند کن"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "گردن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:22.802245172Z",
+  "model": "glm-5.3"
+}

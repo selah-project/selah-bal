@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "منیں نذراں یاہوہءَ پوری کنان، اَچہ روبروءَ، پہ گیش آییءِ قوم.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "منیں نذراں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "پوری کنان"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "روبروءَ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اَچہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ گیش"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ قوم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:18.995947109Z",
+  "model": "glm-5.3"
+}

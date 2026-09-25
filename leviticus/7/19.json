@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ گوشت آ کہ گوں ہر ناپاکءَ دیم بیت، نہ خوار بیت — آتشءَ سوزشت بیت؛ ءُ گوشتءَ ہر پاکءِ مردم گوشت خواریت.",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "دیم بیت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "گوں ہر"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوار بیت"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آتشءَ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "سوزشت بیت"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خواریت"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:04.420055878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ گیشتر چہ آ کہ کہلہت دانا اَت، اَوی ⟨את⟩ مردمءَ دانش شار دیت، ءُ گوشیت ءُ جست کت ءُ گیشتریں مثالان ساپ کت۔",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ءُ گیشتر"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "کہ اَت"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کہلہت"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اَوی"
+    },
+    {
+      "surface": "למד",
+      "gloss": "شار دیت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردمءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "ءُ گوشیت"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "ءُ جست کت"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "ساپ کت"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "مثالان"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیشتریں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:35.532776166Z",
+  "model": "glm-5.3"
+}

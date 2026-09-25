@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "اے ایلوہیم، ⟨את⟩ اِسرائیل چہ گیش آییءِ تنگیانءَ رہا کن۔",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "رہا کن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ گیش"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "آییءِ تنگیان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:14.744837742Z",
+  "model": "glm-5.3"
+}

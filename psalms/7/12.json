@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ایلوہیم یک راست داں کنوک اِنت، ءُ ایل کہ ہر روچ غضبءِ تہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "داں کنوک"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ ایل"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:38.461845130Z",
+  "model": "glm-5.3"
+}

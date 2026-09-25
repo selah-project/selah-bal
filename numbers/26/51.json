@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "اے اِسرائیلءِ زہگانءِ شمار گنتیگ اِنت: شش سد ہزار ءُ یک ہزار ہپت سد ءُ سئے۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "پקודי",
+      "gloss": "شمار گنتیگ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ءُ یک ہزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سئے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:41:20.567000774Z",
+  "model": "glm-5.3"
+}

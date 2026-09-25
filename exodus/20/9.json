@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "شش روچ تہ کار کنیں ءُ ⟨تو⟩ وتی پوریں کار کنیں۔",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "شش"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تہ کار کنیں"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ کنیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "وتی کار"
+    }
+  ],
+  "timestamp": "2026-09-24T18:59:03.744463427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "وای پہ آ کہ پِتءَ گوشیت: «تو چہ جوڑنت؟» ءُ زالءَ: «تو چہ جننت؟»",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "پِتءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "جوڑنت"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "ءُ زالءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "جننت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:35:42.280370997Z",
+  "model": "glm-5.3"
+}

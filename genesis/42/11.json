@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ہمہ ما یک مردی زہگان اِسین؛ ما راستیں مردم اِسین؛ تُئے بندگاں جاسوس نہ اَنت.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "ہمہ ما"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "راستیں"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تُئے بندگاں"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:06.351909002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ اگر اے سئے آییءَ نہ کنت، آ مفت در کنت، بے زر.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ءُ در کنت"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "مفت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "بے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:10.920082889Z",
+  "model": "glm-5.3"
+}

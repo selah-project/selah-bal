@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "موشہ، مءِ بندہ، مُرت اِنت؛ ءُ اِشاں اُستا، ⟨את⟩ اے یردنءَ دربڑ کن، تُو ءُ سار اے قوم، تا آ زمینءَ کہ ماں اِشاںءَ دِنت، پہ یسرایلءِ زہگانءَ۔",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "مءِ بندہ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُرت"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشاں"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُستا"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "دربڑ کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے یردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ سار"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پہ زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    }
+  ],
+  "timestamp": "2026-09-24T20:05:27.978716725Z",
+  "model": "glm-5.3"
+}

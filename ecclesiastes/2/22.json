@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "چہ آ کہ ادمے پہ چیءَ اِنت چہ آییءِ گش محنتءَ ءُ آییءِ دلءِ رنجءَ، جہ کہ آییءَ چمءِ تلءَ محنت کنت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ آ کہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "پہ چیءَ"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ادمے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "چہ گش"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "آییءِ محنت"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "ءُ رنج"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "آییءِ دلءِ"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "کہ آ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت کنت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "چمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:31.647426687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "پہ اے سبب زورءِ قوم تُہءَ عزّت کَنت، سَخت قومانءِ شہر تُہءَ چہ ڈَر اِنت۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے سبب"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "تُہءَ عزّت کَنت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زورءِ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومانءِ"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "سَخت"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "تُہءَ چہ ڈَر اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:55.664410945Z",
+  "model": "glm-5.3"
+}

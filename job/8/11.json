@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کی کائی بے ہیلءَ سترگ بیت؟ کہ مارچی گاہ بے آپءَ ودی بیت؟",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "کی … سترگ بیت"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "کائی"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بے"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "ہیل"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "ودی بیت"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "مارچی گاہ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:32:56.548418273Z",
+  "model": "glm-5.3"
+}

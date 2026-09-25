@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "توفاناں چہ یاہوہ ⟨את⟩ ایوبءَ جوابت کت ءُ گوَشت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جوابت کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایوبءَ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوبءَ"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "توفاناں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:44:41.310349056Z",
+  "model": "glm-5.3"
+}

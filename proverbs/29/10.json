@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "خونیں مردم پاکءَ دشمن اِنت، ءُ راست مردم آییءِ جانءَ گندی۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مردمی"
+    },
+    {
+      "surface": "دמים",
+      "gloss": "خونی"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "دشمن اِنت"
+    },
+    {
+      "surface": "תם",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "ءُ راست مردم"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "گندی"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "آییءِ جانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:37.769413381Z",
+  "model": "glm-5.3"
+}

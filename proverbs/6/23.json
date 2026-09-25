@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "چوکہ حکم یک چراغ اِنت، ءُ تورا روشنائی، ءُ زندگیءِ راہ تنبیہانی تعلیم اِنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چوکہ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "چراغ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ءُ تورا"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنائی"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ءُ راہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیءِ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "تنبیہ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعليم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:22.802697292Z",
+  "model": "glm-5.3"
+}

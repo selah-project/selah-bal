@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کی ہوشم چہ موتیان لوٹتر اِنت، ءُ ہمگ پسند چیزیں آییءَ برابر نہ بنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "لوٹتر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ہوشم"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "چہ موتیان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہمگ"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "پسند چیزیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "برابر بنت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:51.772105033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "فال شاهءِ لبانی سر اِنت؛ انصافءَ آییءِ منھ خیانت نہ کیت۔",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "فال"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لبانی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاهءِ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصافءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "خیانت کت"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "آییءِ منھ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:26.158247477Z",
+  "model": "glm-5.3"
+}

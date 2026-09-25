@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "یاہوہءِ دیم اِشاں رند کت؛ اِشاںءَ ودی نہ گندیت؛ کوہنانءِ دیم پیش نہ کتنت، پیرانءَ رحم نہ کتنت.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "دیم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "اِشاں رند کت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ودی"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "اِشاںءَ گندیت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دیم"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کوہنانءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נשאو",
+      "gloss": "پیش نہ کتنت"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "رحم نہ کتنت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:13:24.122889528Z",
+  "model": "glm-5.3"
+}

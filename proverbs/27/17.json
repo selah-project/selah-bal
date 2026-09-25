@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "آہن گوں آہن تیز بیت، ءُ یک مرد ئے رفیقءِ رخءَ تیز بیت.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "آہن"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "گوں آہن"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "تیز بیت"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ یک مرد"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "تیز بیت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رخ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ئے رفیقءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:03.102614162Z",
+  "model": "glm-5.3"
+}

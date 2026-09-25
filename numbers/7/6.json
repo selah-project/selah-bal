@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ موشہءَ ⟨את⟩ گاڈیاں ءُ ⟨את⟩ گوانان گرگت ءُ ⟨את⟩ اِشاناں لویانءَ دت۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گرگت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گاڈیاں"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "گاڈیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گوانان"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گوانان"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دت"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ اِشاناں",
+      "marks": "لویانءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:30:00.323652673Z",
+  "model": "glm-5.3"
+}

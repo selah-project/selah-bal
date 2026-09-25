@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ شموئیل قصابیءَ گوَشت: اے حصہ دے کہ ماں تہءَ داتگ، کہ ماں تہءَ گوَشتن — آییءَ گوں خودت رہا کن۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "لטבח",
+      "gloss": "قصابیءَ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حصہ"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ماں داتگ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ماں گوَشتن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "رہا کن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "آییءَ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں خودت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:30:08.396015486Z",
+  "model": "glm-5.3"
+}

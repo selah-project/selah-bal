@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ تُمائی زور بے‌کارءَ بسر بیت، ءُ تُمائی زمین ⟨את⟩ وتی حاصل نہ دیت، ءُ زمینءِ دار وتی پھل نہ دیت۔",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "ءُ بسر بیت"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "بے‌کارءَ"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "تُمائی زور"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "تُمائی زمین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی حاصلءَ"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "وتی حاصل"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ءُ دارءِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "وتی پھل"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:46.360163110Z",
+  "model": "glm-5.3"
+}

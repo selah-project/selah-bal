@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "باطل ءُ دروگوں گپ ماں چہ دور کن؛ کمی ءُ دولت ماءَ نہ دئ؛ ماءَ لہم چہ منیں نصیبءِ پُر کن۔",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ءُ دروگوں گپ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروگو"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "دور کن"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ماں چہ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "کامی"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ءُ دولت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دئ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماءَ"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "ماءَ پُر کن"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لہم"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "منیں نصیب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:28.545620763Z",
+  "model": "glm-5.3"
+}

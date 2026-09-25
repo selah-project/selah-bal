@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "شما مردمانءَ من بانگ کنتاں، ءُ منِ آواز پہ آدمءِ زہگانءَ اِنت.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "شماءَ"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "مردمانءَ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "من بانگ کنتاں"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "ءُ منِ آواز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانءِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:14.038137672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "گوں اے کلامءَ بحث کنیت کہ سود نہ دنت، ءُ گپان کہ اِشاں تہ ہچ سود نیست؟",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "بحث کنیت"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "گوں کلام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "سود دنت"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "ءُ گپان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "سود دنت"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اِشاں تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:44.326209033Z",
+  "model": "glm-5.3"
+}

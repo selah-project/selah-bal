@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ اُوک شارءِ زالانی ⟨את⟩ آ مردءَ گپت ءُ آییءَ ⟨את⟩ سزا دنت۔",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ءُ گپت"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "زالانی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارءِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُوک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ مرد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آ مرد"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ءُ سزا دنت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:40.943592632Z",
+  "model": "glm-5.3"
+}

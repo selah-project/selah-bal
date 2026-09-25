@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "راستیں مردم زمینءَ وارث بنت ءُ ہمیشہ چوں آییءَ دار بنت.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "راستیں مردم"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "وارث بنت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "ءُ دار بنت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "چوں آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:43.845321641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ہمیشہ آییءِ عہدءَ یاد بکریں — گالے کہ آیءُ ہزار نسلانءَ ہدایت کت۔",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "یاد بکریں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "آییءِ عہدءَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گالے"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ہدایت کت"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسلانءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:27:33.778455065Z",
+  "model": "glm-5.3"
+}

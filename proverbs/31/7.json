@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "بشیت ءُ وتِ ریش وانیت، ءُ آییءِ زحمت گیشتر یاد نہ کنیت۔",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "بشیت"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "ءُ وانیت"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "وتِ ریش"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "ءُ آییءِ زحمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "یاد کنیت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "گیشتر"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:19.563999674Z",
+  "model": "glm-5.3"
+}

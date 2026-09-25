@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "چٹ مینڈان یاورءِ لبءَ، یاورءِ دہانءَ؛ ءُ یاورءِ چت کشتگ چُسیت، رت بیت ءُ نیست بیت.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "چٹ مینڈان"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءِ لبءَ"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "یاور"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دہان"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "یاور"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ چت"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "کشتگ"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "یاورءِ"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "چُسیت"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "رت بیت"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ءُ نیست بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:26:16.644072440Z",
+  "model": "glm-5.3"
+}

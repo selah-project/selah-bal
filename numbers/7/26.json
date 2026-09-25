@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "یک کپ چہ سون، دہ شیکلءَ، پُر چہ دودءِ خوشبو۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "چہ سون"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "دودءِ خوشبو"
+    }
+  ],
+  "timestamp": "2026-09-24T19:29:41.107653601Z",
+  "model": "glm-5.3"
+}

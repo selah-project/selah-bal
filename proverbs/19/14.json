@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "گدان ءُ دولت پدرانی ورس اِنت، پرچا کہ یاہوہءَ اِنت یک عاقل زن۔",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ءُ دولت"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ورس"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پدران"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ءُ چہ یاہوہءَ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "عاقل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:35.535245398Z",
+  "model": "glm-5.3"
+}

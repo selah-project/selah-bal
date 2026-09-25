@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ یاہوہءَ گندیت کہ لئہ بےپَت اِنت، ءُ آییءَ ⟨את⟩ آییءِ پیٹ کھول کت؛ ءُ راشل بانجہ بیت.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "بےپَت"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لئہ"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ءُ کھول کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ پیٹ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "آییءِ پیٹ"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "ءُ راشل"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "بانجہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:47.315218652Z",
+  "model": "glm-5.3"
+}

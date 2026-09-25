@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 1:11",
+  "book": "nahum",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "چہ تُءَ یک ئے روتیت کہ پہ یاہوہءِ سرءَ شر سوچیت، یک بِلیعالءِ مشورہ دہوک.",
+  "tokens": [
+    {
+      "surface": "ממך",
+      "gloss": "چہ تُءَ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "روتیت"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "سوچوک"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ سرءَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شر"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "مشورہ دہوک"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بِلیعالءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:39:31.842643122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 87,
+  "translation": "یاہوہ شمار کنیت، پہ قومانی نبشتءَ: اے ماں آءَ جنسیتگ. سلاہ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "شمار کنیت"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "پہ قومانی نبشتءَ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنسیتگ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ماں آءَ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:37.392971512Z",
+  "model": "glm-5.3"
+}

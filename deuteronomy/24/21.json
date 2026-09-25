@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "کہ تُو وتی انگوریں باغءَ چنیں، چہ پسءَ پدا نہ چنیں؛ پہ مہمان، پہ یتیم ءُ پہ بیوہ بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "چنیں"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "وتی انگوریں باغءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "پدا چنیں"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "چہ پسءَ"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "پہ مہمان"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "پہ یتیم"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "ءُ پہ بیوہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:56.286593589Z",
+  "model": "glm-5.3"
+}

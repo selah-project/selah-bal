@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ موشہءَ گوَشت: چرا اے؟ شما یاہوہءِ منہءَ ⟨את⟩ پار کنیں ءُ آ نہ کامیاب بیت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ موشہءَ گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "پار کنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منہءَ یاہوہءِ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "کامیاب بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:34:33.974932246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ اِشاں ⟨את⟩ چرپیءَ سینہانی سرءَ گشتنت، ءُ آئے ⟨את⟩ چرپیءَ قربانگاہءَ سوزانیت.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "گشتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چرپی"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چرپی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "سینہان"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "سوزانیت"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چرپی"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربانگاہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:16.787721895Z",
+  "model": "glm-5.3"
+}

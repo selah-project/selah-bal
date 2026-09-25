@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ ہتَک آیست ءُ اِستَرءَ مُردُخایءِ گالان ⟨את⟩ گوشیج کت.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ءُ آیست"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ہتَک"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ءُ گوشیج کت"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "اِستَرءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گالان"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردُخایءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:32.981311496Z",
+  "model": "glm-5.3"
+}

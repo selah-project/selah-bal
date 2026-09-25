@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "راستیں مردءِ منہ زندگیءِ چشمہ اِنت، ءُ شریرانی منہ زلمءَ لُپیت۔",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیءِ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستیں مردءِ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ءُ منہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریرانی"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "لُپیت"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:25.144661451Z",
+  "model": "glm-5.3"
+}

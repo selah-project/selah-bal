@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ عزوبہ مُرت، ءُ کالب آءِ پہ ⟨את⟩ افراتءَ گپت، ءُ آیءَ آءِ پہ ⟨את⟩ حورءَ زائیت۔",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ءُ مُرت"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "عزوبہ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گپت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءِ پہ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "افرات"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "افرات"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءِ پہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حور"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:08.723249243Z",
+  "model": "glm-5.3"
+}

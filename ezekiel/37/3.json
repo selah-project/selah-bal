@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 37:3",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ مءَ گوَشت: اے آدمءِ زہگ، اے ہڈیاں جان گنت؟ ءُ من گوَشتم: اے ادونای یاہوہ، تو زانیت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ مءَ گوَشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "התחיינה",
+      "gloss": "جان گنت"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "ہڈیاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ من گوَشتم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "زانیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:24:32.437583413Z",
+  "model": "glm-5.3"
+}

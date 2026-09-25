@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ئے زہگم، اگر گونہگار تؤوءَ پھسلائنت، نہ راضی مبن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئے زہگم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "تؤوءَ پھسلائنت"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گونہگار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "راضی مبن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:28.204223009Z",
+  "model": "glm-5.3"
+}

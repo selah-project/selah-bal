@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "شپر ءُ لڑائءِ بانگءِ روچ، پہ مستڑ گدانان ءُ پہ بلندیں کونڈانءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "شופר",
+      "gloss": "شپر"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "ءُ لڑائءِ بانگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ … سرءَ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "گدانان"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "مستڑ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "کونڈان"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "بلندیں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:06.790061482Z",
+  "model": "glm-5.3"
+}

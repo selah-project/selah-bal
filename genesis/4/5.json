@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ گوں قابیل ءُ گوں آییءِ قربانیءَ نہ گندیت؛ ءُ قابیلءَ مزنیں خشم بیت، ءُ آییءِ دیم ڈگت۔",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قابیل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "آییءِ قربانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ءُ خشم بیت"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "قابیلءَ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "مزن"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ءُ ڈگت"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "آییءِ دیم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:32.358476067Z",
+  "model": "glm-5.3"
+}

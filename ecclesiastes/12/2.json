@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "دیم پہ آ کہ روچ ءُ روشنائی ءُ ماہ ءُ ستارگان تاریک نہ بنت، ءُ بادان پدا گننت چہ گوڑاں رند.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "دیم پہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "تاریک بنت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ءُ روشنائی"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ءُ ماہ"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "ءُ ستارگان"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ءُ پدا گننت"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "بادان"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "گوڑاں رند"
+    }
+  ],
+  "timestamp": "2026-09-24T23:56:09.022982651Z",
+  "model": "glm-5.3"
+}

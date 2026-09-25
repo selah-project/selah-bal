@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "کیا یکے گوں ایلوہیمءَ گوَشتگ: من سزاءَ چکشتگ ئم، من دگہ نہ کنں؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "گوَشتگ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "سزاءَ چکشتگ ئم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אחבול",
+      "gloss": "دگہ کنں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:43:14.024814740Z",
+  "model": "glm-5.3"
+}

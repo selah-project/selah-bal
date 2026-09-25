@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اگر اے مردمانءَ چہ اے بدیں نسلءَ چوک اِشت ⟨את⟩ اے شیریں زمین کہ ما قسم وانیتگئے کہ شمانی پیشواناں بدم،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "یראה",
+      "gloss": "چوک اِشت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اے اِشت"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "مردمانءَ چہ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بدیں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے شیریں زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "شیریں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "قسم وانیتگئے"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "بدم"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "شمانی پیشواناں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:19.207085085Z",
+  "model": "glm-5.3"
+}

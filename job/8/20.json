@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "وانگ، ایل پاکاںءَ رد نہ کنت، ءُ بدکارانی دستءَ نہ گرپت کنت۔",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "وانگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "رد کنت"
+    },
+    {
+      "surface": "תם",
+      "gloss": "پاکاں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "گرپت کنت"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "بدکارانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:08.689245671Z",
+  "model": "glm-5.3"
+}

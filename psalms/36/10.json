@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "کی پہ تئے زندگیءِ چشمہ اِنت؛ تہ توءِ روشنائیءَ ماں روشنائی گندنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "پہ تئے"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیءِ"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "تہ توءِ روشنائیءَ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "گندنت"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنائی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:27.781799585Z",
+  "model": "glm-5.3"
+}

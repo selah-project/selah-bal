@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اے لاویءِ زہگان اَنت، وتی ناماں گوں: گیرشون ءُ قہات ءُ مراری.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ءُ اَنت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاویءِ"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "وتی ناماں گوں"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گیرشون"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "ءُ قہات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ءُ مراری"
+    }
+  ],
+  "timestamp": "2026-09-24T19:28:29.632260674Z",
+  "model": "glm-5.3"
+}

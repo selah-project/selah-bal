@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 69,
+  "translation": "منجا مکن من اے ایلوہیم، پرچا کہ آپان مری چہ نَفشءَ رسِنتگ۔",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "منجا مکن من"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "مری رسِنتگ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفشءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:52.593382559Z",
+  "model": "glm-5.3"
+}

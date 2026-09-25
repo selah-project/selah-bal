@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 122,
+  "translation": "چڑھاںءِ گانی، پہ داود۔ ماں آ کہ ماءَ گوشتنت «یاہوہءِ گدانءَ گوَں روں»، شاد اَتم۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گانی"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "چڑھاںءِ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داود"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "شاد اَتم"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "ماں آ کہ گوشتنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گadanءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "گوَں روں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:16.439532625Z",
+  "model": "glm-5.3"
+}

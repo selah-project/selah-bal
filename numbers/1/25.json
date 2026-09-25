@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اِشانی شمار پہ گادءِ ٹولیءَ پنچ ءُ چالی ہزار ءُ شش سد ءُ پنجاه ⟨اَت⟩.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اِشانی شمار"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "پہ ٹولیءَ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ءُ چالی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ءُ پنجاه"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:48.437275118Z",
+  "model": "glm-5.3"
+}

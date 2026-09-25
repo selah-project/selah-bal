@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 2:13",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کی منی قوم دو گلانی کت؛ منی ⟨את⟩ دگ کت، زندگیں آپانی سرچشمہ، پہ آیانءَ کان ءُ کانِش کنت، شکستہ کان، کہ آپ نہ گرنیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "گلانی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قوم"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "منی"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "دگ کت"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "سرچشمہ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپانی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیں"
+    },
+    {
+      "surface": "לחצב",
+      "gloss": "پہ کان کنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پہ آیانءَ"
+    },
+    {
+      "surface": "בארות",
+      "gloss": "کان"
+    },
+    {
+      "surface": "בארת",
+      "gloss": "کان"
+    },
+    {
+      "surface": "נשברים",
+      "gloss": "شکستہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "گرنیت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:42:18.028470022Z",
+  "model": "glm-5.3"
+}

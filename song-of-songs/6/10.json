@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "کے آ اے کہ گندیت چوش صبحءِ روشنائی؟ جمیل چوش ماہ، صاف چوش خور، ڈرناک چوش پرچمدار لشکرانی؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "صبحءِ روشنائی"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جمیل"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "چوش ماہ"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "چوش خور"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ڈرناک"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "چوش پرچمدار لشکرانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:48.153579082Z",
+  "model": "glm-5.3"
+}

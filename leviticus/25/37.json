@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "⟨את⟩ توءِ زر نہ دیت آءَ تہ نیشکءَ، ءُ تہ مربیتءَ نہ دیت توءِ خوارک۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توءِ زر"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "توءِ زر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "تہ نیشکءَ"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "ءُ تہ مربیتءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "توءِ خوارک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:21.823128970Z",
+  "model": "glm-5.3"
+}

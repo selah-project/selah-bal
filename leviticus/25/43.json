@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "آءَ گوں سختیءَ راج نہ کر؛ ءُ تُجءِ ایلوہیمءَ چہ ڈر بگر۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "راج کر"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آءَ گوں"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "سختیءَ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ءُ ڈر بگر"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "تُجءِ ایلوہیمءَ چہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:30.225965273Z",
+  "model": "glm-5.3"
+}

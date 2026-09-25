@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ الیشع گadanءَ آت ءُ ایں کہ زہگ مرگوت، وتی گدانءِ سرءَ دراز بوت۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آت"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "الیشع"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گadanءَ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ ایں کہ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مرگوت"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "دراز بوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "وتی گadanءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:09:39.726442291Z",
+  "model": "glm-5.3"
+}

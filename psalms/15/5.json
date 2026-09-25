@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "وتی زر گوں سود نہ دیت ءُ رشوت پہ بے‌گناهءِ سرءَ نہ گرنت — آ کہ اے کاراں کنت، پہ ہمیشہ نہ لرزیت.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "وتی زر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "گوں سود"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "ءُ رشوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ …ءِ سرءَ"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بے‌گناه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "لرزیت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:22.160846447Z",
+  "model": "glm-5.3"
+}

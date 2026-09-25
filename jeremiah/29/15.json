@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "پرچا کہ شما گوَشتت: یاہوہءَ پہ شُما بابلءَ ⟨את⟩ پیغمبران اٹل کتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "شما گوَشتت"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "اٹل کتگ اِنت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "پہ شُما"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "⟨את⟩ پیغمبران"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "بابلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:57:13.454641087Z",
+  "model": "glm-5.3"
+}

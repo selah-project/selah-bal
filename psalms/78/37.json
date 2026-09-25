@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ اِشانی دل آییءَ گوں سابت نہ اَت، ءُ آییءِ عہدءَ تہ ساکار نہ بنت۔",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "ءُ اِشانی دل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "سابت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءَ گوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "ساکار بنت"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "آییءِ عہدءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:34.034896236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "اگر آ دیوار ⟨اِنت⟩، ما آئیءِ سرءَ یک برج ءُ زرءِ نبنیں؛ ءُ اگر آ دروازہ ⟨اِنت⟩، ما آئیءَ گوں ارزءِ تختاں بند کتیں۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨اِنت⟩"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "نبنیں"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آئیءِ سرءَ"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "برج"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زر"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨اِنت⟩"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "بند کتیں"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آئیءَ"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختی"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ارز"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:21.517641573Z",
+  "model": "glm-5.3"
+}

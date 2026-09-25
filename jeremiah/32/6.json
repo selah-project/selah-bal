@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ یرمیاہوءَ گوَشت: یاہوہءِ گال منءَ اَت، آءُ گوَشت —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہوءَ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آءُ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:58:34.933689462Z",
+  "model": "glm-5.3"
+}

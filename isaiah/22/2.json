@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "لُن چہ گوَنج — شہر گوَنجگ، شہر کشال — توءِ زخمیان ترارءِ زخمیان نہ اَنت، ءُ نہ جنګءِ مُرگان۔",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "گوَنجءِ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "لُن"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "گوَنجگ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "کشال"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "توءِ زخمیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "زخمیان"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ترارءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "مُرگان"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنګءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:27:56.681740991Z",
+  "model": "glm-5.3"
+}

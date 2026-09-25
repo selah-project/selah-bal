@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ماں پدران گنہ کت، اِش نیستنت؛ ما اِشانی گنہان پُشت کت.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ماں پدران"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "گنہ کت"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "اِش نیستنت"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "اِشانی گنہان"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "پُشت کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:36.040938648Z",
+  "model": "glm-5.3"
+}

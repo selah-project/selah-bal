@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اے مال چہ یک گناهءِ کارءَ تباه بوت، ءُ یک زہگ پیدا کت، ءُ آییءِ دستءَ ہچ نیست۔",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ءُ تباه بوت"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "اے مال"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "کارءَ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "گناهءِ"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ءُ پیدا کت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "آییءِ دستءَ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ہچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:55.742866421Z",
+  "model": "glm-5.3"
+}

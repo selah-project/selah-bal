@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "چوش ماہ آیی ہمیش پکا بیت، ءُ گواہ آسمانءَ تہ وفاں اِنت۔ سلاہ۔",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "چوش ماہ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "پکا بیت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ گواہ"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "آسمانءَ تہ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "وفاں اِنت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:30.638823464Z",
+  "model": "glm-5.3"
+}

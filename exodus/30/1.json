@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ تو یک قربانگاہ پہ سوختنءِ کیترت کن؛ چہ چوڑانی دار تُو آییءَ کن ⟨אתו⟩۔",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ تو کن"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "یک قربانگاہ"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "پہ سوختن"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "کیترت"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چوڑانی"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "دار"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تُو کن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:05:16.803342314Z",
+  "model": "glm-5.3"
+}

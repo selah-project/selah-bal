@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ یوباب مرد، ءُ آییءِ جاگہءَ ہوشام، چہ تیمنیانی زمینءَ، بادشاہ بیت۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوباب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاہ بیت"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "آییءِ جاگہءَ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ہوشام"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "چہ زمین"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "تیمنیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:41.336630636Z",
+  "model": "glm-5.3"
+}

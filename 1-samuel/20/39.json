@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ نوجوان ہچ چیزی نہ زانت؛ بلے یہونتان ءُ داؤد ⟨את⟩ گال زانتنت۔",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "ءُ نوجوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ہچ چیزی"
+    },
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہونتان"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ءُ داؤد"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "زانتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گال"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    }
+  ],
+  "timestamp": "2026-09-24T20:35:27.589997163Z",
+  "model": "glm-5.3"
+}

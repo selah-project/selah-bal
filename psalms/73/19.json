@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "چون گن یکے ویرانی بوتنت! چہ دہشتاںءَ پوریں پاک بوتنت.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چون"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوتنت"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "پاک بوتنت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "دہشتاںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:05.530072355Z",
+  "model": "glm-5.3"
+}

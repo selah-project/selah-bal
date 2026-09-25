@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "روح یاہوہءَ منءَ تہ گوَشت، ءُ آییءِ گال منی زبانءِ سرا ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منءَ تہ"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ءُ آییءِ گال"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "منی زبانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:52:15.395818417Z",
+  "model": "glm-5.3"
+}

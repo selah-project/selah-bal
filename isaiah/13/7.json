@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "پہ اے سبب کل دستان سُست بنت ءُ کل مرگیں دل آبی بیت.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے سبب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دستان"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "سُست بنت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ کل"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مرگیں"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "آبی بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:34.551234634Z",
+  "model": "glm-5.3"
+}

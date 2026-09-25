@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "یک تورا ءُ یک انصاف تُماںءَ بیت، ءُ مسافرءَ کہ مسافر اِنت ⟨את⟩ گوں تُماں.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ءُ انصاف"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُماںءَ"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ءُ مسافرءَ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "مسافر"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ گوں تُماں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:35:57.830646264Z",
+  "model": "glm-5.3"
+}

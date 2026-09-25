@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ چراغان یاہوہءِ پیشءَ روشن کت، چوش کہ یاہوہءَ ⟨את⟩ موشہءَ حکم کت۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ءُ روشن کت"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "چراغان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ءِ پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشہءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:17.912306848Z",
+  "model": "glm-5.3"
+}

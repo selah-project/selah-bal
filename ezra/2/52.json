@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "بتسلوت ءِ زہگان، مہیداہ ءِ زہگان، هرشاہ ءِ زہگان،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "بتسلوت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "مہیداہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "هرشاہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:52.436134057Z",
+  "model": "glm-5.3"
+}

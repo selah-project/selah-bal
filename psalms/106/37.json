@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "ءُ اِشاں وتی زہگان ءُ وتی جنکان ⟨את⟩ پہ شیداں قربانی کت.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "قربانی کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زہگان"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "وتی زہگان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "جنکان"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "وتی جنکان"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "پہ شیداں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:15.798999045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "تُوءَ چُست زنیں ⟨את⟩ آ شہرءِ رہونکانءَ تیغءِ لپءَ؛ آءَ حرام کانیں ءُ ⟨את⟩ گیشتر کہ آءِ تہ اِنت ءُ ⟨את⟩ آءِ مالءَ تیغءِ لپءَ۔",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "چُست زنیں"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "چُست زنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ شہرءِ رہونکانءَ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رہونکانءَ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہرءِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "لپءَ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تیغءِ"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "حرام کانیں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "آءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گیشتر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آءِ تہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مالءَ"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "مالءَ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "لپءَ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تیغءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:09.472108211Z",
+  "model": "glm-5.3"
+}

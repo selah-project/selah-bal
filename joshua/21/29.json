@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "⟨את⟩ یَرموت ءُ ⟨את⟩ آییءِ مگرش، ⟨את⟩ عین گنیم ءُ ⟨את⟩ آییءِ مگرش — چار شہر۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَرموت"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "یَرموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ مگرش"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "آییءِ مگرش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عین گنیم"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عین"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گنیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ مگرش"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "آییءِ مگرش"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-09-24T20:12:14.335255002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "سورچ ءُ نہ دیسکیت ءُ نہ زانیت؛ آےءَ پہ آے زیاتر آرام اِنت.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سورچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "رאה",
+      "gloss": "دیسکیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانیت"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "لזה",
+      "gloss": "آےءَ پہ"
+    },
+    {
+      "surface": "مזה",
+      "gloss": "چہ آے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:35.339080554Z",
+  "model": "glm-5.3"
+}

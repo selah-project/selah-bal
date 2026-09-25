@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "دروغءِ رستہ چہ منءَ دور کن، ءُ گوں توراتءَ منءَ مہربانی کن۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغءِ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "دور کن"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ منءَ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ءُ گوں توراتءَ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "منءَ مہربانی کن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:56.835511866Z",
+  "model": "glm-5.3"
+}

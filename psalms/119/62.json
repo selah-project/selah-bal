@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "شپیءِ مانگءَ ماں اُستین تُوءَ شکر کن ءُ پہ تُئیں راستیءِ فیصلہاں۔",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "مانگءَ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپیءِ"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ماں اُستین"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "شکر کن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُوءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "فیصلہاں"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "راستیءِ تُئیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:11.394581942Z",
+  "model": "glm-5.3"
+}

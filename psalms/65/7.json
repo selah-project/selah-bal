@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 65,
+  "translation": "کوہان وتی زورءَ ساکن کنت، قوتءَ کمر بستگیں اِنت۔",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "ساکن کنت"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوہان"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "وتی زورءَ"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "کمر بستگیں"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "قوتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:32.293156158Z",
+  "model": "glm-5.3"
+}

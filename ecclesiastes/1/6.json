@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "روت تہ جنوب ءُ گول زنت تہ اُتر؛ گول زنت گول زنت روت شال، ءُ وتی چکرانءَ مطابق پدا روت شال۔",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "جنوب"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ءُ گول زنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُتر"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "گول زنت"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "گول زنت"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "شال"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ مطابق"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "وتی چکرانءَ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "پدا روت"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "شال"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:34.569466239Z",
+  "model": "glm-5.3"
+}

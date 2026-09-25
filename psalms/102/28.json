@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "ءُ آ ءُ ہمے اِنت، ءُ آئیں سالان ءُچ نہ تمام بنت.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ءُ ہمے اِنت"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ءُ آئیں سالان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "تمام بنت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:43.678957055Z",
+  "model": "glm-5.3"
+}

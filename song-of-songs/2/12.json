@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "گلان زمینءَ چوک منتنت، گوشیں وہدءِ گال رسیت، ءُ شکریءِ آواز ماںءِ زمینءَ منی بیت۔",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "گلان"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "چوک منتنت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "گوشیں"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "گالءِ رسیت"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ءُ آواز"
+    },
+    {
+      "surface": "התור",
+      "gloss": "شکریءِ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "منی بیت"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ماںءِ زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:30.804402831Z",
+  "model": "glm-5.3"
+}

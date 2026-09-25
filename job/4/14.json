@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 4:14",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ڈر مءَ دیم بیت ءُ لرزش، ءُ مءِ ہڈیانی گیشی مءَ لرزائت۔",
+  "tokens": [
+    {
+      "surface": "پחד",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "مءَ دیم بیت"
+    },
+    {
+      "surface": "ורעדה",
+      "gloss": "ءُ لرزش"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "مءِ ہڈیان"
+    },
+    {
+      "surface": "הפחיד",
+      "gloss": "لرزائت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:44.493513251Z",
+  "model": "glm-5.3"
+}

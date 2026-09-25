@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "نشیت تاک ءُ چپ بیت، کہ ⟨آ⟩ آییءِ سرءَ آ دات۔",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "نشیت"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "تاک"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "ءُ چپ بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "دات"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:47.904221426Z",
+  "model": "glm-5.3"
+}

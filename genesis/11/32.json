@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ تارحءِ روچان پنچ سال ءُ دو سد سال اتنت، ءُ تارح ہارانءَ مرت.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ءُ اتنت"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارحءِ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ءُ دو سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارح"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "تہ ہارانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:28:50.745054678Z",
+  "model": "glm-5.3"
+}

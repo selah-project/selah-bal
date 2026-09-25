@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ داؤدءَ پہ یوآبءَ شت: بشیں منیءَ ⟨את⟩ اوریاہ حِتیءَ؛ ءُ یوآبءَ ⟨את⟩ اوریاہءَ پہ داؤدءَ شت۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ شت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤدءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآبءَ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بشیں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منیءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوریاہءَ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوریاہ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِتی"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ شت"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآبءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوریاہءَ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوریاہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:45:52.646600031Z",
+  "model": "glm-5.3"
+}

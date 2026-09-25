@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ آیے ⟨راست⟩ چہ یاہوہءِ چشمانی تہ کت، چوش گوں ہر چیز کہ داود آییءِ پِت کت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "⟨راست⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چہ چشمانی تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "چوش گوں ہر چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אביو",
+      "gloss": "آییءِ پِت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:17:14.521701967Z",
+  "model": "glm-5.3"
+}

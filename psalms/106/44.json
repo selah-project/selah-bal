@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "ءُ آیانی تنگیءَ گندیت، کہ ⟨את⟩ آیانی بانگ گوشت۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "تنگیءَ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آیانی"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "کہ گوشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آیانی بانگ"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "آیانی بانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:04.922273877Z",
+  "model": "glm-5.3"
+}

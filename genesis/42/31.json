@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ آءَ گوَشت: ما راستیں مرد اِنت، ما مرگ نہ اَنت.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ءُ آءَ گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "راستیں"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "مرگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:46:28.127912887Z",
+  "model": "glm-5.3"
+}

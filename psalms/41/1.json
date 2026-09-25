@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "پہ رہبرءَ، یک مزمور پہ داودءِ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہبرءَ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:32.418219025Z",
+  "model": "glm-5.3"
+}

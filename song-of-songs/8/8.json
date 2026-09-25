@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ماءِ یک نہزالیں خوش، ءُ ممان آییءِ نیست؛ مسی خوشءِ پہ چی کنیں روچءَ تہ کہ آییءِ گال کیت بیت؟",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماءِ"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "نہزالیں"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "ءُ ممان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کونیں"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "مسی خوشءِ پہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ تہ"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "کہ آییءِ گال کیت بیت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:48:04.001183222Z",
+  "model": "glm-5.3"
+}

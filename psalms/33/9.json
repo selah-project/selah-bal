@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "کی ہوہ گوَشت ءُ بوت؛ ہوہ حکم کت ءُ اُستات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہوہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہوہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ءُ اُستات"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:15.161811499Z",
+  "model": "glm-5.3"
+}

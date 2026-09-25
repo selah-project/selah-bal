@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "کیا کہ اِشاں آییءَ غلام بنت، ءُ زاننت منی خدمتءَ ءُ زمینانی ملکتانی خدمتءَ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ءُ زاننت"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "منی خدمتءَ"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "ءُ خدمتءَ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ملکتانی"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "زمینانی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:36:39.855862260Z",
+  "model": "glm-5.3"
+}

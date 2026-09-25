@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "هر اِش ⟨את⟩ وتی رفنکءَ مدد کنت ءُ وتی برا ءَ گوَشت: زور بگر۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "هر اِش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی رفنکءَ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "وتی رفنکءَ"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "مدد کنت"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ءُ وتی برا ءَ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "زور بگر"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:13.390340957Z",
+  "model": "glm-5.3"
+}

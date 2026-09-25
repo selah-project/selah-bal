@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "شمے پہ دگہ ہدایان مے دیمءَ نہ بیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "شمے پہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "دیمءَ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:51.950208764Z",
+  "model": "glm-5.3"
+}

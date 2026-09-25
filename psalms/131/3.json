@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 131,
+  "translation": "اِسرائیل، یاہوہءَ اُمید داریت، چہ اے وہتءَ ءُ ہمیشہ تایی۔",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "اُمید داریت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "چہ اے وہتءَ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تایی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:52.834783745Z",
+  "model": "glm-5.3"
+}

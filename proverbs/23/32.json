@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "آییءِ آخرت چوش مار گشکنت ءُ چوش ناگ زہر پخش کنت.",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "آییءِ آخرت"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "چوش مار"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "گشکنت"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "ءُ چوش ناگ"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "زہر پخش کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:09.349706292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یک مرد کہ گوں زنانی شپانی چوں ⟨את⟩ یک نرءَ شپیت، توئبہ آ دوئے کنتنت، موتءَ مریتنت، اِشانی خون اِشانی تہ اِنت.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ یک مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "شپیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نرءَ"
+    },
+    {
+      "surface": "زכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "شپانی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "توئبہ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کنتنت"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "آ دوئے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتءَ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "مریتنت"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "اِشانی خون"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اِشانی تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:38.010203921Z",
+  "model": "glm-5.3"
+}

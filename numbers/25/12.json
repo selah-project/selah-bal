@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "پس گو: ہن من آییءَ ⟨את⟩ منیءِ عہدءِ آشتی دینگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "پس"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گو"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ہن من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دینگ اِنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منیءِ عہدءِ آشتی"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "منیءِ عہد"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "آشتی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:12.401469126Z",
+  "model": "glm-5.3"
+}

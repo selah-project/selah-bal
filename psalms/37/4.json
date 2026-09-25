@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ یاہوہءَ تہ شاد بیت کن، ءُ آ تُہءِ دلءِ پرسشاں تُہءَ دیت.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "ءُ شاد بیت کن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "پرسشاں"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:20.155327188Z",
+  "model": "glm-5.3"
+}

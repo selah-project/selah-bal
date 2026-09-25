@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "من یاہوہءَ گوں چش انتظار کت، ءُ آیءَ منءَ لُڑیت ءُ منی بانگءَ گوشیت۔",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "چش انتظار"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "من کتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ءُ لُڑیت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ءُ گوشیت"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "منی بانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:25.300915479Z",
+  "model": "glm-5.3"
+}

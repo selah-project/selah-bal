@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 121,
+  "translation": "یاہوہ تئے نگہوانوک ⟨اِنت⟩، یاہوہ تئے سایہ ⟨اِنت⟩ تئے راست دستءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "تئے نگہوانوک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "تئے سایہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستءِ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تئے راست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:35.181264649Z",
+  "model": "glm-5.3"
+}

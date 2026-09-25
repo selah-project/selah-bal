@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ شموئیل شاؤلءِ پسات واپس روت، ءُ شاؤل یاہوہءَ سجدہ کت.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ءُ واپس روت"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پسات"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءِ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ءُ سجدہ کت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:32:08.882075216Z",
+  "model": "glm-5.3"
+}

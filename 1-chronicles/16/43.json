@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ تمام قوم روت، هر مردِ وتی گادءَ، ءُ داوود لپست آییءَ پہ برکت دئگ ⟨את⟩ آییءِ گاد.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر مردِ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "وتی گادءَ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ءُ لپست"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "پہ برکت دئگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ گاد"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "آییءِ گاد"
+    }
+  ],
+  "timestamp": "2026-09-25T00:28:27.831306708Z",
+  "model": "glm-5.3"
+}

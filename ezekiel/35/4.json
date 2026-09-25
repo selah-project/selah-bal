@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "توءِ شہر من خرابیءَ بندیت، ءُ تُو ویرانی بیت، ءُ توءَ کالپت بیت کہ من یاہوہ اِنت.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "توءِ شہر"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "خرابیءَ"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "بندیت"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تُو"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ءُ کالپت بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:24:20.155505057Z",
+  "model": "glm-5.3"
+}

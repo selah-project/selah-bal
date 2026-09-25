@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "وہد پہ روئنگ، ءُ وہد پہ خندنگ؛ وہد سوگءِ، ءُ وہد ناچءِ۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "پہ روئنگ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "پہ خندنگ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "سوگ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ناچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:39.297094746Z",
+  "model": "glm-5.3"
+}

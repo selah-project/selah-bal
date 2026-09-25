@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 55,
+  "translation": "اَہو، تریشتگانءِ ہر یک، روت آپءَ سرءَ، ءُ آ کہ آییءَ کسف نیست، روت، گریت ءُ گوشت؛ آئے روت، گریت بے کسف ءُ بے مہنگ یائے ءُ شیر۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "اَہو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر یک"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "تریشتگ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "روت"
+    },
+    {
+      "surface": "למים",
+      "gloss": "آپءَ سرءَ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ آ کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ اِنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "کسف"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "روت"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "گریت"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "آئے روت"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "گریت"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "بے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "کسف"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "ءُ بے"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "مہنگ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "یائے"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ءُ شیر"
+    }
+  ],
+  "timestamp": "2026-09-24T21:38:57.104503796Z",
+  "model": "glm-5.3"
+}

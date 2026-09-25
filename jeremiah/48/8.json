@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 48:8",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "ءُ یک تباہ کنوک ہر شہرءَ سرءَ آئیت، ءُ ہچ شہر نہ رہات بیت؛ ءُ وادی ہلاک بیت ءُ میدان ویران بیت، چوش کہ یاہوہ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آئیت"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "تباہ کنوک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ءُ شہر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמלט",
+      "gloss": "رہات بیت"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ءُ ہلاک بیت"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "ונשמד",
+      "gloss": "ءُ ویران بیت"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:03:38.264807932Z",
+  "model": "glm-5.3"
+}

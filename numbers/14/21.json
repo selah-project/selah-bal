@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "بلے من زندهءَ اِنت، ءُ یاہوہءِ شان ⟨את⟩ پوریں زمین پُر کنیت.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندهءَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ءُ پُر کنیت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں زمین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T19:35:27.094769396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ آییءِ زہگءِ اولیں زہگ عَبدون اَت، ءُ صُور ءُ قِیش ءُ بَعل ءُ نَداب،",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ءُ آییءِ زہگءِ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "اولیں زہگ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عَبدون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ءُ صُور"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ءُ قِیش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ءُ بَعل"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ءُ نَداب"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:01.119067230Z",
+  "model": "glm-5.3"
+}

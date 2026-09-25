@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ہاں، اگر تُو عقلءَ بانگ کنت ءُ پہ تہ بصیرتءَ تُری آواز اُچڑ کنت،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ہاں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "عقلءَ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "بانگ کنت"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "پہ تہ بصیرتءَ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیت \/ اُچڑ کنت"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "تُری آواز"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:51.466915538Z",
+  "model": "glm-5.3"
+}

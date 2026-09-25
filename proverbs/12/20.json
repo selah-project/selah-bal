@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "فریب دلءِ تہ بدیءِ نقشہ گرۅکاںءَ اِنت، ءُ شالئیءِ مشورت کنۅکاں پہ شادئی.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "فریب"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دلءِ تہ"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "نقشہ گرۅکاںءِ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "ءُ مشورت کنۅکاں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالئیءِ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادئی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:27.469011041Z",
+  "model": "glm-5.3"
+}

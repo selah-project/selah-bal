@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "زہگانی منشہ: اشرای‌ایل، آ کہ یَلد کت؛ آییءِ کنیزءَ، ارامیہ، ⟨את⟩ ماکیر یَلد کت — گلعادءِ پی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہ"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "اشرای‌ایل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "یَلد کت"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "آییءِ کنیز"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "ارامیہ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "یَلد کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماکیر"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماکیر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پی"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:01.623872894Z",
+  "model": "glm-5.3"
+}

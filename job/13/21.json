@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 13:21",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "تئے دست چہ منءَ دور کن، ءُ تئے ڈول مءَ نہ ترسیت.",
+  "tokens": [
+    {
+      "surface": "כפך",
+      "gloss": "تئے دست"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "چہ منءَ"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "دور کن"
+    },
+    {
+      "surface": "ו אמתך",
+      "gloss": "ءُ تئے ڈول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבעתני",
+      "gloss": "مءَ ترسیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:25.257068490Z",
+  "model": "glm-5.3"
+}

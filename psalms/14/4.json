@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "آیا نه داننت؟ همه باطلءِ کارکنوک، کہ منی قومءَ چوش نانءَ چوں گوشنت — اِشاں یاہوہءَ نه بانگ کت.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "آیا نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "داننت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کارکنوک"
+    },
+    {
+      "surface": "און",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "چوں گوشوک"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قوم"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "چوں رنت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "بانگ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:34.714281406Z",
+  "model": "glm-5.3"
+}

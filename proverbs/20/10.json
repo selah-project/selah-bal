@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "اے سنگ ءُ اے سنگ، اے ایفاہ ءُ اے ایفاہ — ہر دو یاہوہءِ توعباہ اِنت.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "اے سنگ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ءُ اے سنگ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "اے ایفاہ"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ءُ اے ایفاہ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "توعباہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہر دو… ہم"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ہر دو"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:55.249854089Z",
+  "model": "glm-5.3"
+}

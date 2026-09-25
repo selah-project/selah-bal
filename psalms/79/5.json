@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 79,
+  "translation": "تا چقدر، اے یاہوہ؟ آئے ہمیشہ دزبر بیت؟ آئےئِ کینگی چوش آپءَ جوشیت؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چقدر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "دزبر بیت"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "جوشیت"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آپءَ"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "آئےئِ کینگی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:39.209758518Z",
+  "model": "glm-5.3"
+}

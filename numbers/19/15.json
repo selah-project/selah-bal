@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ ہر کھولگاں برتن کہ آییءَ سرءَ رسیءِ بند نیست، اُو ناپاک اِنت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "کھولگاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "بند"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "رسیءِ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءَ سرءَ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُو"
+    }
+  ],
+  "timestamp": "2026-09-24T19:38:52.184580265Z",
+  "model": "glm-5.3"
+}

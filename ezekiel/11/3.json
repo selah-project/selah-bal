@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "اِشاں کہ گوشنت: نہ نزدیک اِنت کہ گدان جوڑ بنت؛ آ ⟨اِنت⟩ دیگ ءُ ما گوشت اِنت۔",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "اِشاں کہ گوشنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "جوڑ بنت"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "دیگ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ءُ ما"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:12:00.467729565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 81,
+  "translation": "تُہءَ بیگانہ ایل نہ بیت، ءُ تُو بیگانہ ایلءَ سجدہ نہ کنی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیگانہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "سجدہ نہ کنی"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایلءَ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بیگانہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:56.513002412Z",
+  "model": "glm-5.3"
+}

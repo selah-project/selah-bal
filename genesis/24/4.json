@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "بلے تُو منی ملکءَ ءُ منی زائمی جاگہءَ روت، ءُ منی زہگءِ پہ — یسحاقءِ پہ — یک جنک گر۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "منی ملک"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ … ءَ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "منی زائمی جاگہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تُو روت"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ءُ گر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "یک جنک"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "منی زہگءِ پہ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "یسحاقءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:33:20.458798051Z",
+  "model": "glm-5.3"
+}

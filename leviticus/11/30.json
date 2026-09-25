@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ چپٹکی ءُ گڑدزہگ ءُ وزیج ءُ شِلماچ ءُ رنگیں وزیج۔",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "ءُ چپٹکی"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "ءُ گڑدزہگ"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ءُ وزیج"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "ءُ شِلماچ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ءُ رنگیں وزیج"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:49.000854105Z",
+  "model": "glm-5.3"
+}

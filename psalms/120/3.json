@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 120,
+  "translation": "چہ چی توءَ دیت بیت، ءُ چہ چی توءِ سرءَ زیاد بیت، اے فریبءِ زبان؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چہ چی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چہ چی"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "زیاد بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءِ سرءَ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "اے فریبءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:28.742543088Z",
+  "model": "glm-5.3"
+}

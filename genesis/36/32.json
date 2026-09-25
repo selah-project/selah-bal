@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ بلا بعرءِ زہگ ادومءَ شاہ بوت، ءُ آییءِ شہرءِ نام دنہبہ اَت۔",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "شاہ بوت"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ادومءَ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "بعرءِ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ءُ نام"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "آییءِ شہرءِ"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "دنہبہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:49:47.667451688Z",
+  "model": "glm-5.3"
+}

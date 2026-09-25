@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ ہپت روچ پُر بیت چہ پدا، کنہ کہ یاہوہءَ ⟨את⟩ دریاءَ زتی.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "پُر بیت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "چہ پدا"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "زتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دریاءَ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "دریاءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:53:13.885429353Z",
+  "model": "glm-5.3"
+}

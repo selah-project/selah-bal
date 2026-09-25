@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 82,
+  "translation": "دال ءُ گداڑءَ رہا کنئے، رستگارانءِ دستءَ چہ نجات بدارئے۔",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "رہا کنئے"
+    },
+    {
+      "surface": "דל",
+      "gloss": "دال"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ءُ گداڑءَ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "دستءَ چہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رستگارانءِ"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "نجات بدارئے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:39.295982552Z",
+  "model": "glm-5.3"
+}

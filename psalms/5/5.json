@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "کیہ کہ تُو ایل نہ اِنت کہ رست‌کوشیءَ چُش بیت، بُرائی تہءَ نہ مانیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چُش بیت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رست‌کوشیءَ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "تہءَ مانیت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُرائی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:03.406095394Z",
+  "model": "glm-5.3"
+}

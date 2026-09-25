@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "آییءَ رضا نہ دی، آییءَ گوش نہ کن؛ ءُ نہ تیءِ چشم آییءَ تہ دلسوزی آرائت، ءُ نہ بخشی، ءُ نہ آییءَ پوشی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "رضا نہ دی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "گوش نہ کن"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "وלא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "دلسوزی نہ آرائت"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیءِ چشم"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "نہ بخشی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "نہ پوشی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:59.060813857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "کُہ پسریت اِنت کہ زینگ بیت ءُ مورت نہ گندیت؟ آءِ جان چہ شیئولءِ دستءَ رہائی کنت؟ سیلہ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کُہ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "پسریت"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "زینگ بیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مورت"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "رہائی کنت"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "آءِ جان"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "چہ دستءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیئول"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سیلہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:51.578101838Z",
+  "model": "glm-5.3"
+}

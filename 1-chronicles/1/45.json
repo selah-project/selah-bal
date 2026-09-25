@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یوباب مرت، ءُ آییءِ جاگہءَ چوشام پادشاہ بیت، چہ تیمنیءِ زمینءَ۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوباب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ءُ پادشاہ بیت"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "آییءِ جاگہءَ"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "چوشام"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "چہ زمینءَ"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "تیمنی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:36.475869504Z",
+  "model": "glm-5.3"
+}

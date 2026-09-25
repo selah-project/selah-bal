@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ موشہءَ یاہوہءِ مقرریں وہداں ⟨את⟩ یسرائیلءِ زہگانءَ گوَشت.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقرریں وہدان"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "مقرریں وہدان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ … ءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:34.607078868Z",
+  "model": "glm-5.3"
+}

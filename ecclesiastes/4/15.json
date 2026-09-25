@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "من ⟨את⟩ تمام زندگانیانی گت کہ آفتابءِ تہءَ رونت، گوں دومی زہگءَ کہ آییءِ جاگہءَ ایستیت۔",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "من گت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام زندگانی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگانی"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "رونت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "آفتابءِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "زہگءَ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ایستیت"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "آییءِ جاگہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:13.493759862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یورام آییءِ زہگ، احزیاہو آییءِ زہگ، یواش آییءِ زہگ.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "یورام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "احزیاہو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یواش"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:45.842338165Z",
+  "model": "glm-5.3"
+}

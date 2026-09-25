@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "کی من زانت من کہ یاہوہ گیش اِنت، ءُ اے ادونایِ ما چہ گش ہدایان۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "من کہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "ءُ اے ادونایِ ما"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ گش"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:47.495988443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "راشتیں مردءِ زبان چنگینتیں سیم اِنت؛ بدکارانی دل چو کمتر چیز۔",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "سیم"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "چنگینتیں"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راشتیں مردءِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "چو کمتر چیز"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:39.227697472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "گیتنگ، مزمور، پہ آساف",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیتنگ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "پہ آساف"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:24.397461684Z",
+  "model": "glm-5.3"
+}

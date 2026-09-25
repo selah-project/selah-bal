@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "تُہءَ گل کتنت ءُ رہا بوتنت؛ تُہءَ بھار کتنت ءُ شرم نہ اَتنت۔",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "گل کتنت"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ءُ رہا بوتنت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "بھار کتنت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "شرم اَتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:58.681040431Z",
+  "model": "glm-5.3"
+}

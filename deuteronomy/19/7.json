@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "آئیءِ پہ اے کہ من تءَ حکم کنت ءُ گوَشم: تءَ پہ تئے سئے شاراں جتا کن.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آئیءِ پہ اے"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تءَ حکم کنت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ءُ گوَشم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شاراں"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "جتا کن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:54.187091683Z",
+  "model": "glm-5.3"
+}

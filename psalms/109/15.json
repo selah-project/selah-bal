@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "آ همیشہ یاہوہءَ پیش بنت، ءُ زمینءَ چہ آشانی یاد پاک کنت.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "پیش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "همیشہ"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ءُ پاک کنت"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمینءَ چہ"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "آشانی یاد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:23.866401844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "نہ دانائی اِنت، ءُ نہ فہم، ءُ نہ مشورت یاہوہءِ مقابلءَ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نہ ... اِنت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "فہم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورت"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "مقابلءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:24.691664570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "کے چڑیت یاہوہءِ کوهءَ تہ، ءُ کے اِستات آییءِ پاک جاگہءَ تہ؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑیت"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوهءَ تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کے"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اِستات"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جاگہءَ تہ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "آییءِ پاک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:07.041174644Z",
+  "model": "glm-5.3"
+}

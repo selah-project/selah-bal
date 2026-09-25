@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ اگر اِشوما لڑ روت ءُ ⟨את⟩ ہمگ اے فرمان نہ کنیت کہ یاہوہءَ موشہءَ لُٹ گوَشتگ۔",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "اِشوما لڑ روت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمگ اے فرمان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لُٹ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:37:05.592944630Z",
+  "model": "glm-5.3"
+}

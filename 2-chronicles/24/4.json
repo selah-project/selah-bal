@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ رند چہ اے بوت، کہ یوآشءِ دلءَ گوں اَت کہ یاہوہءِ ⟨את⟩ گدان نو کنت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "رند چہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآشءِ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "پہ نو کنگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گدان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:41:31.954798086Z",
+  "model": "glm-5.3"
+}

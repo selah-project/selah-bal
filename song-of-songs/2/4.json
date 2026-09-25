@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "آءُ منے شربءِ گدانءَ آورد، ءُ آییءِ پرچم منی سرءَ محبت اِنت.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "آءُ منے آورد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پیش"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شربءِ"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "ءُ آییءِ پرچم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرءَ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "محبت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:45.996167504Z",
+  "model": "glm-5.3"
+}

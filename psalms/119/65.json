@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "چنگ کتئی گوں تئی بندگءَ، اے یاہوہ، چہ تئی گالءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کتئی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تئی بندگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "چہ تئی گالءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:12.000912711Z",
+  "model": "glm-5.3"
+}

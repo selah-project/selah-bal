@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ چہ دارءِ زانتنیءِ چنگ ءُ بُرائت نہ چہ آءَ وریت، پرچا کہ تہ اے روچءَ کہ چہ آءَ وریت، مرگءَ مریت.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "ءُ چہ دار"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "زانتنیءِ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ءُ بُرائت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "وریت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "تہ اے روچءَ"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "کہ وریت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آءَ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگءَ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مریت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:36.966425956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 95,
+  "translation": "کہ من مے غضبءَ قسم گپتگ منم کہ اِشاں ھرچند منی آسایشءَ نہ اَنت۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "قسم گپتگ منم"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "مے غضبءَ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کہ ھرچند"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "منی آسایش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:48.124055182Z",
+  "model": "glm-5.3"
+}

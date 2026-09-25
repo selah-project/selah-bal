@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ بت شبع شاہءَ لڑ آت، آییءِ کمرگءَ؛ ءُ شاہ گیش زال بوتگ اَت؛ ءُ ابیشگ شونمی شاہءَ ⟨את⟩ خدمت کت.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ءُ آت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "بع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لڑ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ شاہءَ"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "آییءِ کمرگءَ"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ءُ شاہ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "زال بوتگ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "ءُ ابیشگ"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "شونمی"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "خدمت کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ شاہءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ شاہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:52:55.552942977Z",
+  "model": "glm-5.3"
+}

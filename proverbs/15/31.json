@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "گوش کہ زندگیءِ مذمتءَ گوشیت، داناں مانءَ تھاہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "مذمتءَ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیءِ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "مانءَ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "داناں"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "تھاہ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:05.839270111Z",
+  "model": "glm-5.3"
+}

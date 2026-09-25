@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 12:13",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ اِشا اے شاہ اِنت کہ شما چونی ءُ اے کہ شما وانگت — ءُ اِشا یاہوہءَ تہ شماءَ شاہ دات۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اِشا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "اے شاہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "شما چونی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "شما وانگت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ اِشا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تہ شماءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:29:06.962907665Z",
+  "model": "glm-5.3"
+}

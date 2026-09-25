@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "راستءَ ہچ روزگی نہ رسیت، ءُ زالم مردم چہ برا ءُ بادیءَ پر اَنت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "رسیت"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "راستءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہچ"
+    },
+    {
+      "surface": "און",
+      "gloss": "روزگی"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ءُ زالم مردم"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "پر اَنت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا ءُ بادی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:57.144956684Z",
+  "model": "glm-5.3"
+}

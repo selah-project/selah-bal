@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "خفہ مکن پہ برائیءِ مردم، ⟨مکن⟩ حسد پہ بدکاران۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "خفہ مکن"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "پہ برائیءِ مردم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حسد مکن"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "پہ بدکاران"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:43.746985071Z",
+  "model": "glm-5.3"
+}

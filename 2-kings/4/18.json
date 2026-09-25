@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 4:18",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ زہگ گیش بوت، ءُ روچ اَت، ءُ او وتی پیتءَ روت، دروئندیںءِ سرئَ۔",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ءُ گیش بوت"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "وتی پیتءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "دروئندیںءِ سرئَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:09:28.955849837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "سوجیت، کم‌عقلانءو قومانءِ تہ، ءُ نادانان، کڈیاں عاقل بیت؟",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "سوجیت"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "کم‌عقلانءو"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "قومانءِ تہ"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ءُ نادانان"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کڈیاں"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "عاقل بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:46.198749421Z",
+  "model": "glm-5.3"
+}

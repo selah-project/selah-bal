@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 29:1",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "دہمیں سالءَ، دہمیں ماہءَ، دو دہمیں روچءَ، یاہوہءِ گال منءَ اَت، آ گوَشیتءَ پہ:",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "העשירית",
+      "gloss": "دہمیں"
+    },
+    {
+      "surface": "בעשרי",
+      "gloss": "دہمیں"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "لחדש",
+      "gloss": "ماہءَ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَشیتءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:20:47.972439494Z",
+  "model": "glm-5.3"
+}

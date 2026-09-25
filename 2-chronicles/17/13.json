@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 17:13",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ آییءَ یہوداہءِ شہرانءَ گیش کار بوت، ءُ یروشلمءَ جنگءِ مرد، زورانی گبور، اِشتن۔",
+  "tokens": [
+    {
+      "surface": "ומלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شہرانءَ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ءُ مرد"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگءِ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "زورانی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "گبور"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:38:20.782150198Z",
+  "model": "glm-5.3"
+}

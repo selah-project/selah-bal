@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "پہ چی ڈر کنم برتانی روچانی تہ، گناه منیں پدءِ منیءَ گھیر ایت.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "پہ چی"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ڈر کنم"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "روچانی تہ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برتانی"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "منیں پدءِ"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "منیءَ گھیر ایت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:22.143090439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 13:17",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "کی یک گال منءَ گوں یاہوہءِ گال گوَشتگ اِنت: نان نہ گندیں ءُ نہ آپ اودا شُتیں، ءُ نہ پدا روت اے راہءَ روٹ کہ تو اودا روتی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "گوں گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "گندیں"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "شُتیں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "پدا روت"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "پہ روگ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "روتی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اودا"
+    }
+  ],
+  "timestamp": "2026-09-25T00:58:34.815647447Z",
+  "model": "glm-5.3"
+}

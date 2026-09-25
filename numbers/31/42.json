@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ چہ بنی اسرائیلءِ نیمگءَ، کہ موشہءَ آییءَ چہ لشکری مردمانءَ جتا کت —",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ءُ چہ نیمگءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "دو نیم کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "لشکری"
+    }
+  ],
+  "timestamp": "2026-09-24T19:43:20.836979881Z",
+  "model": "glm-5.3"
+}

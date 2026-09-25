@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "تُوءِ زدگار مءِ سراچ درا کن؛ تُوءِ دستءِ زورءَ من ہالاک بوت اَتمن۔",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "درا کن"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "مءِ سراچ"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "تُوءِ زدگار"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "زدءَ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تُوءِ دست"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "כליתی",
+      "gloss": "ہالاک بوت اَتمن"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:03.115037231Z",
+  "model": "glm-5.3"
+}

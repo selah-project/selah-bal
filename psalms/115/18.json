@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 115,
+  "translation": "ءُ ما یاہءَ برکت داریں چہ ایشتا ءُ تا ہمیشہ — ستاینت اے یاہ.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "ءُ ما"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "برکت داریں"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہءَ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "چہ ایشتا"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستاینت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "اے یاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:49.808090293Z",
+  "model": "glm-5.3"
+}

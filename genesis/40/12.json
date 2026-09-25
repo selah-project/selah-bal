@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ یوسف آییءَ گوَشت: اے آییءِ تعبیر اِنت — سئے شاخان سئے روچ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "آییءِ تعبیر"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "شاخان"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:43:26.052552602Z",
+  "model": "glm-5.3"
+}

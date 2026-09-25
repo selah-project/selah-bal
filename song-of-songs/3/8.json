@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ہمگ شمشیر گپتگ، جنگءَ سیکل بوتگ؛ ہر مرد وتی شمشیر وتی رانءِ سرءَ، شپانیں پچھاءَ پہ.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "گپتگ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "سیکل بوتگ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگءِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر مرد"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "وتی شمشیر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "وتی رانءِ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "پچھاءَ پہ"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "شپانیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:08.607529448Z",
+  "model": "glm-5.3"
+}

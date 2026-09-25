@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ما اُد وہدءَ زمین ⟨את⟩ چہ دستءَ دو شاہانی اموری گپت، کہ یاردنءِ پَلنگءَ اِنت، چہ ارنونءِ نہالءَ تا حرمونءِ کوه.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "ءُ گپت"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اُد وہدءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "چہ دستءَ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "شاہانی"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "پَلنگءَ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردن"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "چہ نہالءَ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ارنون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حرمون"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:25.236669070Z",
+  "model": "glm-5.3"
+}

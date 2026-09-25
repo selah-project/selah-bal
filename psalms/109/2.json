@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "کیہ روانی بد ءُ روانی فریب منی سرا کشتنت؛ گوں ⟨את⟩ من گوَشتنت زبانِ دروغ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "روانی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ءُ روانی"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فریب"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرا"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "کشتنت"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "گوَشتنت"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "گوں ⟨את⟩ من"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:38.870115131Z",
+  "model": "glm-5.3"
+}

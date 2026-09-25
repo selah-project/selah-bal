@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 99,
+  "translation": "یاہوہ تہ صیونءَ گیش اِنت، ءُ آ بلند اِنت تمام قومانءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "تہ صیونءَ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ءُ بلند"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:58.404144901Z",
+  "model": "glm-5.3"
+}

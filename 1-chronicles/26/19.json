@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 26:19",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "اے دروازہ چیانءِ ونڈ اِنت — کورہیءِ زہگانءَ ءُ میراریءِ زہگانءَ۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "ونڈ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازہ چیانءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زہگانءَ"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "کورہیءِ"
+    },
+    {
+      "surface": "وלבני",
+      "gloss": "ءُ زہگانءَ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "میراریءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:31:46.465309126Z",
+  "model": "glm-5.3"
+}

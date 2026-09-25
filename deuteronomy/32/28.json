@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "کیہ آ ہک قوم اِنت کہ بے مشورہ گنیت، ءُ آیانیں تہ تفہیم نیست.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "بے مشورہ گنیت"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "مشورہ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "آیانیں تہ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "تفہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:27.567967122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ہیسید ءُ راستیءَ گوں عصیان پوش بیت؛ ءُ یاہوہءِ ترسءَ ⟨چہ⟩ گندیںءَ پرٹ۔",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "ہیسیدءَ گوں"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ءُ راستی"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "پوش بیت"
+    },
+    {
+      "surface": "עון",
+      "gloss": "عصیان"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "ءُ ترسءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "סור",
+      "gloss": "پرٹ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "چہ گندیںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:42.032921200Z",
+  "model": "glm-5.3"
+}

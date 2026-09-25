@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ زمینءِ ساراں معشر — چہ زمینءِ داں، چہ دارءِ میوہ — یاہوہءِ اِنت؛ آ یاہوہءَ پہ مقدس اِنت۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ساراں"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "معشر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "چہ داں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "چہ میوہ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دارءِ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:31.087704928Z",
+  "model": "glm-5.3"
+}

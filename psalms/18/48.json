@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "⟨آ⟩ ایل کہ منءَ انتقام دیت ءُ قوماں منی تلءَ دپت کت۔",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "کہ دیت"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "انتقام"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ دپت کت"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "منی تلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:24.211467254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 19:15",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "یک گواہ کسےءِ سرءَ نہ اُستانیں — پہ ہچ گناه ءُ پہ ہچ چوکی، تہ ہر چوکءَ کہ آ چوک کنت؛ دو گواہانی دہنءَ یا سئے گواہانی دہنءَ کلام اُستانیں بیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُستانیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "کسےءِ سرءَ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہچ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ءُ پہ ہچ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "چوکی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہچ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "چوک کنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دہن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہانی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دہن"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہانی"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُستانیں بیت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:18.879933292Z",
+  "model": "glm-5.3"
+}

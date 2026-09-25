@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 66:23",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "ءُ بیت کہ چہ ماہے گوں ماہے ءُ چہ شباتے گوں شباتے، مچھ گوشت منی پیش سجدہ کننتے روت، گوَشت یاہوہ۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت کہ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ماہے"
+    },
+    {
+      "surface": "בחדשו",
+      "gloss": "گوں ماہے"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شباتے"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "گوں شباتے"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "مچھ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "سجدہ کنت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "منی پیش"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:43:14.986069714Z",
+  "model": "glm-5.3"
+}

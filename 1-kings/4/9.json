@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ڈیکرءِ زہگ — مکزءَ ءُ شعلبیمءَ ءُ بیت شمشءَ ءُ ایلون بیت حنانءَ",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "ڈیکر"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "مکزءَ"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "ءُ شعلبیمءَ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شمش"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ءُ ایلون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حنان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:57:50.097568377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ یاہوہءَ موشہءَ گوَشت کہ بگوشیت:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "موشہءَ (گوں)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ بگوشیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:52.287098606Z",
+  "model": "glm-5.3"
+}

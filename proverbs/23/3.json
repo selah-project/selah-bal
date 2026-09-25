@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "آءِ مزہ داراناں چاہش نہ کن، ءُ آ دروگیں خوراک اِنت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "چاہش نہ کنءِ"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "آءِ مزہ دارانءَ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "دروگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:48.087374348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ⟨את⟩ گَوڑءَ کُتنت ءُ ⟨את⟩ زہگءَ اِلیءَ لَ برتنت.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "ءُ کُتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گَوڑءَ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گَوڑ"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ءُ برتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زہگءَ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لَ پہ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اِلی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:26:31.915827993Z",
+  "model": "glm-5.3"
+}

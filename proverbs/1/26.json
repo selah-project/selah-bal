@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "گونے من شمایئِ آفتءَ تہ ہنسیت، شمایئِ ڈرءِ آتنگءَ تہ تمسخر کنیت۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "گونے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "شمایئِ آفتءَ تہ"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "ہنسیت"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "تمسخر کنیت"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "آتنگءَ تہ"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "شمایئِ ڈرءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:08.299453311Z",
+  "model": "glm-5.3"
+}

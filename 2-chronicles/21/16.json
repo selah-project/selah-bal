@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ یاہوہ یہورامءِ سرءَ ⟨את⟩ فلستیاںءِ ءُ عرباںءِ رُوح چه کوشیاںءِ گوَن جاگ کت۔",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "ءُ جاگ کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "یہورامءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رُوح"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "فلستیاںءِ"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "ءُ عرباںءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "چه دیم"
+    },
+    {
+      "surface": "יד",
+      "gloss": "گوَن"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "کوشیاںءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:40:56.203909175Z",
+  "model": "glm-5.3"
+}

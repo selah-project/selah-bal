@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ اَبرام روت، روت ءُ روت دَمءَ.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَبرام"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "וונסוע",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "دَمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:53.340862972Z",
+  "model": "glm-5.3"
+}

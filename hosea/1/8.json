@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آیی ⟨את⟩ لو رُحامہءَ دود بند کت، ءُ گوہیم ءُ یک زہگ زائیت۔",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "ءُ دود بند کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لو رُحامہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لو"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "رُحامہ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ءُ گوہیم"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:30:19.686208892Z",
+  "model": "glm-5.3"
+}

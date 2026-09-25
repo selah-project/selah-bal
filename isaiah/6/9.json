@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ گوَشت: روت ءُ اے قومءَ بگوش: گوشیں گوشیت ءُ نہ مانیت؛ گندیں گندیت ءُ نہ زانت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ءُ بگوش"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "گوشیں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תבינو",
+      "gloss": "مانیت"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "گندیں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "زانت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:23:04.015240766Z",
+  "model": "glm-5.3"
+}

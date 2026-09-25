@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 115,
+  "translation": "گوش اِشاںءَ اِنت بلے نہ گوشنت؛ نَپ اِشاںءَ اِنت بلے نہ بوئنت.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "بلے نہ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نَپ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "بلے نہ"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "بوئنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:43.196600760Z",
+  "model": "glm-5.3"
+}

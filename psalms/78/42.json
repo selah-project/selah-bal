@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "آییءِ ⟨את⟩ دستءَ یاد نہ کنتنت، روچ کہ آیانءَ چہ دشنمنءَ رہائی دیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "یاد کنتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ دستءَ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "آییءِ دست"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "رہائی دیت"
+    },
+    {
+      "surface": "מני",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشنمنءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:43.744230417Z",
+  "model": "glm-5.3"
+}

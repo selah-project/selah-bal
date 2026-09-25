@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 134,
+  "translation": "شماءِ دستان اُٹاریں مقدس جاگہءَ، ءُ یاہوہءَ ⟨את⟩ برکت دیں.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "اُٹاریں"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "شماءِ دستان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس جاگہ"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ءُ برکت دیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:17.305759763Z",
+  "model": "glm-5.3"
+}

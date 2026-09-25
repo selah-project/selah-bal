@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 5:27",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ بادشاہءَ سلیمانءَ چہ گیش اسرائیلءَ بیگار بلند کت؛ ءُ بیگار سی ہزار مرد اَت۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ءُ بلند کت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہءَ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سلیمانءَ"
+    },
+    {
+      "surface": "מס",
+      "gloss": "بیگار"
+    },
+    {
+      "surface": "مכל",
+      "gloss": "چہ گیش"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "המס",
+      "gloss": "بیگار"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:19.350142050Z",
+  "model": "glm-5.3"
+}

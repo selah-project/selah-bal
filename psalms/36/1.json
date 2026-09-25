@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "پہ پیشوا — یاہوہءِ بندہ داؤدءِ λόγوس زبوتیں گیتار.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "پہ بندہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داؤد"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:56.668518655Z",
+  "model": "glm-5.3"
+}

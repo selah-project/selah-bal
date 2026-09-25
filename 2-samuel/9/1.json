@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ داودءَ گوَشت: آیا تہ شاولءِ گدءَ ہچ یکے هنوز مانیت، کہ من اونتے گوں ہیسد کنم پہ بابت یہونتان؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هنوز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "مانیت"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "تہ گدءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ءُ کنم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں اونتے"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ہیسد"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "پہ بابت"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہونتان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:57:45.735138552Z",
+  "model": "glm-5.3"
+}

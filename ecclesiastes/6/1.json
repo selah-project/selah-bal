@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ہست یک گندی کہ ماں تہ روچءِ زیرءَ گندیت، ءُ برز اِنت آدمءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "یک گندی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "رאיתי",
+      "gloss": "ماں گندیت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ءُ برز"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ہאדم",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:01.496517315Z",
+  "model": "glm-5.3"
+}

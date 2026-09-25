@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 120,
+  "translation": "اے یاہوہ، منیءِ نپش چہ دروغءِ لبءَ ءُ چہ فریبءِ زبانءَ نجات بہ دہ۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "نجات بہ دہ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منیءِ نپش"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "چہ … لبءَ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "چہ … زبانءَ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "فریب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:28.742366375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ سیحون ماں بگرت روں درآوت، آ ءُ آییءِ سرکین قوم، پہ جنگءَ، تہ یَہَص۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ درآوت"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "سیحون"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ماں بگرت روں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ سرکین"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ قوم"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "پہ جنگءَ"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "تہ یَہَص"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:05.857776884Z",
+  "model": "glm-5.3"
+}

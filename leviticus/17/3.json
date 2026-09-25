@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "اِسرائیلءِ گدءِ چہ هر کس کہ گوں یا مَرئیگ یا بزءَ ماں پڑءَ بُرچیت، یا چہ ماں پڑءِ بیرونءَ بُرچیت —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "کس"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر کس"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "چہ گدءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "بُرچیت"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "مَرئیگ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עז",
+      "gloss": "بزءَ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ماں پڑءَ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "بُرچیت"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بیرونءَ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "پہ\/چہ پڑ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:20:00.290694324Z",
+  "model": "glm-5.3"
+}

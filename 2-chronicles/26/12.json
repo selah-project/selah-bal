@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "پوریں شمار پترانیءِ سرانءِ، بہادریں زورءِ مردمانی، دو ہزار ءُ شش سد ⟨اَت⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرانءِ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "پترانیءِ"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "بہادریں"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زورءِ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-25T00:43:23.798590076Z",
+  "model": "glm-5.3"
+}

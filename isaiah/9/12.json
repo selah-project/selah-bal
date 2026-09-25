@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ قوم آءِ مارنوکءَ شُ نہ کت، ءُ ⟨את⟩ یاہوہ سباؤتءَ نہ جُست کت.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ءُ قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "شُ کت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "آ"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "آءِ مارنوکءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یاہوہ سباؤتءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "جُست کت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:21.269124151Z",
+  "model": "glm-5.3"
+}

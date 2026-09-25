@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کشتیءَ چہ درات برو: تو ءُ تئی جنک ءُ تئی زہگان ءُ تئی زہگانی جنکان گوں ⟨את⟩ تُہ۔",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "برو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتیءَ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "وאשתך",
+      "gloss": "ءُ تئی جنک"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ءُ تئی زہگان"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ءُ … جنکان"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "تئی زہگانی"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "گوں ⟨את⟩",
+      "marks": "تو"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:46.206293512Z",
+  "model": "glm-5.3"
+}

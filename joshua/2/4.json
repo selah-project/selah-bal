@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ زنےکءَ ⟨את⟩ دو کسانءَ گرت ءُ آءَ پوشیت، ءُ گوَشت: ایں، کسان مءَ آتنت، بلے من نہ زانتم کہ چہ کجا آءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "گرت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زنےکءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "کسانءَ"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "ءُ آءَ پوشیت"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آتنت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "کسان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زانتم"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "چہ کجا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:05:12.268847278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "اِلعازار ⟨את⟩ پینحس زائیت؛ پینحس ⟨את⟩ اِبیشوعءَ زائیت.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پینحس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینحس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینحس"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِبیشوعءَ"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "اِبیشوعءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:08.730227942Z",
+  "model": "glm-5.3"
+}

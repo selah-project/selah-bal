@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "نہ ئے گو، چرے اولیں روچاں چہ اے شین چنگ اَت، پرچا کہ تُو اے بابتءَ داناییءَ گوں نہ پُرسشت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ ئے"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "گو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چرے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "کہ روچاں"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "اولیں"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "چہ اے شین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "داناییءَ گوں"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "پُرسشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بابتءَ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:18.940114892Z",
+  "model": "glm-5.3"
+}

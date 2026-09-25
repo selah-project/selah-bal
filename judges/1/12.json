@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ کالِب گوَشت: جے کہ قریت سفرءَ ⟨את⟩ مار دیت ءُ آءَ گپت، من آءَ ءُ ⟨את⟩ عکسہءَ — منی جنک — زالءَ دیں.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جے کہ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مار دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قریت سفر"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفرءَ"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ءُ آءَ گپت"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ءُ من دیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عکسہ"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "عکسہءَ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "منی جنک"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زالءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:13:38.056949703Z",
+  "model": "glm-5.3"
+}

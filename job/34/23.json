@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "کی نہ پدا یک مردءِ سرءَ گنیت، کہ آ روت اِلءَۓ تہ انصافءَ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "گنیت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "کہ آ روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِلءَۓ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "تہ انصافءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:42:24.896979567Z",
+  "model": "glm-5.3"
+}

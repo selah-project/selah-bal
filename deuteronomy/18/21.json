@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ اگر تُہ تہ دلءَ گوَشیت: چون زانیں ⟨את⟩ گپ کہ یاہوہ آ نہ گوَشت؟",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "گوَشیت"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "تہ دلءَ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "چون"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "زانیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گپ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:07.878681501Z",
+  "model": "glm-5.3"
+}

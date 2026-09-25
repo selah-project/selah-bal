@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ یاہوہءَ پشیمان بوت کہ ⟨את⟩ مردمءَ زمینءَ جوڑ کتگءُ، ءُ وتی دلءَ تہ غمگین بوت۔",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ءُ پشیمان بوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کتگءُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردمءَ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردمءَ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "ءُ غمگین بوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "وتی دلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:26.910944386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ کاہنءِ جنک پرچا کہ یکے بیگانہ مریءَ بیت، آ تراومتءِ راہءَ پاکیں شیاناں نہ یِرِت۔",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "ءُ جنک"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "مریءَ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیگانہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "تراومتءِ راہءَ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاکیں شیاناں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "یِرِت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:55.631643760Z",
+  "model": "glm-5.3"
+}

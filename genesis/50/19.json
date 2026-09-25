@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "ءُ یوسف اِشاںءَ گوَشت: نہ ڈرس؛ چہ ما ایلوہیمءِ جاگہءَ ہستاں؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ڈرس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "jaگہءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ما ہستاں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:50:32.225667252Z",
+  "model": "glm-5.3"
+}

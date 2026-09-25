@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "اَم چہ یاہوہءَ گوَشت: اے ادونای، تو ⟨اِنت⟩؛ میریں نیکی تہءِ سرءَ نیست.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "گوَشت اَم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "میریں نیکی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تہءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:12.774206152Z",
+  "model": "glm-5.3"
+}

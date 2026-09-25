@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "پہ رہنما — قوراحءِ زہگانی — علاموتءِ سرچشمگءَ، یک گانی.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہنما"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراحءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ … سرچشمگءَ"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "علاموت"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:58.855380829Z",
+  "model": "glm-5.3"
+}

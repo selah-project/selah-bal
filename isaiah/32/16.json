@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ انصاف بیابانءَ جاہ گرنت، ءُ راستی شاداب جاہءَ چیر کپیت۔",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "ءُ جاہ گرنت"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابانءَ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ءُ راستی"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "شاداب جاہءَ"
+    },
+    {
+      "surface": "תשب",
+      "gloss": "چیر کپیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:30:08.627412905Z",
+  "model": "glm-5.3"
+}

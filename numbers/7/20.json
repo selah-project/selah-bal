@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "یک زریں کف، دہ شیکلءِ وزن، بخورءَ پُر.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کف"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "زהב",
+      "gloss": "زریں"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    }
+  ],
+  "timestamp": "2026-09-24T19:29:24.161209123Z",
+  "model": "glm-5.3"
+}

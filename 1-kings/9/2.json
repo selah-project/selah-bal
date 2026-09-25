@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "کہ یاہوہ شلومہءَ دومی رند رُوتی چوش کہ گبونءَ آییءَ رُوتیگ اَت۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "رُوتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومہ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دومی رند"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "رُوتیگ اَت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "בגבנ",
+      "gloss": "گبونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:58:43.550325665Z",
+  "model": "glm-5.3"
+}

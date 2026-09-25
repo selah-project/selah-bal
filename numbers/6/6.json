@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "آییءِ یاہوہءَ نزر گنتگءِ تمامیں روچانءَ یک مردہءِ جانءِ نزدیک نہ روت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تمامیں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچانءِ"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "نزر گنتگءِ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مردہءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "روت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:29:38.371522425Z",
+  "model": "glm-5.3"
+}

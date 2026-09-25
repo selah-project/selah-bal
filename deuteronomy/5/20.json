@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ نہ دے پہ تُئے گوانڈءِ ضدءَ دروغیں گواہی.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "جواب دے"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "تُئے گوانڈءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "دروغیں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:26.459396915Z",
+  "model": "glm-5.3"
+}

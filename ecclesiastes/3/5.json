@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "وہد سنگانءَ پرینگءِ ءُ وہد سنگانءَ کٹائیءِ؛ وہد بغل گرگءِ ءُ وہد چہ بغل گرگ دوریءِ۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "پرینگءِ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "سنگانءَ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "کٹائیءِ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "سنگانءَ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "بغل گرگءِ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "دوریءِ"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "چہ بغل گرگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:51.026930879Z",
+  "model": "glm-5.3"
+}

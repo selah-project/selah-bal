@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 85,
+  "translation": "آیا پہ ہمیشہ ما ءَ غضب کنیں؟ آیا تُئی چِڑھ ءَ نسل ءُ نسلءَ کش نیں؟",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "آیا پہ ہمیشہ"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "غضب کنیں"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "ما ءَ"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "کش نیں"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تُئی چِڑھ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسلءَ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ءُ نسلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:19.619416585Z",
+  "model": "glm-5.3"
+}

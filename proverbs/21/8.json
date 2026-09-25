@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "توند-توند ءُ بے-گانه اِنت یکے مردئیءِ رہ، پرچا کہ پاکنءِ کار راست اِنت.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "توند-توند"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردئیءِ"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "ءُ بے-گانه"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "ءُ پاکنءِ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:39.356853152Z",
+  "model": "glm-5.3"
+}

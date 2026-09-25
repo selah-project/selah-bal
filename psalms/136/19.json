@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 136:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 136,
+  "translation": "سیحونءَ، اموریانیں شاهءَ، پرچا کہ پہ ہمیشہ آییءِ ہیسید اِنت.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "سیحونءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاه"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموریانیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:30.145171878Z",
+  "model": "glm-5.3"
+}

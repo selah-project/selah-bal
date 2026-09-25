@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "جت کہ آ جا مرگان آشیانہ کننت؛ ہسیدہءِ پہ، سروان آییءِ گِدان ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جت کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آ جا"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "مرگان"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "آشیانہ کننت"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "ہسیدہ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "سروان"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "آییءِ گِدان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:09.314989029Z",
+  "model": "glm-5.3"
+}

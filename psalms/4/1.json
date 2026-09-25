@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "پہ پیشوا، گوں تارانی سازان — داؤدءِ زبور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "گوں تارانی سازان"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داؤدءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:13.529956346Z",
+  "model": "glm-5.3"
+}

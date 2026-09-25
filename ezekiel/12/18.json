@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 12:18",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "اے آدمءِ زہگ، وتءِ نان گوں لرزا بچاریں ءُ وتءِ آپءَ گوں غضب ءُ گوں دگا شروپ۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "وتءِ نان"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "گوں لرزا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "بچاریں"
+    },
+    {
+      "surface": "ומימיך",
+      "gloss": "ءُ وتءِ آپءَ"
+    },
+    {
+      "surface": "ברגזה",
+      "gloss": "گوں غضب"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "ءُ گوں دگا"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "شروپ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:11:15.800443628Z",
+  "model": "glm-5.3"
+}

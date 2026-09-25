@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ مہاللایل پہ ایشی کہ یردءَ ⟨את⟩ جنیت، سئے سال ءُ ہشت سد سال زندگی کت، ءُ زہگان ءُ جنکان جنیت.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "زندگی کت"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مہاللایل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پہ ایشی کہ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "جنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یرد"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یردءَ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ءُ ہشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ جنیت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ءُ جنکان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:13.294790695Z",
+  "model": "glm-5.3"
+}

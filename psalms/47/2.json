@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "تمام قومان دست چپنت، پہ ایلوہیم گوں شادیءِ بانگ ہنگ کنت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "چپنت"
+    },
+    {
+      "surface": "כף",
+      "gloss": "دست"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ہنگ کنت"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "پہ ایلوہیم"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "گوں بانگ"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "شادیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:58.747593030Z",
+  "model": "glm-5.3"
+}

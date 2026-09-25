@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "تہ ہر وہدءَ تُہءِ جوان تیزاب بنت، ءُ تُہءِ سرءَ روغن ہچبر کم نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہدءَ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "تُہءِ جوان"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "تیزاب"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ءُ روغن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "تُہءِ سرءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ہچبر"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کم نہ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:44.346364068Z",
+  "model": "glm-5.3"
+}

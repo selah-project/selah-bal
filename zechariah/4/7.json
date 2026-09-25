@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 4:7",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "تو کی ئے، اے گیشتریں کوه، زرُبّابلءِ پیشءَ پہ ہموار؟ ءُ آیی ⟨את⟩ سرءِ سنگ در آوردیت، بانگءَ گوں: چن، چن پہ آیی!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "تو کی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "گیشتریں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "زرُبّابل"
+    },
+    {
+      "surface": "למישר",
+      "gloss": "پہ ہموار"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ءُ در آوردیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرءِ سنگ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "הראשה",
+      "gloss": "سرءِ"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "بانگءَ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چن"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چن"
+    },
+    {
+      "surface": "לה",
+      "gloss": "پہ آیی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:26.505747958Z",
+  "model": "glm-5.3"
+}

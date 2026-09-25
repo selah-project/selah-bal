@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ببیت آییءِ ہسید، اے یاہوہ، ماں سرءِ ما، چوش کہ ما تئے امید کتگ۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ببیت"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "آییءِ ہسید"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ماں سرءِ ما"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "ما امید کتگ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:58.387323159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ اگر اُو ⟨את⟩ میدانءَ ازاد نہ کنت، ءُ اگر ⟨את⟩ میدانءَ یک دگہ مردءَ پَرچیت، اُو دیگہ ہچبر ازاد نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ازاد کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میدانءَ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدانءَ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "پَرچیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میدانءَ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدانءَ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "یک مردءَ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ازاد بیت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگہ ہچبر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:09.835001113Z",
+  "model": "glm-5.3"
+}

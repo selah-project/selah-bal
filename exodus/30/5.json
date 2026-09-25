@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ تو ⟨את⟩ ڈنڈیان چہ شٹمءِ دارءِ چوبان بکن، ءُ ⟨את⟩ آیانءَ گوں زر روپ کن۔",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ بکن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڈنڈیان"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ڈنڈیان"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چوبانءِ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شٹمءِ دار"
+    },
+    {
+      "surface": "وצפית",
+      "gloss": "ءُ روپ کن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "آیان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    }
+  ],
+  "timestamp": "2026-09-25T00:50:43.741641758Z",
+  "model": "glm-5.3"
+}

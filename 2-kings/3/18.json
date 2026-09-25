@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اے یاہوہءِ چشمانءَ سبک اِنت، ءُ آ مُوآبءَ ⟨את⟩ شمایا دستءَ دیت.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ءُ سبک اِنت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشمانءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ءُ دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُوآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "شمایا دستءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:08:56.075850548Z",
+  "model": "glm-5.3"
+}

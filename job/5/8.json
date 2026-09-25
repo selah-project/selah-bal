@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "بلے من ایلءَ گردیت، ءُ ایلوہیمءَ مے گال پیش کنت۔",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "گردیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ ءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "پیش کنت"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "مے گال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:43.647459172Z",
+  "model": "glm-5.3"
+}

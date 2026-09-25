@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "چون پادشائی پہ یاہوہ ⟨اِنت⟩، ءُ آ تہ گوماں حکومت کنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "پادشائی"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ءُ حکومت کنت"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "تہ گوماں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:55.810308159Z",
+  "model": "glm-5.3"
+}

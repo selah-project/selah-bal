@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "خوش‌بختی اے مردے کہ یاہوہءَ وتی پناہ کنت، ءُ چرِت نہ کنت گوں زورآوران ءُ وشٹیانِ دروگءَ۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش‌بختی"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "اے مردے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "وتی پناہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "چرِت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "زورآوران"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "ءُ وشٹیان"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:51.849532913Z",
+  "model": "glm-5.3"
+}

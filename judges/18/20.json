@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ کاہنءِ دل شاد بیت، ءُ آ گپت ⟨את⟩ ایپود ءُ ⟨את⟩ ترافیم ءُ ⟨את⟩ پیکر، ءُ آت قومءِ میانءَ۔",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ءُ شاد بیت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہنءِ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایپود"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ایپود"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ترافیم"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ترافیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پیکر"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "پیکر"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آت"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:24:25.635200961Z",
+  "model": "glm-5.3"
+}

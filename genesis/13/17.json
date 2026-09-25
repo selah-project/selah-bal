@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "اُٹ، زمینءَ وتی درازیءَ ءُ وتی پہنائیءَ گش کن، چوکہ آءَ من تئے پہ دینت۔",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٹ"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "گش کن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "وتی درازیءَ"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "ءُ وتی پہنائیءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوکہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تئے"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "دینت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:10.983428051Z",
+  "model": "glm-5.3"
+}

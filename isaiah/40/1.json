@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "دلداری کنت، دلداری کنت مںی قوم، گوَشتئے شماں ایلوہیم.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "دلداری کنت"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "دلداری کنت"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "مںی قوم"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "گوَشتئے"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "شماں ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-25T01:01:49.308842423Z",
+  "model": "glm-5.3"
+}

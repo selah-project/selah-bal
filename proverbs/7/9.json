@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "شپءِ تڑپءَ، روچءِ شامءَ تہ، شپءِ رتءِ تہ ءُ گوندءِ تہاریءَ",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "شپءِ تڑپءَ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شامءَ تہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "تہاریءِ تہ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپءِ رتءِ"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ءُ گوندءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:32.827345089Z",
+  "model": "glm-5.3"
+}

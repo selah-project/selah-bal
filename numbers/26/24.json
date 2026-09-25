@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "یاشوبی پہ یاشوبیں خاندان، شمرۆنی پہ شمرۆنیں خاندان۔",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "یاشوبی پہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "یاشوبیں"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "شمرۆنی پہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "شمرۆنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:21.411669013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 115,
+  "translation": "اِشانی بتان رپ ءُ زرں اَنت، مردمانی دستانی کار.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "اِشانی بتان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "رپ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ءُ زرں"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:42.913135484Z",
+  "model": "glm-5.3"
+}

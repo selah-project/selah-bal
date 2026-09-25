@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "بلے گوں ہساییں لب ءُ دگرے زبان پہ اے قومءَ گوَشت ءُ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "گوں ہسا"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لب"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "ءُ گوں زبان"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "دگر"
+    },
+    {
+      "surface": "ידबר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اے قومءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:53.708581230Z",
+  "model": "glm-5.3"
+}

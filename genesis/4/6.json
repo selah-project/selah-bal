@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یاہوہءَ گوں قابیلءَ گوَشت: چرا تئَ خشم بوتگ، ءُ چرا تئَ دیم ڈگتگ اِنت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قابیلءَ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "خشم بوتگ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئَ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ءُ چرا"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڈگتگ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تئَ دیم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:32.358742253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "اِدومءِ گدان، ءُ اِشماعیلیان، موآب ءُ ہاگریان،",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "گدانیں"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اِدوم"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ءُ اِشماعیلیان"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ءُ ہاگریان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:26.876103141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ چہ شرابءَ پیت ءُ مست بوت، ءُ وت آییءِ گدانءِ میانءَ برہنہ بوت۔",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "ءُ پیت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شرابءَ"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "ءُ مست بوت"
+    },
+    {
+      "surface": "ויתגل",
+      "gloss": "ءُ وت بوت"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "آییءِ گدانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:56.616332631Z",
+  "model": "glm-5.3"
+}

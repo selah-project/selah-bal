@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "راستءَ ءُ چپءَ نہ مڑ؛ توءِ پا چہ گندگی جتا کت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "مڑ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ءُ چپ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "جتا کت"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "توءِ پا"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "چہ گندگی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:30.962878205Z",
+  "model": "glm-5.3"
+}

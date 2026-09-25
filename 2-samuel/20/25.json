@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ شِیا ⟨بوت⟩ نبیستکار، ءُ صادوق ءُ ابیاتر کاهنان بوتنت.",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "ءُ شِیا"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "نبیستکار"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ءُ صادوق"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ءُ ابیاتر"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاهنان"
+    }
+  ],
+  "timestamp": "2026-09-24T20:48:27.063161815Z",
+  "model": "glm-5.3"
+}

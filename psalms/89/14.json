@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "تُئی بازو گوں زور ⟨اِنت⟩؛ تُئی دست قوی ⟨اِنت⟩، ءُ تُئی دمیں دست اُچ ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تُئی"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "زور"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "قوی اِنت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تُئی دست"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "اُچ اِنت"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تُئی دمیں دست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:46.063293949Z",
+  "model": "glm-5.3"
+}

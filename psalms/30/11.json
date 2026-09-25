@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "اے یاہوہ، گوش کن ءُ مہ ءُ چہ رحمت کن؛ اے یاہوہ، مہ ءُ پہ مددگار بیت.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ءُ مہ ءُ چہ رحمت کن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "مددگار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مہ ءُ پہ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:37.589377831Z",
+  "model": "glm-5.3"
+}

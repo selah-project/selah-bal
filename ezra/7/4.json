@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "زَرَحیاہءِ زہگ، عُزیءِ زہگ، بُکیءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زرحیاہءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عزیءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بکیءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:08:10.981392072Z",
+  "model": "glm-5.3"
+}

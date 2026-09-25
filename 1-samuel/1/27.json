@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "پہ اے زہگ نَماز کُتم، ءُ یاہوہءَ مَءَ ⟨את⟩ مئے سوال دات کہ چہ آءِ پُرستم.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "نَماز کُتم"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مَءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مئے سوال"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "مئے سوال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שאلתי",
+      "gloss": "پُرستم"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "چہ آءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:26:31.916252174Z",
+  "model": "glm-5.3"
+}

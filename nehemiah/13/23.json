@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ہمے روچاںءَ من ⟨את⟩ یہودیاں چشیت کت کہ اَشدودی، عمونی ءُ موآبی زنان ژانت۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "روچاںءَ تہ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "من چشیت کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہودیاں"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودیاں"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ژانت"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زنان"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "اَشدودی"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "عمونی"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "موآبی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:59.476330281Z",
+  "model": "glm-5.3"
+}

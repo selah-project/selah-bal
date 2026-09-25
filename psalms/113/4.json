@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 113,
+  "translation": "اُچک اِنت یاہوہ سئے قومانءِ سرءَ، ءُ آییءِ شان آسمانانءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "اُچک"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءِ سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومانءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءِ سرءَ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانانءِ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "آییءِ شان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:20.192147900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ یہویادہ بوڑا بوت، ءُ روچانءَ چہ سر شوت، ءُ مرت — سد ءُ سئے دہ سالءِ زہگ، آییءِ مرنءَ۔",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "ءُ بوڑا بوت"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یہویادہ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ءُ چہ سر شوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچانءَ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سئے دہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "آییءِ مرنءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:42:35.495328348Z",
+  "model": "glm-5.3"
+}

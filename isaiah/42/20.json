@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "گیش چیزان تو گندیتن پر تو نشہ نہ کنیت؛ کھولگیں گوشان ءُ نہ گوشیت۔",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "گیش چیزان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "نشہ نہ کنیت"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "کھولگیں"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "گوشان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "گوشیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:36.129210650Z",
+  "model": "glm-5.3"
+}

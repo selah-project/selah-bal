@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ اَوشلومءَ اَہیتوپلءَ گوَشت: شما ءَ مشورہ دانگ کہ چی کنیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَوشلومءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "اَہیتوپلءَ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "دانگ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شما ءَ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T20:46:47.343903557Z",
+  "model": "glm-5.3"
+}

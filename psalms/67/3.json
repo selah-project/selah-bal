@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 67,
+  "translation": "پہ اے کہ زمینءَ تہءِ رہ زانت بیت، گوں ہر قوم تہءِ نجات۔",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "پہ اے کہ زانت بیت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "تہءِ رہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "گوں ہر"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "تہءِ نجات"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:47.531789169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "⟨את⟩ مءِ شباتان نگہ داریں ءُ مءِ مقدس جاہءَ ڈر گریں؛ من یاہوہ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مءِ شباتان"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "مءِ شباتان"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "نگہ داریں"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ءُ مءِ مقدس جاہ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ڈر گریں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:25:19.708992819Z",
+  "model": "glm-5.3"
+}

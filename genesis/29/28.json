@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ یعقوب اے چوں کت، ءُ اےءِ ہپتہءَ پور کت؛ ءُ لابانءَ آیءَ بدیت ⟨את⟩ راحیل آیی جنک، آیءَ پہ زالی.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ … کت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ءُ پور کت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپتہ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اےءِ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ بدیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راحیل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحیل"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "آیی جنک"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "پہ زالی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:15.791549561Z",
+  "model": "glm-5.3"
+}

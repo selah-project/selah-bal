@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "مُرءِ گنڈل مہ یار مہ پہ ⟨اِنت⟩، مہ چھاتیانی میان لتہ بیت۔",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "گنڈل"
+    },
+    {
+      "surface": "המר",
+      "gloss": "مُرءِ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "مہ یار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مہ پہ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "میان"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "مہ چھاتیان"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "لتہ بیت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:37.518153230Z",
+  "model": "glm-5.3"
+}

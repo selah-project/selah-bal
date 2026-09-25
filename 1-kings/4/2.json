@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ اے اِش آیءِ سرداران اَنتن: عزریاہو، زادوکءِ زہگ، کاهن.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سرداران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیءِ"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "عزریاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "زادوک"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    }
+  ],
+  "timestamp": "2026-09-24T20:54:21.461115933Z",
+  "model": "glm-5.3"
+}

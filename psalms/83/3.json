@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "پرچا کہ گوش، تئے دشمن ہنگامہ کننت ءُ تئے منفرین سر اُچار کننت",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "تئے دشمن"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ہنگامہ کننت"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "ءُ تئے منفرین"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "اُچار کننت"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:24.399703216Z",
+  "model": "glm-5.3"
+}

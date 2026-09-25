@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "⟨את⟩ ہر اُچے ⟨چیز⟩ آ رندیت؛ آ ہر مگزانی زہگانءِ سرءَ شاہ اِنت.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر اُچے ⟨چیز⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "اُچے"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "رندیت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانءِ"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "مگزانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:05.447613858Z",
+  "model": "glm-5.3"
+}

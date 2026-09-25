@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "اے کہ آییءِ پیت ءُ ماتءَ چوریت ءُ گوَشتیت کہ گنہ نیست، آ یک تباهی کنوکءِ یار اِنت۔",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "چوریت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آییءِ پیت"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ءُ ماتءَ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشتیت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیشت"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "گنہ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "یار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "یک"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "تباهی کنوکءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:21.251159288Z",
+  "model": "glm-5.3"
+}

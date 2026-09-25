@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ تدمرءَ تہ بیابانءَ جوڑ کت، ءُ مکءِ انباریں شاراں کہ تہ حماٹءَ جوڑ کتگ اَنت.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تدمر"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "تدمر"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "تہ بیابان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مکءِ انباریں شاراں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "مک"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شارانی"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "انباریں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڑ کتگ"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "تہ حماٹ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:36:04.352877664Z",
+  "model": "glm-5.3"
+}

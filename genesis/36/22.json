@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ لوتانءِ زہگان ہوری ءُ ہیمام اَتنت؛ ءُ لوتانءِ خواہر تمنا اَت۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اَتنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ہوری"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "ءُ ہیمام"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ءُ خواہر"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتانءِ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تمنا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:30.624509622Z",
+  "model": "glm-5.3"
+}

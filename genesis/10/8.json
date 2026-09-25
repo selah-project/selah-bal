@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ کوشءَ ⟨את⟩ نمرود زائیت؛ آ ہست ءُ آ ہستیں پہ گوں گرگ بیت بنگیج کت، ءُ آ ڈگارءَ زوراور بوت۔",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ءُ کوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرودءَ"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "بنگیج کت"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "پہ … بوت"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "زوراور"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ڈگارءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:16.771818931Z",
+  "model": "glm-5.3"
+}

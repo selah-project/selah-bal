@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ آیءَ یا‌عقوبءَ پہ یک قانوت ءُ اِسرائیلءَ پہ یک دوریں عہدءَ پکا کت.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "ءُ آیءَ پکا کت"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "پہ یا‌عقوب"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "پہ قانوت"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "پہ اِسرائیل"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "دوریں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:27:26.160429066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "deuteronomy 28:60",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ ⟨את⟩ مِتسرایمءِ ہمگ بیماریاں کہ چہ اشیں ترسیت، تُہءَ پدا گرگیت؛ ءُ اش تُہءَ چیڈ بنت.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "ءُ پدا گرگیت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمگ بیماریاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "מדוה",
+      "gloss": "بیماریاں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יגרת",
+      "gloss": "ترسیت"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "چہ اشیں"
+    },
+    {
+      "surface": "ודבקו",
+      "gloss": "ءُ چیڈ بنت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:24.016344684Z",
+  "model": "glm-5.3"
+}

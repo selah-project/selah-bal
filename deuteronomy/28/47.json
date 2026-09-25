@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "چہ اے پُت کہ تُہ ⟨את⟩ یاہوہءَ، تُہءِ ایلوہیمءَ، نہ کار کت تہ شادئی ءُ تہ دلءِ نیکی، چہ گیشی ہر چیزءِ",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "چہ اے پُت کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "کار کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُہءِ ایلوہیمءَ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "تہ شادئی"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "ءُ تہ نیکی"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دلءِ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "چہ گیشی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر چیزءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:43.151766361Z",
+  "model": "glm-5.3"
+}

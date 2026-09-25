@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 6:11",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ من گوَشتم: آییں مردے چوش من بگریت؟ ءُ کے چوش من اِنت کہ ہیکلءَ روت ءُ زندگ بیت؟ نہ روان۔",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "ءُ گوَشتم"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مردے"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "چوش من"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "بگریت"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کے"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "چوش من"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ہیکلءَ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ءُ زندگ بیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "روان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:15:51.320242352Z",
+  "model": "glm-5.3"
+}

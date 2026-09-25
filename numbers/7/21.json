@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "یک گاو، مالانی زہگ، یک نر گوسفند، یک براگ، وتی سالءِ زہگ، پہ سوچگیں قربانیءِ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "گاو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مالانی"
+    },
+    {
+      "surface": "איל",
+      "gloss": "نر گوسفند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "براگ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "وتی سالءِ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "پہ سوچگیں قربانیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:29:37.242903808Z",
+  "model": "glm-5.3"
+}

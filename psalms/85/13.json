@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 85,
+  "translation": "بیلے یاہوہ چنءاں شی دیت، ءُ زمینءِ ما آییءِ حاصل دیت.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بیلے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چنءاں شی"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "ءُ زمینءِ ما"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "آییءِ حاصل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:52.497620295Z",
+  "model": "glm-5.3"
+}

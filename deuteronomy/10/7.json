@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "اُشءَ چہ اُشا گڈگڈہءَ روتنت، ءُ چہ گڈگڈہءَ یطبہ — آپءِ ڈَلانی ءُ یک زمین۔",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "اُشءَ چہ اُشا"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "روتنت"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "گڈگڈہءَ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "گڈگڈہءَ"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "یطبہءَ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ڈَلانی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:03.363344461Z",
+  "model": "glm-5.3"
+}

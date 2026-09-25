@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ آیانی شمار بوت، آیانی ٟولیانی ءُ آیانی پتاری گadanءَ پہ، ہزار ءُ شش سد ءُ سی.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "آیانی شمار"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "آیانی ٟولیانی"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گadan پہ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "آیانی پتارءِ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:28:17.016756644Z",
+  "model": "glm-5.3"
+}

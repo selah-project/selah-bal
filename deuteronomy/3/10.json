@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ہمگ شہر کہ ہموارءِ تہءَ اَنت، ءُ ہمگ گِلعاد، ءُ ہمگ باشان، تا سَلکاہ ءُ اَدرعی — اوگءِ سلطنتءِ شہر تہ باشانءَ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ہموارءِ تہءَ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہمگ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہمگ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "سَلکاہ"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ءُ اَدرعی"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "سلطنتءِ"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "اوگ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "تہ باشانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:44.585159373Z",
+  "model": "glm-5.3"
+}

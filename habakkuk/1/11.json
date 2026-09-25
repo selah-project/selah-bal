@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اَزاں شۏر گزرگ بیت ءُ گوں گزرت ءُ گنہگار بیت — اے آییءِ زور آییءِ ہدا پہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اَزاں"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "گزرگ بیت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "شۏر"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ءُ گوں گزرت"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ءُ گنہگار بیت"
+    },
+    {
+      "surface": "זו",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "آییءِ زور"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "آییءِ ہدا پہ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:39:29.663271323Z",
+  "model": "glm-5.3"
+}

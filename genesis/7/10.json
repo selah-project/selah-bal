@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ بوت ہَپت روزءَ پَد، ءُ سَیلابءِ آپان زَمینءَ سر بوتنت.",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "…ءَ پَد"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ہَپت روز"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ …ءِ آپان"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "سَیلاب"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوتنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ءَ سر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زَمین"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:27.506181854Z",
+  "model": "glm-5.3"
+}

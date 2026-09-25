@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ حور ⟨את⟩ اوریءَ پیو بوت، ءُ اوری ⟨את⟩ بتسلئلءَ پیو بوت۔",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ءُ حور"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیو بوت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوری"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اوری"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ءُ اوری"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیو بوت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بتسلئل"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بتسلئل"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:08.725458221Z",
+  "model": "glm-5.3"
+}

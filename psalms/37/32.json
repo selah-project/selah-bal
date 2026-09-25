@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "شریر راستیںءَ نگاہ کنیت ءُ آیءَ مارنءَ تلاش کنیت.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "نگاہ کنیت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "راستیںءَ"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ءُ تلاش کنیت"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "آیءَ مارنءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:43.845943838Z",
+  "model": "glm-5.3"
+}

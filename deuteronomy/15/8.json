@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "کیہ کشیں کشیت ⟨את⟩ تُءِ دست آییءِ پہ، ءُ قرض دیں آییءَ قرض دیتی، آییءِ کمیءِ برابر کہ آییءَ کم بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "کشیں"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "کشیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تُءِ دست"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تُءِ دست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ پہ"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "ءُ قرض دیں"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "آییءَ قرض دیتی"
+    },
+    {
+      "surface": "די",
+      "gloss": "برابر"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "آییءِ کمیءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کم بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:35.162275207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "گتءَ نہ گوَشت؛ بکو نہ بکو؛ بیت-لئپرہءَ ⟨من⟩ گردءَ گردا بوتگ۔",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "گتءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "بکو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "بکو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت-لئپرہءَ"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "بیت-لئپرہءَ ⟨من⟩"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "گردءَ"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "گردا بوتگ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:06:58.456196330Z",
+  "model": "glm-5.3"
+}

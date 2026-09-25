@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "مدت نہ کن بدءِ مردمان ءُ خواہش نہ مکن کہ گوں ⟨את⟩ اشان بیت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "مدت کن"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "تہ بدءِ مردمان"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "خواہش کن"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "گوں ⟨את⟩ اشان",
+      "marks": "اشان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:45.817845707Z",
+  "model": "glm-5.3"
+}

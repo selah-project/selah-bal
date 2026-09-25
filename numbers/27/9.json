@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ اگر آییءَ جنک نیست، ءُ شمانے آییءِ ملکیت ⟨את⟩ آییءِ براتاناںءَ دیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ءُ شمانے دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ ملکیت"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "آییءِ ملکیت"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "آییءِ براتاناںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:42:03.297114479Z",
+  "model": "glm-5.3"
+}

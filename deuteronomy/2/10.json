@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اِمیم اولان تہ آیان ہست اَنت، گیش ءُ گوَڑ ءُ اُچے قوم، چوش کہ عناقیان۔",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "اِمیم"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "اولان"
+    },
+    {
+      "surface": "יָשְׁבוּ",
+      "gloss": "تہ آیان ہست اَنت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تہ آیان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ءُ گوَڑ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ءُ اُچے"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "چوش کہ عناقیان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:56.902251431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 54,
+  "translation": "چون کہ چہ پچ تنگیءَ اے ⟨یہوہ⟩ چُکیت، ءُ ماں دشمنانءَ مے چم گندیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون کہ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ پچ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگیءَ"
+    },
+    {
+      "surface": "הצילנی",
+      "gloss": "مے چُکیت"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "ءُ ماں دشمنانءَ"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "مے چم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:22.495167899Z",
+  "model": "glm-5.3"
+}

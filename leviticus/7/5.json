@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ کاہن ⟨את⟩ اِشاں قربانگاہءَ سوڑیت — اگءِ قربانی پہ یاہوہ؛ آ یک اشام اِنت.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ءُ سوڑیت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اِشاں",
+      "marks": "اِشاں"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربانگاہءَ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اگءِ قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "اشام"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:24.423524121Z",
+  "model": "glm-5.3"
+}

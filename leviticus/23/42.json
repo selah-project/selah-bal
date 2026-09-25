@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "تہ کوشکاں اِشماں ہپت روچ بشینیت؛ کل یسرائیلءَ زائگ تہ کوشکاں بشینیت.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "تہ کوشکاں"
+    },
+    {
+      "surface": "תשבو",
+      "gloss": "اِشماں بشینیت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "یسرائیلءَ زائگ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یسرائیلءَ تہ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "بشینیت"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "تہ کوشکاں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:34.606799550Z",
+  "model": "glm-5.3"
+}

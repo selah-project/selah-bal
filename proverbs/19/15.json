@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "سستی گنگوڑیءَ ڈیگ کنیت، ءُ بے‌کار جان بھُنگڑیت۔",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "سستی"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "ڈیگ کنیت"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "گنگوڑی"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ءُ جان"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "بے‌کار"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "بھُنگڑیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:35.535410167Z",
+  "model": "glm-5.3"
+}

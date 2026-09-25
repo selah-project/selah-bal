@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اولانیںءِ یاد نیست، ءُ ہمے چوش خرتانیںءِ کہ بیتنت — اِشاںءَ گوں شِتاںءَ یاد نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "یاد"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "اولانیںءِ پہ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہمے چوش"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "خرتانیںءِ پہ"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "کہ بیتنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "یاد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "کہ بیتنت"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "شِتاںءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:56.515820272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ ہشتمی روچءَ آییءِ چمڑیءِ کوکنڈءِ گوشت کنڈ بیت.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ءُ … روچءَ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ہشتمی"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "کنڈ بیت"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "آییءِ چمڑیءِ کوکنڈءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:14.130279685Z",
+  "model": "glm-5.3"
+}

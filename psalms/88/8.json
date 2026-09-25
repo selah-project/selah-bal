@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 88,
+  "translation": "تءِ غضب مءِ سرءَ تیار اِنت، ءُ تءِ گچاں همگ مءَ دَم کت، سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "مءِ سرءَ"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "تیار اِنت"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "تءِ غضب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ همگ"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "تءِ گچاں"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "مءَ دَم کت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:23.985439643Z",
+  "model": "glm-5.3"
+}

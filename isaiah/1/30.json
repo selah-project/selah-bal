@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "کہ شمی گوشتار بلوٹءِ اَنت کہ ئے پتہ وشکیت، ءُ گوشتار باغءِ کہ آییءَ آپ نیست۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "شمی بنت"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "گوشتار بلوٹءِ"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "وشکیت"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "پتہ"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "ءُ گوشتار باغءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نست"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:20:37.205008359Z",
+  "model": "glm-5.3"
+}

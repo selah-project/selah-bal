@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "دؤر گوءَ اوشتگ آ اِنت مئں پہ، شیر ماں پوشیگیں جاگہاں۔",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "دؤر"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "گوءَ اوشتگ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مئں پہ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ماں پوشیگیں جاگہاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:16.349070396Z",
+  "model": "glm-5.3"
+}

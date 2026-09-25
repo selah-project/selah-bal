@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "یک من پکن سونا چہ ⟨את⟩ آیءَ جوڑ کتءُ ⟨את⟩ همه آیانی سازانءَ۔",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "یک من"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پکن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آیءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "همه آیانی سازان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "آیانی سازان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:08:52.588292723Z",
+  "model": "glm-5.3"
+}

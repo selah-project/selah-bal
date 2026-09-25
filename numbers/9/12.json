@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "چہ آییءَ ہچ نہ رئنت تا سحریءَ ءُ ہڈی تہ آییءَ نہ شکننت ؛ گوں پسحءِ پوریں حکمءِ چوں آییءَ ⟨את⟩ کننت ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "رئنت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آییءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سحریءَ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ءُ ہڈی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "شکننت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تہ آییءَ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "گوں پوریں"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "حکمءِ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسحءِ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "کننت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "آییءَ (پسح)"
+    }
+  ],
+  "timestamp": "2026-09-24T19:32:58.262457467Z",
+  "model": "glm-5.3"
+}

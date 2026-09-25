@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 7:1",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ چہ کہ شلومہءَ دعا کنگ پُج کت، آتش چہ آسمانءَ ڈات، ءُ سوچگیں قربانی ءُ قربانیاں چنگ کت، ءُ یاہوہءِ شم ⟨את⟩ گadanءَ پُر کت.",
+  "tokens": [
+    {
+      "surface": "וככלות",
+      "gloss": "چہ کہ … پُج کت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومہءَ"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "دعا کنگ"
+    },
+    {
+      "surface": "והאש",
+      "gloss": "ءُ آتش"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "ڈات"
+    },
+    {
+      "surface": "מהשמים",
+      "gloss": "چہ آسمانءَ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ءُ چنگ کت"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوچگیں قربانی"
+    },
+    {
+      "surface": "והזבחים",
+      "gloss": "ءُ قربانیاں"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ءُ شم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پُر کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گadanءَ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گadan"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:38.485732518Z",
+  "model": "glm-5.3"
+}

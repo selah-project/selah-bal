@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "من گوَشت: اے یاہوہ، مہءَ رحمت کن، مہ جان چنگ کن، کیہ من تہءَ گنہ کمت۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "مہءَ رحمت کن"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "چنگ کن"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "مہ جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "گنہ کمت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:37.385451641Z",
+  "model": "glm-5.3"
+}

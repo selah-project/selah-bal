@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 65,
+  "translation": "پہ تُو چُپ تہلیل اِنت، اے ایلوہیم، تہ صیونءَ، ءُ پہ تُو نذر پُور بیت۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "پہ تُو"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "تہلیل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "تہ صیونءَ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ءُ پہ تُو"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "پُور بیت"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:49.575748650Z",
+  "model": "glm-5.3"
+}

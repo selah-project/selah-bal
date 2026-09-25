@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "طعنہ کنوکءَ در بکن ءُ جیڑا بیر روت، ءُ مقدمہ ءُ بدنامی آوتپنت.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "در بکن"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "طعنہ کنوکءَ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ بیر روت"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "جیڑا"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ءُ آوتپنت"
+    },
+    {
+      "surface": "דין",
+      "gloss": "مقدمہ"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "ءُ بدنامی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:46.845333684Z",
+  "model": "glm-5.3"
+}

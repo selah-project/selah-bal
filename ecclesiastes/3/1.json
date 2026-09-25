@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "پہ ہر چیزءِ یک وہد اِنت، ءُ یک وہد پہ ہر مراد کہ آسمانانی تہءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر چیز"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر چیز"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "مراد"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:39.289766046Z",
+  "model": "glm-5.3"
+}

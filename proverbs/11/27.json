@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "آ کہ چڑی چنگ چنگیت رضا گنجیت، ءُ آ کہ وانّی چنگیت — آییءَ آ گپت۔",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "چڑی چنگوک"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "گنجیت"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضا"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "ءُ وانّی چنگوک"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "وانّی"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "آییءَ رسیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:39.195320412Z",
+  "model": "glm-5.3"
+}

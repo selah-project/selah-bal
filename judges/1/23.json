@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یوسفءِ خانہ بیت ایلءَ جاسوس کت، ءُ شاری نام پہ چیراں لوز اَت.",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "ءُ جاسوس کت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسفءِ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایلءَ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ءُ نام"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پہ چیراں"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لوز اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:13:23.822518424Z",
+  "model": "glm-5.3"
+}

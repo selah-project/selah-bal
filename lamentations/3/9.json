@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "⟨آ⟩ مئں رہانءَ گوں تراشیتی سنگ دیوار کت، مئں گزراںءَ کج کت۔",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "دیوار کت"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "مئں رہانءَ"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "گوں تراشیتی سنگ"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "مئں گزراںءَ"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "کج کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:16.347290624Z",
+  "model": "glm-5.3"
+}

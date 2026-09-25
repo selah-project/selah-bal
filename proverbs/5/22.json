@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "آییءِ گناهان آ ⟨את⟩ بدکار گرپیت، ءُ آییءِ گنہءِ ریسانیءَ تہ بند بیت.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "گناهان"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "گرپیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بدکار"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "ءُ ریسانیءَ تہ"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "گنہءِ"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "بند بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:13.641397322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "یک گال چہ ⟨ہگ⟩ شیرین گالان کہ یاہوہ گوں بیتءِ اِسرائیلءَ گوَشت اَت، نہ ڈگتگ؛ ہمگ آءِ سرءَ آت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڈگتگ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "یک گال"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ⟨ہگ⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "شیرین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:11:23.570621683Z",
+  "model": "glm-5.3"
+}

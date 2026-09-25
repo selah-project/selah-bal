@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "آییءِ روچان کم بنت، ءُ آییءِ مقرری یک دگر گپت.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ببنت"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "آییءِ روچان"
+    },
+    {
+      "surface": "مעטים",
+      "gloss": "کم"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "آییءِ مقرری"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گپت"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "یک دگر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:55.348948605Z",
+  "model": "glm-5.3"
+}

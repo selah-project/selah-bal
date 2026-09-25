@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 122,
+  "translation": "کی اوتا تخت بنیئنت پہ انصاف، تخت داودءِ گدانءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتا"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "بنیئنت"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "پہ انصاف"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گدانءِ پہ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:02.216071087Z",
+  "model": "glm-5.3"
+}

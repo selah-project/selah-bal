@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ہچ کریں گندین چیز نہ ورگیٹ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ورگیٹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہچ کریں"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "گندین چیز"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:52.024047204Z",
+  "model": "glm-5.3"
+}

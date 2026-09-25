@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ روحءِ گمراه فہم زاننت، ءُ شکایت گر تعلیم سیکنت۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ءُ زاننت"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "گمراه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روحءِ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فہم"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "ءُ شکایت گر"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "سیکندنت"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "تعلیم"
+    }
+  ],
+  "timestamp": "2026-09-24T21:30:24.703806953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ منزلیں ڈنڈی تختانی مانءِ چہ یک سرا تا یک سرا گوَزیتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "ءُ منزلیں ڈنڈی"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "منزلیں"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "مانءِ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تختان"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "گوَزیتگ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "سرا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:20.303221421Z",
+  "model": "glm-5.3"
+}

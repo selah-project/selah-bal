@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "کی چہ کیچہ نادانءَ کُشت، ءُ رشک سادہ لبزءَ مارنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "نادانءَ"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "کُشت"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "ءُ سادہ لبزءَ"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "مارنت"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "رشک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:59.444562694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 24:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ غلام دوڑیت آییءَ ملاقاتءَ، ءُ گوَشت: مہ بپہ، اے مالک، کجے آپ چہ تئے کدءِ.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "ءُ دوڑیت"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "آییءَ ملاقاتءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "הגמיאיני",
+      "gloss": "مہ بپہ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کجے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "מכדך",
+      "gloss": "چہ تئے کدءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:33:37.326600025Z",
+  "model": "glm-5.3"
+}

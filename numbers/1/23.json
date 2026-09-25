@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "شمارءِ شمان اِشاں پہ ٹولیءِ شِم‌ئون ⟨اِنت⟩ نہ ءُ پنجالیں ہزار ءُ سئے سد۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اِشانی شمار"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "پہ ٹولیءِ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِم‌ئون"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ءُ پنجالیں"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:37.104905156Z",
+  "model": "glm-5.3"
+}

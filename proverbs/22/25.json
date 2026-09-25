@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "کہ نہ آییءِ رہاں دلیں ءُ وتءِ جانءَ پہ دام گرپت کنیں",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "دلیں"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "آییءِ رہاں"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ءُ گرپت کنیں"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "دام"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "وتءِ جانءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:53.465385504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 1:19",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اگر رازی بِیت ءُ گوشِیت، زمینءِ چنگاںیءَ کُوہِیت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "رازی بِیت"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "ءُ گوشِیت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگاںیءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "תאכלو",
+      "gloss": "کُوہِیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:20:30.616667660Z",
+  "model": "glm-5.3"
+}

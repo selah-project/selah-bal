@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "تو آییءِ جوانیءِ روچان کوٹ کت، آییءَ تو شرمءَ جہ پوشیت. سلا.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "کوٹ کت"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "آییءِ جوانیءِ"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "پوشیت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "شرمءَ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:42.267840812Z",
+  "model": "glm-5.3"
+}

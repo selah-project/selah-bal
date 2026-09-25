@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "آ کہ وتی زمینءَ لابیت چہ نان سیر بیت، ءُ آ کہ کالاںءَ دم گنتدِت دلءِ تہ کماں اِنت۔",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "لابیت"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "وتی زمین"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "سیر بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ءُ آ کہ دم گنتدِت"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "کالاں"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کماں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:58.614816663Z",
+  "model": "glm-5.3"
+}

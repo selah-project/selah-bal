@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ آییءَ چہ اندر ءُ چہ بیرون پاکیں زرءَ چا چڑاوت، ءُ آییءَ پہ یک چوڑ زرءِ آییءِ گردا جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "آییءَ چڑاوت"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "زر"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکیں"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "چہ اندر"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ءُ چہ بیرون"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "چوڑ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گردا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:38.617906758Z",
+  "model": "glm-5.3"
+}

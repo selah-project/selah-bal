@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ صقلاگ، ءُ بیت المرکبوت، ءُ حصر سوسہ —",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "ءُ صقلاگ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "المرکبوت"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "ءُ حصر"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "سوسہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:11:06.061316509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "چوش آتشءِ کہ جنگل ءَ سوزانیت، ءُ چوش شولءِ کہ کوهان ءَ بلکیت.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "چوش آتشءِ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "سوزانیت"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "ءُ چوش شولءِ"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "بلکیت"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوهان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:11.439096843Z",
+  "model": "glm-5.3"
+}

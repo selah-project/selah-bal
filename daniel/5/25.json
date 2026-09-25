@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اے چیز نبشتہ بوتگی اِنت: منے، منے، تقل ءُ پرسین",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "نبشتہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "نبشتہ بوتگی اِنت"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "منے"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "منے"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "تقل"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ءُ پرسین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:59:41.098444751Z",
+  "model": "glm-5.3"
+}

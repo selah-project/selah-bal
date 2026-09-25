@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ یوسفءِ براتان، دہ گِش، غلہ گیرنکءَ متسرایمءَ کشورتنت.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "کشورتنت"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "براتان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسفءِ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "غلہ گیرنکءَ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "غلہ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "چہ متسرایمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:46:14.622045570Z",
+  "model": "glm-5.3"
+}

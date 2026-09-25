@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ ابرام وتی دیمءِ سرءَ ڈت، ءُ ایلوہیم ⟨את⟩ گوں آیئَ گوشت، کہ:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ءُ ڈت"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وتی دیمءِ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ گوں آیئَ",
+      "marks": "گوں آیئَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:31:13.649072817Z",
+  "model": "glm-5.3"
+}

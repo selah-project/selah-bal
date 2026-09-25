@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "چہ وتی چشمانی تہ حکیم مہ بیت، چہ ⟨את⟩ یاہوہ ⟨את⟩ بترس، ءُ چہ بدیءَ دور بیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "چہ وتی چشمانی تہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨את⟩ یاہوہ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "بترس"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ءُ … دور بیت"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "چہ بدیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:28.328675403Z",
+  "model": "glm-5.3"
+}

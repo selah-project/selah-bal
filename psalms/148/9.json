@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 148,
+  "translation": "کوهان ءُ ہر ہپو، پھلءِ دار ءُ ہر سدران،",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "کوهان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ہپو"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھلءِ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "سدران"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:53.546422622Z",
+  "model": "glm-5.3"
+}

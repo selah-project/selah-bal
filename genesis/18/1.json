@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 18:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ یاہوہ آییءَ ممرہءِ داراں تہ اَوشتیت، ءُ آ گدانءِ دروازہءَ نشتگ اَت، روچءِ گرمیءَ۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ اَوشتیت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "ممرہءِ داران"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "نشتگ اَت"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "گرمیءَ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:30:12.313443936Z",
+  "model": "glm-5.3"
+}

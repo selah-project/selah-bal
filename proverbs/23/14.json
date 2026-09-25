@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "تو آییءَ گوں عصا زنی، ءُ آییءِ جانءَ چہ شیئول نجات دیت۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "گوں عصا"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "آییءَ زنی"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ءُ آییءِ جانءَ"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "چہ شیئولءَ"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "نجات دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:19.666033723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 15:10",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ بوت یاہوہءِ گال پہ شموئل، چوش کہ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوش کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:31:55.111851364Z",
+  "model": "glm-5.3"
+}

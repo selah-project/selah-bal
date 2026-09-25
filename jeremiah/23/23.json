@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "آیا من نزدیکیں ایلوہیم اِم، یاہوہءِ فرمان اِنت، ءُ نہ دورءِ ایلوہیم؟",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "آیا ایلوہیم"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "نزدیکیں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "وלא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "دور"
+    }
+  ],
+  "timestamp": "2026-09-25T01:02:54.684463965Z",
+  "model": "glm-5.3"
+}

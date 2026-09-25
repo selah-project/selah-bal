@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ بادشاہ آییءَ گوَشت: من چنڈ وار تئے قسم دیم کہ تو مءَ نہ گپیت، بلوچے یکے راستی یاہوہءِ نامءَ بدے؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "چنڈ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "وار"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "تئے قسم دیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "لא",
+      "gloss": "נہ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "گپیت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "بلوچے یکے"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نامءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:16:02.368855632Z",
+  "model": "glm-5.3"
+}

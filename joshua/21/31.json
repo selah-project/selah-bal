@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "⟨את⟩ حِلکت ءُ ⟨את⟩ آییءِ مگرش، ءُ ⟨את⟩ رِحوب ءُ ⟨את⟩ آییءِ مگرش — چار شہر۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حِلکت"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "حِلکت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ مگرش"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "آییءِ مگرش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "رِحوب"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رِحوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ مگرش"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "آییءِ مگرش"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-09-24T20:12:14.335713131Z",
+  "model": "glm-5.3"
+}

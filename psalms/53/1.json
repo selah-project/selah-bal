@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 53,
+  "translation": "پہ پیشوا، مچالتءِ سرئیم، یک گوشیار، داؤدءِ پہ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "مچالت"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "گوشیار"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داؤدءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:33.735554984Z",
+  "model": "glm-5.3"
+}

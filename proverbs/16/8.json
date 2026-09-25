@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "شہین اِنت تھوک گوں راستی، چہ گیش درآمد بے انصافءَ۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "شہین"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوک"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "گوں راستی"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "چہ گیش"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "درآمد"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:42.033227340Z",
+  "model": "glm-5.3"
+}

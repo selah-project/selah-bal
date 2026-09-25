@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ ⟨את⟩ ہوریاں تہ اِشانی کُہءِ تہ سیئر، تا ایل پاران، کہ بیابانءِ سرءَ اِنت،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ہوریاں"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "ہوریاں"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "تہ اِشانی کُہءِ تہ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سیئر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "پاران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:28:19.150516756Z",
+  "model": "glm-5.3"
+}

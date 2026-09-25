@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "چرہ ما پہ ہمیشہ یاد نہ کنی؟ چرہ ما پہ درازیں روچاں جتا کنی؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چرہ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "یاد نہ کنی ما"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "جتا کنی ما"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "پہ درازیں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:34.721184683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "اگر من گپ جننت، منءِ درد نہ باز گرگ بیت، ءُ اگر رہ کنت، چی چہ من روءِ؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "گپ جننت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "باز گرگ بیت"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "منءِ درد"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "ءُ رہ کنت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "מני",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "روءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:36.479731790Z",
+  "model": "glm-5.3"
+}

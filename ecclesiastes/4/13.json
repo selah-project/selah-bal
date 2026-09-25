@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "چم اِنت کہ یک مسکین ءُ دانا زہگ چہ پیر ءُ نادان پادشاہا، کہ نه زانت دگہ نصیحت گیرت۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چم"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "مسکین"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ءُ دانا"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "چہ پادشاہا"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ءُ نادان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "نصیحت گیرت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:13.489289931Z",
+  "model": "glm-5.3"
+}

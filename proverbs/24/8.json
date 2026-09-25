@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "جہ بدیءِ چال سوجیت، آییءَ بد چالانی مالک ءُ نیت۔",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "سوجیت"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "بدیءِ چال پہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "بد چالانی"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ءُ نیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:17.776817619Z",
+  "model": "glm-5.3"
+}

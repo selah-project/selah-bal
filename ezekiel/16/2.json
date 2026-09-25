@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "اے آدمءِ زہگ، یروشلمءَ ⟨את⟩ اِشءِ گندین کاران ⟨את⟩ زانگ دی،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "زانگ دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یروشلم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِشءِ گندین کاران"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "اِشءِ گندین کاران"
+    }
+  ],
+  "timestamp": "2026-09-24T22:13:35.953770166Z",
+  "model": "glm-5.3"
+}

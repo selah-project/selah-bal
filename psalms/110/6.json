@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 110,
+  "translation": "آ قوماںءِ ماں داوری کنیت، لاشان گوں گنڈیت، گیشتریں زمینءِ سرءَ سر کوڑیت۔",
+  "tokens": [
+    {
+      "surface": "یדין",
+      "gloss": "داوری کنیت"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماںءِ ماں"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "گوں گنڈیت"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "لاشان"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "کوڑیت"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "گیشتریں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:10.981923866Z",
+  "model": "glm-5.3"
+}

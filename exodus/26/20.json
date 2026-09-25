@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ پہ مِشکانءِ دومی دمءَ — شمالءِ دمءَ — بیست تخت.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ءُ پہ دم"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مِشکانءِ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پہ دمءَ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمالءِ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "تخت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:26.623517673Z",
+  "model": "glm-5.3"
+}

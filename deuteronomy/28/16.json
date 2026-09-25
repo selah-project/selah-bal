@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "لعنتیں تئے شہرءَ، ءُ لعنتیں تئے میدانءَ۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنتیں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہرءَ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ءُ لعنتیں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "میدانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:28.318708338Z",
+  "model": "glm-5.3"
+}

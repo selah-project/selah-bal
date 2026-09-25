@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "آیا کلنو شینِ کارقمیش نہ اِنت؟ اگر نہ شینِ ارفاد حمات؟ اگر نہ شینِ دمشق شومرون؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "آیا … نہ"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "شینِ کارقمیش"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "کلنو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "شینِ ارفاد"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "شینِ دمشق"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    }
+  ],
+  "timestamp": "2026-09-24T21:23:53.894587021Z",
+  "model": "glm-5.3"
+}

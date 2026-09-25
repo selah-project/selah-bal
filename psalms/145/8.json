@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 145,
+  "translation": "مہربان ءُ رحمدل یاہوہ اِنت، دراز چشمیں ءُ گیش ہیسید۔",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "مہربان"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ءُ رحمدل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "دراز"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "چشمیں"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:56.202706254Z",
+  "model": "glm-5.3"
+}

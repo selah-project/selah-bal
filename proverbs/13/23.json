@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "گیش آش کم‌دارءِ کوشتءِ زمینءَ اِنت، بلے ⟨اے اِنت کہ⟩ بے انصافیءَ نابود بیت۔",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "آش"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "کوشت"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "کم‌دار"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ءُ ⟨اے اِنت⟩"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "نابود بیت"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:08.549196260Z",
+  "model": "glm-5.3"
+}

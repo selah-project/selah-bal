@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "یک بلیعلءِ مرد گندی کنیت، ءُ آییءِ لبانءِ سر چوش آتشءِ سوچانیں شر اِنت۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بلیعلءِ"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "کنیت … گندی"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "گندی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ … ءِ سر"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "آییءِ لبان"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "چوش … آتش"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "سوچانیں شر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:25.505170311Z",
+  "model": "glm-5.3"
+}

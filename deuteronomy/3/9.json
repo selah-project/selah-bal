@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "صیدونیان ہرمونءَ پہ سیریون بانگ کننت، ءُ اموری آیءَ پہ شنیرو بانگ کننت۔",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "صیدونیان"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "بانگ کننت"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "ہرمونءَ پہ نام"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "سیریون"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ءُ اموری"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "بانگ کننت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیءَ پہ نام"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "شنیرو"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:44.584919798Z",
+  "model": "glm-5.3"
+}

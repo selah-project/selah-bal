@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ اگر اے مرد کمبخت اِنت، آییءِ گرویءَ سرا نہ شپ کت بیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اے مرد"
+    },
+    {
+      "surface": "עני",
+      "gloss": "کمبخت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "شپ کت بیت"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "آییءِ گرویءَ سرا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:16.188909214Z",
+  "model": "glm-5.3"
+}

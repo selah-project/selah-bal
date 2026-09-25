@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "من تنے نہ توانیت ⟨את⟩ گچین اے قومءَ گرانیں، چو کہ آ منءَ چہ گیش سنگین اِنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "توانیت"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "تنے"
+    },
+    {
+      "surface": "לשאت",
+      "gloss": "پہ گرانیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گچین اے قوم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گچین"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چو کہ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "سنگین"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "منءَ چہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:53:42.560107854Z",
+  "model": "glm-5.3"
+}

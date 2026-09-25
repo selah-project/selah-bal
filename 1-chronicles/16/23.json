@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ایہوہءَ گانیت، گیش زمین؛ آییءِ نجاتءَ چہ روچ تا روچ پچاڑیت۔",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "گانیت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ایہوہءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "پچاڑیت"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "چہ روچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "آییءِ نجات"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:35.904247658Z",
+  "model": "glm-5.3"
+}

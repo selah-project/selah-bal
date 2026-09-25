@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ترتسہءِ بادشاہ، یک۔ ہمگ بادشاہ سی ہشت ءُ یک اَنت۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ترتسہءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی ہشت"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ءُ یک"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:13.067369845Z",
+  "model": "glm-5.3"
+}

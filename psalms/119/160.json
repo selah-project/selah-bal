@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "تُئے گالءِ سر سچ اِنت، ءُ پہ ہمیشہ تُئے راستیءِ پوری فیصلہ ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تُئے گال"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ءُ پہ ہمیشہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تُئے راستی"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:46.727988296Z",
+  "model": "glm-5.3"
+}

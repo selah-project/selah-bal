@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 90,
+  "translation": "تُو فانیءَ سرکاں کنیت تا ریزہ بوبیت، ءُ گوَشیت: پدا آئیں، آدمءِ زہگان۔",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "تُو سرکاں کنیت"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی"
+    },
+    {
+      "surface": "عד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ریزہ بوتگ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ تُو گوَشیت"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "پدا آئیں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:52.441986104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کاهنان: یدعیہءِ زہگان، یشوعءِ گدانءَ — نہ سد ءُ ہپتاہ ءُ سئے۔",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یدعیہءِ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یشوعءِ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ہپتاہ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ءُ سئے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:21.143276641Z",
+  "model": "glm-5.3"
+}

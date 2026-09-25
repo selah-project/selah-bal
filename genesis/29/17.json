@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ لایہءِ چشمان نرم اَنت، ءُ راحیلءَ شکلءَ سوں جم ءُ دیمءَ سوں جم اَت۔",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "ءُ … چشمان"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لایہءِ"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "ءُ راحیلءَ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "جم"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "شکلءَ سوں"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ءُ جم"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "دیمءَ سوں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:59.306905283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "اے یاہوہ، آرؤم کہ من آءِ گلم؛ من آءِ گلم، آءِ کنیزءِ زہگ؛ آءِ منیں زنجیران اِشکلیت.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "آءِ گلم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "آءِ گلم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "آءِ کنیز"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "اِشکلیت"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "منیں زنجیران"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:18.996200095Z",
+  "model": "glm-5.3"
+}

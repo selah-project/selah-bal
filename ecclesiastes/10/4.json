@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "اگر حاکمءِ روح تری سرءَ اُچی بیت، تری جاگہ مہ پرچ؛ چون آرامی گیش گناہانءَ ہموار کنت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "حاکمءِ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "اُچی بیت"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تری سرءَ"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "تری جاگہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "پرچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "آرامی"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ہموار کنت"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گناہانءَ"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:45.981375401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ سملہ مرت، ءُ آییءِ جاگہءَ شاول چہ دریاءِ رحبوتءَ پادشاہ بیت۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سملہ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ءُ پادشاہ بیت"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "آییءِ جاگہءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "مרחבות",
+      "gloss": "چہ رحبوتءَ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "دریاءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:36.477910571Z",
+  "model": "glm-5.3"
+}

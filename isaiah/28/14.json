@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 28:14",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "پس گوش، اے یاہوہءِ گال — اے گوبن مردمو، اے اے قومءِ حاکمان، کہ یروشلمءَ اَنت.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "پس"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردمو"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "گوبن"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "حاکمان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:20.339602220Z",
+  "model": "glm-5.3"
+}

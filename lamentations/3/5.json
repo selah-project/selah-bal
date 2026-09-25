@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "منی مقابلءَ دیوار جوڑ کت ءُ منی چوکس گوں زهر ءُ زحمت کت.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "دیوار جوڑ کت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی مقابلءَ"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "ءُ چوکس کت"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "ءُ زحمت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:04.431144100Z",
+  "model": "glm-5.3"
+}

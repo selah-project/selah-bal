@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ⟨את⟩ گت ءُ ⟨את⟩ مریشا ءُ ⟨את⟩ زیف،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گت"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مریشا"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "مریشا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "زیف"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زیف"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:34.187996972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "مئَ تئَریں حکمانی رَہءَ ٹُرائے، چے من آءَ پسند کتگ اَت.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "مئَ ٹُرائے"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "رَہءَ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تئَریں حکمانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "من پسند کتگ اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:46.069234878Z",
+  "model": "glm-5.3"
+}

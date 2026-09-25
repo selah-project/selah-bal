@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "بیگانہءَ ⟨את⟩ تُو پش، ءُ آ کہ تُوءِ وتءِ براتءَ ہست، ⟨את⟩ تُوءِ ہات ڈھیل دیت۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیگانہءَ"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "بیگانہءَ"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "پش"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ آ کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُوءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتءِ براتءَ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "وتءِ براتءَ"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "ڈھیل دیت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تُوءِ ہات"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:13.645845926Z",
+  "model": "glm-5.3"
+}

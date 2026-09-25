@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "رشےءِ چم اٹلگ نہ چم اِنت، کہ راستے داوریءَ پھندنیت۔",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "اٹلگ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چم"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشےءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چم"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "پھندنو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "داوریءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:24.561247723Z",
+  "model": "glm-5.3"
+}

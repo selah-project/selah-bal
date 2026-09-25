@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "من تُہءَ داناییءِ راہءَ سیاہ کت؛ من تُہءَ راستیءِ رہاںءَ رواج دیت.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "داناییءِ راہءَ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "سیاہ کت"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "رواج دیت"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "رہاںءَ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راستیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:07.491730007Z",
+  "model": "glm-5.3"
+}

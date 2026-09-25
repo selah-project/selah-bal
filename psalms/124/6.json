@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 124,
+  "translation": "مبارک اِنت یاہوہ، کہ ما‏ءَ اِشانی دندانانی گاں شکار نہ دات.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "ما‏ءَ دات"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "شکار"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "اِشانی دندانانی گاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:25.798599019Z",
+  "model": "glm-5.3"
+}

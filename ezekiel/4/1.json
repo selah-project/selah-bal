@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ تو، آدمءِ زہگ، وتءَ پہ یک خشت گپ ءُ ⟨את⟩ آییءَ وتءِ پیشءَ گڈ، ءُ آییءِ سرءَ شہر نقش بکن — ⟨את⟩ یروشلم۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "קח",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وتءَ پہ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "خشت"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ءُ گڈ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "خشت"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "وتءِ پیشءَ"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "ءُ نقش بکن"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یروشلم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:10:19.558873946Z",
+  "model": "glm-5.3"
+}

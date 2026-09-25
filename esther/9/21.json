@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "پہ آشانی سرءَ قائم کنگ، پہ آ کہ ⟨את⟩ چاردہمی روچِ ماہِ آدار ءُ ⟨את⟩ پندہمی روچِ آییءِ تہ، ہر سال ءُ سال، کننت.",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "پہ قائم کنگ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "آشانی سرءَ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "پہ آ کہ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کننت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روچ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چاردہمی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماہِ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "آدار"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "روچ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پندہمی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءِ تہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "ءُ سال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:58:14.052703382Z",
+  "model": "glm-5.3"
+}

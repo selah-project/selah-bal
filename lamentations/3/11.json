@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "مئں رہانءَ چیر کت ءُ مءَ پھاڑ کت، مءَ ویران کت۔",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "مئں رہانءَ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "چیر کت"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "ءُ مءَ پھاڑ کت"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ویران کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:16.354843113Z",
+  "model": "glm-5.3"
+}

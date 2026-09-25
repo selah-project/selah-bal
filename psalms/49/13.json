@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "ءُ ادم شانءَ تہ نہ مانیت؛ آ مالان چوں گندیت، کہ نیست بنت.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "ءُ ادم"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "شانءَ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "مانیت"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "مالان چوں"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "نست بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:50.604131911Z",
+  "model": "glm-5.3"
+}

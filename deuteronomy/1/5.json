@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "یردنءِ ہُندءَ، موآبءِ زمینءَ تہ، موشہءَ اے توراءَ ⟨את⟩ بیان کرنءَ شروع کت، آ کہ گوَشت:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "ہُندءَ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردنءِ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآبءِ"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "شروع کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیان کرنءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے تورا"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "توراءَ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:22.797882513Z",
+  "model": "glm-5.3"
+}

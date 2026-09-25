@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کیہ کہ من یاہوہ اَت — نہ بدل کتم — ءُ شما، یعقوبءِ زہگان، نہ ممکت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "بدل کتم"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ءُ شما"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "ممکت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:07:39.277440877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "آییءَ وتی جنکیان لڑی کت، آییءَ شہرءِ بلنداںءِ سَری ءُ اُوسیءَ بانگ دیت:",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "لڑی کت"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "وتی جنکیان"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "بانگ دیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءُ اُوسیءَ"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "سَری"
+    },
+    {
+      "surface": "מרומי",
+      "gloss": "بلنداںءِ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شہرءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:26.327928903Z",
+  "model": "glm-5.3"
+}

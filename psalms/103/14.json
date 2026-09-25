@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 103,
+  "translation": "کیہ آ ماںءِ جوڑءَ زانت، یاد داریت کہ ماں گار اَنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ماںءِ جوڑ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "یاد داریت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "گار"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ماں"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:11.526290944Z",
+  "model": "glm-5.3"
+}

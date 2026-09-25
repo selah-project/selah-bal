@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "آ گال کہ تُئے یاہوہءِ نامءَ مائے گوَشتگئے — ما نہ گوشنت چہ تُئے.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "آ گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "گوَشتگئے"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "مائے"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نامءَ تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "چہ تُئے"
+    }
+  ],
+  "timestamp": "2026-09-25T01:04:58.359934170Z",
+  "model": "glm-5.3"
+}

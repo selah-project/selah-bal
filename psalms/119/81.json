@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "نفسم پہ تئی نجاتءَ کلوت، پہ تئی گالءَ آسرا کت۔",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "کلوت"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "پہ تئی نجاتءَ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسم"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "پہ تئی گالءَ"
+    },
+    {
+      "surface": "یחלתי",
+      "gloss": "آسرا کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:56.067317708Z",
+  "model": "glm-5.3"
+}

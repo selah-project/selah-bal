@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "چوکہ کیں اِلوہ ہست بجز چہ یاہوہ؟ ءُ کیں چٹان ہست سواے چہ ایلوہیمءِ ہمے؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چوکہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کیں"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "اِلوہ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "بجز چہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کیں"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "سواے چہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ایلوہیمءِ ہمے"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:58.246071185Z",
+  "model": "glm-5.3"
+}

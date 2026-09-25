@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 26:34",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "اے منشہءِ کولان اَنت؛ ءُ اشانی شمار گنتی دو ءُ پنجاہ ہزار ءُ ہپت سد اِنت.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کولان"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہءِ"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ءُ اشانی شمار گنتی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ءُ پنجاہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ءُ ہپت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:41:31.072432527Z",
+  "model": "glm-5.3"
+}

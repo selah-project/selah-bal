@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "بیرونءَ ٹھات بیت، ءُ اے مرد کہ تو آییءَ قرض دئیگ، ⟨את⟩ گروی تئا بیرونءَ در کنیت۔",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "بیرونءَ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ٹھات بیت"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ءُ اے مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "قرض دئیگ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "در کنیت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تئا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گروی"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "گروی"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "بیرونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:16.188792569Z",
+  "model": "glm-5.3"
+}

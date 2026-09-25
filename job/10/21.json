@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "پیش چہ روتءُ نہ پدا گرن، تہ زمینءِ تہاری ءُ مرگءِ سئےءَ.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "پیش چہ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "پدا گرن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تہاری"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ءُ مرگءِ سئے"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:16.650583631Z",
+  "model": "glm-5.3"
+}

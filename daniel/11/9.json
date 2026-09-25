@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ آءُ جنوبءِ شاہءِ شاہیءَ آت، پر آءُ وتءَ آییءِ ڈگارءَ پس گشت۔",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ءُ آت"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "شاہیءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "جنوبءِ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ءُ پس گشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وتءَ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "آییءِ ڈگارءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:05:37.015261767Z",
+  "model": "glm-5.3"
+}

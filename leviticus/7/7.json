@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "چوش حطات، چوش اشام — یک تورا اِشاںءِ پہ اِنت؛ کاہن کہ گوں آ کفارہ کنت، آ آییءِ اِنت.",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "چوش حطات"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "چوش اشام"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءِ پہ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "کفارہ کنت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "گوں آ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ پہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:24.423939432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ سنگانی سرءَ نبشیں ⟨את⟩ اے توراءِ سرتا گالان، روشن ءُ چنگ۔",
+  "tokens": [
+    {
+      "surface": "وכתבת",
+      "gloss": "ءُ نبشیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "سنگانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرتا گالان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سرتا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "اے توراءِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "באר",
+      "gloss": "روشن"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ءُ چنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:31.496222234Z",
+  "model": "glm-5.3"
+}

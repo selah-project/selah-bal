@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "اگر راست بتی، آءَ پہ چہ دیں؟ ءُ چہ چہ تُءِ دستءَ گپت؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "راست بتی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءَ پہ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "چہ تُءِ دستءَ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گپت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:43:24.845830621Z",
+  "model": "glm-5.3"
+}

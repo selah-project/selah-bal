@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ چاہانیں رند قربانگاہءِ ashes دنگ کننت، ءُ آءَ سرا یک ارغوانیں بگڈ پروشنت۔",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "ءُ چاہانیں رند دنگ کننت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربانگاہءَ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہ"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ءُ پروشنت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آءَ سرا"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "بگڈ"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "ارغوانیں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:28:40.503905096Z",
+  "model": "glm-5.3"
+}

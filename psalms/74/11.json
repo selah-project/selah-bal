@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "پہ چہ دستت پسہ گرنت، ءُ راست دستت ⟨ایشان⟩؟ چہ دگتءِ تہءَ پاک کت کن۔",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "پہ چہ"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "پسہ گرنت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دستت"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ءُ راست دستت"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "چہ تہءَ"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "دگتءِ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "پاک کت کن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:22.318952009Z",
+  "model": "glm-5.3"
+}

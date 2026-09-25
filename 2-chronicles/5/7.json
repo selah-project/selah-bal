@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ کاہنان یاہوہءِ عہدءِ صندوقءَ ⟨את⟩ آییءِ جاگہءَ پیش کرتنت — بیتءِ دیبرءَ، مقدسانءِ مقدسءَ، کروبانءِ پرانءِ تہءَ.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "پیش کرتنت"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "آییءِ جاگہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دیبر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "مقدسانءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "پرانءِ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروبان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:02.683253850Z",
+  "model": "glm-5.3"
+}

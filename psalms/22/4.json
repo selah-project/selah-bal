@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ تو کڈول اِنت، یسروعءِ تہیلوںءَ نیشتہ۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "کڈول"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "نیشتہ"
+    },
+    {
+      "surface": "תהלوت",
+      "gloss": "تہیلوںءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسروعءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:48.513826190Z",
+  "model": "glm-5.3"
+}

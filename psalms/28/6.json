@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "مبارک اِنت یاہوہ، کیہ آءَ مئی گڑگءِ آواز شنیت۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شنیت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "مئی گڑگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:46.537417798Z",
+  "model": "glm-5.3"
+}

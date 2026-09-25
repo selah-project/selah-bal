@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "آ کہ زیاتیءِ کاشت کنیت تباهی درو کنیت، ءُ وتی غضبءِ عصا مکہ بیت۔",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "کاشت کنوک"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "زیاتیءِ"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "درو کنیت"
+    },
+    {
+      "surface": "און",
+      "gloss": "تباهی"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ءُ عصا"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "وتی غضبءِ"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "مکہ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:51.225595572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ اگر مادی ⟨اِنت⟩، ءُ بوت تُءِ ارز سی شکل.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مادی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اِنت⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تُءِ ارز"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شکل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:51.844157859Z",
+  "model": "glm-5.3"
+}

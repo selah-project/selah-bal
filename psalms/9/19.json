@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "کیہ کہ ہمیشہ پہ نہ، نیازمند بھچک نہ بیت؛ عاجزانءِ امیدءُ ہمیشہ پہ نہ لَت بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ پہ"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "بھچک بیت"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "نیازمند"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "امیدءُ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "عاجزانءِ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "لَت بیت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:56.311079208Z",
+  "model": "glm-5.3"
+}

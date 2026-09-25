@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "یوئیل سریں ءُ، ءُ شپم دومی، ءُ یعنای ءُ شپت بُشانءَ تہ.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "یوئیل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سریں"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "ءُ شپم"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "ءُ یعنای"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ءُ شپت"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "بُشانءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:01.144496339Z",
+  "model": "glm-5.3"
+}

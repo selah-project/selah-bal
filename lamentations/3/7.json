@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "منی چوکس دیوار کت کہ من روت نہ کنت؛ منی تانبہءَ گران کت.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "دیوار کت"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "منی چوکس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "روت کنت"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "گران کت"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "منی تانبہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:04.434743387Z",
+  "model": "glm-5.3"
+}

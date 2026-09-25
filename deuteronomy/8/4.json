@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "شمئیں جوڑ شمئیں سرا نہ پُرانی بوت ءُ شمئیں پا نہ سوج بوت — اے چل سال۔",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "شمئیں جوڑ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "پُرانی بوت"
+    },
+    {
+      "surface": "مעליך",
+      "gloss": "شمئیں سرا"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ءُ شمئیں پا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "سوج بوت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:21.140739932Z",
+  "model": "glm-5.3"
+}

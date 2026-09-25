@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "همہ گوشت یکلوت دم ترویت ءُ آدم گوڑیءَ واپس روت",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "دم ترویت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همہ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکلوت"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ءُ آدم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "گوڑی"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "واپس روت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:42:25.053195005Z",
+  "model": "glm-5.3"
+}

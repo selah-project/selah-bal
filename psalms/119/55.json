@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "شپءَ منی یاد کت تنت نام، اے یاہوہ، ءُ منی تنت تورا ریت.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "منی یاد کت"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تنت نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ءُ منی ریت"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تنت تورا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:43.668005408Z",
+  "model": "glm-5.3"
+}

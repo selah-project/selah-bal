@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 69,
+  "translation": "ءُ منیں جانءَ گوں روزہ روئیتوم، ءُ آ پہ من پہ بدگویی بیت۔",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "ءُ روئیتوم"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "گوں روزہ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منیں جانءَ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "پہ بدگویی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ من"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:32.155570703Z",
+  "model": "glm-5.3"
+}

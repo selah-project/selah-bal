@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "زاری چہ شرابءَ گلیانی تہ، تار بیت ہر شادی، دور بوت زمینءِ شادمانی.",
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "زاری"
+    },
+    {
+      "surface": "על",
+      "gloss": "چہ …ءَ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "گلیانی تہ"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "تار بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "دور بوت"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "شادمانی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:10.506225840Z",
+  "model": "glm-5.3"
+}

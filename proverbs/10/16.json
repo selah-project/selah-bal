@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "راستءِ کار پہ زندگیءِ ⟨اِنت⟩ ءُ بدءِ حاصل پہ گنہءِ ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "پہ زندگی"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "حاصل"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "پہ گنہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:45.670985714Z",
+  "model": "glm-5.3"
+}

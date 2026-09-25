@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ منی ⟨את⟩ کمربند گرتیں گوں یاہوہءِ گال، ءُ آیءَ سر مں کمر منی۔",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "ءُ گرتیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کمربند"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "کمربند"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "گوں گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ءُ منی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "مں کمر"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:52.068853239Z",
+  "model": "glm-5.3"
+}

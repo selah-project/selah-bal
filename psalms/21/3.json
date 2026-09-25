@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "دلیں خواہشءِ تنت آییءَ دتگ ءُ آییءِ ہونتانءِ عرضءَ ہچ نہ روکیت۔ سلہ۔",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "دلیں خواہشءِ تنت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دلءِ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "دتگ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ءُ عرض"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "آییءِ ہونتانءِ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ہچ"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "نہ روکیت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:54.099777582Z",
+  "model": "glm-5.3"
+}

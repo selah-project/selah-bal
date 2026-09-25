@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "بچار ⟨את⟩ ایلوہیمءِ کار، چون کے ئے شکل اِنت کہ ⟨את⟩ آ چیزءَ راست کنت کہ ایلوہیم آییءَ کج کتگ۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "بچار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیمءِ کار"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون کے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ئے"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "شکل اِنت"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "راست کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "آییءَ کج کتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:51.173265656Z",
+  "model": "glm-5.3"
+}

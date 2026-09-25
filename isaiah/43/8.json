@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "ہال کن اے قومءَ — کور ءُ گوچان ہست، ءُ کچءَ ءُ گوشان آشےءَ.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "ہال کن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ءُ گوچان"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ءُ کچءَ"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ءُ گوشان"
+    },
+    {
+      "surface": "למו",
+      "gloss": "آشےءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:22.766452930Z",
+  "model": "glm-5.3"
+}

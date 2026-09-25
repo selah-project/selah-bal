@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ زانیت کہ یاہوہ ہیسیدءَ آییءِ پہ جتا کتگ؛ منی بانگءَ آییءَ یاہوہ گوشیت۔",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "ءُ زانیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "جتا کتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ہیسید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "منی بانگءَ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:13.530445625Z",
+  "model": "glm-5.3"
+}

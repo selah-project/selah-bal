@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "یَفَتءِ زہگان: گومر ءُ مگوگ ءُ مادای ءُ یاوان ءُ توبل ءُ مِشَک ءُ تیراس۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یَفَتءِ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "ءُ مگوگ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ءُ مادای"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ءُ یاوان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ءُ توبل"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ءُ مِشَک"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ءُ تیراس"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:23.890884010Z",
+  "model": "glm-5.3"
+}

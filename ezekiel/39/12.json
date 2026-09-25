@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "ءُ بیت اسرائیلءِ آیانءَ دفن کننت پہ آ کہ ⟨את⟩ زمینءَ پاک کننت — ہپت ماہ۔",
+  "tokens": [
+    {
+      "surface": "וקברומ",
+      "gloss": "ءُ دفن کننت آیانءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ آ کہ"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "پاک کننت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ماہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:23:53.716785166Z",
+  "model": "glm-5.3"
+}

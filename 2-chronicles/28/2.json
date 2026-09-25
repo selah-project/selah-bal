@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ آ یورشلیمءِ شاہانءِ رہاںءَ روُت، ءُ ھم بعلانءِ پہ ڈھالگن بُتان جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روُت"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "رہاںءَ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "شاہانءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یورشلیم"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ھم"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "ڈھالگن بُتان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "بعلانءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:43:06.076513965Z",
+  "model": "glm-5.3"
+}

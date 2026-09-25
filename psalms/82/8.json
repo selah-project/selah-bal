@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 82,
+  "translation": "اُست اے ایلوہیم، زمینءَ داوری کن؛ چہ کیو تو ہمگ قومانءَ وارث بیت.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُست"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "داوری کن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چہ کیو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "وارث بیت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:42.272172853Z",
+  "model": "glm-5.3"
+}

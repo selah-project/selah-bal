@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ اہارون ⟨את⟩ وتی دست مِتسرایمءِ آپانی سرءَ کچ، ءُ چڑکی روت ءُ مِتسرایمءِ زمینءَ ڈپ کت۔",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ءُ کچ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہارون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی دست"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "وتی دست"
+    },
+    {
+      "surface": "عל",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "آپانی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمءِ"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "چڑکی"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ءُ ڈپ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:53:46.741125095Z",
+  "model": "glm-5.3"
+}

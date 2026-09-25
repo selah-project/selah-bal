@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "یک راہ ⟨اِنت⟩ کہ یک مردءِ پیشءَ راست گوَشتگ، ءُ آییءِ پدا مرگءِ راہان اِنت۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨اِنت⟩"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "یک راہ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…ءِ پیشءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ءُ آییءِ پدا"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "رہان"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:25.504757096Z",
+  "model": "glm-5.3"
+}

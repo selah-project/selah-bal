@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ⟨את⟩ پتروسیم ءُ ⟨את⟩ کسلوحیم — اِشاں چہ آجا فلسطینی ءُ ⟨את⟩ کفتوریم درآتنت.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پتروسیم"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "پتروسیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کسلوحیم"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "کسلوحیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اِشاں"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "درآتنت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "چہ آجا"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطینی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کفتوریم"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "کفتوریم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:12.508883281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ بوت یاہوہءِ سباؤتءِ گال منءَ پہ گوَشت کتن۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤتءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "پہ گوَشت کتن"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:43.677074033Z",
+  "model": "glm-5.3"
+}

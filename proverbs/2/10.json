@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "پرچا کہ دانائی تُہءِ دلءَ آئی‌ایت، ءُ زانتئے تُہءِ جانءَ چنگ لگ بیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آئی‌ایت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "تُہءِ دلءَ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ زانتئے"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "تُہءِ جانءَ"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "چنگ لگ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:02.662186026Z",
+  "model": "glm-5.3"
+}

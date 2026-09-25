@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 11:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "منافق وتی دهنءَ وتی براتءَ خراب کیت، ءُ راستاںءِ دانشءَ رستگار بنت.",
+  "tokens": [
+    {
+      "surface": "בפה",
+      "gloss": "دهنءَ"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "منافق"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "خراب کیت"
+    },
+    {
+      "surface": "رעהו",
+      "gloss": "وتی براتءَ"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ءُ دانشءَ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستاںءِ"
+    },
+    {
+      "surface": "יחלצו",
+      "gloss": "رستگار بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:59.448256740Z",
+  "model": "glm-5.3"
+}

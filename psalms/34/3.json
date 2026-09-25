@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "منی جان تہ یاہوہ شان گریت، حلیمان گوشنت ءُ شاد بنت.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "تہ یاہوہ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "شان گریت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جان"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "حلیمان"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ءُ شاد بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:41.585844521Z",
+  "model": "glm-5.3"
+}

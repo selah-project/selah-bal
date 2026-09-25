@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 3:6",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آ شپ، اندھیری آییءَ گنسیت؛ آ سالءِ روچانی مئَ شاد نہ بیت، ءُ ماہانی شمارءَ نہ روت.",
+  "tokens": [
+    {
+      "surface": "הלילה",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "آییءَ گنسیت"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "اندھیری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "روچانی مئَ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالءِ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "شمارءَ"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "ماہانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "روت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:41.368244570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "گیش اَنت کہ منی نفشءَ گوشنت: آییءَ پہ ایلوہیمءِ تہ نجات نیست. سلا.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "اَنت کہ گوشنت"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "منی نفشءَ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نست"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "نجات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ایلوہیمءِ تہ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلا"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:52.724397210Z",
+  "model": "glm-5.3"
+}

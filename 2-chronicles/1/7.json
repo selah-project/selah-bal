@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "آ شپءَ ایلوہیم سلیمانءَ چمک بیتیت ءُ آییءَ گوَشت: پرسش کن چه چیءَ تئے دیم۔",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "چمک بیتیت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "سلیمانءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پرسش کن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "من دیم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:33:15.919683394Z",
+  "model": "glm-5.3"
+}

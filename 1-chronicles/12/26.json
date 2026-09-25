@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "چہ شمعونءِ زہگانی، زورءِ سوروان لشکرءَ پہ، ہپت ہزار ءُ یک سد اِنت۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعونءِ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "سوروان"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زورءِ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "لشکرءَ پہ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ءُ یک سد"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:10.775951951Z",
+  "model": "glm-5.3"
+}

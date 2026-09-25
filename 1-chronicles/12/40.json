@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ اودا گوں داوود سئے روچ اوشتنت، کھاون ءُ آپ گلون، پرچا کہ اِشانیں بچکان اِشانی پہ جہیز کتگ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ءُ اوشتنت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "کھاون"
+    },
+    {
+      "surface": "ושותים",
+      "gloss": "ءُ آپ گلون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "جہیز کتگ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشانی پہ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "اِشانیں بچکان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:45.803233296Z",
+  "model": "glm-5.3"
+}

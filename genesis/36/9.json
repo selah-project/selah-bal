@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ اے عیسو، اِدومءِ پیءِ، ءُ اے اے عیسو، اِدومءِ پیءِ، نسلانی نام اِنت، ہر سعیرءَ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "نسلانی نام"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسوءِ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیءِ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اِدوم"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ہرءَ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:28.643867420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "تہِ نامءَ شاد بنت ہمگ روچ، ءُ تہِ راستیءَ اُچ بنت۔",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "تہِ نامءَ"
+    },
+    {
+      "surface": "יגילונו",
+      "gloss": "شاد بنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "ءُ تہِ راستیءَ"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "اُچ بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:01.632322378Z",
+  "model": "glm-5.3"
+}

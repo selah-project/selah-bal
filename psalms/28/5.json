@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "کیہ کہ اِشاں یاہوہءِ کارانی ءُ آییءِ دستانی کاری نہ شناخت کننت، آییءَ آ چہ کنت ءُ آییءَ نہ بسنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "شناخت کننت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "پעלת",
+      "gloss": "کارانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ تہ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "آییءِ دستانی"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "آ چہ کنت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "بسنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:46.537196872Z",
+  "model": "glm-5.3"
+}

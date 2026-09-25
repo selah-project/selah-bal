@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 38:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ آءِ سوں گڑوت رہءَ سر ءُ گوَشت: آ بگوش، آءِ کرءَ رسیاں — آ نہ زانت کہ آ آءِ زہگیءِ زال اِنت۔ ءُ آ گوَشت: چہ مءَ چی دیئے کہ مءِ کرءَ رسیں؟",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ءُ گڑوت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آءِ سوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "رہءَ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "رہءِ سر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بگوش"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "آءِ کرءَ رسیاں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تُہءِ کرءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "آءِ زہگیءِ زال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ آ گوَشت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیئے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "رسیں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءِ کرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:43:23.230555292Z",
+  "model": "glm-5.3"
+}

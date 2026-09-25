@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کیا کہ اے شاہ زمستانی گوذریت، باران گوذریت ءُ آییءِ پہ روءُ گُڈ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اے شاہ"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "زمستانی"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "گوذریت"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "باران"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "گوذریت"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "رو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ءُ آییءِ پہ گُڈ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:30.804153687Z",
+  "model": "glm-5.3"
+}

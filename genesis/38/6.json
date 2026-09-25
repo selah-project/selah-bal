@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ یہوداہ پہ عیر، آییءِ پہلائیں زہگءَ، یک زن گرت؛ ءُ آییءِ نام تامار اَت.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گرت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "یک زن"
+    },
+    {
+      "surface": "לער",
+      "gloss": "پہ عیر"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "آییءِ پہلائیں زہگ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ءُ آییءِ نام"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    }
+  ],
+  "timestamp": "2026-09-24T18:43:00.928023212Z",
+  "model": "glm-5.3"
+}

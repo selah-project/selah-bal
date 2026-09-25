@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 2:19",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ اِندی لشکر ءُ اِشانی شمار بیتیں چار ہزار ءُ پنچ سد اِنت",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ءُ اِندی لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ءُ اِشانی شمار بیتیں"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ءُ پنچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:39.662113176Z",
+  "model": "glm-5.3"
+}

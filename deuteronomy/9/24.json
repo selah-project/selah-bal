@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "تُہانی یاہوہءَ گوں سرکشی کتنت، چہ روچءَ کہ تُہانءَ ⟨את⟩ منی زانت.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "بوتنت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "چہ روچءَ"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "کہ منی زانت"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تُہانءَ",
+      "marks": "تُہانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:50:51.910970457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 36:11",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "زہگ بیست ءُ یک سال صِدقیاہو آییءِ پادشاہیءَ، ءُ دہ ءُ یک سال آ یہروشلمءَ پادشاہی کت۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ءُ یک"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقیاہو"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "آییءِ پادشاہیءَ"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ءُ یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاہی کت"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یہروشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:47:18.138820211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 62,
+  "translation": "ہمک آءُ منی تاش ءُ منی چگاری اِنت، منی اُچ مَڑا؛ مان نہ لرزانگ بیت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "منی تاش"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ءُ منی چگاری"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "منی اُچ مَڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "لرزانگ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:22.755812389Z",
+  "model": "glm-5.3"
+}

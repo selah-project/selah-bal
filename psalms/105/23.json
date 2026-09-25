@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "ءُ اِسرائیل مِتسرایمءَ آت ءُ یعقوب حامءِ زمینءَ مانستگ بوت.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ءُ یعقوب"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مانستگ بوت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حامءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:15.386746403Z",
+  "model": "glm-5.3"
+}

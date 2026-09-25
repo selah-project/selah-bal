@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 146,
+  "translation": "ستایش کننت اے یاہ! ستایش کن، منی جان، ⟨את⟩ یاہوہءَ۔",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستایش کننت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "اے یاہ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ستایش کن"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:24.999179136Z",
+  "model": "glm-5.3"
+}

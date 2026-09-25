@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "منءَ رُچیت ءُ چانیت، گچ زمینءِ کونجانی، پرچا کہ من ایل اِنت ءُ دگہ نیست۔",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "رُچیت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "ءُ چانیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گچ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "کونجانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:36:50.920222365Z",
+  "model": "glm-5.3"
+}

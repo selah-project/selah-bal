@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ چو کسے هر کسءِ جانءَ مارِت، مرگءَ مریت۔",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ چو کسے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چو"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مارِت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانءَ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "کسءِ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مریت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:31.786175970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 140,
+  "translation": "مہ زانیت کہ یاہوہ کمیں ءُ فقیرانی حق ءُ انصاف کنیت.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "مہ زانیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "حق"
+    },
+    {
+      "surface": "עני",
+      "gloss": "کمیں"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "فقیرانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:05.855763741Z",
+  "model": "glm-5.3"
+}

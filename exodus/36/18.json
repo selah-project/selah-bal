@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ آیءَ ساخت پنجاہ مسءِ کلس پہ ⟨את⟩ گدانءَ جوڑتگ پہ یک بیت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ آیءَ ساخت"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "کلس"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مسءِ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "پہ جوڑتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گدانءَ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "پہ بیت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:04.465599918Z",
+  "model": "glm-5.3"
+}

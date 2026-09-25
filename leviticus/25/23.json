@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ زمین نہ گروکیت بیت پہ ہمیشگ، چوکہ زمین منءِ اِنت، چوکہ شما پاندے ءُ جوآئوک اِنت گوں من۔",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ءُ زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "گروکیت بیت"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "پہ ہمیشگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوکہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوکہ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "پاندے"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "ءُ جوآئوک"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "گوں من"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:40.881412728Z",
+  "model": "glm-5.3"
+}

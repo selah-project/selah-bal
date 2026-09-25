@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ آ بوت چہ چالیس روچ ءُ چالیس شپءِ پایانءَ، یاہوہءَ منءَ رَ رَت ⟨את⟩ دو سنگانی لوُح، عہدءِ لوُح۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ آ بوت"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "چہ پایانءَ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ءُ چالیس"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رَ رَت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو سنگانی لوُح"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوُح"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "سنگانی"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "لوُح"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہدءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:27.160799152Z",
+  "model": "glm-5.3"
+}

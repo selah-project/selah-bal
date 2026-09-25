@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 75,
+  "translation": "کی نہ چہ مشرقءَ ءُ نہ چہ مغربءَ، ءُ نہ چہ کوہانی بیرانءَ ⟨بلندی اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "چہ مشرقءَ"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ءُ چہ مغربءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "چہ بیرانءَ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوہانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:56.246615022Z",
+  "model": "glm-5.3"
+}

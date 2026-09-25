@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 54,
+  "translation": "اِشا! ایلوہیم منی مددگار اِنت؛ ادونای منی جانءَ سوب لۏکاںءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اِشا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "עזر",
+      "gloss": "مددگار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "سوب لۏکاںءَ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:07.651122939Z",
+  "model": "glm-5.3"
+}

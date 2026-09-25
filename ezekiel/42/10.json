@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "حیاطءِ گدرءِ پہناںءَ، دمڑءِ راہءَ، جتا جاگہءِ اگوں ءُ امارتءِ اگوں لشکاں اَنت.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "پہناںءَ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گدر"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حیاطءِ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "دمڑءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اگوں"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "جتا جاگہءِ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اگوں"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "امارتءِ"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "لشکاں اَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:25:37.926539271Z",
+  "model": "glm-5.3"
+}

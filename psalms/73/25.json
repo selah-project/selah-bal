@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "آسمانءَ منی پہ کے اِنت؟ ءُ گوں تریا — من چہ زمینءَ ہچ نہ پسند کت.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی پہ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانءَ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ءُ گوں تریا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "پسند کت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "چہ زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:09.825536350Z",
+  "model": "glm-5.3"
+}

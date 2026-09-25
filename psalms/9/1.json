@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "پہ رہبر، گوں اے کہ لبּنءِ موت — مزمور، پہ داودءِ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہبر"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "موتءِ سرءَ"
+    },
+    {
+      "surface": "لבן",
+      "gloss": "لبּن"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:32.858275578Z",
+  "model": "glm-5.3"
+}

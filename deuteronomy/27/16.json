@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "لعنتی اِنت آ کہ پِتءِ ءُ ماتءِ نکوہیں نام نہ کَنت؛ ءُ کالے مردم گوَشنت: آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنتی"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "نکوہیں نام نہ کَنت"
+    },
+    {
+      "surface": "אביو",
+      "gloss": "پِتءِ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ءُ ماتءِ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کالے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:25.716621653Z",
+  "model": "glm-5.3"
+}

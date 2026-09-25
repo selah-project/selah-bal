@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ میخالءَ، شاؤلءِ جنکءَ، آییءَ مرگءِ روچءَ ءُیک زہگ نہ اَت۔",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "ءُ میخالءَ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ءُیک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچءِ"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "مرگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:42:37.490617904Z",
+  "model": "glm-5.3"
+}

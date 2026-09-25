@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ روح در کت ءُ یاہوہءِ پیشءَ اُشتیت ءُ گوَشت: ما آءُ دھوکہ دیتں۔ ءُ یاہوہءَ آءُءَ گوَشت: گوں چُ؟",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ در کت"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ءُ اُشتیت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "دھوکہ دیتں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آءُءَ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "گوں چُ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:39:40.889350561Z",
+  "model": "glm-5.3"
+}

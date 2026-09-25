@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ موآب چہ اِسرائیلءَ سرکشی کت اَت، رند چہ اَہئابءِ مرت۔",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "ءُ سرکشی کت اَت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "چہ اِسرائیلءَ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "رند چہ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرت"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَہئابءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:07:52.250840723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ اُو گوَنگ گوں ⟨את⟩ آءَ پتہ کت، ءُ ایلوہیم چہ اَبرہامءَ اُوتشت۔",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "پتہ کت"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "گوَنگ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "گوں ⟨את⟩ آءَ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "اُوتشت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبرہام"
+    }
+  ],
+  "timestamp": "2026-09-24T18:30:06.478727590Z",
+  "model": "glm-5.3"
+}

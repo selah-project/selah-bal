@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "کیہ منءِ دست آسمانءَ اُٹھائیم ءُ گوَنم: من زندہ اَت، پہ ہمیشہ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "اُٹھائیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانءَ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "منءِ دست"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ءُ گوَنم"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:50.559521157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "روبرو کنڈءَ انگوٹھیان بنت، بادانی جاہاں پہ، میزءَ پُٹنگءَ پہ۔",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "روبرو"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "کنڈءِ"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "انگوٹھیان"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "جاہاں پہ"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "بادانی پہ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "پُٹنگءَ پہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میزءَ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:34.919635314Z",
+  "model": "glm-5.3"
+}

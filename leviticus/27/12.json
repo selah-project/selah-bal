@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ کاهن آییءَ ⟨את⟩ ارز کنت، چنگءَ یا خرابءَ؛ چوش کہ تُی کاهن ارز کنیں، ہمے چوش بیت۔",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "ءُ ارز کنت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "مال"
+    },
+    {
+      "surface": "בין",
+      "gloss": "یا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ یا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراب"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "چوش کہ تُی ارز کنیں"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ہمے چوش"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:36.622599782Z",
+  "model": "glm-5.3"
+}

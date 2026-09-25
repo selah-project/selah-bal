@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ چِزکیاہءِ شاہءِ گماشتگان یشعیاہءَ آتنت",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ءُ آتنت"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "گماشتگان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "چِزکیاہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:33:09.472783529Z",
+  "model": "glm-5.3"
+}

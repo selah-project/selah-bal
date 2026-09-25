@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 149,
+  "translation": "پہ انتقام کنگ پہ قومان ءَ، ءُ سزاء دئگ پہ قومان ءَ۔",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "پہ کنگ"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "انتقام"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "پہ قومان ءَ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "سزاء"
+    },
+    {
+      "surface": "בל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "قومان ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:15.083847520Z",
+  "model": "glm-5.3"
+}

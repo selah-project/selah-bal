@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "شیئول ءُ بانجھ رحم، زمین کہ آپءَ شاد نہ بیت، ءُ آتش کہ نہ گوَشیت: «بس اِنت.»",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "شیئول"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "ءُ بانجھ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ءُ آتش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "گوَشیت"
+    },
+    {
+      "surface": "הון",
+      "gloss": "بس"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:45.252234224Z",
+  "model": "glm-5.3"
+}

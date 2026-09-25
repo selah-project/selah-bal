@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کٹائی گوَزشت، گرمیءِ موسم پُر کت، ءُ ما نجات نہ یافتگ اَنت۔",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "گوَزشت"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "کٹائی"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "پُر کت"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "گرمیءِ موسم"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ءُ ما"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "نجات یافتگ اَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:47:57.702394029Z",
+  "model": "glm-5.3"
+}

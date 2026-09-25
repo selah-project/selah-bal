@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ما اِشاں ⟨את⟩ ہرام کت، چوش کہ سیحونءَ، حشبونءِ شاہ، کتون — ہر شہر را ہرام کت، مرد، زنان ءُ زچگ.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "ءُ ہرام کت"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ اِشاںءَ",
+      "marks": "اِشاں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "کتون"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "سیحونءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ہرام کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "زنان"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ءُ زچگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:25.236290360Z",
+  "model": "glm-5.3"
+}

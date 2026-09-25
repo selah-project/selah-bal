@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "کہ ہم مادہ آهوان میدانءَ زائگ، ءُ آییءَ لاگیت — کہ گیاہ نہ اَت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "مادہ آهوان"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "میدانءَ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زائگ اِشتنت"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ءُ آییءَ لاگیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "گیاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:11.426182382Z",
+  "model": "glm-5.3"
+}

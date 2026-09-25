@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "پردہ پنج دہ اَمّہ یک شانہءَ اِنت، آیانی سئے ستون ءُ آیانی سئے پایہ۔",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمّہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "یک شانہءَ"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "آیانی سئے ستون"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ءُ آیانی سئے پایہ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:24.863350059Z",
+  "model": "glm-5.3"
+}

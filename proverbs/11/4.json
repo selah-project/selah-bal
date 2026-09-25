@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "دولت غضبءِ روچءَ سود نہ دیت، بلے راستی مرگءَ رستیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "سود دیت"
+    },
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ تہ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "غضبءِ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "بلے راستی"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "رستیت"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "چہ مرگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:35.351172303Z",
+  "model": "glm-5.3"
+}

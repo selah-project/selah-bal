@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "اِشاں عین‌دورءَ تہ نابود بوتنت؛ اِشں زمینءَ پہ کھاد بوتگنت۔",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "نابود بوتنت"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "عین‌دورءَ تہ"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "دور"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوتگنت"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "کھاد"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "زمینءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:57.864109080Z",
+  "model": "glm-5.3"
+}

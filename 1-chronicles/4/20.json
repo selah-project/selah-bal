@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ شیمونءِ زہگان: امنون ءُ رِنّہ، حنانءِ زہگ ءُ تِلون؛ ءُ یشعیءِ زہگان: زوحِت ءُ زوحِتءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگان"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "شیمونءِ"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "امنون"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "ءُ رِنّہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حنانءِ"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "ءُ تِلون"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگان"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "یشعیءِ"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "زوحِت"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "زوحِتءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:45.285679667Z",
+  "model": "glm-5.3"
+}

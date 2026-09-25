@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "دلی کہ بریءِ سوچاں گرنت، ءُ پا تیز کہ برائیءَ پہ دوڑنت۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "سوچاں"
+    },
+    {
+      "surface": "און",
+      "gloss": "بریءِ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پا"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "تیز"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "دوڑنت"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "برائیءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:44.969012732Z",
+  "model": "glm-5.3"
+}

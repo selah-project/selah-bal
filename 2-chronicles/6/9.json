@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "بلے تو گدان نہ جوڑ کنی، پرچا کہ تُہءِ زہگ، کہ چہ تُہءِ چڑان در بیت، آءِ گدان پہ منیءِ نامءَ جوڑ کنیت.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "جوڑ کنی"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تُہءِ زہگ"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "کہ در بیت"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "چہ تُہءِ چڑان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءِ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "جوڑ کنیت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "پہ منیءِ نامءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:34:44.453350681Z",
+  "model": "glm-5.3"
+}

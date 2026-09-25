@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "منی مددءَ شتاب بیت، اے ادونای، منی نجات.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "شتاب بیت"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "منی مددءَ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "منی نجات"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:45.129098656Z",
+  "model": "glm-5.3"
+}

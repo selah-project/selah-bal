@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ حصرون ⟨את⟩ رامءَ پیدا کت، ءُ رام ⟨את⟩ عمینادابءَ پیدا کت.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "ءُ حصرون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رامءَ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رامءَ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ءُ رام"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمینادابءَ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عمینادابءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:48:15.571401338Z",
+  "model": "glm-5.3"
+}

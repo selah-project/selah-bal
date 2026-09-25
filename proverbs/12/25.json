@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "پریشانی یک مردمی دلءَ آیءَ چم گشیت، ءُ چمیں لبز آیءَ شاد کنت۔",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "پریشانی"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مردمی"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "آیءَ چم گشیت"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ءُ لبز"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چمیں"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "آیءَ شاد کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:25.672093341Z",
+  "model": "glm-5.3"
+}

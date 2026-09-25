@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "منءَ گوَشت: آیانءَ وانگ بکڑیں، آیانیں یاد چہ مردمان پاک کنیں.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "منءَ گوَشت"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "آیانءَ وانگ بکڑیں"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "پاک کنیں"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "چہ مردمان"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "آیانیں یاد"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:27.567628574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اے منی زہگ، منی توراہءَ نہ ونیت، ءُ منی حکمان توءِ دلءِ تہ دپت کنت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "اے منی زہگ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "منی توراہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ونیت"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ءُ منی حکمان"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "دپت کنت"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "توءِ دلءِ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:57.105531071Z",
+  "model": "glm-5.3"
+}

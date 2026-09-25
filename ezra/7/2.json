@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "شَلّومءِ زہگ، صادوقءِ زہگ، اَخیتوبءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلومءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوقءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اخیتوبءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:08:10.980858163Z",
+  "model": "glm-5.3"
+}

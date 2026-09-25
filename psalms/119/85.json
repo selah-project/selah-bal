@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "زدین منءَ کُنڈان کت، آ کہ توراءِ پہمانءَ نہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "کنڈان کت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "زدین"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "کُنڈان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "توراءِ پہمانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:06.408212856Z",
+  "model": "glm-5.3"
+}

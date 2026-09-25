@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ شاؤلءَ گوَشتگ بیت کہ داود گتءَ گریز کت؛ ءُ آ پدا آییءَ نہ پُچیت۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ءُ گوَشتگ بیت"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤلءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "گریز کت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گتءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "زیات کت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "آییءَ پُچیت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:39:11.229849423Z",
+  "model": "glm-5.3"
+}

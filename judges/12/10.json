@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ اِبزان مرت ءُ تہ بیت‌لہمءَ دفن بوت.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "اِبزان"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ءُ دفن بوت"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "تہ بیت‌لہمءَ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-24T20:20:18.617236700Z",
+  "model": "glm-5.3"
+}

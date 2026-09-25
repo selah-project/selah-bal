@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "پوریں پتکیت، زمین پتکیت، ءُ پوریں لوٹیتیت — پرچا کہ یاہوہ ⟨את⟩ اے گالءَ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "پوریں پتکیت"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "پتکیت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "ءُ پوریں لوٹیتیت"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "لوٹیتیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گال"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے گال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:03.682185799Z",
+  "model": "glm-5.3"
+}

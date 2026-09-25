@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ ہر کپڑ ءُ ہر چمڑ کہ آییءِ سر شِکبت زرءِ ہوئیت، آ آپءَ شستہ بیت ءُ ناپاک بیت تا شامءَ۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "کپڑ"
+    },
+    {
+      "surface": "وכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڑ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوئیت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءِ سر"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "شِکبت"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زرءِ"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ءُ شستہ بیت"
+    },
+    {
+      "surface": "במים",
+      "gloss": "آپءَ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ءُ ناپاک بیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شامءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:50.719354288Z",
+  "model": "glm-5.3"
+}

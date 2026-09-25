@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 3:21",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "پہ گرشونءَ لبنیانی ٹولی ءُ شمعیانی ٹولی؛ اے اَنت گرشونیانی ٹولیان.",
+  "tokens": [
+    {
+      "surface": "לגרשון",
+      "gloss": "پہ گرشونءَ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹولی"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "لبنیانی"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "ءُ ٹولی"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "شمعیانی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹولیان"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "گرشونیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:29.986638155Z",
+  "model": "glm-5.3"
+}

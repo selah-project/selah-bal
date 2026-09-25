@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "آیا آییءِ ہیسید پہ ہمیشہ کُت بوت؟ آییءِ امر پہ نسل ءُ نسل کُت بوت؟",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "کُت بوت"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہیسید"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "کُت بوت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "امر"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "پہ نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ءُ نسل"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:04.438836905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "بھوکیان، گوں اِشاں تینگان، آیانی جان آیانی تہ کمزور بیت۔",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "بھوکیان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گوں اِشاں"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "تینگان"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "آیانی جان"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "آیانی تہ"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "کمزور بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:14.563363250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "نہ یک روچ کوئیت، ءُ نہ دو روچ، ءُ نہ پنچ روچ، ءُ نہ دہ روچ، ءُ نہ گیش روچ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "کوئیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "دو روچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:35:24.838510621Z",
+  "model": "glm-5.3"
+}

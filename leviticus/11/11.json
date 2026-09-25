@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ گندین چیزی بیت اِشاں تُمئے پہ: آیانی گوشتءَ نہ گوشنت، ءُ ⟨את⟩ آیانی لاشءَ گندنت.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "ءُ گندین چیز"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُمئے پہ"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "آیانی گوشتءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آیانی لاش"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "آیانی لاش"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "گندنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:14:42.759646694Z",
+  "model": "glm-5.3"
+}

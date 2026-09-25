@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "وا ڈِنگءِ روءَ لَٹیت، پنج سد نی گوں شمارءِ نیءَ شماریت.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "لَٹیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رو"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ڈِنگ"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "شماریت"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "نی"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "گوں نیءَ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "شمارءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:06:16.045039370Z",
+  "model": "glm-5.3"
+}

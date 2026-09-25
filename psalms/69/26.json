@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 69,
+  "translation": "اِشانی قَلعَہ وِیران بیت، ءُ اِشانی گَداناں تہ ہچ جُہوک نہ بیت.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "اِشانی قَلعَہ"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "وِیران"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "اِشانی گَداناں تہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "جُہوک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:53.176970324Z",
+  "model": "glm-5.3"
+}

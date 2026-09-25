@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "ءُ من بی‌عقل اَتُم ءُ نہ زانتُم؛ گوں تُا چوش یک مال اَتُم۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بی‌عقل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "زانتُم"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "مال"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "اَتُم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تُا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:05.131836649Z",
+  "model": "glm-5.3"
+}

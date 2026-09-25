@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "همے روچءَ آ گوشیت؛ چیزے چہ آییءَ تا سپیدئی سرا رہند نہ کنیں — ءَ یاہوہ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "همے آ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "رہند کنیں"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آییءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سپیدئی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:14.116016887Z",
+  "model": "glm-5.3"
+}

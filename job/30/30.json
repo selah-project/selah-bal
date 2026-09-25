@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "مءِ پرت مءِ سرءَ سیاہ بوت ءُ مءِ ہڈی چہ تپش سوڑ بوت.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "مءِ پرت"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سیاہ بوت"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "مءِ سرءَ"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ءُ مءِ ہڈی"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "سوڑ بوت"
+    },
+    {
+      "surface": "מני",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تپش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:41:33.389788383Z",
+  "model": "glm-5.3"
+}

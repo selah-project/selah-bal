@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "لعنت بیت آ کہ پناہ گیرءِ ءُ یتیمءِ ءُ بیوءِ انصافءَ پھیریت ءُ گوَشتئے سئے قوم ءُ گوَشت آمن.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت بیت"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "پھیریت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پناہ گیرءِ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیمءِ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ءُ بیوءِ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:00.891448655Z",
+  "model": "glm-5.3"
+}

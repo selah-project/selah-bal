@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "آ کہ پتءَ لٹیت ءُ ماتءَ فرار دیت، اے زہگ شرم وانیت ءُ رسوائی وانیت.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "لٹیت"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پتءَ"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "فرار دیت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماتءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "شرم وانیت"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "ءُ رسوائی وانیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:26.214198163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ائزر یکمی، عوبادیا دومی، ایلیاب سئیمی۔",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "ائزر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "یکمی"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عوبادیا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ایلیاب"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "سئیمی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:51.658539338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ آے آییءَ گوَشت: تری نام چے اِنت؟ ءُ آے گوَشت: یاعقوب۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ آے گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چے"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تری نام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ آے گوَشت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T18:38:12.971251732Z",
+  "model": "glm-5.3"
+}

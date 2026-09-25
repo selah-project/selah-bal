@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کہ نہ توءَ گوشتگ ءُ شر بوتگ، ءُ چنگین گڈاں توءَ جوڑ کتگ ءُ تہ آیانءَ توءَ وتائیتگ،",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "توءَ گوشتگ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ءُ شر بوتگ"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ءُ چنگین گڈاں"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگین"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "توءَ جوڑ کتگ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ءُ توءَ وتائیتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:50:33.325768759Z",
+  "model": "glm-5.3"
+}

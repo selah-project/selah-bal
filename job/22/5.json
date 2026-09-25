@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اِشت تیری بدی گیش نہ اِنت؟ ءُ تیری گنہانءِ کس نہ اِنت؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "اِشت نہ"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "تیری بدی"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نہ اِنت"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "کس"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "تیری گنہانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:37:41.654322818Z",
+  "model": "glm-5.3"
+}

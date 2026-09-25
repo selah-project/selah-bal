@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یاہوہءَ گوَشت: یہودہ بریچت؛ اے گور، من ⟨את⟩ زمین آییءِ دستءَ دِتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "יהודה יעלה",
+      "gloss": ""
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بریچت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اے گور"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "⟨את⟩ من…دِتگ اِنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "آییءِ دستءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:14:22.936331643Z",
+  "model": "glm-5.3"
+}

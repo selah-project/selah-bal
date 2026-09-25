@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "آیانءَ تُئے انگشتانءَ گرہ دہ، آیانءَ تُئے دلءِ لوحءَ نویش۔",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "آیانءَ گرہ دہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "تُئے انگشتانءَ"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "آیانءَ نویش"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "لوحءَ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تُئے دلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:23.853442441Z",
+  "model": "glm-5.3"
+}

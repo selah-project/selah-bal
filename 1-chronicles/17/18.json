@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "چہ دگہ داود تُئَ شے تُہءَ پہ تُہءِ چاکرءِ عزتءَ زیاد کنت؟ ءُ تُو ⟨את⟩ تُہءِ چاکرءَ زانتءے۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "زیاد کنت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود ⟨داؤد⟩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "پہ عزتءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاکرءَ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تُہءِ چاکرءَ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تُو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاکرءَ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تُہءِ چاکرءَ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "زانتءے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:29:08.079365752Z",
+  "model": "glm-5.3"
+}

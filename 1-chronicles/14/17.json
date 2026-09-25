@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ داوودءِ نام گچ تمامءِ زمیناناں درا بوت، ءُ یاہوہ ⟨את⟩ آییءِ ڈر تمام قومانءِ سرءَ دات.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "درا بوت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوودءِ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تمامءِ"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "زمیناناں"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ ڈر"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "آییءِ ڈر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومانءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:05.131949867Z",
+  "model": "glm-5.3"
+}

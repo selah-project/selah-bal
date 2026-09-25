@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ گبعونءِ رہونکاں گوشیت ⟨את⟩ آ کہ یوشوعءَ یریحو ءُ آییءِ سرءَ کت۔",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "ءُ رہونک"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گبعون"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یوشوع"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "پہ یریحو"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ءُ پہ آیی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:07:17.394724234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ یاہوہءَ موشہ ⟨موسیٰ⟩ ءُ اہارونءَ گوَشت، مِتسرایمءِ زمینءَ، آں کہ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہارون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "مצרים",
+      "gloss": "مِتسرایمءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آں کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:53:58.358698664Z",
+  "model": "glm-5.3"
+}

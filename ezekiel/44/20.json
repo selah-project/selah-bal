@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "ءُ اِشاںءِ سر نہ مُنت، ءُ گچن نہ چڑایتنت؛ گچن کن انت ⟨את⟩ اِشاںءِ سران۔",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "ءُ اِشاںءِ سر"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "مُنت"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "ءُ گچن"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "چڑایتنت"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "گچن کن"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "کن انت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِشاںءِ سران"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "اِشاںءِ سران"
+    }
+  ],
+  "timestamp": "2026-09-24T22:27:48.502604325Z",
+  "model": "glm-5.3"
+}

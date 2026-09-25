@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ پاکانی پاکءِ گدانءَ دو کروبان جوڑ کت، تراشیں کارءِ چوں، ءُ ⟨את⟩ اِشاں زرءَ ڈھپیت.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "تہ گدان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاکانی"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "کروبان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کارءِ"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "تراشیں"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "ءُ ڈھپیت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "کروبان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:33:59.525514714Z",
+  "model": "glm-5.3"
+}

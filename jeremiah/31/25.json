@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "چہ آ کہ من منڈاے جانءَ سیر کتءم، ءُ ہر پریشان جانءَ من پُر کتءم۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ آ کہ"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "سیر کتءم"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانءَ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "منڈاے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانءَ"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "پریشان"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "پُر کتءم"
+    }
+  ],
+  "timestamp": "2026-09-24T21:56:15.362500293Z",
+  "model": "glm-5.3"
+}

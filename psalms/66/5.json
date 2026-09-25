@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "روں ءُ دیست کنں ایلوہیمءِ کاراناں؛ دہشتگ اِنت آییءِ کار آدمءِ زہگانءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "روں"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ءُ دیست کنں"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "کاراناں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "دہشتگ"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:10.389248623Z",
+  "model": "glm-5.3"
+}

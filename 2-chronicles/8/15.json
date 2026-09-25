@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ آے بادشاہءِ حکمءَ چہ کاهنان ءُ لویانءِ سرءَ، پہ ہر گال ءُ پہ خزانگانیءَ، پرت نہ کتنت.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "پرتی"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "چہ حکمِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانءِ"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ءُ لویانءِ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "ءُ پہ خزانگانیءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:36:13.884316775Z",
+  "model": "glm-5.3"
+}

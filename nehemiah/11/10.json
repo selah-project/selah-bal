@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "کاہنانان چہ: یِدعیا یُویاریبءِ زہگ، یاکین.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنانان"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یِدعیا"
+    },
+    {
+      "surface": "بן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "یُویاریبءِ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "یاکین"
+    }
+  ],
+  "timestamp": "2026-09-25T00:18:34.546310941Z",
+  "model": "glm-5.3"
+}

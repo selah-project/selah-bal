@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "میزءَ چیدنت، نگہبانءَ نگہ بنت، بوگنت، شوگنت — اٹیں، اے سروران، ڈالءَ چرب کنیٹ۔",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "چیدنت"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨the⟩ میز"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "پوشنت"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "⟨the⟩ پوشنگ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "بوگنت"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "شوگنت"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "اٹیں"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "اے سروران"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "چرب کنیٹ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈال"
+    }
+  ],
+  "timestamp": "2026-09-24T21:26:36.380932440Z",
+  "model": "glm-5.3"
+}

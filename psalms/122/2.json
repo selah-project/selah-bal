@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 122,
+  "translation": "پیدمان ماں تُئے دروازگاںءَ، اے یروشلم، ایستگ اَنت۔",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "ایستگ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "پیدمان"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ماں تُئے دروازگاںءَ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:16.439787148Z",
+  "model": "glm-5.3"
+}

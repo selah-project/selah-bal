@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "اگر آییءِ زہگان منی تورا رہا کننت ءُ منی حکمانءَ تہ نہ رونت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "رہا کننت"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "آییءِ زہگان"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "منی تورا"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "ءُ منی حکمانءَ تہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "رونت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:59.477424904Z",
+  "model": "glm-5.3"
+}

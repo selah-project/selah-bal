@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یاہوہءِ ہیسیدان — پرچا کہ پور نہ بوتنت؛ پرچا کہ آییءِ رحمتان کم نہ بنت.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ہیسیدان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "پور نہ بوتنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "کم نہ بنت"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "آییءِ رحمتان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:38.697368339Z",
+  "model": "glm-5.3"
+}

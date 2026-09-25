@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 23:28",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "آ ہم چوش کہ یک ڈاکو گھات گنت، ءُ مردمانی ماں بدعہداں گیش کنیت۔",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "כחתף",
+      "gloss": "چوش کہ یک ڈاکو"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "گھات گنت"
+    },
+    {
+      "surface": "ובוגדים",
+      "gloss": "ءُ بدعہداں"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "مردمانی ماں"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "گیش کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:55.113935687Z",
+  "model": "glm-5.3"
+}

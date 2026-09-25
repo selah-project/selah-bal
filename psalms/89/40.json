@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "وتءِ غلامءِ عہد توڑ کتگ، آییءِ تاجءَ زمینءَ پلوت کتگ۔",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "توڑ کتگ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "وتءِ غلامءِ"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "پلوت کتگ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "آییءِ تاجءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:30.641996546Z",
+  "model": "glm-5.3"
+}

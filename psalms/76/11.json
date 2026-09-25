@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 76,
+  "translation": "کیں کہ مردمءِ غم تُوءَ ستایش کنت؛ غمءِ سرپد تُو کمرءَ گرڈی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیں کہ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "غمءِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "تُوءَ ستایش کنت"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "سرپد"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "غمءِ"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "تُو کمرءَ گرڈی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:31.060530499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ آیانءَ گوَشت: نہ، بلکہ شمہ آئتگ انت کہ زمینءِ برہنگیءَ گندیت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "آیانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برہنگی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "آئتگ انت"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "پہ گندیت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:06.352035356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ یاد کت کہ اِشان جست ⟨اِنت⟩ — یک واءُ کہ روت ءُ نہ پدا آیت۔",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ءُ یاد کت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جست"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِشان"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "واءُ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پدا آیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:34.038192459Z",
+  "model": "glm-5.3"
+}

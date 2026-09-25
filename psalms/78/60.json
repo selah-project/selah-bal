@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ شیلوہءِ مِشکان لٹیت، آ گدانی کہ آییءَ مردمانی ماں جا کتگ بوت۔",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "ءُ لٹیت"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مِشکان"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "شیلوہءِ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "جا کتگ بوت"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "مردمانی ماں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:29.748712582Z",
+  "model": "glm-5.3"
+}

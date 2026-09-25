@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "کیہ کہ کارءِ کنوکاںءَ آیی دنت، ءُ گوں آیی ⟨את⟩ یاہوہءِ گadanءَ محکم کت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "کار کنوکاںءَ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "کارءِ"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "آیی دنت"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ءُ محکم کت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "گوں آیی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گadan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:13:52.464939116Z",
+  "model": "glm-5.3"
+}

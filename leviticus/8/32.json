@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ آ کہ گوشتءَ ءُ نانءَ چہ آے رند بیت، آیءَ آتشءَ تہ سوزانیں.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ءُ آے رند بوتگیں"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "گوشتءَ چہ"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ءُ نانءَ چہ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آتشءَ تہ"
+    },
+    {
+      "surface": "תשרפو",
+      "gloss": "سوزانیں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:32.934339223Z",
+  "model": "glm-5.3"
+}

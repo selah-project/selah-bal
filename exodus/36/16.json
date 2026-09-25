@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ ⟨את⟩ پنچ پردہانءَ جتا چمب کت، ءُ ⟨את⟩ شش پردہانءَ جتا۔",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ءُ چمب کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنچ پردہان"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردہانءَ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جتا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شش پردہان"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردہانءَ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جتا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:08:42.832804395Z",
+  "model": "glm-5.3"
+}

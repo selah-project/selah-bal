@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "زَتُّوءِ زہگان، نہ سد ءُ چالیہ ءُ پنچ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زَتُّوءِ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ءُ چالیہ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ءُ پنچ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:10.239168915Z",
+  "model": "glm-5.3"
+}

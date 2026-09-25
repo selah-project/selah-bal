@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ اِشاںءَ گوں سکئے ءُ دامادئے گرگ نہ کن — تُءِ جنک نہ دیت آییءِ زہگءَ، ءُ آییءِ جنک نہ گر تُءِ زہگءَ پہ۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "سکئے ءُ دامادئے گرگ کن"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اِشاںءَ گوں"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "تُءِ جنک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "آییءِ زہگءَ"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ءُ آییءِ جنک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گر"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "تُءِ زہگءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:50:17.522224239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ڈرناک ءُ بھایوک آ ⟨اِنت⟩؛ چہ آیءَ آییءِ انصاف ءُ آییءِ بُلندی برونت روت۔",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "ڈرناک"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ءُ بھایوک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آیءَ"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "آییءِ انصاف"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "ءُ آییءِ بُلندی"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "برونت روت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:40:52.092704259Z",
+  "model": "glm-5.3"
+}

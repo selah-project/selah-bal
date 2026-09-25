@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "احمق تہ تہبوریءَ شاد نہ بیت، بلے آ کہ دلءِ ایش گشکاشت بیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "کסיל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "تہ تہبوریءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلے آ کہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨is⟩ آ کہ"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "گشکاشت بیت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دلءِ ایش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:12.862055811Z",
+  "model": "glm-5.3"
+}

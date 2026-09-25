@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "تباہیءَ ءُ گریپءَ کِند کنی، ءُ زمینءِ جانورءَ نہ ترسی۔",
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "تباہیءَ"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "ءُ گریپءَ"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "کِند کنی"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "ءُ جانورءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ترسی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:19.988077648Z",
+  "model": "glm-5.3"
+}

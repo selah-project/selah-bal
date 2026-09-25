@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ یہوءَ بلءَ ⟨את⟩ چہ اِسرائیلءَ نیسپت کت۔",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "ءُ نیسپت کت"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یہوءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بل"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "بلءَ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "چہ اِسرائیلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:11:03.497885048Z",
+  "model": "glm-5.3"
+}

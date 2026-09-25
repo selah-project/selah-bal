@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کی رشائیءِ نان چوکنت ءُ زوریں مَی شُتنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "چوکنت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشائی"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ءُ مَی"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "زوریں"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "شُتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:05.069741637Z",
+  "model": "glm-5.3"
+}

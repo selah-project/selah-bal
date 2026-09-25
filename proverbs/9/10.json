@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "شروعءِ دانائی یاہوہءِ ڈر ⟨اِنت⟩ ءُ مقدسانءِ شناخت عقلمندی ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "شروعءِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائیءِ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ڈرءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ شناخت"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مقدسانءِ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "عقلمندی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:23.738113864Z",
+  "model": "glm-5.3"
+}

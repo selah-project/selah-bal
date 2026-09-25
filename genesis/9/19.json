@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "سئے اے نوحءِ زہگان ⟨اَنت⟩؛ ءُ چے اِشاں چُم تمام زمین پرا بیت.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوحءِ"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ءُ چے اِشاں چُم"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "پرا بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:48.637075174Z",
+  "model": "glm-5.3"
+}

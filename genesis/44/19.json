@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "منءِ آقا منءِ غلامانءَ ⟨את⟩ پُچشت کہ: آیا شمائے پیت یا بِرار؟",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "منءِ آقا"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پُچشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منءِ غلامان"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "منءِ غلامانءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "آیا ... اِنت"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "شمائے"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אח",
+      "gloss": "بِرار"
+    }
+  ],
+  "timestamp": "2026-09-24T18:46:39.180881651Z",
+  "model": "glm-5.3"
+}

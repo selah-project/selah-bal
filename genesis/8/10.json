@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ آءَ ہنوں ہپت دگہ روچ انتظار کت، ءُ پدا ⟨את⟩ کبوترءَ چہ گدانءَ پیش کت.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ءُ انتظار کت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہنوں"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ءُ پدا"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "پیش کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کبوترءَ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کبوترءَ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "گدانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:37.158533505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "کہ اے دو سالءَ قحط ⟨⟨⟨زمینءِ⟩⟩⟩ میانءَ ہست، ءُ گیش پنچ سالءَ پشت کہ نہ کاشت اِنت ءُ نہ درو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دو سال"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ ہست"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "کاشت"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "ءُ درو"
+    }
+  ],
+  "timestamp": "2026-09-24T18:48:01.361161071Z",
+  "model": "glm-5.3"
+}

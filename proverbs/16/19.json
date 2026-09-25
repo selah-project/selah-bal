@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "چنگ اِنت جل روح ⟨את⟩ کمبشتاراں، چہ لوٹءِ ونڈ ⟨את⟩ گوناں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "جل"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کمبشتاراں"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "کمبشتاراں"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "ونڈ کوک"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لوٹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوناں"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "گوناں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:46.014927135Z",
+  "model": "glm-5.3"
+}

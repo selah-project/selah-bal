@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "مہربان زناں عزت گندیت، ءُ زورآور دولت گندنت۔",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "زناں"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مہربان"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ءُ زورآور"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "گندنت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:41.696274851Z",
+  "model": "glm-5.3"
+}

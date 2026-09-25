@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "پَحات مُوآبءِ زہگان، یِشُوع ءُ یُوآبءِ زہگانی چہ، ہزار ہشت سد ءُ دو دہمی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَحات"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآبءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زہگانی چہ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یِشُوع"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ءُ یُوآبءِ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ہشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہمی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:10.238868434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "شاہءِ غم مکنی مرگانی اِنت، پرچا کہ داناں مردی آءَ آرام کنت۔",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "غم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "مکنی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگانی"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ مردی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "داناں"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "آءَ آرام کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:35.590197413Z",
+  "model": "glm-5.3"
+}

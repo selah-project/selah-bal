@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اَمَریاہءِ زہگ، عزریاہءِ زہگ، مَرایوتءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امریاہءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاہءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مرایوتءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:08:10.981134617Z",
+  "model": "glm-5.3"
+}

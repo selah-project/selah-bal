@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ کاہن چربیءِ ⟨את⟩ مذبحءَ سُوچیت، ءُ سینہ اہارونءَ ءُ وتی زہگانءَ بیت.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ءُ سُوچیت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "مذبحءَ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "سینہ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اہارونءَ"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ءُ وتی زہگانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:43.136533126Z",
+  "model": "glm-5.3"
+}

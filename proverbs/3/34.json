@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اگر ہنسوکانیں اِنت، آ ءُ ہنسیت؛ ءُ غریبان ءَ مہربانی دیت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "ہنسوکانیں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "ہنسیت"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "ءُ غریبان ءَ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مہربانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:23.215409959Z",
+  "model": "glm-5.3"
+}

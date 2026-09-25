@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "تو بیت دِنت آیانءَ دلیں سختگی، تیریں لعنت آیانءَ بیت.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "تو بیت دِنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آیانءَ"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "سختگیءِ پردہ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلیں"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "تیریں لعنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آیانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:20.913617569Z",
+  "model": "glm-5.3"
+}

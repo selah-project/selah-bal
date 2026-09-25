@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "آییءِ رسی زمینءَ پُوشیت اِنت، ءُ آییءِ دام رستہءِ سر۔",
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "پُوشیت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "آییءِ رسی"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "ءُ آییءِ دام"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "سر"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "رستہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:31.471267349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ نادابءِ زہگان سِلِد ءُ اَپّایم اَنت؛ ءُ سِلِد مُرت — زہگان نہ اَنت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ ... ءِ زہگان"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ناداب"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سِلِد"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "ءُ اَپّایم"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُرت"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سِلِد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:57.849817422Z",
+  "model": "glm-5.3"
+}

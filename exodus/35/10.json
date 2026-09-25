@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ کل دلءِ دانا شمایچ آیاں بیت ءُ بجنیت ⟨את⟩ کل آ کہ یاہوہءَ حکم کتگ۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ کل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءِ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "شمایچ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آیاں بیت"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ءُ بجنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کل آ کہ یاہوہءَ حکم کتگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:06:21.752811270Z",
+  "model": "glm-5.3"
+}

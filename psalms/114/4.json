@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 114,
+  "translation": "کوہان چوش نر گوانی رقچ بنت، ٹپان چوش گوانیءِ زہگان؛",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "کوہان"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "رقچ بنت"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "چوش نر گوانی"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ٹپان"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "چوش … ءِ زہگان"
+    },
+    {
+      "surface": "צאن",
+      "gloss": "گوانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:31.730734026Z",
+  "model": "glm-5.3"
+}

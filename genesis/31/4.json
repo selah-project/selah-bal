@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ یاعقوب رائی کت ءُ بانگ کت راحیلءَ ءُ لِیہءَ کشتءَ پہ آئیءِ گوپتانی.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ رائی کت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعقوب"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راحیلءَ"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "ءُ لِیہءَ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کشتءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "آئیءِ گوپتانی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:38:55.528285362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ ⟨את⟩ گناهءِ قربانیءِ چربی قربانگاہءَ تہ سوڑیت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناهءِ قربانیءِ"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "سوڑیت"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربانگاہءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:15.691202096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "کے چہ اِشاں گیش نہ زانیت کہ یاہوہءِ دست اے کت؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانیت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "چہ گیش"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِشاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:32.037957786Z",
+  "model": "glm-5.3"
+}

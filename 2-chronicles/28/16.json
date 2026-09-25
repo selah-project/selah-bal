@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "او وہدءَ تہ بادشاہءَ اَخازءَ آشورءِ بادشاہانءِ پیش آیءِ پہ مددءِ پہ گال شھیت۔",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "وہدءَ تہ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "او"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شھیت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہءَ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَخازءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پیش"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہانءِ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشورءِ"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "مددءِ پہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:43:57.918801611Z",
+  "model": "glm-5.3"
+}

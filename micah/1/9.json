@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "کی آییءِ ماراں نا-شفا اِنت؛ کی آ یہوداہءَ آتکیت، آ منی قومءِ دمءَ منیت، تا یروشالمءَ رسیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "نا-شفا"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "آییءِ ماراں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آتکیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءَ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "رسیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دمءَ منیت"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قومءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشالمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:06:58.455673386Z",
+  "model": "glm-5.3"
+}

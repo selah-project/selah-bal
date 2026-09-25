@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "اے نبشتہ بیت پہ آئندی نسلءِ پہ، ءُ قومی کہ جوڑ بیت یاہءِ تعریف کنت۔",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "نبشتہ بیت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "پہ … نسلءِ پہ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "آئندی"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ءُ قومی"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "جوڑ بوتگیں"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "تعریف کنت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:03.032721135Z",
+  "model": "glm-5.3"
+}

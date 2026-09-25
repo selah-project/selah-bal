@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اے یاہوہ، تو آیانءَ بدلہ پدا دیتی، چوش آیانی دستانی کارءِ۔",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "تو پدا دیتی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آیانءَ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "چوش کارءِ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "آیانی دستانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:44.841325038Z",
+  "model": "glm-5.3"
+}

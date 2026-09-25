@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 71,
+  "translation": "توں مئیں وڈیپل گیش کنی، ءُ پدا وبی تیں مارا تسلی دی۔",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "گیش کنی"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "مئیں وڈیپل"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "ءُ پدا وبی"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "تیں مارا تسلی دی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:30.117129876Z",
+  "model": "glm-5.3"
+}

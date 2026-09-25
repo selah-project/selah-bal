@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ احیتوبءَ ⟨את⟩ سدوقءَ زہگ کت، ءُ سدوقءَ ⟨את⟩ شلومءَ زہگ کت۔",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ءُ احیتوبءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زہگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سدوق"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "سدوقءَ"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ءُ سدوقءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زہگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلومءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:56.669888253Z",
+  "model": "glm-5.3"
+}

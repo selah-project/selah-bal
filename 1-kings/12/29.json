@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ ⟨او⟩ یکے ⟨את⟩ بیت ایلءَ جا کت، ءُ ⟨את⟩ دومیے دانءَ دیت۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "جا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یکے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایلءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دومیے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "دومیے"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "دانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:01:32.110109850Z",
+  "model": "glm-5.3"
+}

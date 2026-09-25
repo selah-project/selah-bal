@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ماءِ گوشانی تہ یاہوہ سباؤتءَ گوَشت: چُوں بے شک گیش گدان ویران بنت، مزنین ءُ چنگ، بے کشوک۔",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "ماءِ گوشانی تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چُوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "بے شک نہ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "پہ ویرانی"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "مزنین"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ءُ چنگ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بے"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "کشوک"
+    }
+  ],
+  "timestamp": "2026-09-24T21:22:30.945089178Z",
+  "model": "glm-5.3"
+}

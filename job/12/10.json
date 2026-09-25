@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "آ کہ وتی دستءِ تہ هر زیندهءِ جان ⟨اِنت⟩ ءُ روح گشتریں گوشتءِ مردءِ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "وتی دستءِ تہ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندهءِ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ءُ روح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گشتریں"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشتءِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:32.038206301Z",
+  "model": "glm-5.3"
+}

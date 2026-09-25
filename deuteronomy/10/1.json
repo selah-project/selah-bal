@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 10:1",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "اے وہدءَ یاہوہ منءَ گوَشت: پہ وت دو لُوہءِ سنگ تراش کن چوش اولیانی، ءُ منءَ اللہ کؤہءَ بزن، ءُ پہ وت یک صندوقءِ درچ جوڑ کن۔",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "اے وہدءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "تراش کن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ وت"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "لُوہ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "چوش اولیانی"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "ءُ بزن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ الٰہ"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "کؤہءَ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ جوڑ کن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ وت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درچ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:04.143179464Z",
+  "model": "glm-5.3"
+}

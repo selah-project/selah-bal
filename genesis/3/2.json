@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ جنکءَ مارءَ گوَشت: گدانءِ دارانی میوہ چہ آیا مان گوشیں.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "چہ میوہ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "مان گوشیں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:21.605876016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 113,
+  "translation": "بیت یاہوہءِ نام برکت دار، چہ اے وہدءَ ءُ تا ہمیشہ۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "برکت دار"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "چہ اے وہدءَ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:20.191854402Z",
+  "model": "glm-5.3"
+}

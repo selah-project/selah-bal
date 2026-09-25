@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ اِشیءِ لشکر ءُ اِشاںءِ شماراں دو ءُ ششت ہزار ءُ ہپت سد اِنت.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ءُ اِشیءِ لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ءُ اِشاںءِ شماراں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ءُ ششت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ءُ ہپت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:45.063416097Z",
+  "model": "glm-5.3"
+}

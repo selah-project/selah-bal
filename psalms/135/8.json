@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "کہ آے مِتسرایمیں اولزیچکان زت، چہ مردم ءُ چہ مال۔",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "کہ آے زت"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "اولزیچکان"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمیں"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "چہ مردم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:47.496502098Z",
+  "model": "glm-5.3"
+}

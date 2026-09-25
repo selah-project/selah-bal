@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ موشہ کوهءَ سرءَ چڑیت، ءُ ہابر ⟨את⟩ کوهءَ ڈپ کت.",
+  "tokens": [
+    {
+      "surface": "וַיַּעַל",
+      "gloss": "ءُ چڑیت"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…ءَ سرءَ"
+    },
+    {
+      "surface": "הָהָר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "וַיְכַס",
+      "gloss": "ءُ ڈپ کت"
+    },
+    {
+      "surface": "הֶעָנָן",
+      "gloss": "ہابر"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "کوهءَ"
+    },
+    {
+      "surface": "הָהָר",
+      "gloss": "کوه"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:08.355024682Z",
+  "model": "glm-5.3"
+}

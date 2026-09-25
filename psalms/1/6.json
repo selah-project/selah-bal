@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "کیہ یاہوہ راستانی رہ زانت، ءُ بدکشانی رہ برباد بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رہ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستانی"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ءُ رہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکشانی"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "برباد بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:34.691513155Z",
+  "model": "glm-5.3"
+}

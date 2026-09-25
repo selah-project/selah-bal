@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "نہ شاد بنت مہ دشمن بے رستی ماءِ پہ، ءُ نہ چشمی ٹیوکننت اے کہ بے سبب مہ دشمنی کننت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "شاد بنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماءِ پہ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "مہ دشمن"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "بے رستی"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "مہ دشمنی کنوک"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "בے سبب"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "چشمی ٹیوکننت"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:45.558680491Z",
+  "model": "glm-5.3"
+}

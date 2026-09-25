@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 55,
+  "translation": "کہ یکجا رازءِ شیرینی کرڈار، ایلوہیمءِ گدانءَ گوں ہجومءَ روت.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "شیرینی کرڈار"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "راز"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "تہ گدانءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "گوں ہجومءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:09.994459370Z",
+  "model": "glm-5.3"
+}

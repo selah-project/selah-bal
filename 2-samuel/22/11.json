@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ آ کروبءِ سرءَ سوار بوت ءُ اُڑت، ءُ گوں واہءِ پرانءِ سرءَ پدا دات۔",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "ءُ سوار بوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ءُ اُڑت"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ءُ پدا دات"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "پرانءِ سرءَ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "واہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:48:49.138893570Z",
+  "model": "glm-5.3"
+}

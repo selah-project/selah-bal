@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "کیہ کہ شش ماہ یوآب ءُ پوریں اسرائیل اُتھا مانت، تا کہ پوریں نر تہ ادومءَ مکام کت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شش"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ماہ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "مانت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ پوریں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "مکام کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "تہ ادومءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:00:52.238840555Z",
+  "model": "glm-5.3"
+}

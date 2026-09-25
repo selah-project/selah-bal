@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "پڈالءِ زگ چوں کہ تہ یک مردمئے که بے، ءُ کوهنءِ پیشءَ آورتگ بیت.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "زگ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "پڈالءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوں کہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "که بے"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "تہ مردم"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ءُ آورتگ بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوهن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:08.925194263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ تُوعی حماطءِ بادشاہءَ گوشیت کہ داودءَ ⟨את⟩ پوریں لشکرءِ حددعزرءَ مار کتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ءُ گوشیت"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "تُوعی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماطءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "مار کتگ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں لشکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "حددعزرءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:42:39.224122040Z",
+  "model": "glm-5.3"
+}

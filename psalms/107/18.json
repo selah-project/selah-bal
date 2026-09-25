@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "ہر لبز آشان نفسی پریریت ءُ آ مرگءِ دروازگانی نزیک بوتنت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "لبز"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "پریریت"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "آشان نفسی"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "ءُ نزیک بوتنت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازگانی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:28.732008191Z",
+  "model": "glm-5.3"
+}

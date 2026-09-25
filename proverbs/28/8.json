@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 28:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "جو کہ سود ءُ رباءَ وتی دولت گیش کنت، آ کمزورانی بخشوکے آییءَ پہ چک اِنت.",
+  "tokens": [
+    {
+      "surface": "מרבה",
+      "gloss": "گیش کنت"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "وتی دولت"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "سودءَ"
+    },
+    {
+      "surface": "ובתרבית",
+      "gloss": "ءُ ربا"
+    },
+    {
+      "surface": "לחונן",
+      "gloss": "بخشوکے"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "کمزورانی"
+    },
+    {
+      "surface": "יקבצנו",
+      "gloss": "آییءَ پہ چک اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:27.935207458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 139,
+  "translation": "اگر ایلوہ بدکارا بکُشتئی — ءُ دمانی مردمان، چہ منیءَ دور بَرئو!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "بکُشتئی"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ءُ مردمانِ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "دمانی"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "دور بَرئو"
+    },
+    {
+      "surface": "مני",
+      "gloss": "چہ منیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:45.272347043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "پہ اِشی من پس دیتَم ءُ پشیمان بیتَم — گرد تہ ءُ راک تہ۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِشی"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "پس دیتَم"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ءُ پشیمان بیتَم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "گرد"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ءُ راک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:44.187793726Z",
+  "model": "glm-5.3"
+}

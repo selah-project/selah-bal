@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 62,
+  "translation": "سیب کنیت گوَں آ ہر وہد، اے قوم؛ شُش کنیت شماںئی دل آییءِ پیشءَ؛ ایلوہیم پناہ اِنت پہ ما۔ سلاہ",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "سیب کنیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "گوَں آ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "اے قوم"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "شُش کنیت"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "آییءِ پیشءَ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "شماںئی دل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناہ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "پہ ما"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:29.095427468Z",
+  "model": "glm-5.3"
+}

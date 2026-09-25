@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "بنگر، شاہ پہ راستی سلطنت کنت ءُ سروران پہ انصاف حکومت کننت.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "بنگر"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "پہ راستی"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "سلطنت کنت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ءُ سرورانءِ پہ"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "پہ انصاف"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "حکومت کننت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:59.377849754Z",
+  "model": "glm-5.3"
+}

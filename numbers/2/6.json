@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آییءِ لشکر ءُ آییءِ شمار یکتگیں چار ءُ پنچاه ہزار ءُ چار سد اِنت.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ءُ آییءِ لشکر"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ءُ آییءِ شمار یکتگیں"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ءُ پنچاه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ءُ چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:29.093299710Z",
+  "model": "glm-5.3"
+}

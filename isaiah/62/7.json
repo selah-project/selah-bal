@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 62,
+  "translation": "ءُ آیءَ آرام نہ دیت، تا آ ثابت کنت ءُ تا آ ⟨את⟩ یرشالمءَ زمینءَ تہ ستائش گنیت۔",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "ثابت کنت"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "گنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یرشالم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یرشالمءَ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ستائش"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:42:00.203576041Z",
+  "model": "glm-5.3"
+}

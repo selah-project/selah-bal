@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ ئی گشت اَشءَ یاہوہ تُہئی ایلوہیم ⟨את⟩ راہ کہ اَش آءَ روئن ءُ ⟨את⟩ گال کہ اَش کنئن",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ءُ ئی گشت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اَشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُہئی ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راہ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "روئن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گال"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کنئن"
+    }
+  ],
+  "timestamp": "2026-09-24T22:02:06.205303543Z",
+  "model": "glm-5.3"
+}

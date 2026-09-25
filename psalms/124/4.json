@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 124,
+  "translation": "آ وہد آپان ما ءَ شوست اَت، سیلاب مانی جانءَ سرءَ گزر اَت۔",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "آ وہد"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ما ءَ شوست اَت"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "سیلاب"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "گزر اَت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "مانی جان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:23.912126673Z",
+  "model": "glm-5.3"
+}

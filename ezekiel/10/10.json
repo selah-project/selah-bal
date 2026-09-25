@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 10:10",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ اِشانی شکل چاراں پہ یک شبیہ اِنت، چوش کہ چرخ چرخءِ میانءَ بیت.",
+  "tokens": [
+    {
+      "surface": "ומראיהם",
+      "gloss": "ءُ اِشانی شکل"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "شبیہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "چاراں پہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "چرخ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "چرخ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:04:48.572048443Z",
+  "model": "glm-5.3"
+}

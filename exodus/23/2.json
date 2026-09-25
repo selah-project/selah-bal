@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 23:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "نہ بیت گیشتریءِ پسءَ پہ بدی؛ ءُ نہ گشتار دیت پہ یک جنجالءَ، گیشتریءِ پسءَ پہ کج گرگ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پسءَ"
+    },
+    {
+      "surface": "رבים",
+      "gloss": "گیشتریءِ"
+    },
+    {
+      "surface": "לרעת",
+      "gloss": "پہ بدی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "گشتار دیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "یک جنجالءَ"
+    },
+    {
+      "surface": "לנטת",
+      "gloss": "پہ کج گرگ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پسءَ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیشتریءِ"
+    },
+    {
+      "surface": "להטת",
+      "gloss": "پہ کج گرگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:39.886344485Z",
+  "model": "glm-5.3"
+}

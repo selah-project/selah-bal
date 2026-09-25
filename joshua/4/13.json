@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 4:13",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "لشکرءِ چہل ہزار ہتھیاربند چہ یاہوہءِ پیشءَ پہ جنگ تا اربوت ی ریچوءَ گزر کت.",
+  "tokens": [
+    {
+      "surface": "כארבעים",
+      "gloss": "چہ گوں چہل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "ہتھیاربند"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکرءِ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "گزر کت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "پہ جنگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ערבות",
+      "gloss": "اربوت"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ریچوءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:04:11.263236792Z",
+  "model": "glm-5.3"
+}

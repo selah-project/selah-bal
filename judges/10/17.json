@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 10:17",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ بنی عمون بانگ کت ءُ گلعادءَ آچنت، ءُ بنی یسرائیل گڈ شنت ءُ متسپہءَ آچنت.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "بانگ کت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "آچنت"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "گلعادءَ"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "گڈ شنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "آچنت"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "متسپہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:20:12.068303823Z",
+  "model": "glm-5.3"
+}

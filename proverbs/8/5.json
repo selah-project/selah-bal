@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "عاقل بیت، اے سادگال، چالاک‌کامتی؛ ءُ اے نادانان، عاقل بیت دل۔",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "عاقل بیت"
+    },
+    {
+      "surface": "پتאیم",
+      "gloss": "اے سادگال"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "چالاک‌کامتی"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ءُ اے نادانان"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "عاقل بیت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:44.297972507Z",
+  "model": "glm-5.3"
+}

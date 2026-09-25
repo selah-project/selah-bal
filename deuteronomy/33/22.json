@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ پہ دانءَ گوَشت کہ دان شیرءِ کُوچہ اِنت، چہ باشانءَ دزنت.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "ءُ پہ دانءَ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "גור",
+      "gloss": "شیرءِ کُوچہ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "دزنت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:24.974311355Z",
+  "model": "glm-5.3"
+}

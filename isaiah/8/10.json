@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "تدبیر گرنت ءُ آ پاش ببیت؛ گپ بیت ءُ نہ چوست بیت، کی ایل ما گوں اِنت۔",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "تدبیر گرنت"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "تدبیر"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ءُ پاش ببیت"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "گپ بیت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "چوست بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ما گوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-24T21:22:25.124028470Z",
+  "model": "glm-5.3"
+}

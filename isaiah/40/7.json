@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "گاہ سُک بیت، گل مُر بیت، پرچا کہ یاہوہءِ وا آییءَ تہ گوزیت۔ رست کہ قوم گاہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "سُک بیت"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گاہ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "مُر بیت"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "گل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "وا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "گوزیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "رست کہ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گاہ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:09.474441634Z",
+  "model": "glm-5.3"
+}

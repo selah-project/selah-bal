@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "شست آیان مالکانءَ اِنت، ءُ ہشت کنیزان، ءُ جنکانءِ شمار نیست.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "شست"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آیان"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "مالکان"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ءُ ہشت"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "کنیزان"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "ءُ جنکان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:05.982566052Z",
+  "model": "glm-5.3"
+}

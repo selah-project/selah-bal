@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ماریں جانءَ نان درآورد کت، چہ بیابانیءِ تلوارءِ پیشءَ۔",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ماریں جانءَ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "درآورد کت"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ماریں نان"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "چہ پیشءَ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:41.976307708Z",
+  "model": "glm-5.3"
+}

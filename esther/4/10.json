@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ اِستَر ہتَکءَ گوَشت ءُ آءَ پہ مُردُخای دات.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستَر"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "ہتَکءَ"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "ءُ آءَ دات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردُخای"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:32.981935719Z",
+  "model": "glm-5.3"
+}

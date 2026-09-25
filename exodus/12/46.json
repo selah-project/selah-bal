@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "یک گدءِ تہ کھاپت بیت؛ چہ گدءَ چہ گوشت بیران نہ کَڑیت، ءُ ہڈی آ نہ شکانیت۔",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "گدءِ تہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاپت بیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "بیران کَڑیت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدءَ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "بیران"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ءُ ہڈی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "شکانیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:55:36.522341131Z",
+  "model": "glm-5.3"
+}

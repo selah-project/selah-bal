@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ آءَ ⟨את⟩ بڑ شٹمءِ دارانیں چیز کت ءُ آءَ ⟨את⟩ آیانءَ نچوشتءَ روچ کت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ آءَ چیز کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بڑ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "بڑ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "دارانیں"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شٹمءِ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ءُ آءَ روچ کت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "نچوشتءَ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "نچوشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:09:00.728270387Z",
+  "model": "glm-5.3"
+}

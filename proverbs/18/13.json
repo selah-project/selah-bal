@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "جو کسے رجءَ جواب دیت پہ آ کہ گوشیت — اویلگ آییءِ پہ اِنت ءُ شرم.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "جو کسے رجءَ جواب دیت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "رجءَ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "پہ آ کہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "اویلگ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ پہ"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "ءُ شرم"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:28.412493487Z",
+  "model": "glm-5.3"
+}

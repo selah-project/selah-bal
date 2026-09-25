@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "کوشیتگیں جان پہ وتءَ کوشیت کنیت، پرچا کہ آییءِ منہ آییءَ ازیت کنیت۔",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "کوشیتگیں"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "کوشیت کنیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پہ وتءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "ازیت کنیت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "آییءِ منہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:25.505000303Z",
+  "model": "glm-5.3"
+}

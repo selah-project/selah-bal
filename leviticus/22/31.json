@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ شماریں منی حکمان پالانیں ءُ ⟨את⟩ اِشانیں کار کنیں — ءَ یاہوہ.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ءُ شماریں پالانیں"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "منی حکمان"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ءُ کار کنیں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اِشانیں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:14.116148898Z",
+  "model": "glm-5.3"
+}

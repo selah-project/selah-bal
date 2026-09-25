@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "آییءِ داڑءَ درآیت بدکار، ءُ آییءِ دعا پہ گناهءَ ببیت.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "آییءِ داڑءَ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "درآیت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "ءُ آییءِ دعا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ببیت"
+    },
+    {
+      "surface": "لחטאה",
+      "gloss": "پہ گناهءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:55.348798225Z",
+  "model": "glm-5.3"
+}

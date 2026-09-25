@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 2:45",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ پادشاہ شلمہءَ برکت دیت، ءُ داودءِ تخت یاہوہءِ پیشءَ تا ہمیشہ مستور بیت۔",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ءُ پادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلمہ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "برکت دیت"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "ءُ تخت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "مستور"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:52:55.613038471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "آدم وتءِ کارءَ روت ءُ وتءِ مزدوریءَ تا شامءِ وہد۔",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "وتءِ کارءَ"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "ءُ وتءِ مزدوریءَ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شامءِ وہد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:41.533904928Z",
+  "model": "glm-5.3"
+}

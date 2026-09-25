@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ اِشاں رو، ءُ من تُءِ دہانءِ گوں ہمیت، ءُ تُءَ سکاں درت کہ چیز گپ زنیں۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشاں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "رو"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ہمیت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تُءِ دہان"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "ءُ تُءَ سکاں درت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "گپ زنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:52:30.367476349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "میں دہن مَثَلءَ کھولیت؛ چہ پیدائشءِrustگانیں چیزاں میں پڑاویت کہ چہ کڈیمءَ ہست اَنت.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "کھولیت"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "مَثَلءَ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میں دہن"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "پڑاویت"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "گانیں چیزاں"
+    },
+    {
+      "surface": "מני",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "کڈیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:17.243018974Z",
+  "model": "glm-5.3"
+}

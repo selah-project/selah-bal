@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 23:23",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "بلے کی شاہ یوشیاهوءِ ہبدہمی سالءَ اے پسہ یاہوہءَ پہ یروشالمءَ گنیت بوت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "בשמנה",
+      "gloss": "ہشت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یوشیاهو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "گنیت بوت"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ پہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشالمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:18:45.576553943Z",
+  "model": "glm-5.3"
+}

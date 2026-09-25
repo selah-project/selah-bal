@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "چوش شماں زانت، منی ہم زانت؛ من چہ شماں کمنتر نہ اِنت.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "چوش شماں زانت"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "منی زانت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "کمنتر"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "چہ شماں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:21.621642909Z",
+  "model": "glm-5.3"
+}

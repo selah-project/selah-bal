@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 11:13",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "اگر توءَ وتی دل تیار کت ءُ وتی ہتءَ آییءَ دوں پڑوت،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "تیار کت"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "وتی دل"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "ءُ پڑوت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ دوں"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "وتی ہت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:19.716285888Z",
+  "model": "glm-5.3"
+}

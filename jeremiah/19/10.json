@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ تو بکڑءَ چِشانی مردمانی دیمءَ کہ گوں ⟨את⟩ تُہہ رونت، شکت کن.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "ءُ تو شکت کن"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "بکڑ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "چِشانی دیمءَ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "کہ رونت"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ تُہہ",
+      "marks": "تُہہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:51:49.832726038Z",
+  "model": "glm-5.3"
+}

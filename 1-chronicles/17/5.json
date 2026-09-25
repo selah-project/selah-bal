@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "کیہ من گانی نہ مانیں چہ آ روچءَ کہ من یسرائیلءَ ⟨את⟩ اُٹھائتم تا اے روچ، بلکہ بوتنگ چہ گدانی تہ گدانی ءُ چہ مشکان۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "مانیں"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ماں گانی"
+    },
+    {
+      "surface": "مן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آ روچءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "اُٹھائتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یسرائیلءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ءُ بوتنگ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "چہ گدانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ گدانی"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گدانی"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "ءُ چہ مشکان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:29:42.715045540Z",
+  "model": "glm-5.3"
+}

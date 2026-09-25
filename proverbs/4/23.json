@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "چہ ہر پالءِ گیشتر تءِ دلءَ پال گر، پرچا کہ چہ آیءَ زندگیءِ درآمدنت اِنت۔",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہرءِ گیشتر"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "پالءِ"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "پال گر"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تءِ دلءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آیءَ"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "درآمدنت"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:07.847271920Z",
+  "model": "glm-5.3"
+}

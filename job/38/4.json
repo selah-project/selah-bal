@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 38:4",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "کجا ⟨تو⟩ ات مہ ءِ زمینءِ بنیاد گوشتءَ؟ گوشار دئے اگر تو بینش زانت.",
+  "tokens": [
+    {
+      "surface": "איפה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ات"
+    },
+    {
+      "surface": "ביסדי",
+      "gloss": "مہ ءِ بنیاد گوشتءَ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "گوشار دئے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تو زانت"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "بینش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:44:41.311449915Z",
+  "model": "glm-5.3"
+}

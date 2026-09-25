@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ ⟨את⟩ راموت ءُ ⟨את⟩ آییءِ مگرشے، ءُ ⟨את⟩ عانیم ءُ ⟨את⟩ آییءِ مگرشے،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "راموت"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ مگرشے"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "آییءِ مگرشے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "عانیم"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "عانیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ مگرشے"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "آییءِ مگرشے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:18.898885974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اے دیمءَ اُست کننت ءُ پہ وتتان ⟨את⟩ زاردءِ رُود پار بکننت؛ ءُ مہ ⟨את⟩ زاردءِ رُود پار کت۔",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اے دیمءَ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "اُست کننت"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ءُ پار بکننت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ وتتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زاردءِ رُود"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "رُودیں"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زارد"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ءُ مہ پار کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زاردءِ رُود"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "رُودیں"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زارد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:56.177188938Z",
+  "model": "glm-5.3"
+}

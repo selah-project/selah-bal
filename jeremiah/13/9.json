@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "اے چوں یاہوہءَ گوَشت: ہمے چوں آں یہوداہءِ غرور ءُ ⟨את⟩ یروشلمءِ گیش غرور خراب کن آں.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ہمے چوں"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "خراب کن آں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوداہءِ غرور"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "غرور"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یروشلمءِ گیش غرور"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "غرور"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:55.509813991Z",
+  "model": "glm-5.3"
+}

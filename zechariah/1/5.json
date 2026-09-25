@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "شماں ءِ پِتّران، کجا اَنت؟ ءُ پیغمبران، پہ ہمیشہ زندگ بنت؟",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "شماں ءِ پِتّران"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ءُ پیغمبران"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "زندگ بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:56.087084662Z",
+  "model": "glm-5.3"
+}

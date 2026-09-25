@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "چوش کہ تو نہ زانی کدام اِنت رُوءِ راہ، ءُ چوش ہڈان ماں پُرئے شکمءَ، ہمے چوش تو نہ زانی ⟨את⟩ ایلوہیمءِ کار، آ کہ ⟨את⟩ پُل چیز کنیت.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانت ئے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کدام"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "رُوءِ"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "چوش ہڈان"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "ماں شکمءَ"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "پُرئے"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ہمے چوش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کار"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پُل چیز"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "پُل چیز"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:45.427223617Z",
+  "model": "glm-5.3"
+}

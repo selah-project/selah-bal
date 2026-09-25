@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "چہ تیرءِ دشمنءِ ڈگگءَ شاد مکن، ءُ چہ آییءِ لنگگءَ تیرءِ دل شادی مکن،",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "چہ ڈگگءَ"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "تیرءِ دشمنءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "شاد مکن"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "ءُ چہ لنگگءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "شادی مکن"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیرءِ دل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:43.746597839Z",
+  "model": "glm-5.3"
+}

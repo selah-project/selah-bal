@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "آئیءِ چپ دست منی سرءِ تہ ⟨اِنت⟩ ءُ آئیءِ راست دست منیءَ بغل گیریت ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "آئیءِ چپ دست"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "לראשی",
+      "gloss": "منی سرءِ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ءُ آئیءِ راست دست"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "منیءَ بغل گیریت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:01.512983438Z",
+  "model": "glm-5.3"
+}

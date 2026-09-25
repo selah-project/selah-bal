@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کیہ کہ پہ ہر چاہشءَ ہست وہد ءُ انصاف؛ کیہ کہ مردمءِ بری آییءَ سر گیش اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہش"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ءُ انصاف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "بریءِ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءَ سر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:01.287118866Z",
+  "model": "glm-5.3"
+}

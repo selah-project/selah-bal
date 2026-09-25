@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "آ کہ اِشانی راہان ٹیڑہ انت ءُ اِشانی چکراں ماں کج انت",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "اِشانی راہان"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "ٹیڑہ"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "ءُ کج"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "اِشانی چکراں ماں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:26.406639124Z",
+  "model": "glm-5.3"
+}

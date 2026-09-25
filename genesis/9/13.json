@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "مے کمان ⟨את⟩ من بادابریءَ داتگ، ءُ آ بیت پہ عہدءِ نشان میان من ءُ میان زمینءَ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مے کمان"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "مے کمان"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "داتگ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "بادابریءَ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "پہ نشان"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میان من"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ میان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:21.179444012Z",
+  "model": "glm-5.3"
+}

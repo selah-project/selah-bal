@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 84,
+  "translation": "اِشاں زورءَ چہ زورءَ رونت؛ هر یک اِشاںءَ چہ ایلوہیمءَ منہ داریت سیونءَ.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "رونت"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "زورءَ چہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "زورءَ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زورءَ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "منہ داریت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چہ … ءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "سیونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:22.444016484Z",
+  "model": "glm-5.3"
+}

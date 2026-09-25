@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "چون من ⟨את⟩ دلءَ دتم پہ دانستن دانائی ءُ پہ دیدن ⟨את⟩ مشغالاں کہ زمینءَ تہ بیت — کہ ہم روچءَ ءُ شپءَ تہ خواب چشمانءِ تہ آ نہ گندیت —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چون"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دلءَ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "پہ دانستن"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "ءُ پہ دیدن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مشغالاں"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "مشغالاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ تہ"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ءُ شپءَ تہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "چشمانءِ تہ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "آ نہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گندیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:13.740177177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 114,
+  "translation": "آ کہ چڑچءَ تالاب آپ ءُ چقماقی سنگءَ پہ چشمہ آپ بدل کت.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "آ کہ بدل کت"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "چڑچ"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "تالاب"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "چقماقی سنگ"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "پہ چشمہ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:37.153314109Z",
+  "model": "glm-5.3"
+}

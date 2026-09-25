@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "کہ یک پیغمبر تئی میانءَ اُستیت، یا یک خوابءِ گندوک، ءُ تئیءَ یک نشان یا یک عجیب شے دیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُستیت"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تئی میانءَ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "خوابءِ گندوک"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ءُ دیت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تئیءَ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "عجیب شے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:23.534185554Z",
+  "model": "glm-5.3"
+}

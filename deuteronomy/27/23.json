@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "لعنت بیت آ کہ گوں آییءِ زالءِ ماءِ شپیت ءُ گوَشتِت کل قوم کہ آمین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت بیت"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "شپیت آ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "آییءِ زالءِ ماءِ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشتِت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:04.354926229Z",
+  "model": "glm-5.3"
+}

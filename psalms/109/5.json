@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "ءُ چہ منی سرءَ گپتنت بدی بدرچہ نیکی، ءُ دشمنی بدرچہ منی محبت.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ءُ گپتنت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرءَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدرچہ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ءُ دشمنی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدرچہ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "منی محبت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:55.348395836Z",
+  "model": "glm-5.3"
+}

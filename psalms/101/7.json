@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 101,
+  "translation": "دَغا کنوک منءِ گدءِ تہ نہ بسنت؛ دروگ گوَشوک منءِ چشمانی پیشءَ نہ اِستنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "بسنت"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "منءِ گدان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنوک"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "دَغا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشوک"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "دروگان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "اِستنت"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "منءِ چشمانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:19.481362104Z",
+  "model": "glm-5.3"
+}

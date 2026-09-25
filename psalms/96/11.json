@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 96,
+  "translation": "آسمانان شاد بنت، ءُ زمین ہُشیار بیت؛ دریا گرجیت ءُ آییءِ پُری۔",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "شاد بنت"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ءُ ہُشیار بیت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "گرجیت"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ءُ آییءِ پُری"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:00.297959261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 140,
+  "translation": "اے یاہوہ، بدکارءِ خواہشاں نہ دہ؛ آیءِ چال نہ پاے کہ آیان بُلند بنت۔ سلاہ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "خواہشاں"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکارءِ"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "آیءِ چال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "پاے"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "کہ آیان بُلند بنت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:19.742282742Z",
+  "model": "glm-5.3"
+}

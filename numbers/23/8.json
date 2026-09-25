@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "چہ لعنت کنں؟ ایلءَ لعنت نہ کتگ۔ ءُ چہ زچ کنں؟ یاہوہءَ زچ نہ کتگ۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چہ...کنں"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "لعنت کنں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "لعنت کتگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایلءَ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چہ...کنں"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "زچ کنں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "زچ کتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:12.584017289Z",
+  "model": "glm-5.3"
+}

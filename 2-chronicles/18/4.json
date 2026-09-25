@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ یہوشافات اسراییلءِ شاہءَ گوَشت: اَز منی پہ آئیں روچ یاہوہءِ گال ⟨את⟩ پُچیت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یہوشافات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لڑءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییلءِ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "پُچیت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اَز منی"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "آئیں روچءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گال"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:39:45.499412217Z",
+  "model": "glm-5.3"
+}

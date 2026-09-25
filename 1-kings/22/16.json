@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 22:16",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ بادشاہءَ آءُ گوَشت: تا چن وار من تُئَ قسم دِم کہ تُو مءَ نہ گپ کنی، بلے راستی تہ یاہوہءِ نامءَ؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "چن"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "وار"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "משבעך",
+      "gloss": "تُئَ قسم دِم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "گپ کنی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "تہ نامءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:07:01.240319284Z",
+  "model": "glm-5.3"
+}

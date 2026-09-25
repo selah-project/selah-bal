@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ من لڑتم کُشاں گرءِ کِدءَ، ءُ ایں کہ آ گدّیانی سر کار ءُ داریت۔",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "ءُ من لڑتم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کِدءَ"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "کُشاں گرءِ"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "ءُ ایں کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ءُ داریت"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "گدّیان"
+    }
+  ],
+  "timestamp": "2026-09-24T21:52:45.001284812Z",
+  "model": "glm-5.3"
+}

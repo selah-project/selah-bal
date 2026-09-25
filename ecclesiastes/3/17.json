@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "من چہ دلءَ گوَشتم کہ ایلوہیم ⟨את⟩ راست ءُ ⟨את⟩ زلمءَ کنوکءَ داوری کنیت، پرچا کہ ہر چاہشءِ پہ یک وہد اِنت ءُ ہر کارءِ سرءَ اُودا۔",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "گوَشتم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "چہ دلءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راست"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "زلمءَ کنوک"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "زلمءَ کنوک"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "داوری کنیت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہش"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُودا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:58.761068776Z",
+  "model": "glm-5.3"
+}

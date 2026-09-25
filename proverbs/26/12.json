@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "تو گندیتگ یکے کہ وتِ چشانیءَ دانا اِنت؟ نادانءَ پہ گیشتر امید اِنت چہ آءَ۔",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "تو گندیتگ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "بעיניו",
+      "gloss": "وتِ چشانیءَ"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "امید"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "نادانءَ پہ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:13.207786422Z",
+  "model": "glm-5.3"
+}

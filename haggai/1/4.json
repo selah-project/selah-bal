@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "کیا اے وہد اِنت کہ اےءُ تہاں وتی پوشیڈگین گدنانءَ تہ رہیت، ءُ اے گدان ویران بیت؟",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "کیا وہد"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "اےءُ"
+    },
+    {
+      "surface": "لשבת",
+      "gloss": "رہیت"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "وتی گدنانءَ تہ"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "پوشیڈگین"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ءُ اے گدان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ویران"
+    }
+  ],
+  "timestamp": "2026-09-24T22:43:14.656541762Z",
+  "model": "glm-5.3"
+}

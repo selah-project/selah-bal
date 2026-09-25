@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "دانشءِ شرو اِنت — دانش بچار، ءُ تُہءِ ہر کماییءَ گوں سمج بچار۔",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "شرو"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانشءِ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "بچار"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "کماییءَ تُہءِ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "بچار"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمج"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:28.543202953Z",
+  "model": "glm-5.3"
+}

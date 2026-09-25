@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ڈانیشمندانئ زبان دانیءَ چاک کنت، ءُ نادانانی منہ کم‌عقلیءَ رجندیت",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ڈانیشمندان"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "چاک کنت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانی"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ءُ منہ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانان"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "رجندیت"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "کم‌عقلی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:52.374989794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 35:17",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ اگر گوں دستءِ سنگ، کہ پہ آییءَ مرت بیت، آییءَ زت ءُ مرگ — آ قاتل اِنت؛ قاتل مُرگا مار بیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "گوں سنگ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرت بیت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پہ آییءَ"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "آییءَ زت"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرگ"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مُرگا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مار بیت"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:45:55.545277024Z",
+  "model": "glm-5.3"
+}

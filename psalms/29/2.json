@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "یاہوہءَ آییءِ نامءِ شان دیں، یاہوہءَ پاکءِ شانءَ سجدہ کریں۔",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "دیں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نامءِ"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "سجدہ کریں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "تہءَ شانءَ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاکءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:56.254251947Z",
+  "model": "glm-5.3"
+}

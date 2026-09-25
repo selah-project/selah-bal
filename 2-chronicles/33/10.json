@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ یاہوہ منشہ ءُ آییءِ قومءَ گوں گال کت، پرچا آیان گوش نہ کت۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوں گال کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گلءَ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ گلءَ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ قومءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ پرچا نہ"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "گوش کت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:44:49.588319741Z",
+  "model": "glm-5.3"
+}

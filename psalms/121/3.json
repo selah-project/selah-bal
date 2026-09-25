@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 121,
+  "translation": "نہ دیت کہ توءِ پا لُڑیت، نہ ونامیت توءِ نگہبان.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "کہ لُڑیت"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "توءِ پا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ونامیت"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "توءِ نگہبان"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:26.809790099Z",
+  "model": "glm-5.3"
+}

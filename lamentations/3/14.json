@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "من وتءِ قومءِ گیشتری پہ ہاس اَت، آیانی گیت گیش روچ.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ہاس"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "وتءِ گیشتری پہ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منءِ قوم"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "آیانی گیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:44.460812521Z",
+  "model": "glm-5.3"
+}

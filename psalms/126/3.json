@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 126,
+  "translation": "یہوہءَ گوں ما گیش کار کت — ما شادان بیٹر بوت.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "گیش کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہءَ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "پہ کار گرگ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "گوں ما"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "بیٹر بوت"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "شادان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:43.334187169Z",
+  "model": "glm-5.3"
+}

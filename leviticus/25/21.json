@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ مہ دیم بیت گوں منی برکت ⟨את⟩ پہ شما ششمے سالءَ، ءُ آ جنکیت ⟨את⟩ حاصل پہ سئے سالان۔",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "ءُ مہ دیم بیت گوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منی برکت"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "منی برکت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ شما"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "ششمے"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ءُ آ جنکیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حاصل"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "حاصل"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "پہ سئے"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "سالان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:40.880916186Z",
+  "model": "glm-5.3"
+}

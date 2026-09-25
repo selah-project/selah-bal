@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "گانی بوتنت منی پہ تنت حکمان، تہ منی مسافتیءِ گدانءِ.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "گانی"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوتنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی پہ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تنت حکمان"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "تہ گدانءِ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "منی مسافتیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:43.667840709Z",
+  "model": "glm-5.3"
+}

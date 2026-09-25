@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ چہ ہُشیمءَ، آ ⟨את⟩ اَبیطوب ءُ ⟨את⟩ اِلپعل زاگ بیت۔",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "ءُ چہ ہُشیم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زاگ بیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَبیطوب"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "اَبیطوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اِلپعل"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "اِلپعل"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:03.835327141Z",
+  "model": "glm-5.3"
+}

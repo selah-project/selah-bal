@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "شَلوم آییءِ زہگ، مِبسم آییءِ زہگ، مِشما آییءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "شَلوم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "مِبسم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "مِشما"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:37.393230629Z",
+  "model": "glm-5.3"
+}

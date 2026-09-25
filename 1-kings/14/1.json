@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "اے وہدءَ ابیّہ، یروبعامءِ زہگ، نزوک بوت.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "اے وہدءَ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اے (ہمانیں)"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "نزوک بوت"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابیّہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "یָרָבְעָם",
+      "gloss": "یروبعامءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:02:00.738242313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 91,
+  "translation": "ہمک تیاری چشمانءَ تو دیست ءُ بدکارانی بدلہ گندیت۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "تیاری چشمانءَ"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "دیست"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "ءُ بدلہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "گندیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:29.451668707Z",
+  "model": "glm-5.3"
+}

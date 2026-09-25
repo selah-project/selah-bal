@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "درۆگوییں ہون یاہوہءِ پیشءَ کین اِنت، بلے راستیءِ کنوک ءُ آییءِ پسند اَنت.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "کین"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ہون"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆگوییں"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "بلے کنوک"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "راستیءِ"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "آییءِ پسند"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:57.145390294Z",
+  "model": "glm-5.3"
+}

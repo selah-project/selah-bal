@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ حیزقیاہ شاہءِ نوکراں یشعیاہءَ پیش آنت۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ءُ … آنت"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "نوکراں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حیزقیاہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پیش"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:17:02.045881570Z",
+  "model": "glm-5.3"
+}

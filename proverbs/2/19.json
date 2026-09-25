@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ہر کس کہ آییءَ پیش روت، پدا نہ گنیت ءُ زندگیءِ رہان ءَ نہ رسنت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر کس"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "آییءَ پیش روت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "پدا گننت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "رسنت"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "رہان"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:04.133120169Z",
+  "model": "glm-5.3"
+}

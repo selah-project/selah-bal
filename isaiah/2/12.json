@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "آ کہ یاہوہءِ سباؤتءِ روچ اِنت گچھین سرکش ءُ بُلندءِ سرءَ، ءُ گچھین اُچے شانءَ ءُ نیژمءَ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤتءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گچھین"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ءُ بُلند"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گچھین"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "اُچے شانءَ"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ءُ نیژمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:19:51.696341371Z",
+  "model": "glm-5.3"
+}

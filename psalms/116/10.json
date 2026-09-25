@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "من ایمان اوریت، پرچا کہ من گپ جنت؛ من گیش زلم بوتگ اَت.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ایمان اوریت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "گپ جنت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "زلم بوتگ اَت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:59.551709874Z",
+  "model": "glm-5.3"
+}

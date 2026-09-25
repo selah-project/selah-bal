@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "من تُءِ گالءَ پہ شاد اوشتم، چوش کہ کمیتگ گیش لوٹ۔",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "شاد اوشتم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تُءِ گالءَ"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "چوش کہ کمیتگ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لوٹ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:17.365786798Z",
+  "model": "glm-5.3"
+}

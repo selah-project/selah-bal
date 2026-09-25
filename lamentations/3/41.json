@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ما وتءِ دل کپانی ورءَ چیر کنیں — تہ ایلءَ، کہ آسمانانءَ تہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "چیر کنیں"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "وتءِ دل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "کپانی ور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانانءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:09.470141039Z",
+  "model": "glm-5.3"
+}

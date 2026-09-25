@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "راستءِ پیو گوں شادمانی شاد بیت؛ حکیمءِ زہگءِ پیو ⟨اے⟩ءَ ش شاد بیت۔",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "گوں شادمانی"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "زہگءِ پیو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "ش شاد بیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨اے⟩ءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:41.507679235Z",
+  "model": "glm-5.3"
+}

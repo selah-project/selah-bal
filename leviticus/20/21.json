@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یک مرد کہ وتی براتءِ زانءَ گنت — آ یک ندا اِنت؛ آ وتی براتءِ برہنی کوشتگ کتگ؛ بے زہگان بیتنت.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ یک مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "براتءِ زانءَ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زان"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "وتی براتءِ"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "ندا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برہنی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "براتءِ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "کوشتگ کتگ"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "بے زہگان"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بیتنت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:53:04.147853842Z",
+  "model": "glm-5.3"
+}

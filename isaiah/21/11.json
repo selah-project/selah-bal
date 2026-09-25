@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "دُومہءِ بار۔ چہ سعیرءَ یکے منیءَ بانگ دیت: اے پاسدار، شپءَ چہ اِنت؟ اے پاسدار، شپءَ چہ اِنت؟",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "دُومہءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منیءَ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "بانگ دیت"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "چہ سعیرءَ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "اے پاسدار"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "اے پاسدار"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "شپءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:26:12.856299712Z",
+  "model": "glm-5.3"
+}

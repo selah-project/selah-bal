@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 64,
+  "translation": "آ کہ آیانی زبان چوش تیغ تیز کت ءُ آیانی تیر وانگ کت — یک تروژین گال.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "تیز کت"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "چوش تیغ"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "آیانی زبان"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "وانگ کت"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "آیانی تیر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تروژین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:47.407992640Z",
+  "model": "glm-5.3"
+}

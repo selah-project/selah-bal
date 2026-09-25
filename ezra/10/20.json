@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ اِمرءِ زہگانی چہ: حنانی ءُ زبادیاہ.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ءُ چہ زہگانی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اِمرءِ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حنانی"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "ءُ زبادیاہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:09:17.742335361Z",
+  "model": "glm-5.3"
+}

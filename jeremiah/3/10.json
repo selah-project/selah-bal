@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 3:10",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ہم چہ اے ہمگ چیزانءَ بگودہ آییءِ جنک یہودہ ماءَ نہ پدا آت آییءِ کل دلءَ گوں، بلکہ دروگءَ گوں، یاہوہءِ فرمان۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "چہ ہمگ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "پدا آت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماءَ"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "بگودہ"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "آییءِ جنک"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "آییءِ دلءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "دروگءَ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:42:47.241754920Z",
+  "model": "glm-5.3"
+}

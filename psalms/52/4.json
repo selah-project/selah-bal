@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 52,
+  "translation": "تباهی توری زبان منیت، چوش کہ یک تیز کنتگیں چاقو، اے دَگوںءِ کنوک۔",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "تباهی"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "منیت"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "توری زبان"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "چوش کہ چاقو"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "تیز کنتگیں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنوک"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "دَگوںءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:21.601702291Z",
+  "model": "glm-5.3"
+}

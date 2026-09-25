@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ رِعُو دو ءُ سِ سال زندگی کت، ءُ سِرُوگءَ ⟨את⟩ پیدا کت.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ءُ زندگی کت"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رِعُو"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سِرُوگ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سِرُوگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:39.273828285Z",
+  "model": "glm-5.3"
+}

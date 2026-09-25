@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "می اے کے ئے کہ چہ بیابانءَ اے بالا روت، چوش دودءِ تیران، گوں مُر ءُ لبانءَ خوشبو بوتگ، چہ پُرچارءِ گچ پاؤدران.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "می"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "بالا روت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابانءَ"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "چوش دودءِ تیران"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "دود"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "خوشبو بوتگ"
+    },
+    {
+      "surface": "מור",
+      "gloss": "مُر"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "ءُ لبان"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ گچ"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "پاؤدران"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "پُرچارءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:08.605552847Z",
+  "model": "glm-5.3"
+}

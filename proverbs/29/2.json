@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "چو راستاں گیش بنت، قوم شاد بیت؛ ءُ چو زال حکومت کنت، قوم نالہ کنت.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "چو گیش بنت"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستاں"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "ءُ چو حکومت کنت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "زال"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "نالہ کنت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:19.048088954Z",
+  "model": "glm-5.3"
+}

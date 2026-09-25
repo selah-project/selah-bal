@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 97,
+  "translation": "کی اے تو، یاہوہ، بلندترین ئے گوں ہمگ زمینءِ سرءَ، گیش بلند بیتگ‌ئے چہ ہمگ ہدایانءَ سرءَ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "اے تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "بلندترین"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "بلند بیتگ‌ئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:37.807318601Z",
+  "model": "glm-5.3"
+}

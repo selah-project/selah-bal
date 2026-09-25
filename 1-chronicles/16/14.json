@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "آ ⟨اِنت⟩ یاہوہ ماءِشم ایلوہیم؛ آییءِ انصاف گیش ترے زمینءِ تہ ہنت۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ماءِشم ایلوہیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "گیش ترے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ تہ"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "آییءِ انصاف"
+    }
+  ],
+  "timestamp": "2026-09-25T00:27:33.776852427Z",
+  "model": "glm-5.3"
+}

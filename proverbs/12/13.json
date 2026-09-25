@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "چہ لبزانی گناهءَ برءِ دام اِنت، ءُ راست چہ تنگیءَ اروت۔",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "چہ گناهءَ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لبزانی"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "دام"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برءِ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ اروت"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "چہ تنگیءَ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:28.132792479Z",
+  "model": "glm-5.3"
+}

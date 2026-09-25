@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اِشانی شمار پہ یہودہءِ ٹولیءَ چار ءُ ہپتاد ہزار ءُ شش سد ⟨اَت⟩.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اِشانی شمار"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "پہ ٹولیءَ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ءُ ہپتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:48.437856734Z",
+  "model": "glm-5.3"
+}

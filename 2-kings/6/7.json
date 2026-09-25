@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ گوَشت: آیءَ اُڈھا لے؛ ءُ آ وتی دست دراز کت ءُ آیءَ گرپت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "اُڈھا لے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو پہ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ دراز کت"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "وتی دست"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ءُ آیءَ گرپت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:08:51.748358653Z",
+  "model": "glm-5.3"
+}

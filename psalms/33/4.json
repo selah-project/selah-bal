@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "چہ یاہوہءِ گال راست اِنت، ءُ آءِءِ همگ کار امانتءَ تہ اِنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ همگ"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "آءِءِ کار"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "امانتءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:08.708891067Z",
+  "model": "glm-5.3"
+}

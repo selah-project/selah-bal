@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "چہ اے پہ کہ تہ گوَشت ⟨את⟩ دو قوم ءُ ءُ ⟨את⟩ دو زمین پہ من اِنت ءُ اِشاںءَ گانءِ، ءُ یاہوہ اُدا اَت۔",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "چہ اے پہ"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "تہ گوَشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو قوم"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دو زمین"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ من"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "ءُ اِشاںءَ گانءِ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُدا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:23:24.121090824Z",
+  "model": "glm-5.3"
+}

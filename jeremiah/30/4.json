@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ اے اِنت آ گالان کہ یاہوہءَ اسرائیلءِ بابت ءُ یہوداہءِ بابت اَت گوَشتیت.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "اَت گوَشتیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بابتءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ بابتءِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:56:59.960983823Z",
+  "model": "glm-5.3"
+}

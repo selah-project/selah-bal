@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "یابیش گلعادی وتھ کوکاں گوش کتنت ⟨את⟩ آ کہ فلستانی گوں شاؤل کت اَت",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "گوش کتنت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءِ بابتءَ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وتھ کوک"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "یابیش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کت"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستانی"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "گوں شاؤل"
+    }
+  ],
+  "timestamp": "2026-09-24T20:40:50.313141781Z",
+  "model": "glm-5.3"
+}

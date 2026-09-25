@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "کمینانی ایل یاہوہ، کمینانی ایل، خودءَ روشن کن",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "کمینانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "کمینانی"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "روشن کن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:29.531197758Z",
+  "model": "glm-5.3"
+}

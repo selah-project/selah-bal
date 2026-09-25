@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "آییءِ پیشءَ لرزن گیشتریں زمین، بلکہ تِبل ثابت بیت، نہ سرپیت۔",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "لرزن"
+    },
+    {
+      "surface": "מלپניו",
+      "gloss": "آییءِ پیشءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیشتریں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ثابت بیت"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تِبل"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "سرپیت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:28:16.908779773Z",
+  "model": "glm-5.3"
+}

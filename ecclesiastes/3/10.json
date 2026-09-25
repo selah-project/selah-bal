@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "من ⟨את⟩ آ مشغولیتءَ دیستگم کہ ایلوہیم آدمءِ زہگانءَ آییءَ داتہ کہ آیان آییءَ تہ اذیت گری ئے بنت.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "دیستگم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ مشغولیت"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "آ مشغولیت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داتہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زہگانءَ پہ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "پہ اذیت گرگ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:19.017420940Z",
+  "model": "glm-5.3"
+}

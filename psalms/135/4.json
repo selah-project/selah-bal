@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "کہ یعقوبءَ یاہ وتي پہ چنیت، اسرائیل پہ وتي خاصین گنج،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چنیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "وتي پہ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "پہ وتي خاصین گنج"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:41.904738578Z",
+  "model": "glm-5.3"
+}

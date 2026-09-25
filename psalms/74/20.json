@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "عہدءَ نگاہ دار، پرچا کہ زمینءِ تاریک جاگہان زالّءِ گدانانءَ پُر اِنت۔",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "نگاہ دار"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "پہ عہد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "پُر اِنت"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "تاریک جاگہانءِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زالّی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:36.975281834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ یہوشوعءَ اے روچءَ مردمءِ پہ عہد کت، ءُ آءِ پہ قانون ءُ انصاف شکمءَ پیش کت.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "عہد کت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوعءَ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "مردمءِ پہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "پیش کت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءِ پہ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "قانون"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ءُ انصاف"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "شکمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:13:38.446594828Z",
+  "model": "glm-5.3"
+}

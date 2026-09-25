@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "آسمانءِ مرگ ءُ دریاءِ ماہیگان، آ کہ دریاگانی راہانءَ لنگیت۔",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانءِ"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ءُ ماہیگان"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریاءِ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگیت"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "راہانءَ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دریاگانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:21.697237627Z",
+  "model": "glm-5.3"
+}

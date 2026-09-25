@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ موشہءَ تیز کت ءُ زمینءَ سرءَ سَرے دات ءُ سجدہ کت۔",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "ءُ تیز کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "ءُ سَرے دات"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمینءَ سرءَ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ءُ سجدہ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:06:56.989383161Z",
+  "model": "glm-5.3"
+}

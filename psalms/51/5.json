@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "کی منی سرکشی من زانگ ءُ منی گنہ منی پیشءَ ہمیش اِنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "منی سرکشی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "زانگ"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ءُ منی گنہ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "منی پیش"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:47.301972071Z",
+  "model": "glm-5.3"
+}

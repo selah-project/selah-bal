@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "گوش کن، اے تو زہگ مِنءَ، ءُ دانا بیت، ءُ تُئے دلءَ رہءَ سر راست کن۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "اے تو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگ مِنءَ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ءُ دانا بیت"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ راست کن"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رہءَ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تُئے دلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:44.351652568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "بدکار چہ شاہءِ پیشءَ دور کن، ءُ آییءِ تخت راستیءَ مستحکم بیت۔",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "دور کن"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "ءُ مستحکم بیت"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "راستیءَ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "آییءِ تخت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:14.476306945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ اے عیتامءِ پدرءِ اَنت: یزرعیل، ءُ یشما، ءُ یدبش؛ ءُ اِشانیءِ نام ہست صلپونی.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پدر"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عیتامءِ"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "یزرعیل"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "ءُ یشما"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "ءُ یدبش"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ءُ نام"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "اِشانیءِ"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "صلپونی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:28.576559568Z",
+  "model": "glm-5.3"
+}

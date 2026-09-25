@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ چو کسے وتی ہمبالیءَ عیب دیت، چوش کہ کتگ اِنت، ہمے گوں آییءَ کت بیت۔",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ چو کسے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عیب"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "وتی ہمبالیءَ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کتگ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کت بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "گوں آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:31.786620756Z",
+  "model": "glm-5.3"
+}

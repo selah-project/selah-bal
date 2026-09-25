@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "کی آ چہ سمندرانءَ سر آییءَ بنیاد کت، ءُ چہ دریاوانءَ سر آییءَ پکا کت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ …ءَ سر"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندران"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "آییءَ بنیاد کت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ تہ …ءَ سر"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریاوان"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "آییءَ پکا کت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:07.041052132Z",
+  "model": "glm-5.3"
+}

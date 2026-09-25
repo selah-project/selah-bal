@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "بادشاہ گوں انصاف زمینءَ ڈنگ کنت، ءُ مردمی کہ پیشکشاں گرنت آییءَ ڈہایت.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "گوں انصاف"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "ڈنگ کنت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ مردمی"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "پیشکشاں"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "آییءَ ڈہایت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:19.048332789Z",
+  "model": "glm-5.3"
+}

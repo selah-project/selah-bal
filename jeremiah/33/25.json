@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "اے سوچ یاہوہءَ گوَشت: اگر منی عہد روچ ءُ شپءِ گوں نہ ⟨اِنت⟩، ءُ اگر من آسمان ءُ زمینءِ حکمان نہ گشتگ اَت —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اے سوچ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "منی عہد"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ءُ شپءِ گوں"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "حکمان"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان ءُ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "گشتگ اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:57:40.738305812Z",
+  "model": "glm-5.3"
+}

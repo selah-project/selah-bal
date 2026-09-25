@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "گوں یک مردم بے سببے جھیڑا نہ کن، اگرچہ آءَ تہ ہچ بُرائی نہ کتگ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "جھیڑا کن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "یک مردم"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے سببے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگرچہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "تءَ کتگ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:59.982306689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ یک دہماں یک برہءَ پہ، ہپت برہانی پہ۔",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ءُ دہماں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "برہءَ پہ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکمی"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "برہانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:43:01.044985541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 103,
+  "translation": "رحم دل ءُ مہربان یاہوہ، غچءِ سرءَ دراز‌اُلس ءُ ہیسیدءَ گیش۔",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "رحم دل"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ءُ مہربان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "دراز‌اُلس"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "غچ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:46.096536819Z",
+  "model": "glm-5.3"
+}

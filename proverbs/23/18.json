@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "پرچا کہ یقیناً یک رندءِ انجامءِ ⟨هست⟩، ءُ تُئے امید نہ دریت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هست"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "رندءِ انجام"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "ءُ تُئے امید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "دریت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:44.351493736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "نادانءِ جنکوک آییءَ پہ داغ اِنت، ءُ بی‌عقلءِ پیپ شاد نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "جنکوک"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "پہ داغ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیپ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "بی‌عقل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:48.216672848Z",
+  "model": "glm-5.3"
+}

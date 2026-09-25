@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یونہءَ یک گیشتیریں برائیءَ پیش کت، ءُ آییءَ پہ چنگ بوت۔",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "برائیءَ پیش کت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گیشتیریں"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ءُ چنگ بوت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:37:59.148372200Z",
+  "model": "glm-5.3"
+}

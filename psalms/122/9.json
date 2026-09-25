@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 122,
+  "translation": "پہ یاہوہءِ گادءِ، ماءِ ایلوہیمءِ، پہ، من آ توئیں بھلائی گنجانیت.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "پہ … پہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ماءِ ایلوہیمءِ"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "گنجانیت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آ توئیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:26.649092112Z",
+  "model": "glm-5.3"
+}

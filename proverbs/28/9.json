@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "جو کہ وتی گوشءَ چہ توراءِ گوشگءَ پھیر کنت، بھی وتیءِ منز گنداگ اِنت.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "پھیر کنت"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "وتی گوشءَ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "چہ گوشگءَ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "وتیءِ منز"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "گنداگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:01.357428676Z",
+  "model": "glm-5.3"
+}

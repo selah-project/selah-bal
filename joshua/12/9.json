@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "یریچوءِ شاہ یک؛ ہایءِ شاہ، آ کہ بیت ایلءِ کنڈءَ اِنت، یک؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یریچوءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ہایءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "کنڈءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایلءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:10.407596315Z",
+  "model": "glm-5.3"
+}

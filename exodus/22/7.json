@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اگر چور نہ گند بیت، گدءِ مالک ایلوہیمءِ پیشما روت — اگر نہ آ وتی دست دراز کتگ وتی یارءِ کارءَ۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "گند بیت"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "چور"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پیشما"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "دراز کتگ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "وتی دست"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "کارءَ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "وتی یارءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:41.333728915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ یاہوہءِ فرشتہ آیءَ گوَشت: گیش کنوک گشتءَ ⟨את⟩ تئے نسلءَ، ءُ آ چہ گیشیءَ نہ شمار بیت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیش کنوک"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "گشتءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تئے نسلءَ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تئے نسل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "شمار بیت"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "چہ گیشیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:29:50.635545317Z",
+  "model": "glm-5.3"
+}

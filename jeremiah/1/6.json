@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ من گوَشت: اَہاہ! اے ادونای یاہوہ! اِش، من گوَئے نہ زانتم، پرچا کہ من یک زہگ اَنت۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ من گوَشت"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "اَہاہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "یָדַעְתִּי",
+      "gloss": "زانتم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَئے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من … اَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:42:40.847665589Z",
+  "model": "glm-5.3"
+}

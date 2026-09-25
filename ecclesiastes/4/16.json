@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کوٹاسی نیست تمام مردمءَ، ءُ تمامءَ کہ آیانی پشتءَ اتن؛ دگہءَ هم آییءَ شاد نہ کننت — چون کہ آ هم ہبال اِنت ءُ روحءِ وبال۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "کوٹاسی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردمءَ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "تمامءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اتن"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "آیانی پشتءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "دگہءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "شاد کننت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون کہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبال"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "ءُ وبال"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روحءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:13.495836274Z",
+  "model": "glm-5.3"
+}

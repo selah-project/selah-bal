@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ اے پنچ شاہ پرٹتنت ءُ مقدہءَ تہ یک غارءَ تہ چھپتنت۔",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "پرٹتنت"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "چھپتنت"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "یک غارءَ تہ"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "مقدہءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:07:07.735281319Z",
+  "model": "glm-5.3"
+}

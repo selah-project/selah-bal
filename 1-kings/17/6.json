@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ زاگان آییءَ نوں نان ءُ گوشت اننت، ءُ شپ نان ءُ گوشت، ءُ چہ نہال آپ شیت.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "ءُ زاگان"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "اننت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ءُ نان"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نہالءَ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "آپ شیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:02:20.222342705Z",
+  "model": "glm-5.3"
+}

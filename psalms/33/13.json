@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "چہ آسمانانءَ یاہوہءَ کدرانگ کت، آییءَ ⟨את⟩ سال آدمءِ زہگان گندیت۔",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "چہ آسمانانءَ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "کدرانگ کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سال آدمءِ زہگان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:48.598059301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ زمینءِ واداری ہر چیزءَ ⟨اِنت⟩: بادشاہ دارءَ تہ کار اِنت.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ءُ واداری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر چیزءَ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "دارءَ تہ"
+    },
+    {
+      "surface": "נעבد",
+      "gloss": "کار اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:37.079747103Z",
+  "model": "glm-5.3"
+}

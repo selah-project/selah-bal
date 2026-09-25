@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "چوش یاہوہ سباؤتءَ گوَشت: نوں ⟨את⟩ کاہنان چہ تورا پچھ، ءُ گو:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پچھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہنان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنان"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ءُ گو"
+    }
+  ],
+  "timestamp": "2026-09-25T01:07:43.632796317Z",
+  "model": "glm-5.3"
+}

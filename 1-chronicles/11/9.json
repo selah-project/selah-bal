@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ داؤد روت ءُ گیش بوت، ءُ یاہوہ سباؤت آییءِ گوں اِت۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ءُ گوش بوت"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ گوں اِت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:25:03.979190858Z",
+  "model": "glm-5.3"
+}

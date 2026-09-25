@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "بےآواز بنت دروگءِ ہونٹان، آ کہ راستءِ سرءَ گوں مہر ءُ حقارت گپ گرنت۔",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "بےآواز بنت"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹانِ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروگءِ"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "گپ گرنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "سرکشی"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "گوں مہرءَ"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ءُ حقارت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:02.796077854Z",
+  "model": "glm-5.3"
+}

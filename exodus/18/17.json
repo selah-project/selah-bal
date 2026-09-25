@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ موشہءِ سور آییءَ گوَشت: کار کہ تو کنیں نہ چنگ اِنت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "سور"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءِ"
+    },
+    {
+      "surface": "אליو",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:59:02.445859715Z",
+  "model": "glm-5.3"
+}

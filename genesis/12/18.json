@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ پِرعَہ پہ ابرامءَ بانگ کت ءُ گوَشت: اے چی چی منءَ کنتیت؟ چی پہ نہ منءَ گوشتیت کہ آ تُئے جنک ⟨اِنت⟩؟",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پِرعَہ"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "پہ ابرامءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کنتیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چی پہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "گوشتیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "تُئے جنک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اِنت⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:44.512839127Z",
+  "model": "glm-5.3"
+}

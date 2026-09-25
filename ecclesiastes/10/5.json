@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "یک بدی اِنت کہ ماں گندیتگ تہ شمشءَ، چوش خطاے کہ چہ حاکمءِ دیما روت۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ראיתی",
+      "gloss": "گندیتگ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "شمشءَ"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "چوش خطاے"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "کہ روت"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "چہ دیما"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "حاکمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:29.765373781Z",
+  "model": "glm-5.3"
+}

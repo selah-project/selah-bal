@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ کِلے چنانوکءَ آییءَ گوَشت: سئے کن کہ تءِ دلءَ اِنت؛ مڑ تءِ پہ؛ لُگم، تہ گوں ہستاں تءِ دلءِ چوں.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "نשא",
+      "gloss": "چنانوک"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "کِلے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "تءِ دلءَ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "مڑ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تءِ پہ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "لُگم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تہ گوں"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "تءِ دلءِ چوں"
+    }
+  ],
+  "timestamp": "2026-09-24T20:31:00.370053452Z",
+  "model": "glm-5.3"
+}

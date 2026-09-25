@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 87,
+  "translation": "ءُ گویندار چوش ناچوک ءُ نال-واز گوشیت: گش منی چشمان تہ اَنت.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "ءُ گویندار"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "چوش ناچوک ءُ نال-واز"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "منی چشمان"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:37.394316696Z",
+  "model": "glm-5.3"
+}

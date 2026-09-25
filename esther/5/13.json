@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اے همگ چیزی ماءَ هیچ بہر نہ اِنت، هر وہد کہ من ⟨את⟩ مردکایءِ یہودیءَ گندیت کہ شاہءِ دروازہءَ نشت اِنت۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ همگ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نہ اِنت"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "بہر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماءَ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردکایءِ یہودیءَ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردکای"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "یہودی"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "نشت"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازہءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:24.662135123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ شان ہر وہتءَ ⟨את⟩ قومءَ فیصلہ کرتنت — گرانیں کیسءَ موشہءَ کیہ ءُ ہر نکیں کیسءَ وت فیصلہ کرتنت۔",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "ءُ فیصلہ کرتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہتءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کیس"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کیسءِ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "گرانیں"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کیسءِ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نکیں"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "فیصلہ کرتنت"
+    },
+    {
+      "surface": "הם",
+      "gloss": "وت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:57:27.726452738Z",
+  "model": "glm-5.3"
+}

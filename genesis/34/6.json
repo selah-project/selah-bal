@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ حَمور، شِکمءِ پِت، یعقوبءَ لّے روت پہ آییءَ گوں ⟨את⟩ گپ کرن۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حَمور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "شِکمءِ پِت"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شِکمءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لّے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "پہ گپ کرن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ گوں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:42:11.290580525Z",
+  "model": "glm-5.3"
+}

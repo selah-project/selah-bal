@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ ⟨את⟩ تمام قومءَ ملاقاتءِ گدانءِ پیشاگرءَ جمع کن۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "تمام قوم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הקהل",
+      "gloss": "جمع کن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "پیشاگرءَ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گadanءِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقاتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:14:08.544079608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اگر تُو آییءَ چوش زر گنڈیت ءُ چوش پُشیتگیں گنجان آییءَ لیڈیت،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "آییءَ گنڈیت"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "چوش زر"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "ءُ چوش پُشیتگیں گنجان"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "آییءَ لیڈیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:51.467025198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "تا کدہ اے چیزاں گپ زنی؟ ءُ گالان تہءِ دہنءِ گوں یک زورین وا ⟨اِنت⟩ —",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אן",
+      "gloss": "کدہ"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "گپ زنی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے چیزاں"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ءُ وا"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "زورین"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تہءِ دہنءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:47.501870944Z",
+  "model": "glm-5.3"
+}

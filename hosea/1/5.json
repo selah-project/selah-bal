@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آۏ روچءَ چو بیت، ءُ اِں کہ ⟨את⟩ یشورائلءِ کمان یزرعیلءِ وادیءَ ماں شکنیت۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آۏ"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ءُ شکنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کمان"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یشورائل"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "وادیءَ"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "یزرعیل"
+    }
+  ],
+  "timestamp": "2026-09-24T22:30:19.685533261Z",
+  "model": "glm-5.3"
+}

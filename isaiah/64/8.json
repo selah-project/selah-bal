@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 64,
+  "translation": "ایہ یاہوہ، گیش غضب مکن، ءُ ہچبر گنہءَ ہمیشہ یاد مکن؛ اینک، نگاہ کن ما ءَ، ما بیست تُئے قوم اَنت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ایہ…مکن"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "غضب مکن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ ہچبر…مکن"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "یاد مکن"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گنہءَ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "اینک"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "نگاہ کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ما ءَ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تُئے قوم"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ما بیست"
+    }
+  ],
+  "timestamp": "2026-09-24T21:40:55.608676026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "کیہ کہ وشی چوں تیز در بنت، ءُ سبز وشی چوں سک بنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "وشی چوں"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "تیز"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "در بنت"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ءُ سبز چوں"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "وشی"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "سک بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:20.155095575Z",
+  "model": "glm-5.3"
+}

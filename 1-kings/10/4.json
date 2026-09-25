@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ ملکت شِوا گُندیت ⟨את⟩ ہر آ دانائیءِ شُلُموہ ءُ گدانءِ کہ آ جوڑ کت،",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ءُ گُندیت"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ملکت"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر آ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر آ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "دانائیءِ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شُلُموہ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ءُ گدانءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڑ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:58:51.413089021Z",
+  "model": "glm-5.3"
+}

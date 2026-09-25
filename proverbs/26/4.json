@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "جواب نہ دیت کم‌عقلیں مردمی چوش آییءِ کم‌عقلیءَ، کہ نہ تو ہم آییں چوش بیت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תען",
+      "gloss": "جواب دیت"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کم‌عقلیں مردمی"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "چوش آییءِ کم‌عقلیءَ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "چوش بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:15.451645151Z",
+  "model": "glm-5.3"
+}

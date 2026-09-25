@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "تو زمینءِ ہمگ سرحدان نصب کت؛ گرمیں وھد ءُ ساردیں وھد — تو اِشاں شکل دِنت۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "نصب کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "گבולות",
+      "gloss": "سرحدان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "گرمیں وھد"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "ءُ ساردیں وھد"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "اِشاں شکل دِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:36.974456241Z",
+  "model": "glm-5.3"
+}

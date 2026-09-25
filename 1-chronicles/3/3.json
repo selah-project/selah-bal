@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "پنچمی شْفَتیاہ، چہ اَبیتالءَ؛ ششمی یِترعام، چہ ایگلہءَ کہ آییءِ زال اَت۔",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنچمی"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شْفَتیاہ"
+    },
+    {
+      "surface": "لאביטל",
+      "gloss": "چہ اَبیتالءَ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ششمی"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "یِترعام"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "چہ ایگلہءَ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "آییءِ زال"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:15.436681680Z",
+  "model": "glm-5.3"
+}

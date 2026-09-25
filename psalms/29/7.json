@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "یاہوہءِ آواز آتشءِ شولے تراشیت۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "تراشیت"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "شولے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:43.750804604Z",
+  "model": "glm-5.3"
+}

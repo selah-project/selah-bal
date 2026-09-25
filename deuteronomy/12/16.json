@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "بلے گون نہ نوشیت — آییءَ تہ زمینءَ چوش آپان ؤزیں۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "گون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "نوشیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "آییءَ ؤزیں"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "چوش آپان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:44.714995942Z",
+  "model": "glm-5.3"
+}

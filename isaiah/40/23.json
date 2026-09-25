@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "آءِ کہ والیانءَ پہ ہچیچ نہ کنت، زمینءِ فیصلہ کنوکانءَ چوش ہوک کرت۔",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "آءِ کہ دیت"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "والیانءَ"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "پہ ہچیچ"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "فیصلہ کنوک"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "چوش ہوک"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:45.884026219Z",
+  "model": "glm-5.3"
+}

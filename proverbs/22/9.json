@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "چن چشمیں اے ⟨اے⟩ برکت داریت، کیہ کہ وتی نانی چہ کمزورءَ شیرک دیت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چن"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمیں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اے⟩"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت داریت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "شیرک دیت"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "وتی نانی"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "کمزورءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:46.844901051Z",
+  "model": "glm-5.3"
+}

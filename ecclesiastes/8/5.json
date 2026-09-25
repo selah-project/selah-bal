@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کہے کہ شَرات ساتیت، ہچ بری چیز نہ زانت؛ ءُ داناءِ دل وہد ءُ انصاف زانت۔",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "کہے کہ ساتیت"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "شَرات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ءُ انصاف"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:01.286641740Z",
+  "model": "glm-5.3"
+}

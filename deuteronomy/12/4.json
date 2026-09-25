@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "اے چوں نہ کنیں پہ یاہوہ، تُماییں ایلوہیمءَ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہءَ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُماییں ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:53:44.567588459Z",
+  "model": "glm-5.3"
+}

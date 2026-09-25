@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 28:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "خوش‌بخت اے مردم کہ ہمیشہ ڈرئیت؛ ءُ آ کہ وتءِ دلءَ سخت کنت، تہ بریائیءَ ڈگرت.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش‌بخت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اے مردم"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ڈرئیت"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ומקשה",
+      "gloss": "ءُ آ کہ… سخت کنت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "وتءِ دلءَ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈگرت"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "تہ بریائیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:27.198457104Z",
+  "model": "glm-5.3"
+}

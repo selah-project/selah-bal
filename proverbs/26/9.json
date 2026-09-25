@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "چوش کہ یک کنڊے کہ مستءِ دستءَ چڑیت، اِشوں مَثَل نادانانی چمءَ۔",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "کنڊ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑیت"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "مست"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ءُ مَثَل"
+    },
+    {
+      "surface": "بפי",
+      "gloss": "چمءَ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:13.207185528Z",
+  "model": "glm-5.3"
+}

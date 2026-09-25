@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "تعلیمءَ مضبوط گپت ءُ آییءَ رہا مکن؛ آییءَ بچار، پرچا کہ آ تیئے زندگیءِ اِنت.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "مضبوط گپت"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "تعلیمءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "رہا مکن"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "آییءَ بچار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "تیئے زندگیءِ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:54.550456744Z",
+  "model": "glm-5.3"
+}

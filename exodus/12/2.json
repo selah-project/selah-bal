@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "اے ماہ شماءَ ماہانی سر اِنت؛ آں یکمی اِنت شماءَ، سالءِ ماہانیءَ یکمی.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "اے ماہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماءَ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ماہانی"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "یکمی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماءَ"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "ماہانیءَ"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "سالءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:53:58.359002428Z",
+  "model": "glm-5.3"
+}

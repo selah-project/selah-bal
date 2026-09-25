@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 112,
+  "translation": "آییءِ دل سہار بوتگیں اِنت، نہ ترسیت، تا کہ آییءِ دشمنانءَ گندیت.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "سہار بوتگیں"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "آییءِ دل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ترسیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "آییءِ دشمنانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:21.934977571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "آیان آ فرمان اَنت کہ یاہوہءَ موشہءَ ⟨את⟩ پہ اسرائیلءِ زہگان سینا کوہءَ تہ فرمان دات.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "آیان"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "آ فرمان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان دات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ ⟨موسیٰ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوہءَ تہ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:25:44.947993226Z",
+  "model": "glm-5.3"
+}

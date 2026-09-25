@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ یہوشوعءَ گوَشت: گوَندءِ دہان کھولیت ءُ منی ءَ اے پنچ بادشاہ ⟨את⟩ ماچ چہ درآوریت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "کھولیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دہان"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دہان"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "گوَندءِ"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ءُ درآوریت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منی ءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنچ بادشاہ"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "گوَند"
+    }
+  ],
+  "timestamp": "2026-09-24T20:07:13.071601977Z",
+  "model": "glm-5.3"
+}

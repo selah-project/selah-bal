@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 76,
+  "translation": "ماں یہودہ ایلوہیم زانیتگ اِنت؛ ماں یسرائیل آییءِ نام لڑ اِنت۔",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "زانیتگ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ماں یہودہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ماں یسرائیل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لڑ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:55.737278066Z",
+  "model": "glm-5.3"
+}

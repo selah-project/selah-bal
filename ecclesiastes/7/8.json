@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "چنگ اِنت گالءِ آخری چہ آییءِ اول؛ چنگ اِنت دراز روح چہ اُچیں روح۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ اِنت"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "آخری"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گالءِ"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "چہ آییءِ اولءَ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ اِنت"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "دراز"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روحءِ"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "چہ اُچیں روحءَ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:27.406576063Z",
+  "model": "glm-5.3"
+}

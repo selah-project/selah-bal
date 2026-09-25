@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 8:6",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ چہ عادینءِ زہگانی — عَبِد یوناتانءِ زہگ — ءُ گوں آ پنجاه نریں.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ءُ چہ … ءِ زہگانی"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "عادین"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عَبِد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتان"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ءُ گوں آ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نریں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:08:51.710069546Z",
+  "model": "glm-5.3"
+}

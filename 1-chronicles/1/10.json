@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ کُشءَ نمرود ⟨את⟩ جنیت — آءُ آے اِنت کہ زمینءَ گوڑہر بوتءِ سرا بنگیج کت.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ءُ کُشءَ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرود"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "بنگیج کت"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بوتءِ سرا"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "گوڑہر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:12.506682963Z",
+  "model": "glm-5.3"
+}

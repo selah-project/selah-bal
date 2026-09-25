@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "تیرئے ماں میان ءِ درنگ، یک بٹو پہ ماں گش بیت۔",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "تیرئے"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "درنگ"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "ماں میان ءِ"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "بٹو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "پہ ماں گش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:37.472263648Z",
+  "model": "glm-5.3"
+}

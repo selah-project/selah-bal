@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 15:14",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ شموئیل گوَشت: پس اے رمدانی آواز مانی گوشءَ چہ ⟨اِنت⟩، ءُ گائینی آواز کہ من گوشیت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "رمدانی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "مانی گوشءَ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ءُ آواز"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گائینی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوشیت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:32:26.533788754Z",
+  "model": "glm-5.3"
+}

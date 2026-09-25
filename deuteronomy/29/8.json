@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ شمءَ ⟨את⟩ اے عہدءِ گالان نگہ داریں ءُ ⟨את⟩ آیانءَ کرینت، پہ اے کہ شمءَ ⟨את⟩ هر چیز کہ کرینت آءَ رواں کرینت.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ءُ نگہ داریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گالان"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہدءِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ءُ کرینت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "گالان"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "رواں کرینت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هر چیز"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کرینت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:01.368021620Z",
+  "model": "glm-5.3"
+}

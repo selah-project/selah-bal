@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "کی چیں کہ بدءِ پہ آخرت نہ بیت، بدکارانی چراغ مرپت بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی چیں کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "آخرت"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "بدءِ پہ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "چراغ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "مرپت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:43.747130144Z",
+  "model": "glm-5.3"
+}

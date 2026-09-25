@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "تُئے احکامءَ دلوش کیت، نہ وسارت تُئے گال.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "تُئے احکامءَ"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "دلوش کیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "وسارت"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تُئے گال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:43.783510650Z",
+  "model": "glm-5.3"
+}

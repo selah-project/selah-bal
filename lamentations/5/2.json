@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ماںءِ ورثت بیگانءَ پدا بوتگ؛ ماںءِ گشتیں گدان بیگانءَ اِنت.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "ماںءِ ورثت"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "پدا بوتگ"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "بیگانءَ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ماںءِ گشتیں گدان"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "بیگانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:53.131977839Z",
+  "model": "glm-5.3"
+}

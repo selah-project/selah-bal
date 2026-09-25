@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "یا کہ زانگیں گوشت پدا گشت ءُ سپیتءَ بیتگ، آ کاہنءَ ؁ روت۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پدا گشت"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "החי",
+      "gloss": "زانگیں"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ءُ بیتگ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "سپیتءَ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:46.943427714Z",
+  "model": "glm-5.3"
+}

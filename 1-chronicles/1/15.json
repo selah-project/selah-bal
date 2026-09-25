@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ⟨את⟩ حِوی ءُ ⟨את⟩ عرقی ءُ ⟨את⟩ سینی۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حِوی"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حِوی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "عرقی"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "عرقی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "سینی"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "سینی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:34.330263630Z",
+  "model": "glm-5.3"
+}

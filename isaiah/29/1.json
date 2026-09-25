@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 29:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "اَہ اری‌ایل، اری‌ایل، شارءَ کہ داود آییءَ کیمپ کت — سال پہ سال بگڈ، ءُ جشن گوں چکر کننت.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "اَہ"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "اری‌ایل"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "اری‌ایل"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شارءِ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "کیمپ کت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "بگڈ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חגים",
+      "gloss": "جشن"
+    },
+    {
+      "surface": "ינקפו",
+      "gloss": "چکر کننت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:30:01.220939528Z",
+  "model": "glm-5.3"
+}

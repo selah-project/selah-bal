@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ گوں‌ئانی رند بوتگیں پوست، ءُ تاہش‌ئانی پوست، ءُ شٹیمءِ دار،",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ءُ پوست"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "گوں‌ئانی"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "رند بوتگیں"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ءُ پوست"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "تاہش‌ئانی"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ءُ دار"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شٹیمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:02.057394838Z",
+  "model": "glm-5.3"
+}

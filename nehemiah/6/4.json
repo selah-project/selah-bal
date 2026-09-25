@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اے چوشے گپ منءَ چار وار شلوخت، ءُ من ایشانءَ ⟨את⟩ چوشے گپ جواب دیت۔",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ءُ شلوخت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "چوشے گپ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "وار"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "ءُ من جواب دیت"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ایشانءَ",
+      "marks": "ایشان"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "چوشے گپ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:45.418772940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ یاہوہءِ سباؤتءِ گال بوت، آییءَ گوَشتیں ⟨كہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤتءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨كہ⟩ گوَشتیں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:56.805933671Z",
+  "model": "glm-5.3"
+}

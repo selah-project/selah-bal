@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 19:14",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "اے اِنت تورا: آدمی کہ گدانءَ تہ مَرت — ہر کس کہ گدانءَ اندون بیت ءُ ہر چیز کہ گدانءَ تہ اِنت، ہپت روچ ناپاک بیت.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مَرت"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "گدانءَ تہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "اندون بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئے"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "گدانءَ تہ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک بیت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:38:52.184409559Z",
+  "model": "glm-5.3"
+}

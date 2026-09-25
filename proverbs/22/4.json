@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "عاجزی ءُ یاہوہءِ ڈرءِ بدل — دولت، ءُ عزت ءُ زندگی اِنت۔",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "عاجزی"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ءُ عزت"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ءُ زندگی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:45.417586036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "مءِ چشمانءَ چہ آپی رگیاں ڈگنت، پرچا کہ اِشاں تہ ئی توراتءَ نہ ربیت۔",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "رگیاں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپی"
+    },
+    {
+      "surface": "ירדو",
+      "gloss": "ڈگنت"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "مءِ چشمانءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ربیت"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تہ ئی توراتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:04.516943195Z",
+  "model": "glm-5.3"
+}

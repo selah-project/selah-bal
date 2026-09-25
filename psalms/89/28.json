@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "ہم من آیءَ بکوڑ زہگ کرماں، زمینءِ بادشاہانءَ گیش اُچٹ۔",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بکوڑ زہگ"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "کرماں"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "گیش اُچٹ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "بادشاہانءَ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:08.081434848Z",
+  "model": "glm-5.3"
+}

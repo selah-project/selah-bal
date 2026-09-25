@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ عوبیدءَ ⟨את⟩ یہوءُ زائیت، ءُ یہوءُءَ ⟨את⟩ عَزَریا زائیت۔",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ءُ عوبیدءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوءُ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یہوءُ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ءُ یہوءُءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَزَریا"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَریا"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:47.441964238Z",
+  "model": "glm-5.3"
+}

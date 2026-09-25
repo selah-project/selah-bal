@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "دست زنوکانی تہ نہ بیت، ءُ قرضانی ضامنانی تہ نہ بیت",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "تہ دست زنوکانی"
+    },
+    {
+      "surface": "כף",
+      "gloss": "دست"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "تہ ضامنانی"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "قرضانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:53.465651412Z",
+  "model": "glm-5.3"
+}

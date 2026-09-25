@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ایں کار بِنایاہو، یِہُویاداعءِ زہگ، کت ءُ اِشءَ نام سئے پہلوانانی درمیان اِنت۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کار کت"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بِنایاہوءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یِہُویاداعءِ"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ءُ اِشءَ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "سئے ءَ درمیان"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "پہلوانانی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:25:42.874408846Z",
+  "model": "glm-5.3"
+}

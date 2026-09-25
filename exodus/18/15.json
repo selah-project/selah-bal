@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ موشہ وتی سسءَ گوَشت: کہ قوم منءِ پیشءَ آئیت پہ ایلوہیمءِ جستنج۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "وتی سسءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آئیت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءِ پیشءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "پہ جستنج"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:58:10.872281324Z",
+  "model": "glm-5.3"
+}

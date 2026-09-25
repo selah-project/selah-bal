@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "پہ اے کہ تو چاکانی رہءَ لالنیں ءُ راستانی رہان پیش داریں.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "لالنیں"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رہءَ تہ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چاکان"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "ءُ رہان"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستان"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "پیش داریں"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:04.133346822Z",
+  "model": "glm-5.3"
+}

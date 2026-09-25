@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 145,
+  "translation": "تُئے پادشاہیءِ شان گوَشنت ءُ تُئے زورءِ بابت گپ زنت۔",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "تُئے پادشاہیءِ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "گوَشنت"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ءُ تُئے زور"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "گپ زنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:49.063509661Z",
+  "model": "glm-5.3"
+}

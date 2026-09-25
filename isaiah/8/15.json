@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ چہ آ گیش ونت ءُ ڈگنت ءُ شکن بنت ءُ پھانڈءَ آئنت ءُ گیران بنت۔",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ءُ ونت"
+    },
+    {
+      "surface": "בם",
+      "gloss": "چہ آ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ءُ ڈگنت"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ءُ شکن بنت"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "ءُ پھانڈءَ آئنت"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "ءُ گیران بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:22:27.063741377Z",
+  "model": "glm-5.3"
+}

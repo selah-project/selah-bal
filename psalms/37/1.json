@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "داؤدءِ ⟨مزامیر⟩. بدکاراناں غصہ نہ کن، ءُ زلمءِ کنوکانی نالوک نہ کن.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "داؤدءِ ⟨مزامیر⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "غصہ نہ کن"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "بدکاراناں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "نالوک نہ کن"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "کنوکانی"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "زلمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:20.154824987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ بِلع عزازءِ زہگ، شمعءِ زہگ، یوایلءِ زہگ؛ آ عارعِرءَ ءُ نبوءِ سرءَ تا بعل معونءَ وتہ جت۔",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "ءُ بِلع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "عزازءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شمعءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوایلءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "وتہ جت"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "عارعِرءَ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ ... سرءَ تا"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نبوءِ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ءُ بعل"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "معون"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:17.990834473Z",
+  "model": "glm-5.3"
+}

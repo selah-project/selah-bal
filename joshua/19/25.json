@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ آیانی سرحد بوت ہیلکات ءُ ہالی ءُ بیتن ءُ اَکشاف",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "آیانی سرحد"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ہیلکات"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "ءُ ہالی"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "ءُ بیتن"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "ءُ اَکشاف"
+    }
+  ],
+  "timestamp": "2026-09-24T20:11:37.111132095Z",
+  "model": "glm-5.3"
+}

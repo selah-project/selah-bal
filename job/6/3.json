@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 6:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "کیونکہ اے ءُ چہ دریاں ءِ ریگ گیش‌تر اِنت؛ پہ ایشا مہ گالان ہنگ بنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اے ءُ"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "ریگ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دریاں ءِ"
+    },
+    {
+      "surface": "یכבד",
+      "gloss": "گیش‌تر اِنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایشا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "مہ گالان"
+    },
+    {
+      "surface": "לעו",
+      "gloss": "ہنگ بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:50.932455565Z",
+  "model": "glm-5.3"
+}

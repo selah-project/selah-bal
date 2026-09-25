@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "دانا غلام شرمگین زہگءِ سر حکومت کنت ءُ براتانی میانی میراثءَ شریک کنت.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "حکومت کنت"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "زہگءِ سر"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "شرمگین"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ءُ … میانی"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "براتانی"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "شریک کنت"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "میراثءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:11.352699492Z",
+  "model": "glm-5.3"
+}

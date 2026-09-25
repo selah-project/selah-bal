@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "تُمانی سئرءِ گوشءَ گول نہ کپیت، ءُ تُءِ ریشءِ گوشءِ ⟨את⟩ نہ خراب کیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "گول کپیت"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "گوشءِ"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "تُمانی سئر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "خراب کیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ریشءِ گوشءِ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "گوشءِ"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "تُءِ ریش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:34.518799143Z",
+  "model": "glm-5.3"
+}

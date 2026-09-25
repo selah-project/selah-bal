@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ چہ مءَ گوَشت: اے آدمءِ زہگ، وتی پیرانءِ سر اِستڑ، ءُ من ⟨את⟩ تُوءَ گوں گپ کنٛت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "چہ مءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "اِستڑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءِ"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "وتی پیران"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ءُ من گپ کنٛت"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تُوءَ",
+      "marks": "گوں تُوءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:08:17.433162069Z",
+  "model": "glm-5.3"
+}

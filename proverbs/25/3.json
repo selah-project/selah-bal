@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "آسمان بلندیءَ ءُ زمین گودیءَ، ءُ شاهانءِ دلءِ کاوش نیست.",
+  "tokens": [
+    {
+      "surface": "שָׁמַ֣יִם",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "לָ֭רוּם",
+      "gloss": "بلندیءَ"
+    },
+    {
+      "surface": "וָאָ֣רֶץ",
+      "gloss": "ءُ زمین"
+    },
+    {
+      "surface": "لָעֹ֑מֶק",
+      "gloss": "گودیءَ"
+    },
+    {
+      "surface": "וְלֵ֥ב",
+      "gloss": "ءُ دل"
+    },
+    {
+      "surface": "מְ֝לָכִ֗ים",
+      "gloss": "شاهانءِ"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "חֵֽקֶר",
+      "gloss": "کاوش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:18.813114882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "چورءَ نہ کم ارزشنت گرچا کہ چوری کنت وتی نپسءَ پور کنکءَ پہ، گرچا کہ لوڑیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "کم ارزشنت"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "چورءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "گرچا کہ"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "چوری کنت"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "پور کنکءَ پہ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "وتی نپسءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "گرچا کہ"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "لوڑیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:01.033515529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ من ⟨את⟩ اے گدان چوش شیلوہ گرنت، ءُ ⟨את⟩ اے شہرءَ من پہ دُعا دیئر پہ تمام قومانءِ زمین دیت۔",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ءُ من گرنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گدان"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "اے گدان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "چوش شیلوہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اے شہر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "اے شہر"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "من دیت"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "پہ دُعا دیئر"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ تمام"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "قومانءِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T21:54:37.726220666Z",
+  "model": "glm-5.3"
+}

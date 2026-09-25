@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ چہ کیءَ شُما مَنیں ءُ چہ ہمپُج بیت؟ گوَشت پاک۔",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کیءَ"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "شُما مَنیں"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "ءُ ہمپُج بیت"
+    },
+    {
+      "surface": "یֹאמַר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:20.427137376Z",
+  "model": "glm-5.3"
+}

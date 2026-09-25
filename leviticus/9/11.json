@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ ⟨את⟩ گوشت ءُ ⟨את⟩ کوند آتشءَ سوزانیت، لشکرءِ بیرورا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گوشت"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کوند"
+    },
+    {
+      "surface": "העור",
+      "gloss": "کوند"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "سوزانیت"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آتشءَ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بیرورا"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "لشکرءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:14:38.630354247Z",
+  "model": "glm-5.3"
+}

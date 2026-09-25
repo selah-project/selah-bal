@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "سئے گالان تھکن اَنت؛ یکے بندہ نہ پتنی گپ بزنت؛ چم سیر نہ بیت پہ گندگ، ءُ گوَش پُر نہ بیت پہ شندگ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "تھکن اَنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "پتنی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "پہ گپ گرگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "سیر بیت"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چم"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "پہ گندگ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "پُر بیت"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوَش"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "پہ شندگ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:34.411576844Z",
+  "model": "glm-5.3"
+}

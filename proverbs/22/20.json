@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "مگن من نہ نبیسیتگ پہ تئے تریں وہد، چہ نصیحتاں ءُ زانگءَ؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "مگن … نہ"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "نبیسیتگ منت"
+    },
+    {
+      "surface": "لך",
+      "gloss": "پہ تئے"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "تریں وہد"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "چہ نصیحتاں"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ زانگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:31.816755730Z",
+  "model": "glm-5.3"
+}

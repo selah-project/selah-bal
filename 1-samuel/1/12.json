@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ آ بوت کہ چون آ یاہوہءِ پیشءَ دعا گیش کت، ءُ ایلی ⟨את⟩ آییءِ منہءَ چرچیت.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ آ بوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "گیش کت"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "دعا کت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ءُ ایلی"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "چرچیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ منہءَ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "آییءِ منہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:25:27.641608297Z",
+  "model": "glm-5.3"
+}

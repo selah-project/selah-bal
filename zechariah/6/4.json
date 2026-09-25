@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ من جواب دتم ءُ پہ آ فرشتہءَ گوَشتم کہ گوں من گپ جنت، چے اِنت آ، اے ادونای؟",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "ءُ من جواب دتم"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "آ فرشتہءَ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گوَشتوک"
+    },
+    {
+      "surface": "בי",
+      "gloss": "گوں من"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:42.664094088Z",
+  "model": "glm-5.3"
+}

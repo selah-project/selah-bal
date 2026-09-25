@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ بت شبع جھکت ءُ شاہءَ سجدا کت؛ ءُ شاہءَ گوَشت: تری چی اِنت؟",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "ءُ بت شبع جھکت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "بع"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ءُ سجدا کت"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "شاہءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ شاہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تری"
+    }
+  ],
+  "timestamp": "2026-09-24T20:52:55.553064371Z",
+  "model": "glm-5.3"
+}

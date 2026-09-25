@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اگہ مرد جنکیں دُشیزہ کہ منگ نہ بوتگ اِنت پدا کنت، ءُ آییءَ گرپیت ءُ گوں آ نزد کنت، ءُ اِشاں پدا بنت،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "اگہ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "پدا کنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "נער",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "دُشیزہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "منگ بیت"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "ءُ گرپیت"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ءُ نزد کت"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "گوں آ"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "ءُ پدا بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:47.684829820Z",
+  "model": "glm-5.3"
+}

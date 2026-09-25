@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ شاؤل ⟨את⟩ پلشتینانی مچن گندیت، ءُ گرسیت ءُ آییءِ دل گیش ترپیت۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پلشتینانی مچن"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "مچن"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتینانی"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گرسیت"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ءُ ترپیت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "آییءِ دل"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:56:59.814930383Z",
+  "model": "glm-5.3"
+}

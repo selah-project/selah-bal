@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ہمے شءَ یاہوہ سباؤت گوَشتیت، آ گوَشیت: اے قوم گوَشیت کہ وہد نہ روچگ، وہد کہ یاہوہءِ گدان ببنیت.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ہمے شءَ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشتیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ گوَشیت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "گوَشیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "בא",
+      "gloss": "روچگ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "ببنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:43:14.656245471Z",
+  "model": "glm-5.3"
+}

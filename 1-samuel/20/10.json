@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ داود یہوناتانءَ گوَشت: کے منءَ گوشتنت، یا اگر تُے پت تُےءَ سخت جواب دیت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "گوشتنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "تُےءَ جواب دیت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تُے پت"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:34:22.620751123Z",
+  "model": "glm-5.3"
+}

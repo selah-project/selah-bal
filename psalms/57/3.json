@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 57,
+  "translation": "من اے ایلوہیم اُچءَ بانگ کنان — پہ ایلءِ کہ منءِ پہ کار کامل کنت۔",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "من بانگ کنان"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "اے ایلوہیمءَ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "اُچ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "پہ ایلءَ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "کامل کنت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:43.734661466Z",
+  "model": "glm-5.3"
+}

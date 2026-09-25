@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ آ چہ آییءِ گدءَ بریت ءُ روت ءُ یک دگہ مردیءَ بہ بیت۔",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "ءُ آ بریت"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "چہ آییءِ گدءَ"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ءُ بہ بیت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "یک دگہ مردیءَ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:45.777574695Z",
+  "model": "glm-5.3"
+}

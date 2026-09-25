@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "توئیں گواہیان پلئوت اِنت؛ اِشاں پہ مءِ نَپسءَ اِشاں نگہ کتگ۔",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "پلئوت"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "توئیں گواہیان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اشاں پہ"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "نگہ کتگ"
+    },
+    {
+      "surface": "נפשی",
+      "gloss": "مءِ نَپس"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:41.358313152Z",
+  "model": "glm-5.3"
+}

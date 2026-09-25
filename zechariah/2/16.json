@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یاہوہ ⟨את⟩ یہودا وتی بٹیءِ چوں مِنت، مقدسءِ زمینءَ سر، ءُ پدا یورشلمءَ چُنیگ.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "ءُ مِنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہودا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودا"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "وتی بٹیءِ چوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ءُ چُنیگ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یورشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:45:07.685770119Z",
+  "model": "glm-5.3"
+}

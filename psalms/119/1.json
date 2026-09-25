@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "بہشتیں اَنت راہءِ پور منش، کہ یاہوہءِ توراتءَ رونت.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "بہشتیں اَنت"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "پور منش"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہءِ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "رونت"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "توراتءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:43.336504147Z",
+  "model": "glm-5.3"
+}

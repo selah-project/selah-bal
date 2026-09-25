@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 36:30",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ من ⟨את⟩ دارءِ میوہ گیش کنیت ءُ کھیتءِ بہار، پہ ایشتے کہ شمئیں اگه بھوکءِ رمت چہ قومانءَ نہ گرنت۔",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "ءُ من گیش کنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میوہ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوہ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دارءِ"
+    },
+    {
+      "surface": "ותנובת",
+      "gloss": "ءُ بہار"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیتءِ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ ایشتے کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اگه"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "رمت"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "بھوکءِ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "چہ قومانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:24:18.762809822Z",
+  "model": "glm-5.3"
+}

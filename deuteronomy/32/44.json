@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ موشہ ⟨موسیٰ⟩ آت ءُ اے گانیءِ ہمگ گال ⟨את⟩ قومءِ گوشانءَ گوَشت — آ ءُ ہوشِع ⟨یوشع⟩، نونءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ ⟨موسیٰ⟩"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گانیءِ ہمگ گال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گال"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "گانیءِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "گوشانءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "ءُ ہوشِع ⟨یوشع⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نونءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:37.226190270Z",
+  "model": "glm-5.3"
+}

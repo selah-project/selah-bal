@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ نُوح چوش کت چہ گیشتری کہ یاہوہ آییءَ حکم کتگ اَت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ چوش کت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "چہ گیشتری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "آییءَ حکم کتگ اَت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:27.808013267Z",
+  "model": "glm-5.3"
+}

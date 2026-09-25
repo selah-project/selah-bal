@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "کہ نہ بیگانگ تیہ زور ءَ شر بکنن ءُ تیہ مشقتان بیگانءِ گدانءَ تہ بنت،",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "شر بکنن"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "بیگانگ"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "تیہ زورءَ"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "ءُ تیہ مشقتان"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گدانءَ تہ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "بیگانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:13.796152207Z",
+  "model": "glm-5.3"
+}

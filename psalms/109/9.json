@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "آییءِ زہگان یتیم بنت ءُ آییءِ زن بیوگ بیت۔",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "آییءِ زہگان"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ءُ آییءِ زن"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:53.264538105Z",
+  "model": "glm-5.3"
+}

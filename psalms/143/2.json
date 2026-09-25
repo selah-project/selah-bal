@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 143,
+  "translation": "ءُ مایی بندہءَ گوَڑءَ ⟨את⟩ مہ گیر، پرچا کہ تری رُوءِ پیشءَ ہچ یک زندگ راست نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ءُ مہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "گیر"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "گوَڑءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مایی بندہ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "مایی بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "راست بیت"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تری رُوءِ پیشءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہچ یک"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:56.760840959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ مردم چمءَ جھک کت، ءُ اِش نژم بوت؛ آیانءَ معاف مکن۔",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ءُ چمءَ جھک کت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ءُ نژم بوت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "معاف مکن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آیانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:19:51.695839520Z",
+  "model": "glm-5.3"
+}

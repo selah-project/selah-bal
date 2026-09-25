@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ بوت چهل روچانی سرءَ، ءُ نوحءَ ⟨את⟩ کشتیءِ کڑک کہ آیی جوڑ کتگ بوت کھول کت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چهل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچانی"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ءُ کھول کت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوحءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کشتیءِ کڑک"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "کڑک"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتیءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کتگ بوت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:37.076268612Z",
+  "model": "glm-5.3"
+}

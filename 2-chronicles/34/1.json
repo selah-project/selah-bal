@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "یوشیاہو ہشت سالءِ زہگ اَت وتی شاہ بوتنءَ، ءُ سی ءُ یک سال اُو یروشلمءَ شاہی کت۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ہشت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یوشیاہو"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "وتی شاہ بوتنءَ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سی"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ءُ یک"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہی کت"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:48:42.902148541Z",
+  "model": "glm-5.3"
+}

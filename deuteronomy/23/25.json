@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "کہ تو وتِ رَئسءِ انگوری باغءَ آئی، انگوراں وانیت کہ وتِ نفس سیر بیت، بلے وتِ برتنءَ ءُ چیز نہ دیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "انگوری باغءَ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "وتِ رَئس"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ءُ وانیت"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "انگوراں"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "کہ وتِ نفس"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "سیر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "وتِ برتنءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:58.354241100Z",
+  "model": "glm-5.3"
+}

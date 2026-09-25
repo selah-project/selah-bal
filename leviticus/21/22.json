@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "آییءِ ایلوہیمءِ نان — پاکانی پاک چہ، ءُ چہ پاکان آ ورت کیت۔",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "آییءِ ایلوہیمءِ"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "پاکانی پاک چہ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاکان"
+    },
+    {
+      "surface": "י אכל",
+      "gloss": "ورت کیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:05.391111477Z",
+  "model": "glm-5.3"
+}

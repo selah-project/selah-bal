@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 8:19",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ قوم شموئیلءِ آوازءَ گوشنگءِ چوک کت ءُ ایشان گوَشتنت نہ، بلے شاہ ماڈی سرءَ بیت۔",
+  "tokens": [
+    {
+      "surface": "וימאנו",
+      "gloss": "ءُ چوک کت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "لשמע",
+      "gloss": "گوشنگءِ پہ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آوازءَ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیلءِ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ءُ گوَشتنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨بلے⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ماڈی سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:27:04.862543103Z",
+  "model": "glm-5.3"
+}

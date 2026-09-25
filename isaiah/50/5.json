@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "ادونای یاہوہءَ منی گوشءَ وا کت، ءُ من سرکشی نہ کت، من پچّا پُشت نہ گرپتگ.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "وا کت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوشءَ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "سرکشی کت"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پچّا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "پُشت گرپتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:39:02.443835327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "پرچا کہ حکم اُوچھار حکم، حکم اُوچھار حکم، لکیر اُوچھار لکیر، لکیر اُوچھار لکیر، زری اُد، زری اُد۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "اُوچھار حکم"
+    },
+    {
+      "surface": "צו",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "اُوچھار حکم"
+    },
+    {
+      "surface": "קו",
+      "gloss": "لکیر"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "اُوچھار لکیر"
+    },
+    {
+      "surface": "קו",
+      "gloss": "لکیر"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "اُوچھار لکیر"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "زری"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُد"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "زری"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُد"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:53.708410384Z",
+  "model": "glm-5.3"
+}

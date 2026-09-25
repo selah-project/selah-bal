@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ اِشاں آءَ بییڈشنت، ءُ ہرام گیش نہ بیت، ءُ یروشلم بے خطرہءَ بییڈشت بیت۔",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ءُ بییڈشنت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آءَ تہ"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "ءُ ہرام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "ءُ بییڈشت بیت"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بے خطرہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:46:52.305030115Z",
+  "model": "glm-5.3"
+}

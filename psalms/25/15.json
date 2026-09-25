@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "مءِ چشمے ہمک وخت یاہوہءَ لگ اَنت، چونکہ آءُ مءِ پہ چہ دامءَ در کنت۔",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "مءِ چشمے"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمک وخت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "در کنت"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "چہ دامءَ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "مءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:44.064422015Z",
+  "model": "glm-5.3"
+}

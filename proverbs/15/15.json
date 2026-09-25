@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "مسکینءِ ٹول روچان بد اَنت، پرچہرہ دلءَ پہ یک ہمیشگی دستار اِنت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ٹول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "עני",
+      "gloss": "مسکینءِ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بد"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "پرچہرہ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "משתہ",
+      "gloss": "دستار"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشگی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:22.306143584Z",
+  "model": "glm-5.3"
+}

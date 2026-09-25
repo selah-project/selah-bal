@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "آ کہ بوتگ، آییءِ نام چہ پدا آوانیں کتگ ءُ زانگ بیتگ کہ آ بندہ اِنت؛ ءُ آ نہ توانیت گوں آءَ کہ چہ آءَ زورتیر اِنت داوری کنت۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "بوتگ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "چہ پدا"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "آوانیں کتگ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "ءُ زانگ بیتگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "توانیت"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "داوری کنت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "زورتیر"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:09.600544480Z",
+  "model": "glm-5.3"
+}

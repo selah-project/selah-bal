@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "گندیں چیز وتّی گدانءَ بندوبست کنت، وتءَ یک راہءَ کہ چنگ نہ اِنت جا کت، چہ گندیں چیز نہ اُکارت۔",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "گندیں چیز"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "بندوبست کنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "وتّی گدانءَ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "وتءَ جا کت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "یک راہءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "چہ گندیں چیز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "اُکارت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:55.985900439Z",
+  "model": "glm-5.3"
+}

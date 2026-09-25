@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "پہ تُءِ نامءِ سچی، اے یاہوہ، ماءِ گنہءَ معاف کن، چونکہ آ گیش اِنت.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "پہ … سچی"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تُءِ نامءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "معاف کن"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "ماءِ گنہءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:22.445897374Z",
+  "model": "glm-5.3"
+}

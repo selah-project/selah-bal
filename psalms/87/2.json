@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 87,
+  "translation": "یاہوہ صیونءِ دریزانءَ دوست ءُ داریت، چہ یعقوبءِ سبی گیشتر.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "دوست ءُ داریت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دریزانِ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ سبی گیشتر"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "گدانان"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:10.981242857Z",
+  "model": "glm-5.3"
+}

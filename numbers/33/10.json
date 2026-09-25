@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ چہ ایلمءَ روتنت ءُ سرءِ ڈرءِ کنارءَ گدان ئے کتنت.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ءُ روتنت"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "چہ ایلمءَ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ءُ گدان ئے کتنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءِ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "کامءِ (سرءِ ڈر)"
+    }
+  ],
+  "timestamp": "2026-09-24T19:45:10.579088361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "اے چہ زورءِ گیشءِ پہ گوں من داولی بیت؟ نہ، بلے آیءَ خود منءَ توجہ کنت۔",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "چہ گیشیءَ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "داولی بیت"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "گوں من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آیءَ خود"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:38:33.735222528Z",
+  "model": "glm-5.3"
+}

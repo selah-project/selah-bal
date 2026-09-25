@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "چہ تئے حکمانءَ من سمجنت، پہ آں سبہ من ہر کوڑیں رابراءَ نفرت کتنت۔",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "چہ تئے حکمانءَ"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "من سمجنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آں سبہ"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "نفرت کتنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "رابراءِ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڑیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:09.480004309Z",
+  "model": "glm-5.3"
+}

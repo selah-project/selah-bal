@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "ءُ یِسرائیل گوَشت: چرا تُمے ماءَ اے بُرائی کت، کہ آ مردءَ گوَشت کہ ءَے تُمیں یک دگہ بُرا ھست؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "بُرائی کت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماءَ"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "کہ گوَشت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "آ مردءَ"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ءَے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُمیں"
+    },
+    {
+      "surface": "אח",
+      "gloss": "بُرا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:48.917550826Z",
+  "model": "glm-5.3"
+}

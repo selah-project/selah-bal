@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ اَوراہام وتی دست دراز کت، ءُ ⟨את⟩ چاقو گت پہ آییءِ زہگءَ ذبح کنگءَ۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ دراز کت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام ⟨اِبراہیم⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی دست"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "وتی دست"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاقو"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "چاقو"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "پہ ذبح کنگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ زہگ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:49:06.599107278Z",
+  "model": "glm-5.3"
+}

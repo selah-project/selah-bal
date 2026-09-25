@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 137,
+  "translation": "چونت آما یاہوہءِ گیت ⟨את⟩ مرنگ کننت تہ بیگانگیں زمینءَ؟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چونت"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "مرنگ کننت آما"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیت"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "نכר",
+      "gloss": "بیگانگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:11.591281429Z",
+  "model": "glm-5.3"
+}

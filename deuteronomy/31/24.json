@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ بوت، پَرچا کہ موشہءَ پہ نبشتءِ ⟨את⟩ اے توراتءِ گالانی یک کتابءِ سرءَ تان پُور بوت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "پَرچا کہ پُور کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "پہ نبشتءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے توراتءِ گالانی"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالانی"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "توراتءِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتابءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تان"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "پُور بوت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:03:07.808311187Z",
+  "model": "glm-5.3"
+}

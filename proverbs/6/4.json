@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "نندر پہ تُہءِ چشمانءَ نہ دہ، ءُ نیم‌نندر پہ تُہءِ پلکانءَ نہ دہ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "نندر"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "پہ تُہءِ چشمانءَ"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ءُ نیم‌نندر"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "پہ تُہءِ پلکانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:26.003667181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "خفاءِ سختی ءُ غضبءِ رود، ءُ کے ڈاهءِ پیشءَ چمبیت؟",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "سختی"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "خفاءِ"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "ءُ رود"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضبءِ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کے"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "چمبیت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ڈاهءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:09.256692897Z",
+  "model": "glm-5.3"
+}

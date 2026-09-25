@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "کج بوتہ اَں، گیش تر چم کتگم؛ کل روچ ماتمیں روت.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "کج بوتہ اَں"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "گیش تر چم کتگم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ماتمیں"
+    },
+    {
+      "surface": "הלכתی",
+      "gloss": "روت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:58.924283887Z",
+  "model": "glm-5.3"
+}

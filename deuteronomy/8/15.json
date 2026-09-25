@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 8:15",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "آ کہ تئا وڈ ءُ ڈراوناں بیابانءَ تہ لڑ کت — ناچ ساراف ءُ گجک ءُ سک، اودا کہ آپ نیست — آ کہ تئا پہ چقماقءِ چٹانءَ آپ در کت.",
+  "tokens": [
+    {
+      "surface": "המוליכך",
+      "gloss": "آ کہ تئا لڑ کت"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابانءَ تہ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "وڈ"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "ءُ ڈراوناں"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ناچ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ساراف"
+    },
+    {
+      "surface": "ועקרב",
+      "gloss": "ءُ گجک"
+    },
+    {
+      "surface": "וצמאון",
+      "gloss": "ءُ سک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "در کت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئا پہ"
+    },
+    {
+      "surface": "مים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "החלמיש",
+      "gloss": "چقماقءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:08.334377292Z",
+  "model": "glm-5.3"
+}

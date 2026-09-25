@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "ءُ آ ⟨את⟩ وتیءِ آواز تہ گریانءَ دات، ءُ مِتسرایم گوشت ءُ فرعوہءِ گدان گوشت۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتیءِ آواز"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "وتیءِ آواز"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "تہ گریانءَ"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:48:43.291002800Z",
+  "model": "glm-5.3"
+}

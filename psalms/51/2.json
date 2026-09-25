@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "ناتان پیغمبرءِ آییءَ لا آتگءِ وہدءَ، اودا کہ آ بات شابعءَ لا آت۔",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "آتگءِ وہدءَ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ لا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "اودا کہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بات"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شابع"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:09.715411299Z",
+  "model": "glm-5.3"
+}

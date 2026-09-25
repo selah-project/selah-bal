@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "روچان پس چہ یک سال، بھروسہ والا لرزنت؛ پرچا کہ انگورءِ فصل پُر کنت، جمع کرنگ نہ آیت۔",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پس چہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "یک سال"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "لرزنت"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "بھروسہ والا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "پُر کنت"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "انگورءِ فصل"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "جمع کرنگ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:40.646416089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 60,
+  "translation": "توءَ زمینءَ تھترائت، توءَ آییءَ درز کت — آییءِ درزے شفا بدہ، کیچہ آ تھتریت.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "تھترائت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "درز کت"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "شفا بدہ"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "آییءِ درزے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "تھتریت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:09.402084618Z",
+  "model": "glm-5.3"
+}

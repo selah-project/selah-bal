@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ بوت بیست سالءِ پچءَ، کہ شلومہءَ یاہوہءِ گadan ⟨את⟩ ءُ ءُ ⟨את⟩ آییءِ گadan جوڑ کت اَت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "پچ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءِ گadan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آییءِ گadan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "آییءِ گadan"
+    }
+  ],
+  "timestamp": "2026-09-25T00:36:04.352142594Z",
+  "model": "glm-5.3"
+}

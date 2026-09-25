@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "بے شک من زانگ آن کہ آ چوش اِنت؛ ءُ چوش کہ انسان گوں ایلءَ راست ببیت؟",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "من زانگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آ چوش"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چوش کہ"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "راست ببیت"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:04.513868780Z",
+  "model": "glm-5.3"
+}

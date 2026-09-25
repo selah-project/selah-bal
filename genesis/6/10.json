@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ نوحءَ سئے زہگ وَلد کتگ: ⟨את⟩ شم، ⟨את⟩ حام، ءُ ⟨את⟩ یافت۔",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ وَلد کتگ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یافت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:24.664095200Z",
+  "model": "glm-5.3"
+}

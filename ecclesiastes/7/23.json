@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "گیش اے منا حکمتءَ آزمایش کت؛ من گوشت: من حکیم بیت — بلے آ چہ من دووریں اِنت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "آزمایش کت"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حکمتءَ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "حکیم بیت"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "دووریں"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "چہ من"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:15.112609635Z",
+  "model": "glm-5.3"
+}

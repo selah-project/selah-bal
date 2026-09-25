@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 128,
+  "translation": "وانگ! کہ چوشےے آ کسے دعا بیت کہ یاہوہءَ ڈرنت۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وانگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چوشےے"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "دعا بیت"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "کسے"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈرنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:28.314257567Z",
+  "model": "glm-5.3"
+}

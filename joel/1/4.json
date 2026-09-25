@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "گزامءِ بچال اربہءَ وخت، ءُ اربہءِ بچال یلقءَ وخت، ءُ یلقءِ بچال حسیلءَ وخت.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "بچالءِ"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "گزام"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "اربہءَ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ءُ بچالءِ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "اربہ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "یلقءَ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ءُ بچالءِ"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "یلق"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "حسیلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:32:47.360257260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 61,
+  "translation": "کی تُو، ایلوہیم، مئے نذراںءَ گوشتئے؛ تُئے نامءِ ڈاراں ءُ پہ وارثی داتئے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "گوشتئے"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "مئے نذراںءَ"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "داتئے"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "وارثی"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ڈاراں"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تُئے نامءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:44.318346027Z",
+  "model": "glm-5.3"
+}

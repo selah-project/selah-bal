@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "کیں روچ ءُ شپ تُہءِ دست مہ سرءَ گرانی بوت، مہ آو گرمیءِ خشکیءَ بدل بوت۔ سلاہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیں"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ءُ شپ"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "گرانی بوت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مہ سرءَ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تُہءِ دست"
+    },
+    {
+      "surface": "نהפך",
+      "gloss": "بدل بوت"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "مہ آو"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "خشکیءَ"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "گرمی"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:02.094257206Z",
+  "model": "glm-5.3"
+}

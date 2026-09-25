@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 62,
+  "translation": "ہمک منی جان تہ اِلوہیم گوں چُپ اِنت؛ منی نجات چہ آءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اِلوہیم"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "گوں چُپ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جان"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آءَ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "منی نجات"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:33.003206814Z",
+  "model": "glm-5.3"
+}

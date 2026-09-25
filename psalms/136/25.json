@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 136,
+  "translation": "کہ نان دینت پہ گیش گوشتءَ، کیہ پہ ہمیشہ آییءِ ہسید اِنت۔",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "دینت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ گیش"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:05.318575264Z",
+  "model": "glm-5.3"
+}

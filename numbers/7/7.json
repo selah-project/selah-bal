@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "⟨את⟩ دو گاڈیاں ءُ ⟨את⟩ چار گوانان گِرشونءِ زہگانءَ دت، چوش اِشانی کارءِ۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو گاڈیاں"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "گاڈیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چار گوانان"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چار"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گوانان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دت"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زہگانءَ پہ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گِرشون"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "اِشانی کار"
+    }
+  ],
+  "timestamp": "2026-09-24T19:30:00.323802844Z",
+  "model": "glm-5.3"
+}

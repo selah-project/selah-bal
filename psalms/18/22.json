@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "کیچہ من یہوہءِ راستے بچا کت، ءُ گوں مٰءِ ایلوہیم زلمی نہ کت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "من بچا کت"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "زلمی نہ کت"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "گوں مٰءِ ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:05.688885232Z",
+  "model": "glm-5.3"
+}

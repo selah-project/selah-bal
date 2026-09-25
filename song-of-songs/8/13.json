@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "اے تو کہ گداناني تہ نشت اے — یاران تئے آوازءَ گوشنت — مءَ ⟨توءِ آواز⟩ گوش بک۔",
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "نشت ئے کوئم"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "گداناني تہ"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "یاران"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "تئے آوازءَ"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "مءَ گوش بک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:02.752840905Z",
+  "model": "glm-5.3"
+}

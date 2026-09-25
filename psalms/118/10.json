@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 118,
+  "translation": "همگ قوماں منیءَ گھیر گرگ؛ بے شک یاہوہءِ نامءَ منی آیانءَ مین کت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "همگ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "منیءَ گھیر گرگ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نامءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "منی آیانءَ مین کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:06.071526111Z",
+  "model": "glm-5.3"
+}

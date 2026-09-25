@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "یاہوہ گنسِت — سمیں گوشتءِ جانانءِ ایلوہیم — یک مردءَ جماعتءِ سرءَ،",
+  "tokens": [
+    {
+      "surface": "יפפקד",
+      "gloss": "گنسِت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "جانانءِ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ سمیں"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشتءِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مردءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:42:41.879934958Z",
+  "model": "glm-5.3"
+}

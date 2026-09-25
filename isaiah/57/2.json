@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 57,
+  "translation": "شالومءَ روت، آشت بنت وتی پلنگاناں تہ، آ کہ سدہءَ روت۔",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالومءَ"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "آشت بنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "وتی پلنگاناں"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "سدہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:39:38.112323525Z",
+  "model": "glm-5.3"
+}

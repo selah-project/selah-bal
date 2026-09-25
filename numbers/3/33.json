@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "چہ مراریءَ — محلیانی ٹولی ءُ موشیانی ٹولی؛ اے اِنت مراریءِ ٹولیان.",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "چہ مراریءَ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹولی"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "محلیانی"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "ءُ ٹولی"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "موشیانی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹولیان"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراریءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:28:03.436554813Z",
+  "model": "glm-5.3"
+}

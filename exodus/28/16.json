@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "چارکونا بیت، دنا؛ آییءِ درازی یک پنجا ءُ آییءِ چوڑی یک پنجا۔",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "چارکونا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "دنا"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "پنجا"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "درازی"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ءُ پنجا"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "چوڑی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:59.246640690Z",
+  "model": "glm-5.3"
+}

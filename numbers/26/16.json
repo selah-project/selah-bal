@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "پہ ازنی، ازنیانی خاندان؛ پہ عیری، عیریانی خاندان۔",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "پہ ازنی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "ازنیانی"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "پہ عیری"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "عیریانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:52.380567969Z",
+  "model": "glm-5.3"
+}

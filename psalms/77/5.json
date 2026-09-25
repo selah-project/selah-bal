@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "تو مانی چشمیں پاہان گرگتگ اَت؛ آں لرزیتگ ءُ گپ نہ کنت۔",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "تو…گرگتگ اَت"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "پاہان"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "مانی چشمیں"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "آں لرزیتگ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "گپ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:29.493475875Z",
+  "model": "glm-5.3"
+}

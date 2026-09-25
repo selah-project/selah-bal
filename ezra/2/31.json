@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "دگہ عیلامءِ زہگان، یک ہزار ءُ دو صد ءُ پنجاه ءُ چار۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عیلام"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "یک ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو صد"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ءُ چار"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:13.581200591Z",
+  "model": "glm-5.3"
+}

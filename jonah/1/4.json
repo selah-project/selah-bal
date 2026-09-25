@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یاہوہءَ گیش شۏل دریا تہ پھینت، ءُ دریاءَ گیش طوفان بوت، ءُ آ کَشتی گنیت کہ تُرت بیت.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "پھینت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "شۏل"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "סער",
+      "gloss": "طوفان"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "בים",
+      "gloss": "دریاءَ"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "ءُ آ کَشتی"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "گنیت"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "کہ تُرت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:38:24.251550573Z",
+  "model": "glm-5.3"
+}

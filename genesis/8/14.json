@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ دومے ماہءَ، ماہءِ ہپت ءُ بیستمی روچءَ، زمین پوریں شُک بوت۔",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ءُ دومے ماہءَ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومے"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "چہ ہپت"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ بیستمی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماہءِ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "پوریں شُک بوت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:46.206066439Z",
+  "model": "glm-5.3"
+}

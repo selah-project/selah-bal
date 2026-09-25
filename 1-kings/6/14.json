@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ شلوموہءَ ⟨את⟩ گدان جوڑ کت ءُ آییءَ پُور کت۔",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گدان"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ءُ آییءَ پُور کت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:48.115578927Z",
+  "model": "glm-5.3"
+}

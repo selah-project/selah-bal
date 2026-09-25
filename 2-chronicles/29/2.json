@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ آ یاہوہءِ چشمانءِ تہ راستی کت، چوش گوں ہر چیز کہ داود، آییءِ پِت، کتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشمانءِ تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "چوش گوں ہر چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کتگ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آییءِ پِت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:44:06.776097831Z",
+  "model": "glm-5.3"
+}

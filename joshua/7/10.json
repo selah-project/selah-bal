@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ یاہوہءَ یہوشوعءَ گوَشت: تو اٹھ — چہ کار پہ اے کہ تو وتءِ منہءَ سرءَ ڈگگ ئے؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوعءَ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "اٹھ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو پہ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چہ کار"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڈگگ ئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تُءِ منہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:06:45.946340499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ماں لب ئے — بسئے ورگ، لہ کہ آییءَ سیر بیت ءُ الٹیءَ کنی.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "لب ئے"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ورگ"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "بسئے"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لہ کہ"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "آییءَ سیر بیت"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "ءُ آییءَ الٹیءَ کنی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:11.864784491Z",
+  "model": "glm-5.3"
+}

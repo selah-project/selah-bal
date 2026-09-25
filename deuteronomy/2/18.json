@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "تو اے روچ موآبءِ سرحد ءُ ⟨את⟩ عارءَ پار کنیں ءُ ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پار کنیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے روچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآبءِ سرحد"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآبءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عار"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عارءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:53:14.199496369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ الیشع آییءَ گوَشت: کمان ءُ تیران گن۔ ءُ آ کمان ءُ تیران آییءِ پہ گت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "الیشع"
+    },
+    {
+      "surface": "קח",
+      "gloss": "گن"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ءُ تیران"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءِ پہ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ءُ تیران"
+    }
+  ],
+  "timestamp": "2026-09-24T21:14:07.862326125Z",
+  "model": "glm-5.3"
+}

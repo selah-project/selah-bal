@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ ارپکشدءَ ⟨את⟩ شلحءَ زائگ، ءُ شلحءَ ⟨את⟩ عَبرءَ زائگ۔",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ءُ ارپکشدءَ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زائگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلحءَ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شلحءَ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ءُ شلحءَ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زائگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَبرءَ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عَبرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:58.908687518Z",
+  "model": "glm-5.3"
+}

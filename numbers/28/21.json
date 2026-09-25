@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "دہماں، دہماں پہ یک بریچ ءُ پہ ہپت بریچان بکن.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "دہماں"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "دہماں"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکن"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "پہ بریچ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "پہ ہپت"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "بریچان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:41:52.844906173Z",
+  "model": "glm-5.3"
+}

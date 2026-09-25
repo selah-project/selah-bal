@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ڈر ءُ گودڑ ءُ دام تہ اِنت، اے زمینءِ والگ۔",
+  "tokens": [
+    {
+      "surface": "פַּ֥חַד",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "וָפַ֖חַת",
+      "gloss": "ءُ گودڑ"
+    },
+    {
+      "surface": "וָפָ֑ח",
+      "gloss": "ءُ دام"
+    },
+    {
+      "surface": "עָלֶ֖יךָ",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "יוֹשֵׁ֥ב",
+      "gloss": "والگ"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:53.359949636Z",
+  "model": "glm-5.3"
+}

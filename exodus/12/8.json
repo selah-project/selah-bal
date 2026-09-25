@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ اِشے شپءَ ⟨את⟩ گوشت وخنت — آتشءَ برشت — ءُ بے خمیری روٹی گوں تلخیزاران آءَ وخنت۔",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ءُ وخنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوشت"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "شپءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِشے"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "برشت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتشءَ"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ءُ بے خمیری روٹی"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "تلخیزاران"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "آءَ وخنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:55:19.362257517Z",
+  "model": "glm-5.3"
+}

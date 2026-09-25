@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ داودءَ ⟨את⟩ اہینوام چہ یزرعیل گرپت، ءُ بیتنت ہم دوئے آءِ پہ زالان.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اہینوام"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "اہینوام"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرپت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "چہ یزرعیل"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "ءُ بیتنت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "دوئے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءِ پہ"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "پہ زالان"
+    }
+  ],
+  "timestamp": "2026-09-24T20:38:06.288790071Z",
+  "model": "glm-5.3"
+}

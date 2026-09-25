@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "کہ تُں ایلوہیمءَ یک نذر گنیںی، آییءَ پورا کنءَ تہ دیر نہ کن، پرچا کہ کسہانءَ تہ چاہش نیست؛ آ چہ گنیںت ⟨את⟩ پورا کن۔",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "گنیںی"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "دیر کنت"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "پورا کنءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہش"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "کسہانءَ تہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ چہ گنیںت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "گنیںت"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پورا کن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:00.041869143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ یاہوہ بلعامءَ ملاقات کت، ءُ یک گال آییءِ منءَ دات، ءُ گوَشت: پدا بلقءَ لوت ءُ اے چنبال گپ۔",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ءُ ملاقات کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعامءَ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "یک گال"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "آییءِ منءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "پدا لوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلقءَ"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ءُ اے چنبال"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "گپ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:18.729021793Z",
+  "model": "glm-5.3"
+}

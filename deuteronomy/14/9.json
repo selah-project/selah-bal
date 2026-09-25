@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "⟨את⟩ اے ⟨شما⟩ چہ ہمگ کہ آپءِ تہ اِنت، بت وانیت: ہر کہ آییءَ پَرءِ بال ءُ پَنءِ چھتر داریت، بت وانیت.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بت وانیت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہمگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "آپءِ تہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پَرءِ بال"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ءُ پَنءِ چھتر"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بت وانیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:41.438639223Z",
+  "model": "glm-5.3"
+}

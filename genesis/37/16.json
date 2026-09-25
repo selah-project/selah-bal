@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ آی گوَشت: ⟨את⟩ منءِ براتان من گشتان؛ منءَ زر خبر دہ کہ کجا اِشتن مالوانی کننت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منءِ براتان"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "منءِ براتان"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "گشتان"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "خبر دہ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "زر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اِشتن"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "مالوانی کننت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:42:09.887446478Z",
+  "model": "glm-5.3"
+}

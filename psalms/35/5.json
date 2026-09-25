@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "بیت اِنت چوش کہ چانڑ چہ روہءِ پیش، ءُ یاہوہءِ فرشتہ اِشاںءَ پرا کنت.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "بیت اِنت"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "چوش کہ چانڑ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "چہ پیش"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روہ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ءُ فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "پرا کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:35.101256425Z",
+  "model": "glm-5.3"
+}

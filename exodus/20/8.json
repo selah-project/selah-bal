@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "شباتءِ روچءَ ⟨את⟩ یاد دار پہ آییءَ پاک گرگ۔",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "یاد دار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روچ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شباتءِ"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "پہ آییءَ پاک گرگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:57:48.733005373Z",
+  "model": "glm-5.3"
+}

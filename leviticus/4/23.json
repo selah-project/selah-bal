@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "یا آییءِ گنہ کہ گوں آ گنہ کتگ، آییءَ زانیتگ بیت، ءُ ⟨את⟩ آییءِ قربانیءَ آنیت — بزانی زہگ، نر، بے عیب۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "زانیتگ بیت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "آییءِ گنہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گنہ کتگ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "گوں آ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ءُ آنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ قربانی"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "آییءِ قربانی"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "بزانی زہگ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزانی"
+    },
+    {
+      "surface": "زכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بے عیب"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:27.150452787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 46:25",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "اے بلہاءِ زہگان اَنت کہ لابن راحیلءَ، اَییءِ جنکءَ، داتگ ءُ آ یعقوبءَ ⟨את⟩ اے زائیت — ہمک نفس ہپت اِنت.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلہاء"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داتگ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راحیلءَ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "اَییءِ جنک"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوبءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ہپت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:47:34.025182492Z",
+  "model": "glm-5.3"
+}

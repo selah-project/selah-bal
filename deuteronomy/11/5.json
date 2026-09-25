@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ آ کہ تہ بیابانءَ شماءِ پہ کت، تا وقتے کہ شما اے جاگہءَ آتگ ایش —",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ آ کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماءِ پہ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "تہ بیابانءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا وقتے کہ"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "شماءِ آتگ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاگہءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:02.222710545Z",
+  "model": "glm-5.3"
+}

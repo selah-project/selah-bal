@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "گِلہ ڈانوکءَ تہ رند ترا بیت چہ سد زربءَ کہ نادانءَ.",
+  "tokens": [
+    {
+      "surface": "תחات",
+      "gloss": "رند ترا بیت"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "گِلہ"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "ڈانوکءَ تہ"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "چہ زرب"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:20.556815898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ حر گونءَ نہ کوڑیت تہ تمءِ ہر جاگہءَ، نہ مرگءِ ءُ نہ مالءِ۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ حر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "گونءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کوڑیت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہر"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "تمءِ جاگہءَ"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "نہ مرگءِ"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ءُ نہ مالءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:41.075334089Z",
+  "model": "glm-5.3"
+}

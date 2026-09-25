@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ لوتءَ ہم، کہ گوں ⟨את⟩ اَبرام روت، رَمہ ءُ گاوان ءُ گِدانان بوتانت.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "لوتءَ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَبرام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَبرام"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "رَمہ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ءُ گاوان"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "ءُ گِدانان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:29:01.988031809Z",
+  "model": "glm-5.3"
+}

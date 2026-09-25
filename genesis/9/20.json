@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ نوحءَ بنگیج کت — ڈگارءِ مرد — ءُ انگوریں باغ روچیت.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ءُ بنگیج کت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوحءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ڈگارءِ"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "ءُ روچیت"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگوریں باغ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:48.637184973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ تہاری بوت ءُ گوڈ بوت — سئیمی روچ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "تہاری"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گوڈ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "سئیمی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:33.171274859Z",
+  "model": "glm-5.3"
+}

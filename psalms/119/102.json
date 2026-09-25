@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "چہ تئے انصافانءَ من پٹ نہ کت، کیہ کہ تءُ منءَ سک زانت۔",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "چہ تئے انصافانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "سרתי",
+      "gloss": "من پٹ کت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تءُ"
+    },
+    {
+      "surface": "הורתנی",
+      "gloss": "منءَ سک زانت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:09.479748320Z",
+  "model": "glm-5.3"
+}

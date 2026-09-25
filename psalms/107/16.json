@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "چرچا کہ ⟨او⟩ مسءِ دروازہان شکست کت، ءُ آہنءِ سدوان کپ کت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چرچا کہ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکست کت"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "دروازہان"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مسءِ"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ءُ سدوانی"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "آہنءِ"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "کپ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:20.225190648Z",
+  "model": "glm-5.3"
+}

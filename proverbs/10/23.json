@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "چوش کہ ہنڈ احمقءَ پہ بُرائی کنگءَ اِنت، ءُ دانائی پہ عقلیں مردءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "כשחוק",
+      "gloss": "چوش کہ ہنڈ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "احمقءَ پہ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "کنگءَ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ءُ دانائی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "پہ مردءِ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "عقلیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:41.969612106Z",
+  "model": "glm-5.3"
+}

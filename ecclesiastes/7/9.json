@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "نہ ئے چیرواکءِ رُوحءَ زلہتءَ پُٹ کہ شُت، پرچا کہ زلہت کوکنگان ءُ ہمدم ءُ ڈِلءَ آرام گنت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ ئے"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "پُٹ شُت"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "تُرئے چیرواکءِ رُوحءَ"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "زلہتءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "زلہت"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "ہمدم ءُ ڈِلءَ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "کوکنگان ءُ"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرام گنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:18.938509807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ سار قوم چوش یک مرد اُستت، پہ گوَشتن: نہ روان اَں کس وتِ خیمہءَ، ءُ نہ ورد اَں کس وتِ گدانءَ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ءُ اُستت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سار"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "پہ گوَشتن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "روان اَں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کس"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "وتِ خیمہءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "ورد اَں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کس"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "وتِ گدانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:24:27.308590912Z",
+  "model": "glm-5.3"
+}

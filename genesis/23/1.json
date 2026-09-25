@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ سارہءِ زندگیءِ سال سد سال ءُ بیست سال ءُ ہپت سال اِنت — اے سارہءِ زندگیءِ سال اِنت.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ءُ … اِنت"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگیءِ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہءِ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ءُ ہپت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگیءِ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:33:07.396459721Z",
+  "model": "glm-5.3"
+}

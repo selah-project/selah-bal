@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ یاہوہءَ موشہءَ گوَشت کہ گو:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چُوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گو"
+    }
+  ],
+  "timestamp": "2026-09-24T19:05:00.239869878Z",
+  "model": "glm-5.3"
+}

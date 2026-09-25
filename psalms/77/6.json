@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "آں سوچیتگ اَت روچانی قدیمیں، سالانی ازالیں شومان۔",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "آں سوچیتگ اَت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "قدیمیں"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "سالان"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ازالیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:29.493849696Z",
+  "model": "glm-5.3"
+}

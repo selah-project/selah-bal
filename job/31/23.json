@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 31:23",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "کی منی پہ چون ایلءِ بلا اِنت، ءُ آییءِ بلندیءَ منی تاب نہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "منی پہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "איד",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ומשאתו",
+      "gloss": "ءُ آییءِ بلندیءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "منی تاب اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:40:42.286380471Z",
+  "model": "glm-5.3"
+}

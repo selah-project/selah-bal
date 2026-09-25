@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "یکمی کروبءِ اُچائی دہ اَمّہ اِنت، ءُ ہمے چوش دومی کروب ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "اُچائی"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروبءِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکمی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "اَمّہءَ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ءُ ہمے چوش"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروبءِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:25.371445787Z",
+  "model": "glm-5.3"
+}

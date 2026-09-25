@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "داناں دل سوگءِ گadanءَ ⟨اِنت⟩ ءُ نادانانی دل شادیءِ گadanءَ ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "داناں"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گadanءَ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "سوگءِ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ءُ دل"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانانی"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گadanءَ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:16.720797437Z",
+  "model": "glm-5.3"
+}

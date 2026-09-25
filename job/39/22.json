@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 39:22",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "او ڈرءَ تہ گندیت ءُ نہ ترستیت، ءُ تلوارءِ رُخءَ چہ نہ پُچیت۔",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "לפחד",
+      "gloss": "ڈرءَ تہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ترستیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پُچیت"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "چہ رُخءَ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:44:17.156563926Z",
+  "model": "glm-5.3"
+}

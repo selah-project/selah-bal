@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 96,
+  "translation": "بدء اے یاہوہءَ، قومانی خانوادہ‌ءان! بدء اے یاہوہءَ شکوہ ءُ زور!",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "بدء"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خانوادہ‌ءان"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومانی"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "بدء"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکوہ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ءُ زور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:19.088151702Z",
+  "model": "glm-5.3"
+}

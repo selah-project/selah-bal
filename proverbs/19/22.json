@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "مردمءِ چاہش آییءِ ہیسید اِنت، ءُ یک کمبخت مردم چہ یک دروگوءَ چم اِنت.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "چاہش"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہیسید"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ءُ چم"
+    },
+    {
+      "surface": "רש",
+      "gloss": "کمبخت"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "چہ مردم"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروگو"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:50.738890470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "درازی روچان ⟨تہ⟩ آییءِ راست دستءَ ⟨اِنت⟩؛ آییءِ چپ دستءَ دولت ءُ عزت۔",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "درازی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "آییءِ راست دستءَ"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "آییءِ چپ دستءَ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ءُ عزت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:38.937706719Z",
+  "model": "glm-5.3"
+}

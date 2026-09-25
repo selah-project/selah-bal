@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ آییءَ پہ روچ برزت کہ آ پنوئیلءَ چہ گذرگ، ءُ آ گوں وتی زانوءَ لنگ بوت۔",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "ءُ برزت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "گذرگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنوئیلءَ"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "پنوئیل"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "لنگ بوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں ⟨پہ⟩"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "وتی زانوءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:39:23.582352021Z",
+  "model": "glm-5.3"
+}

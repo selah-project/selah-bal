@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 136,
+  "translation": "ءُ آیانی زمین میراثءِ چوں دات، کی پہ ہمیشہ آییءِ ہیسید ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "آیانی زمین"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "میراثءِ چوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:20.816149043Z",
+  "model": "glm-5.3"
+}

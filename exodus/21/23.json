@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ اگر کوڑی بیت، پدا یک جان دیت، جان پہ جانءِ جاگہ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "کوڑی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "پدا دیت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "یک جان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پہ … ءِ جاگہ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:09.102180368Z",
+  "model": "glm-5.3"
+}

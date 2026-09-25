@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 80,
+  "translation": "بیت تُڑی دست تُڑی دستءِ راستی مُچءَ تہ، انسانی زہگءَ تہ، کہ تُئی وتی پہ مستہ کتگ.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تُڑی دست"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مُچ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تُڑی دستءِ راستی"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "مستہ کتگ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُئی وتی پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:18.051700432Z",
+  "model": "glm-5.3"
+}

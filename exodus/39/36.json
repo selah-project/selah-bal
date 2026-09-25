@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "⟨את⟩ میز، ⟨את⟩ آییءِ پوریں ساز ءُ ساز، ءُ ⟨את⟩ رُوءِ نان۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں ساز"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ساز ءُ ساز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "رُوءِ نان"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "رُوءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:36.731187091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "کہ یکجا جمع بوتنت پہ یوشوع ءُ اِسرائیلءِ سرءِ جنگءَ — یک مُنہ۔",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "جمع بوتنت"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "پہ جنگءَ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یوشوع"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "پה",
+      "gloss": "مُنہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T20:07:17.394573713Z",
+  "model": "glm-5.3"
+}

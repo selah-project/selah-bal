@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 139,
+  "translation": "ءُ گند آیا دُکیں رہ مءِ تہ اِنت، ءُ منی ہمیشگیں رہءَ تہ رہنمائی کن۔",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ءُ گند"
+    },
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رہ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "دُکیں"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مءِ تہ"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ءُ منی رہنمائی کن"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "تہ رہِ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشگی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:35.331124541Z",
+  "model": "glm-5.3"
+}

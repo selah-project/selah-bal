@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ داران گوں‌دارءَ گوَشتنت: روت، تو اِشانی سر پادشاہ بیت.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ءُ گوَشتنت"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "داران"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "گوں‌دارءَ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "رو"
+    },
+    {
+      "surface": "את",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "پادشاہ بیت"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اِشانی سر"
+    }
+  ],
+  "timestamp": "2026-09-24T20:17:50.916972033Z",
+  "model": "glm-5.3"
+}

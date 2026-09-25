@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 96,
+  "translation": "سرود گوَنت پہ یاہوہ نوکیں سرود، سرود گوَنت پہ یاہوہ تمامی ⟨the⟩ زمین.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "سرود گوَنت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوکیں"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "سرود گوَنت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:44.116869708Z",
+  "model": "glm-5.3"
+}

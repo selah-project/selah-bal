@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ ⟨את⟩ نگب ءُ ⟨את⟩ کِکار، یریحوءِ وادی، تمرانی شہر، سُعر تائیں۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "نگب"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "نگب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کِکار"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "کِکار"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "وادیءِ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یریحو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "تمرانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "צער",
+      "gloss": "سُعر"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:53.261663779Z",
+  "model": "glm-5.3"
+}

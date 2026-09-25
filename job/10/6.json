@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "کہ تو مئے گناهءَ لبزیت ءُ مئے چوکنیءَ پرسیت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "لبزیت"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "مئے گناهءَ"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "ءُ مئے چوکنیءَ"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "پرسیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:50.232815330Z",
+  "model": "glm-5.3"
+}

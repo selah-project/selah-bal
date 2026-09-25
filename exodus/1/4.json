@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "دان ءُ نفتالی، گاد ءُ اشر۔",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ءُ نفتالی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ اشر"
+    }
+  ],
+  "timestamp": "2026-09-24T18:50:13.887139912Z",
+  "model": "glm-5.3"
+}

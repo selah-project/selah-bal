@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "من اِنت آ مرد کہ آییءِ غضبءِ چوڑی ءَ تہاری دیستگ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "آ مرد"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دیستگ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "تہاری"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "چوڑی ءَ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "آییءِ غضب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:25.998460239Z",
+  "model": "glm-5.3"
+}

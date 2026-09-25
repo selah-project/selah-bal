@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "آییءِ نامءِ شانءَ گۏان وات کن، آءِ تعریفءَ شان بہر کن۔",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "گۏان وات کن"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "بہر کن"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "آییءِ تعریف"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:16.195364947Z",
+  "model": "glm-5.3"
+}

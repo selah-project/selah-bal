@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 90,
+  "translation": "پہ شمار کنگ روچان ءُ مہ سوں سکا زان دے، ءُ دل ءُ مہ پہ دانش آی بیت۔",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "پہ شمار کنگ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "روچان ءُ مہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "سوں"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "سکا زان دے"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "ءُ آی بیت"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل ءُ مہ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "پہ دانش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:53.686616300Z",
+  "model": "glm-5.3"
+}

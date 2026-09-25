@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ہم اگر دو مننت، اِشاںءَ گرمی اِنت؛ ءُ یکے پہ چنج گرم بیت؟",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ישכבو",
+      "gloss": "مننت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ءُ گرمی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ءُ یکے پہ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چنج"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "گرم بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:58.435171620Z",
+  "model": "glm-5.3"
+}

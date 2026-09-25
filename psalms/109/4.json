@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "منی محبتءِ بدرانہ اشن کتنت، ءُ من ⟨یک⟩ دعا ⟨اَت⟩۔",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "بدرانہ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "منی محبتءِ"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "اشن کتنت"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:38.870471910Z",
+  "model": "glm-5.3"
+}

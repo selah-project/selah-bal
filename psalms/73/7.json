@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "چہ چربیءَ اِشانی چم درات، چہ دلءِ پجاراں گوں اَز بتنت.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "درات"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "چہ چربیءَ"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "اِشانی چم"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "گوں اَز بتنت"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "پجاراں"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:55.776721936Z",
+  "model": "glm-5.3"
+}

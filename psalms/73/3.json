@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "کیا کہ من ہللوکاں چہ حسد کت، رستیکانءِ سلامتیءَ من گندیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "من چہ حسد کت"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "ہللوکاں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رستیکانءِ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "من گندیت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:37.873574621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 91,
+  "translation": "چون تو، اے یاہوہ، منی پناہ ⟨اِنت⟩، اعلیٰءَ تو وتءِ رہائشءِ جاگہ گرگت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "منی پناہ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "اعلیٰ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "گرگت"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "توءِ رہائشءِ جاگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:03.916097541Z",
+  "model": "glm-5.3"
+}

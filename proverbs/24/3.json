@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "گوں دانی گُڈی جوڑ بیت، ءُ گوں سمج ⟨اے⟩ اٹھیار بیت.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "گوں دانی"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "جوڑ بیت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گُڈی"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ءُ گوں سمج"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "اٹھیار بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:45.818182859Z",
+  "model": "glm-5.3"
+}

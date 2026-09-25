@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ ⟨את⟩ پورتا ءُ ⟨את⟩ اَدَلیا ءُ ⟨את⟩ اَریداتا",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پورتا"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "پورتا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اَدَلیا"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "اَدَلیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اَریداتا"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "اَریداتا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:27.546792768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "کہ ⟨את⟩ گوں آ کہ ہست اے دم گوں مں اوشتگ اے روچ دیمءَ یاہوہ ایلوہیم ما ءُ ⟨את⟩ گوں آ کہ نیست اے دم گوں مں اے روچ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ گوں",
+      "marks": "آ کہ ہست اے دم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اے دم"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "گوں مں"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "اوشتگ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے روچ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دیمءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ایلوہیم ما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "آ کہ نیست اے دم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اے دم"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "گوں مں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:08.530225250Z",
+  "model": "glm-5.3"
+}

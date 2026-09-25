@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "بلے من گوں ایل شدّایءَ گپ کنت ءُ گوں ایلءَ حجت کنتءَ دلگوش اِنت.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ایل شدّایءَ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "گپ کنت"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "ءُ حجت کنتءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایلءَ"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "دلگوش اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:21.621795525Z",
+  "model": "glm-5.3"
+}

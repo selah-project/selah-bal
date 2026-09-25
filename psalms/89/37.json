@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "آییءِ زہگ ہمیش بیت، ءُ آییءِ تخت چوش روچ منیءِ پیش۔",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیش"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ءُ آییءِ تخت"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "چوش روچ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "منیءِ پیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:30.636280961Z",
+  "model": "glm-5.3"
+}

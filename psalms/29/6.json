@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ آیانءَ چوش کہ گواری جھما دیت — لبنان ءُ شیریون، چوش کہ ریمانی زہگ۔",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "ءُ آیانءَ جھما دیت"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "گواری"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لبنان"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "ءُ شیریون"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ریمان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:43.750658554Z",
+  "model": "glm-5.3"
+}

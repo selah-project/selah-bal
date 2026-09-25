@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ بلے وسوتی نہ گوَشت: «بیمار اَتم»؛ قوم کہ آءِ تہ نشت اِنت، آییءِ گناه ونڈ بیتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "ءُ بلے"
+    },
+    {
+      "surface": "یאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "وسوتی"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "بیمار اَتم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "نشت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آءِ تہ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ونڈ بیتگ اِنت"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    }
+  ],
+  "timestamp": "2026-09-24T21:30:42.853295420Z",
+  "model": "glm-5.3"
+}

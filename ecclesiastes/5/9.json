@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "کسفءَ دوست بوتگ چہ کسف سر نہ بیت، ءُ کِسے کہ بیومنءَ دوست بیت آیءَ تہاچ نہ اِنت — اے ہم ہبل اِنت.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "دوست بوتگ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "کسف"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "سر بیت"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "کسف"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کِسے"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوست بیت"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "بیومن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "تہاچ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هبل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:42.078066233Z",
+  "model": "glm-5.3"
+}

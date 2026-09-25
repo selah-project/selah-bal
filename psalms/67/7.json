@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 67,
+  "translation": "زمین وتی حاصل دات؛ ایلوہیم، مائیں ایلوہیم، ماءَ برکت دیت.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "دات"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "وتی حاصل"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "ماءَ برکت دیت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "مائیں ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:24.898649921Z",
+  "model": "glm-5.3"
+}

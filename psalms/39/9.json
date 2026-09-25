@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "چہ یکامین گناهانءَ من رہائی بکن، نادانءِ رسوائی مءِ نہ کن۔",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "چہ یکامین"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "گناهانءَ من"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "رہائی بکن"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "رسوائی"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نادانءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "مءِ نہ کن"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:03.114553121Z",
+  "model": "glm-5.3"
+}

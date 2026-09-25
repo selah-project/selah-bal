@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "نہ زلم کہ تہ انصافءَ؛ نہ کمزورءِ منّ اُٹگرا، ءُ نہ گیشءِ منّ چیرنگ؛ گوں راستی وتی برارءَ انصافءِ فیصلہ دہ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "زلم"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "تہ انصافءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "اُٹگرا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منّ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزورءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "چیرنگ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منّ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیشءِ"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "گوں راستی"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "انصافءِ فیصلہ دہ"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "وتی برارءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:16.564110569Z",
+  "model": "glm-5.3"
+}

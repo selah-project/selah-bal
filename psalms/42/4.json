@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "منی شرمک منی پہ نان بوت، روچ ءُ شپ، اودا کہ اِشاں منءَ گوَشنت کل روچ: تُءِ ایلوہیم کجا اِنت؟",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی پہ"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "شرمک"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ءُ شپ"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "اودا کہ گوَشنت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُءِ ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:41.755986361Z",
+  "model": "glm-5.3"
+}

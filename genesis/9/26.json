@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ گوَشت: مبارک اِنت یاہوہ، شیمءِ ایلوہیم؛ ءُ بیت کنعان ایشانءَ غلام۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "شیمءِ ایلوہیم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیمءِ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ایشانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:49.101555401Z",
+  "model": "glm-5.3"
+}

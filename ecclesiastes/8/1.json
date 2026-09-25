@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "کے چوش دانا اِنت؟ ءُ کے یک گالءِ پشتر زانت؟ مردمءِ دانائی آییءِ چہرہءَ روشن کنیت، ءُ آییءِ چہرہءِ زور بدل بیت۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "چوش دانا"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کے"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "پشتر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گالءِ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "روشن کنیت"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "آییءِ چہرہءَ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ءُ زور"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "آییءِ چہرہءِ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "بدل بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:33.162820447Z",
+  "model": "glm-5.3"
+}

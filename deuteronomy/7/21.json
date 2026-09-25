@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اِشاں چہ ڈر نہ گر، پرچا کہ یاہوہ تا ئِ ایلوہیم تا ئِ وتی ماں اِنت، یک گیش ءُ ڈہاکتیں ایل۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "ڈر گر"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "اِشاں چہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تا ئِ ایلوہیم"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تا ئِ وتی ماں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ءُ ڈہاکتیں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:50:43.092023574Z",
+  "model": "glm-5.3"
+}

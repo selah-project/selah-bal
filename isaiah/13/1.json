@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "بابلءِ بار — کہ یشعیاہو، اَمُوتزءِ زہگ، آءَ دیستگ۔",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابلءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دیستگ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "اَمُوتز"
+    }
+  ],
+  "timestamp": "2026-09-24T21:25:27.750540714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "آ کہ آییءَ نہ سردار، نہ نگران ءُ نہ حاکم اِنت —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نست"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "نگران"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ءُ حاکم"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:16.683952382Z",
+  "model": "glm-5.3"
+}

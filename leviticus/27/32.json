@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ مال ءُ رُمبءِ ساراں معشر — ہر چیز کہ شورتءِ تلءَ لنگیت — دہمی یاہوہءَ پہ مقدس بیت۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ساراں"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "معشر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مال"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ءُ رُمب"
+    },
+    {
+      "surface": "کל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چیز کہ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "لنگیت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "شورتءِ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "دہمی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:26:31.088043477Z",
+  "model": "glm-5.3"
+}

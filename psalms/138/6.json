@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 138,
+  "translation": "کیا کہ یاہوہ بلند اِنت، ءُ کمتراں رندیت، ءُ گونگاں چہ دورےءَ زانت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ءُ کمتراں"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "رندیت"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ءُ گونگاں"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "چہ دورےءَ"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "زانت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:12.953842795Z",
+  "model": "glm-5.3"
+}

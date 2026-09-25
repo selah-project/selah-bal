@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "مچءِ روچءَ پہ وتے نپرست مکن، پرچا کہ ⟨تو⟩ نہ زانی روچ چہٹ جنیت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "نپرست کن"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "مچءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہٹ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنیت"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:09.256084181Z",
+  "model": "glm-5.3"
+}

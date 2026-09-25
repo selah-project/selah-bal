@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "ءُ یعقوبءَ ⟨את⟩ فرعونءَ مبارک کت ءُ چہ فرعونءِ پیشءَ دراوت.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ءُ مبارک کت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرعون"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ دراوت"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "چہ پیشءَ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-09-24T18:47:26.882814858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ آییءَ ⟨את⟩ شِبعاہءَ نام گشیت؛ اِشیءِ پہ شہرءِ نام بئر شِبعاہ اِنت، تا اے روچ۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "نام گشیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "شِبعاہ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "شِبعاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِشیءِ پہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبعاہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T18:34:53.128668804Z",
+  "model": "glm-5.3"
+}

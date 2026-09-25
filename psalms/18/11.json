@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ آ یک کروبءَ سوار بوت ءُ اُڑت، ءُ بادءِ پراںءَ سرءَ پرواز کت۔",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "ءُ سوار بوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ءُ اُڑت"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ءُ پرواز کت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "پراں"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "بادءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:15.666365751Z",
+  "model": "glm-5.3"
+}

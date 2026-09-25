@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ آیی ⟨את⟩ زاغءَ گوش دیگ؛ ءُ آ روت، روتیں ءُ پدا گشتنی، سراں کہ آپان چہ زمینءَ سوک بنت.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ گوش دیگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زاغ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "زاغ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ آ روت"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "روتیں"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ءُ پدا گشتنی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "سراں کہ"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "سوک بنت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:37.076420180Z",
+  "model": "glm-5.3"
+}

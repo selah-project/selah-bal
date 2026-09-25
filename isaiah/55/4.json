@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 55,
+  "translation": "ایں، من آییءَ قومانءَ گواہ گرنتگ، سالار ءُ حاکم لشکاراتءَ۔",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "قومانءَ"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "من آییءَ گرنتگ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سالار"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "ءُ حاکم"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "لشکاراتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:38:57.105335395Z",
+  "model": "glm-5.3"
+}

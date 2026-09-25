@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "تو حکم کتئیں تیرئین حکمان ⟨مارکر⟩ پہ گیش ساتنگ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "حکم کتئیں"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "تیرئین حکمان"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "پہ ساتنگ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:43.336976662Z",
+  "model": "glm-5.3"
+}

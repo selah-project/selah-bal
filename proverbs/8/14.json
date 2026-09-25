@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "مشورت من اِنت ءُ پکیں دانش من اِنت؛ من ⟨اِنت⟩ سمج، زور من اِنت۔",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "من اِنت"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورت"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ءُ پکیں دانش"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمج"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من اِنت"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "زور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:51.059127098Z",
+  "model": "glm-5.3"
+}

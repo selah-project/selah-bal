@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 17:22",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ یسرائیلءِ زہگان تہ چُک یروبعمءِ گناہاناںَ، آ کہ آ کت، روتیت؛ چہ آءَ نہ پھٹیت.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "روتیت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ چُک"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "گناہان"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یروبعمءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "پھٹیت"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "چہ آءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:16:58.471551175Z",
+  "model": "glm-5.3"
+}

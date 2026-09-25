@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ شلمہءَ آئیءَ ⟨את⟩ ہر آییءِ گالانءَ گوَشت، ءُ چہ شلمہءَ ہچ گال پوشیت نہ بوت آ کہ آئیءَ نہ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آئیءَ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلمہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر آییءِ گالان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "آییءِ گالانءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "پوشیت بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "چہ شلمہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آئیءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:37:19.410215438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "اے گلعادءِ زہگان اَنت — اِیعزرءِ پہ اِیعزری خاندان، حیلکءِ پہ حیلکی خاندان۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "اِیعزر"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "اِیعزری"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "حیلکءِ پہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "حیلکی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:41:25.943266272Z",
+  "model": "glm-5.3"
+}

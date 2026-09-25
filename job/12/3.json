@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ہم منئے دل ہست چوش شما؛ من چہ شما نہ ڈگاں؛ ءُ ⟨את⟩ کے نیست چوش اے؟",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منئے"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "چوش شما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڈگاں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "چہ شما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:21.583011100Z",
+  "model": "glm-5.3"
+}

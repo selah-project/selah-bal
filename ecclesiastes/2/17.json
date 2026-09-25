@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "من چہ ⟨את⟩ زندگانی بیزار بوتم، پرچا کہ کار کہ گڈءِ تہءَ گنٹ بوتگ منءِ سرءَ برا اِنت، پرچا کہ ہمگ ہبل ءُ روحءِ اذیت اِنت۔",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "چہ … بیزار بوتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زندگانی"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءِ سرءَ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "گنٹ بوتگ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "گڈءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ءُ اذیت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روحءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:41.660440041Z",
+  "model": "glm-5.3"
+}

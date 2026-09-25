@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ روت ءُ دگہ ہدایانءَ بندگ کت ءُ آیانءَ سجدہ کت — گُرءَ یا ماہءَ یا آسمانانی سباؤتءِ ہر یکءَ، آ کہ من نہ فرمان کتگ —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ءُ بندگ کت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ءُ سجدہ کت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آیانءَ"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "ءُ گُرءَ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "ماہءَ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر یکءَ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "سباؤتءِ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "צויתی",
+      "gloss": "من فرمان کتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:26.838569273Z",
+  "model": "glm-5.3"
+}

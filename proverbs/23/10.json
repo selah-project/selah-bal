@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ہمیشگیں سرحدءَ مہ ہلایت، ءُ یتیمانیں کھیتانءَ مہ رویت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "مہ ہلایت"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحدءَ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشگیں"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "ءُ تہ کھیتانءَ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "یتیمانیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "مہ رویت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:11.812551212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "جہڑا وہدءَ تیریں رفتیقءَ ہر چیزءِ قرض دئیں، آییءِ گدءَ تہ نہ روءُ پہ آییءِ گرویءِ گرگ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جہڑا وہدءَ"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "قرض دئیں"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "تیریں رفتیقءَ"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "قرض"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ہر چیز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "روءُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "..."
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "آییءِ گدءَ تہ"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "گرویءِ گرگءَ پہ"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "آییءِ گروی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:16.188636880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ اے اِنت برکت کہ موشہءَ، ایلوہیمءِ مردم، آییءِ مرگءِ پیش ⟨את⟩ یسرائیلءِ زہگانءَ برکت دات۔",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت دات"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یسرائیلءِ زہگانءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیش"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "آییءِ مرگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:17.116790569Z",
+  "model": "glm-5.3"
+}

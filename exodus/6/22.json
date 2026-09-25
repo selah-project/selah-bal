@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ عُزی ایلءِ زہگان میش ایل ءُ ایل سفان ءُ ستری اَنت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ … ءِ زہگان"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزی ایل"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "میش ایل"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "ءُ ایل سفان"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "ءُ ستری"
+    }
+  ],
+  "timestamp": "2026-09-24T18:51:12.453193878Z",
+  "model": "glm-5.3"
+}

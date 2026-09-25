@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اگر دو رند ہزار سال زندگ کنت ءُ چنگزی نہ گندیت — بُرجا همهءِ یکے جاگہءَ نہ رونت؟",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "زندگ کنت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "دو رند"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "ءُ چنگزی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "بُرجا نہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "رونت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:35.340155710Z",
+  "model": "glm-5.3"
+}

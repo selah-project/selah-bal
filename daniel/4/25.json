@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ہمے ہمگ نبوکدنصر شاهءَ سرءَ پرشت.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "پرشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "نبوکدنصر"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "شاه"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:50.002051436Z",
+  "model": "glm-5.3"
+}

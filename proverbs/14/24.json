@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "دانشمنانی تاج اِشانی دولت اِنت؛ احمقانی احمقی رتھ احمقی اِنت.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانشمنانی"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ایشانی دولت"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "احمقی"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "احمقانی"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "احمقی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:02.847594577Z",
+  "model": "glm-5.3"
+}

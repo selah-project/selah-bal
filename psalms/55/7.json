@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 55,
+  "translation": "ءُ منءَ گوَشت: کین منءِ پہ شوشءِ چوں پَر دِنت؟ منءَ اُڑیت ءُ اَتام کوم۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ منءَ گوَشت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کین"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دِنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءِ پہ"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "پَر"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "شوشءِ چوں"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "منءَ اُڑیت"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ءُ اَتام کوم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:39.317287764Z",
+  "model": "glm-5.3"
+}

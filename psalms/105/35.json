@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "ءُ خورت تمام سبزی تہ آیانی زمین، ءُ خورت میوہ آیانی ڈگارءِ۔",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "ءُ خورت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "سبزی"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "تہ آیانی زمین"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ءُ خورت"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوہ"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "آیانی ڈگار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:33.817471230Z",
+  "model": "glm-5.3"
+}

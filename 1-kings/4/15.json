@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "اَخیمَعَض نَفتالیءَ اَت؛ آ ہم باشمَتءَ، شلومہءِ جنک، زالءَ گرپت۔",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "اَخیمَعَض"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "نَفتالیءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باشمَتءَ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "باشمَت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومہ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زالءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:53:36.981888040Z",
+  "model": "glm-5.3"
+}

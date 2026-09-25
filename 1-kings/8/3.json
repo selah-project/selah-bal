@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ یسرائیلءِ سئے پیر آتنت ءُ کاہنان سندوقءَ ⟨את⟩ گلانت۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آتنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "گلانت"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندوقءَ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "سندوقءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:57:49.409918812Z",
+  "model": "glm-5.3"
+}

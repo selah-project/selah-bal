@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 132,
+  "translation": "اگر من منی گانیں گودیءَ تہ روت، اگر من منی شِشتیءَ سر چڑیت،",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אָ֭בֹא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "בְּאֹ֣הֶל",
+      "gloss": "گودیءَ تہ"
+    },
+    {
+      "surface": "בֵּיתִ֑י",
+      "gloss": "منی گان"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אֶ֝עֱלֶ֗ה",
+      "gloss": "چڑیت"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "עֶ֥רֶשׂ",
+      "gloss": "شِشتی"
+    },
+    {
+      "surface": "יְצוּעָֽי",
+      "gloss": "منی شِشتیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:58.145416998Z",
+  "model": "glm-5.3"
+}

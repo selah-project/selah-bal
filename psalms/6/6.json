@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "کی چہ موتءَ تُئے یاد نیست؛ تہ شیئولءَ کے تُئے پہ شکر کنیت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "במות",
+      "gloss": "موتءَ تہ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "تُئے یاد"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "شیئولءَ تہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "شکر کنیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُئے پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:02.862371424Z",
+  "model": "glm-5.3"
+}

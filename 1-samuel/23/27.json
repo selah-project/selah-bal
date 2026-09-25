@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 23:27",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ یک فرشتہ شاؤلءَ آتگ پہ آکہ گوشیت: تیز برو، آ کہ پلشتان زمینءَ سر چڑھیتگ اَنت.",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "ءُ یک فرشتہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "پہ آکہ گوشیت"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "تیز"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "برو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "چڑھیتگ اَنت"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:56:40.059312568Z",
+  "model": "glm-5.3"
+}

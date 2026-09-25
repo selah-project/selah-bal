@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ آتگ خبر وانوک پہ داؤد کہ بوت دل مردم یسرائیلءِ پشتا اَبشالومءِ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آتگ"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "خبر وانوک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پشتا"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَبشالومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:47:23.642711733Z",
+  "model": "glm-5.3"
+}

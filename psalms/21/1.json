@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "پہ رہنما، مزمور داودءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہنما"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:54.099286068Z",
+  "model": "glm-5.3"
+}

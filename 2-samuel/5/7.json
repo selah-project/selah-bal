@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ داودءَ ⟨את⟩ صیونءِ قلعہ گرپت؛ آ داودءِ شہر اِنت۔",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ءُ گرپت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صیونءِ قلعہ"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "قلعہ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیونءِ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:43:09.375805912Z",
+  "model": "glm-5.3"
+}

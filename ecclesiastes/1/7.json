@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "سئے کولان روتنت تہ سمندر، ءُ سمندر پُر نہ اِنت؛ آ جاگہءَ کہ کولان اوتا روتنت، اوتا ءُ اِش پدا روتنت پہ روگ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "کولان"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "روتنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ءُ سمندر"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نہ اِنت"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پُر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہءَ"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "کہ کولان"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "روتنت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "پدا روتنت"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "پہ روگ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:34.411252894Z",
+  "model": "glm-5.3"
+}

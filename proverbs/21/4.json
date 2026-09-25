@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "چمانی بلندی ءُ دلءِ کھلاری — بدکانی کھیت گناہ اِنت.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "بلندی"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چمانی"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ءُ کھلاری"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءِ"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکانی"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:05.732623134Z",
+  "model": "glm-5.3"
+}

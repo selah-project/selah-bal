@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "تہ یاہوہءَ سئے زہگ اسرائیل راست بنت ءُ لال بنت.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "تہ یاہوہءَ"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "راست بنت"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ءُ لال بنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T21:35:24.930282481Z",
+  "model": "glm-5.3"
+}

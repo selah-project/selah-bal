@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ یہوناتانی زہگ مریب بَعل اَت، ءُ مری بَعلءَ ⟨את⟩ میکا پیدا کت.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتانی"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مریب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعل"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ءُ مری"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعلءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میکا"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:33.487801603Z",
+  "model": "glm-5.3"
+}

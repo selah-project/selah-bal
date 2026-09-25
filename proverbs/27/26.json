@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "مینہ پہ تءِ پوشاکءَ اَنت ءُ میدانءِ بہا نر بزان اَنت.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "مینہ"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "پہ تءِ پوشاکءَ"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "ءُ بہا"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "میدانءِ"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "نر بزان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:01.747948901Z",
+  "model": "glm-5.3"
+}

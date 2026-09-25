@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "اَبینادابءِ زہگ — ساری نفت دُورءَ آییءَ اِنت؛ تاپت، شلمہءِ جنک، آییءَ زال بوت۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "اَبیناداب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "نفت"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "دُور"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "تاپت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلمہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال"
+    }
+  ],
+  "timestamp": "2026-09-25T00:58:28.951615071Z",
+  "model": "glm-5.3"
+}

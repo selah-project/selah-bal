@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "گوں روچان گیش یہوشعءَ ⟨את⟩ پتاں اِے شاہانءَ جنگ کت.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشعءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پتاں اِے شاہانءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پتاں"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "اِے شاہانءَ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اِے"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:09:37.481413647Z",
+  "model": "glm-5.3"
+}

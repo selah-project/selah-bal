@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "توءَ گوں وتءِ بازو وتءِ قومءَ آزاد کت؛ یعقوبءِ زہگان ءُ یوسفءِ — سلا.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "آزاد کت"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "گوں وتءِ بازو"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "وتءِ قومءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ءُ یوسف"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلا"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:15.938701600Z",
+  "model": "glm-5.3"
+}

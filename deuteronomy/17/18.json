@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 17:18",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ بیت، کہ آ آییءِ پادشاہیءِ تختءَ نشیت، آ پہ وت ⟨את⟩ اے توراءِ نقل یک کتابءَ تہ لکھیت کنت، چہ لاوی کاہنانءِ پیشا.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "آییءِ نشستنءِ وہد"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "آییءِ پادشاہی"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "ءُ لکھیت کنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پہ وت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نقل"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "نقل"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "چہ پیش"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:32.917939081Z",
+  "model": "glm-5.3"
+}

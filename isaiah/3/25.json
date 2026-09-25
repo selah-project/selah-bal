@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 3:25",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "توءِ مرد تاڑءَ ڈگنت ءُ توءِ زور جنگءَ ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "מתיך",
+      "gloss": "توءِ مرد"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تاڑءَ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈگنت"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ءُ توءِ زور"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "جنگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:21:50.686823785Z",
+  "model": "glm-5.3"
+}

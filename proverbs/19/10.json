@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "نادانءِ پہ کماشی راضی نہ اِنت، گیشتر آ کہ غلام شاهزادگانی سرءَ حکومت کنت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "راضی اِنت"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "نادانءِ پہ"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "کماشی"
+    },
+    {
+      "surface": "אף",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حکومت کنت"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "شاهزادگانی سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:39.297758841Z",
+  "model": "glm-5.3"
+}

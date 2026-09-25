@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ داودءَ شاؤلءَ گوَشت: «ہچ مردمءِ دل آءِ سرءَ نہ ڈگیت؛ تُءِ بندہ روت ءُ اے پلشتیءِ گوں لڑیت۔»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈگیت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمیءِ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آءِ سرءَ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تُءِ بندہ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "وנלחם",
+      "gloss": "ءُ لڑیت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "پلشتیءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:33:50.140305742Z",
+  "model": "glm-5.3"
+}

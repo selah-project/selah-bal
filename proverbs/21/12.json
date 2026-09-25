@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "راست دین بدکارءِ گُدانءَ گندیت، بدکارانءَ آوانی بدیءَ ؤکاڑیت.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست دین"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گُدانءَ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکارءِ"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "ؤکاڑیت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانءَ"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "بدیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:31.520746059Z",
+  "model": "glm-5.3"
+}

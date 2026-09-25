@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 68,
+  "translation": "تُرءِ مبدءَ چہ یروشمءَ پہ تُہ شاہان تحفہ لَی اَنت.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "چہ تُرءِ مبد"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تُہ"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "لَی اَنت"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "شاہان"
+    },
+    {
+      "surface": "שי",
+      "gloss": "تحفہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:39.699509502Z",
+  "model": "glm-5.3"
+}

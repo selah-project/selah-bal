@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "آییءِ گوشکءِ نزدیکی چہ بازارءَ لنگیت ءُ آییءِ گدانءِ راہءَ پئے پئے روت۔",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "لنگیت"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "چہ بازارءَ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "نزدیکی"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "آییءِ گوشکءِ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ءُ راہ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "آییءِ گدانءِ"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "پئے پئے روت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:41.385521950Z",
+  "model": "glm-5.3"
+}

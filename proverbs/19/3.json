@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "مردمءِ نادانی آییءِ رہ کج کت، ءُ آییءِ دل یاہوہءَ گوں غضم بوت.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "نادانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "کج کت"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "آییءِ رہ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "گوں غضم بوت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "آییءِ دل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:29.660980211Z",
+  "model": "glm-5.3"
+}

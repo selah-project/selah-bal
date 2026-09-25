@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ہن من ایلوہیمءِ پیشءَ تُوءِ چوں اَنت؛ چہ گلءَ گم من گوڑ کتگ اَنت.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "تُوءِ چوں"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایلوہیمءِ پیشءَ"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "چہ گلءَ"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "گوڑ کتگ اَنت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T23:41:56.636210408Z",
+  "model": "glm-5.3"
+}

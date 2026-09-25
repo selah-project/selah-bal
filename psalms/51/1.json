@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "پہ پیشواءِ گرگءَ، مزگور، داودءِ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشواءِ گرگءَ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزگور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:09.715164250Z",
+  "model": "glm-5.3"
+}

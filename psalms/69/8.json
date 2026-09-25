@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 69,
+  "translation": "کیچہ کہ تُءِ پہ من تہنیت برد کت؛ رسوائی منی دیمءَ ڈانپیتگ اِنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ کہ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تُءِ پہ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "من برد کت"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "تہنیت"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ڈانپیتگ اِنت"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "رسوائی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منی دیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:03.464312416Z",
+  "model": "glm-5.3"
+}

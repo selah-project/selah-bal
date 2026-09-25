@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ہمگ آئے یکتا بیتنت وادی شِدیمءَ، آ شورتءِ دریا ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "یکتا بیتنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "شِدیمءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "شورتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:28:27.706526744Z",
+  "model": "glm-5.3"
+}

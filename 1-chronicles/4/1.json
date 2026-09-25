@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "یہوداہءِ زہگان: پریتس، ءُ حصرون، ءُ کرمی، ءُ حور، ءُ شوبال.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پریتس"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ءُ کرمی"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ءُ حور"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ءُ شوبال"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:28.574082517Z",
+  "model": "glm-5.3"
+}

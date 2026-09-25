@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 4:12",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ جوءِ روٹی تو آءَ شکیت، ءُ آ تئیں دیمانءَ گوں مردمءِ چوڑانی گوں پچیت۔",
+  "tokens": [
+    {
+      "surface": "ועגת",
+      "gloss": "ءُ روٹی"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "جوءِ"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "تو آءَ شکیت"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "בגללי",
+      "gloss": "گوں چوڑانی"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "چوڑءِ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "תעגנה",
+      "gloss": "پچیت"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "تئیں دیمانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:08:50.355375376Z",
+  "model": "glm-5.3"
+}

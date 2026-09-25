@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ موشہءَ یاہوہءِ پیشءَ گوَشت: آ درشت، من اَنت غیرختنیں ہونٹانیں، ءُ چونگک فرعون مئے گوشیت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "آ درشت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "غیرختنیں"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹان"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ءُ چونگک"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مئے"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-09-24T18:51:01.892514235Z",
+  "model": "glm-5.3"
+}

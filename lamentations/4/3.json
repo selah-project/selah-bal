@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ہم تنین کشنت ⟨چہ⟩ وتے شیر، شیر ءُ ݨںت وتگانی بچگان؛ منی قومءِ جنک بے‌رحم بیتگ ⟨اِنت⟩، شترمرگءِ چوں ماں بیابانءَ۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "تنین"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "کشنت"
+    },
+    {
+      "surface": "שד",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "شیر ءُ ݩت"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "وتگانی بچگان"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قومءِ"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "بے‌رحم بیتگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "شترمرگ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ماں بیابانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:50:06.983696448Z",
+  "model": "glm-5.3"
+}

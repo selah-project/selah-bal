@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "آ کہ دان رودیت، قوم آییءَ لعنت کنت؛ بلے برکت فروشوکءِ سرءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "روندوک"
+    },
+    {
+      "surface": "בר",
+      "gloss": "دان"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "لعنت کننت آییءَ"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "ءُ برکت"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "فروشوک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:39.195066099Z",
+  "model": "glm-5.3"
+}

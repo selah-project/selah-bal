@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ اے مرد گیش بوت، ءُ روت چی روئوک ءُ گیش بیت، تین کہ پدا یکے گیش بوت.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ءُ گیش بوت"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اے مرد"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "چی روئوک"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ءُ گیش بیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گیش بوت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "یکے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:49:38.258549593Z",
+  "model": "glm-5.3"
+}

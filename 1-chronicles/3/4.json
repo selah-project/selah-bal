@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 3:4",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "شش زہگ آییءَ تہ حبرونءَ پیدا بوتنت؛ ءُ آ ءُت شاہ بوت ہپت سال ءُ شش ماہ؛ ءُ تہ یروشلم سی ءُ سئے سال شاہی کت۔",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "پیدا بوت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "تہ حبرونءَ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ءُ شاہ بوت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ءُت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ماہ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ءُ سی"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہی کت"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "تہ یروشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:15.436926703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "هابلءِ هابلاں، قہالوت گوَشت، ٹول هابل اِنت.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "هابل"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "هابلاں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "قہالوت"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ٹول"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هابل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:31.512237920Z",
+  "model": "glm-5.3"
+}

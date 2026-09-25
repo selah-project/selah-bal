@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "وتي کاران یاہوہءَ گوں کر، ءُ وتي سوچان مست بنت۔",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "گوں کر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "وتي کاران"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "ءُ مست بنت"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "وتي سوچان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:46.089083754Z",
+  "model": "glm-5.3"
+}

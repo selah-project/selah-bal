@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ایلوہیمءَ گوَشت: روشنائی ببیت؛ ءُ روشنائی بیت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ببیت"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنائی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنائی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:00.109949261Z",
+  "model": "glm-5.3"
+}

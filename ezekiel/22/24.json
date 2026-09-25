@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ئی آدمءِ زہگ، آیءَ گوَشت: تو زمین اِنت کہ پاک نہ بوتگ، ءُ آیءَ آپ نہ گشت، زہمءِ روزءَ۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "پاک بوتگ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "آپ گشتگ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روزءَ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "زہمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:17:12.866993444Z",
+  "model": "glm-5.3"
+}

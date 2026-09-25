@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ رامءِ زہگان بوتنت، یَرَحمئیلءِ اولزہگ — مَعاتس، ءُ یامین، ءُ عِیکَر.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بوتنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رامءِ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "اولزہگ"
+    },
+    {
+      "surface": "יְרַחְמְאֵל",
+      "gloss": "یَرَحمئیلءِ"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "مَعاتس"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ءُ یامین"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "ءُ عِیکَر"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:26.693704073Z",
+  "model": "glm-5.3"
+}

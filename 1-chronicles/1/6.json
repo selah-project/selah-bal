@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ گومرءِ زہگان: اَشکَنَز ءُ دیفَت ءُ توگَرمہ۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگان"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومرءِ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اَشکَنَز"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "ءُ دیفَت"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "ءُ توگَرمہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:23.891159625Z",
+  "model": "glm-5.3"
+}

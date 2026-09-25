@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "پہ کھنڈءَ گوَشتم «دیوانہ»، ءُ پہ شادمانیءَ «اے چه کنت».",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "پہ کھنڈءَ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گوَشتم"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "دیوانہ"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ءُ پہ شادمانیءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:45.632321327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "بے مشورتءَ پلانان باطل بنت، ءُ گیش مشورت‌دیوکاںءَ گوں برپ بنت.",
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "باطل بنت"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "پلانان"
+    },
+    {
+      "surface": "באין",
+      "gloss": "بے"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "مشورتءَ"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "مشورت‌دیوکاںءَ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "گوں برپ بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:17.737581489Z",
+  "model": "glm-5.3"
+}

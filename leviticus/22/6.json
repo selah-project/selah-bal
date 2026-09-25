@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "جان کہ آییءَ چم بدیت ءُ پلید بیت تا گرماسءَ، ءُ نہ چہ مقدس چیزان بخرت مگر ⟨پرچا کہ⟩ وتی بدنءَ گوں آپءَ دُھوئیت",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "چم بدیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "ءُ پلید بیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "گرماسءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "بخرت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "مقدس چیزانءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "دُھوئیت"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "وتی بدنءَ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "گوں آپءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:51.906093923Z",
+  "model": "glm-5.3"
+}

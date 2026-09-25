@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "یک دستءِ چنگل زریں، دہ شکلءِ وزنءَ، بخورءَ چڑ۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "دستءِ چنگل"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "זהاب",
+      "gloss": "زریں"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "چڑ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخورءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:30:07.769992681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یک پالکی شاہ سلیمان آییءَ پہ چہ لبنانی درختانءَ جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "پالکی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سلیمان"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "چہ درختانءَ"
+    },
+    {
+      "surface": "הלבננון",
+      "gloss": "لبنانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:19.044647156Z",
+  "model": "glm-5.3"
+}

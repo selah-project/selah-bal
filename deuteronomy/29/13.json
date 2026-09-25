@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ نہ گوں ⟨את⟩ شما یکلکت شما من شکانت ⟨את⟩ اے عہد ءُ ⟨את⟩ اے لعنت",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ گوں شما",
+      "marks": "شما"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "یکلکت شما"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "شکانت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے عہد"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "اے عہد"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اے لعنت"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے لعنت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:08.529968563Z",
+  "model": "glm-5.3"
+}

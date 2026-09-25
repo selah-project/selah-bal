@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ اگر آییءِ تہءَ کسےءِ کمئی ہست — لنگ یا کور، ہر بد کمئی — آءَ یاہوہءَ، وتءِ ایلوہیمءَ، قربانی نہ کن۔",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءِ تہءَ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "کسےءِ کمئی"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "لنگ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מום",
+      "gloss": "کمئی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "آءَ قربانی نہ کن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "وتءِ ایلوہیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:39.184580977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ کھالیں مَرد دل گننت، ءُ گوڑیءِ کُوچیں آدمی زائی بیت۔",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ مَرد"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "کھالیں"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "دل گننت"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ءُ کُوچیں"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "گوڑیءِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "زائی بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:52.427779568Z",
+  "model": "glm-5.3"
+}

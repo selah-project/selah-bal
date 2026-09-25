@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ہوشیار باز گندیت ءُ وتءَ پوشیت؛ ءُ کم‌عقلان گوزنت ءُ سزا گننت۔",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ہوشیار"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "باز"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ءُ وتءَ پوشیت"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "ءُ کم‌عقلان"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "گوزنت"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "ءُ سزا گننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:45.417405761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ من تئاں گوشت ⟨את⟩ گرانءَ تہ دیت، ءُ گودیان تئاں ڈھیرءَ چہ پر کیت۔",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ءُ من دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تئاں گوشت"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "تئاں گوشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "گران"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "ءُ پر کیت"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "گودیان"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "تئاں ڈھیر"
+    }
+  ],
+  "timestamp": "2026-09-24T22:21:16.659466811Z",
+  "model": "glm-5.3"
+}

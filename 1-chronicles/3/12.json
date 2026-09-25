@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "امصیاہو آییءِ زہگ، عزریہ آییءِ زہگ، یوتام آییءِ زہگ.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "امصیاہو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "یوتام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:45.842586750Z",
+  "model": "glm-5.3"
+}

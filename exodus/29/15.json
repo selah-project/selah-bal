@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ ⟨את⟩ یکے مېڑ تو گنت، ءُ هارون ءُ اِیءِ زہگان ⟨את⟩ وتی دستان مېڑءِ سرءَ گنت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مېڑ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "مېڑ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تو گنت"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ءُ گنت"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "هارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ءُ اِیءِ زہگان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی دستان"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "وتی دستان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مېڑءِ سر"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "مېڑءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:04:38.911668424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 98,
+  "translation": "سمندر گونجیت ءُ آییءِ پوری‌گ، ڈگار ءُ آییءَ تہ رہونوک.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "گونجیت"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ءُ آییءِ پوری‌گ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ڈگار"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ءُ رہونوکی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:47.311956343Z",
+  "model": "glm-5.3"
+}

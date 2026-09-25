@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ یہوشو چہ گلگالءَ سرا روت، اے ءُ گیش جنگءِ قوم ایشیءَ گوں، ءُ گیش زورءِ بہادر.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "سرا روت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گلگالءَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگءِ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ایشیءَ گوں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "زورءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:07:24.839223607Z",
+  "model": "glm-5.3"
+}

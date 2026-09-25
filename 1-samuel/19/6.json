@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ شاؤل یہونتنءِ آوازءَ گوشت، ءُ شاؤل قسم وارت: زنده اِنت یاہوہ، آ نہ جنیت۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آوازءَ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہونتنءِ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ءُ قسم وارت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زنده اِنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "نہ جنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:34:22.195263949Z",
+  "model": "glm-5.3"
+}

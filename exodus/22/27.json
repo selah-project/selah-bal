@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ایلوہیمءَ بدگوں مکن، ءُ سردارءَ تہ قومءِ تُہءَ نہ لعنت کن۔",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקלل",
+      "gloss": "بدگوں مکن"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ءُ سردار"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "تہ قومءِ تُہءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "لعنت کن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:19.922342385Z",
+  "model": "glm-5.3"
+}

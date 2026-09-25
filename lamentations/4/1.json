@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "چوش تیرہ بیت ⟨اِنت⟩ سونا، چنگ بوت ⟨اِنت⟩ چنگترین سونا! پورش بیتنت قُدسءِ سنگان چہ سرءِ ہر گوٹارءِ۔",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "تیرہ بیت"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "چنگ بوت"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "چنگترین سونا"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨اِنت⟩"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "پورش بیتنت"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "سنگان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدسءِ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "چہ سرءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "گوٹارءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:50:06.981165750Z",
+  "model": "glm-5.3"
+}

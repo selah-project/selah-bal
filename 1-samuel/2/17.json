@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 2:17",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ زہگانی گنہ گیش زور بوت ⟨את⟩ یاہوہءِ رُخءِ پیش، پرچا کہ مردمان ⟨את⟩ یاہوہءِ پیشکشءَ حقارت کت۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گنہ"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رُخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "حقارت کت"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیشکش"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "پیشکش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:55:53.660463528Z",
+  "model": "glm-5.3"
+}

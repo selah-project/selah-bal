@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "چہ یک نادانءِ مردءِ پیشاں روت، ءُ ہچبر تو دانائیءِ ہونٹان نہ زانیت۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "چہ پیشاں"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "پہ یک مردءَ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ءُ ہچبر"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "نہ زانیت"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹان"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانائیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:46.958460682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اُو کہ نہ ڈِگیت ءُ نہ سجدہ کنت، یک سوزاں آتشءِ تندورءِ مانءَ اِنداز بیت.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ءُ اُو"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈِگیت"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "ءُ سجدہ کنت"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "اِنداز بیت"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "مانءَ"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "تندور"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "آتشءِ"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "سوزاں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:00:19.624268683Z",
+  "model": "glm-5.3"
+}

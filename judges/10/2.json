@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ آ یِسرaelءَ ⟨את⟩ دہ ءُ سئے سال داوری کت، ءُ مرت، ءُ شامِرءَ دفن بوت۔",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ءُ … داوری کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ءُ … دفن بوت"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "شامِرءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:55:39.922200218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ہر وہدے کہ من بانگ کنت ءُ فریاد کنت، آییءَ منی دعا بند کت.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "وہدے کہ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "بانگ کنت"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ءُ فریاد کنت"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "بند کت"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "منی دعا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:04.435998189Z",
+  "model": "glm-5.3"
+}

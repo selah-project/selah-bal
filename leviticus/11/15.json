@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "⟨את⟩ ہر کال `\n    کوا وتی جنسءَ۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر کال کوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کال کوا"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "وتی جنسءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:14:32.475875747Z",
+  "model": "glm-5.3"
+}

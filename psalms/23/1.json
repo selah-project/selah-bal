@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "گاوالیں نغمہ داودءِ پہ۔ یاہوہ مءِ شپان اِنت؛ کمبہ نہ کم۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "گاوالیں نغمہ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "مءِ شپان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "کمہ کم"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:29.652322889Z",
+  "model": "glm-5.3"
+}

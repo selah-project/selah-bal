@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ آدمءَ گوَشت، اے زنانی کہ توءے گوں منءَ دست دیت، آءِ چہ دارءَ منءَ دست دیت ءُ من خوار کتم۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمءَ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "اے زنانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "توءے دست دیت"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "گوں منءَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءِ (اے زنانی)"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "دست دیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ءُ من خوار کtm"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:13.576588359Z",
+  "model": "glm-5.3"
+}

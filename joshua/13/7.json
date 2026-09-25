@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ اِنتی اے زمین ⟨את⟩ پہ میراثءَ ونڈ — پہ نہ ٹولیانءَ ءُ پہ منشہءِ ٹولیءِ نیمءَ",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِنتی"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ونڈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "پہ میراثءَ"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "پہ نہ"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "ٹولیانءَ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ءُ نیم"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ٹولیءِ"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "منشہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:09:12.738318344Z",
+  "model": "glm-5.3"
+}

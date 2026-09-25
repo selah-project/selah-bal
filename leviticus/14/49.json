@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ گِرت پاک کتنءَ پہ ⟨את⟩ گدان دو مرگ ءُ ارزءِ دار ءُ شنی تولاعت ءُ ایزوپ۔",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ءُ گِرت"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "پاک کتنءَ پہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گدان"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ءُ دار"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ارزءِ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ءُ شنی"
+    },
+    {
+      "surface": "תולעעת",
+      "gloss": "تولاعت"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ءُ ایزوپ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:25.492213694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 60,
+  "translation": "اٹھ، روشن بیت، چیز تیءِ روشنائی آتگ ⟨اِنت⟩ ءُ یاہوہءِ شان تیءِ سرءَ چڑھتگ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "اٹھ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "روشن بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتگ"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "تیءِ روشنائی"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ءُ شان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیءِ سرءَ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "چڑھتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:41:44.982729644Z",
+  "model": "glm-5.3"
+}

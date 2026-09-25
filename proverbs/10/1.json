@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "شلوموہءِ مَثَلان۔ یک حکیمءِ زہگ پِتءَ شاد کنت، ءُ یک نادانءِ زہگ آییءِ ماءِ ئے غم ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "مَثَلان"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد کنت"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پِتءَ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادانءِ"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "غم"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "آییءِ ماءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:37.603313803Z",
+  "model": "glm-5.3"
+}

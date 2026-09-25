@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 72,
+  "translation": "ایش ماں تو چہ ترس بیت گوں روچ ءُ پیشءَ ماه، نسلءِ نسلان.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "ایش ماں تو چہ ترس بیت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ءُ پیشءَ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ماه"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسلءِ"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "نسلان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:41.704665145Z",
+  "model": "glm-5.3"
+}

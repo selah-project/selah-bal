@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "منءَ بُرائی پہ نیکیءِ بدلیں بدنت، ءُ ونڈاری مئی جانءَ پہ.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "منءَ بدنت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پہ بدلیں"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ونڈاری"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "مئی جانءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:46.480016329Z",
+  "model": "glm-5.3"
+}

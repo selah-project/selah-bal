@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ آیان چہ زمینءِ جستنءَ پدا روتنت، چل روچءِ مکےءَ۔",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "پدا روتنت"
+    },
+    {
+      "surface": "מתור",
+      "gloss": "جستنءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "مکےءَ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:33:47.133411531Z",
+  "model": "glm-5.3"
+}

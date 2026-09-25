@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ لابن آییءَ ⟨את⟩ زلپہ آییءِ کنیز دات، لیاہءِ آییءِ جنکءِ، پہ کنیز۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زلپہ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زلپہ"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "آییءِ کنیز"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "لیاہءِ"
+    },
+    {
+      "surface": "بתו",
+      "gloss": "آییءِ جنکءِ"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "پہ کنیز"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:26.575371541Z",
+  "model": "glm-5.3"
+}

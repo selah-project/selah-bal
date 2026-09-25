@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "ءُ آیان ؤزنت کہ تُو — تُئے نام یاہوہ اِنت — تنہا، اُچّ، تمامیں زمینءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ءُ آیان ؤزنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تُئے نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "تنہا"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "اُچّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامیں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:00.395591465Z",
+  "model": "glm-5.3"
+}

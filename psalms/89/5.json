@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "تا ابد تُہءِ زہگءَ سابت کنین، ءُ نسل ءُ نسلءَ تہ تُہءِ تخت جوڑ کنین۔ سلا۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابد"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "سابت کنین"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تُہءِ زہگءَ"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ءُ جوڑ کنین"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسلءَ تہ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ءُ نسلءَ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تُہءِ تخت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:39.277169999Z",
+  "model": "glm-5.3"
+}

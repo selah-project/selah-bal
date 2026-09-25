@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 27:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "زہگمِ، دانا بیت ءُ دلمءَ شاد کت، تا کہ من منی شرمناکءَ یک گال جواب دیں۔",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "دانا بیت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگمِ"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ءُ شاد کت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلمءَ"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "ءُ جواب دیں"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "منی شرمناکءَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "یک گال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:39.570224903Z",
+  "model": "glm-5.3"
+}

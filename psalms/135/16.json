@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "اِشاںءَ دہان ⟨اِنت⟩ ءُ نہ گپ کننت؛ اِشاںءَ چشم ⟨اِنت⟩ ءُ نہ گندنت۔",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "دہان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "گپ کننت"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چشم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "گندنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:08.630151010Z",
+  "model": "glm-5.3"
+}

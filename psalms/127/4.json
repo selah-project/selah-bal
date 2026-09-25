@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 127,
+  "translation": "چوش تیر یک زورورءِ دستءَ تہ، چوشے جوانیانی زہگ اَنت۔",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "چوش تیر"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دستءَ تہ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زورورءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چوشے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "جوانیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:55.325157571Z",
+  "model": "glm-5.3"
+}

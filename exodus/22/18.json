@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ہر کام کہ گوں مال شبیتیت، موتءَ مُرِت",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر کام"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "شبیتیت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتءَ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مُرِت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:05.531260852Z",
+  "model": "glm-5.3"
+}

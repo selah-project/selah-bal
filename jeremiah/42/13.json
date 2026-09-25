@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 42:13",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ اگر اے گوشیت: نہ مانں اے زمینءَ تہ، پہ اے کہ یاہوہءِ، تُمیں ایلوہیمءِ، گالءَ نہ گوشں —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "مانں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ تہ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "پہ اے کہ نہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوشں"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "گالءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُمیں ایلوہیمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:02:42.855190208Z",
+  "model": "glm-5.3"
+}

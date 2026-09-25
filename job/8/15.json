@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "آ وتی کرءَ تیک دیت پرچا آ نہ اِستیت، آ آییءَ گرپت گیت پرچا آ نہ اُستیت۔",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "تیک دیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "وتی کر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پرچا نہ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "اِستیت"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "گرپت گیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پرچا نہ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُستیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:29.531630276Z",
+  "model": "glm-5.3"
+}

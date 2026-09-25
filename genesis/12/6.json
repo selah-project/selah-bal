@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ ابرام زمینءَ گوں سی کت، شکمی جاگہءَ سی، موریءِ بلوٹی تہءَ سی؛ ءُ کنعانی آ وہد تہ زمینءَ اَت.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ءُ گوں سی کت"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "سی"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہءَ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکمی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "بلوٹی"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "موریءِ"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ءُ کنعانی"
+    },
+    {
+      "surface": "אז",
+      "gloss": "آ وہد"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ اَت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:49:02.577734601Z",
+  "model": "glm-5.3"
+}

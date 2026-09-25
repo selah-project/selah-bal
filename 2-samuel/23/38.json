@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ایرا ءُ یتری، گریب یتری",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ایرا ءُ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "یتری"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گریب"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "یتری"
+    }
+  ],
+  "timestamp": "2026-09-25T00:57:05.764538402Z",
+  "model": "glm-5.3"
+}

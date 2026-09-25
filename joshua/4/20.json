@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یہوشوعءَ ہمے دوازدہ سنگاں کہ چہ یریدنءَ گرنتگ، گلگلءَ اُشتیاند کت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دوازدہ سنگاں"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "سنگاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "گرنتگ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یریدنءَ"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "اُشتیاند کت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوعءَ"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "گلگلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:03:53.474476244Z",
+  "model": "glm-5.3"
+}

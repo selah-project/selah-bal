@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "دلءَ تہ گوَشت: «ایلءَ بھل کتگ، آییءِ منہ پوشیت، ہچبر نہ گندیت، پہ ہمیشہ۔»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "دلءَ تہ"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "بھل کتگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "پوشیت"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "آییءِ منہ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ہچبر نہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:38.292070640Z",
+  "model": "glm-5.3"
+}

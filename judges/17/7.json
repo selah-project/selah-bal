@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 17:7",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ یک جنک چہ بیت‌لحم یہودہءِ ہست، چہ یہودہءِ ٹولیءَ، ءُ آ لِوی اَت، ءُ آ اُدا مہمان بوت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "נער",
+      "gloss": "یک جنک"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "چہ بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "چہ ٹولیءَ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ءُ آ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مہمان بوت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُدا"
+    }
+  ],
+  "timestamp": "2026-09-24T20:22:48.409415167Z",
+  "model": "glm-5.3"
+}

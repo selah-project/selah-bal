@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "یک پورا وش چہ اشانءَ منءَ آئیت؛ ایشتا گوں من راستیءِ فیصلہاں ⟨את⟩ اشانءَ گوَشِن.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "وش"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پورا"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "چہ اشانءَ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ایشتا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "گوَشِن"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "راستیءِ فیصلہاں"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ اشانءَ",
+      "marks": "اشانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:44:47.719472195Z",
+  "model": "glm-5.3"
+}

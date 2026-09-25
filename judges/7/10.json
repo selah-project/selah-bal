@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ اگر تُو بزیت کہ تُھئی، تُو ءُ پُورہ تیءِ نوجوان پہ لشکرءَ رو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "بزیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "کہ تُھئی"
+    },
+    {
+      "surface": "רד",
+      "gloss": "تُھئے رو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "ופורה",
+      "gloss": "ءُ پُورہ"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "تیءِ نوجوان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لشکرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:17:22.238919816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ کاهنان یاہوہءِ گadanءِ تہ نہ تواننت رونت، پرچا کہ یاہوہءِ شم ⟨את⟩ یاہوہءِ گadanءَ پُر کتگ اِنت.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "تواننت"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "روتگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پُر کتگ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءِ گadanءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:38.486204264Z",
+  "model": "glm-5.3"
+}

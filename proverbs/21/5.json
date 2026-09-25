@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "سوتیرےءِ سوجان ہمک رندانی پہ اِنت، ءُ ہر کوٹے ہمک کمیشی پہ اِنت.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "سوجان"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "سوتیرےءِ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "رندانی پہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "کوٹے"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "کمیشی پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:39.356244156Z",
+  "model": "glm-5.3"
+}

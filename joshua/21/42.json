@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 21:42",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "اے شہر ہست اِنت — ہر شہر ءُ اُندے چاردگر اُندے چوگرد؛ تئن ہر اِے شہرو پہ۔",
+  "tokens": [
+    {
+      "surface": "תהיינה",
+      "gloss": "ہست اِنت"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ומגרשיה",
+      "gloss": "ءُ اُندے چاردگر"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "اُندے چوگرد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تئن"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہرو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:12:13.165322769Z",
+  "model": "glm-5.3"
+}

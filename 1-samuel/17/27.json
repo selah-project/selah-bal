@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 17:27",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ قوم آییءَ گوں اے گال گوَشت: اے شکلءَ پہ مردے کر بیت کہ آییءَ بزنت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "گوں اے گال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "پہ گوَشتں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اے شکلءَ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کر بیت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "پہ مردے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "آییءَ بزنت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:34:22.862385138Z",
+  "model": "glm-5.3"
+}

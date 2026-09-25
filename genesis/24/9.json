@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ غلام ⟨את⟩ وتی دست اَبرہامءِ، وتی آقائی، رانءِ تلءَ اِشکے ءُ آییءَ اے گالءِ سرءَ قسم وارت.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ءُ اِشکے"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی دست"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "وتی دست"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "رانءِ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبرہامءِ"
+    },
+    {
+      "surface": "אדניو",
+      "gloss": "وتی آقائی"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ءُ قسم وارت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے گال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T18:33:25.690458254Z",
+  "model": "glm-5.3"
+}

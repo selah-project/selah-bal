@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "کیا کہ حکمت مندءَ کمہانئے چہ نادان؟ فقیرءَ کیا شست کہ زندگیءِ پیشءَ روئیءِ زانگ داریت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کمہانئے"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "زیاتر"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "حکمت مندءَ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا شست"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "فقیرءَ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانگ داریت"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "روئیءِ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:35.341951337Z",
+  "model": "glm-5.3"
+}

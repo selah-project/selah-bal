@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ اِشانی دوۓ برہنہ اِنتنت، آدم ءُ آییءِ جنک، ءُ اِشے شرمءَ نہ کیت۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ءُ بوتنت"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "اِشانی دوۓ"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "برہنہ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ءُ آییءِ جنک"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "شرمءَ کیت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:22:55.863740440Z",
+  "model": "glm-5.3"
+}

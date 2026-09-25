@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ ابیمیلک اَبراهامءَ گوَشت: چہ گندیت کہ اے ⟨את⟩ گپ کتیت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابیمیلک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراهامءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کتیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گپ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T18:31:54.023730614Z",
+  "model": "glm-5.3"
+}

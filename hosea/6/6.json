@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "کی منئے ہیسید، نہ قربانی؛ ءُ ایلوہیمءِ شناخت چہ سوچگیں قربانیان۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ہیسید"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "منئے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ءُ شناخت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "چہ سوچگیں قربانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:29:20.925221639Z",
+  "model": "glm-5.3"
+}

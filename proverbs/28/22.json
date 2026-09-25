@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "گوں مردهکیں چشم یک بدچشم مردم ءُ رند بیتءَ گوں مال کپیت، ءُ آییءَ نہ زانت کہ کمبختی آییءَ سرءَ ایت۔",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "ءُ رند بیتءَ کپیت"
+    },
+    {
+      "surface": "لהון",
+      "gloss": "گوں مال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کمبختی"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "آییءَ سرءَ ایت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:21.250854965Z",
+  "model": "glm-5.3"
+}

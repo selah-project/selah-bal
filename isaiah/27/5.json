@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "یا زان کہ یاہوہءِ پناگءَ بگیریت، آ ماءِ پہ شالام کنت؛ شالام آ ماءِ پہ کنت۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "بگیریت"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "یاہوہءِ پناگءَ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالام"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماءِ پہ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالام"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:29.488922831Z",
+  "model": "glm-5.3"
+}

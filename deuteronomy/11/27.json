@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "⟨את⟩ برکت، اودا کہ شمءِ یاہوہ شمءِ ایلوہیمءِ حکمانءَ گوشیت، ءُ من اَمریں روچ ⟨את⟩ شمءِ حکم دِن.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برکت"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اودا کہ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکمانءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "شمءِ ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم دِن"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ شمءِ",
+      "marks": "شمءِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَمریں روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:17.184018091Z",
+  "model": "glm-5.3"
+}

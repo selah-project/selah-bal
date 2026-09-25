@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "آیا مہ زور سنگانی زور اِنت؟ آیا مہ گوشت مس اِنت؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "سنگانی"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "مہ زور"
+    },
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "مہ گوشت"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:52.051627439Z",
+  "model": "glm-5.3"
+}

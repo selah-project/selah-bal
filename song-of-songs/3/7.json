@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "آ رست کہ سلیمانءِ مٹ ⟨اِنت⟩، ششت جنگی سورہ گردوان آیی ءَ، چہ اِسرائیلءِ سورہان.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "آ رست"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "آییءِ مٹ"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "سلیمانءِ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ششت"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "جنگی سورہ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گردوان"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آیی ءَ"
+    },
+    {
+      "surface": "مגברי",
+      "gloss": "چہ سورہان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:08.606622694Z",
+  "model": "glm-5.3"
+}

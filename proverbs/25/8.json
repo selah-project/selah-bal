@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "شتاب نہ رو پہ دشمنیءَ، نخواہ کہ آییءِ انجامءَ چه کنیں، وہدے کہ تری یار ⟨את⟩ تہ شرمناک کنت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "رو"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "پہ دشمنیءَ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "شتاب"
+    },
+    {
+      "surface": "פן",
+      "gloss": "نخواہ کہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "آییءِ انجامءَ"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "وہدے کہ شرمناک کنت"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تہ",
+      "marks": "تری یار"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "تری یار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:14.476977197Z",
+  "model": "glm-5.3"
+}

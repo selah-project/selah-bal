@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ یاہوہءَ سارہءَ ⟨את⟩ یاد کت چوش کہ گوَشت، ءُ یاہوہءَ سارہءِ پہ چوش کہ گپ کت کت۔",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہءَ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "یاد کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارہءَ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہءَ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "سارہءِ پہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گپ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:24.070973835Z",
+  "model": "glm-5.3"
+}

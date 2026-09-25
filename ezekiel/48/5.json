@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "ءُ منشہءِ سرحدءِ سرءَ، چے رتگیں دمءَ چے گودیں دمءَ — اپرائم یک ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ءُ …ءِ سرءَ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "چے …دمءَ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "رتگیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "چے"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "دمءَ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "گودیں"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپرائم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:28:54.805320057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "شپءِ آش نہ کن، قوماں آیاناں جاگہءَ لیٹنت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "آش نہ کن"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "شپءِ"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "لیٹنت"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "آیاناں جاگہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:43:03.194645202Z",
+  "model": "glm-5.3"
+}

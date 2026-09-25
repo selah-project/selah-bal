@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 86,
+  "translation": "تری چاکرءِ جانءَ شاد کت، چی تے سہ، اے ادونای، منی جانءَ اُچی کنتاں.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "شاد کت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانءَ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تری چاکرءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تے سہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جانءَ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "اُچی کنتاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:18.849708246Z",
+  "model": "glm-5.3"
+}

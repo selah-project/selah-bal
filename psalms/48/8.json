@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "گوں شروچی بادءَ ⟨تو⟩ تَرشیشءِ کشتیاں پروش اِنت۔",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "گوں بادءَ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "شروچی"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "پروش اِنت"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "کشتیاں"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تَرشیش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:41.922155722Z",
+  "model": "glm-5.3"
+}

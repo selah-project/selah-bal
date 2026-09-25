@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "مہ سوچ آییءَ شیریں ببیت — من یاہوہءَ تہ شاد بیت.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "شیریں ببیت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "مہ سوچ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:09.801777408Z",
+  "model": "glm-5.3"
+}

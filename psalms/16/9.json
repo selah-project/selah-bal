@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "لہچی ماءِ دل شاد بوت ءُ ماءِ جلال شاد بیت، حتی ماءِ گوشت بے خوفیءَ گوزیت۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لہچی"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "شاد بوت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ماءِ دل"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ءُ شاد بیت"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ماءِ جلال"
+    },
+    {
+      "surface": "אף",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ماءِ گوشت"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "گوزیت"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بے خوفیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:40.205606584Z",
+  "model": "glm-5.3"
+}

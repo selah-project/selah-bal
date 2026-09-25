@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "عزیایلءِ زہگان ءَ چہ، عمریناداب سردار، ءُ آییءِ براتان سد ءُ دوازده.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "زہگان ءَ چہ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عزیایلءِ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عمریناداب"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ءُ آییءِ براتان"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ازده"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:48.538247246Z",
+  "model": "glm-5.3"
+}

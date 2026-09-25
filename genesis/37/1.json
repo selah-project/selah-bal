@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ یعقوب اوت کت تہ پدرءِ مہاںگریءِ زمینءَ — تہ کنعانءِ زمینءَ۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ءُ اوت کت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءَ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "تہ زمینءَ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "مہاںگریءِ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرءِ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "تہ زمینءَ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:42:15.851044310Z",
+  "model": "glm-5.3"
+}

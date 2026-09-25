@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 85,
+  "translation": "یاہوہ، ما ءَ تُئی ہیسید نشان دے ءُ تُئی رہائی ما ءَ دے۔",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "ما ءَ نشان دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تُئی ہیسید"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "ءُ تُئی رہائی"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ما ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:19.622866750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "چہ اُوسیءَ لڑیت، منءَ گرپت، منءَ چہ گیشتریں آپانءَ در کت۔",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "لڑیت"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "چہ اُوسیءَ"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "منءَ گرپت"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "منءَ در کت"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "چہ آپان"
+    },
+    {
+      "surface": "رבים",
+      "gloss": "گیشتریں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:18.646188671Z",
+  "model": "glm-5.3"
+}

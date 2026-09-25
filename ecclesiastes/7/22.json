@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "کی ھم گیشترین رنداں وتءِ دل زانت کہ تو ھم ⟨את⟩ دگہانءَ لعنت کتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھم"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "رنداں"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "گیشترین"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "وتءِ دل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دگہان"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "لعنت کتگ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دگہان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:15.112001338Z",
+  "model": "glm-5.3"
+}

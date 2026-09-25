@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 41:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "ہچ کڑوت ⟨اِنت⟩ کہ آییءَ جاگ کنت؛ ءُ کے ⟨او⟩ اِنت کہ منیں دیمءَ بایستیت؟",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "کڑوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יעורנו",
+      "gloss": "آییءَ جاگ کنیت"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ءُ کے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨او⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دیمءَ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "بایستیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:08.998037948Z",
+  "model": "glm-5.3"
+}

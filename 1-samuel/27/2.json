@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ داود اُستت ءُ آ گوَرِت — آ ءُ شش سد مردی کہ آییءِ گوں اَنت — تہ اخیشءَ، زہگِ ماؤک، گتءِ شاہءَ۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ءُ اُستت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ءُ گوَرِت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ گوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اخیشءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "ماؤکءِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:39:11.229502144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "کی آ ڈگت، آ نہ درگیت، کی یاہوہ آییءِ دستءَ تھنبیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈگت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "درگیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "تھنبیت"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "آییءِ دستءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:39.889297609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "کمزارءَ ستم کوک پہ آءِ زیاد کنگ؛ ءُ گوانءَ دیت کوک — ہمک پہ کم‌چیزیءَ.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "ستم کوک"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزار"
+    },
+    {
+      "surface": "להרبות",
+      "gloss": "پہ زیاد کنگ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پہ آ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیت کوک"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "پہ گوان"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "پہ کم‌چیزی"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:01.627641986Z",
+  "model": "glm-5.3"
+}

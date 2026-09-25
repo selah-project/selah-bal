@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ رئوبنءِ زہگان ⟨את⟩ ہشبون ءُ ⟨את⟩ ایلعالہ ءُ ⟨את⟩ کرتیاتیم بنہ کت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگان"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بنہ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہشبون"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ہشبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ایلعالہ"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "ایلعالہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کرتیاتیم"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "کرتیاتیم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:44:07.995194589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "یک کف آسایش چہ دو کفءِ بھر محنت ءُ روانءِ تکلیف بہتر اِنت۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر"
+    },
+    {
+      "surface": "כף",
+      "gloss": "کف"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آسایش"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "چہ بھر"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "دو کفءِ بھر"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ءُ تکلیف"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:35.352362868Z",
+  "model": "glm-5.3"
+}

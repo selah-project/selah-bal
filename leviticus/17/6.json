@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ کاہن ⟨את⟩ گونءَ یاہوہءِ قربانگاہءَ سر پاشنت — ملاقاتءِ گadanءِ دروازءَ — ءُ چرءَ پہ آرام دیوکیں بوانی پہ یاہوہ چِڑا کنت.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "ءُ پاشنت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گون"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "گون"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانگاہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "درواز"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گadanءِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقاتءِ"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ءُ چِڑا کنت"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چرءَ"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "پہ بوانی"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "آرام دیوکیں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:20:43.988762440Z",
+  "model": "glm-5.3"
+}

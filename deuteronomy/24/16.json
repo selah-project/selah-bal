@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "پیدار زہگانءِ پہ مار نہ دیگ بنت، ءُ زہگ پیدارانءِ پہ مار نہ دیگ بنت — هر مرد وتی گناہءَ پہ مار دیگ بیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "مار دیگ بنت"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پیدار"
+    },
+    {
+      "surface": "על",
+      "gloss": "زہگانءِ پہ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "مار دیگ بنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پیداران"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر مرد"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "وتی گناہءَ پہ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "مار دیگ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:08.751776967Z",
+  "model": "glm-5.3"
+}

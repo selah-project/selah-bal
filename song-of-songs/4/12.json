@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "بند بوتگیں باغ ⟨اِنت⟩ اے مئے لوگے جنک؛ بند بوتگیں چشمہ، مہر بوتگیں ماے.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "بند بوتگیں"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "اے مئے لوگ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "גל",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "بند بوتگیں"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ماے"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مہر بوتگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:41.614731597Z",
+  "model": "glm-5.3"
+}

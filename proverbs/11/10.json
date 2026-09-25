@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "راستاںءِ چنگءَ ⟨شہر⟩ شاد بیت، ءُ بدکارانی ہلاکتءَ شادیءِ بانگ اِنت.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "چنگءَ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستاںءِ"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "ءُ ہلاکتءَ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "شادیءِ بانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:59.448882709Z",
+  "model": "glm-5.3"
+}

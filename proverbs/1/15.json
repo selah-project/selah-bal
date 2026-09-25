@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "زہگئے‌م، نہ رو تہ راہءِ ⟨את⟩ گوں اِشان، ءُ پائے‌ت چہ رہءِ اِشانی پیش گیر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگئے‌م"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "رو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "تہ راہءِ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ گوں اِشان",
+      "marks": "گوں اِشان"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "پیش گیر"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پائے‌ت"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "چہ رہءِ اِشانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:37.472457613Z",
+  "model": "glm-5.3"
+}

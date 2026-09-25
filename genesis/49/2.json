@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "یکجا ببیت ءُ گوشیت، یاکوبءِ زہگ، ءُ گوشیت اے یسرائیلءَ تُہاری پیتءَ۔",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "یکجا ببیت"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ءُ گوشیت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاکوبءِ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ءُ گوشیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "یשראל",
+      "gloss": "یسرائیلءَ"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "تُہاری پیتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:49:46.465330702Z",
+  "model": "glm-5.3"
+}

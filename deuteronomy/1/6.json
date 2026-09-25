@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "یاہوہ، مءِ ایلوہیم، حوربءَ تہ مءَ گال کت ءُ گوَشت: بس اِنت شمانءَ اے گرتءَ تہ مانگءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "مءِ ایلوہیم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال کت"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "حوربءَ تہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بس اِنت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شمانءَ پہ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "مانگءِ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "گرتءَ تہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:22.798141156Z",
+  "model": "glm-5.3"
+}

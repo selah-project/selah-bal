@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "روچ تہءِ اِنت، بلکہ شپ هم تہءِ اِنت؛ تو روشنائی ءُ شمش تیار کت.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تہءِ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "لך",
+      "gloss": "تہءِ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "تیار کت"
+    },
+    {
+      "surface": "مאור",
+      "gloss": "روشنائی"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ءُ شمش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:33.293428824Z",
+  "model": "glm-5.3"
+}

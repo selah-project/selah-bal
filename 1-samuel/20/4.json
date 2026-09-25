@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یہونتن داودءَ گوَشت: تُہءِ جان چہ گوَشت؟ ءُ من تُہءَ پہ تُے کنین۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہونتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تُہءِ جان"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ءُ من کنین"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءَ پہ تُے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:34:51.479823080Z",
+  "model": "glm-5.3"
+}

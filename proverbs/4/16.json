@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "پرچا کہ اِشاں نہ ماننت ءُ نہ بدی کننت، ءُ اِشانی مانی چکیت بیت ءُ نہ کہ یکےءَ ڈہنگنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "ماننت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ءُ نہ (مہ)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "بدی کننت"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "ءُ چکیت بیت"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "اِشانی مانی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "یکےءَ ڈہنگنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:54.551106880Z",
+  "model": "glm-5.3"
+}

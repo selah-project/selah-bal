@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "تہ مردومیں بے‌سُکیءَ اِشاں نیست، ءُ گوں آدمیں مردمءَ گنہ نہ گننت.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "تہ بے‌سُکیءَ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مردومیں"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "اِشاں نیست"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیں مردم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "گننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:55.776088423Z",
+  "model": "glm-5.3"
+}

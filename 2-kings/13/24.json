@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ حزائیل، ارمءِ شاہ، مرت؛ ءُ آییءِ زہگ بِن ہدید آییءِ جاگہءَ شاہ بوت.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مرت"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "حزائیل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارم"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "شاہ بوت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "بِن ہدید"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "آییءِ جاگہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:13:56.784596100Z",
+  "model": "glm-5.3"
+}

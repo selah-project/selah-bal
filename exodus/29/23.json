@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 29:23",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ یک نانءِ گل، ءُ یک تیلانی نانءِ پتٹ، ءُ یک روٹی — چہ ٹوکری ءُ بے خمیری نانانی کہ یاہوہءِ پیشءَ اِنت۔",
+  "tokens": [
+    {
+      "surface": "וככר",
+      "gloss": "ءُ گل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نانءِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "ءُ پتٹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نانءِ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیلانی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ורקיק",
+      "gloss": "ءُ روٹی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מסל",
+      "gloss": "چہ ٹوکری"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "بے خمیری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:05:33.135540303Z",
+  "model": "glm-5.3"
+}

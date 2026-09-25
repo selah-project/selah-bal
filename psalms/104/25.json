@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "اے ءُ اِنت سمندر، گش ءُ دو دستاں چوڑ — اُدا کشوک ءُ بے شمار، جانور گچین گوں گیشین۔",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گش"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ءُ چوڑ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دو دستاں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُدا"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "کشوک"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ بے"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "گچین"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "گیشین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:48.549312542Z",
+  "model": "glm-5.3"
+}

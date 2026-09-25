@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 21:1",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "اگر یک کشتگ چہ زمینءَ کہ یاہوہ تُءِ ایلوہیم تہءَ دیت پہ آییءِ گرگ بیت، چہ میدانءَ ڈگتگ، ءُ نہ زانتگ کِے آیءَ مارت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "پیدا بیت"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "کشتگ"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "چہ زمینءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُءِ ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "پہ آییءِ گرگ بیت"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڈگتگ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "چہ میدانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "زانتگ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِے"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "آیءَ مارت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:56:44.863160277Z",
+  "model": "glm-5.3"
+}

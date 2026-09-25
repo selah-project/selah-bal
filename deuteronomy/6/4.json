@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "گوش، اے یسرائیل: یاہوہ اسپہ ءِ ایلوہیم، یاہوہ یک اِنت.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اے یسرائیل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "اسپہ ءِ ایلوہیم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:50:05.157258849Z",
+  "model": "glm-5.3"
+}

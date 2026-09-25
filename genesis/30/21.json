@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ پدا آ یک جنک زائیت، ءُ آیی ⟨את⟩ آییءِ نام دینہ گوَشت۔",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ءُ پدا"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زائیت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "یک جنک"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ نام"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دینہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:07.247406891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ گوَشت: آییءِ نامءَ لوعمی بانگ کن، کیچہ اِشما منی قوم نہ اِنت ءُ من اِہیِہ اِشماءِ پہ نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "بانگ کن"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "لوعمی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "اِشما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منی قوم"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "اِہیِہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اِشماءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:28:55.575426460Z",
+  "model": "glm-5.3"
+}

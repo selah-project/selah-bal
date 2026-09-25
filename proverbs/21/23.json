@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "جو کہ وتی منہ ءُ وتی زبان نگاه کنت، آ وتی نفش چہ زحمتان نگاه کنت.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "نگاه کنت"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "وتی منہ"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ءُ وتی زبان"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگاه کنت"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "چہ زحمتان"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "وتی نفش"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:19.274859673Z",
+  "model": "glm-5.3"
+}

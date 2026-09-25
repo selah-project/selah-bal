@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 88,
+  "translation": "ماءَ چوش آپان گھیر اَنت پورا روچ؛ یکجاہءَ منی سرءَ گھیر کتگنت۔",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ماءَ گھیر اَنت"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "چوش آپان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پورا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "گھیر کتگنت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرءَ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکجاہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:03.884102548Z",
+  "model": "glm-5.3"
+}

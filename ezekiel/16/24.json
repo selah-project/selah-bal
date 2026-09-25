@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ توءَ وتءِ پہ گنبد جوڑ کت، ءُ وتءِ پہ بلندی ہر چوکءَ کت۔",
+  "tokens": [
+    {
+      "surface": "וַתִּבְנִי",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "לָ֖ךְ",
+      "gloss": "وتءِ پہ"
+    },
+    {
+      "surface": "גֶּ֑ב",
+      "gloss": "گنبد"
+    },
+    {
+      "surface": "וַתַּעֲשִׂי",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "לָ֥ךְ",
+      "gloss": "وتءِ پہ"
+    },
+    {
+      "surface": "רָמָ֖ה",
+      "gloss": "بلندی"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "רְחֽוֹב",
+      "gloss": "چوک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:14:02.514700097Z",
+  "model": "glm-5.3"
+}

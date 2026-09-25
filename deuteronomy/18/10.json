@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "چہ تو نہ لبگ کسے کہ زہگ ءُ جنکءَ آپءَ گزارنت، فال گرنوک، فال مندوک، ءُ ابر وانوک، ءُ نشانی وانوک، ءُ جادو گر.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لبگ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "چہ تو"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "گزارنوک"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ءُ جنک"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آپءَ"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "فال گرنوک"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "فال مندوک"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "ابر وانوک"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "ءُ نشانی وانوک"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "ءُ جادو گر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:25.032171933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ موشہ ⟨موسیٰ⟩ ءُ آرون ملاقاتءِ گدانءِ پیشءَ روتنت۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ روتنت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ ⟨موسیٰ⟩"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ءُ آرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقاتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:36:00.029023506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "کوہ صییون شاد بیت، یہودہءِ جنکان تری فیصلانی پہ خوش بنت.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوہ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صییون"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "خوش بنت"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "جنکان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہءِ"
+    },
+    {
+      "surface": "لמען",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "تری فیصلانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:22.500684640Z",
+  "model": "glm-5.3"
+}

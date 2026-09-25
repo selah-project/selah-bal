@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یاہوہءَ ⟨את⟩ چہ تیریں مالءَ ءُ چہ پہلواندی همه تیریں حاصلءِ عزت دیں.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "عزت دیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "چہ تیریں مالءَ"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "ءُ چہ پہلواندی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "تیریں حاصلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:04.042436082Z",
+  "model": "glm-5.3"
+}

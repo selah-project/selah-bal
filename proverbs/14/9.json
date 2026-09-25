@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "اِوِلان گناهءَ تُرز کننت، بلے راستانی میانءَ رضامندی ہست۔",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "اِوِلان"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "تُرز کننت"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "گناهءَ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "بلے … میانءَ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "راستانی"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضامندی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:06.349843362Z",
+  "model": "glm-5.3"
+}

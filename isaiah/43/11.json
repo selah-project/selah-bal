@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "من، من یاہوہءَ م، ءُ ماءِ بجاں ہچ نجات دہوک نیست.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ماءِ بجاں"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "نجات دہوک"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:05.455945313Z",
+  "model": "glm-5.3"
+}

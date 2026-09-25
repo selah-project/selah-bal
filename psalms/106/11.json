@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "ءُ آپ اِشانی دشمنانءَ ڈپ کت، اِشانی یکے ہم پُت نہ بوت۔",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "ءُ ڈپ کت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "اِشانی دشمنانءَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اِشانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "پُت بوت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:22.612924882Z",
+  "model": "glm-5.3"
+}

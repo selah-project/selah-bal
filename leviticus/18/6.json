@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ہر مرد ہر گوں وتیءِ گوشتءِ نزیکءَ نیزت نہ کنت پہ برہنائیئے کھولک؛ من یاہوہ اَم۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ہر مرد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر مرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نیزت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "گوں گوشتءِ نزیکءَ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "وتیءِ گوشت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "پہ کھولکئے"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "برہنائیئے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:18:50.000136588Z",
+  "model": "glm-5.3"
+}

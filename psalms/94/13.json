@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "پہ آییءَ چہ شرءِ روچان آروم داتگ، اے کہ پہ بدکارءَ گڈا کنگ بیت۔",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "پہ آروم داتگ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "چہ روچان"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "اے کہ"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "کنگ بیت"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "پہ بدکارءَ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "گڈا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:12.822616537Z",
+  "model": "glm-5.3"
+}

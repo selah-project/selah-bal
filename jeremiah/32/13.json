@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ منءَ اِشانی چشمانی پیشءَ ⟨את⟩ بروکءَ حکم کت، کہ گوَش:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ءُ منءَ حکم کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بروک"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بروکءَ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "اِشانی چشمانی پیشءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَش"
+    }
+  ],
+  "timestamp": "2026-09-24T21:58:17.466265099Z",
+  "model": "glm-5.3"
+}

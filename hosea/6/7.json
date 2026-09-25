@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اے لوگ چوں آدم عہءَ شکنیت کت؛ اُڈاءَ اِشاں منی چیرا خیانت کت۔",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ءُ اے لوگ"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "چوں آدم"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "عہءَ شکینت کت"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُڈاءَ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "خیانت کت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منی چیرا"
+    }
+  ],
+  "timestamp": "2026-09-24T22:29:20.925358469Z",
+  "model": "glm-5.3"
+}

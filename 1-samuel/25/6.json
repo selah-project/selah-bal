@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ گوَن: اے چہ زندگی، تو پہ سلام، ءُ تئے گدان پہ سلام، ءُ ہمگ آ کہ تئے اِنت پہ سلام۔",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ءُ گوَن"
+    },
+    {
+      "surface": "כה",
+      "gloss": "گوں اے گپ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "پہ زندگی"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلام"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ءُ تئے گدان"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلام"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہمگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلام"
+    }
+  ],
+  "timestamp": "2026-09-24T20:37:15.160584050Z",
+  "model": "glm-5.3"
+}

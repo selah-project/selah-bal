@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "شِمعون ءُ لِوی برادران ⟨اِنت⟩؛ زورزوریءِ ابزار اِشانی تیغان ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "ءُ لِوی"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "برادران"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ابزار"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زورزوری"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "اِشانی تیغان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:49:53.376726604Z",
+  "model": "glm-5.3"
+}

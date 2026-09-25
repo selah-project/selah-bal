@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "کمبالیءِ مردم شادیءَ دوست داریت، یینی ءُ روغنءَ دوست دارنت — دولمند نہ بیت.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "کمبالیءِ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوست داریت"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادیءَ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "دوست دارنت"
+    },
+    {
+      "surface": "יין",
+      "gloss": "یینی"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ءُ روغنءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "دولمند بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:06.240945698Z",
+  "model": "glm-5.3"
+}

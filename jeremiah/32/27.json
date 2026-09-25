@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ایں، من یاہوہ اِنت، ساریں گوشتءِ ایلوہیم — آیا چہ منئِ پہ ہر گال سخت اِنت؟",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریں"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشتءِ"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "چہ منئِ"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "سخت بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    }
+  ],
+  "timestamp": "2026-09-24T21:57:42.470331831Z",
+  "model": "glm-5.3"
+}

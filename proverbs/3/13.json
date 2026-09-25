@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "خوش‌بختیاں آ مردم ⟨کہ⟩ حکمت لبت ءُ آ مردم ⟨کہ⟩ عقل درکیت۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش‌بختیاں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آ مردم"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "لبت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ءُ آ مردم"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "درکیت"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "عقل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:38.936998400Z",
+  "model": "glm-5.3"
+}

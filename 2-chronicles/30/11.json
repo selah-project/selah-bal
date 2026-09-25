@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 30:11",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "بلے چندیں مردم چہ آشر ءُ منشہ ءُ زبلون خوار بنت ءُ پہ یورشلمءَ آتنت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "چندیں مردم"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "چہ آشر"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ءُ منشہ"
+    },
+    {
+      "surface": "ומזבלון",
+      "gloss": "ءُ زبلون"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "خوار بنت"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ءُ آتنت"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "پہ یورشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:45:09.130312962Z",
+  "model": "glm-5.3"
+}

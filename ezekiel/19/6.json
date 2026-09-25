@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 19:6",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ آ شیرانی میانءَ گشت، شیرزہگ بیت، ءُ شکار پھاڑنءَ زورت، مردمءَ خارت.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "ءُ گشت"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "شیران"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "شیرزہگ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "ءُ زورت"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "پھاڑنءَ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "شکار"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خارت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:15:41.027068588Z",
+  "model": "glm-5.3"
+}

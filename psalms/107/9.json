@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "چہ آں کہ شاءِ جانءَ سیر کت ءُ بھوکا جانءَ چہ خوبی پُر کت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ آں کہ"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "سیر کت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "شקקה",
+      "gloss": "شاءِ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ءُ جان"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "بھوکا"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پُر کت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوبی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:38.753341289Z",
+  "model": "glm-5.3"
+}

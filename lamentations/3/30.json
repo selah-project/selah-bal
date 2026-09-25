@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "بیت وتیءِ رخ مارتئیءَ دیت، پہ رسوائیءَ سیر بیت۔",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "مارتئیءَ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "رخ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "سیر بیت"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "پہ رسوائیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:51.584233102Z",
+  "model": "glm-5.3"
+}

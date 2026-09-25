@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ہم گش کہ تُرتی ءُمید وارنت نہ شرمسار بنت؛ شرمسار بنت بے سبب ءُ خیانت گر.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "تُرتی ءُمید وارنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرمسار بنت"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرمسار بنت"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "خیانت گر"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "بے سبب"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:41.216529202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 7:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "تا کہ یک تیر آییءِ جگرءَ پارہ کنت، چوش کہ مرگ جلتی دامءَ آئی، ءُ نہ زانت کہ آ آییءِ جانءَ پہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "پارہ کنت"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "آییءِ جگر"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "چوش جلتی"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "دام"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "آییءِ جانءَ پہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:59.511988563Z",
+  "model": "glm-5.3"
+}

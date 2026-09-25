@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 28:49",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "یاہوہ تےءِ سرءَ یک قوم چیر کنت، چہ دور، چہ زمینءِ کنجءَ، چوش کہ شہزور جنیت؛ یک قوم کہ آییءِ زبانءَ نہ گوشیت۔",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "چیر کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تےءِ سرءَ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "یک قوم"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "چہ دور"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "چہ کنجءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "جنیت"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "شہزورءِ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "آییءِ زبانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:37.172806838Z",
+  "model": "glm-5.3"
+}

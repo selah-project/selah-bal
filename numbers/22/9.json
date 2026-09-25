@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ ایلوہیم بلعمءَ بار اوت ءُ گوَشت: اے مردم کے اَنت کہ گوں تَئے اَنت؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ بار اوت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بلعمءَ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "اے مردم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تَئے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:39:27.511973093Z",
+  "model": "glm-5.3"
+}

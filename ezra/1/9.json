@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ اے اِشانی شمار اِنت: اگارتل زرءِ سی، اگارتل سیمءِ ہزار، کارد نہ ءُ بیست۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "اِشانی شمار"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "اگارتل"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرءِ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "اگارتل"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سیمءِ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "کارد"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ بیست"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:17.306834179Z",
+  "model": "glm-5.3"
+}

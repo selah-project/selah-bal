@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 34:4",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "بلے گوش کن یاہوہءِ گالءَ، اے صدقیاہو یہوداہءِ شاہءَ: اِشے گوَشت یاہوہ تیری بابتءَ: تُو تیغءَ نہ مریت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقیاہو"
+    },
+    {
+      "surface": "مלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہءِ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اِشے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیری بابتءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مریت"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تیغءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:59:17.501849819Z",
+  "model": "glm-5.3"
+}

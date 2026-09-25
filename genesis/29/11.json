@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ یعقوبءَ راحیلءَ مُچھ کت، ءُ ⟨את⟩ وتی آوازءَ اُوچ کت ءُ روئت.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "مُچھ کت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءَ"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راحیلءَ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "اُوچ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی آوازءَ"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "وتی آوازءَ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "روئت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:23.506048916Z",
+  "model": "glm-5.3"
+}

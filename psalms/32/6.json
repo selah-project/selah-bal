@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 32:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "اے بابتءَ ہر ہیسید تہ دعا کنت، لبھیءِ وہدءَ؛ رَک سیلابیءِ وہد گوں گیشتریں آپان — اِشاں آییءَ نہ رسنت۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بابتءَ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "دعا کنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ہیسید"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "وہدءَ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "لبھیءِ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رَک"
+    },
+    {
+      "surface": "לשטף",
+      "gloss": "سیلابیءِ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپانی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیشتریں"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "אییءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "رسنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:20.470587045Z",
+  "model": "glm-5.3"
+}

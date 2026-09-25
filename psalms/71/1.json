@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 71,
+  "translation": "تہ، اے یاہوہ، مں پنا گپتگءَ اِم؛ مں شرمیں نہ بیت پہ ہمیشہ۔",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "مں پنا گپتگءَ اِم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "شرمیں بیت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:46.835390859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "یاہوہءِ نام یک زوریں برج اِنت؛ راستِن آییءَ تہ دوئیت ءُ اُچڑ بیت۔",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زوریں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "دوئیت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستِن"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "ءُ اُچڑ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:11.688124681Z",
+  "model": "glm-5.3"
+}

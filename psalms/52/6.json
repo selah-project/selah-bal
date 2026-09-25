@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 52,
+  "translation": "تو ہمگ ہڑپءِ گپان پسند کنت، اے فریبءِ زبان.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "تو پسند کنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گپان"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ہڑپءِ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فریب"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:08.588970776Z",
+  "model": "glm-5.3"
+}

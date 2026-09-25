@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "راست زانت ⟨את⟩ جانءِ وتی مالءَ، ءُ گنہگانی رحمت بیرحم اِنت۔",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "⟨את⟩ وتی مال"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "ءُ رحمت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "گنہگان"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "بیرحم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:58.614654059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "شش چیزیں اِنت کہ یاہوہ چش داریت ءُ ہپت آییءِ جانءَ پہ مکروہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "چیزیں"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "چش داریت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ءُ ہپت"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "مکروہ چیزیں"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "آییءِ جانءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:42.227913818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "گِبال ءُ عمّون ءُ عمالیک، پِلِشت گوں صُورءِ رہونک،",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "گِبال"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ءُ عمّون"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ءُ عمالیک"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "پِلِشت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رہونک"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صُور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:26.877678612Z",
+  "model": "glm-5.3"
+}

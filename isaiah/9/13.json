@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ یاہوہءَ چہ اِسرائیلءَ سر ءُ دُم، کھجءِ برگ ءُ گَز یک روچءَ در کت۔",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ءُ در کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "چہ اِسرائیلءَ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ءُ دُم"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "کھجءِ برگ"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ءُ گَز"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:37.186312841Z",
+  "model": "glm-5.3"
+}

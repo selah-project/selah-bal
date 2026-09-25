@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 135,
+  "translation": "گوشان آشاںءَ اِنت، پرچا کہ گوش نہ دنت؛ ءُ نہ⟨ہست⟩ روح آشانیں تُہیءَ",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "گوشان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آشاںءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "گوش نہ دنت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ءُ نہ⟨ہست⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "آشانیں تُہیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:31.816982223Z",
+  "model": "glm-5.3"
+}

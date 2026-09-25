@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "نہ چڑھو، پرچا کہ یاہوہ شمئے میان نیست، ءُ شما شمئے دشمنانی پیشءَ نہ شکان بیت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "چڑھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "شمئے میان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "شکان بیت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "شمئے دشمنانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:34:33.975175941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 28:17",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ آییءَ تہ سنگانی نشستءَ پُر کن: چار ردیفءِ سنگ؛ سنگءِ ردیف — اودم، پتدا ءُ برکت — یکمی ردیف.",
+  "tokens": [
+    {
+      "surface": "ומלאת",
+      "gloss": "ءُ پُر کن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "نشست"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "ردیفان"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "טור",
+      "gloss": "ردیف"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اودم"
+    },
+    {
+      "surface": "پטדה",
+      "gloss": "پتدا"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "ءُ برکت"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "ردیف"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکمی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:49.782512819Z",
+  "model": "glm-5.3"
+}

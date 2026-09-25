@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "آییءِ چپ ⟨دست⟩ منی سرءِ تہءَ اِنت ءُ آییءِ راست ⟨دست⟩ منءَ بغل کنیت۔",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "آییءِ چپ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "منی سرءِ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ءُ آییءِ راست"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "منءَ بغل کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:27.070994429Z",
+  "model": "glm-5.3"
+}

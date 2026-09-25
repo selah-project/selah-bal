@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "چونگ ءُ نہ رھانیت بوت شہرءِ ستائش، شہرءِ مئے شادئی!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چونگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "رھانیت بوت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ستائش"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "مئے شادئی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:05:18.512444189Z",
+  "model": "glm-5.3"
+}

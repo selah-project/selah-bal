@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ متوشلحءِ چم روچان نہ ءُ ششت سال ءُ نہ صدان سال بیتنت، ءُ آ مُرِت۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بیتنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "چم"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "متوشلحءِ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ءُ ششت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "صدان"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مُرِت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:10.918651650Z",
+  "model": "glm-5.3"
+}

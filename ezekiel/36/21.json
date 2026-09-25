@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 36:21",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ مان پاکءِ نامءِ چوں دردک کت، آ کہ بیت یسرایل آییءَ ماں قومانءَ ناپاک کت، آ کہ اُشا گتنت۔",
+  "tokens": [
+    {
+      "surface": "ואחמל",
+      "gloss": "ءُ دردک کت"
+    },
+    {
+      "surface": "על",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامءِ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "پاکءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "חללוהו",
+      "gloss": "آییءَ ناپاک کت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ماں قومانءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "گتنت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُشا"
+    }
+  ],
+  "timestamp": "2026-09-24T22:24:29.369424417Z",
+  "model": "glm-5.3"
+}

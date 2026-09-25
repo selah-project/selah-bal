@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "جوڑکنوک یکجا اِشاںءِ دل، سوجکنوک چیرءَ سال اِشاںءِ کاراں۔",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "جوڑکنوک"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "اِشاںءِ دل"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "سوجکنوک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چیرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "اِشاںءِ کاراں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:48.598460363Z",
+  "model": "glm-5.3"
+}

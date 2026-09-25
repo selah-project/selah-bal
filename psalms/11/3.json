@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "کی بنیاداں ڈھنت — راست کس چہ کرتگ؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "بنیاداں"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ڈھنت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست کس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کرتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:37.565792302Z",
+  "model": "glm-5.3"
+}

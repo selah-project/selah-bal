@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ نوح ⟨طوفان⟩ءِ پسا سئے سد سال ءُ پنجاه سال زندگی کت۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "زندگی کت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پسا"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "⟨طوفان⟩ءِ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ءُ پنجاه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:49.101875510Z",
+  "model": "glm-5.3"
+}

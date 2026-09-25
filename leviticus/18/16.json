@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "برہنائی براتءِ زالءِ نہ پدا کن؛ براتءِ برہنائی آ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برہنائی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "براتءِ تیءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "پدا کن"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برہنائی"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "براتءِ تیءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اِنت⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:03.673934617Z",
+  "model": "glm-5.3"
+}

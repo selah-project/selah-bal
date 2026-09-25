@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "ءُ تو، اِسرائیل، مے گلام، یعقوب کہ مے توءَ چید کت، اَبراہامءِ تخم، مے دوست،",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "مے گلام"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "توءَ چید کت"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراہامءِ"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "مے دوست"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:13.390897777Z",
+  "model": "glm-5.3"
+}

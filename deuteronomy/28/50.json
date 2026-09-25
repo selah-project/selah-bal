@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "قوم سخت چہرہءَ، کہ بڈوکالءِ چہرہءَ نہ گنت ءُ جنکءَ شفقت نہ کنت۔",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עז",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چہرہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "گنت"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چہرہءَ"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "بڈوکالءِ پہ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ءُ جنکءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "شفقت کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:37.173059754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ آیانءَ تہ ماں گراندیت پہ خرپءَ، ءُ آسمانءِ دانہ آیانءَ دات۔",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "ءُ گراندیت"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "آیانءَ تہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "پہ خرپءَ"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ءُ دانہ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانءِ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "למו",
+      "gloss": "آیانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:07.895241768Z",
+  "model": "glm-5.3"
+}

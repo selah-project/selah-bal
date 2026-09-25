@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "اگر منی حکمان پامال کننت ءُ منی فرزمان نہ شمارن۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "منی حکمان"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "پامال کننت"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ءُ منی فرزمان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "شمارن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:59.479761567Z",
+  "model": "glm-5.3"
+}

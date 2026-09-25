@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ بارَک آیءَ گوَشت: اگر تُ گوں من روئے، من روان؛ ءُ اگر تُ گوں من نہ روئے، من نہ روان۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بارَک"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "تُ روئے"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گوں من"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "من روان"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "تُ روئے"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گوں من"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "من روان"
+    }
+  ],
+  "timestamp": "2026-09-24T20:17:15.120036617Z",
+  "model": "glm-5.3"
+}

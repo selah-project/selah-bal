@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "بیت آییءِ آخر کپتءَ پہ، دگہ نسلءَ تہ آشانی نام مچیت.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "آییءِ آخر"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "کپتءَ پہ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "نسلءَ تہ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "مچیت"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "آشانی نام"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:23.865981434Z",
+  "model": "glm-5.3"
+}

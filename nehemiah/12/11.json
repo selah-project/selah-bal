@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ یویادعءَ ⟨את⟩ یوناتان پیدا کت، ءُ یوناتانءَ ⟨את⟩ یدوع پیدا کت.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "ءُ یویادع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوناتان"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتان"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ءُ یوناتان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یدوع"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "یدوع"
+    }
+  ],
+  "timestamp": "2026-09-25T00:18:39.532736414Z",
+  "model": "glm-5.3"
+}

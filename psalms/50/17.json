@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "ءُ تو موداریءَ بےزار اَت، ءُ مءِ گالانءَ پشتءَ پرتت۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "بےزار اَت"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "موداریءَ"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ءُ پرتت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "مءِ گالان"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "پشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:52.937974411Z",
+  "model": "glm-5.3"
+}

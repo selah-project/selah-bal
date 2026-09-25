@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "چوکمئیءَ بانگ کن: تُو مءِ باجی اِتّ، ءُ فہمءَ نزیکے بانگ کن۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "بانگ کن"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "چوکمئیءَ"
+    },
+    {
+      "surface": "אחתی",
+      "gloss": "مءِ باجی"
+    },
+    {
+      "surface": "את",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ءُ نزیکے"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "فہمءَ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "بانگ کن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:23.853670771Z",
+  "model": "glm-5.3"
+}

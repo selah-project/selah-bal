@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "من چُپ اَتمن، من دہان نہ پہیل کت، پرچا کہ تُو آییءَ کت۔",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "چُپ اَتمن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "پہیل کت"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دہان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "آییءَ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:03.114854441Z",
+  "model": "glm-5.3"
+}

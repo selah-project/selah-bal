@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "دلءِ کوتاہئے والا کپءَ دست دیت ءُ وتی دوستءِ پیشءَ ضمانت بوئیت۔",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "<زمان>"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کوتاہ"
+    },
+    {
+      "surface": "لב",
+      "gloss": "دلءِ"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "کپءَ دست دیت"
+    },
+    {
+      "surface": "کف",
+      "gloss": "کپءَ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ضمانت بوئیت"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ضمانت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "רעהو",
+      "gloss": "دوستءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:44.825257017Z",
+  "model": "glm-5.3"
+}

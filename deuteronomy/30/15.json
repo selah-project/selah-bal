@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "وان! مں اِمروچ تہءِ اگوں ڈیم کت ⟨את⟩ زندگی ءُ ⟨את⟩ چنگسی، ءُ ⟨את⟩ مُرن ءُ ⟨את⟩ بَدءَ۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "وان"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مں ڈیم کت"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تہءِ اگوں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِمروچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زندگی"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "چنگسی"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چنگسی"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مُرن"
+    },
+    {
+      "surface": "המות",
+      "gloss": "مُرن"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "بَد"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بَد"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:17.875304194Z",
+  "model": "glm-5.3"
+}

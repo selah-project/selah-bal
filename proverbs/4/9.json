@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "آ تُہءِ سرءَ چنءِ لویت دیت؛ تیفارتءِ تاج تُہءَ پنا دیت.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "تُہءِ سرءَ"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "چنءِ لویت"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چن"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "תפארت",
+      "gloss": "تیفارتءِ"
+    },
+    {
+      "surface": "תמגنך",
+      "gloss": "تُہءَ پنا دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:07.491193861Z",
+  "model": "glm-5.3"
+}

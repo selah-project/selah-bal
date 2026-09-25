@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "کیا ایلوہیم اے ⟨یعنی⟩ نہ گوشیت؟ کیہ او دلءِ رازاناں زانت۔",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کیا ⟨یعنی⟩ نہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "رازاناں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:55.168891952Z",
+  "model": "glm-5.3"
+}

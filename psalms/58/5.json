@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 58,
+  "translation": "ایشانی زهر ناگءِ زهرءِ چوں اِنت، چوش یک گوڑ پتھن کہ وتی گوشءَ بند کنیت۔",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ایشانی"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "چوش … چوں"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ناگءِ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "پتھن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "گوڑ"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "بند کنیت"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "گوشءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:38.835274312Z",
+  "model": "glm-5.3"
+}

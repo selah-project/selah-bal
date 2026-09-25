@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "شفتیہءِ زہگان — سئے سد ہپتاد ءُ دو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شفتیہءِ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ہپتاد"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ءُ دو"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:43.207856620Z",
+  "model": "glm-5.3"
+}

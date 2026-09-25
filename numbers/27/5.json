@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ موشہءَ اِشانی مِشپات ⟨את⟩ یاہوہءِ دیمءَ آور کت۔",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ءُ آور کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِشانی مِشپات"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "اِشانی مِشپات"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دیمءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:42:29.385851166Z",
+  "model": "glm-5.3"
+}

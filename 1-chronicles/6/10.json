@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ ایلکاناہءِ زہگان: عمشای ءُ اَحیموت۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ … ءِ زہگان"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ایلکاناہ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "عمشای"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "ءُ اَحیموت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:39.423059985Z",
+  "model": "glm-5.3"
+}

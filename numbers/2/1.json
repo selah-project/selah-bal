@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یاہوہءَ موشہءَ ءُ اہارونءَ گوَشت کہ گوشیت۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوشیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:10.126414550Z",
+  "model": "glm-5.3"
+}

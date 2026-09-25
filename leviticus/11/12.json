@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ہر کہ آییءَ پَر ءُ گَلس نیست آپانءَ تہ — گندین چیزی اِنت آ تُمئے پہ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پَر"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ءُ گَلس"
+    },
+    {
+      "surface": "במים",
+      "gloss": "آپانءَ تہ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گندین چیز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "تُمئے پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:14:42.759776958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "دیک، تئے سوہنی اِنت، اے منءِ یار، بلے خوش ⟨اِنت⟩؛ بلے آں بسترا ساویں اِنت.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "دیک"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہنی"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "منءِ یار"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "آں بسترا"
+    },
+    {
+      "surface": "רעنנה",
+      "gloss": "ساویں"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:41.687119893Z",
+  "model": "glm-5.3"
+}

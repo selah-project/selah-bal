@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "پاک دست ءُ پاکیزہ دل، کہ آییءِ جان بے سودءَ نہ چرا کت ءُ فریبءَ نہ قسم کت۔",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "دست"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "ءُ پاکیزہ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چرا کت"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "بے سودءَ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "آییءِ جان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "قسم کت"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "فریبءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:07.041316363Z",
+  "model": "glm-5.3"
+}

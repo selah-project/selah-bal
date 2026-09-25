@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ کاہنءَ ⟨את⟩ داؤدءَ جواب دیت ءُ گوَشت: عام نان منی دستءِ تلے نیست، بلے پاک نان ہست، اگر نو جوانان فقط چہ زنان محفوظ اَنت.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ءُ جواب دیت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہنءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داؤدءَ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "חל",
+      "gloss": "عام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "منی دستءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "محفوظ اَنت"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "نو جوانان"
+    },
+    {
+      "surface": "אך",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "چہ زنان"
+    }
+  ],
+  "timestamp": "2026-09-24T20:37:27.472817723Z",
+  "model": "glm-5.3"
+}

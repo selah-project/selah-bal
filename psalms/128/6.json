@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 128,
+  "translation": "ءُ اُشکن تُئیں زہگانی زہگان؛ سلامت یسرائیلءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ءُ اُشکن"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "تُئیں زہگانی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:40.638347071Z",
+  "model": "glm-5.3"
+}

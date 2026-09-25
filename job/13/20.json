@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ہمک دو ⟨چیز⟩ نہ کَن گوں منی؛ پس من چہ تُٹی رُخءَ نہ پُٹیت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "کَن"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "گوں منی"
+    },
+    {
+      "surface": "אז",
+      "gloss": "پس"
+    },
+    {
+      "surface": "مפניך",
+      "gloss": "چہ تُٹی رُخءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "من پُٹیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:14.020946005Z",
+  "model": "glm-5.3"
+}

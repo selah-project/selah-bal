@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ ایلوہیمءَ لایہءَ گوشیت، ءُ آ بے ماں بوت، ءُ یعقوبءَ پہ یک پنچمی زہگ زائیت۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ءُ گوشیت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لایہ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ءُ بے ماں بوت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوبءَ پہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "پنچمی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:46.316192625Z",
+  "model": "glm-5.3"
+}

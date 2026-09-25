@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ہم چہ وتی کاراں نوجوانءَ پدا شناس بیت — آیا آییءِ کار پاک اِنت ءُ آیا راست.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "چہ وتی کاراں"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "پدا شناس بیت"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نوجوانءَ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "זך",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ آیا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "آییءِ کار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:55.249987566Z",
+  "model": "glm-5.3"
+}

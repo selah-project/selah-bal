@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ ناتن بازرءَ گوَشت: ساریں آ کہ دلءِ تہ اِنت، روت ءُ کن؛ کہ یاہوہ توءِ گوں اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بازر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "دلءِ تہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "توءِ گوں"
+    }
+  ],
+  "timestamp": "2026-09-24T20:43:32.816949233Z",
+  "model": "glm-5.3"
+}

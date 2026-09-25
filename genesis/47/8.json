@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "ءُ فرعون یعقوبءَ گوَشت: چن اَنت روچانی سالانی تئیں زندگیءَ؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءَ"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "چن"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سالان"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "تئیں زندگی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:47:03.435264663Z",
+  "model": "glm-5.3"
+}

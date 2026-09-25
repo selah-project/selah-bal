@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 23:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "کی کہ شراب پیتوک ءُ گوَشی شکموک کم‌بہات بیت، ءُ مِندی چیراںءَ پوشیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی کہ"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "شراب پیتوک"
+    },
+    {
+      "surface": "וזולל",
+      "gloss": "ءُ گوَشی شکموک"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "کم‌بہات بیت"
+    },
+    {
+      "surface": "וקרעים",
+      "gloss": "ءُ چیراں"
+    },
+    {
+      "surface": "תלביש",
+      "gloss": "پوشیت"
+    },
+    {
+      "surface": "נומה",
+      "gloss": "مِندی"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:08.539664760Z",
+  "model": "glm-5.3"
+}

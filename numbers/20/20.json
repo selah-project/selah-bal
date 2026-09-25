@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ آ گوَشت: پار نہ بیت۔ ءُ ایدوم گوں گیش مردم ءُ گوں زورین دست آیءِ پیشءَ در اُت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "پار بیت"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ در اُت"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ایدوم"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "آیءِ پیشءَ"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "گوں مردم"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ءُ گوں دست"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "زورین"
+    }
+  ],
+  "timestamp": "2026-09-24T19:38:57.457047229Z",
+  "model": "glm-5.3"
+}

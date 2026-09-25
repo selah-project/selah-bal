@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ اَوراہام اُستیت ءُ زمینءِ قومءَ — چیتءِ زہگانءَ — سجدہ کت،",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ءُ اُستیت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ءُ سجدہ کت"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "چیتءِ زہگانءَ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "چیت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:42.945753739Z",
+  "model": "glm-5.3"
+}

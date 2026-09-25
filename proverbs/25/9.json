@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "وتی داد گوں ⟨את⟩ وتی رفاقت والیءَ دہ، ءُ دگہی پنہانی نہ پدہ کن،",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "وتی داد"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی رفاقت والیءَ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "وتی رفاقت والی"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ءُ پنہانی"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "پدہ کن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:57.653642240Z",
+  "model": "glm-5.3"
+}

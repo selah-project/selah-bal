@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 8:9",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ گوَشت ہم چہ مردمانی پنوایل کہ میں چہ سلامتیءَ پدا رونءَ آے برجءَ ⟨את⟩ ڈہگیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "לאנשי",
+      "gloss": "چہ مردمانی"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "پنوایل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "میں پدا رونءَ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "چہ سلامتیءَ"
+    },
+    {
+      "surface": "אתץ",
+      "gloss": "ڈہگیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آے برج"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:18:24.109101162Z",
+  "model": "glm-5.3"
+}

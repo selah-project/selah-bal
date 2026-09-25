@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ موشہءَ گوَشت: ٹھیک گپ کتءِ، دگہ نہ تُہءِ دیم گندیت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ٹھیک"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "گپ کتءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہچبر"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تُہءِ دیم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:53:00.581120052Z",
+  "model": "glm-5.3"
+}

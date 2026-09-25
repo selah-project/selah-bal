@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "چنگ اِنت کہ یکے امید واریت ءُ چپ بیت پہ یاہوہءِ نجاتءَ۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "ءُ امید واریت"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "ءُ چپ بیت"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "پہ نجاتءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:47.902012933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "بد لوک چکم لوکانی پیشءَ ڈنگ اَنت، ءُ بدکار راست مردمءِ دروازانی سرءَ۔",
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "ڈنگ اَنت"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بد لوک"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چکم لوکانی"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ءُ بدکار"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازانی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راست مردمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:55.499734800Z",
+  "model": "glm-5.3"
+}

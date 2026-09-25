@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ ایوبءَ ⟨את⟩ یاہوہ جواب دات ءُ گوَشت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ءُ جواب دات"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوبءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:44:28.836275376Z",
+  "model": "glm-5.3"
+}

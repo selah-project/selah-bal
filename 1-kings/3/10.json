@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ آے گال ادونائیءِ چشمانءَ گوَن ہست، پرچا کہ شلمہ آے گال ⟨את⟩ پرسشت۔",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ءُ گوَن بوت"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "آے گال"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشمانءَ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پرسشت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلمہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آے گال"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "آے گال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آے"
+    }
+  ],
+  "timestamp": "2026-09-24T20:53:58.496606077Z",
+  "model": "glm-5.3"
+}

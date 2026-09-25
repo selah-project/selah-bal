@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ اگر نہ گوش کننت، ءُ من ⟨את⟩ اے قومءَ رنت کنان، رنت کنگ ءُ نابودگ، یاہوہءِ نئم۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "گوش کننت"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "ءُ رنت کنان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے قوم"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "اے قوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "رنت کنگ"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ءُ نابودگ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:48:40.908306914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 115,
+  "translation": "نہ ماں پہ، اے یاہوہ، نہ ماں پہ، بلکہ تیئی نامءَ بدرائی بہ، تیئی ہیسیدءِ پہ، تیئی راستیءِ پہ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماں پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماں پہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "تیئی نامءَ"
+    },
+    {
+      "surface": "תן",
+      "gloss": "بہ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "بدرائی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیئی ہیسید"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "تیئی راستی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:42.912201699Z",
+  "model": "glm-5.3"
+}

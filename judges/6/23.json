@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ یاہوہءَ آییءَ گوَشت: تہءَ سلام؛ ڈر مکن، نہ مریت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلام"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مریت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:16:33.330817004Z",
+  "model": "glm-5.3"
+}

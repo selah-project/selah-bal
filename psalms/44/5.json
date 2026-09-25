@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "تو او ئے، منی شاہ، ایلوہیم؛ یعقوبءِ نجاتاں حکم کن.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "منی شاہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کن"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "نجاتاں"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:53.927707253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ ہر جان کہ لاشہ ءُ پھاڑلگیں کپیت — اصل ءُ گَر — آییءَ آییءِ گد شست ءُ آپءَ وشیت ءُ شامءَ تَا ناپاک بیت ءُ پاک بیت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کپیت"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "لاشہ"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ءُ پھاڑلگیں"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "اصل"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "ءُ گَر"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ءُ شست"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "آییءِ گد"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ءُ وشیت"
+    },
+    {
+      "surface": "במים",
+      "gloss": "آپءَ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ءُ ناپاک بوت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تَا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شامءَ"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ءُ پاک بوت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:20:05.328372934Z",
+  "model": "glm-5.3"
+}

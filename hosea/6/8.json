@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "گلعاد، اِشرءِ کارءِ گڈی، چہ زہنگءَ لتھڑ بوتگ۔",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "گڈی"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کارءِ"
+    },
+    {
+      "surface": "און",
+      "gloss": "اِشرءِ"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "لتھڑ بوتگ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "چہ زہنگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:29:20.925491249Z",
+  "model": "glm-5.3"
+}

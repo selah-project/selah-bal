@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ یاہوہ بادالءِ ستونءَ گدانءَ تہ پدا بوت، ءُ آ بادالءِ ستون گدانءِ دروازہءِ سرءَ اوشتات",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ پدا بوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ستونءَ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بادالءِ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ءُ اوشتات"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "آ بادالءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازہءِ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "گdanءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:03:25.947456094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "چاندیءَ مالوچ پاک کن، ءُ رِشٹگرءَ پہ اوزار روت بیت.",
+  "tokens": [
+    {
+      "surface": "הָג֣וֹ",
+      "gloss": "پاک کن"
+    },
+    {
+      "surface": "סִיגִ֣ים",
+      "gloss": "مالوچ"
+    },
+    {
+      "surface": "מִכָּ֑סֶף",
+      "gloss": "چاندیءَ"
+    },
+    {
+      "surface": "וַיֵּצֵ֖א",
+      "gloss": "ءُ روت بیت"
+    },
+    {
+      "surface": "לַצֹּרֵ֣ף",
+      "gloss": "رِشٹگرءَ پہ"
+    },
+    {
+      "surface": "כֶּֽלִי",
+      "gloss": "اوزار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:18.813290407Z",
+  "model": "glm-5.3"
+}

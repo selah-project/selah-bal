@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "بیوہ ءُ بیگانہءَ مارنت ءُ یتیمانءَ قتل کننت۔",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوہ"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "ءُ بیگانہ"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "مارنت"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ءُ یتیمان"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "قتل کننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:46.195442442Z",
+  "model": "glm-5.3"
+}

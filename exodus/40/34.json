@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ بدل ⟨את⟩ ملاقاتءِ گدانءَ ڈپت، ءُ یاہوہءِ شکوہوم مِشکانءَ پُور کت۔",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "ءُ ڈپت"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملاقاتءِ گدان"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ءُ شکوہوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پُور کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِشکان"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مِشکانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:15.913636620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "بشیرءَ نہ څښنت شراب، تلوون بیت متہ پہ آیانی کہ آیءَ څښنت.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "بشیرءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "څښنت"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "تلوون بیت"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "متہ"
+    },
+    {
+      "surface": "לשתיو",
+      "gloss": "پہ څشوکانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:10.505837491Z",
+  "model": "glm-5.3"
+}

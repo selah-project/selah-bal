@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ یاہوہءَ یحزقیاہوءَ گوش کت ءُ ⟨את⟩ قومءَ چنگ کت۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ءُ گوش کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "یحزقیاہوءَ"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ءُ چنگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:45:29.573662471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "چہ مردمی منہءِ میوءَ سیر بیت چہ خوبی، ءُ مردمانی دستانی بدلہ آییءَ وس پدا روت۔",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "چہ میوءَ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہءِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردمی"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "سیر بیت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوبی"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "ءُ بدلہ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پدا روت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ وس"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:28.133285389Z",
+  "model": "glm-5.3"
+}

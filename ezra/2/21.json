@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "بیت‌لحِمی زہگان، سد ءُ بیست ءُ سئے.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت‌لحِم"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "بیت‌لحِم"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ءُ سئے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:05:47.151286219Z",
+  "model": "glm-5.3"
+}

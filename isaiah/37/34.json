@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "آ راہءَ تہ کہ آ آییءَ تہ آیتگ اِنت، آ پدا لوت، ءُ پہ اے شارءَ تہ نہ آئیت — یاہوہءِ اعلان.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "آ راہءَ تہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیتگ اِنت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پدا لوت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئیت"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:32:36.059124793Z",
+  "model": "glm-5.3"
+}

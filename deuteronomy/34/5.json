@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ موشہ یاہوہءِ بندہ اُدا مُوآبءِ زمینءَ مریت، یاہوہءِ دہنءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مریت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُدا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآبءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دہنءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:50.314317691Z",
+  "model": "glm-5.3"
+}

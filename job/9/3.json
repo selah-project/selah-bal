@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "اگر آ ⟨راندئیءَ⟩ گوں آییءَ داریءَ، آ یک چہ ہزارءَ آییءَ جواب نہ دیت ⟨انسان⟩۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "⟨راندئیءَ⟩"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "پہ داریءَ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں آییءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "جواب دیت"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מני",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:04.514009941Z",
+  "model": "glm-5.3"
+}

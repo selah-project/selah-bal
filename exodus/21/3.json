@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "اگوں وتی تن درآیت، اگوں وتی تن درکپیت؛ اگر زالءِ شون ⟨اِنت⟩، ءُ آییءِ زال گوں آ درکپیت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "اگوں وتی تن"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "درآیت"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "اگوں وتی تن"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "درکپیت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "شون"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ءُ درکپیت"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "آییءِ زال"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں آ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:45.023183131Z",
+  "model": "glm-5.3"
+}

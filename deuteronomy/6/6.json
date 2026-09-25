@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ اے گالان کہ مں امروز توءَ فرمان داریں، تہ وتءِ دلءَ بنت.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ءُ بنت"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "اے گالان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "توءَ فرمان داریں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "امروز"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ … ءَ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "وتءِ دل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:45.991456996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ اگر یک زور کیت، دو آییءِ روبرا اِستنت؛ ءُ سئے‌گونءِ چڑیک نہ سوکئیءَ چیر بیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "زور کنت"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ہשנیم",
+      "gloss": "دو"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "اِستنت"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "آییءِ روبرا"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "ءُ چڑیک"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "سئے‌گونءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "سوکئیءَ"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "چیر بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:58.440934140Z",
+  "model": "glm-5.3"
+}

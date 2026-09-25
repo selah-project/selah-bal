@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ ⟨את⟩ آییءِ نامءَ یوسف گوَشت، گوں آ کہ: یاہوہ مءَ پہ دگہ زہگ مزن دیت۔",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ نام"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نامءَ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوں آ کہ"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "مزن دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مءَ پہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:37:07.248037609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "چہ دروگءِ گالءَ دوں مان؛ ءُ پاک ءُ راستءَ مار نہ کن، پرچا کہ من بدءَ راست نہ کنان۔",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "چہ گالءَ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروگءِ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دوں مان"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "ءُ پاک"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ءُ راستءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "مار کن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "راست کنان"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:17.440967700Z",
+  "model": "glm-5.3"
+}

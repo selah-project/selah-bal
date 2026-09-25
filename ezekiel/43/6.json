@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "ءُ منی گوش کتگ یکے کہ چہ گڈءَ گوں من گپ جنت، ءُ یک مرد منی نزدیک ایشتگ اَت.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ءُ منی گوش کتگ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "گپ کنوک"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "گوں من"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "چہ گڈءَ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ یک مرد"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ایشتگ"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "منی نزدیک"
+    }
+  ],
+  "timestamp": "2026-09-25T01:05:18.719495852Z",
+  "model": "glm-5.3"
+}

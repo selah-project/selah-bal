@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ کاہنِ ماشیاح چہ گوںءِ خونءَ گرت ءُ ⟨את⟩ آییءَ ملاقاتءِ گدانءَ آورت۔",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ءُ گرت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ماشیاح"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "چہ خونءَ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گوںءِ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ءُ آورت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "خون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقاتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:50.852276036Z",
+  "model": "glm-5.3"
+}

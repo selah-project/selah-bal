@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "اے روچءَ آیءَ جواب دیت: اک گوَڑیں مزریں گدان!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اے روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "مزریں گدان"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "گوَڑیں"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "جواب دیت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:09.999753242Z",
+  "model": "glm-5.3"
+}

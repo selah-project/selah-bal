@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "اے اِنت آ نسلءِ کہ آیانی پُچشت کتگ، آیان کہ تُئے رُخ ئے گشنت — یعقوب۔ سیلاہ",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "آیانی پُچشت کتگ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "آیان کہ ئے گشنت"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تُئے رُخ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سیلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:53:08.042842217Z",
+  "model": "glm-5.3"
+}

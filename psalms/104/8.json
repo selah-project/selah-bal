@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "ہرمان روچ کپنت، وادیان دات کپنت — اُتے جاگہءَ کہ تُءے آیانی پہ بنیاد کتگ۔",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "روچ کپنت"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ہرمان"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "دات کپنت"
+    },
+    {
+      "surface": "בקעوت",
+      "gloss": "وادیان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائن"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہءَ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "بنیاد کت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آیانی پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:58.969093767Z",
+  "model": "glm-5.3"
+}

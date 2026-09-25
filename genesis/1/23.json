@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ شپ بوت ءُ تہاری بوت — پنجمی روچ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "تہاری"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "پنجمی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:15.050279445Z",
+  "model": "glm-5.3"
+}

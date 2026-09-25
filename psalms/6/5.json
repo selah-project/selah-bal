@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "شُوء اے یاہوہ، مں جان چِل، منا پہ تُئے ہیسیدءِ گٹار.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "شُوء"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "چِل"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "مں جان"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "منا گٹار"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تُئے ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:02.862102583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ آیيءِ رنداں ⟨את⟩ اسرائیلءَ ابصان داوری کت، چہ بیت لحمءَ.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ءُ داوری کت"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "آیيءِ رنداں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائیلءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءَ"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ابصان"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "بیت لحمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:20:56.153068547Z",
+  "model": "glm-5.3"
+}

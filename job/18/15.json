@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 18:15",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "درگشت آییءِ گدانءَ وسایت — کہ آ کہ آییءِ نہ اِنت — ءُ گوگرت آییءِ مانگہءِ سرءَ پچیت.",
+  "tokens": [
+    {
+      "surface": "תשכון",
+      "gloss": "وسایت"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "گadanءَ"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ"
+    },
+    {
+      "surface": "יזרה",
+      "gloss": "پچیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "آییءِ مانگہ"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "گوگرت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:46.920913161Z",
+  "model": "glm-5.3"
+}

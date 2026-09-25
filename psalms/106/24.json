@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "ءُ آیان خوشبوں زمینءَ رد کت، آییءِ گالءَ یقین نہ کتنت.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "ءُ آیان … رد کت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "חמدה",
+      "gloss": "خوشبوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "یقین کتنت"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "آییءِ گالءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:12.160909061Z",
+  "model": "glm-5.3"
+}

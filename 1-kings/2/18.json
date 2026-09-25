@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ بت شِبعءَ گوَشت: «ٹھیک اِنت، من تُئے پہ شاہءَ گوش گپ کنتاں.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ بت شِبعءَ گوَشت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبعءَ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ٹھیک اِنت"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "گپ کنتاں"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تُئے پہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:54:46.872262807Z",
+  "model": "glm-5.3"
+}

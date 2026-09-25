@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یاہوہ ایلوہیمءَ آدمءَ گوں حکم گوَشت: گلستانءِ ہر دارءَ چہ یکے باز بیت کہ بگواریت۔",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حکم دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ ایلوہیمءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ہر چہ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دارءَ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "گلستانءِ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "بگواریت"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "باز بیت بگواریت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:26.061981453Z",
+  "model": "glm-5.3"
+}

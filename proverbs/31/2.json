@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "چِے، مہءِ زہگ؟ ءُ چِے، مہءِ پیٹءِ زہگ؟ ءُ چِے، مہءِ نذرانی زہگ؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چِے"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "مہءِ زہگ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چِے"
+    },
+    {
+      "surface": "בר",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "مہءِ پیٹءِ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چِے"
+    },
+    {
+      "surface": "בר",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "נדרی",
+      "gloss": "مہءِ نذرانی"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:21.339556053Z",
+  "model": "glm-5.3"
+}

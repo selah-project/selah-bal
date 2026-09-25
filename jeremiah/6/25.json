@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "دگاریءَ نہ گوء ءُ راہءَ نہ رو، چونکہ دشمنءِ پہ تلوار ⟨اِنت⟩، ڈر چاروپٹ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "گوء"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "دگاریءَ"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ءُ راہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "رو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "دشمنءِ"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "چاروپٹ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:44:53.466377372Z",
+  "model": "glm-5.3"
+}

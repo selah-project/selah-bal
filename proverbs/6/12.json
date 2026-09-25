@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "مردے بے‌ارزش، مردے بدکار — روت گوں تُرڑیں دہن",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "مردے"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بے‌ارزش"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردے"
+    },
+    {
+      "surface": "און",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "تُرڑیں"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دہن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:21.902314396Z",
+  "model": "glm-5.3"
+}

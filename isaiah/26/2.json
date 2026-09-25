@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "دروازہانءَ کھولیت، ءُ یک راستی قوم کہ وفا ءَ پالیت درا بیت.",
+  "tokens": [
+    {
+      "surface": "پתחו",
+      "gloss": "کھولیت"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازہانءَ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ درا بیت"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "پالیت"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "وفا ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:28:24.221852663Z",
+  "model": "glm-5.3"
+}

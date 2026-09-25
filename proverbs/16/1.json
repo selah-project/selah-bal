@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "مردمءِ دلءِ ترتیبان اَنت، ءُ چہ یاہوہءَ زبانءِ جواب اِنت۔",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "مردمءِ"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "ترتیبان"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءِ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ءُ چہ یاہوہءَ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "جواب"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:46.088710910Z",
+  "model": "glm-5.3"
+}

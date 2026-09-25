@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ شا آءَ گوَشت: چه تاءَ اِنت، اے اَستَر ملکہ؟ ءُ چه تءِ پرسش اِنت؟ تا شاہیءِ درگءَ — ءُ تاءَ دیت بیت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تاءَ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اَستَر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملکہ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چه"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "تءِ پرسش"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "درگ"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "شاہیءِ"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "ءُ دیت بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تاءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:26.651940465Z",
+  "model": "glm-5.3"
+}

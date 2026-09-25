@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ یاہوہءَ اسرائیلءَ تہ دٻر دات، ءُ چہ اسرائیلءَ ہفتاد ہزار مرد ڈگتگ۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دٻر"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائیلءَ تہ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ءُ ڈگت"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "چہ اسرائیلءَ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ہفتاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    }
+  ],
+  "timestamp": "2026-09-25T00:29:55.526688691Z",
+  "model": "glm-5.3"
+}

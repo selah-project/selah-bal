@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ اے بوت کہ رند چہ شاؤلءِ مرت، داؤد چہ ⟨את⟩ عمالیقءِ مارنگءَ پدا لُٹت، ءُ داؤد دو روچ تہ صقلگ اَت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اے بوت"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "رند چہ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ءُ داؤد"
+    },
+    {
+      "surface": "שב",
+      "gloss": "پدا لُٹت"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "چہ مارنگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عملیق"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "عملیق"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "تہ صقلگ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    }
+  ],
+  "timestamp": "2026-09-24T20:41:33.371853571Z",
+  "model": "glm-5.3"
+}

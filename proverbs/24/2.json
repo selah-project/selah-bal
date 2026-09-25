@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "کی تباہی ءَ اشانیں دل سرزنت، ءُ رنج اشانیں لبیں گوَشنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "שד",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "سرزنت"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "اشانیں دل"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ءُ رنج"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "اشانیں لبیں"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "گوَشنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:45.818050498Z",
+  "model": "glm-5.3"
+}

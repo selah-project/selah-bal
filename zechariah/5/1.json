@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "من پدا شتم، ءُ چمءَ اُشٹتنت، ءُ گندیت — ءُ اے شا کہ یک اوشتگیں لوٹ۔",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "ءُ پدا شتم"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ءُ اُشٹتنت"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چمءَ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ءُ اے شا"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "لوٹ"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "اوشتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:48.888157656Z",
+  "model": "glm-5.3"
+}

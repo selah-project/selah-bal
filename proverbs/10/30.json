@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "راستکار پہ ہمیشہ ہچ نہ لرزیت، ءُ بدکار زمینءَ نہ ماننت۔",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "راستکار"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ہچ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "نہ لرزیت"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ءُ بدکار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ماننت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:47.997934377Z",
+  "model": "glm-5.3"
+}

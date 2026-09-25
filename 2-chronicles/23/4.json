@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 23:4",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "اے اِنت گال کہ اے کار کنیں: سئیم حصہ چہ شمی، چہ شباتءِ رونکے کہان ءُ لویان، اگلءِ دروازانی بنت۔",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کار کنیں"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "سئیم حصہ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "چہ شمی"
+    },
+    {
+      "surface": "באי",
+      "gloss": "رونکے"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شباتءِ"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "کہانانی"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "ءُ لویانانی"
+    },
+    {
+      "surface": "לשערי",
+      "gloss": "دروازانی"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "اگلءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:41:30.342058859Z",
+  "model": "glm-5.3"
+}

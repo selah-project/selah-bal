@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 91,
+  "translation": "بیٹھوک تہ بلندترینءِ پنهائی، ایل شدّایءِ سایہءَ شپ مانیت",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "بیٹھوک"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "تہ پنهائی"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "بلندترینءِ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "تہ سایہءَ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ایل شدّایءِ"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "شپ مانیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:53.432221299Z",
+  "model": "glm-5.3"
+}

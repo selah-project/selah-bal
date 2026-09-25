@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ہر نرینہ چہ کاهنان آییءَ ⟨את⟩ گوشتائیت — آ پاکیں پاک اِنت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نرینہ"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "چہ کاهنان"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "گوشتائیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "قربانی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاکیں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:00.154178707Z",
+  "model": "glm-5.3"
+}

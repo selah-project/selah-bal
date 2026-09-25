@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "دانایانی گالان آسودگیءَ گوشیت بنت، گیشتر چہ حاکمءِ بانگ نادانانی میانءَ۔",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانایانی"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "آسودگیءَ"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "گوشیت بنت"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "چہ بانگءَ گیشتر"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "حاکمءِ"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "نادانانی میانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:58.763617075Z",
+  "model": "glm-5.3"
+}

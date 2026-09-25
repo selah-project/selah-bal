@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ یاہوہءَ منءَ گوَشت: پہ اے قومءِ بھلائیءَ دعا نہ مکن۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "دعا مکن"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "بھلائیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:37.555613343Z",
+  "model": "glm-5.3"
+}

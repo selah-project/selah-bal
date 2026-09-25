@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "ءُ اَچان زندگ بیت پہ ہمیشہ، گورءِ گڈا نہ گندیت۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ءُ زندگ بیت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اَچان"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "گورءِ گڈا"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:31.411218945Z",
+  "model": "glm-5.3"
+}

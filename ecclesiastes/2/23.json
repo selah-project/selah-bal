@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "چہ آ کہ آییءِ گش روچ درد اَنت ءُ آییءِ کار غصہ؛ ہم ماں شپءَ آییءِ دل دراز نہ کشیت — آے ہم بھپار اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ آ کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "آییءِ روچ"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "درد"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ءُ غصہ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "آییءِ کار"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ماں شپءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "دراز کشیت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "آییءِ دل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "آے"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بھپار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:31.649068302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اَدُنیکامءِ زہگان، شش سد ششٹھ ءُ شش۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "اَدُنیکامءِ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ششٹھ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ءُ شش"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:26.697959885Z",
+  "model": "glm-5.3"
+}

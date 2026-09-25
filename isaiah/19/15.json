@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ مِتسرایمءَ پہ ہچ کار نہ بیت، کہ سر یا دُم، دُمّیں پَتّا یا لَسّی، آ کار کنت۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "لמצרים",
+      "gloss": "مِتسرایمءَ پہ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "یا دُم"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "دُمّیں پَتّا"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "یا لَسّی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:26:33.411239433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ شموئیل قومءَ ⟨את⟩ یاہوہءَ لب مِتسپہءَ بانگ کت.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "مِتسپہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:29:32.782020416Z",
+  "model": "glm-5.3"
+}

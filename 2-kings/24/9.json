@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ آ یاہوہءِ چشمانءَ کَت کت، چوش مُش آ کہ آئیءِ پِت کت اَت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کَت کت"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "کَت"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "یاہوہءِ چشمانءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "چوش مُش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت اَت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "آئیءِ پِت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:20:20.447157510Z",
+  "model": "glm-5.3"
+}

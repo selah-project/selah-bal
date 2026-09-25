@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ہر کس کہ ملت بیت نشابر بیت، ءُ ہر کس کہ گشیت بیت تیغءَ ڈگنت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر کس"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "کہ ملت بیت"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "نشابر بیت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر کس"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "کہ گشیت بیت"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈگنت"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تیغءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:21.589001783Z",
+  "model": "glm-5.3"
+}

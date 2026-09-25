@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "تعلیمءَ گوش کنیت ءُ دانا بیت، ءُ آییءَ نہ رد کنیت۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوش کنیت"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعلیمءَ"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "ءُ دانا بیت"
+    },
+    {
+      "surface": "وאל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "رد کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:57.464127009Z",
+  "model": "glm-5.3"
+}

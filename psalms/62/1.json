@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 62,
+  "translation": "پہ رہبرءَ، مند یَدوتُنءَ — سرودے، داودءِ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہبرءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "مند"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "یَدوتُن"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "سرودے"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:33.002933363Z",
+  "model": "glm-5.3"
+}

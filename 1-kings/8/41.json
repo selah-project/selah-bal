@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 8:41",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ مزن اے بیگانہ، کہ آ چہ تُءِ قوم اِسرائیل نہ اِنت، ءُ چہ دورءِ زمینءَ تُءِ نامءِ پہ آیت،",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ مزن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "بیگانہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "چہ تُءِ قوم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ءُ آیت"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "چہ زمین"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "دور"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تُءِ نام"
+    }
+  ],
+  "timestamp": "2026-09-24T20:59:43.433121174Z",
+  "model": "glm-5.3"
+}

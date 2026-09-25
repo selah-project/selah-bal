@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ⟨את⟩ بیت لحیم ءُ ⟨את⟩ عیتام ءُ ⟨את⟩ تِقوع جوڑ کت،",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ءُ جوڑ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیت لحیم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "عیتام"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عیتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "تِقوع"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تِقوع"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:34.187659751Z",
+  "model": "glm-5.3"
+}

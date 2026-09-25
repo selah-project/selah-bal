@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ آیءَ گدانءِ پیشی چار ستون جوڑ کت — درازی سئے ءُ پنچ گز — ءُ سجاوٹی کہ اِشانی سرانءِ سرءَ اِنت، پنچ گز اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ آیءَ جوڑ کت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشی"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "گز"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ءُ پنچ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درازی"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "ءُ سجاوٹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اِشانی سرانءِ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "پنچ گز"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنچ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:33:41.349996689Z",
+  "model": "glm-5.3"
+}

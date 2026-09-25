@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "راستیءِ رستہءَ زندگی اِنت، ءُ آییءِ راہءِ رستہءَ ہچ مرگ نہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "رستہءَ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستیءِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ءُ راہ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "رستہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:25.673079442Z",
+  "model": "glm-5.3"
+}

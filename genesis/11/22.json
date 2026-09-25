@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ سروج سئے سال زندگی کت، ءُ ⟨את⟩ نحورءَ پیدا کت.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ءُ زندگی کت"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سروج"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نحورءَ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "نحور"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:00.656228919Z",
+  "model": "glm-5.3"
+}

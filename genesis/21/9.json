@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ سارہءَ ⟨את⟩ زہگِ ہاگارءِ مہانسر کہ آ اَوراہامءَ زائگ، ہانس دات گوَشت.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زہگ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ہاگارءِ"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "مہانسر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زائگ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "اَوراہامءَ"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "ہانس دات"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:09.894781479Z",
+  "model": "glm-5.3"
+}

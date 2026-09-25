@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ بَلَق بِلعامءَ گوَشت: ہم نہ لعنت کن آءَ، ہم نہ برکت بئ آءَ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعامءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "קב",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "کن آءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "بئ آءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:39:59.957184224Z",
+  "model": "glm-5.3"
+}

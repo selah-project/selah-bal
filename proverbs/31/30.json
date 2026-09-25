@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "بزار دروغ اِنت ءُ شوہ زیبائی؛ جنک کہ یاہوہءَ ڈارد، آءِ ستائش بیت",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "החן",
+      "gloss": "بزار"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ءُ شوہ"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "زیبائیءِ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ڈارد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آءِ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ستائش بیت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:11:30.184059949Z",
+  "model": "glm-5.3"
+}

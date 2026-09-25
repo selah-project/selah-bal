@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یوسفءِ خانہ، آ ہم، بیت ایلءِ سرءَ رُت، ءُ یاہوہ آیانءِ گوں اَت.",
+  "tokens": [
+    {
+      "surface": "ויעלو",
+      "gloss": "ءُ رُت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسفءِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "آیانءِ گوں اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:13:23.822344295Z",
+  "model": "glm-5.3"
+}

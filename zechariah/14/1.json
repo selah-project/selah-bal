@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ہان، یک روچ یاہوہءَ پہ روُت، ءُ تُءِ شال تُءِ ماں ونڈ بیت۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ہان"
+    },
+    {
+      "surface": "יום",
+      "gloss": "یک روچ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "روُت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ پہ"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "ءُ ونڈ بیت"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "تُءِ شال"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تُءِ ماں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:15.334123173Z",
+  "model": "glm-5.3"
+}

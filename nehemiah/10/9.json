@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "مَعزیہ، بِلگائی، شِمیہ — اے کاہنان اِنت۔",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "مَعزیہ"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "بِلگائی"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِمیہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:18:10.812230664Z",
+  "model": "glm-5.3"
+}

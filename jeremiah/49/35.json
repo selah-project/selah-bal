@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "اے چوش گوَشت یاہوہ سباؤت: بچار، من ⟨את⟩ ایلامءِ کمان شکناں، آشانی زورءِ بنگیج۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اے چوش"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "بچار"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکناں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلامءِ کمان"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ایلامءِ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "بنگیج"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "آشانی زورءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:05:57.606189869Z",
+  "model": "glm-5.3"
+}

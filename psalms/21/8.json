@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "پہ آ شاہ یاہوہءَ تہ اِتبار کنیت، ءُ گوں اَعلٰیءِ ہسیدءَ ہچبر لنگیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پہ آ"
+    },
+    {
+      "surface": "המلך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "اِتبار کنیت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "تہ یاہوہءَ"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ءُ تہ ہسیدءَ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "اَعلٰیءِ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ہچبر"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "لنگیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:49.132725890Z",
+  "model": "glm-5.3"
+}

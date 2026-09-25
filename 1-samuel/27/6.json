@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ اکیش آییءَ اے روچءَ ⟨את⟩ صقلگ دات؛ پہ اے سبب صقلگ یہودہءِ شاہانءَ بوتءَ اے روچءَ ئی。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "אכישׁ",
+      "gloss": "اکیش"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اے روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صقلگ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "صقلگ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "پہ اے سبب"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوتءَ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "صقلگ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "شاہانءَ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اے روچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:38:35.106339704Z",
+  "model": "glm-5.3"
+}

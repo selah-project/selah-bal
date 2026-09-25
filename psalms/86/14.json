@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 86,
+  "translation": "اے ایلوہیم، زھمکار منءِ سرءَ اُستنت، ءُ زور warmed ٹولی منءِ نپشءَ گشت، ءُ تو ءُ نہ اِشاںءِ پیشءَ گرپت۔",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "زھمکار"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "اُستنت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منءِ سرءَ"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "ءُ ٹولی"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "زور warmed"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "گشت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منءِ نپشءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "ایشاںءِ پیشءَ گرپت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:27.224101136Z",
+  "model": "glm-5.3"
+}

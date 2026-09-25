@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "پرچا کہ اے نعمتءِ ہار اِنت سرءَ تئو، ءُ گلوبند گردنءَ تئو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "ہار"
+    },
+    {
+      "surface": "חן",
+      "gloss": "نعمتءِ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اے اِنت"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "سرءَ تئو"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "ءُ گلوبند"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "گردنءَ تئو"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:28.203853378Z",
+  "model": "glm-5.3"
+}

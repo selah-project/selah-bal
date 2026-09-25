@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "کیچہ شمائی چشمان گوں ⟨את⟩ گش یاہوہءِ گوں کار گندیتگ انت کہ کت،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "شمائی چشمان"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "گندیتگ انت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گش کار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:02.223244036Z",
+  "model": "glm-5.3"
+}

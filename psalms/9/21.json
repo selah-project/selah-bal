@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "اے یاہوہ، آیانی سرءَ ڈر گن، کہ قومان آیانی زانت کہ اِشان مردم فانی اَنت. سیلہ",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "گن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آیانی سرءَ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "آیانی زانت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مردم فانی"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِشان"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سیلہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:21.179565505Z",
+  "model": "glm-5.3"
+}

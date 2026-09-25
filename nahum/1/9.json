@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 1:9",
+  "book": "nahum",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "چہ شماں پہ یاہوہءِ سرءَ سوچنت؟ آ پوریں رِشت کنیت؛ تنگی دو رند اُٹھ نہ بیت.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "תחשבון",
+      "gloss": "شماں سوچنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ سرءَ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "پوریں رِشت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "اُٹھ بیت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "دو رند"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:39:31.842214331Z",
+  "model": "glm-5.3"
+}

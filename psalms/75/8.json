@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 75,
+  "translation": "کی ایلوہیم داور ⟨اِنت⟩: اےءَ جہل کنت ءُ اےءَ اُچ کنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "داور"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اےءَ"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "جہل کنت"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ءُ اےءَ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "اُچ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:56.246949939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 19:3",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "اے دہ رند شما مچے رِشواریت ءُ شرم نہ کنیت کہ مچے تہاری کنیت.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "رند"
+    },
+    {
+      "surface": "תכלימוני",
+      "gloss": "رِشواریت مچے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "شرم کنیت"
+    },
+    {
+      "surface": "תהכרו",
+      "gloss": "تہاری کنیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مچے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:37:22.009867825Z",
+  "model": "glm-5.3"
+}

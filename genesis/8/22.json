@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "تا زمینءِ ہمگ روچان، کشت ءُ درو، سردی ءُ تپش، گرما ءُ زامِست، روچ ءُ شپ — رائے نہ گنت.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچانءِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "کشت"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "ءُ درو"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "سردی"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ءُ تپش"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "گرما"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "ءُ زامِست"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ءُ شپ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "رائے گنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:10.614570611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "اے یاہوہءِ شمشیر، ہو! چققد آرام نہ کنی؟ پدا جَم کن، لِداںءَ تہ گوَڑ — آرام کن ءُ چپ بے۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہو!"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "چققد"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "چققد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "آرام کنی"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "پدا جَم کن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ءَ تہ"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "لِداں"
+    },
+    {
+      "surface": "הרגעی",
+      "gloss": "آرام کن"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "ءُ چپ بے"
+    }
+  ],
+  "timestamp": "2026-09-24T22:02:06.541539827Z",
+  "model": "glm-5.3"
+}

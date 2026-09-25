@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "سستءِ آرزو آییءَ کشیت، پرچا کہ آییءِ دستان کار کرنءَ منیت اَنت۔",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "آرزو"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سستءِ"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "آییءَ کشیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "منیت اَنت"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "آییءِ دستان"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کار کرنءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:04.974182524Z",
+  "model": "glm-5.3"
+}

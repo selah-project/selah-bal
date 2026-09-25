@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "یک کمبخت مرد کہ کمبختاناں پش کیت، چوش یک تیزئین باران کہ چُنت ءُ نیست نان۔",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "רש",
+      "gloss": "کمبخت"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "ءُ پش کیت"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "کمبختاناں"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "باران"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "کہ چُنت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:39.446448741Z",
+  "model": "glm-5.3"
+}

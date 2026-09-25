@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ یاہوہءَ اُو روچءَ چم ءُ زہر گشت، ءُ سوگند گوَشت کہءَ،",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ءُ چم گشت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُو روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُو"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ءُ سوگند گوَشت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:43:41.492231759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 16:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "راستاںءِ سڑک چہ بُرائی گوَڑ بیت؛ آ کہ وتئے جانءَ شار بیت، وتئے رستہءَ بچاریت۔",
+  "tokens": [
+    {
+      "surface": "מסלת",
+      "gloss": "سڑک"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "راستاںءِ"
+    },
+    {
+      "surface": "סור",
+      "gloss": "گوَڑ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "چہ بُرائی"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "شار بیت"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "وتئے جانءَ"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "بچاریت"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "وتئے رستہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:46.014407752Z",
+  "model": "glm-5.3"
+}

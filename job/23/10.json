@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "پرچا کہ آ منی راہ زانیت؛ چوش زرءِ چوں آ ماءَ آزمایت، من چوش زر در کیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانیت"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "منی"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ماءَ آزمایت"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "چوش زر"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "در کیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:38:25.970074366Z",
+  "model": "glm-5.3"
+}

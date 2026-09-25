@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "اگر یاہوہءِ مدد منءَ نہ اوشتی، یک کمتت کہ منءِ جان تہ ماچیءَ مانیت.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "اگر نہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "یک کمتت کہ"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "مانیت"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "تہ ماچیءَ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منءِ جان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:20.794891189Z",
+  "model": "glm-5.3"
+}

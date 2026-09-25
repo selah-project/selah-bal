@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ یاہوہ ⟨את⟩ یہوشہءَ گوں اَت؛ ءُ آییءِ شہرت کل زمینءَ اَت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ گوں",
+      "marks": "یہوشہ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشہ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "شہرت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T20:06:05.238592426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ہر مالءِ شکل کہ زمینءَ اِنت، ہر پرءِ مرگءِ شکل کہ آسمانءَ اُڑیت،",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "مرگ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پرءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "اُڑیت"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:49:39.372957620Z",
+  "model": "glm-5.3"
+}

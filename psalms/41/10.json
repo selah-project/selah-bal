@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "ہم منی رامجنی مرد، کہ ماں آییءَ اعتماد کت، منی نانءِ خوار، منی سرءَ آییءِ ایڑی بلند کت۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "منی رامجنی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ماں اعتماد کت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "خوار"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "منی نانءِ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "بلند کت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرءَ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ایڑی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:11.770825475Z",
+  "model": "glm-5.3"
+}

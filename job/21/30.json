@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 21:30",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "کی بدءَ پہ آفتءِ روچءَ بچال بیت، ءُ پہ غصہءِ روچءَ در بیت بنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "پہ روچ"
+    },
+    {
+      "surface": "איד",
+      "gloss": "آفت"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "بچال بیت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "پہ روچ"
+    },
+    {
+      "surface": "עברות",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יובלו",
+      "gloss": "در بیت بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:38:58.289899236Z",
+  "model": "glm-5.3"
+}

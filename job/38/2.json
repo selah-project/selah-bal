@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "کے اے ⟨اِنت⟩ کہ مشورتءَ بے زانگیں لبزانءَ اندھار کنت؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "اندھار کنت"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورتءَ"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "لبزانءَ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:44:41.310795169Z",
+  "model": "glm-5.3"
+}

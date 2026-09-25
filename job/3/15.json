@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 3:15",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "یا گوں سرداران کہ اشتی زر اَت، کہ پُر کننت اِشانی گدان سیمءَ۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سرداران"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشتی"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "پُر کننت"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "اِشانی گدان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سیم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:31.321800705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 136,
+  "translation": "ءُ عوگءَ، باشانی شاهءَ، پرچا کہ پہ ہمیشہ آییءِ ہیسید اِنت.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "ءُ عوگءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاه"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "لעולם",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:30.145333644Z",
+  "model": "glm-5.3"
+}

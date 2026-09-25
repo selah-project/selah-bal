@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ روت داود ءُ پوریں یسرائیل یروشلمءَ — آ یبوس اِنت — ءُ اُودا یبوسئے، زمینءِ رہندوک، اَنت",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ پوریں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلمءَ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ اِنت"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "یبوس"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ءُ اُودا"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "یبوسئے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رہندوک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:25:47.815690174Z",
+  "model": "glm-5.3"
+}

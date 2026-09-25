@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "بلے گدانءِ میانءِ دارءِ میوہءَ ایلوہیم گوَشتگ: چہ آیی نہ گوشیں ءُ نہ آییءَ دست لڳیں، کہ نہ مریں.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "بلے چہ میوہ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دارءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "میانءِ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشتگ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "گوشیں"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "چہ آیی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "دست لڳیں"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "مریں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:21.606038549Z",
+  "model": "glm-5.3"
+}

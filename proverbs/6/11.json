@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ تہءِ غریبی چوش راہ‌روءَ آیت، ءُ تہءِ کمی چوش زرہ‌پوشے",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ءُ آیت"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "چوش راہ‌روءَ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "تہءِ غریبی"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "ءُ تہءِ کمی"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "چوش زرہ‌پوشے"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "زرہ‌پوش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:21.902010422Z",
+  "model": "glm-5.3"
+}

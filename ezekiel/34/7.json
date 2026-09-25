@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "پہ اے سبہءَ، اے چوپانان، یاہوہءِ گال ⟨את⟩ گوشیت.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "پہ اے سبہءَ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "اے چوپانان"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوہ کا لفظ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:21:42.856897314Z",
+  "model": "glm-5.3"
+}

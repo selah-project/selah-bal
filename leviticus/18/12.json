@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "توءِ پتءِ گڈءِ ننگءِ پردہ نہ گوشیت — آ توءِ پتءِ گوشت ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "گڈ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "توءِ پت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "پردہ گوشیت"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "توءِ پتءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ ⟨اِنت⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:03.941434535Z",
+  "model": "glm-5.3"
+}

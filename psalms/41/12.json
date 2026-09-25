@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "ایں پہ من زانتگمں کہ تو منی سرا خوش اَتءے، چو کہ منی دشمن منی سرءَ بانگ نہ زنت۔",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ایں پہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "من زانتگمں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "خوش اَتءے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منی سرا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چو کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "بانگ زنت"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "منی دشمن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:11.771064142Z",
+  "model": "glm-5.3"
+}

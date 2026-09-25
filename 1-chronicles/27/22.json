@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "پہ دانءَ عَزرایِل یَروحامءِ زہگ۔ اے اِسرائیلءِ ٹولیانی سران اِنت۔",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "پہ دانءَ"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "عَزرایِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یَروحامءِ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سران"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ٹولیانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:15:21.636162954Z",
+  "model": "glm-5.3"
+}

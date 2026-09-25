@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "آییءَ گوں منی زہنگ من بانگ کت، ءُ آ منی زبانءِ تہءَ بلند بوت۔",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منی زہنگ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "بانگ کت"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "ءُ بلند بوت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "منی زبان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:24.822823242Z",
+  "model": "glm-5.3"
+}

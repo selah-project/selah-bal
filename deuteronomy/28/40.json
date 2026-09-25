@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "زیتونی توءِ سرا بنت چہ تمام توءِ سرحدءَ، پرچا کہ روغن نہ مَلیں، کیجہ کہ توءِ زیتون ڈیگنت۔",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "زیتونی"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءِ سرا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "چہ تمام"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "توءِ سرحد"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "پرچا کہ روغن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "مَلیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیجہ کہ"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "ڈیگنت"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "توءِ زیتون"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:31.817068220Z",
+  "model": "glm-5.3"
+}

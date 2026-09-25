@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "ءُ آشرءِ سرحدءِ سرءَ، چہ شرقی پلوچءَ ءُ تا دریایی پلوچءَ — نفتالی، یک.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشرءِ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "چہ پلوچءَ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "شرقی"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پلوچءَ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریایی"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:28:54.762755409Z",
+  "model": "glm-5.3"
+}

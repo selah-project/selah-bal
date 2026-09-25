@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یاہوہءَ موشہءَ ءُ اہرونءَ گوَشت کہ،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "الہ\/چہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ الہ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرونءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:28:31.920961330Z",
+  "model": "glm-5.3"
+}

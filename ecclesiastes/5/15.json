@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اے ہم یک گناهءِ بیماری اِنت — چوش کہ آاتگ، چوش آں روت؛ ءُ آییءِ پہ چت سود کہ پہ بادءَ محنت کنت؟",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "گناهءِ"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "بیماری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "آاتگ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چوش آں"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چت"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "سود"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءِ پہ"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "محنت کنت"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "پہ بادءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:55.744123039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ آیانءَ ⟨את⟩ نگہبانیءَ چوں سئے روچ جم کت.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "جم کت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "آیانءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "نگہبانی"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:39.568369696Z",
+  "model": "glm-5.3"
+}

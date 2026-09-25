@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 3:26",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "نہ امن داشتم، ءُ نہ چپ بوتم، ءُ نہ آرام گپتم — ءُ بےچینی آتک.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שלותי",
+      "gloss": "امن داشتم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שקטתי",
+      "gloss": "چپ بوتم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נחתי",
+      "gloss": "آرام گپتم"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آتک"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "بےچینی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:14.974450474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ادومیءَ کریہت نہ کن، چوکہ آ تُہءِ بُراز اِنت؛ مِتسرائیءَ کریہت نہ کن، چوکہ آییءِ زمینءَ تہ غریب بوتے.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "کریہت کن"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "ادومیءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوکہ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تُہءِ بُراز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "کریہت کن"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "مِتسرائیءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوکہ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بوتے"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "آییءِ زمینءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:50.503294785Z",
+  "model": "glm-5.3"
+}

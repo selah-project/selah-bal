@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 5:22",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "وائے چہ زوروان اِنت پہ شراب نشتنءَ ءُ توانگر مردمان پہ سیکر گڈنءَ۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وائے"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "زوروان"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پہ نشتنءَ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ءُ مردمانی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "توانگری"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "پہ گڈنءَ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "سیکر"
+    }
+  ],
+  "timestamp": "2026-09-24T21:23:10.755861471Z",
+  "model": "glm-5.3"
+}

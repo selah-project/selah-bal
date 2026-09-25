@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ آییءَ وتیءَ مو گریت، پرچا کہ ءُ ⟨את⟩ دگ نہ مو گرِت؛ ءُ کاہن ⟨את⟩ دگءَ ہپت روچ دومی بند کت۔",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ءُ وتیءَ مو گریت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دگ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "دگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "مو گرِت"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ءُ بند کت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دگ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "دگ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دومی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:04.214451987Z",
+  "model": "glm-5.3"
+}

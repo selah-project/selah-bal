@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یاہوہءَ شمی گپانی ⟨את⟩ آواز گوشت ءُ غصہ بوت ءُ قسم وانیت کہ،",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ءُ گوشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شمی گپانی آواز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "شمی گپان"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ءُ غصہ بوت"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ءُ قسم وانیت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:19.206922202Z",
+  "model": "glm-5.3"
+}

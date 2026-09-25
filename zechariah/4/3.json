@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ دو زیتونءِ داران آییءَ ہست ⟨اِنت⟩، یک آ کلوہءِ راستءَ ءُ یک آییءِ چپءَ۔",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "زیتونءِ داران"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "آ کلوہءِ راستءَ"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "آ کلوہءِ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ءُ یک"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "آییءِ چپءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:44:04.460659342Z",
+  "model": "glm-5.3"
+}

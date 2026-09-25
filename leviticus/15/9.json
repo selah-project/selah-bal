@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ هر زین کہ زاب آییءِ سرءَ لنگیت ناپاک بیت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ هر"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "زین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "لنگیت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "زاب"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:20.906094200Z",
+  "model": "glm-5.3"
+}

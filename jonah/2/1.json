@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یاہوہءَ یک گیش ماہیگ مانیت کت کہ یونہءَ ⟨את⟩ لوٹ؛ ءُ یونہ ماہیگءِ پیٹءِ تہ سئے روچ ءُ سئے شپ بوت.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "ءُ مانیت کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ماہیگ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "کہ لوٹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یونہ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہ"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "پیٹءِ تہ"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ماہیگءِ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ءُ سئے"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "شپ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:38:04.256470295Z",
+  "model": "glm-5.3"
+}

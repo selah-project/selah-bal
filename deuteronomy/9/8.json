@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ حوربءَ تساں یاہوہءَ غضب دات، ءُ یاہوہ تساںءَ تے غضب کت پہ تساںءِ نیس کنگءَ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "ءُ حوربءَ"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "تساں غضب دات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "ءُ غضب کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تساںءَ تے"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "پہ نیس کنگءَ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تساںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:38.849614322Z",
+  "model": "glm-5.3"
+}

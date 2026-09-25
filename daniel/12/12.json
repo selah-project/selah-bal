@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "مبارک اَنت آ کہ چمبیت ءُ رسیت پہ ہزار سئے سد سی ءُ پنچ روچاں۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "مبارک اَنت"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "آ کہ چمبیت"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "ءُ رسیت"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "پہ روچاں"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ءُ پنچ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:05:27.851027479Z",
+  "model": "glm-5.3"
+}

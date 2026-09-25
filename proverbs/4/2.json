@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کی چون یک چنگݔن درس ماں شماءَ داتگ اَنت، ماءِ تورا ءُ نہ پریں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "درس"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگݔن"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ماں داتگ اَنت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شماءَ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ماءِ تورا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "پریں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:53.428006587Z",
+  "model": "glm-5.3"
+}

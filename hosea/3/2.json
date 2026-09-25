@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ آءَ پہ مءَ پنزدہ چاندیءِ سکیاں ءُ یک ہومر جو ءُ یک لیتک جوءَ کرت۔",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "ءُ کرت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ مءَ"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "پنزدہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "کסף",
+      "gloss": "چاندیءِ"
+    },
+    {
+      "surface": "וחמر",
+      "gloss": "ءُ یک ہومر"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "ءُ یک لیتک"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "جوءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:30:10.484092358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "کی رشایانی بازوان شکان بنت، ءُ یاہوہءَ راستیکان پالیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "بازوان"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رشایانی"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "شکان بنت"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "ءُ پالیت"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستیکان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:49.255116222Z",
+  "model": "glm-5.3"
+}

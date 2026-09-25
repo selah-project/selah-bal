@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "زیادہ بدکار نہ بیت ءُ نہ نادان بیت؛ چرءَ مری کہ وتئے وہدءَ نہ ⟨اِنت⟩؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "بدکار بیت"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زیادہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرءَ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مری"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "وتئے وہدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:08.161905303Z",
+  "model": "glm-5.3"
+}

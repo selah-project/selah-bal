@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "یاہوہءِ آواز گوں زور ⟨اِنت⟩، یاہوہءِ آواز گوں جلال ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "گوں زور"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "گوں جلال"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:56.254567726Z",
+  "model": "glm-5.3"
+}

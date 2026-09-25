@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ مار کوتوکءَ مالءِ پہ آءَ پورہ کیت؛ ءُ مار کوتوکءَ آدمءِ پہ آءَ بکوشیت۔",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ءُ مار کوتوکءَ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "آءَ پورہ کیت"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ءُ مار کوتوکءَ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "بکوشیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:25.822739942Z",
+  "model": "glm-5.3"
+}

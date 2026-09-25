@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 25:4",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ چو انسان گوں ایلءَ راست بیت؟ ءُ چو زنءِ زائوتگ پاک بیت؟",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چو"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "راست بیت"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چو"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "پاک بیت"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "زائوتگ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:39:21.274453724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "یاہوہءَ راستءِ نَفَسءَ بُک نہ کنت، ءُ بدکارانی آرزوان دورت کنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "بُک کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَس"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستءِ"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ءُ آرزوان"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "دورت کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:37.603845967Z",
+  "model": "glm-5.3"
+}

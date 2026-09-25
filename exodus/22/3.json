@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اگر گنبی چہ گاوءَ چہ خرءَ چہ میشءَ زندگ آییءِ دستءَ لبگ بیت، دو برابر بدیگ بیت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "لبگ بیت"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "آییءِ دستءَ"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "گنبی"
+    },
+    {
+      "surface": "משור",
+      "gloss": "چہ گاو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שה",
+      "gloss": "میش"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدیگ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:23.376897757Z",
+  "model": "glm-5.3"
+}

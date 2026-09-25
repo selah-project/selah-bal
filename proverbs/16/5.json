@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "یاہوہءِ توابہ اِنت ہر بُلندیں دل؛ دست چہ دست، آ پاک نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "توابہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "بُلندیں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "چہ دست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "پاک بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:42.032692172Z",
+  "model": "glm-5.3"
+}

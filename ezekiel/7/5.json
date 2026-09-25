@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اے وانیت ادونای یاہوہءَ گوَشت: بدی، یک بیں بدی — دیستگ، گوَڑیت۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اے وانیت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیستگ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "گوَڑیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:09:13.462877158Z",
+  "model": "glm-5.3"
+}

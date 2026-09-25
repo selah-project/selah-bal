@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 133,
+  "translation": "گیتءِ چڑھنگان، داودءِ — اُوت، چش شیرین ءُ چش دلیں، براتاني نشست، بلکے یکجا۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "چڑھنگان"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ ⟨داؤد⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اُوت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چش"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "شیرین"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چش"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "دلیں"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "نشست"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "براتان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلکے"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:22.056212624Z",
+  "model": "glm-5.3"
+}

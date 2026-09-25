@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 62,
+  "translation": "ہمک آءَ منی پتھر ءُ منی نجات، منی بلند پناہءِ جاگہ — من گیش نہ ہلم کُم۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءَ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "منی پتھر"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ءُ منی نجات"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "منی بلند پناہءِ جاگہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ہلم کُم"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:33.003396030Z",
+  "model": "glm-5.3"
+}

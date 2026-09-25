@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "گیشتر گپ اَنت: چُو ماں شارِت؟ اے یاہوہ، تُو وتءِ چہرءِ روشنائی ماں سر چڑھیت.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "گپ اَنت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چُو"
+    },
+    {
+      "surface": "یראנו",
+      "gloss": "ماں شارِت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "شار"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "چڑھیت"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ماں سر"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنائی"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تُو وتءِ چہرءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:57.040077497Z",
+  "model": "glm-5.3"
+}

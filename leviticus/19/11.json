@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "نہ دزیں، ءُ نہ انکاریں، ءُ نہ مرد آییءِ ہمدمءَ گوں جھوٹیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "دزیں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "انکاریں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "جھوٹیں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "آییءِ ہمدمءَ گوں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:20:03.083859724Z",
+  "model": "glm-5.3"
+}

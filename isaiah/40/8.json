@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "گاہ سُک بیت، گل مُر بیت؛ ءُ مئں ایلوہیمءِ گال پہ ہمیشہ قائم اِنت۔",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "سُک بیت"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گاہ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "مُر بیت"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "گل"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ءُ گال"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "مئں ایلوہیم"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قائم اِنت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:09.474634202Z",
+  "model": "glm-5.3"
+}

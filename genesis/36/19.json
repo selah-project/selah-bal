@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "اے عیساوءِ زہگان اِنت، ءُ اے اِشانی سرداران اِنت — آئی اَدُوم اِنت.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "اِشانی سرداران"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدُوم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:07.245057004Z",
+  "model": "glm-5.3"
+}

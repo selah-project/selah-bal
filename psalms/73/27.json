@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "چون ؤ نگاہ کن، چہ تریا دورءَ سپنت؛ توئے چہ تریا زناہی کوڑیںءَ ہمگ پاک کتگ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ؤ نگاہ کن"
+    },
+    {
+      "surface": "רחקיך",
+      "gloss": "چہ تریا دورءَ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "سپنت"
+    },
+    {
+      "surface": "הצמתה",
+      "gloss": "پاک کتگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناہی کوڑی"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "چہ تریا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:09.826156243Z",
+  "model": "glm-5.3"
+}

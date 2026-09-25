@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "یاد کن کہ من ⟨اِنت⟩ چند لنک زندگی، پہ کیں بے کار تو همگ مردمانی زہگان جوڑ کت؟",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد کن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چند"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "لنک زندگی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیں"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بے کار"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همگ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:42.269388692Z",
+  "model": "glm-5.3"
+}

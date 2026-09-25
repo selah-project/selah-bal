@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "چوش کہ من نہ اَتَم، اہَم نہ بَم؛ چہ شکمءَ گوں قبرءَ بریت بم.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "اَتَم"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "بَم"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "چہ شکمءَ"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "گوں قبرءَ"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "بریت بم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:19.605213676Z",
+  "model": "glm-5.3"
+}

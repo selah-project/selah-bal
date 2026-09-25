@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "کہ چوش آوازءِ کنڈانی دیگءِ تہ، ہمے چوش کم‌عقمءِ کھانڈ اِنت؛ ءُ اے ہم ہیول اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "چوش آوازءِ"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "کنڈانی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہءِ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "دیگءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ہمے چوش"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "کھانڈ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "کم‌عقمءِ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہیول"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:27.404401585Z",
+  "model": "glm-5.3"
+}

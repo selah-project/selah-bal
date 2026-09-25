@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آ گوَشت: یک گال مے پہ تئے اِنت؛ ءُ آ گوَشت: گال بز۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ آ گوَشت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ آ گوَشت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال بز"
+    }
+  ],
+  "timestamp": "2026-09-24T20:53:32.095089692Z",
+  "model": "glm-5.3"
+}

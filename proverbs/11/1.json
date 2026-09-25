@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "فریبیں ترازو یاہوہءِ پیشءَ گندنیں اِنت، ءُ یک پوریں سنگ آییءِ خوشی اِنت.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "فریبیں ترازو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فریبءِ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "گندنیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ءُ سنگ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "آییءِ خوشی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:35.350100640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ہیلی لو، کہ یاہوہءِ روچ نزدیک اِنت؛ چوش ویرانی چہ ایل شدایءَ اِنت.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "ہیلی لو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "چوش ویرانی"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "چہ ایل شدای"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اِنت روت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:34.551079714Z",
+  "model": "glm-5.3"
+}

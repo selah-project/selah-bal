@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کیں کہ آ ڈر کہ ڈرشتُم، ماءَ آتک؛ ءُ آ کہ چہ آیی گرسان بوتم، آ ماءَ آتک.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیں کہ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "ڈرشتُم"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "ءُ ماءَ آتک"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ آ کہ"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "گرسان بوتم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آتک"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:14.974103544Z",
+  "model": "glm-5.3"
+}

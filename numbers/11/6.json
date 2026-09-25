@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ اِشاں جان شُش اِنت؛ ہچ چیز نیست مگر مان، آءِ ماں چمی دیمءَ۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشاں"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "جان ئے"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "شُش"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ اِنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہچ چیز"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "مانءِ"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "آءِ ماں چم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:33:32.600498002Z",
+  "model": "glm-5.3"
+}

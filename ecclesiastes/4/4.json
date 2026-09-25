@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ من گوتوم ⟨את⟩ پوریں محنت ءُ ⟨את⟩ پوریں کامیابی کارءِ، کہ آ مَردمی ءِ چہ وتی ہمسایےءِ کین اِنت؛ آ ہم ہبل اِنت ءُ رُوحءِ بدی۔",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ءُ من گوتوم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں محنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پوریں کامیابی کارءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "کامیابی"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کارءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "کینءِ اِنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مَردمی"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "چہ وتی ہمسایےءِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ءُ بدی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوحءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:07.869342790Z",
+  "model": "glm-5.3"
+}

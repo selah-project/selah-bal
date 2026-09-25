@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اَز تو بے ڈگہ تری راہءَ منّیں ءُ تری پیر ہچبر نہ ٹیپیت.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اَز"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تو منّیں"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بے ڈگہ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "تری راہءَ"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ءُ تری پیر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ٹیپیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:58.146876896Z",
+  "model": "glm-5.3"
+}

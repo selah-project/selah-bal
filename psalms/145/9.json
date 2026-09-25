@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 145,
+  "translation": "یاہوہ سب ئانءِ پہ چنگ ⟨اِنت⟩ ءُ آئیءِ رحمتان آئیءِ سب کارانی سرا ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سب ئانءِ پہ"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ءُ آئیءِ رحمتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "آئیءِ کاران"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:49.063153511Z",
+  "model": "glm-5.3"
+}

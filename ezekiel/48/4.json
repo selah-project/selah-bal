@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "ءُ نفتالیءِ سرحدءِ سرءَ، چہ شرقی پلوچءَ تا دریایی پلوچءَ — منشہ، یک.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالیءِ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "چہ پلوچءَ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "شرقی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پلوچءَ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "دریایی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:28:54.762885674Z",
+  "model": "glm-5.3"
+}

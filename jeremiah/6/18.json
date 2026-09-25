@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "پرچا گوش کنانت، اے قومان، ءُ زان، اے جماعت، ⟨את⟩ آ کہ اِشانی تہ اِنت.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "پرچا"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوش کنانت"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "اے قومان"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "ءُ زان"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "اے جماعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ اِشانی تہ اِنت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اِشانی تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:46:09.122907454Z",
+  "model": "glm-5.3"
+}

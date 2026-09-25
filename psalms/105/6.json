@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "اَبراہامءِ نسل، آییءِ گلم، یعقوبءِ زہگان، آییءِ چیدگ۔",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراہام"
+    },
+    {
+      "surface": "عבדו",
+      "gloss": "آییءِ گلم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "آییءِ چیدگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:26.467870144Z",
+  "model": "glm-5.3"
+}

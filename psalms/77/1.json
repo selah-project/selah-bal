@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "پہ پیشوا، یدیتونءِ سرءَ، پہ آساپھ — زمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "یدیتون"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "پہ آساپھ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زمور"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:59.975464325Z",
+  "model": "glm-5.3"
+}

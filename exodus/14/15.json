@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ یاہوہءَ موشہءَ گوَشت: چرا تُہ مءَ زاری کنیں؟ بنی اسرائیلءَ گپ بیت ءُ اِشاءَ روان بنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "زاری کنیں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ پہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گپ بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءَ"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "ءُ روان بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:56:34.244197780Z",
+  "model": "glm-5.3"
+}

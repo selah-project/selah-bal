@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ شمے رضایت نہ بیت کہ سر بچیت، بلکے شمے یاہوہ ءُ شمے ایلوہیمءِ ⟨את⟩ منہءِ خلاف سرکشی کت۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "شمے رضایت نہ بیت"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "کہ سر بچیت"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "سرکشی کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منہءَ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "شمے ایلوہیمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:36.989062435Z",
+  "model": "glm-5.3"
+}

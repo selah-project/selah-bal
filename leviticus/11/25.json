@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ہر کہ چہ اِشانیءِ مردارءَ گنیت وتی لبزان شُنت کنت ءُ تا شامءَ ناپاک بیت۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر کہ"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "گنوک"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "چہ اِشانیءِ مردارءَ"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "شُنت کنت"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "وتی لبزان"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ءُ ناپاک بیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شامءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:13.824676726Z",
+  "model": "glm-5.3"
+}

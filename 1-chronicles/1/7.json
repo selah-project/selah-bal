@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یاوانءِ زہگان: اِلیشہ ءُ تَرشیشہ، کِتّیم ءُ رودانیم۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ زہگان"
+    },
+    {
+      "surface": "יון",
+      "gloss": "یاوانءِ"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "اِلیشہ"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "ءُ تَرشیشہ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "کِتّیم"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "ءُ رودانیم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:23.891355267Z",
+  "model": "glm-5.3"
+}

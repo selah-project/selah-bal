@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 30:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ایشوں زناکار جنکءِ رہ ⟨اِنت⟩: آ خورت ءُ وتءِ منہ پاک کت ءُ گوَشت: ماں ہچ بدی نہ کت.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ایشوں"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "جنکءِ"
+    },
+    {
+      "surface": "מנאפת",
+      "gloss": "زناکار"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "خورت"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "ءُ پاک کت"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "وتءِ منہ"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "ماں نہ کت"
+    },
+    {
+      "surface": "און",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:02.333519624Z",
+  "model": "glm-5.3"
+}

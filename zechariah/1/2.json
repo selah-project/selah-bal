@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "غضب کت یاہوہ پہ تُماڈا پِتیراںءَ — غضب!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "غضب کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "تُماڈا پِتیراںءَ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "غضب"
+    }
+  ],
+  "timestamp": "2026-09-24T22:43:37.813971734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ سردارِ شراب دہندگان ⟨את⟩ یوسفءَ نہ یاد کت، بلکہ آییءَ بھلیریت۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد کت"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "شراب دہندگان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "بلکہ آییءَ بھلیریت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:42:41.156168286Z",
+  "model": "glm-5.3"
+}

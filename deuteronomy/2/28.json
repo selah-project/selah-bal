@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کھاد پہ زر منءَ دےءِ کہ من خرچاں؛ ءُ آپ پہ زر منءَ دے کہ من پیسیتاں؛ ہمک اے کہ من پیدلانءَ گوزراں۔",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "کھاد"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "پہ زرءَ"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "منءَ دےءِ"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "ءُ من خرچاں"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ءُ آپ"
+    },
+    {
+      "surface": "بכסף",
+      "gloss": "پہ زرءَ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ءُ من پیسیتاں"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "من گوزراں"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "پیدلانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:31.517782489Z",
+  "model": "glm-5.3"
+}

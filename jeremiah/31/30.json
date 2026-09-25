@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "کی بلکہ ہر مرد وتی گنہءَ مریت؛ ہر اِنسان کہ کوراں گوشیت، آییءِ دندان مدہم بنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "وتی گنہءَ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مریت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اِنسان"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "کہ گوشیت"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "کوراں"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "مدہم بنت"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "آییءِ دندان"
+    }
+  ],
+  "timestamp": "2026-09-24T21:57:17.551843727Z",
+  "model": "glm-5.3"
+}

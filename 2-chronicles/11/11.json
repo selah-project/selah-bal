@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ آ ⟨את⟩ کوٹان پکا کت، ءُ آیانی تہ سرداران دات ءُ گنجانی خوراک ءُ تیل ءُ شراب",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ءُ پکا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوٹان"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "کوٹان"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "آیانی تہ"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "سرداران"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "ءُ گنجانی"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "خوراکءِ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ءُ تیل"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ءُ شراب"
+    }
+  ],
+  "timestamp": "2026-09-25T00:36:02.603342702Z",
+  "model": "glm-5.3"
+}

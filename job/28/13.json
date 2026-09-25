@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 28:13",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "انسان آییءِ ارزش نہ زانت، ءُ آ زندگیانی زمینءَ نہ لبیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "آییءِ ارزش"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "نہ لبیت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:39:32.820525305Z",
+  "model": "glm-5.3"
+}

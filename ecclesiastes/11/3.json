@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "اگر بادلان پُر بنت، باران زمینءِ سرءَ رِنجاِنت؛ ءُ اگر یک دار جنوبءَ ڈگِت، ءُ اگر شمالءَ، جاگہءَ کہ دار اُڈگِت، اُدات ہست۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "پُر بنت"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "بادلان"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "باران"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ہארץ... הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "رِنجاِنت"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈگِت"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "جنوبءَ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "شمالءَ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہءَ"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "کہ ڈگِت"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُدات"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ہست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:32.847162164Z",
+  "model": "glm-5.3"
+}

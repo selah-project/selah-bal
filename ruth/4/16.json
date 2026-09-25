@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ ناعومی زہگ ⟨את⟩ گرت ءُ آییءَ وتی سینے تہ گنات، ءُ آییءَ پہ دایہ بوت.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "گرت"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ناعومی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زہگ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "آییءَ گنات"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "وتی سینے تہ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "پہ دایہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:51.134991884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "انجیرءِ نگبان آییءِ میوہ چکیت، ءُ ئے مالکءِ نگبان عزت وند بیت.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "نگبان"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "انجیرءِ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "چکیت"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "آییءِ میوہ"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ءُ نگبان"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ئے مالکءِ"
+    },
+    {
+      "surface": "יכوبד",
+      "gloss": "عزت وند بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:03.102853039Z",
+  "model": "glm-5.3"
+}

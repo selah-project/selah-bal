@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "اے لِبانون، وتّی درئان وا کن، ءُ آتش تُہءِ ارزاںءَ سوزی۔",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "وا کن"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لِبانون"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "وتّی درئان"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ءُ سوزی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتش"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "تُہءِ ارزاںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:45:57.972987642Z",
+  "model": "glm-5.3"
+}

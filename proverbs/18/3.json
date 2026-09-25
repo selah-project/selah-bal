@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "اودا کہ بدکار آءَءِ، ناز ءُ خودپسندی ءُ گوں رسوائی تہل آیءَ۔",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "اودا کہ... آءَءِ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آءَءِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ناز ءُ خودپسندی"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "رسوائیءَ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "تہل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:12.862271429Z",
+  "model": "glm-5.3"
+}

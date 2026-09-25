@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "پہ رہنما، گوں تارانی سازاں، ہشتمی ءُ سرءَ — داودءِ زبوور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہنما"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "گوں تارانی سازاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ہشتمی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبوور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:01.182157584Z",
+  "model": "glm-5.3"
+}

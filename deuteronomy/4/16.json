@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کہ نہ خراب کنیں ءُ شمارے پہ وت مورتی شکل ہر سورتءِ کنیں، نقش نر یا مادیءِ.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "خراب کنیں"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ءُ کنیں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شمارے پہ وت"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "مورتی"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "سورتءِ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "نقش"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مادیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:49:00.449959517Z",
+  "model": "glm-5.3"
+}

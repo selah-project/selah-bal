@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "آیانی ترکش چوش یک کُشادئین قبر ⟨اِنت⟩، آیانی همه زوروار ⟨اَنت⟩۔",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "آیانی ترکش"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "چوش یک قبرءِ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "کُشاد"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "آیانی همه"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "زوروار"
+    }
+  ],
+  "timestamp": "2026-09-25T01:03:46.318054232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 4:20",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "مانی ناکیءِ دم، یاہوہءِ ماشیاح، آیانیں گداں تہ لگ بوتگ — آ کہ آییءِ سایہءَ ماں قوماں گش زنتگ۔",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "دم"
+    },
+    {
+      "surface": "אפינו",
+      "gloss": "مانی ناکیءِ"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "مشیاح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہءِ"
+    },
+    {
+      "surface": "נלכד",
+      "gloss": "لگ بوتگ"
+    },
+    {
+      "surface": "בשחיחیتותם",
+      "gloss": "آیانیں گداں تہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "گش زنتگ"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "آییءِ سایہءَ"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "گش"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ماں قوماں"
+    }
+  ],
+  "timestamp": "2026-09-25T01:13:39.080279373Z",
+  "model": "glm-5.3"
+}

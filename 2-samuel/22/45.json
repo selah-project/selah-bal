@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "2-samuel 22:45",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "بےگانگیں زہگان منءَ جھوٹ کننت؛ گوشءِ شنیدءَ پہ من گوشننت۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بےگانگیں"
+    },
+    {
+      "surface": "יתכחשו",
+      "gloss": "جھوٹ کننت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "پہ شنید"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "گوشننت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ من"
+    }
+  ],
+  "timestamp": "2026-09-24T20:51:34.641733795Z",
+  "model": "glm-5.3"
+}

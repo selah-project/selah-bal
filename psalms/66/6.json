@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "دریا پہ شکم گیں زمین ءَ پھیر کت؛ درا تہ پا ءَ پار کتنت؛ اودا ما چوں آیی شاد بوتے۔",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "پھیر کت"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "پہ شکم گیں زمین"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "درا تہ"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "پار کتنت"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "پا ءَ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "شاد بوتے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "چوں آیی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:10.389571596Z",
+  "model": "glm-5.3"
+}

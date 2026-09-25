@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ شاہ آیءَ گوَشت: «آے کجا اِنت؟» ءُ زیبا شاہءَ گوَشت: «ایں آے ماخیرءِ گدانءَ ہست، عمییلءِ زہگ، لودبارءَ۔»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آیءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "زیبا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "شاہءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ایں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماخیرءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عمییلءِ"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "لودبارءَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لودبار"
+    }
+  ],
+  "timestamp": "2026-09-25T00:56:54.617054491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "اسرائیلءَ ہر حرم بوتگیں چیزی تُہءِ اِنت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حرم بوتگیں چیزی"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائیلءَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُہءِ پہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:37:16.856288735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "اِسرائیلءِ زہگانءَ گوَشت ءُ اِشاںءَ آی گوَشت: من یاہوہ ⟨اِنت⟩، شماءِ ایلوہیم۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ءُ آی گوَشت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "شماءِ ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:38.688298434Z",
+  "model": "glm-5.3"
+}

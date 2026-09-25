@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ کالب گوَشت: آ کہ ⟨את⟩ قریت سفر زنیت ءُ آءَ گرنت، من آییءَ ⟨את⟩ عقسہ، منی جنک، پہ زال داتگ بیت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "زنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قریت سفر"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفر"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ءُ آءَ گرنت"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ءُ من داتگ بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عقسہ"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "عقسہ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "منی جنک"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "پہ زال"
+    }
+  ],
+  "timestamp": "2026-09-24T20:10:36.613510958Z",
+  "model": "glm-5.3"
+}

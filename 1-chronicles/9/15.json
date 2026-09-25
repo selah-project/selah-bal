@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ بقبقار، حریش ءُ گلل، ءُ متنیاہ زہگِ میکا، زہگِ زکری، زہگِ آسپہ.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "ءُ بقبقار"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "حریش"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ءُ گلل"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "ءُ متنیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگِ"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "میکا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگِ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زکری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگِ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آسپہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:56.870122024Z",
+  "model": "glm-5.3"
+}

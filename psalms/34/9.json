@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "چکو ءُ بگندیت کہ یاہوہ چنگ اِنت؛ خوش‌بخت اِنت اے گبز کہ آییءَ پناه گنت.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "چکو"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ءُ بگندیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوش‌بخت"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "اے گبز"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "پناه گنت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:16.120770031Z",
+  "model": "glm-5.3"
+}

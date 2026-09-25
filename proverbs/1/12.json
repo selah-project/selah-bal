@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 1:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "آئیانءَ نگورت چوش شیئول زندہ، ءُ پورا چوش ڈوئیں روچوک گڈا ءَ تہ —",
+  "tokens": [
+    {
+      "surface": "נבלעם",
+      "gloss": "آئیانءَ نگورت"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "چوش شیئول"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "ءُ پورا"
+    },
+    {
+      "surface": "כיורדי",
+      "gloss": "چوش ڈوئیں روچوک"
+    },
+    {
+      "surface": "בור",
+      "gloss": "گڈا ءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:28.204632802Z",
+  "model": "glm-5.3"
+}

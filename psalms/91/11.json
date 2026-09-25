@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 91,
+  "translation": "چون آیءِ فرشتہ آیہ تہ پہ حکم دیت کہ تہ چم بیت تہءِ سراں راہانءَ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "آیءِ فرشتہ آیہ"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "پہ حکم دیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "کہ تہ چم بیت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہءِ سراں"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "توءِ راہانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:03.918116750Z",
+  "model": "glm-5.3"
+}

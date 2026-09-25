@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "منے تہ ماں بیابانءَ زانت، زمینءِ تہءَ کہ وشک اِنت.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "تہ زانت"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ماں بیابانءَ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءِ تہءَ"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "وشک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:32:06.558144810Z",
+  "model": "glm-5.3"
+}

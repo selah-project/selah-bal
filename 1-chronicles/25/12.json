@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "پنچمیں نتنیاہوءَ، آئیءِ زہگان ءُ آئیءِ براتان دو دہ۔",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنچمیں"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "نتنیاہوءَ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "آئیءِ زہگان"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ءُ آئیءِ براتان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:07.684601735Z",
+  "model": "glm-5.3"
+}

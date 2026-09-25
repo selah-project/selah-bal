@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 121,
+  "translation": "مئے مدد چہ یاہوہءَ اِنت، آسمان ءُ زمینءِ جوڑ کنوکءَ.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "مئے مدد"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کنوک"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ءُ زمین"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:21.829839388Z",
+  "model": "glm-5.3"
+}

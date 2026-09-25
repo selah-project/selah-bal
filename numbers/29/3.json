@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ اِشانءِ نذر چنگ تیلءَ ملیچگ: سئے دہماں بکرءَ پہ، دو دہماں میشءَ پہ۔",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "ءُ اِشانءِ نذر"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ملیچگ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیلءَ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "دہماں"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "بکرءَ پہ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "دہماں"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "میشءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:43:01.044839840Z",
+  "model": "glm-5.3"
+}

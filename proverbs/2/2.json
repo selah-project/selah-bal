@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کہ تُری گوش پہ دانش گوشیت ءُ تُری دل پہ تہ بصیرت میل کنت،",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "پہ گوشیت"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "پہ دانش"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "تُری گوش"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "میل کنت"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تُری دل"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "پہ تہ بصیرت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:51.466778289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "اے روچءَ شما چہ ماہءِ آبِوءَ در روتءَءنت.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "اے روچءَ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شما"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "در روتءَءنت"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "چہ ماہءِ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "آبِوءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:56:12.506378410Z",
+  "model": "glm-5.3"
+}

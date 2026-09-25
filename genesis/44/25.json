@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "ءُ پدرءِ ما گوَشت: پدا شُوءِت ءُ پہ ما یک کمیں خواراک گریت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "پدرءِ ما"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "پدا شُوءِت"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "گریت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "پہ ما"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "یک کمیں"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خواراک"
+    }
+  ],
+  "timestamp": "2026-09-24T18:47:12.017707393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اے یاہوہءَ گوں پوریں دلءَ بھر کن، ءُ گوں وتی سمجءَ آسروار مہ بیت۔",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "بھر کن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے …ءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "گوں پوریں"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ گوں"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "سمجءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "آسروار بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:28.328017304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "اے کہ دشمنیءَ پوشیت گوں دروغگیں لبان، ءُ اے کہ غیبتءَ درکنت، اُو کال اِنت۔",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "پوشیت"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "دشمنیءَ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "گوں لبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغگیں"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ءُ درکنت"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "غیبتءَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُو"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کال اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:39.227340135Z",
+  "model": "glm-5.3"
+}

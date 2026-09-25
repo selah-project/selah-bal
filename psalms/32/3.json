@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "کیں کہ من چُپ کتم، مہ ہڈی پُران بوت، مہ گونجءِ پہ کل ⟨ال⟩ روچ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیں"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "چُپ کتم"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "پُران بوت"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "مہ ہڈی"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "مہ گونجءِ پہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:02.093918727Z",
+  "model": "glm-5.3"
+}

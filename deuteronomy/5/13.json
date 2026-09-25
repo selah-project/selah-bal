@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "شش روچ تو کور کوریت ءُ پوریں وتی کار ءُ شا ءَ جوڑ کیت،",
+  "tokens": [
+    {
+      "surface": "שֵׁ֤שֶׁת",
+      "gloss": "شش"
+    },
+    {
+      "surface": "יָמִים֙",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "תַּֽעֲבֹ֔ד",
+      "gloss": "تو کور کوریت"
+    },
+    {
+      "surface": "וְעָשִׂ֖יתָ",
+      "gloss": "ءُ جوڑ کیت"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "מְלַאכְתֶּֽךָ",
+      "gloss": "وتی کار ءُ شا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:49:28.441441118Z",
+  "model": "glm-5.3"
+}

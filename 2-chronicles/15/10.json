@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ آیان یاورُشیلمءَ جم بیتنت، سئیمی ماہءَ، آساءِ شاہیءِ پنزدہمی سالءَ۔",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ءُ آیان جم بیتنت"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یاورُشیلمءَ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ماہءَ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سئیمی"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنز"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "شاہیءِ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آساءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:38:18.220644179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ اہارونءَ گوَشت: میءِ ادونایءِ خشم شرار نہ بیت؛ تُءَ ⟨את⟩ اے قومءَ زانیتگ کہ آ شرءَ اِنت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہارونءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "شرار بیت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "خشم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میءِ ادونای"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُءَ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "زانیتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے قومءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اے قوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "شرءَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:06:25.643417934Z",
+  "model": "glm-5.3"
+}

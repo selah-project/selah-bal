@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "ءُ بوت چوش کہ چوش آ پَتار کت پہ ماں، چوش آ بوت: منیءَ ⟨את⟩ تہ منیءِ جاگہ پدا کت ءُ ⟨את⟩ آییءَ ڈنگ کت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "پَتار کت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "پہ ماں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چوش آ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ منیءَ"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "پدا کت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "כני",
+      "gloss": "منیءِ جاگہ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ءُ ⟨את⟩ آییءَ"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ڈنگ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:44:47.822658574Z",
+  "model": "glm-5.3"
+}

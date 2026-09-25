@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "ہم تیں گواہیان منءِ شادئے اِنت، منءِ مشورہانی مردمان۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "تیں گواہیان"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "منءِ شادئے"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردمان"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "منءِ مشورہانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:49.138862415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 49,
+  "translation": "ہم آدمءِ زہگ، ہم اِیشءِ زہگ، یکجا گوشم ءُ کمبیشت۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בנی",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِیشءِ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "گوشم"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ءُ کمبیشت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:08.180772479Z",
+  "model": "glm-5.3"
+}

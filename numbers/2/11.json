@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ آییءِ لشکر ءُ آییءِ شمار بوتگین شش ءُ چالیس ہزار ءُ پنچ سد اِنت.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ءُ آییءِ لشکر"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ءُ آییءِ شمار بوتگین"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شش"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ءُ چالیس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ءُ پنچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:40.304631126Z",
+  "model": "glm-5.3"
+}

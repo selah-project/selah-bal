@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ اے نوحءِ زہگانی نسل اِنت — شیم، حام ءُ یافت؛ ءُ اِشاںءَ ماں آ طوفانءِ پشتاں زہگ جنیتگ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ءُ یافت"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "زہگ جنیتگ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پشتاں"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "آ طوفان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:36.923731656Z",
+  "model": "glm-5.3"
+}

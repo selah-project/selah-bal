@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ سلیمان ⟨את⟩ گزر ءُ ⟨את⟩ بیت حورون تھلائیں جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سلیمانءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گزر"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "گزر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "بیت حورون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حورون"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "تھلائیں"
+    }
+  ],
+  "timestamp": "2026-09-24T20:58:23.131659150Z",
+  "model": "glm-5.3"
+}

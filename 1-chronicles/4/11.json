@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ کَلوب، شُوحہءِ برات، ⟨את⟩ مَحیرءَ زائگ کت؛ آءُ اَشتونءِ پِت اَت.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "ءُ کَلوب"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برات"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "شُوحہءِ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زائگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَحیر"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "مَحیر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پِت"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "اَشتونءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:08.057202376Z",
+  "model": "glm-5.3"
+}

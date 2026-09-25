@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 15:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ انگ، یاہوہءِ گالءَ آییءَ گوَشت: نہ آ تیری وارث بیت، مگر آ کہ تیری پیٹءَ چیز در بیت — آ تُو وارث بیت.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ءُ انگ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יירשך",
+      "gloss": "تیری وارث بیت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "چیز در بیت"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "تیری پیٹءَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יירשך",
+      "gloss": "تُو وارث بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:29:02.719170948Z",
+  "model": "glm-5.3"
+}

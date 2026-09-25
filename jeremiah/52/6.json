@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 52:6",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 52,
+  "translation": "ماہءَ چارمی، ماہءِ نہمی روچءَ، ءُ کال شارءَ تہ زور گرت ءُ نان نہ بوت پہ زمینءِ مردمانی.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ماہءَ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چارمی"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "نہمیءَ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماہءِ روچءَ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ءُ زور گرت"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "کال"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شارءَ تہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "پہ مردمانی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:07:23.097883234Z",
+  "model": "glm-5.3"
+}

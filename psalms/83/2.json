@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 83,
+  "translation": "اے ایلوہیم، آرام نہ بیت تئے، خاموش نہ بمان ءُ نہ چپ بیت، اے ایل",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "خاموش بمان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "چپ بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے ایل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:24.398692319Z",
+  "model": "glm-5.3"
+}

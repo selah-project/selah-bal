@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 97,
+  "translation": "یاہوہ پادشاہ بوت؛ شاد بیت ⟨ہ⟩ زمین؛ شاد بنت گیشتر جزیرگ۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاہ بوت"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ہ⟩ زمین"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "شاد بنت"
+    },
+    {
+      "surface": "איים",
+      "gloss": "جزیرگ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیشتر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:48.632156439Z",
+  "model": "glm-5.3"
+}

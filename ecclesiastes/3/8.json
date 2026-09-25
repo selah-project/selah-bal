@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "وہد پرزگءِ ءُ وہد بیرہ گرگءِ؛ وہد جنگءِ ءُ وہد سلامتیءِ۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "پرزگءِ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "بیرہ گرگءِ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگءِ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:51.033907620Z",
+  "model": "glm-5.3"
+}

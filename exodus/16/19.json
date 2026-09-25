@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ موشہ ⟨موسیٰ⟩ اِشاںءَ گوَشت: ایشش آییءَ چہ نہ دارت راور تہاریءَ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ … گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ ⟨موسیٰ⟩"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایشش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "چہ دارت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "آییءَ چہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "راور"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "تہاریءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:57:47.917028302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ شلومءَ ⟨את⟩ هلکیاہءَ زہگ کت، ءُ هلکیاہءَ ⟨את⟩ عزریاہءَ زہگ کت۔",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ءُ شلومءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زہگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هلکیاہ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "هلکیاہءَ"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ءُ هلکیاہءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زہگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزریاہ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاہءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:56.670423211Z",
+  "model": "glm-5.3"
+}

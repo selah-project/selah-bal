@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ موشہءَ ⟨את⟩ اہارون ءُ ⟨את⟩ ایشءِ زہگان نزیب کت ءُ اِشاںءَ آپءَ شُست.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ءُ نزیب کت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اہارون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہارون"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ایشءِ زہگان"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ایشءِ زہگان"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "ءُ شُست"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اِشاںءَ",
+      "marks": "اِشاں"
+    },
+    {
+      "surface": "במים",
+      "gloss": "آپءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:24.241456331Z",
+  "model": "glm-5.3"
+}

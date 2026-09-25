@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "گر ⟨את⟩ کمربند آ کہ گریت، آ کہ سر تُھیں کمر اِنت، ءُ اُٹّ، روت فراتءَ، ءُ آیءَ اودا سنگءِ درزءِ تہ پجا۔",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "گر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کمربند"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "کمربند"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "گریت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "تُھیں کمر"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "ءُ اُٹّ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "فراتءَ"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "ءُ آیءَ پجا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "تہ درز"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "سنگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:52.069170483Z",
+  "model": "glm-5.3"
+}

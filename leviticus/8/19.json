@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ آءَ ذبح کت؛ ءُ موشہءَ ⟨את⟩ گوں قربانگاہءَ سرءَ خونءَ چھاڑیت، چار دیمءَ۔",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ءُ آءَ ذبح کت"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "چھاڑیت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خونءَ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خونءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہءَ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چار دیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:03.910506107Z",
+  "model": "glm-5.3"
+}

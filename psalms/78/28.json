@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ آیانءِ مچءِ تہ ایشتینت، آیانءِ مِشکانانی چوکار۔",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ءُ ایشتینت"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ءِ تہ"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "آیانءِ مچ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوکار"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "آیانءِ مِشکانانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:19.150045156Z",
+  "model": "glm-5.3"
+}

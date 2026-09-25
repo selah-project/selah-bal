@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ بادشاہءَ اَخشَرَش زمینءَ ءُ دریاءِ جزیرانءِ سرءَ چنگی ناشت.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ءُ ناشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہءَ"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "اَخشَرَش"
+    },
+    {
+      "surface": "מס",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "ءُ جزیران"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دریاءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:39.944985415Z",
+  "model": "glm-5.3"
+}

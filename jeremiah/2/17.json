@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ایا اے تُوءَ نہ کیت، کہ تُو یاہوہءَ ⟨את⟩ وتءِ ایلوہیمءَ چیل کت، اے وہدءَ کہ آ تُہءَ رہءَ پیش برت؟",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُوءَ"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "چیل کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "وتءِ ایلوہیم"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اے وہدءَ"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "تُہءَ پیش برت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:43:21.067305317Z",
+  "model": "glm-5.3"
+}

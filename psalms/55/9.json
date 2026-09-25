@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 55,
+  "translation": "من شیت کنانءَ پہ وتی رہائی، چہ ہوشیاریں ہوا، چہ توفان۔",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "من شیت کنانءَ"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "رہائی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ وتی"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "چہ ہوا"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ہوشیاریں"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "چہ توفان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:41.356003256Z",
+  "model": "glm-5.3"
+}

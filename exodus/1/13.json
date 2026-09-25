@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ مِتسرایمءَ ⟨את⟩ یسرائیلءِ زہگان گوں سختی کار کت.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ءُ کار کت"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یسرائیلءِ زہگان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "گوں سختی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:50:02.507326538Z",
+  "model": "glm-5.3"
+}

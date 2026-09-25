@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ آیانءَ ⟨את⟩ قیدءَ، کشوکانءِ سردارءِ گدانءَ، بندءِ گدانءَ دات — آ جاگہ کہ یوسف اودا بند اَت.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ءُ دات"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "آیان"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "قیدءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "کشوکانءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "بندءِ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "بند اَت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:43:07.455255566Z",
+  "model": "glm-5.3"
+}

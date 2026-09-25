@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ یروبعم پدا ابیّہءِ روجانءَ تہ وتی زور نہ بہ در کت، ءُ یاہوہءَ آءَ زربیت ءُ آ مرت۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "بہ در کت"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یروبعمءَ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "روجانءَ تہ"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ابیّہءِ"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "ءُ آءَ زربیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:38:59.500248357Z",
+  "model": "glm-5.3"
+}

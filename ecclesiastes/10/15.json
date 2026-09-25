@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "نادانانی محنت آیانءَ تھکیت کنت، آ کہ شہرءَ روںءِ باز نہ زانت.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "نادانانی"
+    },
+    {
+      "surface": "תיגענو",
+      "gloss": "آیانءَ تھکیت کنت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "روںءِ باز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:23.209359480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ اے قومءَ بگوَش: اے گوشن یاہوہ گوَشت — اے من شماءِ پیش ⟨את⟩ زندگیءِ راه ءُ ⟨את⟩ موتءِ راه ڈیم۔",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ءُ … ءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "بگوَش"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اے گوشن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اے من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڈیم"
+    },
+    {
+      "surface": "لפניכם",
+      "gloss": "شماءِ پیش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زندگیءِ راه"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راه"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگیءِ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "موتءِ راه"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راه"
+    },
+    {
+      "surface": "המות",
+      "gloss": "موتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:52:46.377112429Z",
+  "model": "glm-5.3"
+}

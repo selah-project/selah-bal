@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ چار مزنین جانوران چہ دریا اَتَلِنت، اے چہ اے جتا۔",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "ءُ چار"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "جانوران"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "مزنین"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "اَتَلِنت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "جتا"
+    },
+    {
+      "surface": "דא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-25T00:04:29.035089294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "پہ آییءِ پیتاںءِ تلءَ گشت زمینءِ قیدیان پامال کنگ،",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "پہ پامال کنگ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلءَ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "آییءِ پیتاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گشت"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "قیدیان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:39.743955902Z",
+  "model": "glm-5.3"
+}

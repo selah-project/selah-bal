@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 23:19",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ تُمان یک بزانی بکر پہ گناہی نما کنت، ءُ دو مِشھاں زہگانی سالءِ پہ شالُماںءِ قربانی۔",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ءُ تُمان کنت"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "بکر"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزانی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "پہ گناہی نما"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "مِشھاں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالءِ"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "پہ قربانی"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "شالُماں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:48.401367841Z",
+  "model": "glm-5.3"
+}

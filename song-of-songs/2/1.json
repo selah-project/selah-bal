@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "من شرانءِ چنبلے گل اِنت، وادیانی سوسن.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "چنبلے گل"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "شرانءِ"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "سوسن"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "وادیان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:45.994255861Z",
+  "model": "glm-5.3"
+}

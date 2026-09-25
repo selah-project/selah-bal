@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "وشیت اے یاہوہءَ، پرچا کہ بلند شانءِ کار کت؛ اے چیز پوریں زمینءَ مشہور اِنت۔",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "وشیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "بلند شانءِ کار"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کت"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "مشہور اِنت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے چیز"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:23:42.917251797Z",
+  "model": "glm-5.3"
+}

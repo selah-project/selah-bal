@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "جوکہ وتی براتءَ حقارت کنت، آ دلءِ کوتاہ اِنت؛ ءُ عقلءِ مرد خاموش ویت.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "حقارت کنت"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "وتی براتءَ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کوتاہ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ مرد"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "عقلءِ"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "خاموش ویت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:59.449155741Z",
+  "model": "glm-5.3"
+}

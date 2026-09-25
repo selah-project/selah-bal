@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "تُمانی وچے کے اِنت کہ آے گوشیت، توجہ دیت ءُ رندءِ وہدءَ گوشیت؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تُمانی وچے"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "آے"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "توجہ دیت"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ءُ گوشیت"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "رندءِ وہدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:32.234933795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "آیا گوش گالان نہ آزمیت، ءُ تالو خوراکی آییءَ نہ چکیت؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "آیا نہ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوش"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "آزمیت"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "ءُ تالو"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوراکی"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "چکیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:32.038362619Z",
+  "model": "glm-5.3"
+}

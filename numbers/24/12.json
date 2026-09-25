@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 24:12",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ بیلام بالاکءَ گوَشت: مان تُئے پیغامواناں، کہ تُءَ منیءَ پیش کت، ہم نہ گوَشتم کہ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاک"
+    },
+    {
+      "surface": "هלוא",
+      "gloss": "مان … نہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "מלאכיך",
+      "gloss": "تُئے پیغامواناں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "تُءَ پیش کت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منیءَ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "من گپ گوَشتم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:08.864411229Z",
+  "model": "glm-5.3"
+}

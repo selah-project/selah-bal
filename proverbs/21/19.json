@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "شپتیرءِ زمینءَ نشستن چہ جھیڑوءِ ءُ غصہءِ زالءَ بهتر ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "نشستن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "شپتیرءِ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "چہ زالءَ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "جھیڑوءِ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ءُ غصہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:06.241336283Z",
+  "model": "glm-5.3"
+}

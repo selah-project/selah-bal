@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 24:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ اگر زن تُءِ پشتءَ پہ روتگءَ راضی نہ بیت، تُءَ چہ مءِ اے قسمءِ ءُ پاک بیتے؛ بس ⟨את⟩ مءِ زہگ آجا نہ گرانی.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "راضی بیت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "پہ روتگ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "تُءِ پشتءَ"
+    },
+    {
+      "surface": "ונקית",
+      "gloss": "ءُ پاک بیتے"
+    },
+    {
+      "surface": "משבעתי",
+      "gloss": "چہ مءِ قسمءِ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "רק",
+      "gloss": "بس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مءِ زہگ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "مءِ زہگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "گرانی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "آجا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:33:41.578172471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ آ پدا گربیت، ءُ یکے زہگ زائیت، ءُ آ ⟨את⟩ آییءِ نام اونان بانگ کت۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ءُ گربیت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ نام"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "اونان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:43:18.495251502Z",
+  "model": "glm-5.3"
+}

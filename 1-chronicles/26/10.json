@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ حوسہءَ — چہ زہگِ مِراری — زہگان اَتنت: شِمری ⟨سر⟩، پرچا کہ نہ اَت اولزاد، ءُ اَیءِ پِت آیءَ سرءَ کت.",
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "ءُ حوسہءَ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگِ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراریءِ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شِمری"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "اولزاد"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "ءُ آیءَ کت"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "اَیءِ پِت"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:31:10.855255278Z",
+  "model": "glm-5.3"
+}

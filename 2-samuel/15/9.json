@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ بادشاہ آییءَ گوَشت: گوں سکات روت۔ ءُ آ اُستیت ءُ روت حبرونءَ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "گوں سکات"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ءُ اُستیت"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "حبرونءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:57:25.492131326Z",
+  "model": "glm-5.3"
+}

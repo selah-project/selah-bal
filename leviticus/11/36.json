@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "بلے چشمہ ءُ کُہند — جُشءِ آپ — پاک بیت؛ ءُ آ چوں اِشانی لُشءَ دَست دیت ناپاک بیت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "ءُ کُہند"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "جُشءِ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ءُ دَست دیت"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "تہ اِشانی لُشءَ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:07.667389221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "کہ نہ توں تیہ شان دگہانیءَ بئے ءُ تیہ سالان بےرحمءَ بئے،",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "توں بئے"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "دگہانیءَ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "تیہ شان"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "ءُ تیہ سالان"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "بےرحمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:13.795904180Z",
+  "model": "glm-5.3"
+}

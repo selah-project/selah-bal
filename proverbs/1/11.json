@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اگر گوَشنت: ئے آ گوں ⟨את⟩ ما، چھپ اُٹھنت پہ خونءَ، کمین گنت پہ بےگنہءَ بے سبب،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "گوَشنت"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ئے آ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ گوں ما",
+      "marks": "ما"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "چھپ اُٹھنت"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "پہ خونءَ"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "کمین گنت"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "پہ بےگنہءَ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے سبب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:28.204409570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "ءُ تُوں چھوڑ کت ءُ پیش کت، غضب کت گوں وتءِ ماشیاحءَ۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تُوں"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "چھوڑ کت"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "ءُ پیش کت"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "غضب کت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "وتءِ ماشیاحءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:06:30.640370856Z",
+  "model": "glm-5.3"
+}

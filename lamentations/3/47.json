@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ڈر ءُ ڈگار ماں ءِ پہ بوتنت، بربادی ءُ شکست.",
+  "tokens": [
+    {
+      "surface": "פַּחַד",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "וָפַחַת",
+      "gloss": "ءُ ڈگار"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "بوتنت"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "ماں ءِ پہ"
+    },
+    {
+      "surface": "הַשֵּׁאת",
+      "gloss": "بربادی"
+    },
+    {
+      "surface": "וְהַשָּׁבֶר",
+      "gloss": "ءُ شکست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:27.781407047Z",
+  "model": "glm-5.3"
+}

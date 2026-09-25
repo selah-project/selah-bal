@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "منی دردءَ بنگر ءُ منی نجات بدہ، چون تُوءِ تورا من نہ چُمُشتاں۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "بنگر"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "منی درد"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "ءُ منی نجات بدہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تُوءِ تورا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "چُمُشتاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:37.035912852Z",
+  "model": "glm-5.3"
+}

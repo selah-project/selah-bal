@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ اگر اے گپ راستی اِنت، دوشیزگیءِ نشان جنکءَ پہ نہ لبزنت —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "نמצאו",
+      "gloss": "لبزنت"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "دوشیزگیءِ نشان"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "جنکءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:42.182459873Z",
+  "model": "glm-5.3"
+}

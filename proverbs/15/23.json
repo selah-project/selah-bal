@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "شادی اِنت مردءَ پہ وتی دہانءِ جوابءَ، ءُ گال وتی وہدءَ — چہ چنگ اِنت!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "مردءَ"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "پہ جوابءَ"
+    },
+    {
+      "surface": "پיו",
+      "gloss": "وتی دہانءِ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ءُ گال"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "وتی وہدءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:17.737745630Z",
+  "model": "glm-5.3"
+}

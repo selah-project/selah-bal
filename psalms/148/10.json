@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 148,
+  "translation": "جانور ءُ ہر مال، کشوک ءُ پر ءُ مرگ،",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "کشوک"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "ءُ مرگ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:53.546649485Z",
+  "model": "glm-5.3"
+}

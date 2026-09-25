@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اَرَچءِ زہگان، ہپت سد پنچ ءُ ہپتمی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "اَرَچءِ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ءُ ہپتمی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:10.238577872Z",
+  "model": "glm-5.3"
+}

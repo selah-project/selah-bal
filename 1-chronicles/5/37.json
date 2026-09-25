@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ عزریاہءَ ⟨את⟩ امرایہءَ زہگ کت، ءُ امرایہءَ ⟨את⟩ احیتوبءَ زہگ کت۔",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ … ءَ زہگ کت"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرایہ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امرایہءَ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ءُ امرایہءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زہگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "احیتوب"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "احیتوبءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:56.669216954Z",
+  "model": "glm-5.3"
+}

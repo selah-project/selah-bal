@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ اسرائیلءِ بادشاہ یک خاسہءَ بانگ کت ءُ گوَشت: میکہ، یِملاءِ زہگءَ، زری بیار۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "خاسہءَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "زری"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "میکہءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "یِملاءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:39:18.127338502Z",
+  "model": "glm-5.3"
+}

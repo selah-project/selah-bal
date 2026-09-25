@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "شالوم نیست، یاہوہءَ گوَشت، پہ زالمانءَ۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "پہ زالمانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:35:29.910507943Z",
+  "model": "glm-5.3"
+}

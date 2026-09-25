@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 1:11",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "چیخ کنیت، اے مکتیشءِ رہندگار، کیہ کہ کنعانءِ همگ قوم چپ بوتگ ءُ همگ چاندیءِ برتندوک پرت کتگنت۔",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "چیخ کنیت"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رہندگار"
+    },
+    {
+      "surface": "המכתש",
+      "gloss": "مکتیش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "چپ بوتگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همگ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "נכרתו",
+      "gloss": "پرت کتگنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همگ"
+    },
+    {
+      "surface": "נטילי",
+      "gloss": "برتندوک"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    }
+  ],
+  "timestamp": "2026-09-25T01:07:45.933923154Z",
+  "model": "glm-5.3"
+}

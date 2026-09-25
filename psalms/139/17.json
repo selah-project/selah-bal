@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 139,
+  "translation": "ءُ منیءَ چقد گران اَنت تریں سوچ، اے ایل — چقد گیش اِنت آیانی شمار!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "ءُ منیءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چقد"
+    },
+    {
+      "surface": "יקקרו",
+      "gloss": "گران اَنت"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "تریں سوچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے ایل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چقد"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "گیش اَنت"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "آیانی شمار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:45.271872781Z",
+  "model": "glm-5.3"
+}

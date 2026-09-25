@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "تُو ہم مست بیت، تُو ہم لُکیت بیت؛ تُو ہم دشمنءِ چمءَ پناہءِ جاگہ لبزی.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "את",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "مست بیت"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "لُکیت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "את",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "لبزی"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "پناہءِ جاگہ"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "دشمنءِ چمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:39:45.321509705Z",
+  "model": "glm-5.3"
+}

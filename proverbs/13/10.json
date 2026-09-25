@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ہمک چہ خودپسندی جھیڑا دیت، ءُ ⟨את⟩ مشورت کنوکانءَ دانش۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "چہ خودپسندیءَ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "جھیڑا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مشورت کنوکان"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "مشورت کنوکان"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:50.383734564Z",
+  "model": "glm-5.3"
+}

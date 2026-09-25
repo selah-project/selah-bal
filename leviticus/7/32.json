@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ ⟨את⟩ راست رانءَ گوں تروما کاہنءَ رات کنیں چہ وشما ءِ شلمءِ قربانیانی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ران"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ران"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "راست"
+    },
+    {
+      "surface": "תתנو",
+      "gloss": "رات کنیں"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "تروما"
+    },
+    {
+      "surface": "لכהן",
+      "gloss": "کاہنءَ"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "چہ قربانیانی"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "وشما ءِ شلم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:43.136682319Z",
+  "model": "glm-5.3"
+}

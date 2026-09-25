@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "راستاں اے گندنت ءُ شاد بنت، ءُ ہر زالمی وتی منہ بند کنیت۔",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "گندنت"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "راستاں"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ءُ شاد بنت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "زالمی"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "بند کنیت"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "وتی منہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:21.070582571Z",
+  "model": "glm-5.3"
+}

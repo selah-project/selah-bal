@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کاہنانءَ ⟨את⟩ حکم کن، گواہیءِ صندوقءِ اٹھاونوک، ءُ چڑنت چہ یاردنءَ.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "حکم کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہنانءَ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنانءَ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "اٹھاونوک"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوقءِ"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "گواہیءِ"
+    },
+    {
+      "surface": "ויעלو",
+      "gloss": "ءُ چڑنت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردنءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:04:11.263917940Z",
+  "model": "glm-5.3"
+}

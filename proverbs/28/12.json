@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "وختے کہ راستان شاد بنت، شان گیش اِنت؛ ءُ وختے کہ شریران اٹلنت، مردم لُک بنت.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "وختے کہ شاد بنت"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستان"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "شان"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "ءُ وختے کہ اٹلنت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریران"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "لُک بنت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:01.357946172Z",
+  "model": "glm-5.3"
+}

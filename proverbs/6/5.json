@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "خودءَ رہائی بگر چوش آهو چہ شکارگرءِ دستءَ، ءُ چوش مرگ چہ فالگرءِ دستءَ.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "خودءَ رہائی بگر"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "چوش آهو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "چہ دستءَ"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "ءُ چوش مرگ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "چہ دستءَ"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "فالگر"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:47.509720963Z",
+  "model": "glm-5.3"
+}

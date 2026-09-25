@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ہر کار نہ کنیت — ⟨اِنت⟩ قانونِ ہمیشہ پہ شماییں نسلان، تہ ہر شماییں رہائشاں۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "قانونِ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "پہ شماییں نسلان"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہر"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "شماییں رہائشاں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:27.102432057Z",
+  "model": "glm-5.3"
+}

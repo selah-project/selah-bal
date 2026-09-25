@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "آ روچءَ یاہوہ سباؤت زیورءِ تاج ءُ شانءِ تاج وتی قومءِ شامی پہ بیت۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "آ روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "تاج پہ"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "زیورءِ"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "ءُ تاج پہ"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "شانءِ"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "شامی پہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "وتی قوم"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:20.921210096Z",
+  "model": "glm-5.3"
+}

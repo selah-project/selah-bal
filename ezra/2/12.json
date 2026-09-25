@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "عزگدءِ زہگان، ہزار دو سد بیست ءُ دو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عزگدءِ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ءُ دو"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:31.209566516Z",
+  "model": "glm-5.3"
+}

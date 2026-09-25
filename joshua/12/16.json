@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "بادشاہءِ مکیدہ، یک؛ بادشاہءِ بیت ایل، یک؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "مکیدہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:11.053857576Z",
+  "model": "glm-5.3"
+}

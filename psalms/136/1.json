@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 136,
+  "translation": "شکر کنیں اے یاہوہءَ، کیجءَ آ چم اِنت، کیجءَ ابدءَ وتئے ہیسید اِنت۔",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "شکر کنیں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "اے یاہوہءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیجءَ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیجءَ"
+    },
+    {
+      "surface": "لעולם",
+      "gloss": "ابدءَ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "وتئے ہیسید"
+    }
+  ],
+  "timestamp": "2026-09-24T23:18:35.043626162Z",
+  "model": "glm-5.3"
+}

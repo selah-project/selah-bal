@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ شما ⟨את⟩ منءَ جواب دیت ءُ گوَشتاں: گال کہ تو گوَشتئے چوک اِنت پہ کرن۔",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "ءُ شما جواب دیت"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "منءَ"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ءُ گوَشتاں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تو گوَشتئے"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "پہ کرن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:53.345649614Z",
+  "model": "glm-5.3"
+}

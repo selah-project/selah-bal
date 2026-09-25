@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ مِتسراییں ⟨את⟩ ماءَ شر کتنت ءُ ماءَ ستمد کتنت ءُ ماءِ سرءَ سخت کار گتنت۔",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "ءُ شر کتنت"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ماءَ",
+      "marks": "ما"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "مِتسراییں"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "ءُ ماءَ ستمد کتنت"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ءُ گتنت"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ماءِ سرءَ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:31.553193501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اگر آییءِ قربانی یک بُز اِنت، آءِ یاہوہءِ پیشءَ پیش کنت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "עז",
+      "gloss": "بُز"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "آییءِ قربانی"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ءُ پیش کنت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:11:14.634441076Z",
+  "model": "glm-5.3"
+}

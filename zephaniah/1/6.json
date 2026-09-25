@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ⟨את⟩ جنکے کہ چہ یاہوہءِ پشتءَ پدم گنت، ءُ جنکے کہ یاہوہءَ نہ جست کت ءُ آییءَ نہ پرسیت",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پدم رووک"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "پدم رووک"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "چہ پشتءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ءُ جنکے کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "بקשו",
+      "gloss": "جست کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "آییءَ پرسیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:19.148895820Z",
+  "model": "glm-5.3"
+}

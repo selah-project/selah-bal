@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "کج دلءَ والا چیزے نیں کنت، ءُ آ کہ وتءِ زبانءَ پھیر کیت، برائیءَ کپیت۔",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "کج"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نیں"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چیزے"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ءُ پھیر کیت"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "وتءِ زبانءَ"
+    },
+    {
+      "surface": "یפול",
+      "gloss": "کپیت"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "برائیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:44.825670512Z",
+  "model": "glm-5.3"
+}

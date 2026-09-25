@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "مبارک اِنت یاہوہ، کیجہ آییءِ ہیسید منءَ پہ حصاریں شہرءَ شاندار کت.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک اِنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیجہ"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "شاندار کت"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "آییءِ ہیسید"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہرءَ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "حصاریں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:16.665360478Z",
+  "model": "glm-5.3"
+}

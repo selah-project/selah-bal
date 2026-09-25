@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "سیمءَ پہ تصفیہ گڈی اِنت ءُ زرءَ پہ کور، بلے دلیانءِ آزمائوک یاہوہ اِنت.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "تصفیہ گڈی"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "سیمءَ پہ"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "ءُ کور"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "زرءَ پہ"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "بلے آزمائوک"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "دلیانءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:11.352850432Z",
+  "model": "glm-5.3"
+}

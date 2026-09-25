@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ چیتءِ زہگان اَوراہامءَ جواب دیت ءُ آءَ گوَشت،",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ءُ جواب دیت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "چیتءِ زہگان"
+    },
+    {
+      "surface": "חת",
+      "gloss": "چیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراہامءَ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:42.945283320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ یاہوہءَ گوں موشہءَ گپ کت کہ گوَشت،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گپ کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:03:05.446601493Z",
+  "model": "glm-5.3"
+}

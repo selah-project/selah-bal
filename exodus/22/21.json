@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "کوئیں بیوہ ءُ یتیمءَ ستائے نہ کنیت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "کوئیں"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوہ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ءُ یتیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ستائے کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:46.743984724Z",
+  "model": "glm-5.3"
+}

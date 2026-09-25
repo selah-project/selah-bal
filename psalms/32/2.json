@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "خوش‌بخت اے کس کہ یاہوہ آییءَ بدی شمار نہ کنت، ءُ آییءِ روحءَ چالکی نیست۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش‌بخت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اے کس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "شمار کنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "آییءِ روحءَ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "چالکی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:02.093769185Z",
+  "model": "glm-5.3"
+}

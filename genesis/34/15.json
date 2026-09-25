@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 34:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "بس اے شرطءَ ما تُمانیں رضایت کنیں: اگر تُم گوَنڈیں چوش ما بیت، کہ تُمءِ ہر نرینہ ختنہ ببیت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بس"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "اے شرطءَ"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "رضایت کنیں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُمانیں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "چوش ما"
+    },
+    {
+      "surface": "להמל",
+      "gloss": "ختنہ ببیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُمءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نرینہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:40.286694885Z",
+  "model": "glm-5.3"
+}

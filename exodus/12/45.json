@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "مقیم ءُ مزدور آ نہ کھاپت۔",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "مقیم"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ءُ مزدور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاپت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تہ آیی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:55:36.522069636Z",
+  "model": "glm-5.3"
+}

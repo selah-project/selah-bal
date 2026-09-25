@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ آیانءَ گوَشت: ترہ سئے روچ، ءُ منءَ باز گڑ آیت؛ ءُ قوم روت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "آیانءَ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ترہ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ءُ باز گڑ آیت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-09-25T00:37:21.967019916Z",
+  "model": "glm-5.3"
+}

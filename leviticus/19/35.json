@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "مہ داڑءَ بے انصافی مکن، نہ مہ پیمانہءَ، نہ مہ وزنءَ، ءُ نہ مہ ترازوءَ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "مکن"
+    },
+    {
+      "surface": "עול",
+      "gloss": "بے انصافی"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "مہ داڑءَ"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "مہ پیمانہءَ"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "مہ وزنءَ"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ءُ مہ ترازوءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:15.648592347Z",
+  "model": "glm-5.3"
+}

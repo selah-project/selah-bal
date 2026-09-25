@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "کم‌عقلءِ گوشانءَ گپ مہ زن، پرچا کہ آ تریں لبزاںءِ سمجءَ حقارت کنت.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "گوشانءَ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کم‌عقلءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "گپ مہ زن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "حقارت کنت"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "پہ …سمجءَ"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "تریں لبزاںءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:11.812258832Z",
+  "model": "glm-5.3"
+}

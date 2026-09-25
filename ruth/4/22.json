@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ عوبید یشایءَ پیدا کت، ءُ یشای داؤدءَ پیدا کت۔",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ءُ عوبید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یشایءَ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یشای"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ءُ یشای"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داؤدءَ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    }
+  ],
+  "timestamp": "2026-09-24T23:46:55.794741877Z",
+  "model": "glm-5.3"
+}

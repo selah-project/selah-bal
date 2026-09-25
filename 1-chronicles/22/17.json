@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ داودءَ سئے سردارانی اسرائیلءَ حکم دات کہ شلموہءَ، آییءِ زہگءَ، کومک کننت —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ءُ حکم دات"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ سئے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردارانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "پہ کومکءَ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلموہءَ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:33.052901928Z",
+  "model": "glm-5.3"
+}

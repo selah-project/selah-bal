@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ ہر کہ آییءَ پَرءِ بال ءُ پَنءِ چھتر نیست، بت نہ وانیت؛ آ ⟨اِنت⟩ پاک نہ ات پہ وتے.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پَرءِ بال"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ءُ پَنءِ چھتر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "بت وانیت"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پاک نہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ وتے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:41.438960798Z",
+  "model": "glm-5.3"
+}

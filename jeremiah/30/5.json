@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "چون اے گوَشت یاہوہ: ہلگءِ آواز مے گوشتگ اِنت — درز، ءُ ⟨هست⟩ نیست آرام۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "ہلگءِ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "مے گوشتگ اِنت"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "درز"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "آرام"
+    }
+  ],
+  "timestamp": "2026-09-24T21:55:52.078341699Z",
+  "model": "glm-5.3"
+}

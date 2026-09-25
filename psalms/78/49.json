@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "آیی اشانءَ وتی غضبءِ بروتنت روان کت — غصہ ءُ خشم ءُ منج، روانی پیغامانی شر۔",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "روان کت"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اشانءَ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "بروتنت"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "وتی غضبءِ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "ءُ خشم"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "ءُ منج"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "روانی"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "پیغامانی"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "شر"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:34.298150667Z",
+  "model": "glm-5.3"
+}

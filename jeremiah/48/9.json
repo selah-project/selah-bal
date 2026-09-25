@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 48:9",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "مُوآبءَ بال دِیں، پرچا کہ آ بروت ءُ درکپت، ءُ آییءِ شاران پہ ویرانی بیت، بے کسے کہ آیانی تہ جاہ گر بیت۔",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "دِیں"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "بال"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "مُوآبءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "بروت"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ءُ درکپت"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "ءُ آییءِ شاران"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "پہ ویرانی"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بے"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "کسے"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "آیانی تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:03:26.455713797Z",
+  "model": "glm-5.3"
+}

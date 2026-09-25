@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "اِشاں، من برکت گپتگ، ءُ برکت دیم ءُ من آیاءَ نہ پدا گرانیٹ۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اِشاں"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "من … گپتگ"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ءُ برکت دیم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "آیاءَ پدا گرانیٹ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:37.869369093Z",
+  "model": "glm-5.3"
+}

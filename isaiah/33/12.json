@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "ءُ قومان چوش چوناءِ سوڑانی بنت؛ کانڑا چوش کہ کاٹگ بنت، آشءَ گرنت۔",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ءُ بنت"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "سوڑانی"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "چونا"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "کانڑا"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "کاٹلگ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آشءَ"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "گرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:29:36.797984812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "پروچہ گر مرد شارءَ بھاکننت، بلے دانا قہرءَ پدا گرنت۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "پروچہ گر"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "بھاکننت"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شارءَ"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "بلے دانا"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "پدا گرنت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "قہرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:23.312611402Z",
+  "model": "glm-5.3"
+}

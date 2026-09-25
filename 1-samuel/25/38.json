@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ بوت چہ دہ روچانی پچا کہ یاہوہ ⟨את⟩ نابالءَ زد ءُ آ مرد۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "چہ دہ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "زد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نابال"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T20:38:31.916613195Z",
+  "model": "glm-5.3"
+}

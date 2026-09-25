@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 20:22",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ چہ قادِش روتنت، ءُ یسرائیلءِ زہگان — تمامی جماعت — کوءِ ہور، آ کوہءَ، رسنت.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ءُ روتنت"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "چہ قادِش"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ءُ رسنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیلءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامی"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوءِ ہور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "آ کوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:38:19.432718487Z",
+  "model": "glm-5.3"
+}

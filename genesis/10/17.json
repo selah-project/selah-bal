@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ ⟨את⟩ حِیّی ءُ ⟨את⟩ عَرقی ءُ ⟨את⟩ سینی۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حِیّی"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حِیّی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "عَرقی"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "عَرقی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "سینی"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "سینی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:27:06.510804195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "یاہوہءِ داران سیر انت، لبنانءِ دیوان، آ کہ آیءَ کانتگ انت۔",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "سیر انت"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "داران"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "دیوان"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لبنانءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "کانتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:10:23.851110265Z",
+  "model": "glm-5.3"
+}

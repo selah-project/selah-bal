@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 72,
+  "translation": "آ پہ غریب ءُ محتاج ہمدردی کنیت ءُ محتاجانی جانان رہا کنیت۔",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "ہمدردی کنیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ءُ محتاج"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "ءُ جانان"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "محتاجانی"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "رہا کنیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:26.011737788Z",
+  "model": "glm-5.3"
+}

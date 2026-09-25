@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "من سست مردیءِ کشتءِ سرءَ گذشتیم ءُ کم‌دل آدمیءِ انگوری باغءِ سرءَ۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کشت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردی"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سست"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "گذشتیم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ سرءَ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگوری باغ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:00.144957971Z",
+  "model": "glm-5.3"
+}

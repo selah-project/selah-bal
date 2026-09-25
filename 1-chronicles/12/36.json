@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ چہ دانئیں، جنگءَ صف بند کنوکی — بیست ءُ ہشت ہزار ءُ شش سد.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "دانئیں"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "صف بند کنوکی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگءَ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ءُ ہشت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ءُ شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    }
+  ],
+  "timestamp": "2026-09-25T00:26:26.902508676Z",
+  "model": "glm-5.3"
+}

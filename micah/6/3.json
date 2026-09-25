@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "منی قوم! من تہءَ چہ کتا، ءُ چہ تہ ءَ تھکایتگ اَت؟ منی رندءَ جواب دِر۔",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "منی قوم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کتا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "تہ ءَ تھکایتگ اَت"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "جواب دِر"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منی رندءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:41:06.364330965Z",
+  "model": "glm-5.3"
+}

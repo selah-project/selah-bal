@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "رہا بیت چہ غصہ ءُ پاک بیت چہ جوش؛ نہ غصہ مکن — ہمک پہ شرءِ کارءَ رسیت.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "رہا بیت"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "چہ غصہ"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ءُ پاک بیت"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "چہ جوش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "غصہ مکن"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "لהרע",
+      "gloss": "پہ شرءِ کار"
+    }
+  ],
+  "timestamp": "2026-09-25T01:08:20.965797954Z",
+  "model": "glm-5.3"
+}

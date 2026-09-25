@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "ایشان یاہوہءِ کاران دیستنت ءُ آییءِ عجیب کاران تہہءَ",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ایشان"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "دیستنت"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کاران"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ءُ آییءِ عجیب کاران"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "تہہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:52.907597235Z",
+  "model": "glm-5.3"
+}

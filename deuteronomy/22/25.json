@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ اگر مرد تہ کیشتزارءَ منگوتگیں جنک ⟨את⟩ پدا کت، ءُ مرد آییءَ گوں زور گرپت ءُ گوں آ نزد کت، آ مرد کہ گوں آ نزد کت آے تنے مُرت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "تہ کیشتزارءَ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "پدا کت"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جنک"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "منگوتگیں"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "ءُ گوں زور گرپت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ءُ نزد کت"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "گوں آ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ءُ مُرت"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آ مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "نزد کتگ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "گوں آ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "آے تنے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:57:47.684038034Z",
+  "model": "glm-5.3"
+}

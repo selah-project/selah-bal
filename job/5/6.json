@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "کی کہ چہ گیڑکءَ اون نہ روت، ءُ چہ ڈگارءَ محنت نہ چرنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "چہ گیڑکءَ"
+    },
+    {
+      "surface": "און",
+      "gloss": "اون"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "ءُ چہ ڈگارءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "چرنت"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:33:43.647117899Z",
+  "model": "glm-5.3"
+}

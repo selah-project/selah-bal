@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "کوڑی ءُ بیکار چیزیں ماں ءَ گریت کتگ ئے ما قومانءِ میانءَ.",
+  "tokens": [
+    {
+      "surface": "סְחִי",
+      "gloss": "کوڑی"
+    },
+    {
+      "surface": "וּמָאוֹס",
+      "gloss": "ءُ بیکار چیزیں"
+    },
+    {
+      "surface": "תְּשִׂימֵנוּ",
+      "gloss": "ماں ءَ گریت کتگ ئے"
+    },
+    {
+      "surface": "בְּקֶרֶב",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "הָעַמִּים",
+      "gloss": "قومانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:49:27.777262743Z",
+  "model": "glm-5.3"
+}

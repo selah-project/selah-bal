@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 2:11",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ گال کہ بادشاہ پچیت گران اِنت ءُ دگری نیست کہ آیی بادشاہءَ پیش پیش کنت، مگر ہدایان کہ آیانی جاگہ گوں گوشتءَ نیست۔",
+  "tokens": [
+    {
+      "surface": "ומלתא",
+      "gloss": "ءُ گال"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پچیت"
+    },
+    {
+      "surface": "יקירה",
+      "gloss": "گران"
+    },
+    {
+      "surface": "ואחרן",
+      "gloss": "ءُ دگری"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "איתי",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יחונה",
+      "gloss": "پیش کنت"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "پیش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہءَ"
+    },
+    {
+      "surface": "להן",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אלהין",
+      "gloss": "ہدایان"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מדרהון",
+      "gloss": "آیانی جاگہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "בשרא",
+      "gloss": "گوشتءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "איתוהי",
+      "gloss": "ہست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:59:12.054301127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "دہانءِ داریت وتی جان چاریت؛ لبان پھاڑوکءِ پہ تباهی اِنت۔",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "داریت"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "دہانءِ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "چاریت"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "وتی جان"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "پھاڑوک"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لبانءِ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "تباهی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:52.869545846Z",
+  "model": "glm-5.3"
+}

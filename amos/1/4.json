@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ من آتشیں بیت چہ حزائیلءِ گدءَ ءُ آ بن ہددءِ قلعہانءَ پچیت۔",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ءُ من … بیت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتشیں"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "چہ … گدءَ"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "حزائیلءِ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ءُ آ … پچیت"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "قلعہانءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ہدد"
+    }
+  ],
+  "timestamp": "2026-09-24T22:34:56.289325131Z",
+  "model": "glm-5.3"
+}

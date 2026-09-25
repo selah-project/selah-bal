@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ من چہ منءِ آقاءَ گوَشت: شاید آ جنک منءِ پشتا نہ روت۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ من گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "منءِ آقاءَ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "شاید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "آ جنک"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "منءِ پشتا"
+    }
+  ],
+  "timestamp": "2026-09-24T18:34:19.720678877Z",
+  "model": "glm-5.3"
+}

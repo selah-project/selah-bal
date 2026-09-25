@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "مذاق گرءَ آموژنک وتءَ رِسوائی گنت، ءُ بدکارءَ نصیحت دئونک آیی داغ گنت.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "آموژنت"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "مذاق گرءَ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "وتءَ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "رِسوائی"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "ءُ نصیحت دئونک"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "بدکارءَ"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "آیی داغ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:27.349182615Z",
+  "model": "glm-5.3"
+}

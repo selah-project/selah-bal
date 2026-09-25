@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "راست اِنت تو، اے یاہوہ، ءُ راست اِنت تیں فیصلے۔",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ءُ راست"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "تیں فیصلے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:13.881751412Z",
+  "model": "glm-5.3"
+}

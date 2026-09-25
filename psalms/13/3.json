@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "چہ کجا مشورتاں مہ جانءَ تہ گم کاں؟ غم مہ دلءَ تہ، شپءُروچ؟ چہ کجا مہ دشمن مہ سراں اُچے بیت؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "گم کاں"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "مشورتاں"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "مہ جانءَ تہ"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "غم"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "مہ دلءَ تہ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "شپءُروچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "اُچے بیت"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "مہ دشمن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مہ سراں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:10.887679593Z",
+  "model": "glm-5.3"
+}

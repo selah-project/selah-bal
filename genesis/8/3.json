@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ آپان چہ زمینءَ پدا روتنت، روت ءُ روت، ءُ سد ءُ پنجاه روچءِ پسہ آپان کم بوتنت۔",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ءُ پدا روتنت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "ءُ کم بوتنت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپان"
+    },
+    {
+      "surface": "مקצה",
+      "gloss": "پسہ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ءُ سد"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:26:29.721097794Z",
+  "model": "glm-5.3"
+}

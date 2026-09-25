@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "اگر تہری تورا مہ خوشی نہ اَت، اَز مہ بچاریءَ تہ ہلاک بوت اَت.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "اگر نہ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تہری تورا"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "مہ خوشی"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اَز"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "ہلاک بوت اَت"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "مہ بچاریءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:15.265943478Z",
+  "model": "glm-5.3"
+}

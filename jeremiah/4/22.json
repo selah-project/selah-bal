@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 4:22",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کیہ ماءِ قوم نادان اِنت، ⟨את⟩ منءَ نہ زانتنت؛ زہگان کوڑیں اِش، ءُ عاقل نہ اِش؛ پہ شر کتن دانا اِش، ءُ پہ رست کتن نہ زانتنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ماءِ قوم"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "منءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "زانتنت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "סכלים",
+      "gloss": "کوڑیں"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נבונים",
+      "gloss": "عاقل"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "پہ شر کتن"
+    },
+    {
+      "surface": "ולהיטיב",
+      "gloss": "ءُ پہ رست کتن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "زانتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:44:44.475348120Z",
+  "model": "glm-5.3"
+}

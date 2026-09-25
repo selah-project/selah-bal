@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "ءُ یوسف پہ فرعونءَ گوَشت: فرعونءِ چم یک ⟨اِنت⟩؛ آ ⟨את⟩ آ کہ ایلوہیم کنیت، آیی فرعونءَ گوشنتیتگ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "چم"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعونءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آ کہ ایلوہیم کنیت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "گوشنتیتگ"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "فرعونءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:43:59.791270233Z",
+  "model": "glm-5.3"
+}

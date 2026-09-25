@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ تو گپ — چہ ہر خوارک کہ خوار بیت وتیءَ گپ ءُ آیانءَ وتیءَ کٹ ءُ آ توءِ پہ ءُ اِشانی پہ خوارگیں بیت.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "קח",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وتیءَ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہر"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "خوارک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوار بیت"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ءُ کٹ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "وتیءَ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءِ پہ"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "ءُ اِشانی پہ"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "خوارگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:52.365693473Z",
+  "model": "glm-5.3"
+}

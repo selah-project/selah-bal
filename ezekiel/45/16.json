@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "زمینءِ تمام قوم اے پیش‌کشءَ پہ اِسرائیلءِ سردارءَ بیت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ءَ⟩"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "اے پیش‌کشءَ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "پہ سردارءَ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اِسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:27:33.938527313Z",
+  "model": "glm-5.3"
+}

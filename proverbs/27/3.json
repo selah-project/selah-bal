@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "سنگءِ گرانی ءُ ریتءِ بار، ءُ اَوَلءِ خفا چہ دگانی گیش تر گرانیں اِنت.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "گرانی"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "سنگءِ"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "ءُ بار"
+    },
+    {
+      "surface": "החול",
+      "gloss": "ریتءِ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ءُ خفا"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "اَوَلءِ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "گرانیں"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "چہ دگانی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:09.256537488Z",
+  "model": "glm-5.3"
+}

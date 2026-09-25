@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ کاہن ⟨את⟩ اے لعنتانءَ کتابءَ نبشت، ءُ آءَ چچڑانِ آپءَ تہ مہ کنت.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "ءُ نبشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لعنتانءَ"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "لعنتانءَ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "کتابءَ"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "ءُ مہ کنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "آپانِ"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "چچڑانِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:30:02.702850945Z",
+  "model": "glm-5.3"
+}

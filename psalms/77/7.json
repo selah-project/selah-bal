@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 77:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "آں یاد کَنت مانی گیت تہ شپ، گوں مانی دل آں سوچیت، ءُ مانی روح پدا گشت۔",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "آں یاد کَنت"
+    },
+    {
+      "surface": "נגינתי",
+      "gloss": "مانی گیت"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "تہ شپ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "مانی دل"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "آں سوچیت"
+    },
+    {
+      "surface": "ויחפש",
+      "gloss": "ءُ پدا گشت"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "مانی روح"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:29.494074464Z",
+  "model": "glm-5.3"
+}

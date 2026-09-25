@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 37:17",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ ⟨את⟩ آیانءَ یک گوں یک پہ تئے نزیک کن پہ یک دارءَ ءُ آ یکتا بنت تئے دستیءَ تہ.",
+  "tokens": [
+    {
+      "surface": "וקרב",
+      "gloss": "ءُ نزیک کن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "یک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تئے"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "پہ یک دارءَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ءُ بنت"
+    },
+    {
+      "surface": "לאחדים",
+      "gloss": "یکتا"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تئے دستیءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:24:35.853758062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ ⟨את⟩ آییءِ دو زہگان، کہ اکیں نام گیرشوم اَت، چوکہ گوَشت: مانہیں وت بوتم یک بیگانگیں زمینءَ۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دو زہگان"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "آییءِ زہگان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اکیں"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گیرشوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوکہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مانہیں"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "وت بوتم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بیگانگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:59:21.926048297Z",
+  "model": "glm-5.3"
+}

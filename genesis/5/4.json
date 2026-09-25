@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ آدمءِ روچاں پد چہ ⟨את⟩ شیتءَ جنِشتگ ہشت سد سال اَنت، ءُ زہگان ءُ جنکانءَ جنِشت.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچاں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پد چہ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "جنِشتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شیتءَ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شیتءَ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ہشت"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ءُ جنِشت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ءُ جنکان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:57.475385992Z",
+  "model": "glm-5.3"
+}

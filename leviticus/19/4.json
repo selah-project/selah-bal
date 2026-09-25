@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "سانگے بتانءَ چہ مڑ نہ کیت، ءُ رگیتگیں ایلوہیم پہ تما نہ جوڑ کیت؛ من اَں یاہوہ تماءِ ایلوہیم.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפנو",
+      "gloss": "مڑ کیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "سانگے بتانءَ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ءُ ایلوہیم"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "رگیتگیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "جوڑ کیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ تما"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تماءِ ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:20:32.064881212Z",
+  "model": "glm-5.3"
+}

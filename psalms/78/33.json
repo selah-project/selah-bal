@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "پس آیانی روچان ہیچانءَ کس کت ءُ آیانی سالان دہشتءَ.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "کس کت"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ہیچانءَ"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "آیانی روچان"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "ءُ آیانی سالان"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "دہشتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:29.223624838Z",
+  "model": "glm-5.3"
+}

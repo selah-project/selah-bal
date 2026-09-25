@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "آدمءِ زہگ، ئا چی بیت انگورءِ دار چہ تمامیں داراں، شاخ کہ دارانی جنگلءِ میان اَت؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ئا چی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "انگورءِ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ تمامیں"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "داراں"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "شاخ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "دارانی"
+    },
+    {
+      "surface": "היער",
+      "gloss": "جنگلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:13:07.900253123Z",
+  "model": "glm-5.3"
+}

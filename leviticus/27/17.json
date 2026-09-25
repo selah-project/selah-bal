@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "اگر چہ یوبلءِ سالءَ آییءِ میدانءَ پاک کنت، گوں تئے اندازہ آ قائم بیت۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "چہ سالءَ"
+    },
+    {
+      "surface": "ہיבל",
+      "gloss": "یوبلءِ"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "پاک کنت"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "آییءِ میدانءَ"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "گوں تئے اندازہ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قائم بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:27:09.834219454Z",
+  "model": "glm-5.3"
+}

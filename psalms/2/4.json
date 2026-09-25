@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "آیی کہ آسمانءَ نشتگ اِنت ہنسِت؛ اڈونای آیانءَ ٹوک ئے کنت۔",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "نشتنئوک"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانءَ"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ہنسِت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اڈونای"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ٹوک ئے کنت"
+    },
+    {
+      "surface": "למו",
+      "gloss": "آیانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:20.689963835Z",
+  "model": "glm-5.3"
+}

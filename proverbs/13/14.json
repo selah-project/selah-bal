@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "حکیمءِ تورا زندگیءِ چشمہ ⟨اِنت⟩، پہ گریز کنگ چہ مرگءِ دامان.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیمءِ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیءِ"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "پہ گریز کنگ"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "چہ دامان"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:26.767497525Z",
+  "model": "glm-5.3"
+}

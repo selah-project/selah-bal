@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ مرت الیملک، مردِ ناعومی، ءُ اَرت آ ءُ آییءِ دو زہگ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "الیملک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردِ"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ناعومی"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ءُ اَرت"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:48:44.737864080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "منی اِنت چاندی ءُ منی اِنت زر — یاہوہ سباؤتءِ فرمان۔",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "منی"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ءُ منی"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:41:48.768125272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "چون تُو ⟨את⟩ زمینءَ کار کنیءَ، آ نہ پدا وتی زور تُوءَ دیت گنت؛ تُو زمینءَ سر کوج ءُ روان بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چون"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "کار کنیءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمینءَ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "תת",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "وتی زور"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُوءَ"
+    },
+    {
+      "surface": "נע",
+      "gloss": "کوج"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "ءُ روان"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ سر"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:09.658056206Z",
+  "model": "glm-5.3"
+}

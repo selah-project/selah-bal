@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ بوت چہ روزانءَ، ءُ عمونءِ زہگان گوں اِسرائیلءَ جننگ کت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "چہ روزان"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ءُ جننگ کتنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمونءِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:21:24.348664571Z",
+  "model": "glm-5.3"
+}

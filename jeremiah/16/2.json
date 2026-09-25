@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "تو وتءَ زن نہ گر، ءُ ترئے اے جاگہءَ زہگ ءُ جنکیں زہگ نہ بنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو وتءَ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ترئے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ءُ جنکیں زہگ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جاگہءَ تہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T21:50:11.179046517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "دانا مردم ⟨את⟩ نادانءَ داہی کنت، ءُ آ جوشیت ءُ کاندیت، ءُ آرام نیست۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "داہی کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نادانءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "ءُ جوشیت"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "ءُ کاندیت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آرام"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:37.769130989Z",
+  "model": "glm-5.3"
+}

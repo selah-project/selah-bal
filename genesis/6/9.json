@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "اے نوحءِ نسلانی نیام اَنت۔ نوح یک راستیں ءُ پوریں مرد اَت وتی نسلاناں؛ نوح گوں ⟨את⟩ ایلوہیم روت۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسلانی نیام"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستیں"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "وتی نسلاناں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:24.663857790Z",
+  "model": "glm-5.3"
+}

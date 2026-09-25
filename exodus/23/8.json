@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ رشوت نہ گر، پرچا کہ رشوت چشمانءَ کور کنیت ءُ راستانی گالانءَ پجاریت۔",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "ءُ رشوت"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "گر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "کور کنیت"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "چشمانءَ"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ءُ پجاریت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالانءَ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:00:17.441122342Z",
+  "model": "glm-5.3"
+}

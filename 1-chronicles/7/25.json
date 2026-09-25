@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ رَپح آییءِ زہگ، ءُ ریشف، ءُ تِلح آییءِ زہگ، ءُ تَحان آییءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "ءُ رَپح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "ءُ ریشف"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "ءُ تِلح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "ءُ تَحان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:35.764952877Z",
+  "model": "glm-5.3"
+}

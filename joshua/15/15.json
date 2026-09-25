@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ آ چہ اُت دبیرءِ وسیوکانی لڑا پرت؛ ءُ دبیرءِ نام اولیں وہدءَ قریت سفر اَت۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "پرت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "چہ اُت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لڑا ءَ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسیوکانی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دبیرءِ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ءُ نام"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دبیرءِ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "اولیں وہدءَ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفر"
+    }
+  ],
+  "timestamp": "2026-09-24T20:10:36.613352195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "ءُ شما اے زمین ⟨את⟩ پہ خودتان ونڈیت، پہ اسرائیلءِ ٹولیانءِ چوں.",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "ءُ ونڈیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ خودتان"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "پہ ٹولیانءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T22:27:49.837233267Z",
+  "model": "glm-5.3"
+}

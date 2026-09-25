@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "تُءُ پیت شاد بیت ءُ تُءِ ماں، ءُ تُءِ زائوک گون بیت۔",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تُءُ پیت"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "ءُ تُءِ ماں"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ءُ گون بیت"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "تُءِ زائوک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:55.113306993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "بلے مالءَ ما اسیءِ پہ لوٹ کت، ءُ شارانی لوٹ کہ ما گپتگی اِنت.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "لوٹ کت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسیءِ پہ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ءُ لوٹ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شارانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "لכדנו",
+      "gloss": "گپتگی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:55.163341255Z",
+  "model": "glm-5.3"
+}

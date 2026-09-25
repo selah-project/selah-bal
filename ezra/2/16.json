@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "آٹیرءِ زہگان کہ حِزقیاہءِ (نسل) اَنت، نَوَے ءُ ہشت۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "آٹیرءِ"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "حِزقیاہءِ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نَوَے"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ءُ ہشت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:26.698498194Z",
+  "model": "glm-5.3"
+}

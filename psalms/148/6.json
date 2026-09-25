@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 148,
+  "translation": "ءُ آءَ آیانءَ بہست کت پہ ہمیشہ، پہ وتھی؛ قانونی دات ءُ نہ گوزریت.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "ءُ آءَ آیانءَ بہست کت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "پہ ہمیشہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "پہ وتھی"
+    },
+    {
+      "surface": "חק",
+      "gloss": "قانونی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "گوزریت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:40.373508096Z",
+  "model": "glm-5.3"
+}

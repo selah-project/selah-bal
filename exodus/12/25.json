@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ بیت کہ شماریت چو آرا کہ یاہوہ شما پہ دیتءُ، چو آیی گوَشتگ، ءُ شما ⟨את⟩ اے خِدمت راہ بداریت۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "شماریت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "آرا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیتءُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "شما پہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشتگ"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ءُ شما راہ بداریت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے خِدمت"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "خِدمت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T18:56:55.523747719Z",
+  "model": "glm-5.3"
+}

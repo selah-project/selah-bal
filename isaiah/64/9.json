@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 64,
+  "translation": "تُءِ پاک شہران وبیتگنت بیابان، تسیون بیابان بوتگ، یرشلم ویرانی بوت",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "شہران"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "تُءِ پاک"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وبیتگنت"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوتگ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یرشلم"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویرانی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:42:08.077624816Z",
+  "model": "glm-5.3"
+}

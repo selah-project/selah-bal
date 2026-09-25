@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "زمین رفایمءِ شمار بیت، آ ہم؛ رفایم آئیءَ تہ پہلواں جتنت، ءُ عامونی آشانءَ زمزمی بانگ کننت۔",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "شمار بیت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "جتنت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آئیءَ تہ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پہلواں"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "ءُ عامونی"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "بانگ کننت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "آشانءَ"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "زمزمی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:04.853003927Z",
+  "model": "glm-5.3"
+}

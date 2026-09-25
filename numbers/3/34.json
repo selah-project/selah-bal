@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 3:34",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ایشانی شمار — ہر نر، چہ یک ماہءِ زہگ ءُ روٹی — شش ہزار ءُ دو سد اِنت.",
+  "tokens": [
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ءُ ایشانی شمار"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "شمارءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "چہ زہگ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "یک ماہءِ"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ءُ روٹی"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ءُ دو سد"
+    }
+  ],
+  "timestamp": "2026-09-24T19:28:03.436765472Z",
+  "model": "glm-5.3"
+}

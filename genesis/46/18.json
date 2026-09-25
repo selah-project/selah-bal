@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 46:18",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "اے زِلپہءِ زہگان اِنت، کہ لابن آییءِ جنک لِیاءَ داتگ، ءُ آ مِہتر یعقوبءَ ⟨את⟩ اِشاںءَ زائیت — شش ءُ دہ جانین.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلپہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داتگ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "لِیاءَ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "آییءِ جنک"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ آ زائیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِشاںءَ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوبءَ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ءُ دہ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانین"
+    }
+  ],
+  "timestamp": "2026-09-24T18:47:22.776245072Z",
+  "model": "glm-5.3"
+}

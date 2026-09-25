@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ہمے چوں ہمیشہ بیت ابر آییءَ ڈھپیت ءُ شپءِ وہدءَ آتشءِ منظر۔",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ہمے چوں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ابر"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "آییءَ ڈھپیت"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ءُ منظر"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آتشءِ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپءِ وہدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:32:59.695388929Z",
+  "model": "glm-5.3"
+}

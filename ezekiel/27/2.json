@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "ءُ تو، آدمءِ زہگ، صُورءِ سرءَ یک ماتمءِ نوحہ اُٹھا،",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ءُ تو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمءِ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "اُٹھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءِ سرءَ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ماتمءِ نوحہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:19:38.813224160Z",
+  "model": "glm-5.3"
+}

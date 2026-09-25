@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یک روچ بوت، ءُ آئے آت اوتا، ءُ اِنتِرت بالاخانہءَ، ءُ چپت بوت اوتا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "היום",
+      "gloss": "یک روچ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آئے آت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتا"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ءُ اِنتِرت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "بالاخانہءَ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ءُ چپت بوت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتا"
+    }
+  ],
+  "timestamp": "2026-09-24T21:09:03.871209624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ بوت، کہ چوش کہ شموئیل پیر بوت، آ ⟨את⟩ وتی زہگان پہ یسرائیل داوران کت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پیر بوت"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی زہگان"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "وتی زہگان"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "داوران"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "پہ یسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T20:27:37.797925140Z",
+  "model": "glm-5.3"
+}

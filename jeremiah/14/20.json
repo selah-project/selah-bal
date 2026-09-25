@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "زانیت اے یاہوہ، مئں بدکاری ءُ مئں پدرانی گناه، چہ پہ ماں تہءَ گناه کت۔",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "زانیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "مئں بدکاری"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "مئں پدرانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چہ پہ"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "گناه کت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:50:12.039420376Z",
+  "model": "glm-5.3"
+}

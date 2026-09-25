@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 96,
+  "translation": "کیہ کہ یاہوہ گیش اِنت ءُ گیش ستائیتگ، آ ترسءِ آور اِنت تمامی ہدایانءِ سرءَ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ءُ ستائیتگ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ترسءِ آور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ءِ سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:44.119416401Z",
+  "model": "glm-5.3"
+}

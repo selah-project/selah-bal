@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "نحیمیا ءُ حکلیاہءِ زہگءِ گالان. ءُ بوت ماہ کسلوءَ، بیستمیں سالءَ، ءُ من اَتم شوشنءِ قلعہءَ تہ.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "نحیمیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "حکلیاہ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ماہ …ءَ"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "کسلو"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "عשרים",
+      "gloss": "بیستمیں"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "اَتم"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "شوشنءِ … تہ"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قلعہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:13:36.394811563Z",
+  "model": "glm-5.3"
+}

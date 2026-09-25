@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 62,
+  "translation": "بےشک آدمءِ زہگان ہبل اِنت، ءُ مردءِ زہگان دروغ؛ ترازوانءَ چڑھتنگاں آ چہ ہبل ہمگ سبکتر اِنت۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بےشک"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "ترازوانءَ"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "چڑھتنگ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "چہ ہبل"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ہمگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:29.095889018Z",
+  "model": "glm-5.3"
+}

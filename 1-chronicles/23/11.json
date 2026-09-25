@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 23:11",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ یاحت سر اُت ءُ زیزا دوم؛ ءُ یعوش ءُ بریعہ گیش زہگ نہ اَنتنت، ءُ اِشاں یک پیوءِ گڈءِ شان یک شمارءَ بوتنت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاحت"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וזיזה",
+      "gloss": "ءُ زیزا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوم"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ءُ یعوش"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ءُ بریعہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "گیش اَنتنت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ءُ بوتنت"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گڈءِ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیوءِ"
+    },
+    {
+      "surface": "לפקדה",
+      "gloss": "شمارءَ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:14.142855393Z",
+  "model": "glm-5.3"
+}

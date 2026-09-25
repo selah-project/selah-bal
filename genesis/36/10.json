@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "اے عیسوءِ زہگانی نام اِنت: اِلیفز، عادہءِ زہگ — عیسوءِ زناک — ءُ رعوئیل، بشمتءِ زہگ — عیسوءِ زناک.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسوءِ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادہءِ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زناک"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسوءِ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوئیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بشمتءِ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زناک"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسوءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:28.644124667Z",
+  "model": "glm-5.3"
+}

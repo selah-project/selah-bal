@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "چونکہ من واقعی چہ عبریانی زمینءَ چوری بوتگ اَت، ءُ اےڈا ہم من ہچ چیز نہ کتگ کہ منءَ ⟨את⟩ گڈیءَ تہ شارنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چوری"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "چوری بوتگ اَت"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "چہ زمین"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "عبریانی"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "פה",
+      "gloss": "اےڈا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "عשיתי",
+      "gloss": "من کتگ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ہچ چیز"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "شارنت"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "گڈیءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:44:09.953293613Z",
+  "model": "glm-5.3"
+}

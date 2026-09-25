@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 43,
+  "translation": "من یاہوہ آءُ، شمی پاک، اسرائیلءِ جوڑک، شمی شاہ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "شمی پاک"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "جوڑک"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "شمی شاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:34:43.585367646Z",
+  "model": "glm-5.3"
+}

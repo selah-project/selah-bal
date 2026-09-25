@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "گپ نیست ءُ لبز نیست — بے اِشکنیت آیانءِ آواز.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گپ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "لبز"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "اِشکنیت"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "آیانءِ آواز"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:48.455667618Z",
+  "model": "glm-5.3"
+}

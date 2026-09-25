@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ کاہن اُوریاہ ہمگ چیزاں چوش کت کہ شاہ آحاز حکم کتگ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اُوریاہ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ہمگ چیزاں چوش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کتگ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحاز"
+    }
+  ],
+  "timestamp": "2026-09-24T21:16:54.555526971Z",
+  "model": "glm-5.3"
+}

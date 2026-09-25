@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "پہ رہبرءَ، داودءِ مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ رہبرءَ"
+    },
+    {
+      "surface": "مזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:10.887163004Z",
+  "model": "glm-5.3"
+}

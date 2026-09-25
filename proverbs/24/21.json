@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "اے زہگے، یاہوہءَ ⟨את⟩ ءُ بادشاہءَ بترس، گوں بدلوسوکاں گڈ نہ کن۔",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "بترس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اے زہگے"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ءُ بادشاہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "بدلوسوکاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "گڈ نہ کن"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:58.510200107Z",
+  "model": "glm-5.3"
+}

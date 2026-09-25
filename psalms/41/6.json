@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "مہ دشمنان گوَشنت شر پہ من: کہ روچءَ آ مریت ءُ آییءِ نام نیست بیت۔",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "مہ دشمنان"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "گوَشنت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ من"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کہ روچءَ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "آ مریت"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ءُ نیست بیت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:37.385746396Z",
+  "model": "glm-5.3"
+}

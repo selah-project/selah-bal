@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "بے شک کہ اے شما قوم اِنت، ءُ گوں شماءَ دانایی مریت۔",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "اے شما"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ءُ گوں شما"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مریت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:35:21.582818602Z",
+  "model": "glm-5.3"
+}

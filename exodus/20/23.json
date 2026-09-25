@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "نہ کنیت گوں منا ⟨את⟩ چandiءِ ہدایان ءُ زرءِ ہدایان؛ نہ کنیت پہ وتان۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ گوں منا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ہدایان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چandiءِ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ءُ ہدایان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرءِ"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ وتان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:58:38.043298438Z",
+  "model": "glm-5.3"
+}

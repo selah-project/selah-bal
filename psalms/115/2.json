@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 115,
+  "translation": "چرا گوشنت قوماں کہ اِشانی ہدایان کجا اَنت؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کجا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اِشانی ہدایان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:42.912752093Z",
+  "model": "glm-5.3"
+}

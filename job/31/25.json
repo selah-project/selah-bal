@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 31:25",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "اگہ من شاد بوتم کہ منءِ زور گش اِنت، ءُ اگہ منءِ دست فرہ چنگ کتگ اِنت",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگہ"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "شاد بوتم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گش"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "منءِ زور"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ءُ اگہ"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "فرہ"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "چنگ کتگ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "منءِ دست"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:04.328257683Z",
+  "model": "glm-5.3"
+}

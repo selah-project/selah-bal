@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ ⟨את⟩ ملیان کیکرءِ دارانءَ چہ جوڑ کت ءُ ⟨את⟩ آیانءَ سونءَ روڑ کت۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میلیان"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "میلیان"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "دارانءِ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "کیکر"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ءُ روڑ کت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "آیانءَ سون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:17.135836002Z",
+  "model": "glm-5.3"
+}

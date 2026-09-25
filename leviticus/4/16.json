@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ کاہنءَ مسح بوتگیں چہ گاوی گونءَ ملاقاتءِ گدانءَ درآوریت —",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ءُ درآوریت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہنءَ"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "مسح بوتگیں"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "چہ گونیں"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گاوی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    }
+  ],
+  "timestamp": "2026-09-24T19:13:03.171959174Z",
+  "model": "glm-5.3"
+}

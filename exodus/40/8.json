@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ ⟨تو⟩ ⟨את⟩ صحن چوگردءَ گیش دیت، ءُ ⟨تو⟩ ⟨את⟩ صحنءِ دروازہءِ پردہ لَٹ دیت۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ءُ ⟨تو⟩ گیش دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صحن"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوگردءَ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ءُ ⟨تو⟩ لَٹ دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردہ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہءِ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحنءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:10:47.326197564Z",
+  "model": "glm-5.3"
+}

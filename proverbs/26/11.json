@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "چوش کہ کُتا وتی الٹاپسءَ واپس روت، نادان وتی نادانیءَ پدا کنیت۔",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "چوش کہ کُتا"
+    },
+    {
+      "surface": "שב",
+      "gloss": "واپس روت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "الٹاپس"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "پدا کنیت"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "وتی نادانیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:13.207662932Z",
+  "model": "glm-5.3"
+}

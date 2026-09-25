@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 2:12",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ھمے پہ بادشاہ زورءَ آشت ءُ گیش غضب کت ءُ حکم کت کہ بابلءِ ھمگ دانا پروش بنت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ھمے پہ{...}"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "پہ ھمے پہ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ھمے"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בנס",
+      "gloss": "زورءَ آشت"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ءُ غضب کت"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ حکم کت"
+    },
+    {
+      "surface": "להובדה",
+      "gloss": "کہ پروش بنت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ھمگ"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:59:12.055169116Z",
+  "model": "glm-5.3"
+}

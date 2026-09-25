@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "تاحت آییءِ زہگ، اوری‌ایل آییءِ زہگ، عُزیّاہ آییءِ زہگ، ءُ شاؤل آییءِ زہگ۔",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تاحت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "اوری‌ایل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "عُزیّاہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ءُ شاؤل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:39.422733660Z",
+  "model": "glm-5.3"
+}

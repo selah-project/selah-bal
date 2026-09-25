@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ ہچ پیغمبر پدا اسرائیلءَ چوش موشہ نہ اُستتگ، کہ یاہوہءَ آییءَ منہ گوں منہ زاتگی.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "اُستتگ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پدا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائیلءَ"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "چوش موشہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "زاتگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:04:03.769843595Z",
+  "model": "glm-5.3"
+}

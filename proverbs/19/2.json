@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ہم بے داںشتی جن چم نہ اِنت، ءُ آ کہ زانگاںءَ گوں تیزی روت، گناہ کنت.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "داںشتی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چم"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "ءُ تیز"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "زانگاںءَ"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "گناہ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:29.660778353Z",
+  "model": "glm-5.3"
+}

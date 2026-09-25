@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "یاہوہءِ برکت آییءَ دارا کنت، ءُ آ گوں آ ہچ درد ءُ نہ زیاد کیت۔",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "دارا کنت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "زیاد کیت"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "درد"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "گوں آ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:41.969403682Z",
+  "model": "glm-5.3"
+}

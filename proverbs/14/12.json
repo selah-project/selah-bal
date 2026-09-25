@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "یک راست راہ مردءِ پیشاں ہست، پر آییءِ آخر دگاراں مرگءِ اَنت۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ہست"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "راست"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشاں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مردءِ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "پر آییءِ آخر"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "دگاراں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:06.350342279Z",
+  "model": "glm-5.3"
+}

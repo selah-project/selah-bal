@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 10:19",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "اوءُ من پہ منی شکستگی! منی مارگ نچشت اِنت؛ ءُ من گوَشت: چوک اے منی مرض اِنت ءُ من آییءَ چنت۔",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "اوءُ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من پہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ…ءِ بابت"
+    },
+    {
+      "surface": "שברי",
+      "gloss": "منی شکستگیءِ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "نچشت"
+    },
+    {
+      "surface": "مכתי",
+      "gloss": "منی مارگ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אך",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "منی مرض"
+    },
+    {
+      "surface": "ואשאנו",
+      "gloss": "ءُ من آییءَ چنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:47:10.274005276Z",
+  "model": "glm-5.3"
+}

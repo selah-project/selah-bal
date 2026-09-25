@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "یک رستءَ ڈاکوک مرگ نہ زانت، ءُ شاہینءِ چم آییءَ نہ گندیت۔",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "رست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "ڈاکوک مرگ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چم"
+    },
+    {
+      "surface": "איה",
+      "gloss": "شاہین"
+    }
+  ],
+  "timestamp": "2026-09-24T23:39:39.579731670Z",
+  "model": "glm-5.3"
+}

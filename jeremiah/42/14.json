@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 42:14",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "گوں گپ: نہ، بلے مِتسرایمءِ زمینءَ رون اینے کہ جنگ نہ دیریں، ءُ شپارءِ گال نہ گوشک، ءُ نانءَ پہ نہ بکوڑیں، ءُ ادا مانں.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "گوں گپ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمءِ"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "رون اینے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "دیریں"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ءُ گال"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شپارءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "گوشک"
+    },
+    {
+      "surface": "וללחם",
+      "gloss": "ءُ نانءَ پہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נרעב",
+      "gloss": "بکوڑیں"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ءُ ادا"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "مانں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:02:42.855670964Z",
+  "model": "glm-5.3"
+}

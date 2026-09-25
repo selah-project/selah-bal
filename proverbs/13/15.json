@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "خوب عقل چن دیت؛ ءُ دغابازانءِ راہ سخت ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "عقل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چن"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ءُ راہ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "دغابازانءِ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:26.767646369Z",
+  "model": "glm-5.3"
+}

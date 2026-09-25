@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ یاہوہءَ گوں موشہءَ گوَشت، کہ گوَنت:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:29:58.514635921Z",
+  "model": "glm-5.3"
+}

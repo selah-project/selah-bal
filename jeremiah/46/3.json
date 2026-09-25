@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "کوچکیں سپر ءُ لوتکیں سپر صف کیت، ءُ جنگءَ نزد برو.",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "صف کیت"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "کوچکیں سپر"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ءُ لوتکیں سپر"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "ءُ نزد برو"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:02:36.311526677Z",
+  "model": "glm-5.3"
+}

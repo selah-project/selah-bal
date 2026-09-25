@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ وشمان پاک کنیت ءُ پاک ببیت، کیہ کہ من یاہوہ شُمایں ایلوہیم اِم۔",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "ءُ پاک کنیت"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ءُ ببیت"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "شُمایں ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:48.028448257Z",
+  "model": "glm-5.3"
+}

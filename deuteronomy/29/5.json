@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "نان شمءَ نہ چکیت ءُ شراب ءُ مست کنوک نہ پییت، پہ اے کہ شمءَ زانیت کہ من یاہوہ شمءِ ایلوہیم اِنت.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "چکیت"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ءُ شراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ءُ مست کنوک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "پییت"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "زانیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "شمءِ ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T20:00:01.367360169Z",
+  "model": "glm-5.3"
+}

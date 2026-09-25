@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "بدیءِ گنجان فایدہ نہ دینت، ءُ راستی چہ مُرت چیت گشیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "فایدہ دینت"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "گنجان"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدیءِ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ءُ راستی"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "چیت گشیت"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "چہ مُرت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:37.603641874Z",
+  "model": "glm-5.3"
+}

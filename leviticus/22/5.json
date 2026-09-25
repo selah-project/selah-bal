@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 22:5",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ یا یک مرد کہ چہ کتے ورندوکءَ چم بدیت کہ آییءَ پلید کنت، ءُ یا گوں یک آدمی کہ آییءَ پہ آیی پلید کنت، پہ آییءِ ہر پلیدیءَ",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ءُ یا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "چم بدیت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "چہ کتے"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ورندوکءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پلید کنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ءُ یا"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "گوں یک آدمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پلید کنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہر"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "پلیدیءَ آییءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:51.905846245Z",
+  "model": "glm-5.3"
+}

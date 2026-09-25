@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ہر نر چہ کاہنان آیءَ گوشیت؛ یک پاک جاگہءَ گوشیت بیت — آ پاکیں پاکیاں اِنت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "چہ کاہنان"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "آیءَ گوشیت"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جاگہءَ تہ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "گوشیت بیت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاکیاں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:24.423778853Z",
+  "model": "glm-5.3"
+}

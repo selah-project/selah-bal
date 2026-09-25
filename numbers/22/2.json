@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ بالاق، صِپّورءِ زہگ، گندیت אت ⟨את⟩ چہ یِسرائیل اِموریاناں پہ کتگءَ۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صِپّورءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کتگ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "اِموریاناں پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:39:13.893976050Z",
+  "model": "glm-5.3"
+}

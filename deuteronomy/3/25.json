@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "بگذرم منت، ءُ ببینم ⟨את⟩ زمینءِ شیرین گوں کہ چہ درگاہءِ یردن اِنت، اے کُہءِ شیرین ءُ لبنان.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "بگذرم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منت"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ءُ ببینم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "شیرین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "چہ درگاہ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کُہ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "شیرین"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ءُ لبنان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:25.621386978Z",
+  "model": "glm-5.3"
+}

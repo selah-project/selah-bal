@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 115,
+  "translation": "ءُ ماءِ ایلوہیم آسمانانءَ تہ اِنت؛ هرچہ آییءَ منگ بوت، کتگ.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "ءُ ماءِ ایلوہیم"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانانءَ تہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هرچہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "منگ بوت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:42.912944592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "پیسءِ سنگ ءُ سراوی سنگ نہ رہن گپت، پرچا کہ جان اِنت کہ رہن گپیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "رہن گپت"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "پیسءِ سنگ"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ءُ سراوی سنگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "نפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "رہن گپیت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:54:26.218069033Z",
+  "model": "glm-5.3"
+}

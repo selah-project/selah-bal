@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "اے وہدءَ کہ چاندیءِ رسا دور نہ بیت ءُ زریں گمیچ ترک نہ بیت ءُ کولہ چشمہءِ سرءَ شکست نہ بیت ءُ چرخ کاهیزءَ نہ کھلیت —",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "اے وہدءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "دور بیت"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "رسا"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندیءِ"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ءُ ترک نہ بیت"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "گمیچ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زریں"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "ءُ شکست نہ بیت"
+    },
+    {
+      "surface": "כד",
+      "gloss": "کولہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ سرءَ"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "چشمہءِ"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "ءُ نہ کھلیت"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "چرخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "کاهیزءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:31.509553559Z",
+  "model": "glm-5.3"
+}

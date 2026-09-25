@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "منءَ پہ وتءَ آپی گدلان جوڑ کت، پہ آیانی گوں جنگل سیراب کرگءَ کہ داران روئنت۔",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ وتءَ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "گدلان"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپی"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "پہ سیراب کرگ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "چہ آیانی گوں"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "روئندگ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "داران"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:06.584935025Z",
+  "model": "glm-5.3"
+}

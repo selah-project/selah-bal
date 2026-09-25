@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ گوشتنت مَچا یَبِیش گِلعاد ⟨את⟩ مَچا آ کہ پَلِشتانی شاؤلءَ کتنت",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ءُ گوشتنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "مَچا"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "یَبِیش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَچا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "مَچا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کتنت"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پَلِشتانی"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤلءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:55.885079374Z",
+  "model": "glm-5.3"
+}

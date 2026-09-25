@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 1:7",
+  "book": "nahum",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "یاہوہ چنگ اِنت، یک پناہ تنگیءِ روچءَ؛ ءُ آ کہ آییءَ تہ پناہ گرنت آییءَ زانت۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "למעוז",
+      "gloss": "یک پناہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگیءِ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ءُ … زانت"
+    },
+    {
+      "surface": "חסי",
+      "gloss": "آ کہ … پناہ گرنت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:40:10.208241581Z",
+  "model": "glm-5.3"
+}

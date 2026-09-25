@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 98,
+  "translation": "روجان تالی دنت، یکجا کوهان شاد گیت واننت.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "روجان"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "تالی دنت"
+    },
+    {
+      "surface": "כף",
+      "gloss": "دَستءِ تلی"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوهان"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "شاد گیت واننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:47.313009078Z",
+  "model": "glm-5.3"
+}

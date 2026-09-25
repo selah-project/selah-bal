@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ شمُوءیل ہنوک ⟨את⟩ یاہوہ نہ زاتگ، ءُ ہنوک یاہوہءِ گال آییءَ ءَ پد نہ گشتگ۔",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ءُ شمُوءیل"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ہنوک نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زاتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ءُ ہنوک"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "پد نہ گشتگ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "آییءَ ءَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:55:43.558798142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ ماں ءِ زبان تُہی راستیءَ گوَشت گنت، گیش روچ تُہی مدح۔",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "ءُ ماں ءِ زبان"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "گوَشت گنت"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تُہی راستی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تُہی مدح"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:08.165713349Z",
+  "model": "glm-5.3"
+}

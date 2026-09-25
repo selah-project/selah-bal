@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ دہ اَمّہءَ اِنت دومی کروب ⟨اِنت⟩ — یک ماپ ءُ یک شکل دوئیں کروبانءَ پہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "ءُ دہ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "اَمّہءَ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروبءِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "ءُ شکل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "لשני",
+      "gloss": "دوئیں…پہ"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "کروبان"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:25.371199157Z",
+  "model": "glm-5.3"
+}

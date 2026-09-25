@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 109,
+  "translation": "آییءَ ہیسید کش کونوک نہ بیت ءُ نہ کسی آییءِ یتیم زہگانءَ مہربانی کنت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "کش کونوک"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ہیسید"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "مہربانی کونوک"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "آییءِ یتیم زہگانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:53.265110851Z",
+  "model": "glm-5.3"
+}

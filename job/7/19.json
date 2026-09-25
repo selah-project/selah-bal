@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 7:19",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "چہ چندءَ چہ من نہ گندیت، ءُ منیں سر نہ اچیت تا کہ منیں تُفءَ نگُشت کنان؟",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "چہ چندءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "مמני",
+      "gloss": "چہ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרפני",
+      "gloss": "منیں سر اچیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا کہ"
+    },
+    {
+      "surface": "בלעי",
+      "gloss": "نگُشت کنان"
+    },
+    {
+      "surface": "רקי",
+      "gloss": "منیں تُفءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:12:05.924246695Z",
+  "model": "glm-5.3"
+}

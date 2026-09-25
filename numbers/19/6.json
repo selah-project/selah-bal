@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 19:6",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ کاہن دارءِ اَرز ءُ اِزب ءُ شنی توالاتءَ گنت ءُ آیانءَ ماڈیءِ سوزنءِ میانءَ پرت کیت",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ءُ گنت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دارءِ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "اَرز"
+    },
+    {
+      "surface": "ואזוב",
+      "gloss": "ءُ اِزب"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ءُ شنی"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "توالات"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ءُ پرت کیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "سوزنءِ"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "ماڈیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:37:51.674860320Z",
+  "model": "glm-5.3"
+}

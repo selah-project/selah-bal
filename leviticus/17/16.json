@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ اگر شست نہ کت آییءِ گد، ءُ آییءِ گوشت نہ وشیت — آییءِ گنہ آییءَ بار بیت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "شست کنت"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ءُ آییءِ گوشت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "وشیت"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ءُ بار بیت"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "آییءِ گنہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:20:05.328585130Z",
+  "model": "glm-5.3"
+}

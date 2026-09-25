@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ تہاں ⟨את⟩ دلءِ پرہءِ چمءَ ختنہ کنیت ءُ تہانی گچنءَ دیگا سخت نہ کنیت.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "ءُ ختنہ کنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرہءِ چم"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "پرہءِ چم"
+    },
+    {
+      "surface": "لבבכם",
+      "gloss": "تہانی دلءِ"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "ءُ تہانی گچن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "سخت کنیت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیگا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:50:39.862985204Z",
+  "model": "glm-5.3"
+}

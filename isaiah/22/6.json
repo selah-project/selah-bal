@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ ایلام تیردان چاٹ کت، گوں مردمانی گاڑی سواران، ءُ کیر ڈھال برہنہ کت۔",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "ءُ ایلام"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چاٹ کت"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "تیردان"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "گوں گاڑی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "سواران"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "ءُ کیر"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "برہنہ کت"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    }
+  ],
+  "timestamp": "2026-09-25T01:01:15.167898818Z",
+  "model": "glm-5.3"
+}

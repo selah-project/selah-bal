@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ آپ قربانگاہءِ گوَڈءَ گشتنت، ءُ ہم ⟨את⟩ نالہءَ آپءَ چُک کت۔",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ءُ گشتنت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گوَڈءَ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "قربانگاہءِ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نالہءَ"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "نالہءَ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "چُک کت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:05:11.067802666Z",
+  "model": "glm-5.3"
+}

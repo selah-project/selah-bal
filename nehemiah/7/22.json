@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "حَشُمءِ زہگان، سئے سد ءُ بیست ءُ ہشت۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حَشُم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ءُ ہشت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:56.444342693Z",
+  "model": "glm-5.3"
+}

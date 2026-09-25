@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "پس آییءِ مصیبت یکدم آئیت؛ یک وارگءَ شِکیت ءُ ہچ شرا نہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "آ چہ پہ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "یکدم"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئیت"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "آییءِ مصیبت"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "یک وارگءَ"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "شِکیت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ ہچ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شرا"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:42.227646514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "سرداران ماں اشتانی دستءَ لنگیتگنت؛ پیرانی رخان عزت نہ دات بوت۔",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "سرداران"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ماں اشتانی دستءَ"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "لنگیتگنت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رخان"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "پیرانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "عزت دات بوت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:41.983339069Z",
+  "model": "glm-5.3"
+}

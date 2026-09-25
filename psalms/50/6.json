@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "ءُ آسمانان آییءِ راستی اعلان کیتنت، پرچا کہ ایلوہیم وتے منصف اِنت۔ سلہ۔",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ءُ اعلان کیتنت"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "آییءِ راستی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "منصف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وتے"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:30.341299590Z",
+  "model": "glm-5.3"
+}

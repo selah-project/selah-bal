@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "یک ہٿءِ کپ دہ شکل سونءِ، پورا چہ دھوپءَ،",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ہٿءِ کپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونءِ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پورا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "دھوپ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:29:25.756816399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "گنہگار جالءِ بُران خواہشت کنت، ءُ راستانءِ ریشہ ⟨میوہ⟩ دیت۔",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "خواہشت کنت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "گنہگار"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "جال"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بُران"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ءُ ریشہ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستان"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:58.614938057Z",
+  "model": "glm-5.3"
+}

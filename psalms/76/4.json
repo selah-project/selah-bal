@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 76,
+  "translation": "اودا شعلہ دار تیرانی کمان شکانت؛ ڈل، ءُ تلوار، ءُ جنگ۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکانت"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "شعلہ دار تیرانی"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈل"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ءُ تلوار"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ءُ جنگ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:55.737991484Z",
+  "model": "glm-5.3"
+}

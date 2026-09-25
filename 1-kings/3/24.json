@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ شاہءَ گوَشت: منئے پہ یک تیغ بگیریت؛ ءُ اشاں تیغ شاہءِ پیشءَ آورت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءَ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "بگیریت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منئے پہ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "یک تیغ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ءُ اشاں آورت"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "تیغ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:53:24.008092961Z",
+  "model": "glm-5.3"
+}

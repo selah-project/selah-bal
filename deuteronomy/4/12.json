@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یاہوہءَ شمے نالہ آشوبءِ تہءَ چہ گپ گوَشت — دمگانی آواز شمے گوشیت، بلے شکل شمی نہ دیستنت — ہمک آواز۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "شمے نالہ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "تہءَ چہ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آشوبءِ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "دمگانی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "شمے"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "ءُ شکل"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "شمی نہ"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "دیستنت"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    }
+  ],
+  "timestamp": "2026-09-24T19:49:00.839878739Z",
+  "model": "glm-5.3"
+}

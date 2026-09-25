@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ ہر ہرچہ کہ ورندوک مرگءِ اِنت ناپاک اِنت پہ تہوماں؛ اِشاں نہ بورنت۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ورندوک"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "مرگءِ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ تہوماں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "بورنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:52:47.345262421Z",
+  "model": "glm-5.3"
+}

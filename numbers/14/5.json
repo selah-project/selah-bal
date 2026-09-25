@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "ءُ موشہ ءُ ہارون اِشانی رُخانی سرءَ ڈگنت، چہ پیشءَ ءُ گیش جمعتءِ، بنی‌اسرائیلانی جماعتءِ۔",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ڈگنت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ءُ ہارون"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "اِشانی رُخ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "چہ پیشءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جمعت"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:34:41.098053310Z",
+  "model": "glm-5.3"
+}

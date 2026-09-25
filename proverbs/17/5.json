@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "جو غریبءَ چرپیت، آییءِ جوڑ کنوکءَ زلت دیت؛ ءُ جو پہ مصیبتءَ شاد بیت، نہ بی‌گناه بیت.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "چرپیت"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "غریبءَ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "زلت دیت"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "آییءِ جوڑ کنوکءَ"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "پہ مصیبتءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بی‌گناه بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:06.517638127Z",
+  "model": "glm-5.3"
+}

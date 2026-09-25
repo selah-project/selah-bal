@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "چم کنوک مرتءَ — چہ ہر انسانی جان — ءُ ناپاک بیت ہپت روچ.",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "چم کنوک"
+    },
+    {
+      "surface": "بמת",
+      "gloss": "مرتءَ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "چہ ہر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ءُ ناپاک بیت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ہپت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:38:08.915638419Z",
+  "model": "glm-5.3"
+}

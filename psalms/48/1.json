@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "گانی، مزمور، قورحءِ زہگانی ءِ پہ۔",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "گانی"
+    },
+    {
+      "surface": "מִ֝זְמוֹר",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "زہگانی ءِ پہ"
+    },
+    {
+      "surface": "קֹֽרַח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:57.874211353Z",
+  "model": "glm-5.3"
+}

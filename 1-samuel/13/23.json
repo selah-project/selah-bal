@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ فلسطینیں ءِ پڑاوتگ جاگہ مِکماشءِ گوَڑءَ روت۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "پڑاوتگ جاگہ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطینیں ءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "گوَڑءَ"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "مِکماشءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:29:23.327842423Z",
+  "model": "glm-5.3"
+}

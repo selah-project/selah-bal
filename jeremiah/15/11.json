@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 15:11",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "یاہوہءَ گوَشت: کیا من تہءِ خدمت پہ چنگ نہ کتگ؟ کیا من تہ جنگ ءُ تنگیءِ وہدءَ ⟨את⟩ دشمنءَ پیش نہ کت؟",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שרותך",
+      "gloss": "تہءِ خدمت"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "پہ چنگ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הפגעתי",
+      "gloss": "پیش نہ کت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تے"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "تہ وہد"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ءُ تہ وہد"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دشمنءَ"
+    },
+    {
+      "surface": "האיב",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:12.679670085Z",
+  "model": "glm-5.3"
+}

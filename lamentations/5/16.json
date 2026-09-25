@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "سرءِ ماںءِ تاج ڈگ تگ؛ ہائے ⟨نہ⟩ ماں پہ، پرچا کہ ما گنہ کت۔",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "ڈگ تگ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "سرءِ ماںءِ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨نہ⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماں پہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "חטאנو",
+      "gloss": "ما گنہ کت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:51.284367627Z",
+  "model": "glm-5.3"
+}

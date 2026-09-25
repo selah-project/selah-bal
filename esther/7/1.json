@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ شاہ ءُ ہامان پہ اِشتیار گوں ایستر ملکا روت.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ءُ ہامان"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پہ اِشتیار"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ایستر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملکا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:56.905257594Z",
+  "model": "glm-5.3"
+}

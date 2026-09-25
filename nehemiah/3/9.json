@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ گوَں اِشانیں دست رِپایاہ، حُورءِ زہگ، یروشلمءِ نیمئے ناحیےءِ سردار، مضبوط کت.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ءُ گوَں"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "اِشانیں دست"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مضبوط کت"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "رِپایاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حُور"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیمئے"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ناحیےءِ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلمءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:14:56.691244883Z",
+  "model": "glm-5.3"
+}

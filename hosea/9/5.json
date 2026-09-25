@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "چہ کننت روچءِ ملاقاتءَ ءُ روچءِ چھٹءِ یاہوہءَ؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کننت"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "روچءِ ملاقاتءَ پہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "ءُ روچءِ پہ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "چھٹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:32:44.791072705Z",
+  "model": "glm-5.3"
+}

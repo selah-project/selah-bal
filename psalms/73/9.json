@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "اِشاں ⟨وتی⟩ زہنگ آسمانءَ گنیت، ءُ اِشانی زبان زمینءَ گشیت۔",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "گنیت"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانءَ"
+    },
+    {
+      "surface": "پיהם",
+      "gloss": "اِشانی زہنگ"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ءُ اِشانی زبان"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "گشیت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:12.728538926Z",
+  "model": "glm-5.3"
+}

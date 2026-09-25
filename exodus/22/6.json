@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "چوں یکے مَرد وتی یارءَ چوٹی یا وزل دِنت پہ پالتن، ءُ چوری بیت چہ مَردءِ گدءَ — اگر چور گند بیت، آ دو چکِّت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دِنت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مَرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "الے"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "وتی یارءَ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چوٹی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "وزل"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "پہ پالتن"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ءُ چوری بیت"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "چہ گدءَ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مَردءِ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "گند بیت"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "چور"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "چکِّت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:41.333548429Z",
+  "model": "glm-5.3"
+}

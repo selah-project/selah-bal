@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ پسح پہ یاہوہ، وتِ ایلوہیم، چہ رمن ءُ گاؤڑانءَ ذبح کڑ، آ جاگہءَ کہ یاہوہ چنیت پہ وتِ نامءَ اُوڈ وسائت.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "ءُ ذبح کڑ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پہ یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "وتِ ایلوہیم"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "رمن"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ءُ گاؤڑان"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "آ جاگہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "چنیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "پہ وسنت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "وتِ نامءَ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُوڈ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:49.222131255Z",
+  "model": "glm-5.3"
+}

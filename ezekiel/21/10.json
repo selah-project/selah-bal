@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 21:10",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ ہر گوشتءَ باز گندیت کہ من یاہوہءَ منءِ تیغ چہ وتءِ میانءَ بر کتگ؛ آ پدا ہچ نہ گرنت۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ءُ باز گندنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "بر کتگءُ"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "منءِ تیغ"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "چہ وتءِ میانءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "پدا گرنت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پدا ہچ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:15:26.980268244Z",
+  "model": "glm-5.3"
+}

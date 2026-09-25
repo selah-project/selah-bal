@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "⟨את⟩ یک سمندر ءُ ⟨את⟩ گوانان دوازہ آییءِ زیرءَ۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سمندر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "گوانان"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گوانان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دہ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "آییءِ زیرءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:34:20.089430593Z",
+  "model": "glm-5.3"
+}

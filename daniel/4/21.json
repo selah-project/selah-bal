@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "اے آ شاہءِ مانی اِنت، ءُ اِلیونءِ حکم اِنت کہ مزاریں شاہءَ سرءَ رسیتگ اِنت.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "مانی"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "וגזרת",
+      "gloss": "ءُ حکم"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "اِلیونءِ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨اِنت⟩"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "رسیتگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "مزاریں"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "شاہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:01:54.234373612Z",
+  "model": "glm-5.3"
+}

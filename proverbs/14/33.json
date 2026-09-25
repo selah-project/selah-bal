@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 14:33",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "تہ سمجوکءِ دلءَ حکمت آرمش کنیت، ءُ احمقانی میانءَ آ پدا زانگ بیت۔",
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "تہ دلءَ"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "سمجوکءِ"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "آرمش کنیت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ובקרב",
+      "gloss": "ءُ میانءَ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "احمقانی"
+    },
+    {
+      "surface": "תודע",
+      "gloss": "پدا زانگ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:53.860754077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ آیی ⟨את⟩ اگگءَ، عمالقءِ شاہءَ، زندہ گرپت، ءُ ⟨את⟩ ہمہ قومءَ تیغءِ دہنءَ گوں حرام کت۔",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "ءُ گرپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اگگءَ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "اگگءَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالقءِ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "ہمہ قومءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمہ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "حرام کت"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "دہنءَ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تیغءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:32:03.867540883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "آسمانانءَ چہ اُرءَ ءُ زمینءَ بانگ کنت پہ آییءِ قومءَ فیصلہ کننکءَ۔",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "بانگ کنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانانءَ"
+    },
+    {
+      "surface": "مעל",
+      "gloss": "چہ اُرءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ پہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "فیصلہ کننکءَ پہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ قومءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:58:32.956625801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ شلومہءِ زہگ رہavام اِنت، ابیہ آییءِ زہگ، آسا آییءِ زہگ، یہوشفات آییءِ زہگ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومہءِ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رہavام"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابیہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "آییءِ زہگ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یہوشفات"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "آییءِ زہگ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:45.842119265Z",
+  "model": "glm-5.3"
+}

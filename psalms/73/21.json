@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "کیہ مئے دل ترش بوت ءُ مئے کُلیاں لگاتگنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "ترش بوت"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "مئے دل"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "ءُ مئے کُلیاں"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "لگاتگنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:05.131577377Z",
+  "model": "glm-5.3"
+}

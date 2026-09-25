@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ عمالق آت ءُ رپیدیمءَ گوں اسرائیلءَ جنگ کت۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ءُ آت"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ءُ جنگ کت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءَ"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "رپیدیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:58:10.392423975Z",
+  "model": "glm-5.3"
+}

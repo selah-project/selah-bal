@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ آزائی کنوکءَ بوعزءَ گوَشت: وت پہ تو گِر — ءُ آءَ وتی جُتی کِشت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "آزائی کنوکءَ"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "بوعزءَ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "گِر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وت پہ تو"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "ءُ کِشت"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "وتی جُتی"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:58.430084185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "سستءَ وتی دست کچالءِ یاگءَ پنا کت، گوں آییءَ وتئیں منہءَ سرا ہم نہ گرترانیت.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "پنا کت"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سستءَ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "وتی دست"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "کچالءِ یاگءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "وتئیں منہءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "گرترانیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:50.739220707Z",
+  "model": "glm-5.3"
+}

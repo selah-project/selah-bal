@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "ءُ بیوہءِ ءُ درگءِ نذر — ہر آ کہ آییءَ آییءِ جانءِ سرءَ بست، آییءِ سرءَ برپ بیت۔",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "ءُ نذر"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوہءِ"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ءُ درگءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "بست"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "آییءِ جانءِ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "برپ بیت"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آییءِ سرءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:43:59.547017523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ یرمیاہوءَ ⟨את⟩ بروکءَ حکم کت کہ گوَشت: من بند اَت، من نہ پتوانم کہ یاہوہءِ بیتءَ دراۏ بیت۔",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "ءُ حکم کت"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہوءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بروکءَ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بروکءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "بند اَت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "پتوانم"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "دراۏ بیت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:59:35.223990936Z",
+  "model": "glm-5.3"
+}

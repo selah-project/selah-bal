@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "دمءِ گوآل خود ⟨את⟩ قاتلءَ مار بیت؛ چہ آییءَ پجت، خود آییءَ مار بیت۔",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "گوآل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "دمءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خود"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "مار بیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتل"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتلءَ"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "چہ آییءَ پجت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خود"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "آییءَ مار بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:45:55.545751425Z",
+  "model": "glm-5.3"
+}

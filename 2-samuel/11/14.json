@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ صبحءَ بیت کہ داود یک لیک پہ یوآب نویشت ءُ اوریاہءِ دستءَ گرِشت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبحءَ"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "نویشت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "لیک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "گرِشت"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوریاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:45:49.464862856Z",
+  "model": "glm-5.3"
+}

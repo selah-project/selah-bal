@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "ایدں پہ سبب ما نہ ترسیں، اگرچہ زمین بدل بیت ءُ کوهان سمندرانی دلءَ لرزنت.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایدں … سبب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "ترسیں"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "بدل بیت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ءُ لرزنت"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کوهان"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دلءَ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندرانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:58.855821354Z",
+  "model": "glm-5.3"
+}

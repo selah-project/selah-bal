@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "اگر من ءُ چُٹگم گوں برف، ءُ پاکیزہ کتوم منءِ ہتاں گوں قلیا،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "ءُ چُٹگم"
+    },
+    {
+      "surface": "במו",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "ءُ پاکیزہ کتوم"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "گوں قلیا"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "منءِ ہتاں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:34:29.759499873Z",
+  "model": "glm-5.3"
+}

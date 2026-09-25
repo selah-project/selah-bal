@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "چوش کہ خابانی گیشتاریءَ تہ ءُ ہبلان ءُ گیش لبز ہنت — بلے ⟨את⟩ ایلوہیمءَ ڈر بگیر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "گیشتاریءَ تہ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "خابان"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ءُ ہبلان"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ءُ لبزان"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈر بگیر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:37.074553627Z",
+  "model": "glm-5.3"
+}

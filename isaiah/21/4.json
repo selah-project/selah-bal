@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "مںءِ دل گم بوتگ؛ ڈہولت مںءَ ڈہالیت؛ ⟨את⟩ مںءِ پسندءِ شپءَ مّے پہ لرزءَ کِت.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "گم بوتگ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "مںءِ دل"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ڈہولت"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "مںءَ ڈہالیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مںءِ پسندءِ شپ"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "شپ"
+    },
+    {
+      "surface": "חשקی",
+      "gloss": "مںءِ پسند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "کِت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مّے پہ"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "پہ لرزءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:27:21.185192907Z",
+  "model": "glm-5.3"
+}

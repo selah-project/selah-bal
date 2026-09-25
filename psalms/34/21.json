@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "آیی آییءِ پوریں ہڈان پالیت، یکے چہ اِشاں نہ شُہت۔",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "پالیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "آییءِ ہڈان"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "چہ اِشاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "شُہت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:05.818633598Z",
+  "model": "glm-5.3"
+}

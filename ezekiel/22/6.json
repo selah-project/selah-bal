@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اینت — یسرائیلءِ سرداران، ہر یک وتی بازوءِ پہ، تُہءَ اتنت پہ آںکہ خون شپکن.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اینت"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "سردارانءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر یک"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "وتی بازوءِ پہ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اتنت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ آںکہ"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "شپکن"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    }
+  ],
+  "timestamp": "2026-09-24T22:16:24.467448419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 149,
+  "translation": "ہیسیدان کبوتءَ شاد گنت؛ آیانی زانتی ءَ رانیت۔",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "شاد گنت"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ہیسیدان"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "کبوتءَ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "رانیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "مשכבותם",
+      "gloss": "آیانی زانتی ءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:15.083336030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ اِشا اے ⟨اِنت⟩ ⟨اے⟩ گال آ کہ ما پہ گِبعہ کنیں: آییءِ سرءَ گوں گورالءَ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "پہ گِبعہ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "گوں گورالءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:55:56.435576133Z",
+  "model": "glm-5.3"
+}

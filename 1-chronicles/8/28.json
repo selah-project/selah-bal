@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 8:28",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "اے پدروکانءِ سران اِنت پہ اِشانی نسلاں، سردار؛ اے یروشلمءَ جت اِنت۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سران"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پدروکانءِ"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "پہ اِشانی نسلاں"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "جت اِنت"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:51.965826722Z",
+  "model": "glm-5.3"
+}

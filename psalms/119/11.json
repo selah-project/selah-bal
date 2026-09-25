@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "منءِ دلءَ میں تیءِ گال چپاتگ؛ پہ اے چم کہ تہ نہ گنہ کنیت.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "منءِ دلءَ میں"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "چپاتگ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تیءِ گال"
+    },
+    {
+      "surface": "למען",
+      "gloss": "پہ اے چم کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "گنہ کنیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:09.035554977Z",
+  "model": "glm-5.3"
+}

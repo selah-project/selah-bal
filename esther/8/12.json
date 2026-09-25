@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "یک روچءَ، گش شاہ اَچشۏرشءِ مدینانءَ — ماہءِ سئے ءُ دہمیں روچءَ، دو ءُ دہمیں ماہءَ، آ ماہ اَدار اِنت۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "گش"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "مدینانءِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "اَچشۏرشءِ"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ءُ دہ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ماہءِ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ءُ دہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ماہ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "اَدار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:59:21.757358842Z",
+  "model": "glm-5.3"
+}

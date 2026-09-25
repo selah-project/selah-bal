@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "⟨את⟩ کل ہمے ما روت، ءُ منءَ ⟨את⟩ دلی دات پہ کل کارءَ کہ تہ آفتاب بیتگ؛ یک وہد کہ آدمزاد تہ آدمزاد زور ئے، پہ آییءَ گندیں.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کل ہمے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ما روت"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "ءُ منءَ دات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دلی"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دلی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ کل"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کارءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "بیتگ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "آفتاب"
+    },
+    {
+      "surface": "עת",
+      "gloss": "یک وہد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "زور ئے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمزاد"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "تہ آدمزاد"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "پہ گندیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:41.852679470Z",
+  "model": "glm-5.3"
+}

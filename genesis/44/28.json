@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "ءُ یکے چہ ⟨את⟩ من در کت، ءُ من گوَشت: البتہ پوشیت پوشیتگ اِنت، ءُ من آءَ تا ہنوں نہ گندیتگ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ءُ در کت"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "چہ ⟨את⟩ من",
+      "marks": "یکے"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אך",
+      "gloss": "البتہ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "پوشیت"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "پوشیتگ اِنت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "آءَ گندیتگ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ہنوں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:47:12.018327844Z",
+  "model": "glm-5.3"
+}

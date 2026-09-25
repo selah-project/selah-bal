@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ تُں وتءِ دلءَ گوَشتیں: مئی زور ءُ مئی دستءِ تیاریءَ اے ⟨את⟩ مال منءَ پہ من جوڑ کت.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ءُ گوَشتیں"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "وتءِ دلءَ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "مئی زور"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ءُ تیاری"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "مئی دستءِ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منءَ پہ من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مال"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "مال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:35.262408512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 87,
+  "translation": "گوشکارت چیزاں تہءَ مدبار ⟨بنت⟩، ایلوہیمءِ شار۔ سلاہ۔",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "گوشکارت چیزاں"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "مدبار"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تہءَ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:10.981529369Z",
+  "model": "glm-5.3"
+}

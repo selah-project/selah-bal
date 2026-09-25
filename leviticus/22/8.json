@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اجیمتگ مرگ ءُ پھاڑیچتگ نہ بخرت پہ گوں آ ناپاک نہ گرِت — من یاہوہ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "اجیمتگ مرگ"
+    },
+    {
+      "surface": "וטרفה",
+      "gloss": "ءُ پھاڑیچتگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "بخرت"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "پہ ناپاک گرگ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "گوں آ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:52:13.619974073Z",
+  "model": "glm-5.3"
+}

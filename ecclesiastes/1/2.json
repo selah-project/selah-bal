@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ہبلِ ہبلان، کوہلِت گوَشت؛ ہبلِ ہبلان، ہمگ ہبل اِنت۔",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ہبلِ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ہبلان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کوہلِت"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبلِ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ہبلان"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:05.781775440Z",
+  "model": "glm-5.3"
+}

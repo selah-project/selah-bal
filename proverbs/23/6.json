@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "مہ چوک ⟨את⟩ نانِ روݱں چشمیءَ، ءُ آییءِ مزداراں پہ آرزو مہ کنیت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نان"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "רע",
+      "gloss": "روݱں"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ مہ"
+    },
+    {
+      "surface": "תתאو",
+      "gloss": "آرزو مہ کنیت"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "آییءِ مزداراں پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:27.202977550Z",
+  "model": "glm-5.3"
+}

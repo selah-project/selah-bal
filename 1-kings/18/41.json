@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ ایلیاہو اَچابءَ گوَشت: پُت، وَر ءُ شو، کہ مینہہءِ ہُلڑءِ آواز ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ایلیاہو"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "اَچابءَ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "پُت"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "وَر"
+    },
+    {
+      "surface": "وשתה",
+      "gloss": "ءُ شو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ہُلڑ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "مینہہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:05:38.915752138Z",
+  "model": "glm-5.3"
+}

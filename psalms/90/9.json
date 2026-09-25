@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 90,
+  "translation": "کیہ گیش روچان ءُ مہ تُہءِ غضبءَ گوَزریتگنت؛ سالان ءُ مہ چوش یک آہ تمام کت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "روچان ءُ مہ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "گوَزریتگنت"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "تُہءِ غضبءَ"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "تمام کت"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "سالان ءُ مہ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "یک آہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:53.683660233Z",
+  "model": "glm-5.3"
+}

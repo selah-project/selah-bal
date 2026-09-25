@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "اے یاہوہ، چون گیش بوتنت منی تنگ‌کنوکان! گیش اَنت کہ منی سر اَستنت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چون"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "گیش بوتنت"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "منی تنگ‌کنوکان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "اَستنت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سر"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:52.724271765Z",
+  "model": "glm-5.3"
+}

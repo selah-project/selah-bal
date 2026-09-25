@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ گند ءُ وتي نمونہءَ باز کن، آ نمونہ کہ تو کوهءَ تہ گندیتگ ئے.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ءُ گند"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ءُ باز کن"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "وتی نمونہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "گندیتگ ئے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوهءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:27.898298580Z",
+  "model": "glm-5.3"
+}

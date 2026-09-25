@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "⟨את⟩ یکے مینڈہءَ سباحءِ وہدءَ کن، ءُ ⟨את⟩ دومی مینڈہءَ دو شپانی درمیانءَ کن۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یکے مینڈہءَ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "مینڈہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سباحءِ وہدءَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دومی مینڈہءَ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "مینڈہ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دومی"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "درمیانءَ"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "دو شپانی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:42:27.144039774Z",
+  "model": "glm-5.3"
+}

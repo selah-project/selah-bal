@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "پرچا کہ اگر مردم گیش سالان زندگ بیت، ماں پلانی شاد بیت، ءُ ⟨את⟩ تاریکیءِ روچان یاد بیت، پرچا کہ گیش اَنت؛ پُل آیا ہبل اِنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "گیش سالان"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "زندگ بیت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "ماں پلانی"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بیت"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ءُ یاد بیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تاریکیءِ روچان"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "تاریکیءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پُل"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:45.432363242Z",
+  "model": "glm-5.3"
+}

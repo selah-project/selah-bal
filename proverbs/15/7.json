@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "دانشمنانی ہونٹ دانش پھوک دنت، ءُ گڈایانی دل چوش نہ ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانشمنانی"
+    },
+    {
+      "surface": "יזרو",
+      "gloss": "پھوک دنت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ءُ دل"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "گڈایانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چوش"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:10.691251106Z",
+  "model": "glm-5.3"
+}

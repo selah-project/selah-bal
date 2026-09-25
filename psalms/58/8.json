@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 58,
+  "translation": "ایشان چوش آپ رُچنت، ایشان روت؛ کہ تیر چڑائیت، ایشان چوش لینت۔",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "رُچنت"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "روت"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ایشان"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "چڑائیت"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "لینت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:59:38.836459268Z",
+  "model": "glm-5.3"
+}

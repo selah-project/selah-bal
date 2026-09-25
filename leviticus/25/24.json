@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ تہ پوریں زمین ءُ تہ منی، وڑپتار شما دیت زمینءَ۔",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "ءُ تہ پوریں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "ءُ تہ منی"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "وڑپتار"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "شما دیت"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمینءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:40.881558569Z",
+  "model": "glm-5.3"
+}

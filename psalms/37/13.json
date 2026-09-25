@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ادونای آییءَ پہ کہند وانیت، کہ آییءَ چندیت کہ آییءِ روچ روت اِنت۔",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "پہ کہند وانیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "چندیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "روت اِنت"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "آییءِ روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:08.018011830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ یاہوہءَ گدانءِ دہان ءُ کھُلَت ⟨את⟩ ءُ گوَشت بِلعامءَ: چہ منءَ کرگتءَ تہ پہ، کہ منءَ اے سئے رند لَٹیت؟",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "ءُ کھُلَت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دہان"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دہان"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "گدانءِ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "بِلععامءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کرگتءَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تہ پہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "منءَ لَٹیت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "رند"
+    }
+  ],
+  "timestamp": "2026-09-25T00:53:33.261897753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ اِشان رُخ وردیت ءُ کوہءَ گوڑ بیت، ءُ وادیءِ اِشکولءَ رسانت، ءُ ⟨את⟩ آییءَ چر ءَ کت۔",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ءُ رُخ وردیت"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ءُ گوڑ بیت"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "کوہءَ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ءُ رسانت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادیءِ"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "اِشکول"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "ءُ چر ءَ کت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ آییءَ",
+      "marks": "آییءَ (زمین)"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:48.028373698Z",
+  "model": "glm-5.3"
+}

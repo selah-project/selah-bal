@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "چوش زندگ کہ من ہستاں، ادونای یاہوہءِ فرمانءِ چم: اے مِثل اسرائیلءَ تہ ہچی رندے مزنون نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "زندگ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمانءِ چم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چوش … کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہنءَ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہچی رندے"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مزنون"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "مِثل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائیلءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:14:44.057532615Z",
+  "model": "glm-5.3"
+}

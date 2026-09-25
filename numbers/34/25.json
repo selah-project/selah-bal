@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ زبلونی زہگانی ٹولیءِ سردارءِ پہ — االیتسافان، پارناکءِ زہگ.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ءُ ٹولیءِ پہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبلون"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "االیتسافان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "پارناک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:45:18.149845609Z",
+  "model": "glm-5.3"
+}

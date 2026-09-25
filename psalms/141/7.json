@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 141,
+  "translation": "چوش کہ یکے زمینءَ شکیت ءُ چیر کت، اسپئں ہاڈی شیئولءِ دہانءَ بکھرت بنت۔",
+  "tokens": [
+    {
+      "surface": "کمו",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "شکیت"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "ءُ چیر کت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "بکھرت بنت"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "اسپئں ہاڈی"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "دہانءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیئول"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:05.965806183Z",
+  "model": "glm-5.3"
+}

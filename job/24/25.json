@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 24:25",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ اگر نہ، اَنت کے منءَ دروغگو کنت ءُ منیں گال پہ نیستی کارنت؟",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اَنت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "منءَ دروغگو کنت"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ءُ کارنت"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "پہ نیستی"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "منیں گال"
+    }
+  ],
+  "timestamp": "2026-09-24T23:38:48.348700011Z",
+  "model": "glm-5.3"
+}

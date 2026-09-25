@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 73,
+  "translation": "شپنت ءُ تہ بُرائیءَ گوں زور زبر گپ زننت، چہ بلندیءَ گپ زننت.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "شپنت"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ءُ گپ زننت"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "تہ بُرائیءَ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "گوں زور زبر"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "چہ بلندیءَ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "گپ زننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:55.776950685Z",
+  "model": "glm-5.3"
+}

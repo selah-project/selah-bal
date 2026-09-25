@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "چوک چہ یاہوہءِ آواز ءُ آشور سرزمین بیت، گوں عصا لٹیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "چہ آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "سرزمین بیت"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "گوں عصا"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "لٹیت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:30:27.316884475Z",
+  "model": "glm-5.3"
+}

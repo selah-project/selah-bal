@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ من سادہانی ماں چشیت، زہگانی ماں بژانگت — یکم زہگ کہ دلءَ چہ آ کم اِنت۔",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ءُ من چشیت"
+    },
+    {
+      "surface": "בפתאים",
+      "gloss": "سادہانی ماں"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "بژانگت"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "زہگانی ماں"
+    },
+    {
+      "surface": "נער",
+      "gloss": "یکم زہگ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:41.385341954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ یاہوہءَ موشہءَ گال کت، آ کہ گوَشت.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گال کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:11.125580006Z",
+  "model": "glm-5.3"
+}

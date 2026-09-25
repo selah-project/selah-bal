@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ جنک حامل بوت، ءُ شت ءُ داؤدءَ گوشیت، ءُ گوَشت: من حامل ⟨اِنت⟩۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ءُ حامل بوت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ءُ شت"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ءُ گوشیت"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داؤدءَ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "حامل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T20:45:52.646261762Z",
+  "model": "glm-5.3"
+}

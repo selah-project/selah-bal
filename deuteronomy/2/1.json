@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ ما پدا سرتگ ءُ بیابانءَ روت، سوفءِ دریاءِ رہءَ، چوش کہ یاہوہ مءَ گوَشت اَت؛ ءُ ما ⟨את⟩ کوہ سعیرءَ دہ روچان گیش چرخ کت۔",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "ءُ پدا سرتگ"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "بیابانءَ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رہءَ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سوف"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "ءُ چرخ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوہ سعیرءَ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوہ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:15.717123875Z",
+  "model": "glm-5.3"
+}

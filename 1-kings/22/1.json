@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ اِشاں سئے سالءَ نشتنت، جنگ نیست ماں اَرام ءُ ماں یِسرائیل.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ءُ اِشاں نشتنت"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیشت نیست"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ءُ ماں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T21:07:14.817555387Z",
+  "model": "glm-5.3"
+}

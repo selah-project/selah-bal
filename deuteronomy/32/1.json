@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "گوش کنیت، اے آسمانان، ءُ من گپ جنم؛ ءُ بشنیت، اے زمین، منی زبانءِ لبزانی۔",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "گوش کنیت"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اے آسمانان"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ءُ من گپ جنم"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ءُ بشنیت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "اے زمین"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "لبزانی"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منی زبانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:25.662822007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ مِصنفت آییءِ سرا گشتیں، ءُ ⟨את⟩ قڈشمی نزر مِصنفتءِ سرا گشتیں.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ءُ گشتیں"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "مِصنفت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "آییءِ سَر"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ءُ لگں کٹیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قڈشمی نزر"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "نزر"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "قڈشمی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "مِصنفتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:04:28.508897559Z",
+  "model": "glm-5.3"
+}

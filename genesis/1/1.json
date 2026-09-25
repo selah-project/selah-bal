@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "بنگیجءَ ایلوہیمءَ ⟨את⟩ آسمانان ءُ ⟨את⟩ زمین جوڑ کت۔",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "بنگیجءَ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آسمانان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:00.108866214Z",
+  "model": "glm-5.3"
+}

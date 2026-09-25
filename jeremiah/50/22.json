@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "زمینءَ جنگءِ آواز اِنت ءُ گیشءِ شِکنءِ۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگءِ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ءُ شِکن"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:04:57.454932990Z",
+  "model": "glm-5.3"
+}

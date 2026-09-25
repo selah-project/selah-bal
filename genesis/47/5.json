@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "ءُ فرعون یوسفءَ گوَشت کہ: تئیں پید ءُ تئیں براتان تئیں پیشءَ آتگ اَنت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تئیں پید"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "ءُ تئیں براتان"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آتگ اَنت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تئیں پیشءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:47:03.434302032Z",
+  "model": "glm-5.3"
+}

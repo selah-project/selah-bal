@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "کسیلءِ دہان آییءَ ⟨اِنت⟩ تباہی، ءُ آییءِ لبان آییءِ جانءِ پھانڈ اِنت۔",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "دہان"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کسیلءِ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ پہ"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "ءُ آییءِ لبان"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "پھانڈ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "آییءِ جانءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:16.980022877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ ⟨او⟩ مءَ گوَشت: اے آدمءِ زہگ، روت، اسرائیلءِ گدءَ در بز ءُ اِشاںءَ گوں منءِ گالان گپ بزن۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ مءَ گوَشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "در بز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ءُ گپ بزنی"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "گوں منءِ گالان"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اِشاںءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:09:55.736413384Z",
+  "model": "glm-5.3"
+}

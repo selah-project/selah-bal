@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "ءُ آییءِ زہگان آییءَ اے چوں کت گوش کہ آ آییءَ اَرِش کتگ اَت.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "کت"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "آییءِ زہگان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اے چوں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "گوش کہ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "اَرِش کتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:50:09.292810001Z",
+  "model": "glm-5.3"
+}

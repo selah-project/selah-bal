@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "ءُ ⟨את⟩ دروازہءِ بَرآمدک چہ گدان شمار کت، یک نَے.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ءُ شمار کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دروازہءِ بَرآمدک"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "بَرآمدک"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازہءِ"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "چہ گدان"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "نَے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:26:11.870878664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ من گوَشتیت: اے ادونای یاہوہ، بنگشت کن، منا؛ چوک یعقوب رسیت؟ پرچا کہ آ کوچک اِنت۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ من گوَشتیت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "بنگشت کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "رسیت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "کوچک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:36:17.915966891Z",
+  "model": "glm-5.3"
+}

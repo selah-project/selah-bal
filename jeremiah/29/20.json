@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "ءُ شمایں گوشیں یاہوہءِ گالءَ، ءَے گچین جلاوطن کہ من اِشاںءَ چہ اورشلیم بابلءَ لینت کت۔",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ءُ شمایں"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوشیں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ءَے گچین"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "جلاوطن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "لینت کت"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "چہ اورشلیم"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "بابلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:56:41.691106318Z",
+  "model": "glm-5.3"
+}

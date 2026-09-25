@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "کیچہ تو من چہ زہگدان در آوردت، منی بھروسہءَ دات منی مانیءِ پستانانی سرءَ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیچہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "در آوردت"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "چہ زہگدان"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "منی بھروسہءَ دات"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "پستانان"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "مانیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:22.917705267Z",
+  "model": "glm-5.3"
+}

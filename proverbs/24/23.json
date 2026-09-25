@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "اے ءُ ہم داناںءِ پہ اِنت — منش داوریءَ تہ شنانگتے نہ بہود اِنت.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "داناںءِ پہ"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "شنانگتے"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منش"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "داوریءَ تہ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بہود"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:22.030572047Z",
+  "model": "glm-5.3"
+}

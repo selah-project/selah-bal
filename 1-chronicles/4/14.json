@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ مءونوتایءَ ⟨את⟩ عفرہءَ گندیت؛ ءُ سرایہءَ ⟨את⟩ یوآبءَ گندیت — گئے حرسیمءِ پِت — پرچا کہ اِشانی حرسیم اَتنت۔",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "ءُ مءونوتای"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عفرہ"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "عفرہ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ءُ سرایہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ءِ پِت"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "گئے"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "حرسیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "حرسیم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اَتنت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:55.020707634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "ءُ صُورءِ جنک گوں پیشک تُءِ منش جہل کنیت، قومءِ امیران۔",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "ءُ جنک"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُورءِ"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "گوں پیشک"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تُءِ منش"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "جہل کنیت"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "امیران"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:55.609055567Z",
+  "model": "glm-5.3"
+}

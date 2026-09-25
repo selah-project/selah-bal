@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ بیت پعور، ءُ دامنانءِ پسگہ، ءُ بیت ہیشیموت،",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "پعور"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "ءُ دامنانءِ"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "پسگہ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "ہیشیموت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:30.632808736Z",
+  "model": "glm-5.3"
+}

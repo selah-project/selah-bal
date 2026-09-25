@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "بار کہ حبقوق ءُ پیغمبر گوَشت ⟨اے⟩",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "حبقوق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبر"
+    }
+  ],
+  "timestamp": "2026-09-24T22:40:33.272381411Z",
+  "model": "glm-5.3"
+}

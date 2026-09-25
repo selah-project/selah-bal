@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "مءِ نذران یاہوہءَ پوری کنیں، اے پیش، آییءِ پوریں قومءِ روبرو۔",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "مءِ نذران"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "پوری کنیں"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "روبروءَ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اے پیش"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ قومءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:58.824351386Z",
+  "model": "glm-5.3"
+}

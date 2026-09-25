@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "بدکارانی رسناں ماںءَ لپ کت؛ توراہءِ تُو من نہ چمیتگ۔",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "رسناں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "ماںءَ لپ کت"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "توراہءِ تُو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "من نہ چمیتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:11.394292356Z",
+  "model": "glm-5.3"
+}

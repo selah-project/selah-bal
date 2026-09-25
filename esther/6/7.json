@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ ہامان شاہءَ گوَشت: پہ آیی مَردءَ کہ شاہ آییءِ عزتءَ چہ دِل خواہیت،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ہامان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "شاہءَ (پہ)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مَردءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چہ دِل خواہیت"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "آییءِ عزتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:56:18.432002437Z",
+  "model": "glm-5.3"
+}

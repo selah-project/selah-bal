@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "مہہ بے کسور، نر، سالءِ زہگ، تُہانءِ پہ بیت؛ چہ مہہان ءُ چہ بزان تُہان آءَ گرنت۔",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "مہہ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بے کسور"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہانءِ پہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "مہہان"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "بزان"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "گرنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:55:19.361624564Z",
+  "model": "glm-5.3"
+}

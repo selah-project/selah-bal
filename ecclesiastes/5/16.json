@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ہم آییءِ پوریں روچان تہاریءَ گوَشت کنت، ءُ گیش غم ءُ آییءِ بیماری ءُ قہر۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "تہاریءَ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "گوَشت کنت"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ءُ غم"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "ءُ آییءِ بیماری"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ءُ قہر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:53:55.744741674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "چوکا منی دہانی سچائی نبوٹیت ءُ منی لبانی نزیت شرارت اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چوکا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچائی"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "نبوٹیت"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "منی دہانی"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ءُ نزیت"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "منی لبانی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرارت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:44.298393824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "ءُ اِشاں سبزهءِ میانءَ سبز بنت، چوش چیڑان آپانی جوشانءِ کنارءَ۔",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "ءُ سبز بنت"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "میانءَ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "سبزهءِ"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "چوش چیڑان"
+    },
+    {
+      "surface": "על",
+      "gloss": "کنارءَ"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "جوشانءِ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپانی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:35:17.860424669Z",
+  "model": "glm-5.3"
+}

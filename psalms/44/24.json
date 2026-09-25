@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 44,
+  "translation": "اُٹھ! چرا تو شپیت، اے ادونای؟ اُٹھ! ہچبر ماڑیءَ دزگ مکن۔",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "اُٹھ!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "تو شپیت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "اُٹھ!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ہچبر"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "دزگ مکن"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ماڑیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:55.169145357Z",
+  "model": "glm-5.3"
+}

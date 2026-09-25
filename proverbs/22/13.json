@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "کاہلءَ گوَشت: «شیر ⟨اِنت⟩ ٹاہءَ، کوچانی تہ ⟨من⟩ قتل بیت.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاہلءَ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ٹاہءَ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "کوچانی"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "قتل بیت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:45.119343165Z",
+  "model": "glm-5.3"
+}

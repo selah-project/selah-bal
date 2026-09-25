@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "آ کہ کمزورے ءَ مہربانی کنت، یاہوہءَ قرض دیت، ءُ آییءِ بدلہ آییءَ اِشار کنت۔",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "قرض دیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "مہربانی کنت"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزورے"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "ءُ آییءِ بدلہ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "اِشار کنت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:31.612632809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ گوَشت: من اَوراہامءِ غلام اَت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہامءِ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من … اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:33:45.465506412Z",
+  "model": "glm-5.3"
+}

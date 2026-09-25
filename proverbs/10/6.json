@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "برکتاں راستیءِ سرءَ اَنت، ءُ بدکارانی زبان زلمءَ لٹیت۔",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "برکتاں"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ءُ زبان"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "لٹیت"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زلم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:21.478458977Z",
+  "model": "glm-5.3"
+}

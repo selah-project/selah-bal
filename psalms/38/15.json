@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ من بوتم چوش کہ مردمی کہ گوشنت نہ، ءُ آییءِ منہءَ ہچ بازپُرس نیست۔",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ءُ من بوتم"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "چوش کہ مردمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ … نیست"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "آییءِ منہءَ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "بازپُرس"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:05.882152528Z",
+  "model": "glm-5.3"
+}

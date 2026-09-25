@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 81,
+  "translation": "اے مئے قوم، گوش کن ءُ من تُہءَ گواہی دِم؛ اے یسرائیل، اگر تُو مئے پہ گوش کنی۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "اے مئے قوم"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ءُ من گواہی دِم"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُہءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اے یسرائیل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "گوش کنی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مئے پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:56.512646960Z",
+  "model": "glm-5.3"
+}

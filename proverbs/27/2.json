@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "بروش تُہ سربلند کنت، ءُ نہ تُہرئین منہ؛ کلانگ، ءُ نہ تُہرئین لبوکان.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "سربلند کنت"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بروش"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تُہرئین منہ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "کلانگ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "تُہرئین لبوکان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:09.256343313Z",
+  "model": "glm-5.3"
+}

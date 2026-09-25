@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ پھرعونءِ دل زورمند بوت ءُ اِشاںءَ گوَش نہ کت، چوش کہ یاہوہءَ گوَشت اَت۔",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ءُ زورمند بوت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پھرعونءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوَش کت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:52:30.654063521Z",
+  "model": "glm-5.3"
+}

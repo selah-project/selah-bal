@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "آیانی شتر آیانی دلءَ آتکنت ءُ آیانی کمان شکنیت بنت۔",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "آیانی شتر"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آتکنت"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "آیانی دلءَ"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ءُ آیانی کمان"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "شکنیت بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:08.018502366Z",
+  "model": "glm-5.3"
+}

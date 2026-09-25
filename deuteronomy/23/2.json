@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "پٹیل بوتگیں ءُ کوتلگ، ءُ چیر بوتگیں نرینگیں آوند، یاہوہءِ محفلءَ نہ روئیت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "روئیت"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "پٹیل بوتگیں"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "کوتلگ"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "ءُ چیر بوتگیں"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "نرینگیں آوند"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "محفلءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:18.489069496Z",
+  "model": "glm-5.3"
+}

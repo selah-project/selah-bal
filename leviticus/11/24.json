@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ اِشانی پہ تسی نَپاک بیت: ہر کس کہ اِشانی لاشءَ لَمیسِت نَپاک بیت تا گمءَ.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "ءُ اِشانی پہ"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "تسی نَپاک بیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر کس"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "کہ لَمیسِت"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "اِشانی لاشءَ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نَپاک بیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "گمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:14:50.252044561Z",
+  "model": "glm-5.3"
+}

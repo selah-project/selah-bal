@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "کیہ یاہوہءَ بند کرگ بند کتگ هر رحمءَ چہ ابیمیلکءِ گدءَ، پہ سارہءِ گالءَ کہ اَبراهامءِ جنک اِنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "بند کرگ"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "بند کتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحمءَ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ءِ گد"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابیمیلک"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گالءَ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراهام"
+    }
+  ],
+  "timestamp": "2026-09-24T18:31:29.149873308Z",
+  "model": "glm-5.3"
+}

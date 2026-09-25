@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ اَشماں میوہ دِنت ءُ گیش بِت، تہ زمینءَ ورندوک بِت ءُ تہ آءَ گیش بِت۔",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ءُ اَشماں"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "میوہ دِنت"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ءُ گیش بِت"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ورندوک بِت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "تہ زمینءَ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ءُ گیش بِت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تہ آءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:20.874746267Z",
+  "model": "glm-5.3"
+}

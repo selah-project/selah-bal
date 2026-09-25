@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 45,
+  "translation": "اے چوش گوَشت یاہوہ، اسرائیلءِ ایلوہیم، تئی بابتءَ، اے بروک:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اے چوش"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "اسرائیلءِ ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تئی بابتءَ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "اے بروک"
+    }
+  ],
+  "timestamp": "2026-09-24T22:02:05.701826047Z",
+  "model": "glm-5.3"
+}

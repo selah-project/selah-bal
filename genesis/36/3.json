@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ ⟨את⟩ بَسمت، اِشماعیلءِ جنک، نَبایوتءِ خوش.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "بَسمت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بَسمت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "اِشماعیلءِ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "نَبایوتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:46.853260295Z",
+  "model": "glm-5.3"
+}

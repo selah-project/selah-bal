@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 31,
+  "translation": "ءُ اِشوآن زانیت کہ من گوں وتی پوریں زورءَ ماءِءَ ⟨את⟩ کار کت۔",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ءُ اِشوآن"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "زانیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "گوں پوریں"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "زورءَ"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "کار کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماءِءَ"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ماءِءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:39:34.195811411Z",
+  "model": "glm-5.3"
+}

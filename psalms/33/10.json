@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "یاہوہءَ گویمانءِ مشورت پاش کت؛ قومانءِ سوچان ناکار کت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "پاش کت"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "مشورت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گویمانءِ"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "ناکار کت"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "سوچان"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:15.162011261Z",
+  "model": "glm-5.3"
+}

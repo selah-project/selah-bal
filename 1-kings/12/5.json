@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ آیانءَ گوَشت: «رکت ہنے سئے روچ ءُ پدا منءَ آئے»؛ ءُ مردم روت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "آیانءَ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "رکت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہنے"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سئے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ءُ پدا آئے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منءَ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردم"
+    }
+  ],
+  "timestamp": "2026-09-24T21:01:09.077671536Z",
+  "model": "glm-5.3"
+}

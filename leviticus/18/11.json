@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "توءِ پتءِ زجاںءِ جنکءِ ننگ — توءِ پتءِ جَمّتگی، آ توءِ گڈ ⟨اِنت⟩ — آیءِ ننگءِ پردہ نہ گوشیت.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زجاں"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "توءِ پت"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "جَمّتگی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "توءِ پتءِ وت"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "توءِ گڈ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ ⟨اِنت⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "پردہ گوشیت"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "آیءِ ننگ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:03.941330463Z",
+  "model": "glm-5.3"
+}

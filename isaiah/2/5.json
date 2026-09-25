@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "اے یعقُبءِ گال، آءُ ءُ بریں تہ یاہوہءِ روشنائیءَ چلءُ۔",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "اے یعقُبءِ گال"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقُب"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ءُ بریں چلءُ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "تہ روشنائیءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:20:10.446395545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "بلے یقین شِ‌ئولءَ ڈِنگ بیت، گودءِ کوٹیانی تہ۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلے یقین"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شِ‌ئولءَ"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ڈِنگ بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "کوٹیانی"
+    },
+    {
+      "surface": "בור",
+      "gloss": "گودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:24:45.413915162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 86,
+  "translation": "کی تو، اے ادونای، چنگ ⟨اِنت⟩ ءُ بخشش کنوک، ءُ گیش ہیسید پہ ہمگ آیان کہ توءَ بانگ کننت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "ءُ بخشش کنوک"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ءُ گیش"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ہیسید"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پہ ہمگ"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "توءَ بانگ کنوکان"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:19.109647905Z",
+  "model": "glm-5.3"
+}

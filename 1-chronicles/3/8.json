@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ اَلیشامع، ءُ اَلیادع، ءُ اَلیفلت — نہ۔",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ءُ اَلیشامع"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ءُ اَلیادع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ءُ اَلیفلت"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نہ"
+    }
+  ],
+  "timestamp": "2026-09-25T01:13:57.188923827Z",
+  "model": "glm-5.3"
+}

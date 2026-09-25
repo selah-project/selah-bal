@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ داؤد جاسوسان سی کت ءُ زانت کہ شاؤل پُریں طورءَ آت۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ سی کت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤدءَ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوسان"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ءُ زانت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پُرے"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "پُریں طورءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:38:31.869600736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ دانیالءَ ءَت حتی شنءِ یکمیءَ پہ کوْرَش مہراجءَ۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ ءَت"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیالءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "شنءِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یکمیءَ"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "پہ کوْرَش"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "مہراجءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:14.549692388Z",
+  "model": "glm-5.3"
+}

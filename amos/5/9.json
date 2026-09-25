@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "برشکنوک اِنت شتریءَ زورءِ سر، ءُ شتری گڑءِ سر روت اِنت.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "برشکنوک"
+    },
+    {
+      "surface": "שד",
+      "gloss": "شتری"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ءُ شتری"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "گڑ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "روت اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:35:39.370104925Z",
+  "model": "glm-5.3"
+}

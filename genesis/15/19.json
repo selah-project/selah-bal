@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "⟨את⟩ کینیاں ءُ ⟨את⟩ کنیزیاں ءُ ⟨את⟩ قدیمونیاں —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کینیاں"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "کینیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کینیزیاں"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "کینیزیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "قدیمونیاں"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "قدیمونیاں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:29:18.876289763Z",
+  "model": "glm-5.3"
+}

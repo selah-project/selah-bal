@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "مگر کہ یک جتا رد کتگیں رد کتگ ءُ ما رد کتگیں؛ اے ما ءَ سر گیشتر غضب کتگ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "مگر کہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یک جتا"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "رد کتگیں"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "ءُ ما رد کتگیں"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "اے غضب کتگ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ما ءَ سر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "سر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گیشتر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:30.859265810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "تائیدءَ بنڈ کن، تورا مُہر کن ماءِ شاگردانءِ میانءَ۔",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "بنڈ کن"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "تائید"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مُہر کن"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "ماءِ شاگردانءِ میانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:22:27.063878627Z",
+  "model": "glm-5.3"
+}

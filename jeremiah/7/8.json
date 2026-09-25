@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ایشتا، اشمی دروغئین گالانی سرءَ وتانی تواکلی کننت، کہ ہچ سودگ نہ دنت۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ایشتا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "اشمی"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "تواکلی کننت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "وتانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالانی"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "دروغئین"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "سودگ دنت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:46:24.124126828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ شاؤل آییءَ اے روچءَ گرپت ءُ آییءَ نہ دات کہ پٹت ءُ پدرءِ گدانءَ روت.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ءُ آییءَ گرپت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اے روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دات"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "کہ پٹت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدانءَ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پدرءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:34:48.775947884Z",
+  "model": "glm-5.3"
+}

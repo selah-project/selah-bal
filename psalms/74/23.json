@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "تُءِ دشمنانی آوازءَ فراموش مکن؛ تُءِ اُست گرزانءِ شور ہمیشہ چڑیت۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "فراموش مکن"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "تُءِ دشمنانی"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "شور"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "تُءِ اُست گرزانی"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑیت"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:18.623947897Z",
+  "model": "glm-5.3"
+}

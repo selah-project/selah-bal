@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ موشہءَ گوَشت: اے ⟨اے⟩ گال اِنت آ کہ یاہوہءَ فرمان کت کہ کنیں، ءُ یاہوہءِ شان تُہانیں دیمءَ پدا بیت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کنیں"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "پدا بیت"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تُہانیں دیمءَ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:24.228742610Z",
+  "model": "glm-5.3"
+}

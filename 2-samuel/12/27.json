@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ءُ یوآب قاصدان داودءَ گشت ءُ گوَشت: من ربتءَ شل کتگ، ہم ⟨את⟩ آپانی شہر کپتگم.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ گشت"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "قاصدان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "من شل کتگ"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "تہ ربتءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "کپتگم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپانی شہر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپانی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:45:21.918882919Z",
+  "model": "glm-5.3"
+}

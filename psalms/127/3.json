@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 127,
+  "translation": "وڑ اِنت — زہگ یاہوہءِ ورثت اَنت؛ پیٹءِ پھل اجر اِنت۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وڑ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ورثت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "پیٹءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:55.325048959Z",
+  "model": "glm-5.3"
+}

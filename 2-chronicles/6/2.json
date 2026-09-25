@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ من تاءَ یک رہتیں گدان سرا کتگ، زبل ⟨پہ تاءَ⟩، ءُ یک جاگہ پہ تئے رہتءَ پہ ہمیشگان.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "سرا کتگ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "زبل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تاءَ"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "ءُ جاگہ"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "پہ تئے رہتءَ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "پہ ہمیشگان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:35:07.509899749Z",
+  "model": "glm-5.3"
+}

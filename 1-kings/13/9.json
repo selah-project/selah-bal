@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "کی چونے یاہوہءِ گالءَ مِنا ⟨את⟩ آءَ اے چوں حکم کت، گوَشتی: لچم نہ درواری، ءُ آپ نہ منہ، ءُ آ راہءَ نہ پدا گر کہ آتگ ئے.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "چونے"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کت"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ آءَ",
+      "marks": "آءَ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "گالءَ مِنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوَشتی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "درواری کن"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لچم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "پدا گر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "آتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:00:50.850323831Z",
+  "model": "glm-5.3"
+}

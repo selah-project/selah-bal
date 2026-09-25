@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ عزریاہءَ ⟨את⟩ سرایہءَ زہگ کت، ءُ سرایہءَ ⟨את⟩ یہوسداقءَ زہگ کت۔",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ءُ عزریاہءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زہگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرایہ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سرایہءَ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ءُ سرایہءَ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زہگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوسداق"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "یہوسداقءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:21:56.670933722Z",
+  "model": "glm-5.3"
+}

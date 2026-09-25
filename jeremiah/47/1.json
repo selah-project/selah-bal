@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "کہ بوت یاہوہءِ گال اِے یرمیہُ پیغمبرءَ پہ پلشتیمان، پہ اے کہ پہرعہءَ عزا ⟨את⟩ زہگ۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِے"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیہُ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبرءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیمان"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پہرعہءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزا"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عزا"
+    }
+  ],
+  "timestamp": "2026-09-24T22:03:22.567967598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "ءُ گادءِ زہگان: صفیون ءُ حگی، شونی ءُ اصبن، عری ءُ ارودی ءُ ارایلی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ءُ …ءِ زہگان"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "صفیون"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "ءُ حگی"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "شونی"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "ءُ اصبن"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "عری"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "ءُ ارودی"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "ءُ ارایلی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:47:04.131133452Z",
+  "model": "glm-5.3"
+}

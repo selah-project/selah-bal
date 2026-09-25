@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "پہ چت زانو مءَ پیش گپتنت؟ ءُ پہ چت پستان، کہ من شیر شُں؟",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "پہ چت"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "مءَ پیش گپتنت"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "زانو"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ءُ پہ چت"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "پستان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "شیر شُں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:31:26.614244274Z",
+  "model": "glm-5.3"
+}

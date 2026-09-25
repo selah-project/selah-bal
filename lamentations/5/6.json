@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "مِتسرایمءَ دستے دات، ءُ آشورءَ، پہ نان مار بیت.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایمءَ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دات"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستے"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ءُ آشورءَ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "پہ مار بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:36.039867194Z",
+  "model": "glm-5.3"
+}

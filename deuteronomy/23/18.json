@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "تُچِ جنکانءِ چہ اِنت کہ قَدِشا بِت، ءُ تُچِ زہگانءِ چہ اِنت کہ قادِش بِت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بِت ⟨اِنت⟩"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "قَدِشا"
+    },
+    {
+      "surface": "مבנות",
+      "gloss": "چہ جنکانءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بِت ⟨اِنت⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِش"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "چہ زہگانءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:11.595944034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "جانءِ من مَٹ بوتگ ⟨اِنت⟩ پہ تان آرزو، پہ تری فیصلان، ہر وہد۔",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "مَٹ بوتگ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جانءِ من"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "پہ تان آرزو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "تری فیصلان"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:41.787285841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "دگہ ہدایانی پسءَ نہ روت — چہ قومانی ہدایانی کہ تُواںءِ چوارطرف اَنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پسءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ہدایان"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "چہ … ہدایانی"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "تُواںءِ چوارطرف"
+    }
+  ],
+  "timestamp": "2026-09-25T00:53:52.314112889Z",
+  "model": "glm-5.3"
+}

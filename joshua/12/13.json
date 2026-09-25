@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 12:13",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "بادشاہءِ دبیر، یک؛ بادشاہءِ گدر، یک؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دبیر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہءِ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گدر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T20:08:11.053392322Z",
+  "model": "glm-5.3"
+}

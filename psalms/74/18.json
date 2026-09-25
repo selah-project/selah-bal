@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 74,
+  "translation": "اے گپ یاد دار: دُشمن یاہوہءَ حقارت کت، ءُ نادان قوم تُری نامءَ بدگوہی کت۔",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد دار"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے گپ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دُشمن"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "حقارت کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ءُ قوم"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "بدگوہی کت"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تُری نامءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:03:36.974812112Z",
+  "model": "glm-5.3"
+}

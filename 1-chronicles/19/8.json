@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ داودءَ گوشیت ءُ یوآب ⟨את⟩ ءُ ⟨את⟩ پوریں زوراورانی لشکر آشتی۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ءُ … گوشیت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ آشتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پوریں لشکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "زوراورانی"
+    }
+  ],
+  "timestamp": "2026-09-25T00:29:46.036107505Z",
+  "model": "glm-5.3"
+}

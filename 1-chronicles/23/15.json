@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "موشہءِ زہگان گرشوم ءُ الیعزر اَنت۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءِ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گرشوم"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ءُ الیعزر"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:24.754860155Z",
+  "model": "glm-5.3"
+}

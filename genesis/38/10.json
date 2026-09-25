@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ آ کہ آییءَ کتگ، آ یاہوہءِ چشمانءَ بُرت بوت؛ ءُ ⟨את⟩ آییءَ ہم جن کت۔",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ءُ بُرت بوت"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چشمانءَ تہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کتگ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ جن کت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "آییءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:43:34.820262717Z",
+  "model": "glm-5.3"
+}

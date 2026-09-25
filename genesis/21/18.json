@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "اُٹی، زہگءَ اٹک ءُ آءَ گوں وتی دستءَ مہکاں گر، چہ من آءَ یکے گیش قومءَ گرِشت ءُ کنت۔",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "اُٹی"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "اٹک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زہگءَ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "ءُ مہکاں گر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی دستءَ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "وتی دست"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آءَ گوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "من آءَ … گرِشت ءُ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:39.429686046Z",
+  "model": "glm-5.3"
+}

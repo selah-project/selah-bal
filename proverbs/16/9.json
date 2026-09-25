@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "مردمی دلءَ وتی رستہ شمار کت، ءُ یاہوہ آییءِ قدمانءَ مستور کت۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردمی"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "شمار کت"
+    },
+    {
+      "surface": "دרכו",
+      "gloss": "وتی رستہ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "مستور کت"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "آییءِ قدمان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:26.157980940Z",
+  "model": "glm-5.3"
+}

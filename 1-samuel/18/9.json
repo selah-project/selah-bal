@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ شاؤل چہ اے روچءَ دگہ چش گوں داؤدءَ داریت ءُ پدا روت۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "עון",
+      "gloss": "چش داریت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داؤدءَ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "مהיום",
+      "gloss": "چہ اے روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ءُ پدا"
+    }
+  ],
+  "timestamp": "2026-09-24T20:33:45.030140237Z",
+  "model": "glm-5.3"
+}

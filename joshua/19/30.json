@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ عُمہ ءُ اَفِک ءُ رَحُوب — ویست ءُ دو شہر ءُ اِشانی دِہان۔",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "ءُ عُمہ"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "ءُ اَفِک"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ءُ رَحُوب"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویست"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ءُ اِشانی دِہان"
+    }
+  ],
+  "timestamp": "2026-09-24T20:11:38.392768014Z",
+  "model": "glm-5.3"
+}

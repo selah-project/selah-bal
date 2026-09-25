@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "مردمی کہ گوں توکھاں گردن سخت کیت، یک پٹکُ لُڑیت ءُ شرا نیست.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مردمی"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "توکھاں"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "سخت کیت"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "پתע",
+      "gloss": "یک پٹکُ"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "لُڑیت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شرا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:30:19.047880740Z",
+  "model": "glm-5.3"
+}

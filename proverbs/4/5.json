@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "دانش بچار، سمج بچار؛ نہ بھلک ءُ منی زبانءِ گالانءَ نہ چپت۔",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "بچار"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "بچار"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمج"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "بھلک"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "چپت"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "گالانءَ نہ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منی زبانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:28.542804476Z",
+  "model": "glm-5.3"
+}

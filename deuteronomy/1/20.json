@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ من تماءَ گوَشت: تما اموریانی کُہءَ رسیں آئے، کہ یاہوہ ایلوہیم ءُ ما مادئے۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تماءَ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "تما رسیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کُہ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموریانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ایلوہیم ءُ ما"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دئے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ما"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:44.403195257Z",
+  "model": "glm-5.3"
+}

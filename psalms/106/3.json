@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "شاد اَنت آ کہ انصافءَ نگبان اَنت، آ کہ راستی تہ ہر وہدءَ کنیت.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "شاد"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "کہ … نگبان اَنت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصافءَ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنیت"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:26.554150819Z",
+  "model": "glm-5.3"
+}

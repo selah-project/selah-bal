@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 69,
+  "translation": "گُناہ اِشانی گُناہءَ سَر بُرز، ءُ تُہئیں راستیءَ تہ نہ آئنت.",
+  "tokens": [
+    {
+      "surface": "תנاه",
+      "gloss": "بُرز"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گُناہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سَر"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "اِشانی گُناہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آئنت"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "تُہئیں راستیءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:53.177346730Z",
+  "model": "glm-5.3"
+}

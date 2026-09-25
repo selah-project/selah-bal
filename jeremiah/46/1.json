@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "آ کہ بوتگ یاہوہءِ گال پہ یرمیاہوءَ پیغمبرءَ پہ قومانءِ بابت.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوتگ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہوءَ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبرءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومانءِ بابت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:02:36.311026223Z",
+  "model": "glm-5.3"
+}

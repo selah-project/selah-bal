@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 61,
+  "translation": "کیہ کہ تُو مئے پناہگاہ بوتگ ءُ زورءِ مینار، دشمنءِ پیشءَ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بوتگ ءُ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناہگاہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مئے"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مینار"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زورءِ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمنءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:35.206001551Z",
+  "model": "glm-5.3"
+}

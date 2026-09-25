@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "گور کن، یاہوہءَ — تیریں ایلوہیمءَ — آسمان ءُ آسمانانی آسمان ءُ زمین ءُ ہرچہ کہ آییءِ تہءَ اِنت.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "گور کن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیریں ایلوہیم"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "ءُ آسمانانی"
+    },
+    {
+      "surface": "השمים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہرچہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءِ تہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:50:39.862655945Z",
+  "model": "glm-5.3"
+}

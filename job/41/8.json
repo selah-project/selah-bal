@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 41,
+  "translation": "یک گوں یک نزدیک بنت، ءُ واءُ ایشانی مں نہ روت.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "گوں یک"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "نزدیک بنت"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ءُ واءُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "ایشانی مں"
+    }
+  ],
+  "timestamp": "2026-09-24T23:44:57.350398747Z",
+  "model": "glm-5.3"
+}

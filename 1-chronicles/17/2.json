@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ ناتان داودءَ گوَشت: آ چیست کہ تُہءِ دلءَ ہست، آ کن، کین ایلوہیم گوں تُہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داودءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ چیست"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "تُہءِ دلءَ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کین"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تُہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:28:58.465664608Z",
+  "model": "glm-5.3"
+}

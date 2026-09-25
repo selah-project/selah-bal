@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "دہمی پار، دہمی پار گُوری یکتا پہ، گوریانءِ ہپتءَ پہ.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "دہمی پار"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "دہمی پار"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "گُوریءَ پہ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یکتا"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ہپتءَ پہ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "گوریان"
+    }
+  ],
+  "timestamp": "2026-09-24T19:41:54.440497881Z",
+  "model": "glm-5.3"
+}

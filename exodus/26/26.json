@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 26:26",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "ءُ تُہ کنیں ڈنڈیان چوِ شتیم — پنچ پہ مِشکانءِ یک رخءِ تختان۔",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ءُ تُہ کنیں"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "ڈنڈیان"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "چو"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شتیم"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنچ"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "پہ تختان"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "رخ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مِشکانءِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:20.302892091Z",
+  "model": "glm-5.3"
+}

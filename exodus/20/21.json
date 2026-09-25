@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ قوم دورءَ ایشت، ءُ موشہ تہ ⟨تہاری⟩ نزیک بوت، جتھا کہ اودا ایلوہیم ہست‌اَت۔",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ءُ ایشت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "دورءَ"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ءُ موشہ"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "نزیک بوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "⟨تہاری⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھا کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:58:38.042926221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یوسف مرت، ءُ آییءِ کُل براتان، ءُ آ کُل دور۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ کُل"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "آییءِ براتان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ کُل"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:49:32.748449202Z",
+  "model": "glm-5.3"
+}

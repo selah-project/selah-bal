@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "jeremiah 51:60",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "ءُ یرمیاہوءَ ⟨את⟩ تمام آ بدی کہ بابلءَ رسیت یک کتابءَ لکٹ — ⟨את⟩ تمام اے گالانی کہ بابلءِ بابتءَ لکٹگ بنت۔",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ءُ لکٹ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہوءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام آ بدی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "آ بدی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "رسیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابلءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتابءَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام اے گالان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "اے گالان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "لکٹگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بابتءَ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:08:07.931859335Z",
+  "model": "glm-5.3"
+}

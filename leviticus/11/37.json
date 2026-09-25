@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ اگر چہ اِشانی مردارءِ چیزیگ گشت سر ہر بزرِ بیگ بوتگی کہ بیگ بیت — آ پاک اِنت.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "گشت"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "چہ اِشانی مردارءِ چیزیگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بزرِ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بیگ بوتگی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "بیگ بیت"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:10.523006629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "دو چوک اَنت چہ یک، کہ اِشاںءَ پہ وتِ زہمتے چوکاں بدلی اِنت۔",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "بدلی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چوکاں"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "پہ وتِ زہمتے"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:58.427054487Z",
+  "model": "glm-5.3"
+}

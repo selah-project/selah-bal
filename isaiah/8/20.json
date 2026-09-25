@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "تورا ءُ گواہیءِ پہ — اگر اِشاں آ گالءِ مانندیں نہ گوشنت، آ کہ آییءَ سپوچے نیست۔",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "تورا"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "ءُ گواہیءِ پہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "گالءِ مانندیں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سپوچے"
+    }
+  ],
+  "timestamp": "2026-09-24T21:23:02.819080290Z",
+  "model": "glm-5.3"
+}

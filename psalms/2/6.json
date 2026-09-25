@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ من ءُ من وتے شاہءَ تسیونءِ سرءَ — وتے پاکیں کوہ — مسح کت.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "مسح کت"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "وتے شاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوہ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "وتے پاکیں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:48:15.447092883Z",
+  "model": "glm-5.3"
+}

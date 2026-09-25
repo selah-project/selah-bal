@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 60,
+  "translation": "تو وتی قومءَ گیشتگی چیز دِست کت، ما ءَ دَڑے ءِ شراب شربت کت۔",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "تو … دِست کت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "وتی قومءَ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "گیشتگی چیز"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "ما ءَ شربت کت"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "دَڑے ءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:21.003530762Z",
+  "model": "glm-5.3"
+}

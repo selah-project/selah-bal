@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 8:1",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ یاہوہءَ موشہءَ گوَشت کہ گوَشیت،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ گوَشیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:32:54.478667453Z",
+  "model": "glm-5.3"
+}

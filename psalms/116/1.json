@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "من چاہت کت، کہ یاہوہ ⟨את⟩ مئے آواز، مئے زاریءَ اِشنت۔",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "من چاہت کت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "اِشنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مئے آواز"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "مئے آواز"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "مئے زاری"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:20.098844171Z",
+  "model": "glm-5.3"
+}

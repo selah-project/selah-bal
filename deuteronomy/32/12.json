@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "یاہوہ یکلوت آییءَ رہنمائی کت، ءُ آییءِ گوں ہچ بیگانہ ہدا نہ اَت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "یکلوت"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "آییءَ رہنمائی کت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ … نہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "آییءِ گوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ہدا"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بیگانہ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:01:43.099227589Z",
+  "model": "glm-5.3"
+}

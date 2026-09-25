@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "وتی کاهنان تیغءَ ڈگنت، ءُ وتی بیوگان روئنت نہ.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "وتی کاهنان"
+    },
+    {
+      "surface": "بחרב",
+      "gloss": "تیغءَ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڈگنت"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "ءُ وتی بیوگان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "روئنت نہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:55.081150231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ ابی‌ملک آییءِ نزدیک نہ بوت، ءُ گوَشت: اے ادونای، آیا یک راستین قومءَ ہم مارئی؟",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "ءُ ابی‌ملک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "نزدیک بوت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "آییءِ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "آیا قومءَ"
+    },
+    {
+      "surface": "گם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستین"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "مارئی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:49.952443194Z",
+  "model": "glm-5.3"
+}

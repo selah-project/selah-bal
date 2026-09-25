@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ شاہ اِستِرءَ ⟨את⟩ زریں عصا دراز کت، ءُ اِستِر اُستاد ءُ شاہءِ دیما ڈنگ بیت۔",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "ءُ دراز کت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "اِستِرءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زریں عصا"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "הזהب",
+      "gloss": "زریں"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ءُ اُستاد"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستِر"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ءُ ڈنگ بیت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دیما"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:57:54.979826985Z",
+  "model": "glm-5.3"
+}

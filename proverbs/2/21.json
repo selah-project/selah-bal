@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "کیا کہ راست مردم زمینءَ مان بیت، ءُ پوریں مردم آییءَ تہ برات بیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیا کہ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "راست مردم"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "مان بیت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "ءُ پوریں مردم"
+    },
+    {
+      "surface": "יותרو",
+      "gloss": "برات بیت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "آییءَ تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:47.765698116Z",
+  "model": "glm-5.3"
+}

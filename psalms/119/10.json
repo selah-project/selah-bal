@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "منءِ پوریءِ دلءَ گوں تُست لبیتگ؛ مہ مہ چہ تیءِ حکمان گم کیت.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "پوریءِ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "منءِ دلءَ گوں"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "تُست لبیتگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مہ"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "گم کن"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "چہ تیءِ حکمان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:09.035371908Z",
+  "model": "glm-5.3"
+}

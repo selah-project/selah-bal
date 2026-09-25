@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 13:20",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ اَت کہ آیان میزءِ سرءَ نشتنت، ءُ یاہوہءِ گال تہ پیغمبرءَ آءِ کہ آییءَ پدا آورت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آیان"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "نشتنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میزءَ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ءُ اَت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبرءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "آییءَ پدا آورت"
+    }
+  ],
+  "timestamp": "2026-09-25T00:58:44.982897804Z",
+  "model": "glm-5.3"
+}

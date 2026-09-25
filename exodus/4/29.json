@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ موشہ ءُ اہارون روتیں ءُ اِشانی اسرائیلی زہگانی پیرمانی پوریں ئے ⟨את⟩ جم کت.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "روتیں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ءُ اہارون"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "جم کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں ئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں ئے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پیرمان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلی"
+    }
+  ],
+  "timestamp": "2026-09-24T18:51:27.359904507Z",
+  "model": "glm-5.3"
+}

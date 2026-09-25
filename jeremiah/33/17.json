@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "کی چوش گوَشت یاہوہ: پہ داودءَ یک مَرد کٹ نہ بیت کہ اسرائیلءِ گدانءِ تختءَ تہ نشت بیت،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "כה",
+      "gloss": "چوش"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "کٹ بیت"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "پہ داودءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مَرد"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "نشت بیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T21:57:45.774464428Z",
+  "model": "glm-5.3"
+}

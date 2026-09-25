@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 46,
+  "translation": "یاہوہ سباؤت اسپءُ اِنت — یعقوبءِ ایلوہیم اسپءِ برز جاگہ۔ سلاہ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سباؤت"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "اسپءُ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "برز جاگہ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسپءِ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءِ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:51.121684433Z",
+  "model": "glm-5.3"
+}

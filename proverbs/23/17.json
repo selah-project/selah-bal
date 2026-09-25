@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "نہ بیت کہ تُئے دل گناهگاراںءَ سبز چشمی کنیت، پرچا کہ یقیناً یاہوہءِ ڈگری تہ تمام روچ ⟨بیت⟩۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "سبز چشمی کنیت"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تُئے دل"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "گناهگاراںءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "تہ ڈگریءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "היום",
+      "gloss": "روچ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:44.351242286Z",
+  "model": "glm-5.3"
+}

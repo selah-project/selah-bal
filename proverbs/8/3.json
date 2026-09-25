@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "دروازانی کنت، شہرءِ منہءَ، پٹانی درآمدءَ ایشئے بانگ کنت.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "کنت"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازانی"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "منہءَ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "درآمدءَ"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "پٹانی"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ایشئے بانگ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:14.038005102Z",
+  "model": "glm-5.3"
+}

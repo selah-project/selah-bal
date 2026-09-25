@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "گوَشت اے زرُبّابلءَ، یہوداہءِ پچہءَ، کہ من ⟨את⟩ آسمانان ہلا دیت ءُ ⟨את⟩ ⟨اے⟩ زمین ⟨ہلا دیت⟩۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے …ءَ"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "زرُبّابل"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پچہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "مרעיש",
+      "gloss": "ہلا دیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آسمانان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:30.454135442Z",
+  "model": "glm-5.3"
+}

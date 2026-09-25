@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 29,
+  "translation": "چہ اِشاں گوں دروغ پہ شما تہ مانی نامءَ نبایتِن — مِن اِشاںءَ نہ پیش کتگ، یاہوہءِ اعلان۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "گوں دروغ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اِشاں"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "نبایتِن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ شما"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "تہ مانی نامءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "پیش کتگ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:55:58.094280008Z",
+  "model": "glm-5.3"
+}

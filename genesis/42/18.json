@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 42,
+  "translation": "ءُ سئیمی روچءَ یوسفءَ ایشانءَ گوَشت: اے کار کن ءُ زندگ بیت — ایلوہیمءَ ⟨את⟩ من ڈریتگ اِم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ایشانءَ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "روچءَ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سئیمی"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کن"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ءُ زندگ بیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیمءَ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈریتگ اِم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:45:39.568687221Z",
+  "model": "glm-5.3"
+}

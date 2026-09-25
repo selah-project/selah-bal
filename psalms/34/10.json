@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "چہ ⟨את⟩ یاہوہ بترسو، اے آییءِ پاکان؛ کہ آییءِ چہ ترسَندگاں پہ ہچ کمی نیست.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "بترسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "آییءِ پاکان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نیست"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "کمی"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "آییءِ چہ ترسَندگاں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:16.121051025Z",
+  "model": "glm-5.3"
+}

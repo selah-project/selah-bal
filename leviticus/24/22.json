@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "یک Consiglio نہ — یکئیں فیصلہ تُہاں پہ بیت، پہ مسافر چوش کہ پہ ڈگاری ءُ ⟨اِنت⟩؛ پرچا کہ من یاہوہ تُہماں ایلوہیم اَنت۔",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکئیں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاں پہ"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "چوش کہ مسافر"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "چوش کہ ڈگاری"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨اِنت⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہماں ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T19:23:25.823056769Z",
+  "model": "glm-5.3"
+}

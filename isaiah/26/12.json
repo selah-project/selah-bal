@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 26,
+  "translation": "اے یاہوہ، تئے ماں پہ سلامتی تعین کت، پرچا کہ تئے ہمگ ماں کار ماں پہ کتگ اَنت۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "تعین کت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماں پہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ماں کار"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "ماں پہ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "کتگ اَنت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ماں پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:27:59.533557277Z",
+  "model": "glm-5.3"
+}

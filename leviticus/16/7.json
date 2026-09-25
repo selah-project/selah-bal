@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ ⟨את⟩ دوے گوٹان گرنت ءُ آیانءَ ⟨את⟩ یاہوہءِ پیشءَ ملاقاتءِ گadanءِ دہلزءَ ایشانت.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ءُ گرنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دوے گوٹان"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوے"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "گوٹان"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "ءُ ایشانت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ آیانءَ",
+      "marks": "دوے گوٹان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دہلزءَ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گadanءِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:28.696138581Z",
+  "model": "glm-5.3"
+}

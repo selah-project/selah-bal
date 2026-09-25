@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "اُٹھ، اے یاہوہ؛ نہ زور بگرت مرد؛ قومان تیءِ دیما ءُ منز داور بنت۔",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "زور بگرت"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "داور بنت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومان"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ … منز"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیءِ دیما"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:56.311192779Z",
+  "model": "glm-5.3"
+}

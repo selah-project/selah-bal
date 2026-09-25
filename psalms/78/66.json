@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ آییءَ دشمنانءَ پسّا زت، آیانءَ رندءِ رِند شرمءِ ہبایل دات۔",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ءُ زت"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "آییءَ دشمنانءَ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پسّا"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "شرمءِ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "رندءِ رِندءِ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "למו",
+      "gloss": "آیانءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:04:35.991947365Z",
+  "model": "glm-5.3"
+}

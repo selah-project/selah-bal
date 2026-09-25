@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ یہوشوعءَ کاہنانءَ حکم کت آ گوَشت گوں کہ چیہ چُست بیت چہ یریدن۔",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ءُ حکم کت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوعءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہنان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ گوَشت گوں کہ"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "چُست بیت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یریدن"
+    }
+  ],
+  "timestamp": "2026-09-24T20:03:53.473718963Z",
+  "model": "glm-5.3"
+}

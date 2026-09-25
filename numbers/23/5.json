@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ یاہوہءَ یک گال بِلعامءِ منہءَ نشانیت ءُ گوَشت: بَلَقءَ ورد کن ءُ اے چُماں گپ زن۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "نشانیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "یک گال"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "منہءَ تہ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعامءِ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ورد کن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ءَ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ءُ اے چُماں"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "گپ زن"
+    }
+  ],
+  "timestamp": "2026-09-24T19:40:12.583391810Z",
+  "model": "glm-5.3"
+}

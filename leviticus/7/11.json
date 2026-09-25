@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ اے آ تورائِ قربانی سلامتیاںءِ اِنت، کہ یک کس یاہووہءَ نزیک کنت۔",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ءُ اے"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورائِ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "سلامتیاںءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "نزیک کنت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہووہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:32.793448455Z",
+  "model": "glm-5.3"
+}

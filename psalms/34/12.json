@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "آئو، اے زہگان، مءَ گوش کنیت؛ یاہوہءِ ترسءَ تُمانءَ پڑہان کنیں.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "آئو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "اے زہگان"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوش کنیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترسءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "تُمانءَ پڑہان کنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:16.121304850Z",
+  "model": "glm-5.3"
+}

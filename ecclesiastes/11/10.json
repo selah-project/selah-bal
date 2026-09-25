@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ غم چہ تہءِ دلءَ پاک ک، ءُ شر چہ تہءِ جسمءَ دور ک، کہ جوانی ءُ والءِ سپیتی بےسود اِنت۔",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "ءُ … پاک ک"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "غم"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "تہءِ دلءَ چہ"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ءُ … دور ک"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شر"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "تہءِ جسمءَ چہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "ءُ والءِ سپیتی"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بےسود اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:29.071140718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ہنوز آییءِ سبزیءَ نہ کٹیت، ءُ پیش چہ ہمگ گاہانءَ خشک بیت۔",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "ہنوز"
+    },
+    {
+      "surface": "بאבו",
+      "gloss": "آییءِ سبزیءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "کٹیت"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ءُ پیش چہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گاہان"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "خشک بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:32:56.548571797Z",
+  "model": "glm-5.3"
+}

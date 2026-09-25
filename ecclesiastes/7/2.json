@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "چنگ اِنت کہ سوگءِ گadanءَ روت چہ میہمانیءِ گadanءَ روت، پہ چہ آ ⟨اِنت⟩ همه مردمانی سَر ءُ زندہ آییءَ وتءِ دلءَ دیت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "کہ روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "سوگءِ"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "چہ روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "میہمانیءِ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "پہ چہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سَر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "ءُ زندہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "وتءِ دل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:54:16.716376050Z",
+  "model": "glm-5.3"
+}

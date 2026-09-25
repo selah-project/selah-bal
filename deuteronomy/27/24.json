@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "لعنت بیت آ کہ آییءِ یارءَ چپءَ مارئیت ءُ گوَشتِت کل قوم کہ آمین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت بیت"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "مارئیت آ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "آییءِ یارءَ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "چپءَ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ گوَشتِت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-09-24T19:59:04.355033863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "ءُ گوَشتنت: یاہ نہ گندیت ءُ یعقوبءِ ایلوہیم نہ سوجیت۔",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ءُ گوَشتنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "گندیت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سوجیت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:46.197131414Z",
+  "model": "glm-5.3"
+}

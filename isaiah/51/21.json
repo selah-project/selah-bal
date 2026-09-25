@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 51,
+  "translation": "لہذا اِشاں گوش کن، اے دلتنگ ءُ مست بوتگیں، پرچا کہ چہ شراب نہ۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لہذا"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "گوش کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اِشاں"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "دلتنگ"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "ءُ مست بوتگیں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "چہ شراب"
+    }
+  ],
+  "timestamp": "2026-09-24T21:38:00.324022206Z",
+  "model": "glm-5.3"
+}

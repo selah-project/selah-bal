@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "چہ پاکیں مالان ءُ چہ مالانی کہ پاک نہ اَنت، ءُ چہ مرگان، ءُ چہ ہر چیز کہ زمینءِ سرءَ کشیت،",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مالان"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "پاکیں"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مالانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "نہ … اَنت"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ءُ چہ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "مرگان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ہر چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "کشیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمینءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:27.808533348Z",
+  "model": "glm-5.3"
+}

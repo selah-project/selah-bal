@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "زہگِ میخاایل، زہگِ بَعَسیاہ، زہگِ مَلکیاہ۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگِ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "میخاایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگِ"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "بَعَسیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگِ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "مَلکیاہ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:16.090067314Z",
+  "model": "glm-5.3"
+}

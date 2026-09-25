@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 78,
+  "translation": "ءُ مِتسرایمءِ ہر اولزادگءَ زت، زورءِ اولیں میوہءَ چمءِ گدانیں تہ.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "زت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "اولزادگ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتسرایمءِ تہ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "اولیں میوہ"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "زورءِ"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "گدانیں تہ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "چم"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:33.195746226Z",
+  "model": "glm-5.3"
+}

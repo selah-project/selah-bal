@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "کی ہچ دگہ ایلءَ سجدہ نہ کوءِ — کی یاہوہ، آییءِ نام غيرت مند اِنت، ایلِ غيرت مند اِنت آ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "سجدہ کوءِ"
+    },
+    {
+      "surface": "لאל",
+      "gloss": "دگہ ایلءَ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دگہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "غيرت مند"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "غيرت مند"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:07:08.310407252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "دل چہ ہمگ چیزان فریبکار اِنت ءُ آ ⟨اِنت⟩ بے‌شفا — متی آییءَ یاءے زانت؟",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "فریبکار"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "مכל",
+      "gloss": "چہ ہمگ چیزان"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "ءُ بے‌شفا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "متی"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "یاءے زانت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:49:46.538736278Z",
+  "model": "glm-5.3"
+}

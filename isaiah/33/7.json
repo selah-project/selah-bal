@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "آنگن ایرالمان بیرُن چنگارت کتنت، آشتیءِ پیغامبران تلخاں روئنت.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "آنگن"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "ایرالمان"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "چنگارت کتنت"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "بیرُن"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "پیغامبران"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "آشتیءِ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تلخاں"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "روئنت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:01:06.353525922Z",
+  "model": "glm-5.3"
+}

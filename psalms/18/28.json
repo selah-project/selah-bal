@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "کیہ تو ⟨⟨اے⟩⟩ کمزور قومءَ رہائی دیت، ءُ اُچگان چشمانءَ تو جھکیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومءَ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "کمزور"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "رہائی دیت"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ءُ چشمانءَ"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "اُچگان"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "تو جھکیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:51:27.719841025Z",
+  "model": "glm-5.3"
+}

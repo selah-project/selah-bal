@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 7:16",
+  "book": "amos",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ اِشا تو گوش، یاہوہءِ گال: توءے گوَشت، نہ پہ اسرائیلءِ سرءَ پیغمبری بیت ءُ نہ پہ اِسحاقءِ گadanءِ سرءَ ترِش۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "تو گوش"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشتءے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "پیغمبری بیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ اسرائیلءِ سرءَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תטיף",
+      "gloss": "ترِش"
+    },
+    {
+      "surface": "על",
+      "gloss": "پہ سرءَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گadanءِ"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "اِسحاق"
+    }
+  ],
+  "timestamp": "2026-09-24T22:36:00.386966857Z",
+  "model": "glm-5.3"
+}

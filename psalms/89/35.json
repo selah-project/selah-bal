@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 89,
+  "translation": "مئں عہدءَ نہ خراب کنت ءُ جے چہ مئں لباں در کپیت، آءَ نہ بدل کنت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "خراب نہ کنت"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "مئں عہدءَ"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ءُ درکپتگیں"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "مئں لباں چہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "بدل نہ کنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:00.892086982Z",
+  "model": "glm-5.3"
+}

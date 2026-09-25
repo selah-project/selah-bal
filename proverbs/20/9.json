@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "کے گوَشتہ بیت: مہ دلءَ من پاک کت، من چہ مہ گنہءَ پاک اَت؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "گوَشتہ بیت"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "پاک کتءَ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "مہ دل"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "پاک اَتءَ"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "چہ مہ گنہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:55.249601172Z",
+  "model": "glm-5.3"
+}

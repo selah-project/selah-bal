@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "لَبانہءِ زہگان، حَگَبہءِ زہگان، عَقّوبءِ زہگان،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگانِ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لَبانہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانِ"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "حَگَبہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانِ"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "عَقّوب"
+    }
+  ],
+  "timestamp": "2026-09-25T00:06:40.467700885Z",
+  "model": "glm-5.3"
+}

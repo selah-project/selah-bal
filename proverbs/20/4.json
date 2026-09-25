@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "سرماءِ پہ کمال کمیش زمین نہ لنگیت؛ دروءِ وختءَ پرسیت ءُ چیز نیست۔",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "سرما چہ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کمال کمیش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "زمین لنگیت"
+    },
+    {
+      "surface": "ישאل",
+      "gloss": "پرسیت"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "دروءِ وختءَ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ چیز نیست"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:24.339629054Z",
+  "model": "glm-5.3"
+}

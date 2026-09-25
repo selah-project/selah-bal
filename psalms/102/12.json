@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "منی روچاں چوش دراز بوتگیں سایہ اِنت، ءُ من چوش سبزا وشک بوتگ.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "منی روچاں"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "چوش سایہ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "دراز بوتگیں"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ءُ من"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "چوش سبزا"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "وشک بوتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:39.392031898Z",
+  "model": "glm-5.3"
+}

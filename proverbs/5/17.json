@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "بنت اِشاں پہ تہءَ اِشتے، ءُ نیست پہ بیگانان ⟨את⟩ گوں تہ.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پہ تہءَ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "اِشتے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ءُ نیست"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "پہ بیگانان"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ گوں تہ",
+      "marks": "تہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:21:57.817722040Z",
+  "model": "glm-5.3"
+}

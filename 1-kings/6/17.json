@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ءُ چل آما اِنت ⟨ہو⟩ گadan — آ اِنت ہیکال آییءِ پیشءَ۔",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ءُ چل"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "آما"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گadan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ اِنت"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ہیکال"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:56:00.709188959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "پیشوا راہے، ہشتمی سرءَ، داودءِ زبور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پیشوا راہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ہشتمی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:47.331788573Z",
+  "model": "glm-5.3"
+}

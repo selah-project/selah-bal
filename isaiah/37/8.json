@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "ءُ رَب شاکہ واپس روت ءُ آشورءِ شاہءَ ⟨את⟩ لِبنہءَ سرءَ جنگیریءَ تہ لبیت، چرچہ گوشیتگ کہ اُو چہ لَخیِش روتگ",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ءُ واپس روت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "رَب"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "شاکہ"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ءُ لبیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشورءِ"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "جنگیریءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لِبنہءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چرچہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوشیتگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "چین روت"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "چہ لَخیِش"
+    }
+  ],
+  "timestamp": "2026-09-24T21:33:09.473661506Z",
+  "model": "glm-5.3"
+}

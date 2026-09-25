@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "جو کس کہ گوشءَ چہ دالی ئے بانگءَ بند کنت، آ ہم خود بانگ کُنیت ءُ جواب نہ دیت بیت۔",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "بند کنت"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "گوشءَ"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "چہ بانگءَ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "دالی ئے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ ہم خود"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "بانگ کُنیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دیت بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:26:32.305629926Z",
+  "model": "glm-5.3"
+}

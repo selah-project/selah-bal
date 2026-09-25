@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 24:12",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "بدکاریانءَ آیاءَ تھکاینت؛ ءُ آییءِ گیش زنگ چہ آیءَ نہ روت — آتشءَ آییءِ زنگ اِنت.",
+  "tokens": [
+    {
+      "surface": "תאנים",
+      "gloss": "بدکاریانءَ"
+    },
+    {
+      "surface": "הלאת",
+      "gloss": "آیاءَ تھکاینت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "چہ آیءَ"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "زنگ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آتشءَ"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "آییءِ زنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:17:15.372791222Z",
+  "model": "glm-5.3"
+}

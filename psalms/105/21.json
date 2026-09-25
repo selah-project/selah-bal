@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 105,
+  "translation": "آ چُو آییءَ آییءِ گadanءِ سردار ءُ آییءِ پوریں ملءِ حاکم کت.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "سردار کت"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "آییءِ گadanءِ تہ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ءُ حاکم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "آییءِ مل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:15.386247206Z",
+  "model": "glm-5.3"
+}

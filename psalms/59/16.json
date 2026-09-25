@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 59,
+  "translation": "آ اِشاں پہ خوراک سرگردان اَنت؛ اگر سیر نہ بنت، پس شپءَ ماننت۔",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "آ اِشاں"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "سرگردان اَنت"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "پہ خوراک"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "سیر بنت"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "پس شپءَ ماننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:09.442949656Z",
+  "model": "glm-5.3"
+}

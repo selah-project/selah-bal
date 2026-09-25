@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "یاہوہءِ چشم ہر جاگہءَ بدءَ ءُ چاکءَ نگران اَنت",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاگہ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چشم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "نگران اَنت"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بد"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ءُ چاک"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:52.375139266Z",
+  "model": "glm-5.3"
+}

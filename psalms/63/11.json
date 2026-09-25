@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 63,
+  "translation": "آءُ تیغءِ دستءَ ڈگنت، شگالانی حصہ بنت ءُ اِنت۔",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "آیانءَ ڈگنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دست"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تیغ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "شگالانی"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:03.058173149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 80,
+  "translation": "آپءَ سوزیتگ، چہ بیخءَ کپیتگ — تُڑی دیمءِ ہکارءَ پہ ہلاک بیت.",
+  "tokens": [
+    {
+      "surface": "שרופה",
+      "gloss": "سوزیتگ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آپءَ"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "چہ بیخءَ کپیتگ"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "ہکار"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تُڑی دیمءِ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "پہ ہلاک بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:18.050182376Z",
+  "model": "glm-5.3"
+}

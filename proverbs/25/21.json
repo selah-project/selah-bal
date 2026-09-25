@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "اگر تُهاری دشمن بھنگر بیت، آییءَ نانءَ بچار ءُ اگر تشنگ بیت، آییءَ آپ بچار —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "بھنگر بیت"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "تُهاری دشمن"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "آییءَ بچار (نان)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "تشنگ بیت"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "آییءَ بچار (آپ)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:13.201024764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 106,
+  "translation": "ءُ پینہاس ⟨فینحاس⟩ اُستات ءُ دعا کت، ءُ بیماری بند بوت۔",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ءُ اُستات"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینہاس"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ءُ دعا کت"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ءُ بند بوت"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "بیماری"
+    }
+  ],
+  "timestamp": "2026-09-24T23:11:59.285071259Z",
+  "model": "glm-5.3"
+}

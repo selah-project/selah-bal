@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ یک مرد کہ وتی شپءَ مالءَ دیت، موتءَ مریت؛ ءُ ⟨את⟩ مالءَ اِوہ جنیتنت.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ یک مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیت"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "وتی شپ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "مالءَ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتءَ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مریت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "مال"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "جنیتنت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:22:38.010678183Z",
+  "model": "glm-5.3"
+}

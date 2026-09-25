@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ ⟨את⟩ پنوئلءِ مینار کہ نست کت، ءُ ⟨את⟩ شہرءِ مردمانءَ جنشت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پنوئلءِ مینار"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مینار"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "پنوئلءِ"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "کہ نست کت"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ءُ جنشت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہرءِ مردمان"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردمانی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-09-24T20:19:05.264042293Z",
+  "model": "glm-5.3"
+}

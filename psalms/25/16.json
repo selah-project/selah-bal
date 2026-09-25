@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "مءَ لگ دیم کر ءُ مءَ چہ لطف دریں، چونکہ من تنے ءُ مسکین اَں۔",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "مءَ لگ دیم کر"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مءَ لگ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ءُ مءِ چہ لطف دریں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "تنے"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ءُ مسکین"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T22:52:44.064603548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "شمہ ہرودی، الیکا ہرودی،",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شمہ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ہرودی"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "الیکا"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ہرودی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:51:43.673122385Z",
+  "model": "glm-5.3"
+}

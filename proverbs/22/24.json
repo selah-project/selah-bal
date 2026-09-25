@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "غضبءِ اربابءَ گوں یاری نہ کن، ءُ ⟨את⟩ تپشءِ مردءَ گوں نہ روت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "گوں یاری کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غضبءِ ارباب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ارباب"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "تپش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "روت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:58.245420720Z",
+  "model": "glm-5.3"
+}

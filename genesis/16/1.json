@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ سارای، اَبرامءِ جنک، آییءَ زہگ نہ زای؛ ءُ آییءَ یک کنیز مِتسرائیں بوت، آییءِ نام ہاگار۔",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "ءُ سارای"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "جنکءِ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَبرامءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زای"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آییءَ"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "ءُ آییءَ"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "کنیز"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "مِتسرائیں"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ءُ آییءِ نام"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ہاگار"
+    }
+  ],
+  "timestamp": "2026-09-24T18:30:32.253396183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 5:36",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ یوحنان ⟨את⟩ عزریہءَ گوَندیت — آءِے کہ اُو گدءَ تہ کہ شلوموہ یروشلمءَ جوڑ کت ءُ اُوءَ تہ کاہنگی کت.",
+  "tokens": [
+    {
+      "surface": "ויוחנן",
+      "gloss": "ءُ یوحنان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "گوَندیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزریہءَ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آءِے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہنگی کت"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گدءَ تہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:22:29.812403177Z",
+  "model": "glm-5.3"
+}

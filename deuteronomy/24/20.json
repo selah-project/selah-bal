@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "کہ تو وتئے زیتونءَ کوٹئے، پچا پچا نہ گَپ — مہمانءَ، یتیمءَ ءُ بیوہءَ ببیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "کوٹئے"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "وتئے زیتونءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "پچا گَپ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "پچا"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "مہمانءَ"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "یتیمءَ"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "ءُ بیوہءَ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ببیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:36.487196219Z",
+  "model": "glm-5.3"
+}

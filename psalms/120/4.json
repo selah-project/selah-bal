@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 120,
+  "translation": "زوریں مردءِ تیزین تیر، گوں رتمءِ انگارانءَ۔",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زوریں مردءِ"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "تیزین"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "انگاران"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "رتمءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:28.742668045Z",
+  "model": "glm-5.3"
+}

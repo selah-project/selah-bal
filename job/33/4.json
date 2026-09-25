@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "روحءِ ایلءَ منءَ جوڑ کت، ءُ شدّایءِ ساہ منءَ جیون دنت.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "منءَ جوڑ کت"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ءُ ساہ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّایءِ"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "منءَ جیون دنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:41:58.041684627Z",
+  "model": "glm-5.3"
+}

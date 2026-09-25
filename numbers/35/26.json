@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ اگر قاتل بِرّیت ⟨את⟩ آییءِ پناہءِ شہرءِ سرحدءَ چوں، اُودا کہ آ اوتھ دَڑیپیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "بِرّیت"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "چوں"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرحد"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحدءَ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہرءِ"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "آییءِ پناہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "دَڑیپیت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:25.139450916Z",
+  "model": "glm-5.3"
+}

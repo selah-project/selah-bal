@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "بلکہ تو زہریرتءَ پروش دیت ءُ سیاچ اِیلءِ پیشءَ کم کنیت.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "پروش دیت"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "زہریرت"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "ءُ کم کنیت"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "سیاچ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-09-24T23:36:44.326354594Z",
+  "model": "glm-5.3"
+}

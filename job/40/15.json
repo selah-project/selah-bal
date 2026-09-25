@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 40:15",
+  "book": "job",
+  "lang": "bal",
+  "chapter": 40,
+  "translation": "نگاہ کن، نَ، بہیموتءَ کہ من آءَ گوں تئے جوڑ کت؛ واڑ چوش مالءِ چوں خورت.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "نگاہ کن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نَ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "بہیموت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "من جوڑ کت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تئے"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "واڑ"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "چوش مالءِ چوں"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خورت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:44:17.363838944Z",
+  "model": "glm-5.3"
+}

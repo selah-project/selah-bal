@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 37,
+  "translation": "کم چیز پہ راستکس چہ گیش بدکارانی دولتءِ بہتر اِنت۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر اِنت"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کم چیز"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "پہ راستکس"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "دولتءِ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گیش"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:08.018668253Z",
+  "model": "glm-5.3"
+}

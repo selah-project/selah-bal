@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "پہ پیشوا، کوراہءِ زہگانءَ گانی۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پہ زہگان"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "کوراہ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "گانی"
+    }
+  ],
+  "timestamp": "2026-09-24T22:57:58.747332011Z",
+  "model": "glm-5.3"
+}

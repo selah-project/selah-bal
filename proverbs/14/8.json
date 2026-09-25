@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "زیرکءِ دانائی آ اِنت کہ وتءِ رہ سمجھیت، ءُ نادانانی کودنی فریب اِنت۔",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "زیرکءِ"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "سمجھیت"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "وتءِ رہ"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "ءُ کودنی"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانانی"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فریب"
+    }
+  ],
+  "timestamp": "2026-09-24T23:24:46.958935851Z",
+  "model": "glm-5.3"
+}

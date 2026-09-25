@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 116,
+  "translation": "پرچا کہ توءَ منی جان موتءَ چہ نجات دتی، ⟨את⟩ منی چشم اشکءَ چہ، ⟨את⟩ منی پا ڈیگءَ چہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "توءَ نجات دتی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منی جان"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "موتءَ چہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منی چشم"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "منی چشم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "اشک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منی پا"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "منی پا"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ڈیگءَ چہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:14:22.817106020Z",
+  "model": "glm-5.3"
+}

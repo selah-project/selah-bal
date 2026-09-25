@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "ءُ آ گربیت، ءُ یکے زہگ زائیت، ءُ آیی ⟨את⟩ آییءِ نام عیر بانگ کت۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ءُ گربیت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ءُ بانگ کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آییءِ نام"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عیر"
+    }
+  ],
+  "timestamp": "2026-09-24T18:43:18.495121866Z",
+  "model": "glm-5.3"
+}

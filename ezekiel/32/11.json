@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "کی ہمے گوَشت انت ادونای یاہوہ: بابلءِ پادشاہءِ تِر تُے سرا گن اَنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت انت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تِر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاہءِ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابلءِ"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "تُے سرا گن اَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:21:09.143094082Z",
+  "model": "glm-5.3"
+}

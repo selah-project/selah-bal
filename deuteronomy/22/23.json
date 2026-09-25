@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 22:23",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "اگر یک جنک دُشمانزادگ بوست کہ یک مردءَ منگنت بوتگ ءُ یک مرد آییءَ شارءِ تہ لبیت ءُ گوں آیی شپ کت،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بوست"
+    },
+    {
+      "surface": "נער",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "دُشمانزادگ"
+    },
+    {
+      "surface": "מארשה",
+      "gloss": "منگنت بوتگ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "یک مردءَ"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "ءُ لبیت آییءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شارءِ تہ"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ءُ شپ کت"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "گوں آیی"
+    }
+  ],
+  "timestamp": "2026-09-24T19:58:43.026001478Z",
+  "model": "glm-5.3"
+}

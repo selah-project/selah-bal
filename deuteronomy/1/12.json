@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "چونت من یکے تُمانی بار ءُ تُمانی گرنگی ءُ تُمانی دعوا بارت کنت؟",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "چونت"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "بارت کنت"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "یکے"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "تُمانی بار"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ءُ تُمانی گرنگی"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ءُ تُمانی دعوا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:46:38.462690759Z",
+  "model": "glm-5.3"
+}

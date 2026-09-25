@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ پشم ءُ جو زدگ بوتنت، کہ جو سبز اَت ءُ پشم گل دات۔",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "ءُ پشم"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "ءُ جو"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "زدگ بوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "سبز اَت"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "ءُ پشم"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "گل دات"
+    }
+  ],
+  "timestamp": "2026-09-24T18:53:39.686418143Z",
+  "model": "glm-5.3"
+}

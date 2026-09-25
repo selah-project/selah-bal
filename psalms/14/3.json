@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "همه لا گتنت، یکجا گندگ بوتنت؛ نیست رستیءِ کنوک، نیست، بلکہ یکے ہم نیست.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "همه"
+    },
+    {
+      "surface": "סר",
+      "gloss": "لا گتنت"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "گندگ بوتنت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نست"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنوک"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "رستی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نست"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکے"
+    }
+  ],
+  "timestamp": "2026-09-24T22:50:34.714135845Z",
+  "model": "glm-5.3"
+}

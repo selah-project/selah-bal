@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "دانا مردم گوں زور اِنت، ءُ دانشءِ مردم زورءَ مزیت دیت۔",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "گوں زور"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ءُ مردم"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانش"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "مزیت دیت"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زورءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:28:17.776265268Z",
+  "model": "glm-5.3"
+}

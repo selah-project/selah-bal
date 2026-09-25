@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 27,
+  "translation": "یک چمچمءِ چکک چہ بارانیں روچءَ ءُ یک جیں جنک دگہ ماننت.",
+  "tokens": [
+    {
+      "surface": "דֶּלֶף",
+      "gloss": "چکک"
+    },
+    {
+      "surface": "טוֹרֵד",
+      "gloss": "چمچمءِ"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "چہ روچءَ"
+    },
+    {
+      "surface": "סַגְרִיר",
+      "gloss": "بارانیں"
+    },
+    {
+      "surface": "וְאֵשֶׁת",
+      "gloss": "ءُ جنک"
+    },
+    {
+      "surface": "מְדֹנִים",
+      "gloss": "جیں"
+    },
+    {
+      "surface": "נִשְׁתָּוָה",
+      "gloss": "دگہ ماننت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:29:43.554156853Z",
+  "model": "glm-5.3"
+}

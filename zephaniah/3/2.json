@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "گالءَ نہ گوشیت، تادیب نہ گرنت، گوں یاہوہ نہ اتکائت، وتۓ ایلوہیمءَ نہ نزدیک بوت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "گالءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "گرنت"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "گوں یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "اتکائت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨اِشاں⟩"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "وتۓ ایلوہیمءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "نزدیک بوت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:42.483297496Z",
+  "model": "glm-5.3"
+}

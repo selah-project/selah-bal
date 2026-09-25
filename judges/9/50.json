@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ اَبی‌مَلِک تِبِصءَ روت، ءُ تِبِصءَ سامان گرِت، ءُ آیاءَ گرِت۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَبی‌مَلِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "تِبِص"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "سامان گرِت"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "تِبِصءَ"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "آیاءَ گرِت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:18:27.613574908Z",
+  "model": "glm-5.3"
+}

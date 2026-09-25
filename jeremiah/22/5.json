@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ اگر اے گالانءَ نہ گوشیت — من وتءَ قسم وانیت، یاہوہءِ گواہی — کہ آے گدان پہ ویرانی بیت۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "گوشیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اے گالان"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "وتءَ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "قسم وانیت"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "پہ ویرانی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گدان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آے"
+    }
+  ],
+  "timestamp": "2026-09-24T21:51:30.843278246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ شُپیم ءُ حُپیم عیرءِ زہگان اَتنت؛ حوشیم اَحیرءِ زہگان اَتنت۔",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ءُ شُپیم"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ءُ حُپیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیرءِ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حوشیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "اَحیرءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:23:42.460921655Z",
+  "model": "glm-5.3"
+}

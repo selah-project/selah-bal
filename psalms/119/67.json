@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "پیش چہ مار بم اِنت، من رہگشتگ اُتُم؛ ءُ اِشاں تئی گال من نگاہ کتگ۔",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "پیش چہ"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "مار بم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "رہگشتگ اُتُم"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشاں"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تئی گال"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "نگاہ کتگ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:16:12.001588970Z",
+  "model": "glm-5.3"
+}

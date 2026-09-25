@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ماںءِ قربانیءِ گون چُہ گندریں نانءَ سرا نہ مارنت، ءُ ماںءِ جشنءِ چربی آ سحریءَ نہ مانیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "مارنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "چُہ…ءَ سرا"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "گندریں نان"
+    },
+    {
+      "surface": "דם",
+      "gloss": "گون"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ماںءِ قربانیءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "یלין",
+      "gloss": "مانیت"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ماںءِ جشنءِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "آ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سحریءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:02:14.174586369Z",
+  "model": "glm-5.3"
+}

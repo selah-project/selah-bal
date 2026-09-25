@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ ⟨את⟩ کوکس ءُ ⟨את⟩ شالخ ءُ ⟨את⟩ یانشوپ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "کوکس"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "کوکس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شالخ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "شالخ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یانشوپ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "یانشوپ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:16:22.600527166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ شاؤل چہ داؤدءِ رخءَ ترسیت، پرچا کہ یاہوہ گوں آییءَ اَت، ءُ چہ شاؤلءَ دور بوت۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ ترسیت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "چہ … رخءَ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤدءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں آییءَ"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "ءُ چہ … ءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "סר",
+      "gloss": "دور بوت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:33:45.030701737Z",
+  "model": "glm-5.3"
+}

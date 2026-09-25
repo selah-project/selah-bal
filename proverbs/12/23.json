@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "ہوشیار مردم دانشءَ پوشیت، بلے کندگانءِ دل نادانیءَ بانگ کنت.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "مردم"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ہوشیار"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "پوشیت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانشءَ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "بلے دل"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "کندگانءِ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "بانگ کنت"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "نادانیءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:57.145584469Z",
+  "model": "glm-5.3"
+}

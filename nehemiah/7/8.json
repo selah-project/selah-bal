@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "پرعوشءِ زہگان: دو ہزار، یک سد ءُ ہپتاد ءُ دو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگانِ"
+    },
+    {
+      "surface": "پرעש",
+      "gloss": "پرعوش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "یک سد"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ءُ ہپتاد"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ءُ دو"
+    }
+  ],
+  "timestamp": "2026-09-25T00:16:41.484001883Z",
+  "model": "glm-5.3"
+}

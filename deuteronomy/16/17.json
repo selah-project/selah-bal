@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "هر مردمے چہ وتی دستءِ دانءِ دیت، چون درخواستءَ کہ یاہوہ وت ایلوہیم توءَ دیتگ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "هر مردمے"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "چون … دانءِ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "وتی دستءِ"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "چون درخاستءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "وت ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیتگ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:54:03.412718765Z",
+  "model": "glm-5.3"
+}

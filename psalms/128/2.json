@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 128,
+  "translation": "دستی کوششءَ کہ تو خوریں — خوش‌بختیت ءُ چاک تیرا پہ اِنت۔",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "کوشش"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "دستی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تو خوریں"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "خوش‌بختیت"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ءُ چاک"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرا پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:28.313940391Z",
+  "model": "glm-5.3"
+}

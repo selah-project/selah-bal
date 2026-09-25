@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 124,
+  "translation": "اگر نہ یاہوہ ہست بوت پہ ما، تاں مردم ماءِ سرءَ چڑستنت۔",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "اگر نہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہוה"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ہست بوت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "پہ ما"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "تاں … چڑستنت"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ماءِ سرءَ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مردم"
+    }
+  ],
+  "timestamp": "2026-09-24T23:17:23.911752223Z",
+  "model": "glm-5.3"
+}

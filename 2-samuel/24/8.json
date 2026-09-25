@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ آیان ہمک زمینءَ سفر کت ءُ نہ ماہ ءُ بیست روچءِ سرءَ یروشلمءَ اَتنت۔",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "ءُ سفر کت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہمک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمینءَ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ءُ اَتنت"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ماہان"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ بیست"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:52:12.715368885Z",
+  "model": "glm-5.3"
+}

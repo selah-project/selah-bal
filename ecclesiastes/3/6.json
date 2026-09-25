@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "وہد پہ گشتیں ءُ وہد پرینگءِ؛ وہد زانگءِ ءُ وہد پرینگءِ۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "پہ گشتیں"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "پرینگءِ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وہد"
+    },
+    {
+      "surface": "לשמور",
+      "gloss": "زانگءِ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ءُ وہد"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "پرینگءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:51.029663365Z",
+  "model": "glm-5.3"
+}

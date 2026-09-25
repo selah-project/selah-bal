@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ایں چوں من اے جاگءَ کنت — یاہوہءِ نئم — ءُ آیانی رہندوکانءَ، ءُ پہ داتگ ⟨את⟩ اے شار چوش تُفَت.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ایں چوں"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "من کنت"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "اے جاگءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "ءُ آیانی رہندوکانءَ"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "ءُ پہ داتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شار"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "چوش تُفَت"
+    }
+  ],
+  "timestamp": "2026-09-24T21:51:49.833181510Z",
+  "model": "glm-5.3"
+}

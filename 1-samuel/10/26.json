@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 10:26",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ شاؤل ہم وتی گadanءَ گِبعاہءَ روت؛ ءُ آ زورآوران آ کہ ایلوہیم آشانی دلءَ لمس کتگ، گوں آییءَ روتنت.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ ہم"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "وتی گadanءَ"
+    },
+    {
+      "surface": "גבעתה",
+      "gloss": "گِبعاہءَ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ءُ روتنت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گوں آییءَ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "زورآوران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "لمس کت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "آشانی دلءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:29:10.179240776Z",
+  "model": "glm-5.3"
+}

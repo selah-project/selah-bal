@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "ءُ اِشانی شہرانی کُشءِ زمین نہ روت‌کار بیت، چہ کہ آ اِشانی پہ ہمیشءَ اَپڑیں اِنت۔",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "ءُ زمین"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "کُشءِ"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "اِشانی شہرانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "روت‌کار بیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چہ کہ"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "اَپڑیں"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشءَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشانی پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:10.745771841Z",
+  "model": "glm-5.3"
+}

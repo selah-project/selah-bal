@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ءُ ھر بیگانہ پاکیں چیز نہ یِرِت — کاہنءِ توشب ءُ مزدور پاکیں چیز نہ یِرِنت۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ءُ ھر"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیگانہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "یِرِت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاکیں چیز"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "توشب"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ءُ مزدور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "یِرِنت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاکیں چیز"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:55.631234317Z",
+  "model": "glm-5.3"
+}

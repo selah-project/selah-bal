@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 17:10",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 17,
+  "translation": "ءُ وتپہ سنگیں ستون ءُ اشریم ڈنگ کتنت ہر اُچیں ٹیکریءِ سرءَ ءُ ہر سبز دارءِ تہءَ۔",
+  "tokens": [
+    {
+      "surface": "ויצבו",
+      "gloss": "ءُ ڈنگ کتنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "وتپہ"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "سنگیں ستون"
+    },
+    {
+      "surface": "ואשרים",
+      "gloss": "ءُ اشریم"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "ٹیکری"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "اُچیں"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ءُ تہءَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دارءِ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "سبزءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:16:11.648237141Z",
+  "model": "glm-5.3"
+}

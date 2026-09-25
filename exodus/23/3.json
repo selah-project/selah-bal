@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ یک کمباشتءَ نہ منن تہ آییءِ جنجالءَ.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ءُ یک کمباشتءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "تהדר",
+      "gloss": "منن"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "تہ آییءِ جنجالءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:01:39.886496123Z",
+  "model": "glm-5.3"
+}

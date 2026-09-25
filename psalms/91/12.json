@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 91,
+  "translation": "تہ دستانی چپّانءَ سراں تہءَ اُچّگ بنت، باز توءِ پا سنگءَ لگ نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "سراں"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "دستانی چپّان"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "تہءَ اُچّگ بنت"
+    },
+    {
+      "surface": "פן",
+      "gloss": "باز"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "لگ نہ بیت"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "سنگءَ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "توءِ پا"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:03.918871377Z",
+  "model": "glm-5.3"
+}

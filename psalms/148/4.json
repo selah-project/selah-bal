@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 148,
+  "translation": "آییءَ تعریف کن اے آسمانانی آسمان، ءُ اے آپان کہ آسمانانی سرا اَنت۔",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "آییءَ تعریف کن"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "آسمانانی"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ءُ اے آپان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "سرا"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:20:21.476311738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 35:18",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "یا گوں چوبءِ اوزارءِ دست، کہ پہ آییءَ مرت بیت، آییءَ زت ءُ مرگ — آ قاتل اِنت؛ قاتل مُرگا مار بیت۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "گوں اوزار"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "چوبءِ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دستءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرت بیت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پہ آییءَ"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "آییءَ زت"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ءُ مرگ"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مُرگا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مار بیت"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    }
+  ],
+  "timestamp": "2026-09-24T19:45:55.545554317Z",
+  "model": "glm-5.3"
+}

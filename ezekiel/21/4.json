@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ ہر گوشت گندیت کہ من یکم یاہوہ کہ آءَ روشن کتگ؛ آ نہ بمریت۔",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یکم یاہوہ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "آءَ روشن کتگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "بمریت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:16:28.407132119Z",
+  "model": "glm-5.3"
+}

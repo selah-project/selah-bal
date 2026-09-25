@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "بند کن، ءِ زہگ، تعلیمءِ گوشن، پہ گمراہ ببی چہ دانشءِ گالان.",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "بند کن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ءِ زہگ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "گوشن"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعلیمءِ"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "پہ گمراہ ببی"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "چہ گالان"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانشءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:26.214372850Z",
+  "model": "glm-5.3"
+}

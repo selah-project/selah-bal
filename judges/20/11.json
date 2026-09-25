@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 20:11",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ اسرائیلءِ تمام اِش شہرءَ آ یک اِشءِ چوں یاراں جم بوت.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "جم بوت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "آ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہرءَ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "یک اِشءِ چوں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "یاراں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:55:47.258578432Z",
+  "model": "glm-5.3"
+}

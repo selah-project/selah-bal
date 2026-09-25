@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "دست چہ دست، رَزال پاک نہ کنت، ءُ راستگانءِ زہگ رہا بیت.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "دست"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "چہ دست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "پاک کنت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رَزال"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ءُ زہگ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستگانی"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "رہا بیت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:53.602166518Z",
+  "model": "glm-5.3"
+}

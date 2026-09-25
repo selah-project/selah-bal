@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "پرچا کہ قوماںءِ رواج ہبل اِنت؛ پرچا کہ کسے جنگل چہ دار کتگ — دستانءِ کار صانعءِ، گوں تیشہءَ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "رواج"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماںءِ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "چہ جنگل"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "کتگ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دستانءِ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "صانع"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "گوں تیشہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:48:22.672918304Z",
+  "model": "glm-5.3"
+}

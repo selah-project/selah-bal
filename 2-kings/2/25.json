@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ چہ اوتا روت چُھمبرءِ کٹءَ، ءُ چہ اوتا پدا شُمرٗنءَ شُت۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ءُ روت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "چہ اوتا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چُھمبرءَ کٹءَ →"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کٹ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "چُھمبر"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ءُ چہ اوتا"
+    },
+    {
+      "surface": "שב",
+      "gloss": "پدا شُت"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شُمرٗنءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T21:06:23.532389544Z",
+  "model": "glm-5.3"
+}

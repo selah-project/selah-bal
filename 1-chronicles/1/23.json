@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ ⟨את⟩ اوفیر ءُ ⟨את⟩ حَویلہ ءُ ⟨את⟩ یوبب؛ اے ہمگ یوکتانءِ زہگ اِنت.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "اوفیر"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "اوفیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حَویلہ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "حَویلہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "یوبب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوبب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہمگ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "یوکتانءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:20:07.351338836Z",
+  "model": "glm-5.3"
+}

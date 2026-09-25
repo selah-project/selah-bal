@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "پہ مہ غوڑی، چہ فرعونءِ گاڑیاں ءَ، تہءَ چوش کتوم، مہ یار",
+  "tokens": [
+    {
+      "surface": "לסוסתי",
+      "gloss": "پہ مہ غوڑی"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "چہ فرعونءِ گاڑیاںءَ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعونءِ"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "تہءَ چوش کتوم"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "مہ یار"
+    }
+  ],
+  "timestamp": "2026-09-24T23:45:25.504383874Z",
+  "model": "glm-5.3"
+}

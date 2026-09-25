@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 14,
+  "translation": "کہ چہ یک دوری ءُ گڑۓ جتیءِ پٹاءیں تریت، ءُ کہ من چہ تُئے ہرچ نہ گرن، تُءَ ہچبر نہ گوَشت کہ من ⟨את⟩ اَوراہامءَ تراوان کت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "چہ یک دوری"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ءُ … تریت"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "پٹ"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "جتی"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ءُ کہ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "من … گرن"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہرچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُئے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "تراوان کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراہامءَ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَوراہام"
+    }
+  ],
+  "timestamp": "2026-09-24T18:28:26.774958436Z",
+  "model": "glm-5.3"
+}

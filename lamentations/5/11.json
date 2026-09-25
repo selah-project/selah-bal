@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "زنانان ماں صہیونءَ ذلیل کتنت، جنکان ماں یہوداہءِ شارانءَ۔",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "زنانان"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ماں صہیونءَ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ذلیل کتنت"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "جنکان"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ماں شارانءَ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:51:41.981291574Z",
+  "model": "glm-5.3"
+}

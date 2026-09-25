@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 72,
+  "translation": "آییءِ روچانءَ تہ راستگوں شکوف کیت ءُ گیشیں سلامتی، تا بے ماه.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "شکوف کیت"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "آییءِ روچانءَ تہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستگوں"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ءُ گیشیں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ماه"
+    }
+  ],
+  "timestamp": "2026-09-24T23:02:41.705249695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "پیش ءَ شکنی گونّ اِنت، ءُ پیش ءَ ڈگل بلند روح۔",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "پیش ءَ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکنی"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "گونّ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ءُ پیش ءَ"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "ڈگل"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-09-24T23:25:46.014702856Z",
+  "model": "glm-5.3"
+}

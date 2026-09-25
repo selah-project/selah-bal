@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "من دہ ہزارءَ مردمءَ چہ ڈر نہ کنت، کہ گرد ءُ گرد مءِ سرا چہ جنگءِ پہ ڈٹگنت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ڈر نہ کنت"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "چہ دہ ہزارءَ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مردمءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرد ءُ گرد"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ڈٹگنت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مءِ سرا"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:58.880251171Z",
+  "model": "glm-5.3"
+}

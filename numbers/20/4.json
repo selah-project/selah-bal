@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ چرا ماءَ ⟨את⟩ یاہوہءِ جمعیت اے بیابانءَ آور کتنت کہ ما ءُ ماںءِ مال اودا مرنت؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ءُ چرا"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ماءَ آور کتنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہءِ جمعیت"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جمعیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ءَ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "למות",
+      "gloss": "پہ مرگ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اودا"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ما"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "ءُ ماںءِ مال"
+    }
+  ],
+  "timestamp": "2026-09-24T19:39:00.868038027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "ہمے دیءَ شاہ دارْیاوُش نوشتہ ءُ پابندیءَ دستخط کت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہمے"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "دیءَ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "⟨اے⟩"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "دارْیاوُش"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "دستخط کت"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "نوشتہ"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "ءُ پابندیءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:03:10.181932334Z",
+  "model": "glm-5.3"
+}

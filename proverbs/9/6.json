@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "سادہ لوکی رھانت ءُ زندگ بنت، ءُ عقلءِ راہءَ سِدّہ روت.",
+  "tokens": [
+    {
+      "surface": "عזבו",
+      "gloss": "رھانت"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "سادہ لوکی"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ءُ زندگ بنت"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "ءُ سِدّہ روت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رایہءَ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "عقلءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:27.348940805Z",
+  "model": "glm-5.3"
+}

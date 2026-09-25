@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ چہ تُءِ بیجءَ نہ دی پہ گوزینگءَ پہ مولوکءَ، ءُ نہ پلیت کن ⟨את⟩ تُءِ ایلوہیمءِ نامءَ؛ من یاہوہ اِم۔",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "ءُ چہ تُءِ بیجءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دی"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "پہ گوزینگ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پہ مولوکءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "پلیت کن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُءِ ایلوہیم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:19:20.079458453Z",
+  "model": "glm-5.3"
+}

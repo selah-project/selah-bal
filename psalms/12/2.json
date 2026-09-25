@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "رہائی دے، اے یاہوہ، کی ہیسید مک بوتگ، کی ایماندار چہ آدمءِ زہگان گم بیتگنت.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "رہائی دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "مک بوتگ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ہیسید"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "گم بیتگنت"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ایماندار"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "چہ زہگان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-09-24T22:49:47.332054411Z",
+  "model": "glm-5.3"
+}

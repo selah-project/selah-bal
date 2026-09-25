@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 47:7",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 47,
+  "translation": "ءُ توءَ گوَشت: «ہمیشہ اِم بیتاں بی بی»، پرچا کہ اے گالاں دلءَ تئے نہ گڈی، آییءِ آخرت نہ یاد کت.",
+  "tokens": [
+    {
+      "surface": "ותאמרי",
+      "gloss": "ءُ گوَشتی"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "اِم بیتاں"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "بی بی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "گڈی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دلءَ تئے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "یاد کت"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "آییءِ آخرت"
+    }
+  ],
+  "timestamp": "2026-09-25T01:01:14.208375812Z",
+  "model": "glm-5.3"
+}

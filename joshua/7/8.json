@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اے ادونای، چہ گوَں آں پد چہ آ کہ اسرائیل وتی ڈُشمنانی پیشءَ منہ پھراندیت؟",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَں"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پد چہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آ کہ"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "پھراندیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "منہ (گردنءِ پُشت)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "وتی ڈُشمنانی"
+    }
+  ],
+  "timestamp": "2026-09-24T20:07:46.543558054Z",
+  "model": "glm-5.3"
+}

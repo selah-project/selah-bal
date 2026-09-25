@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ من چم کت کہ پہ دانائی یک بتری ⟨هست⟩ چہ نادانیءَ، چوش بتری روشناییءِ چہ تاریکیءِ",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ءُ چم کت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "کہ ⟨هست⟩"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "یک بتری"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "پہ دانائی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "نادانیءَ"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "چوش بتری"
+    },
+    {
+      "surface": "האור",
+      "gloss": "روشناییءِ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "تاریکیءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:50.400767531Z",
+  "model": "glm-5.3"
+}

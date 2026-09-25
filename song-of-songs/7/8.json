@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "اے تُیری کد چوشے تمر اِنت، ءُ تُیری چاٹیان چوشے انگورانی خوشکان۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "تُیری کد"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "چوشے اِنت"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "تمر"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "ءُ تُیری چاٹیان"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "چوشے انگورانی خوشکان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:47:13.615876112Z",
+  "model": "glm-5.3"
+}

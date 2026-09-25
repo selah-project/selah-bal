@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "ءُ اگر یک جان گنہ کنت ءُ یک چہ تمام یاہوہءِ حکمان جوڑ کنت کہ نہ کنت بنت، ءُ نہ زانت ءُ مجرم بوت ءُ وتئی گنہ برچت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ءُ اگر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "گنہ کنت"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ءُ کنت"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یک"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ تمام"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "کنت بنت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ءُ نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ءُ مجرم بوت"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ءُ برچت"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "وتئی گنہ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:12:44.307577613Z",
+  "model": "glm-5.3"
+}

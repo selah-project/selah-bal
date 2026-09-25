@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "منءَ پہ وتءَ گندان ءُ باغان جوڑ کت، ءُ آیانی تہ ہر میوءِ دار کاشت کت۔",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پہ وتءَ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "گندان"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ءُ باغان"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ءُ کاشت کت"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "آیانی تہ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:52:06.582995024Z",
+  "model": "glm-5.3"
+}

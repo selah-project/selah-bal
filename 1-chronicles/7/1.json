@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ یساکارءِ زہگان: تولہ، ءُ پوعہ، یشیب ءُ شمران — چار.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ءُ …ءِ زہگان"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یساکار"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "تولہ"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "ءُ پوعہ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "یشیب"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ءُ شمران"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:02.164660137Z",
+  "model": "glm-5.3"
+}

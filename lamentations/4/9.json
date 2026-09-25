@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "تیغءِ زخمیں چنگتر اَتنت چہ رُعیءِ زخمیں، پہ اے کہ اے روتنت، دگار بوتگیں، چہ کِشتءِ برأتءِ۔",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "چنگتر"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اَتنت"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "زخمیں"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تیغءِ"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "چہ زخمیں"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "رُعیءِ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "روتنت"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "دگار بوتگیں"
+    },
+    {
+      "surface": "מתנובות",
+      "gloss": "چہ برأتءِ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کِشتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:50:13.645869139Z",
+  "model": "glm-5.3"
+}

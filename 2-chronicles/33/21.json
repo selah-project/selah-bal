@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 33:21",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "دو ءُ بیست سالءِ زہگ اَمون اِنت پہ آییءِ سلطنتءَ، ءُ دو سال آ پہ یورشلمءَ سلطنت کت.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "اَمون"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "پہ آییءِ سلطنتءَ"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ءُ دو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "سلطنت کت"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "پہ یورشلمءَ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:45:04.683126034Z",
+  "model": "glm-5.3"
+}

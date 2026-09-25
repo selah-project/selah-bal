@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ یوآش راستی کت چہ یاہوہءِ چشمانءَ، پوریں روچان یہویدعءِ کاہنءِ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ءُ کت"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآش"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چہ چشمانءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "یמי",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یہویدع"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-09-25T00:41:31.954526033Z",
+  "model": "glm-5.3"
+}

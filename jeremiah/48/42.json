@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 48,
+  "translation": "ءُ موآب چہ قومءَ مِٹ بیت، چون کہ آ یاہوہءَ مقابلءَ گہڑی کت۔",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "ءُ مِٹ بیت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "چہ قومءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چون کہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "مقابلءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "گہڑی کت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:04:36.401063327Z",
+  "model": "glm-5.3"
+}

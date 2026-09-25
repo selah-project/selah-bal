@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 38:3",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 38,
+  "translation": "اوشے گوَشت یاہوہ: اے شہر راستی راستی بابلءِ شاہءِ لشکرءِ دستءَ داتہ بیت ءُ آییءَ گرتگ بیت.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اوشے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "راستی"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "راستی داتہ بیت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "اے شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دستءَ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہءِ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ءُ آییءَ گرتگ بیت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:01:08.028368110Z",
+  "model": "glm-5.3"
+}

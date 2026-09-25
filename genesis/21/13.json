@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "ءُ هم ⟨את⟩ کنیزءِ زہگءَ یک قومءَ جوڑی‌ساں، پرچا کہ آ تُہءِ نسل اِنت.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ءُ هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کنیزءِ زہگ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "کنیزءِ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "یک قومءَ"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "جوڑی‌ساں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تُہءِ نسل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِنت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:32:48.482411037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 22,
+  "translation": "ہر چیز کہ آییءَ کئانی اِنت، آییءَ پیش مکنیت، پرچا کہ آ قبول بوتنگءَ پہ تمنے نہ بیت۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءَ تہ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "کئانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "پیش مکنیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پرچا کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "پہ قبول بوتنگءَ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پہ تمنے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:28.815168368Z",
+  "model": "glm-5.3"
+}

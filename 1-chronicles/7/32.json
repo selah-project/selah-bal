@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ حبر زا ⟨את⟩ یپلت ءُ ⟨את⟩ شومر ءُ ⟨את⟩ حوتام ءُ ⟨את⟩ شوعا آشانی خور۔",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "ءُ حبر"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یپلت"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "یپلت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شومر"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "شومر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حوتام"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حوتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "شوعا"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "شوعا"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "آشانی خور"
+    }
+  ],
+  "timestamp": "2026-09-25T00:24:17.587221902Z",
+  "model": "glm-5.3"
+}

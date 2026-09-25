@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 137,
+  "translation": "بابلءِ روچانی سرءَ آما شت ءُ ہم گریان بوت، چہ آیہ ⟨את⟩ صیونءَ یاد کت۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "روچان"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "שם",
+      "gloss": "آما"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "شت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "گریان بوت"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "چہ آیہ یاد کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صیون"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    }
+  ],
+  "timestamp": "2026-09-24T23:19:11.590730057Z",
+  "model": "glm-5.3"
+}

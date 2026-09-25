@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 3,
+  "translation": "ءُ چہ آییءِ زناکاریءِ آوازءَ بوت کہ آ ⟨את⟩ زمین میس کت ءُ ⟨את⟩ سنگ ءُ ⟨את⟩ دار گوں زنا کت۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ءُ بوت"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "چہ آوازءِ"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "آییءِ زناکاری"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "ءُ میس کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "ءُ زنا کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سنگ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "دار"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دار"
+    }
+  ],
+  "timestamp": "2026-09-24T21:42:47.241414765Z",
+  "model": "glm-5.3"
+}

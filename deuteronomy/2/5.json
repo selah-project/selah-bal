@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "گوں آشاں چیرائی نہ کنیں، چرچا من چہ آشاںءِ زمینءَ تہیں تلوءِ جاگہءِ تالے تلی پا نہ دیں، چرچا کہ ایساؤءِ پہ ملک من ⟨את⟩ شئیرءِ کوه دتگ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "چیرائی کنیں"
+    },
+    {
+      "surface": "בם",
+      "gloss": "گوں آشاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چرچا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "من نہ دیں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہیں"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "چہ آشاںءِ زمینءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تالے"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "تلوءِ جاگہ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تلی"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چرچا کہ"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "ملک"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ایساؤءِ پہ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "من دتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شئیرءِ کوه"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "شئیر"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:01.111863686Z",
+  "model": "glm-5.3"
+}

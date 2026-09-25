@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ اِشاں، اے کاهنان، اے حکم شماءِ پہ اِنت.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ءُ اِشاں"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "شماءِ پہ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "اے حکم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "اے کاهنان"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:11.592401434Z",
+  "model": "glm-5.3"
+}

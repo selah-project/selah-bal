@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "تا کتگ، اے سستے، شپ کنی؟ کتگ چہ تہءِ شپءَ اُست بیت؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کتگ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "اے سستے"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "شپ کنی"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کتگ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "اُست بیت"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "چہ تہءِ شپءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:21.901365873Z",
+  "model": "glm-5.3"
+}

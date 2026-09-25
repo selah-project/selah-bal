@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 90,
+  "translation": "کے تُہءِ غضبءِ زور زانت؟ ءُ چوش تُہءِ ڈرءِ ⟨ای⟩ تُہءِ قہر۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تُہءِ غضب"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "ءُ چوش تُہءِ ڈرءِ"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "تُہءِ قہر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:07:53.685985861Z",
+  "model": "glm-5.3"
+}

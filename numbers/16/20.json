@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "ءُ یاہوہ موشہءَ ءُ اہارونءَ گوں گوَشتگءَ گپ جنت۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ءُ گپ جنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ءُ ءَ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہارونءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "گوں گوَشتگءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:36:24.150615820Z",
+  "model": "glm-5.3"
+}

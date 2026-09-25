@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "کہ من یاہوہءِ نامءَ بانگ کنم؛ دریت بزرگی پہ وتءِ ایلوہیم۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نامءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "من بانگ کنم"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "دریت"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "بزرگی"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "پہ وتءِ ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-09-24T20:02:25.663264558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "پہ اے کہ تند ڈوب نہ بوتگی اَنت، پہ گرانءِ منں منں زہگ بوتگ اَت.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "پہ اے کہ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "تند"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "ڈوب بوتگی اَنت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پہ …ءِ منں"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "گران"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "منں زہگ بوتگ اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:15.634352374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "ءُ توءَ گوں وتی دلءَ زانت کہ چوش کہ یک مرد وتی زہگءَ ⟨את⟩ سزا دیت، یاہوہ تُءِ ایلوہیم ⟨توءَ⟩ سزا دیت.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ءُ توءَ زانت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "وتی دلءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چوش کہ"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "سزا دیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یک مرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وتی زہگءَ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "وتی زہگءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُءِ ایلوہیم"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "سزا دیت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:51:21.482737271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 50:10",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 50,
+  "translation": "ءُ کسدی پہ غارت شہ بیت، آییءِ سیم گیشتار گیش سیر بنت، یاہوہءِ فرمان۔",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ءُ بیت"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کسدی"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "پہ غارت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیش"
+    },
+    {
+      "surface": "שלליה",
+      "gloss": "آییءِ غارت گر"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "سیر بنت"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمانءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:04:55.625362672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ یاہوہ شمویلءِ گوشءَ کھُلیتگ، یک روچ پہ پیش چہ شاؤلءِ آئین، آ کہ گوَشت —",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ءُ یاہوہ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "کھُلیتگ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گش"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گش"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمویلءِ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یک"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پہ پیش"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "آئین"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤلءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آ کہ گوَشت"
+    }
+  ],
+  "timestamp": "2026-09-24T20:30:23.816513142Z",
+  "model": "glm-5.3"
+}

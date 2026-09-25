@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "دلایاءِ زہگان، توبیاہءِ زہگان، نکوداءِ زہگان — شش سد پنجاه ءُ دو؛",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "دلایاءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "توبیاہءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نکوداءِ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سد"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاه"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ءُ دو"
+    }
+  ],
+  "timestamp": "2026-09-25T01:14:43.824499967Z",
+  "model": "glm-5.3"
+}

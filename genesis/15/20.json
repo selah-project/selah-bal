@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 15,
+  "translation": "ءُ ⟨את⟩ حتیاں ءُ ⟨את⟩ پیریزیاں ءُ ⟨את⟩ رفائماں —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "حتیاں"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حتیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "پیریزیاں"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "پیریزیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩",
+      "marks": "رفائماں"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "رفائماں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:29:18.876429527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "سئیمیں پہ حارم، چارمیں پہ سعوریم.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "پہ حارم"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سئیمیں"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "پہ سعوریم"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "چارمیں"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:32.733584282Z",
+  "model": "glm-5.3"
+}

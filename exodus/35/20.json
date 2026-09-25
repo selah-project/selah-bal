@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "ءُ اسرائیلءِ زہگانی پوریں جماعت موشہءِ پیشءَ در بوت.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "در بوت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:06:31.632370109Z",
+  "model": "glm-5.3"
+}

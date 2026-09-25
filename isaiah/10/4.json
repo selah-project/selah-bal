@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "بے ڈنگیت قیدیءِ تہ ءُ کشتگانءِ تہ ڈگنت۔ ہمگ اِشےءَ آییءِ غضب پدا نہ گرت ءُ نوک آییءِ دست دراز اِنت۔",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "ڈنگیت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "قیدیءِ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ءُ تہ"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "کشتگانءِ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈگنت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تہ ہمگ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اِشے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "پدا گرت"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "آییءِ غضب"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ءُ نوک"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "آییءِ دست"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "دراز بوتگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T21:25:02.020651084Z",
+  "model": "glm-5.3"
+}

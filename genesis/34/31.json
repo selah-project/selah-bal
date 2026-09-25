@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 34,
+  "translation": "ءُ گوَشتنت: چا کہ بدکار زنءِ چوں ⟨את⟩ خاخرءَ ماں کار کنت؟",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ءُ گوَشتنت"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "بدکار زنءِ چوں"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کار کنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خاخرءَ ماں"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "خاخرءَ ماں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:40:55.585335413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ اِسرائیلءِ زہگان پسح ⟨את⟩ آییءِ مقرریں وہدءَ کننت:",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ءُ کننت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زہگان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیلءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "آییءِ مقرریں وہدءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:33:11.255024936Z",
+  "model": "glm-5.3"
+}

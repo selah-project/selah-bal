@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 69,
+  "translation": "دروازہءَ نشتگاں چہ منءَ گپ کننت ءُ من ⟨اِنت⟩ شرابءِ آشکارانی گیت۔",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "گپ کننت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "چہ منءَ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "نشتگاں"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہءَ"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "ءُ گیت"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "آشکارانی"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "شرابءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:01:49.944004385Z",
+  "model": "glm-5.3"
+}

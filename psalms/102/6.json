@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 102,
+  "translation": "چہ آوازءِ ناہءِ من، ہڈءِ من چسپیت تہ گۏشتءِ من.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "چہ آوازءِ"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ناہءِ من"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "چسپیت"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ہڈءِ من"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "تہ گۏشتءِ من"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:36.515344741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 77,
+  "translation": "تو ئے اے ایل کہ شگفتہءیں کاراں کنی؛ قومانءِ میانا زہر زورءَ گوشت کت.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کنوک"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "شگفتہءیں کار"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "گوشت کت"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قومانءِ میانا"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "زہر زور"
+    }
+  ],
+  "timestamp": "2026-09-25T01:09:15.938259399Z",
+  "model": "glm-5.3"
+}

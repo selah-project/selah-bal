@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "کیہ کہ شالوم ءُ نہ گوشنت، بلکہ زمینءِ ارامیں مردمانی سرا فریبءِ گالان سوچنت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "گوشنت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ءُ … سرا"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "ارامیں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینءِ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گالان"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "فریبءِ"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "سوچنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:45.558835970Z",
+  "model": "glm-5.3"
+}

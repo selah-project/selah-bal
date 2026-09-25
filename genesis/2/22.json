@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 2,
+  "translation": "ءُ یاہوہ ایلوہیمءَ ⟨את⟩ تڑ کہ چہ آدمءَ گپتگ بوت، گوں یک زنکءَ جوڑ کت، ءُ آییءَ آدمءَ پیش کت.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "جوڑ کت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تڑ"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "تڑ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گپتگ بوت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "چہ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمءَ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "گوں یک زنکءَ"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "پیش کت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پیش"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:23:34.339580303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "حصہ چوش حصہءِ خورتنت، جتا چہ آءِ فروشیں چیزان، باپانءِ پشتءَ۔",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "چوش حصہءِ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خورتنت"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جتا چہ"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "آءِ فروشیں چیزان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پشتءَ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "باپانءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:55:19.631766274Z",
+  "model": "glm-5.3"
+}

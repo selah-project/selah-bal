@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 12,
+  "translation": "اے روچءَ سوگ یروشلمءَ گیش بیت، چوش سوگءِ ہددءِ رمونءِ مگدونءِ وادیءَ۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اے روچءَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "گیش بیت"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "سوگ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلمءَ"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "چوش سوگءِ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ہدد"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رمون"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "وادیءَ"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "مگدون"
+    }
+  ],
+  "timestamp": "2026-09-24T22:45:56.331874743Z",
+  "model": "glm-5.3"
+}

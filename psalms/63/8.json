@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 63,
+  "translation": "کیہ کہ تو مہ پہ مدد اَت، ءُ تُہءِ پرانی سایہءَ من نغمہ گوان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "اَت"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مہ پہ"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ءُ سایہءَ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "تُہءِ پرانی"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "من نغمہ گوان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:53.615566513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 94,
+  "translation": "کیہ خرابیءِ تخت گوں تُہ جوڑ بیت، آ کہ قانونءِ راہءَ زیان جوڑ کنت؟",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "جوڑ بیت گوں تُہ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "هוות",
+      "gloss": "خرابیءِ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "جوڑ کنتگءُ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زیان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "قانون"
+    }
+  ],
+  "timestamp": "2026-09-24T23:08:20.798629474Z",
+  "model": "glm-5.3"
+}

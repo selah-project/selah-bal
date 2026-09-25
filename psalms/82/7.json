@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 82,
+  "translation": "بلے چہ آدمءِ چوں مریت، ءُ چہ میرانءِ یکءِ چوں ڈگیت.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "بلے"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "چہ آدمءِ چوں"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "مریت"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "ءُ چہ یکءِ چوں"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "میرانءِ"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ڈگیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:05:42.270671770Z",
+  "model": "glm-5.3"
+}

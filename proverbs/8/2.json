@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 8,
+  "translation": "بلند جاگہانی سرءَ، رستءِ سرءَ، رستانی میانی ایشئے اِستنت.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "بلند جاگہانی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رست"
+    },
+    {
+      "surface": "בית",
+      "gloss": "میانی"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "رستانی"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ایشئے اِستنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:23:14.037849483Z",
+  "model": "glm-5.3"
+}

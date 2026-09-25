@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 30,
+  "translation": "موران قومی اِنت کہ گو端 نہ اِنت، ءُ تھارستاییں روچءَ وتي لاچوک آمادہ کننت۔",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "موران"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قومی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زورءَ وتی"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "ءُ آمادہ کننت"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "تھارستاییں روچءَ"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "وتی لاچوک"
+    }
+  ],
+  "timestamp": "2026-09-25T01:10:57.208523199Z",
+  "model": "glm-5.3"
+}

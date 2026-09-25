@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 39,
+  "translation": "پہ پیشوا، پہ یدوتون، سرود داودءِ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "پہ پیشوا"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "پہ یدوتون"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داودءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:56:25.623545921Z",
+  "model": "glm-5.3"
+}

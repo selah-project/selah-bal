@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 25,
+  "translation": "چوں مزدوریں کارکن، چوں مہمان، گوں تو ببیت؛ تا یوبلءِ سالءَ گوں تو کار کنیت۔",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "چوں مزدوریں کارکن"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "چوں مہمان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ببیت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سالءَ"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "یوبلءِ"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "کار کنیت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گوں تو"
+    }
+  ],
+  "timestamp": "2026-09-24T19:24:21.823743344Z",
+  "model": "glm-5.3"
+}

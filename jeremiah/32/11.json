@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "bal",
+  "chapter": 32,
+  "translation": "ءُ من ⟨את⟩ خریدءِ کتاب گرپت — ⟨את⟩ مہر بوتگیں، حکم ءُ رسمانی، ءُ ءُ ⟨את⟩ کھلنگیں۔",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "گرپت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خریدءِ کتاب"
+    },
+    {
+      "surface": "سפר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "خریدءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مہر بوتگیں"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "مہر بوتگیں"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "ءُ رسمانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ءُ ⟨את⟩"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "کھلنگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T21:57:47.551030895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 21,
+  "translation": "بدکار رستےءِ پہ فدیہ ⟨اِنت⟩، ءُ خیانتگر راستاںءِ جاگہءَ ⟨اِنت⟩.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "فدیہ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "رستےءِ پہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ءُ جاگہءَ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "راستاںءِ"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "خیانتگر"
+    }
+  ],
+  "timestamp": "2026-09-24T23:27:06.241191490Z",
+  "model": "glm-5.3"
+}

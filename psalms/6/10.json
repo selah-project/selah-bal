@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "یاہوہءَ منی التجا شنیتگ؛ یاہوہ منی دعا گیریت۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "شنیتگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "منی التجا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "منی دعا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "گیریت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:47:39.576269901Z",
+  "model": "glm-5.3"
+}

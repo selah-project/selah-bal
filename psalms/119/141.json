@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 119,
+  "translation": "کوچی اَم ءُ پسدیتگ اَم؛ تری یی حکماں فراموش نہ کتن۔",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "کوچی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "اَم"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "ءُ پسدیتگ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "تری یی حکماں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "فراموش نہ کتن"
+    }
+  ],
+  "timestamp": "2026-09-24T23:15:56.831990303Z",
+  "model": "glm-5.3"
+}

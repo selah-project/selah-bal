@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 5,
+  "translation": "روت، اِشاںءَ گوَشت: اِشاں وت پدا گریت، وتی گداناںءَ سرا۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِشاںءَ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "پدا گریت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اِشاں وت"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "وتی گداناںءَ سرا"
+    }
+  ],
+  "timestamp": "2026-09-24T19:48:56.720212607Z",
+  "model": "glm-5.3"
+}

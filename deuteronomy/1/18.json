@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ من تما ⟨את⟩ ما آ وہدءَ ⟨את⟩ پوریں چیزان حکم کت کہ تہ کنیں۔",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ءُ حکم کت"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تما",
+      "marks": "تما"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "تہ وہد"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوریں چیزان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوریں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "چیزان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کنیں"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:44.402883320Z",
+  "model": "glm-5.3"
+}

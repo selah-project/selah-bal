@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "bal",
+  "chapter": 6,
+  "translation": "کیہ تہ ہبل آیانت، ءُ تہ تہاری روت، ءُ تہ تہاری آییءِ نام ڈپیت۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "تہ ہبل"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیانت"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ءُ تہ تہاری"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ءُ تہ تہاری"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "آییءِ نام"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ڈپیت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:55:01.502319578Z",
+  "model": "glm-5.3"
+}

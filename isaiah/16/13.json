@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "اے ⟨هو⟩ گال اِنت کہ یاہوہءَ چہ ہندوکانی وہد گوں موآبءَ گوَشت.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گوَشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "چہ ہندوکانی وہد"
+    }
+  ],
+  "timestamp": "2026-09-24T21:25:47.885211296Z",
+  "model": "glm-5.3"
+}

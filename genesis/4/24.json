@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "کہ قینءِ پہ ہپت رند انتقام گشتت، پر لَمَکءِ پہ ہپتاد ءُ ہپت رند۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ہپت رند"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "انتقام گشتت"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قینءِ پہ"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "ءُ لَمَکءِ پہ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ہپتاد"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ءُ ہپت"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:15.496274060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 28,
+  "translation": "ءُ عیسوءَ گندیت کہ کنعانءِ جنکان یصحاقءِ، وتی پیتءِ، چمانءَ تہ بُر اِنت.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ءُ گندیت"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسوءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بُر"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "جنکانِ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعانءِ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "چمانءَ تہ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یصحاقءِ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "وتی پیتءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:36:24.274640275Z",
+  "model": "glm-5.3"
+}

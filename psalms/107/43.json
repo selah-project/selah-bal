@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 107,
+  "translation": "کے دانا اِنت ءُ اے چیزاں پند گنت؟ ءُ ہسیدانی یاہوہءَ چوں سوچیت۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ءُ پند گنت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے چیزاں"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "ءُ چوں سوچیت"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "ہسیدانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:12:21.070715350Z",
+  "model": "glm-5.3"
+}

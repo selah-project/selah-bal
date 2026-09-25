@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 35,
+  "translation": "کی بے چوں مءَ گڈا ءُ اِشانی جال پوشیت؛ بے چوں مئی جانءَ پہ کینتگ اِنت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے چوں"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "پوشیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مءَ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "گڈا"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "اِشانی جال"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے چوں"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "کینتگ اِنت"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "مئی جانءَ پہ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:54:35.101810452Z",
+  "model": "glm-5.3"
+}

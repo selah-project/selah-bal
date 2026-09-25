@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 11:18",
+  "book": "2-chronicles",
+  "lang": "bal",
+  "chapter": 11,
+  "translation": "ءُ رحبامءَ وتی ⟨את⟩ محلت گپت — یرموتءِ جنک، داؤدءِ زہگءِ زہگ — ءُ ابیہیل، اِلیابءِ جنک، یشایءِ زہگءِ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ءُ گپت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبامءَ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "محلت"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "محلت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ירימות",
+      "gloss": "یرموتءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داؤدءِ"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "ابیہیل"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جنک"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلیابءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یشایءِ"
+    }
+  ],
+  "timestamp": "2026-09-25T00:36:31.873034403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "اگر تو دانا بیت، تو وتءَ دانا بیت؛ ءُ اگر تو رسوائی کنیت، تو یکتا آییءَ بار چنت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "تو دانا بیت"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "دانا بیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو وتءَ"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "ءُ تو رسوائی کنیت"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "تو یکتا"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "آییءَ بار چنت"
+    }
+  ],
+  "timestamp": "2026-09-24T23:22:23.738407920Z",
+  "model": "glm-5.3"
+}

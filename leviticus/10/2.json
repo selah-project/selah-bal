@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 10,
+  "translation": "ءُ آگ یاہوہءِ پیشءَ چہ برزت ءُ ⟨את⟩ اِشاںءَ خارت، ءُ یاہوہءِ پیشءَ مرت۔",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "برزت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آگ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "چہ پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "خارت"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ اِشاںءَ",
+      "marks": "اِشاںءَ (ناداب ءُ ابیہُوءَ)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "مرت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پیشءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:15:44.538002616Z",
+  "model": "glm-5.3"
+}

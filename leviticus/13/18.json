@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 13,
+  "translation": "ءُ وہدے کہ گُءشتءَ وتی پوستءِ تہءَ پھوڑا بوتگے ءُ آ سیل بوتگے —",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "ءُ گُءشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بوتگے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءِ تہءَ"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "وتی پوستءَ"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "پھوڑا"
+    },
+    {
+      "surface": "وנרפא",
+      "gloss": "ءُ سیل بوتگے"
+    }
+  ],
+  "timestamp": "2026-09-24T19:17:52.321448457Z",
+  "model": "glm-5.3"
+}

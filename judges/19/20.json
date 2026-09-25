@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "ءُ مردے زال گوَشت: تئے پہ سلامت؛ رند ءُ تئے گیشتر کمبودی منی سرءَ اِنت؛ رند ماں رچوبءَ شپ نہ مان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مردے"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "زال"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تئے پہ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "گیشتر"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "تئے کمبودی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "منی سرءَ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رند"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "رچوبءَ ماں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "شپ مان"
+    }
+  ],
+  "timestamp": "2026-09-24T20:23:54.457830322Z",
+  "model": "glm-5.3"
+}

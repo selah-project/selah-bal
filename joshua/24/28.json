@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "bal",
+  "chapter": 24,
+  "translation": "ءُ یہوشوعءَ ⟨את⟩ مردمءَ روان کت، هر یک وتئیں ورثتءَ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "روان کت"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوعءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردمءَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "مردمءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر یک"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "وتئیں ورثتءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T20:13:38.447302311Z",
+  "model": "glm-5.3"
+}

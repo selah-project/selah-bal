@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 111,
+  "translation": "شوکت ءُ تابانءِ اِنت آییءِ کار، ءُ آییءِ راستی پہ ہمیشہ اوشتیت.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "شوکت"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ءُ تابان"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "آییءِ کار"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ءُ آییءِ راستی"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "اوشتیت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "پہ ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-09-24T23:13:38.808727041Z",
+  "model": "glm-5.3"
+}

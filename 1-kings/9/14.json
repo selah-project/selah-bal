@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 9,
+  "translation": "ءُ حیرام شاہءَ سد ءُ بیست کیکار زر ہیلات.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ءُ ہیلات"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حیرام ⟨حیرم⟩"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "شاہءَ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ءُ بیست"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کیکار"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "زر"
+    }
+  ],
+  "timestamp": "2026-09-24T20:59:25.510235906Z",
+  "model": "glm-5.3"
+}

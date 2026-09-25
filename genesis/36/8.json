@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 36,
+  "translation": "ءُ عیسوءَ سی‌ئیرءِ کُہتءَ کنٹ اَت؛ عیسو او اِنت اَدُوم۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ءُ کنٹ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسوءَ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کُہتءَ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سی‌ئیرءِ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدُوم"
+    }
+  ],
+  "timestamp": "2026-09-24T18:41:25.782134684Z",
+  "model": "glm-5.3"
+}

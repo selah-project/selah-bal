@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 7,
+  "translation": "ءُ پہ نوحءَ پہ کِشتِیءَ آتنت، دو دو چہ ہر گوشتءَ کہ آییءِ تہءَ زندگیں روح اِنت.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ءُ آتنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوحءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کِشتِیءَ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "چہ ہر"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشتءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "آییءِ تہءَ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگیں"
+    }
+  ],
+  "timestamp": "2026-09-24T18:25:44.600147304Z",
+  "model": "glm-5.3"
+}

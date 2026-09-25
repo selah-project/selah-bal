@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "bal",
+  "chapter": 16,
+  "translation": "جمعیتءَ گوں گپ کن کہ: چہ قورح، داتان ءُ ابیرامءِ مِشکانءِ چوگرد اُبز کنت۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "گپ کن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "گوں"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جمعیتءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "اُبز کنت"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "چہ چوگرد"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مِشکانءِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "داتان"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "ءُ ابیرام"
+    }
+  ],
+  "timestamp": "2026-09-24T19:36:08.370528564Z",
+  "model": "glm-5.3"
+}

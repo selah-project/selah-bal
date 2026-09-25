@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 66,
+  "translation": "مبارک اِنت ایلوہیم، کہ منی دعا ءُ آییءِ ہیسید چہ ⟨את⟩ من نہ دوڑایت۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک اِنت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "دوڑایت"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "منی دعا"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ءُ آییءِ ہیسید"
+    },
+    {
+      "surface": "מאתی",
+      "gloss": "⟨את⟩ چہ من"
+    }
+  ],
+  "timestamp": "2026-09-24T23:00:24.823529745Z",
+  "model": "glm-5.3"
+}

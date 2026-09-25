@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 4,
+  "translation": "ءُ عادہ ⟨את⟩ یابالءَ زائیت؛ آ گڈانءَ اِشتوکانی ءُ مالءِ پیءَ بوت.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ءُ زائیت"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یابالءَ"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "یابال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیءَ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "اِشتوکانی"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "گڈانءَ"
+    },
+    {
+      "surface": "ומקנه",
+      "gloss": "ءُ مالءِ"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:43.456678117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 104,
+  "translation": "تہومءَ چوش یک جامه ڈپ کتگ؛ آپ کءَ تہ ءُ ہرمانی سرءَ اٹل بیتگ۔",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "تہوم"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "چوش جامه"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "ڈپ کت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ہرمانی"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "اٹل بیت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "آپان"
+    }
+  ],
+  "timestamp": "2026-09-24T23:09:58.968369593Z",
+  "model": "glm-5.3"
+}

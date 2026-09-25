@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ زمین اُجاڑ ءُ خالی بوت، ءُ تاریکی تہومءِ رخءِ سرءَ ⟨اِنت⟩، ءُ ایلوہیمءِ روح آپانی رخءِ سرءَ پرگ بیت۔",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ءُ زمین"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوت"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "اُجاڑ"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ءُ خالی"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ءُ تاریکی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رخءِ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تہوم"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ءُ روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیمءِ"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "پرگ بیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رخءِ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "آپان"
+    }
+  ],
+  "timestamp": "2026-09-24T18:24:00.109121085Z",
+  "model": "glm-5.3"
+}

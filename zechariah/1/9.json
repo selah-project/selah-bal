@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ من گوَشتم: اے منی آقا، اے چه اَنت؟ ءُ آ فرشتہ کہ منی تہ گپ مارُوت، منیءَ چوش گوَشت: من توءَ نشان دم کہ اے چه اَنت.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ءُ من گوَشتم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "منی آقا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ءُ گوَشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منیءَ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "آ فرشتہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گپ ماروٹ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "منی تہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "توءَ نشان دم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چه"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اَنت"
+    }
+  ],
+  "timestamp": "2026-09-24T22:42:25.353445502Z",
+  "model": "glm-5.3"
+}

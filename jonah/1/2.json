@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "اُٹ، روت پہ نینوہ، ⟨او⟩ گت شارءَ، ءُ آییءِ سرءَ بانگ دہ، چوکئے آیءانی شر منی دیمءَ چڑتگ.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٹ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "روت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پہ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوہ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨او⟩ شار"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "گت"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ءُ بانگ دہ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "آییءِ سرءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چوکئے"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "چڑتگ"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "آیءانی شر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "منی دیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:38:24.251063460Z",
+  "model": "glm-5.3"
+}

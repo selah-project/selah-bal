@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 20,
+  "translation": "ءُ آ یسرائیلءَ بدنام کت؛ ءُ یہوناتن، شمعاءِ زہگ، داودءِ برادر، آییءَ مارت.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "بدنام کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "آییءَ مارت"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زہگ"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شمعا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برادر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-09-25T00:28:57.224633618Z",
+  "model": "glm-5.3"
+}

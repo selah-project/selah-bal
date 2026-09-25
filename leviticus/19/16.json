@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "bal",
+  "chapter": 19,
+  "translation": "نہ پھاڑ گرئے چوں وتی قومءِ میانءَ رو؛ نہ وتی گوانڈءِ خونءِ سرءَ اِستا — من یاہوہ اَت۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "رو"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "پھاڑ گرئے چوں"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "وتی قومءِ میانءَ"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "اِستا"
+    },
+    {
+      "surface": "על",
+      "gloss": "ءِ سرءَ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خونءِ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "وتی گوانڈءِ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ اَت"
+    }
+  ],
+  "timestamp": "2026-09-24T19:21:16.564241183Z",
+  "model": "glm-5.3"
+}

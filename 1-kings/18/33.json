@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "bal",
+  "chapter": 18,
+  "translation": "ءُ لڑ چیت، ءُ ⟨את⟩ مالءَ ٹک کت، ءُ آییءَ لڑانی سرءَ مانی۔",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ءُ لڑ چیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لڑان"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "لڑان"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "ءُ ٹک کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مالءَ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "مالءَ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ءُ مانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "لڑانی"
+    }
+  ],
+  "timestamp": "2026-09-24T21:05:11.067334062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "bal",
+  "chapter": 23,
+  "translation": "ءُ اے ⟨את⟩ اسرائیلءِ تمامیں سرداران ءُ کاهنان ءُ لویان جم کت۔",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ءُ … جم کت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمامیں سرداران"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمامیں"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلءِ"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ءُ کاهنان"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ءُ لویان"
+    }
+  ],
+  "timestamp": "2026-09-25T00:30:45.444425737Z",
+  "model": "glm-5.3"
+}

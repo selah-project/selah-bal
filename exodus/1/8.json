@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ یک نوکین شاہ مِتسرایمءِ سرءَ اُستانت، کہ یوسفءَ نہ زانت ⟨את⟩۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ءُ اُستانت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شاہ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوکین"
+    },
+    {
+      "surface": "על",
+      "gloss": "سرءَ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-09-24T18:49:32.748882672Z",
+  "model": "glm-5.3"
+}

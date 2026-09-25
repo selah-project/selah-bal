@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "bal",
+  "chapter": 1,
+  "translation": "ءُ تہ اے گپءَ شمایاں تہ یاہوہ، شمایاںی ایلوہیمءَ، یقین نہ کنیت.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "ءُ تہ اے گپءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "شمایاں نہ اَنت"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "یقین کنیت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "تہ یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "شمایاںی ایلوہیمءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T19:47:09.324796378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "bal",
+  "chapter": 33,
+  "translation": "یاہوہءَ شکریہ دینت کنوارءَ گوں، نبلِ دہ تار گوں آءَءَ سرود ونت.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "شکریہ دینت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہءَ"
+    },
+    {
+      "surface": "בכנور",
+      "gloss": "کنوارءَ گوں"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "نبلءَ گوں"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "دہ تار"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "سرود ونت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آءَءَ"
+    }
+  ],
+  "timestamp": "2026-09-24T22:55:08.708611189Z",
+  "model": "glm-5.3"
+}
