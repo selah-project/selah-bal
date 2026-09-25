@@ -1,55 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "psalms 135:19",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:26:01.392413130Z",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "tier": "glm-5.2",
   "chapter": 135,
   "translation": "اے یِسرایلءِ خانوادہ، یاہوہءَ برکت دیں؛ اے اَہارونءِ خانوادہ، یاہوہءَ برکت دیں۔",
   "tokens": [
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "خانوادہ"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "یِسرایل"
     },
     {
-      "surface": "בָּרֲכוּ",
+      "surface": "ברכו",
       "gloss": "برکت دیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "gloss": "خانوادہ"
     },
     {
-      "surface": "אַהֲרֹן",
+      "surface": "אהרן",
       "gloss": "اَہارون"
     },
     {
-      "surface": "בָּרֲכוּ",
+      "surface": "ברכו",
       "gloss": "برکت دیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T23:26:01.392413130Z",
-  "model": "glm-5.3"
+  ]
 }

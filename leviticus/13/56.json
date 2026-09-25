@@ -1,103 +1,103 @@
 {
-  "tier": "glm-5.2",
-  "verse": 56,
-  "ref": "leviticus 13:56",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:27:03.490509197Z",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "tier": "glm-5.2",
   "chapter": 13,
   "translation": "ءُ اگر کوهنءَ گندیت ءُ اے زہ کہ نشان رند ءُ چہ ⟨את⟩ آییءَ دھپتگ کمڕوشن اِنت، پس ⟨את⟩ آییءَ چہ جما دڕ کیت، یا چہ چم، یا چہ تانا، یا چہ کودے.",
   "tokens": [
     {
-      "surface": "וְאִם֮",
+      "surface": "ואם",
       "gloss": "ءُ اگر"
     },
     {
-      "surface": "רָאָ֣ה",
+      "surface": "ראה",
       "gloss": "گندیت"
     },
     {
-      "surface": "הַכֹּהֵן֒",
+      "surface": "הכהן",
       "gloss": "کوهن"
     },
     {
-      "surface": "וְהִנֵּה֙",
+      "surface": "והנה",
       "gloss": "ءُ اے زہ کہ"
     },
     {
-      "surface": "כֵּהָ֣ה",
+      "surface": "כהה",
       "gloss": "کمڕوشن"
     },
     {
-      "surface": "הַנֶּ֔גַע",
+      "surface": "הנגע",
       "gloss": "نشان"
     },
     {
-      "surface": "אַחֲרֵ֖י",
+      "surface": "אחרי",
       "gloss": "رند ءُ چہ"
     },
     {
-      "surface": "הֻכַּבֵּ֣ס",
+      "surface": "הכבס",
       "gloss": "دھپتگ"
     },
     {
-      "surface": "אֹת֑וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "نشان"
     },
     {
-      "surface": "וְקָרַ֣ע",
+      "surface": "וקרע",
       "gloss": "ءُ دڕ کیت"
     },
     {
-      "surface": "אֹת֗וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "نشانءِ بہش"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַבֶּּ֨גֶד֙",
+      "surface": "הבגד",
       "gloss": "جما"
     },
     {
-      "surface": "א֣וֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָע֔וֹר",
+      "surface": "העור",
       "gloss": "چم"
     },
     {
-      "surface": "א֥וֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הַשְּׁתִ֖י",
+      "surface": "השתי",
       "gloss": "تانا"
     },
     {
-      "surface": "א֥וֹ",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "چہ"
     },
     {
-      "surface": "הָעֵֽרֶב",
+      "surface": "הערב",
       "gloss": "کودے"
     }
-  ],
-  "timestamp": "2026-09-25T23:27:03.490509197Z",
-  "model": "glm-5.3"
+  ]
 }

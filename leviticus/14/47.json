@@ -1,55 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 47,
-  "ref": "leviticus 14:47",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:27:22.492763367Z",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "ءُ آ کہ گدانءِ تہ شپ کیت، آ وتی لباس شُیت کنیت؛ ءُ آ کہ گدانءِ تہءَ گُشایت، آ وتی لباس شُیت کنیت۔",
   "tokens": [
     {
-      "surface": "וְהַשֹּׁכֵ֣ב",
+      "surface": "והשכב",
       "gloss": "ءُ آ کہ شپ کیت"
     },
     {
-      "surface": "בַּבַּ֔יִת",
+      "surface": "בבית",
       "gloss": "گدانءِ تہ"
     },
     {
-      "surface": "יְכַבֵּ֖ס",
+      "surface": "יכבס",
       "gloss": "شُیت کنیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی لباس"
     },
     {
-      "surface": "בְּגָדָ֑יו",
+      "surface": "בגדיו",
       "gloss": "وتی لباس"
     },
     {
-      "surface": "וְהָאֹכֵ֣ל",
+      "surface": "והאכל",
       "gloss": "ءُ آ کہ گُشایت"
     },
     {
-      "surface": "בַּבַּ֔יִת",
+      "surface": "בבית",
       "gloss": "گدانءِ تہءَ"
     },
     {
-      "surface": "יְכַבֵּ֖ס",
+      "surface": "יכבס",
       "gloss": "شُیت کنیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی لباس"
     },
     {
-      "surface": "בְּגָדָֽיו",
+      "surface": "בגדיו",
       "gloss": "وتی لباس"
     }
-  ],
-  "timestamp": "2026-09-25T23:27:22.492763367Z",
-  "model": "glm-5.3"
+  ]
 }

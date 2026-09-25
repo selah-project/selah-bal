@@ -1,64 +1,64 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "exodus 40:12",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:22:46.675913832Z",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "tier": "glm-5.2",
   "chapter": 40,
   "translation": "ءُ تو اَہارون ءُ ⟨את⟩ آییءِ زہگان ملاقاتءِ گدانءِ دروازہءَ گیش کن، ءُ آیانءَ ⟨את⟩ گوں آپءَ دہپ شوئیں۔",
   "tokens": [
     {
-      "surface": "וְהִקְרַבְתָּ֤",
+      "surface": "והקרבת",
       "gloss": "ءُ تو … گیش کن"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَہارون"
     },
     {
-      "surface": "אַהֲרֹן֙",
+      "surface": "אהרן",
       "gloss": "اَہارون"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ زہگان"
     },
     {
-      "surface": "בָּנָ֔יו",
+      "surface": "בניו",
       "gloss": "آییءِ زہگان"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "…ءَ"
     },
     {
-      "surface": "פֶּ֖תַח",
+      "surface": "פתח",
       "gloss": "دروازہ"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گadan"
     },
     {
-      "surface": "מוֹעֵ֑ד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וְרָחַצְתָּ֥",
+      "surface": "ורחצת",
       "gloss": "ءُ تو … دہپ شوئیں"
     },
     {
-      "surface": "אֹתָ֖ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آیانءَ",
       "marks": "اَہارون ءُ آییءِ زہگان"
     },
     {
-      "surface": "בַּמַּֽיִם",
+      "surface": "במים",
       "gloss": "گوں آپءَ"
     }
-  ],
-  "timestamp": "2026-09-25T23:22:46.675913832Z",
-  "model": "glm-5.3"
+  ]
 }

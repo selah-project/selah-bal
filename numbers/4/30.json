@@ -1,82 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
-  "ref": "numbers 4:30",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:26:26.292368893Z",
+  "verse": 30,
+  "ref": "numbers 4:30",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "چہ سی سالءِ زہگءَ ءُ چہ آییءَ رندتر، ءُ تا پنجاه سالءِ زہگءَ، اِشاںءَ شمار کن — ہر کس کہ لشکرءَ گوں کارءِ پہ روت، ⟨את⟩ ملاقاتءِ گدانءِ کارءَ بکنت.",
   "tokens": [
     {
-      "surface": "מִבֶּן",
+      "surface": "מבן",
       "gloss": "چہ سی سالءِ زہگءَ چہ"
     },
     {
-      "surface": "שְׁלֹשִׁים",
+      "surface": "שלשים",
       "gloss": "سی"
     },
     {
-      "surface": "שָׁנָה",
+      "surface": "שנה",
       "gloss": "سال"
     },
     {
-      "surface": "וָמַעְלָה",
+      "surface": "ומעלה",
       "gloss": "ءُ چہ آییءَ رندتر"
     },
     {
-      "surface": "וְעַד",
+      "surface": "ועד",
       "gloss": "ءُ تا"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "زہگءَ پنجاه سالءِ"
     },
     {
-      "surface": "חֲמִשִּׁים",
+      "surface": "חמשים",
       "gloss": "پنجاه"
     },
     {
-      "surface": "שָׁנָה",
+      "surface": "שנה",
       "gloss": "سال"
     },
     {
-      "surface": "תִּפְקְדֵם",
+      "surface": "תפקדם",
       "gloss": "اِشاںءَ شمار کن"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "ہر"
     },
     {
-      "surface": "הַבָּא",
+      "surface": "הבא",
       "gloss": "کس کہ روت"
     },
     {
-      "surface": "לַצָּבָא",
+      "surface": "לצבא",
       "gloss": "لشکرءَ"
     },
     {
-      "surface": "לַעֲבֹד",
+      "surface": "לעבד",
       "gloss": "کارءِ پہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کار"
     },
     {
-      "surface": "עֲבֹדַת",
+      "surface": "עבדת",
       "gloss": "کارءَ"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "ملاقاتءِ گدانءِ"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     }
-  ],
-  "timestamp": "2026-09-25T23:26:26.292368893Z",
-  "model": "glm-5.3"
+  ]
 }

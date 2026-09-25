@@ -1,70 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "joshua 9:20",
   "book": "joshua",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:25:38.630038542Z",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "tier": "glm-5.2",
   "chapter": 9,
   "translation": "اے چیز ما اِشاںءَ کنیں، ءُ اِشاں ⟨את⟩ زندگ دارنت، ءُ نہ بیت ماءِ سرءَ قہر سوگندی پہ کہ ما اِشاںءَ سوگند وار کت.",
   "tokens": [
     {
-      "surface": "זֹ֛את",
+      "surface": "זאת",
       "gloss": "اے چیز"
     },
     {
-      "surface": "נַעֲשֶׂ֥ה",
+      "surface": "נעשה",
       "gloss": "کونیں"
     },
     {
-      "surface": "לָהֶ֖ם",
+      "surface": "להם",
       "gloss": "اِشاںءَ"
     },
     {
-      "surface": "וְהַחֲיֵ֣ה",
+      "surface": "והחיה",
       "gloss": "ءُ زندگ دارنت"
     },
     {
-      "surface": "אוֹתָ֑ם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ اِشاں",
       "marks": "اِشاں (گِبئونیں مردم)"
     },
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ءُ نہ"
     },
     {
-      "surface": "יִֽהְיֶ֤ה",
+      "surface": "יהיה",
       "gloss": "بیت"
     },
     {
-      "surface": "עָלֵ֨ינוּ֙",
+      "surface": "עלינו",
       "gloss": "ماءِ سرءَ"
     },
     {
-      "surface": "קֶ֔צֶף",
+      "surface": "קצף",
       "gloss": "قہر"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "پہ"
     },
     {
-      "surface": "הַשְּׁבוּעָ֖ה",
+      "surface": "השבועה",
       "gloss": "سوگندی"
     },
     {
-      "surface": "אֲשֶׁר־",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "נִשְׁבַּ֥עְנוּ",
+      "surface": "נשבענו",
       "gloss": "سوگند وار کت"
     },
     {
-      "surface": "לָהֶֽם",
+      "surface": "להם",
       "gloss": "اِشاںءَ"
     }
-  ],
-  "timestamp": "2026-09-25T23:25:38.630038542Z",
-  "model": "glm-5.3"
+  ]
 }

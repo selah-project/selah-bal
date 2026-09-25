@@ -1,96 +1,96 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "genesis 42:34",
   "book": "genesis",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:23:08.526458932Z",
+  "verse": 34,
+  "ref": "genesis 42:34",
+  "tier": "glm-5.2",
   "chapter": 42,
   "translation": "ءُ شمایئیں نکیں برات مئے کِرءَ دَریں ءُ زانیت کہ تُسیں جاسوسان نہ اِنت، کہ تُسیں راست مردم اِنت؛ ⟨את⟩ شمایئیں برات تُسیءَ دِنت ءُ ⟨את⟩ زمینءَ سوداگری کنیت۔",
   "tokens": [
     {
-      "surface": "וְ֠הָבִיאוּ",
+      "surface": "והביאו",
       "gloss": "ءُ دَریں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شمایئیں برات"
     },
     {
-      "surface": "אֲחִיכֶ֣ם",
+      "surface": "אחיכם",
       "gloss": "شمایئیں برات"
     },
     {
-      "surface": "הַקָּטֹן֮",
+      "surface": "הקטן",
       "gloss": "نکیں"
     },
     {
-      "surface": "אֵלַי֒",
+      "surface": "אלי",
       "gloss": "مئے کِرءَ"
     },
     {
-      "surface": "וְאֵֽדְעָ֗ה",
+      "surface": "ואדעה",
       "gloss": "ءُ زانیت"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "לֹ֤א",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "מְרַגְּלִים֙",
+      "surface": "מרגלים",
       "gloss": "جاسوسان"
     },
     {
-      "surface": "אַתֶּ֔ם",
+      "surface": "אתם",
       "gloss": "تُسیں"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "כֵנִ֖ים",
+      "surface": "כנים",
       "gloss": "راست مردم"
     },
     {
-      "surface": "אַתֶּ֑ם",
+      "surface": "אתם",
       "gloss": "تُسیں"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "شمایئیں برات"
     },
     {
-      "surface": "אֲחִיכֶם֙",
+      "surface": "אחיכם",
       "gloss": "شمایئیں برات"
     },
     {
-      "surface": "אֶתֵּ֣ן",
+      "surface": "אתן",
       "gloss": "دِنت"
     },
     {
-      "surface": "לָכֶ֔ם",
+      "surface": "לכם",
       "gloss": "تُسیءَ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "زمین"
     },
     {
-      "surface": "הָאָ֖רֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "תִּסְחָֽרוּ",
+      "surface": "תסחרו",
       "gloss": "سوداگری کنیت"
     }
-  ],
-  "timestamp": "2026-09-25T23:23:08.526458932Z",
-  "model": "glm-5.3"
+  ]
 }

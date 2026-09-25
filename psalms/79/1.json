@@ -1,71 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "psalms 79:1",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:28:23.220536123Z",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "tier": "glm-5.2",
   "chapter": 79,
   "translation": "مزمور پہ آسپ۔ اے ایلوہیم، قوماں وتِ میرٹءَ آتگنت، اِشاں ⟨את⟩ تُوئیں پاک ہیکل پلید کت، اِشاں ⟨את⟩ یروشلم پہ ویرانیاں گَت۔",
   "tokens": [
     {
-      "surface": "מִזְמוֹר",
+      "surface": "מזמור",
       "gloss": "مزمور"
     },
     {
-      "surface": "לְאָ֫סָ֥ף",
+      "surface": "לאסף",
       "gloss": "پہ آسپ"
     },
     {
-      "surface": "אֱֽלֹהִ֡ים",
+      "surface": "אלהים",
       "gloss": "ایلوہیم"
     },
     {
-      "surface": "בָּ֤אוּ",
+      "surface": "באו",
       "gloss": "آتگنت"
     },
     {
-      "surface": "גּוֹיִ֨ם",
+      "surface": "גוים",
       "gloss": "قوماں"
     },
     {
-      "surface": "בְּֽנַחֲלָתֶ֗ךָ",
+      "surface": "בנחלתך",
       "gloss": "وتِ میرٹءَ"
     },
     {
-      "surface": "טִ֭מְּאוּ",
+      "surface": "טמאו",
       "gloss": "پلید کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "تُوئیں پاک ہیکل"
     },
     {
-      "surface": "הֵיכַ֣ל",
+      "surface": "היכל",
       "gloss": "ہیکل"
     },
     {
-      "surface": "קָֽדְשֶֽׁךָ",
+      "surface": "קדשך",
       "gloss": "پاک"
     },
     {
-      "surface": "שָׂ֖מוּ",
+      "surface": "שמו",
       "gloss": "گَت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یروشلم"
     },
     {
-      "surface": "יְרוּשָׁלִַ֣͏ם",
+      "surface": "ירושלם",
       "gloss": "یروشلم"
     },
     {
-      "surface": "לְעִיִּֽים",
+      "surface": "לעיים",
       "gloss": "پہ ویرانیاں"
     }
-  ],
-  "timestamp": "2026-09-25T23:28:23.220536123Z",
-  "model": "glm-5.3"
+  ]
 }

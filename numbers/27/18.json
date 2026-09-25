@@ -1,9 +1,11 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "numbers 27:18",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:26:46.336207037Z",
+  "verse": 18,
+  "ref": "numbers 27:18",
+  "tier": "glm-5.2",
   "chapter": 27,
   "translation": "ءُ یاہوہءَ موشہءَ گوَشت: آءُ زہگِ نون، یکے کہ تہ آیی روح اِنت، گپ — ءُ وتِ دست آءُ آییءِ سرءَ دگر.",
   "tokens": [
@@ -45,7 +47,7 @@
       "gloss": "زہگِ"
     },
     {
-      "surface": "نון",
+      "surface": "נון",
       "gloss": "نون"
     },
     {
@@ -81,7 +83,5 @@
       "surface": "עליו",
       "gloss": "آییءِ سرءَ"
     }
-  ],
-  "timestamp": "2026-09-25T23:26:46.336207037Z",
-  "model": "glm-5.3"
+  ]
 }

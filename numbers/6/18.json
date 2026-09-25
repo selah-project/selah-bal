@@ -1,95 +1,95 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "numbers 6:18",
   "book": "numbers",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:25:56.628965599Z",
+  "verse": 18,
+  "ref": "numbers 6:18",
+  "tier": "glm-5.2",
   "chapter": 6,
   "translation": "ءُ نذیری ملاقاتءِ گودءِ دروازہءَ ⟨את⟩ وتی نذریءِ سر کینگ گنیت، ءُ ⟨את⟩ وتی نذریءِ سرءِ کینگ گپیت، ءُ گِشت دیت آتشءِ سرءَ، آ گود کہ شالومانی قربانیءِ تہءَ اِنت۔",
   "tokens": [
     {
-      "surface": "וְגִלַּח",
+      "surface": "וגלח",
       "gloss": "ءُ کینگ گنیت"
     },
     {
-      "surface": "הַנָּזִיר",
+      "surface": "הנזיר",
       "gloss": "نذیری"
     },
     {
-      "surface": "פֶּתַח",
+      "surface": "פתח",
       "gloss": "دروازہءَ"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گودءِ"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی نذریءِ سر"
     },
     {
-      "surface": "רֹאשׁ",
+      "surface": "ראש",
       "gloss": "سر"
     },
     {
-      "surface": "נִזְרוֹ",
+      "surface": "נזרו",
       "gloss": "وتی نذریءِ"
     },
     {
-      "surface": "וְלָקַח",
+      "surface": "ולקח",
       "gloss": "ءُ گپیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتی نذریءِ سرءِ کینگ"
     },
     {
-      "surface": "שְׂעַר",
+      "surface": "שער",
       "gloss": "کینگ"
     },
     {
-      "surface": "רֹאשׁ",
+      "surface": "ראש",
       "gloss": "سرءِ"
     },
     {
-      "surface": "נִזְרוֹ",
+      "surface": "נזרו",
       "gloss": "وتی نذریءِ"
     },
     {
-      "surface": "וְנָתַן",
+      "surface": "ונתן",
       "gloss": "ءُ گِشت دیت"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הָאֵשׁ",
+      "surface": "האש",
       "gloss": "آتشءِ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ گود کہ"
     },
     {
-      "surface": "תַּחַת",
+      "surface": "תחת",
       "gloss": "تہءَ"
     },
     {
-      "surface": "זֶבַח",
+      "surface": "זבח",
       "gloss": "قربانیءِ"
     },
     {
-      "surface": "הַשְּׁלָמִים",
+      "surface": "השלמים",
       "gloss": "شالومانی"
     }
-  ],
-  "timestamp": "2026-09-25T23:25:56.628965599Z",
-  "model": "glm-5.3"
+  ]
 }
