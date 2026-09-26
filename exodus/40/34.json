@@ -1,55 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
-  "ref": "exodus 40:34",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-26T00:03:18.750061955Z",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "tier": "glm-5.2",
   "chapter": 40,
   "translation": "ءُ بادلءَ ملاقاتءِ گدان ⟨את⟩ پُشیت، ءُ یاہوہءِ شان ⟨את⟩ مِشکان پُر کت.",
   "tokens": [
     {
-      "surface": "וַיְכַ֥ס",
+      "surface": "ויכס",
       "gloss": "ءُ پُشیت"
     },
     {
-      "surface": "הֶעָנָ֖ן",
+      "surface": "הענן",
       "gloss": "بادلءَ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ملاقاتءِ گدان"
     },
     {
-      "surface": "אֹ֣הֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵ֑ד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וּכְב֣וֹד",
+      "surface": "וכבוד",
       "gloss": "ءُ شان"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     },
     {
-      "surface": "מָלֵ֖א",
+      "surface": "מלא",
       "gloss": "پُر کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "مِشکان"
     },
     {
-      "surface": "הַמִּשְׁכָּֽן",
+      "surface": "המשכן",
       "gloss": "مِشکان"
     }
-  ],
-  "timestamp": "2026-09-26T00:03:18.750061955Z",
-  "model": "glm-5.3"
+  ]
 }
