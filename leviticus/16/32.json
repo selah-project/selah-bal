@@ -1,88 +1,88 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "leviticus 16:32",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:45:11.561232326Z",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "tier": "glm-5.2",
   "chapter": 16,
   "translation": "ءُ کاہن کفارت کنت، آ کہ مسح بوت ⟨את⟩ آییءَ ءُ آ کہ آییءِ دست پور کت ⟨את⟩ آییءِ دستءَ پہ کاہنیءَ آییءِ پتءِ جاگہءَ، ءُ آ پوشیت ⟨את⟩ کتانءِ جامهان، مقدسءِ جامهانءَ۔",
   "tokens": [
     {
-      "surface": "וְכִפֶּר",
+      "surface": "וכפר",
       "gloss": "ءُ کفارت کنت"
     },
     {
-      "surface": "הַכֹּהֵן",
+      "surface": "הכהן",
       "gloss": "کاہن"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "آ کہ"
     },
     {
-      "surface": "יִמְשַׁח",
+      "surface": "ימשח",
       "gloss": "مسح بوت"
     },
     {
-      "surface": "אֹתוֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "آ کہ مسح بوت"
     },
     {
-      "surface": "וַאֲשֶׁר",
+      "surface": "ואשר",
       "gloss": "ءُ آ کہ"
     },
     {
-      "surface": "יְמַלֵּא",
+      "surface": "ימלא",
       "gloss": "پور کت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "آییءِ دستءَ"
     },
     {
-      "surface": "יָדוֹ",
+      "surface": "ידו",
       "gloss": "آییءِ دست"
     },
     {
-      "surface": "לְכַהֵן",
+      "surface": "לכהן",
       "gloss": "پہ کاہنیءَ"
     },
     {
-      "surface": "תַּחַת",
+      "surface": "תחת",
       "gloss": "جاگہءَ"
     },
     {
-      "surface": "אָבִיו",
+      "surface": "אביו",
       "gloss": "آییءِ پت"
     },
     {
-      "surface": "וְלָבַשׁ",
+      "surface": "ולבש",
       "gloss": "ءُ پوشیت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "کتانءِ جامهانءَ"
     },
     {
-      "surface": "בִּגְדֵי",
+      "surface": "בגדי",
       "gloss": "جامهان"
     },
     {
-      "surface": "הַבָּד",
+      "surface": "הבד",
       "gloss": "کتانءِ"
     },
     {
-      "surface": "בִּגְדֵי",
+      "surface": "בגדי",
       "gloss": "جامهان"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "مقدسءِ"
     }
-  ],
-  "timestamp": "2026-09-25T23:45:11.561232326Z",
-  "model": "glm-5.3"
+  ]
 }

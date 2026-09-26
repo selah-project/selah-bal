@@ -1,88 +1,88 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
-  "ref": "deuteronomy 11:31",
   "book": "deuteronomy",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:42:46.283432671Z",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "tier": "glm-5.2",
   "chapter": 11,
   "translation": "کہ شما یَردنءَ ⟨את⟩ پار کنیں اَنت پہ آتکءَ ءُ پہ مال گرگءَ ⟨את⟩ زمین کہ یاہوہ، شماءِ ایلوہیم، شماءَ دیت اَنت، ءُ آ ⟨את⟩ آییءَ مال کنیں ءُ تہ آییءَ نیشیں.",
   "tokens": [
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "کہ"
     },
     {
-      "surface": "אַתֶּם",
+      "surface": "אתם",
       "gloss": "شما"
     },
     {
-      "surface": "עֹבְרִים",
+      "surface": "עברים",
       "gloss": "پار کنیں اَنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یَردن"
     },
     {
-      "surface": "הַיַּרְדֵּן",
+      "surface": "הירדן",
       "gloss": "یَردن"
     },
     {
-      "surface": "לָבֹא",
+      "surface": "לבא",
       "gloss": "پہ آتکءَ"
     },
     {
-      "surface": "לָרֶשֶׁת",
+      "surface": "לרשת",
       "gloss": "پہ مال گرگءَ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زمین"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "زمین"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "אֱלֹהֵיכֶם",
+      "surface": "אלהיכם",
       "gloss": "شماءِ ایلوہیم"
     },
     {
-      "surface": "נֹתֵן",
+      "surface": "נתן",
       "gloss": "دیت اَنت"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "شماءَ"
     },
     {
-      "surface": "וִירִשְׁתֶּם",
+      "surface": "וירשתם",
       "gloss": "ءُ مال کنیں"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آییءَ",
       "marks": "مال کنیں"
     },
     {
-      "surface": "וְיָשַׁבְתֶּם",
+      "surface": "וישבתם",
       "gloss": "ءُ نیشیں"
     },
     {
-      "surface": "בָּהּ",
+      "surface": "בה",
       "gloss": "تہ آییءَ"
     }
-  ],
-  "timestamp": "2026-09-25T23:42:46.283432671Z",
-  "model": "glm-5.3"
+  ]
 }

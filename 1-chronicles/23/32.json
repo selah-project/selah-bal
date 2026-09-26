@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "1-chronicles 23:32",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:42:33.971439792Z",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "ءُ اِشاں ملاقاتءِ گدانءِ پاسبانی، ءُ ⟨את⟩ پاسبانی مقدسءِ، ءُ پاسبانی اَہارونءِ زہگانی — اِشاںءِ براتانی — یاہوہءِ گدانی کارءِ پہ نگہ بیت۔",
   "tokens": [
     {
-      "surface": "וְשָׁמְר֞וּ",
+      "surface": "ושמרו",
       "gloss": "ءُ نگہ بیت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پاسبانیءِ"
     },
     {
-      "surface": "מִשְׁמֶ֣רֶת",
+      "surface": "משמרת",
       "gloss": "پاسبانی"
     },
     {
-      "surface": "אֹֽהֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵ֗ד",
+      "surface": "מועד",
       "gloss": "ملاقاتءِ"
     },
     {
-      "surface": "וְאֵת֙",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پاسبانیءِ"
     },
     {
-      "surface": "מִשְׁמֶ֣רֶת",
+      "surface": "משמרת",
       "gloss": "پاسبانی"
     },
     {
-      "surface": "הַקֹּ֔דֶשׁ",
+      "surface": "הקדש",
       "gloss": "مقدسءِ"
     },
     {
-      "surface": "וּמִשְׁמֶ֕רֶת",
+      "surface": "ומשמרת",
       "gloss": "ءُ پاسبانی"
     },
     {
-      "surface": "בְּנֵ֥י",
+      "surface": "בני",
       "gloss": "زہگانِ"
     },
     {
-      "surface": "אַהֲרֹ֖ן",
+      "surface": "אהרן",
       "gloss": "اَہارونءِ"
     },
     {
-      "surface": "אֲחֵיהֶ֑ם",
+      "surface": "אחיהם",
       "gloss": "اِشاںءِ براتان"
     },
     {
-      "surface": "לַעֲבֹדַ֖ת",
+      "surface": "לעבדת",
       "gloss": "کارءِ پہ"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "گدانِ"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-25T23:42:33.971439792Z",
-  "model": "glm-5.3"
+  ]
 }

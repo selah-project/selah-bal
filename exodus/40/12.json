@@ -1,64 +1,64 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "exodus 40:12",
   "book": "exodus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:42:31.054397536Z",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "tier": "glm-5.2",
   "chapter": 40,
   "translation": "ءُ تو ہارونءَ ءُ ⟨את⟩ آییءِ زہگان ملاقاتءِ گدانءِ دروازہءَ لڑ کنت، ءُ آناں ⟨את⟩ آپءَ دہیں",
   "tokens": [
     {
-      "surface": "וְהִקְרַבְתָּ",
+      "surface": "והקרבת",
       "gloss": "ءُ لڑ کنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ہارون"
     },
     {
-      "surface": "אַהֲרֹן",
+      "surface": "אהרן",
       "gloss": "ہارون"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ زہگان"
     },
     {
-      "surface": "בָּנָיו",
+      "surface": "בניו",
       "gloss": "آییءِ زہگان"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "اَل"
     },
     {
-      "surface": "פֶּתַח",
+      "surface": "פתח",
       "gloss": "دروازہ"
     },
     {
-      "surface": "אֹהֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     },
     {
-      "surface": "וְרָחַצְתָּ",
+      "surface": "ורחצת",
       "gloss": "ءُ دہیں"
     },
     {
-      "surface": "אֹתָם",
+      "surface": "אתם",
       "gloss": "⟨את⟩ آناں",
       "marks": "آناں (ہارون ءُ آییءِ زہگان)"
     },
     {
-      "surface": "בַּמַּיִם",
+      "surface": "במים",
       "gloss": "آپءَ"
     }
-  ],
-  "timestamp": "2026-09-25T23:42:31.054397536Z",
-  "model": "glm-5.3"
+  ]
 }

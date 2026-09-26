@@ -1,55 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
-  "ref": "psalms 135:19",
   "book": "psalms",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:44:43.205290494Z",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "tier": "glm-5.2",
   "chapter": 135,
   "translation": "اے یسرائیلءِ گدان، یاہوہءَ برکت دہ؛ اے اہرونءِ گدان، یاہوہءَ برکت دہ۔",
   "tokens": [
     {
-      "surface": "בֵּ֣ית",
+      "surface": "בית",
       "gloss": "اے …ءِ گدان"
     },
     {
-      "surface": "יִׂשְׂרָאֵ֭ל",
+      "surface": "ישראל",
       "gloss": "یسرائیل"
     },
     {
-      "surface": "בָּרֲכ֣וּ",
+      "surface": "ברכו",
       "gloss": "برکت دہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءَ"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "اے …ءِ گدان"
     },
     {
-      "surface": "אַ֝הֲרֹ֗ן",
+      "surface": "אהרן",
       "gloss": "اہرون"
     },
     {
-      "surface": "בָּרֲכ֥וּ",
+      "surface": "ברכו",
       "gloss": "برکت دہ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "یاہوہءَ"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہ"
     }
-  ],
-  "timestamp": "2026-09-25T23:44:43.205290494Z",
-  "model": "glm-5.3"
+  ]
 }

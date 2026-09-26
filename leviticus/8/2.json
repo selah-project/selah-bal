@@ -1,100 +1,100 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "leviticus 8:2",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:46:55.677139095Z",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "tier": "glm-5.2",
   "chapter": 8,
   "translation": "اَہارونءَ ءُ ⟨את⟩ آییءِ زہگان ⟨את⟩ گوں آییءَ گر، ءُ ⟨את⟩ پوشاکان، ءُ ⟨את⟩ مسحءِ تیل، ءُ ⟨את⟩ گنہاہءِ گائے، ءُ ⟨את⟩ دو نر گوسپیت، ءُ ⟨את⟩ بےپستءِ کوندی؛",
   "tokens": [
     {
-      "surface": "קַ֤ח",
+      "surface": "קח",
       "gloss": "گر"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "اَہارونءَ"
     },
     {
-      "surface": "אַהֲרֹן֙",
+      "surface": "אהרן",
       "gloss": "اَہارونءَ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "آییءِ زہگان"
     },
     {
-      "surface": "בָּנָ֣יו",
+      "surface": "בניו",
       "gloss": "آییءِ زہگان"
     },
     {
-      "surface": "אִתּ֔וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩ گوں آییءَ"
     },
     {
-      "surface": "וְאֵת֙",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پوشاکان"
     },
     {
-      "surface": "הַבְּגָדִ֔ים",
+      "surface": "הבגדים",
       "gloss": "پوشاکان"
     },
     {
-      "surface": "וְאֵ֖ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "مسحءِ تیل"
     },
     {
-      "surface": "שֶׁ֣מֶן",
+      "surface": "שמן",
       "gloss": "تیل"
     },
     {
-      "surface": "הַמִּשְׁחָ֑ה",
+      "surface": "המשחה",
       "gloss": "مسحءِ"
     },
     {
-      "surface": "וְאֵ֣ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "گنہاہءِ گائے"
     },
     {
-      "surface": "פַּ֣ר",
+      "surface": "פר",
       "gloss": "گائے"
     },
     {
-      "surface": "הַחַטָּ֗את",
+      "surface": "החטאת",
       "gloss": "گنہاہءِ"
     },
     {
-      "surface": "וְאֵת֙",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "دو نر گوسپیت"
     },
     {
-      "surface": "שְׁנֵ֣י",
+      "surface": "שני",
       "gloss": "دو"
     },
     {
-      "surface": "הָֽאֵילִ֔ים",
+      "surface": "האילים",
       "gloss": "نر گوسپیت"
     },
     {
-      "surface": "וְאֵ֖ת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "بےپستءِ کوندی"
     },
     {
-      "surface": "סַ֥ל",
+      "surface": "סל",
       "gloss": "کوندی"
     },
     {
-      "surface": "הַמַּצּֽוֹת",
+      "surface": "המצות",
       "gloss": "بےپستءِ"
     }
-  ],
-  "timestamp": "2026-09-25T23:46:55.677139095Z",
-  "model": "glm-5.3"
+  ]
 }

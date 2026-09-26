@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
-  "ref": "leviticus 4:33",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-25T23:45:57.527427024Z",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "tier": "glm-5.2",
   "chapter": 4,
   "translation": "ءُ وتءِ دست ⟨את⟩ گنہ قربانیءِ سرءَ گشت، ءُ آیءَ ⟨את⟩ گنہ قربانیءِ پہ اُو جاگہءَ سرا کنت کہ سوچگیں قربانیءَ ⟨את⟩ اُو جاگہءَ سرا کنت.",
   "tokens": [
     {
-      "surface": "וְסָמַךְ",
+      "surface": "וסמך",
       "gloss": "ءُ … گشت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "وتءِ دست"
     },
     {
-      "surface": "יָדוֹ",
+      "surface": "ידו",
       "gloss": "وتءِ دست"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "…ءِ سرءَ"
     },
     {
-      "surface": "רֹאשׁ",
+      "surface": "ראש",
       "gloss": "سر"
     },
     {
-      "surface": "הַחַטָּאת",
+      "surface": "החטאת",
       "gloss": "گنہ قربانی"
     },
     {
-      "surface": "וְשָׁחַט",
+      "surface": "ושחט",
       "gloss": "ءُ … سرا کنت"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "آیءَ ⟨את⟩",
       "marks": "گنہ قربانی"
     },
     {
-      "surface": "לְחַטָּאת",
+      "surface": "לחטאת",
       "gloss": "گنہ قربانیءِ پہ"
     },
     {
-      "surface": "בִּמְקוֹם",
+      "surface": "במקום",
       "gloss": "اُو جاگہءَ"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "کہ"
     },
     {
-      "surface": "יִשְׁחַט",
+      "surface": "ישחט",
       "gloss": "سرا کنت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "سوچگیں قربانیءَ"
     },
     {
-      "surface": "הָעֹלָה",
+      "surface": "העלה",
       "gloss": "سوچگیں قربانیءَ"
     }
-  ],
-  "timestamp": "2026-09-25T23:45:57.527427024Z",
-  "model": "glm-5.3"
+  ]
 }
