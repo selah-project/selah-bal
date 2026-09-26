@@ -1,114 +1,114 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
-  "ref": "leviticus 14:6",
   "book": "leviticus",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-26T00:13:43.641517446Z",
+  "verse": 6,
+  "ref": "leviticus 14:6",
+  "tier": "glm-5.2",
   "chapter": 14,
   "translation": "⟨את⟩ زندگیں مرگ آ گرنت آءِ، ءُ ⟨את⟩ عرزی دار ءُ ⟨את⟩ شنی تُلنگ ءُ ⟨את⟩ اَزوب، ءُ آءِتان ءُ ⟨את⟩ زندگیں مرگ لُٹیت کشتیں مرگی رینءَ تہ، زندگیں آپانی سرءَ.",
   "tokens": [
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "زندگیں مرگ"
     },
     {
-      "surface": "הַצִּפֹּר",
+      "surface": "הצפר",
       "gloss": "مرگ"
     },
     {
-      "surface": "הַחַיָּה",
+      "surface": "החיה",
       "gloss": "زندگیں"
     },
     {
-      "surface": "יִקַּח",
+      "surface": "יקח",
       "gloss": "گرنت"
     },
     {
-      "surface": "אֹתָהּ",
+      "surface": "אתה",
       "gloss": "⟨את⟩ آءِ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "عرزی دار"
     },
     {
-      "surface": "עֵץ",
+      "surface": "עץ",
       "gloss": "دار"
     },
     {
-      "surface": "הָאֶרֶז",
+      "surface": "הארז",
       "gloss": "عرزی"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "شنی تُلنگ"
     },
     {
-      "surface": "שְׁנִי",
+      "surface": "שני",
       "gloss": "شنی"
     },
     {
-      "surface": "הַתּוֹלַעַת",
+      "surface": "התולעת",
       "gloss": "تُلنگ"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "اَزوب"
     },
     {
-      "surface": "הָאֵזֹב",
+      "surface": "האזב",
       "gloss": "اَزوب"
     },
     {
-      "surface": "וְטָבַל",
+      "surface": "וטבל",
       "gloss": "ءُ لُٹیت"
     },
     {
-      "surface": "אוֹתָם",
+      "surface": "אותם",
       "gloss": "⟨את⟩ آءِتان"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "زندگیں مرگ"
     },
     {
-      "surface": "הַצִּפֹּר",
+      "surface": "הצפר",
       "gloss": "مرگ"
     },
     {
-      "surface": "הַחַיָּה",
+      "surface": "החיה",
       "gloss": "زندگیں"
     },
     {
-      "surface": "בְּדַם",
+      "surface": "בדם",
       "gloss": "رینءَ تہ"
     },
     {
-      "surface": "הַצִּפֹּר",
+      "surface": "הצפר",
       "gloss": "مرگی"
     },
     {
-      "surface": "הַשְּׁחֻטָה",
+      "surface": "השחטה",
       "gloss": "کشتیں"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "سرءَ"
     },
     {
-      "surface": "הַמַּיִם",
+      "surface": "המים",
       "gloss": "آپانی"
     },
     {
-      "surface": "הַחַיִּים",
+      "surface": "החיים",
       "gloss": "زندگیں"
     }
-  ],
-  "timestamp": "2026-09-26T00:13:43.641517446Z",
-  "model": "glm-5.3"
+  ]
 }

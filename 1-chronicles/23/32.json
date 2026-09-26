@@ -1,75 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
-  "ref": "1-chronicles 23:32",
   "book": "1-chronicles",
   "lang": "bal",
+  "model": "glm-5.3",
+  "timestamp": "2026-09-26T00:11:35.124831440Z",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "tier": "glm-5.2",
   "chapter": 23,
   "translation": "ءُ اِشاں ملاقاتءِ گدانءِ پہاریءَ ءُ ⟨את⟩ پہاری قدسءِ بچار کننت ءُ ہارونءِ زہگانی پہاری، اِشانیءِ براتان، پہ یاہوہءِ گُدیءِ کارءِ۔",
   "tokens": [
     {
-      "surface": "וְשָׁמְר֞וּ",
+      "surface": "ושמרו",
       "gloss": "ءُ اِشاں بچار کننت"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "پہاریءَ"
     },
     {
-      "surface": "מִשְׁמֶ֣רֶת",
+      "surface": "משמרת",
       "gloss": "پہاری"
     },
     {
-      "surface": "אֹֽהֶל",
+      "surface": "אהל",
       "gloss": "گدان"
     },
     {
-      "surface": "מוֹעֵ֗ד",
+      "surface": "מועד",
       "gloss": "ملاقات"
     },
     {
-      "surface": "וְאֵת֙",
+      "surface": "ואת",
       "gloss": "ءُ ⟨את⟩",
       "marks": "پہاریءَ"
     },
     {
-      "surface": "מִשְׁמֶ֣רֶת",
+      "surface": "משמרת",
       "gloss": "پہاری"
     },
     {
-      "surface": "הַקֹּ֔דֶשׁ",
+      "surface": "הקדש",
       "gloss": "قدسءِ"
     },
     {
-      "surface": "וּמִשְׁמֶ֕רֶת",
+      "surface": "ומשמרת",
       "gloss": "ءُ پہاری"
     },
     {
-      "surface": "בְּנֵ֥י",
+      "surface": "בני",
       "gloss": "زہگان"
     },
     {
-      "surface": "אַהֲרֹ֖ן",
+      "surface": "אהרן",
       "gloss": "ہارونءِ"
     },
     {
-      "surface": "אֲחֵיהֶ֑ם",
+      "surface": "אחיהם",
       "gloss": "اِشانیءِ براتان"
     },
     {
-      "surface": "לַעֲבֹדַ֖ת",
+      "surface": "לעבדת",
       "gloss": "پہ … کارءِ"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "gloss": "گُدی"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "یاہوہءِ"
     }
-  ],
-  "timestamp": "2026-09-26T00:11:35.124831440Z",
-  "model": "glm-5.3"
+  ]
 }
